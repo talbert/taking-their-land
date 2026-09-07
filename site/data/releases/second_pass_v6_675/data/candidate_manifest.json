@@ -1,0 +1,57 @@
+{
+  "schema": "post-v5-corrected-successor-candidate-manifest-v1",
+  "status": "reproducible_candidate_not_active",
+  "candidate": "post_v5_corrected_successor_675",
+  "immutable_base": "second_pass_v5_676",
+  "active_events": 675,
+  "corpus_rows": 748,
+  "inactive_audit_rows": 73,
+  "dimensions": 60,
+  "score_cells": 40500,
+  "retired_active_events": [
+    "atlas-indo-aryan-migration"
+  ],
+  "renamed_event_ids": {
+    "early-neo-assyrian-ashurnasirpal-tumme-habhu-883": {
+      "candidate_event_id": "early-neo-assyrian-ashurnasirpal-tumme-habhu",
+      "kind": "statistical_event_id_alias",
+      "reason": "The old suffix falsely resolves the ORACC 882 versus Sano 883 chronology conflict."
+    },
+    "early-neo-assyrian-ashurnasirpal-nipur-pasate-883": {
+      "candidate_event_id": "early-neo-assyrian-ashurnasirpal-nipur-pasate",
+      "kind": "statistical_event_id_alias",
+      "reason": "The old suffix falsely resolves the ORACC 882 versus Sano 883 chronology conflict."
+    }
+  },
+  "applied_cell_patches": 117,
+  "cell_counts": {
+    "numeric": 32565,
+    "U": 6187,
+    "NA": 1748
+  },
+  "family_overrides": {
+    "early-neo-assyrian-ashurnasirpal-nipur-pasate": "conquest_and_incorporation",
+    "early-neo-assyrian-ashurnasirpal-tumme-habhu": "conquest_and_incorporation",
+    "early-neo-assyrian-ashurnasirpal-zamua-881": "conquest_and_incorporation"
+  },
+  "input_sha256": {
+    "analysis/second_pass/v5/post_v5_correction_application_v1/build_successor_candidate.py": "69e80ab2fa6d7b875b8eeec1d01f58c3d0d227833c341cdbf44fd32cf413652f",
+    "analysis/second_pass/v5/post_v5_correction_application_v1/CORRECTION_PLAN.json": "36cbbc8d72ad1ce873c128526f96b23fd647e6d542e04f435651966f98d60cd3",
+    "analysis/second_pass/v5/post_v5_correction_application_v1/CELL_PATCHES.csv": "19583f997864ab14a6decbca80a3c7113486565d2e01842f42c86825190e0013",
+    "analysis/second_pass/v5/post_v5_correction_application_v1/CELL_PATCH_SUMMARY.json": "a6c288a9c58e473b7646fe6fa036afc639ee38d9c0ea1d4232c521a0d12528c1",
+    "analysis/second_pass/releases/second_pass_v5_676/release_manifest.json": "1d464665ae65d2f807dfde008b8e56634b011b35013e3d3d730b654cde4ef761",
+    "analysis/second_pass/releases/second_pass_v5_676/data/corpus_v2.json": "b8e1b7a90c43a4525a805b236e3295dff55956af56a9cf99ac7be30f43e60f68",
+    "analysis/second_pass/releases/second_pass_v5_676/data/scores_v2.csv": "3b1c90c7b7c1c4ad8a4f0ec5444f890951f5fb08f877c7fd11ef01dc951ffb14",
+    "analysis/second_pass/releases/second_pass_v5_676/data/na_types_v2.csv": "dae1a7426aa63679f73add66c3eddf7159b552f10396b43816469f994fabb2d2"
+  },
+  "output_sha256": {
+    "data/corpus_v2.json": "6b54b4f159a20b51c3389a4d4290dabf613a2f0159f9d517c67eac647ebe6a3d",
+    "data/scores_v2.csv": "70b004bc0b9526d928c48049d04036e2d8dd89f1c27a92cbca68c6f769f6d51c",
+    "data/na_types_v2.csv": "78d9ef238a381dd592c754b8723bb6fc7deb4c3959472f35c89c3e5ded669eea",
+    "id_aliases.json": "43905b76d5828ad88c74aadbe617040d48965c516a36d591a252a5e01757236d"
+  },
+  "candidate_activation_authorized": false,
+  "release_authorized": false,
+  "atlas_change_authorized": false,
+  "deployment_authorized": false
+}

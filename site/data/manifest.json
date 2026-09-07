@@ -1,0 +1,608 @@
+{
+  "status": "public_working_data_snapshot",
+  "build_id": "20260906a",
+  "published_at": "2026-09-06T21:00:38Z",
+  "active_release": "second_pass_v6_675",
+  "active_events": 675,
+  "file_count": 59,
+  "license_scope": "Original structured research fields: CC-BY-4.0; original narrative prose and graphics: CC-BY-SA-4.0; original software: MIT. Third-party quotations, code, and map data retain their own terms. See LICENSE.md and THIRD_PARTY_NOTICES.md; file format alone does not determine all rights.",
+  "rights_notice": "LICENSE.md",
+  "exclusions": [
+    "unpromoted candidates and unfinished future research",
+    "copyrighted source PDFs and browser captures",
+    "scratch and temporary files",
+    "raw model/coder journals"
+  ],
+  "files": [
+    {
+      "category": "licensing",
+      "public_path": "LICENSE.md",
+      "source_path": "LICENSE.md",
+      "bytes": 4540,
+      "sha256": "4cc5e22ed25e9870fe7ad7c5d71d154e29f21041b84e46d70d07ae4857286c9e",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "licensing",
+      "public_path": "LICENSES/CC-BY-4.0.txt",
+      "source_path": "LICENSES/CC-BY-4.0.txt",
+      "bytes": 18656,
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94",
+      "media_type": "text/plain",
+      "component_licenses": "License text; see file",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "licensing",
+      "public_path": "LICENSES/CC-BY-SA-4.0.txt",
+      "source_path": "LICENSES/CC-BY-SA-4.0.txt",
+      "bytes": 20137,
+      "sha256": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
+      "media_type": "text/plain",
+      "component_licenses": "License text; see file",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "licensing",
+      "public_path": "LICENSES/MIT.txt",
+      "source_path": "LICENSES/MIT.txt",
+      "bytes": 1070,
+      "sha256": "9f073e0d2c33e33de5a10f5699795c15a8a332837495c391b4d05535a34059b4",
+      "media_type": "text/plain",
+      "component_licenses": "License text; see file",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "licensing",
+      "public_path": "LICENSES/d3-geo-LICENSE.txt",
+      "source_path": "LICENSES/d3-geo-LICENSE.txt",
+      "bytes": 1857,
+      "sha256": "3e3edc1224eec9c39cd26491a21304a62883c1e5b6a65c5283ccc7a6cc94baee",
+      "media_type": "text/plain",
+      "component_licenses": "License text; see file",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "licensing",
+      "public_path": "LICENSES/d3-interpolate-LICENSE.txt",
+      "source_path": "LICENSES/d3-interpolate-LICENSE.txt",
+      "bytes": 731,
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "media_type": "text/plain",
+      "component_licenses": "License text; see file",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "licensing",
+      "public_path": "THIRD_PARTY_NOTICES.md",
+      "source_path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 3436,
+      "sha256": "8dc0cdf57c1613c36d0e59791f98f12d9e53b89e16aabf2c5d2b6c6852499b63",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "atlas",
+      "public_path": "atlas/existing_atlas_cases.json",
+      "source_path": "audit/existing_atlas_cases.json",
+      "bytes": 973912,
+      "sha256": "76f9b1fb9b486423b5b032e004c570a244c346ad33f75193906e91cd24f3165f",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "atlas",
+      "public_path": "atlas/existing_atlas_inventory.csv",
+      "source_path": "audit/existing_atlas_inventory.csv",
+      "bytes": 319273,
+      "sha256": "6b0a7c81a46f25fd4473b114a912c9caee5717fa0c9f68c8e20085fd5ccf0b0f",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "atlas",
+      "public_path": "atlas/existing_atlas_summary.json",
+      "source_path": "audit/existing_atlas_summary.json",
+      "bytes": 17860,
+      "sha256": "b495db2bbf0961e9e4a346e1b4e65784e57ac05ae0647aad6e0d80f3f238e14f",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "bibliography",
+      "public_path": "bibliography/bibliography_census.csv",
+      "source_path": "monograph/bibliography_census.csv",
+      "bytes": 149898,
+      "sha256": "25e8a286e0f4342c0d4a08b288dcb04316c7096e7a146ae0158f91c3754a6a8c",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "bibliography",
+      "public_path": "bibliography/bibliography_review_queue.csv",
+      "source_path": "monograph/bibliography_review_queue.csv",
+      "bytes": 5055,
+      "sha256": "efd71000e723b19bfd1a25a5de681ba051f9619ac7b8d86aa432f0e8252c5aa8",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "bibliography",
+      "public_path": "bibliography/bibliography_works.csv",
+      "source_path": "monograph/bibliography_works.csv",
+      "bytes": 218464,
+      "sha256": "8a5340e21de2cef5c113dac00608225dcfd6daa94bebf4ca72fa96c82a8c7ed1",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "bibliography",
+      "public_path": "bibliography/source_inventory.json",
+      "source_path": "audit/sources.json",
+      "bytes": 79003,
+      "sha256": "70ae9bf4d3d879a78e3541a58741f77642e21b8685c7a00dffc7484fddc07875",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/ACTIVE_STATISTICAL_RELEASE.json",
+      "source_path": "analysis/second_pass/ACTIVE_STATISTICAL_RELEASE.json",
+      "bytes": 659,
+      "sha256": "44bfe0fa84892c3be4ff31514bc0ebfcbc4cbdd53ebf8a632aa7ae3ea7689562",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/ATLAS_AUTHORING_BATCH_23_ADJUDICATION.md",
+      "source_path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_23_ADJUDICATION.md",
+      "bytes": 3815,
+      "sha256": "ccf5f336cf58f06b01e57bfd1a370d37226d5e925190bc775e4321121e22a5d1",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/CONTENT_STATISTICAL_OPEN_LOOPS.md",
+      "source_path": "analysis/second_pass/CONTENT_STATISTICAL_OPEN_LOOPS.md",
+      "bytes": 149615,
+      "sha256": "29cab15ec3d03ab7f5b798be7524cd822fb7ae57225f1fabd91e3087621d6271",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/COVERAGE_DUE_DILIGENCE.md",
+      "source_path": "audit/COVERAGE_DUE_DILIGENCE.md",
+      "bytes": 21657,
+      "sha256": "2f4f71b195233b54533138de37c6d0e38fb25bf175ae0ab46b8726a7b8456dc5",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/EIGHT_TRAIT_CARD_SCORING.md",
+      "source_path": "analysis/second_pass/EIGHT_TRAIT_CARD_SCORING.md",
+      "bytes": 13835,
+      "sha256": "b6c4c1725a7818ba6fb71a6aeab14756c6bab48d3207eceb802f2e536ce83f1a",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/EVENT_UNIT_FAIRNESS_AND_RESOLUTION_PROTOCOL.md",
+      "source_path": "analysis/second_pass/EVENT_UNIT_FAIRNESS_AND_RESOLUTION_PROTOCOL.md",
+      "bytes": 11905,
+      "sha256": "c6b4de17601475a6a445c6c96665f07b9b9244b4797a6a70484ff602c883afc0",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/ROMAN_WRAPPER_ATLAS_AUTHORING_STATUS.md",
+      "source_path": "analysis/second_pass/ROMAN_WRAPPER_ATLAS_AUTHORING_STATUS.md",
+      "bytes": 2547,
+      "sha256": "be52d589a7c753f4f217587239e46d4351ba87cc45b08abe9bd8287a371bf38a",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/WORLDWIDE_AUDIT_METHODOLOGY.md",
+      "source_path": "audit/METHODOLOGY.md",
+      "bytes": 12135,
+      "sha256": "64848d46e5028e8ba1fccfcf7572fcf6e7f30541a434169e966c6d92f3dd3264",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "reference",
+      "public_path": "reference/codebook.json",
+      "source_path": "analysis/codebook/codebook.json",
+      "bytes": 162435,
+      "sha256": "1e290c816e8d1281bb0bbdf0f4809f70d25b276384a2f1093f4ea5761f42071f",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/data/candidate_manifest.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/data/candidate_manifest.json",
+      "bytes": 3149,
+      "sha256": "94ca23c844ef2d294d536ca46bd69f210db8cc7189c0f7d807ec8a1ff090b991",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/data/corpus_v2.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/data/corpus_v2.json",
+      "bytes": 2761539,
+      "sha256": "6b54b4f159a20b51c3389a4d4290dabf613a2f0159f9d517c67eac647ebe6a3d",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/data/id_aliases.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/data/id_aliases.json",
+      "bytes": 689,
+      "sha256": "43905b76d5828ad88c74aadbe617040d48965c516a36d591a252a5e01757236d",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/data/na_types_v2.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/data/na_types_v2.csv",
+      "bytes": 80539,
+      "sha256": "78d9ef238a381dd592c754b8723bb6fc7deb4c3959472f35c89c3e5ded669eea",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/data/scores_v2.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/data/scores_v2.csv",
+      "bytes": 233681,
+      "sha256": "70b004bc0b9526d928c48049d04036e2d8dd89f1c27a92cbca68c6f769f6d51c",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/editorial/EDITORIAL_RESULTS_MANIFEST.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/editorial/EDITORIAL_RESULTS_MANIFEST.json",
+      "bytes": 2592,
+      "sha256": "0e4342fe78ec137f19a5587f56e5a8c175895175d946bcd3f02f8b3d6846224d",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/editorial/eight_trait_card_model.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/editorial/eight_trait_card_model.json",
+      "bytes": 27199,
+      "sha256": "6b97b895c0de48d82aa1ed3a127e9095288ad9fa6e88ea850a5a4f59ad9daa9c",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/editorial/eight_trait_card_summary.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/editorial/eight_trait_card_summary.json",
+      "bytes": 1806,
+      "sha256": "421220806587d3aa9c3febb45fa6eb5e9429822484d2e1ac5e590a932d37605d",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/editorial/eight_trait_cards.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/editorial/eight_trait_cards.csv",
+      "bytes": 630792,
+      "sha256": "6777bf64a88185036cf928e6cf64a2370f4d5b7901aab39354884b4fe8b32188",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/editorial/primary_family_labels.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/editorial/primary_family_labels.csv",
+      "bytes": 181037,
+      "sha256": "4c3c77ffc654fe8ea40149ba00cad9d1946f12e9d8c4a923d4aadbbfdcb65f08",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/editorial/primary_family_summary.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/editorial/primary_family_summary.json",
+      "bytes": 883,
+      "sha256": "f18ad2557ed0a3a7b24dcc770f12797a8e285316f5a3646b9a2cc6e93ddf7837",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/events_enriched.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/events_enriched.json",
+      "bytes": 5353239,
+      "sha256": "32be042b864bae78cbc34f870ff0c1049e3a8919ddb76175de166b3a5e83d41b",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/CELL_PATCHES.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/CELL_PATCHES.csv",
+      "bytes": 42768,
+      "sha256": "19583f997864ab14a6decbca80a3c7113486565d2e01842f42c86825190e0013",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/CELL_PATCH_SUMMARY.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/CELL_PATCH_SUMMARY.json",
+      "bytes": 18216,
+      "sha256": "a6c288a9c58e473b7646fe6fa036afc639ee38d9c0ea1d4232c521a0d12528c1",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/CORRECTION_PLAN.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/CORRECTION_PLAN.json",
+      "bytes": 17717,
+      "sha256": "36cbbc8d72ad1ce873c128526f96b23fd647e6d542e04f435651966f98d60cd3",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/MODEL_COMPARISON_INTERPRETATION.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/MODEL_COMPARISON_INTERPRETATION.md",
+      "bytes": 5411,
+      "sha256": "7e3e5433eb4dc2a19d1396638615a63dd081da39812f63dcfc71c1c3d86f5156",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/SINGLE_ADVERSARIAL_SCORING_REVIEW.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/SINGLE_ADVERSARIAL_SCORING_REVIEW.md",
+      "bytes": 4365,
+      "sha256": "9e9c72d6e6777c336483fdd5924a5bd2d8cb76ce193b513a54f5840d48a57ff0",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/editorial_suite/CALIBRATION_REVIEW.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/editorial_suite/CALIBRATION_REVIEW.md",
+      "bytes": 35572,
+      "sha256": "c9f9394d68f7fdf05a5061b6dbf8af25c651a75b75e8f45c14029756412783a4",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/editorial_suite/FACT_CHECK_FINDINGS.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/editorial_suite/FACT_CHECK_FINDINGS.md",
+      "bytes": 22962,
+      "sha256": "85e739d876b1f17381414c7363cbb7942f3983dc96342f5b439404ffc57b09ab",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/editorial_suite/FINAL_SUITE_DISPOSITION.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/editorial_suite/FINAL_SUITE_DISPOSITION.md",
+      "bytes": 5654,
+      "sha256": "c1b8308a53dce21aabe13f8a4ff0fd0af46403768781b0425a712b4eff5f945b",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/editorial_suite/LLM_ARTIFACT_TELLS_FINDINGS.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/editorial_suite/LLM_ARTIFACT_TELLS_FINDINGS.md",
+      "bytes": 12831,
+      "sha256": "a7a9d4de5bd73793688dd29ed99e32bc7994376fafe43b7c6d0bd6ff4fad9f6c",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/editorial_suite/REVIEW_BRIEF.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/editorial_suite/REVIEW_BRIEF.md",
+      "bytes": 3787,
+      "sha256": "abfb61c397dabc214687614a33e195abef0265fe4f5adbdde41256e197088664",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/editorial_suite/STAGE_1_ADJUDICATION.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/editorial_suite/STAGE_1_ADJUDICATION.md",
+      "bytes": 5199,
+      "sha256": "735acf9cc1a035ed79c28c6eec460ea26d843478362395a8bd2d4329a26bad6d",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/editorial_suite/STAGE_2_ADJUDICATION.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/editorial_suite/STAGE_2_ADJUDICATION.md",
+      "bytes": 2529,
+      "sha256": "50fe159cbd0aa5b8160461ad5fe5f2a28623982165d24c8712ebee78ee740a66",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/provenance/editorial_suite/STAGE_3_ADJUDICATION.md",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/provenance/editorial_suite/STAGE_3_ADJUDICATION.md",
+      "bytes": 2028,
+      "sha256": "78836ed844af43e1a49d10e479e75cbf45e95f2d14d7cda9475ca3ae3c805bb7",
+      "media_type": "text/markdown",
+      "component_licenses": "CC-BY-SA-4.0 (original prose only)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/release_manifest.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/release_manifest.json",
+      "bytes": 9137,
+      "sha256": "6f3dd1366db691a20f05e3b41c902dad0e15178f14e2010bb2405c916ccdffc2",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/MODEL_COMPARISON_SUMMARY.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/MODEL_COMPARISON_SUMMARY.json",
+      "bytes": 3389,
+      "sha256": "2cffc379e10091bb971e2942b83214e57074f56b403bc2d047dda72ec51ac936",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/MODEL_COMPARISON_VALIDATION.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/MODEL_COMPARISON_VALIDATION.json",
+      "bytes": 664,
+      "sha256": "5f112550d9a2da8bdfa36de7b030e3d54124d4e0e244af4e260093388f52eafb",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/RESULTS_MANIFEST.json",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/RESULTS_MANIFEST.json",
+      "bytes": 3567,
+      "sha256": "9026c3e5e206ac5fbfbc549ddb4880b3129bca3b99139644ca3eaee80b6da96f",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/core_scenario_metrics.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/core_scenario_metrics.csv",
+      "bytes": 1631,
+      "sha256": "34edd0eb01a66182af869efbdb89b62d3222823adee5c348eb4520c018ea8859",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/corrected_event_influence.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/corrected_event_influence.csv",
+      "bytes": 1837,
+      "sha256": "45b18e2e83f0176f2e1092ea9b2e392fe865012ee71c86d395f58212e3e6c9b6",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/factor_metrics.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/factor_metrics.csv",
+      "bytes": 2536,
+      "sha256": "bc64f6acc96d26d62f5908d940df58767f5cbab0731950b687b87d51a2b7c103",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/imputation_metrics.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/imputation_metrics.csv",
+      "bytes": 844,
+      "sha256": "09eb1f324dea098fc9b6afdf0e1cf1ae16a3861c9222cd385d3e282970b2239d",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/missingness_metrics.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/missingness_metrics.csv",
+      "bytes": 761,
+      "sha256": "c834d8308ae1b2d57670580121d2f75866e692dfc1909105a4f79d37985ee6c8",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/subspace_metrics.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/subspace_metrics.csv",
+      "bytes": 8200,
+      "sha256": "b35e0490795648144c47b398bb3ac42f0539104b4f10518a1cf44ef5dc60ee38",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
+    {
+      "category": "release",
+      "public_path": "releases/second_pass_v6_675/results/post_v5_model_comparison_v1/weighting_metrics.csv",
+      "source_path": "analysis/second_pass/releases/second_pass_v6_675/results/post_v5_model_comparison_v1/weighting_metrics.csv",
+      "bytes": 635,
+      "sha256": "d5b59d0ef176937f501fdb6ed7951f200775119a706042224b48579615ed3035",
+      "media_type": "text/csv",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    }
+  ]
+}

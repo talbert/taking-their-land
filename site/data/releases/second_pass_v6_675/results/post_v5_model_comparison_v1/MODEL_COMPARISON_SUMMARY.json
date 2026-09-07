@@ -1,0 +1,77 @@
+{
+  "schema": "post-v5-bounded-model-comparison-summary-v1",
+  "status": "reproducible_diagnostic_not_release_authorized",
+  "immutable_base": "second_pass_v5_676",
+  "corrected_candidate": "post_v5_corrected_successor_675",
+  "base_factor_count_recomputed": 9,
+  "corrected_factor_count": 9,
+  "corrected_vs_v5": {
+    "scenario": "corrected_successor_675",
+    "mode": "one_retirement_plus_117_cell_corrections",
+    "events": 675,
+    "parallel_analysis_factors": 9,
+    "factor_8_margin": 0.11095718574023739,
+    "factor_9_margin": 0.06487897761572459,
+    "factor_10_margin": -0.05656532384459645,
+    "shared_events": 675,
+    "minimum_loading_tucker_vs_v5": 0.04527007520677135,
+    "mean_loading_tucker_vs_v5": 0.6694579752679315,
+    "minimum_shared_score_spearman_vs_v5": 0.09284709391083687,
+    "mean_shared_score_spearman_vs_v5": 0.676333620535801,
+    "aligned_k6_changed": 8,
+    "aligned_k6_changed_share": 0.011851851851851851,
+    "adjusted_rand_vs_v5": 0.9771555027783554,
+    "k6_silhouette": 0.2289335675909642,
+    "material_flag_vs_v5": true
+  },
+  "corrected_vs_v5_subspace": {
+    "category": "core_scenario",
+    "scenario": "corrected_successor_675",
+    "reference": "immutable_v5_676",
+    "events": 675,
+    "factor_8_maximum_principal_angle_degrees": 6.684956889266914,
+    "factor_8_mean_principal_angle_degrees": 1.4196321918673502,
+    "factor_8_minimum_principal_angle_cosine": 0.9932012474202295,
+    "factor_8_minimum_aligned_axis_tucker": 0.9970229598742921,
+    "factor_8_mean_aligned_axis_tucker": 0.9986472873947535,
+    "factor_9_maximum_principal_angle_degrees": 2.7646054027036864,
+    "factor_9_mean_principal_angle_degrees": 0.867863150701629,
+    "factor_9_minimum_principal_angle_cosine": 0.9988361238140963,
+    "factor_9_minimum_aligned_axis_tucker": 0.9992705507137147,
+    "factor_9_mean_aligned_axis_tucker": 0.9996281883599943,
+    "factor_8_angle_above_5_degrees": true,
+    "factor_9_angle_above_5_degrees": false
+  },
+  "corrected_interpretation": "stable_nine_factor_subspace_with_forced_eight_axis_rotation",
+  "core_scenario_material_flags": {
+    "immutable_v5_676": false,
+    "corrected_successor_675": true,
+    "cell_corrections_only_676": true,
+    "indo_aryan_retirement_only_675": false,
+    "corrected_without_nine_touched_666": true
+  },
+  "weighting_material_flags": {
+    "unweighted_equal_event": false,
+    "equal_total_weight_per_era": true,
+    "bounded_documentation_weight": false
+  },
+  "imputation_material_flags": {
+    "global_median": false,
+    "era_specific_median": true,
+    "unknown_knn_structural_median": true,
+    "unknown_median_structural_zero_bound": true
+  },
+  "individually_material_corrected_events": [],
+  "materiality_rules": {
+    "factor_count_must_match_v5": true,
+    "loading_tucker_below": 0.85,
+    "shared_score_spearman_below": 0.9,
+    "aligned_k6_changed_share_above": 0.05,
+    "nine_factor_subspace_maximum_angle_above_degrees": 5.0
+  },
+  "interpretation_guardrail": "Principal angles assess the factor space as a whole. A stable nine-factor subspace can coexist with unstable names in a forced eight-factor fit; that does not rescue any particular named axis. Statistical stability also does not decide historical inclusion.",
+  "candidate_activation_authorized": false,
+  "release_authorized": false,
+  "atlas_change_authorized": false,
+  "deployment_authorized": false
+}

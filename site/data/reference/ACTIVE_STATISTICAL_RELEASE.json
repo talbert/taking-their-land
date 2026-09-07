@@ -1,0 +1,15 @@
+{
+  "status": "active_statistical_release",
+  "release_id": "second_pass_v6_675",
+  "release_directory": "releases/second_pass_v6_675",
+  "active_events": 675,
+  "data_directory": "releases/second_pass_v6_675/data",
+  "results_directory": "releases/second_pass_v6_675/results",
+  "enriched_events": "releases/second_pass_v6_675/events_enriched.json",
+  "release_manifest": "releases/second_pass_v6_675/release_manifest.json",
+  "release_manifest_sha256": "6f3dd1366db691a20f05e3b41c902dad0e15178f14e2010bb2405c916ccdffc2",
+  "prior_release_id": "second_pass_v5_676",
+  "prior_release_preserved": true,
+  "atlas_build": "20260828za",
+  "atlas_changed": true
+}

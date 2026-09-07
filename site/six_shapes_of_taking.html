@@ -1,0 +1,447 @@
+<title>Six Shapes of Taking</title>
+<style>
+:root{
+  --ground:#F0F2F0; --surface:#FAFBFA; --sunk:#E7EAE7;
+  --ink:#14181A; --ink-2:#3C4749; --muted:#5B6668; --faint:#8A9492;
+  --rule:#D2D7D4; --rule-soft:#E2E6E3;
+  --accent:#008C7F; --accent-soft:#D9EAE7;
+  --pos:#008C7F; --neg:#C26A0C;
+  --c0:#008C7F; --c1:#C26A0C; --c2:#8E3A80; --c3:#6E8412; --c4:#2C5FB8; --c5:#B32D22;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
+  --measure:66ch;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#121514; --surface:#191D1C; --sunk:#0D100F;
+    --ink:#E7EAE8; --ink-2:#C2C9C6; --muted:#96A09E; --faint:#6E7876;
+    --rule:#2C3231; --rule-soft:#232827;
+    --accent:#2FA294; --accent-soft:#12302C;
+    --pos:#2FA294; --neg:#CE7C1E;
+    --c0:#2FA294; --c1:#CE7C1E; --c2:#B85CA6; --c3:#7E9526; --c4:#5F8DD8; --c5:#D65A4E;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#121514; --surface:#191D1C; --sunk:#0D100F;
+  --ink:#E7EAE8; --ink-2:#C2C9C6; --muted:#96A09E; --faint:#6E7876;
+  --rule:#2C3231; --rule-soft:#232827;
+  --accent:#2FA294; --accent-soft:#12302C;
+  --pos:#2FA294; --neg:#CE7C1E;
+  --c0:#2FA294; --c1:#CE7C1E; --c2:#B85CA6; --c3:#7E9526; --c4:#5F8DD8; --c5:#D65A4E;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--ground); color:var(--ink);
+  font-family:var(--serif); font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:var(--measure); margin:0 auto; padding:0 24px}
+.plate{max-width:1180px; margin:0 auto; padding:0 24px}
+h1,h2,h3{text-wrap:balance; line-height:1.18; font-weight:600}
+h1{font-size:clamp(2.1rem,5.5vw,3.3rem); letter-spacing:-.015em; margin:0 0 .4em}
+h2{font-size:clamp(1.4rem,3vw,1.85rem); margin:0 0 .5em; letter-spacing:-.01em}
+h3{font-size:1.06rem; margin:0 0 .35em}
+p{margin:0 0 1.05em}
+a{color:var(--accent)}
+strong{font-weight:600}
+.eyebrow{
+  font-family:var(--mono); font-size:.68rem; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--muted); margin:0 0 .9em; display:block;
+}
+.mono{font-family:var(--mono); font-variant-numeric:tabular-nums}
+.num{font-family:var(--mono); font-variant-numeric:tabular-nums; font-size:.94em}
+section{padding:clamp(38px,6vw,68px) 0; border-top:1px solid var(--rule-soft)}
+section:first-of-type{border-top:0}
+header.masthead{padding:clamp(52px,9vw,104px) 0 clamp(30px,5vw,52px)}
+.kicker{
+  font-family:var(--mono); font-size:.7rem; letter-spacing:.16em; text-transform:uppercase;
+  color:var(--accent); margin-bottom:1.6em; display:block;
+}
+.standfirst{font-size:1.2rem; color:var(--ink-2); margin-bottom:1.5em}
+.byline{font-family:var(--mono); font-size:.74rem; color:var(--faint); letter-spacing:.04em}
+
+/* key-figure strip */
+.figs{display:grid; grid-template-columns:repeat(3,1fr); gap:1px;
+  background:var(--rule-soft); border:1px solid var(--rule-soft); margin:2em 0}
+@media (max-width:520px){.figs{grid-template-columns:repeat(2,1fr)}}
+.fig{background:var(--surface); padding:16px 18px}
+.fig .v{font-family:var(--mono); font-size:1.5rem; font-variant-numeric:tabular-nums; line-height:1.1}
+.fig .l{font-family:var(--mono); font-size:.66rem; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--muted); margin-top:.5em; line-height:1.4}
+
+/* loading matrix */
+.scroller{overflow-x:auto; -webkit-overflow-scrolling:touch; padding-bottom:8px}
+table.mat{border-collapse:separate; border-spacing:2px; font-family:var(--mono); font-size:.72rem}
+table.mat th{font-weight:400; color:var(--muted); text-align:left; padding:3px 6px; white-space:nowrap}
+table.mat th.rot{writing-mode:vertical-rl; transform:rotate(180deg); text-align:left;
+  height:250px; vertical-align:bottom; padding:6px 2px; font-size:.68rem; color:var(--ink-2)}
+table.mat td{width:34px; height:22px; text-align:center; border-radius:3px;
+  font-variant-numeric:tabular-nums; color:var(--surface); font-size:.66rem}
+table.mat td.z{background:var(--sunk); color:var(--faint)}
+table.mat th.dim{color:var(--ink-2); padding-right:12px}
+.grp{font-family:var(--mono); font-size:.64rem; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--faint); padding:14px 6px 4px !important}
+
+/* factor cards */
+.fcards{display:grid; grid-template-columns:repeat(auto-fit,minmax(255px,1fr)); gap:18px; margin-top:1.6em}
+.fcard{background:var(--surface); border:1px solid var(--rule-soft); padding:18px 20px}
+.fcard .fid{font-family:var(--mono); font-size:.7rem; color:var(--accent); letter-spacing:.1em}
+.fcard h3{margin:.35em 0 .5em}
+.fcard p{font-size:.92rem; color:var(--ink-2); margin:0 0 .8em}
+.bar{height:3px; background:var(--sunk); margin-top:10px}
+.bar i{display:block; height:100%; background:var(--accent)}
+.varlab{font-family:var(--mono); font-size:.66rem; color:var(--muted); margin-top:6px; display:block}
+
+/* cluster cards */
+.ccards{display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:20px; margin-top:1.8em}
+.ccard{background:var(--surface); border:1px solid var(--rule-soft); border-top:3px solid var(--ck); padding:20px 22px}
+.ccard .cn{font-family:var(--mono); font-size:.68rem; letter-spacing:.1em; text-transform:uppercase; color:var(--ck)}
+.ccard h3{margin:.4em 0 .6em; font-size:1.15rem}
+.ccard .desc{font-size:.94rem; color:var(--ink-2); margin-bottom:1em}
+.sig{display:flex; flex-direction:column; gap:5px; margin:1em 0}
+.sig .row{display:grid; grid-template-columns:1fr 74px; gap:8px; align-items:center;
+  font-family:var(--mono); font-size:.7rem}
+.sig .tk{color:var(--ink-2)}
+.sig .tr{position:relative; height:9px; background:var(--sunk)}
+.sig .tr i{position:absolute; top:0; height:100%; background:var(--ck)}
+.sig .tr u{position:absolute; top:-2px; bottom:-2px; left:50%; width:1px; background:var(--rule); text-decoration:none}
+.exs{font-family:var(--mono); font-size:.68rem; color:var(--muted); line-height:1.7;
+  border-top:1px solid var(--rule-soft); padding-top:.9em; margin-top:.4em}
+.cov{display:flex; align-items:baseline; gap:8px; margin-top:.9em; font-family:var(--mono); font-size:.72rem}
+.cov .track{flex:1; height:6px; background:var(--sunk); position:relative}
+.cov .track i{position:absolute; left:0; top:0; height:100%; background:var(--ck)}
+
+/* mechanism split table */
+table.split{width:100%; border-collapse:collapse; font-size:.88rem; margin-top:1.4em}
+table.split th{font-family:var(--mono); font-size:.66rem; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--muted); text-align:left; font-weight:400; padding:8px 10px; border-bottom:1px solid var(--rule)}
+table.split td{padding:9px 10px; border-bottom:1px solid var(--rule-soft); vertical-align:middle}
+table.split td.r{text-align:right; font-family:var(--mono); font-variant-numeric:tabular-nums; font-size:.85rem}
+.spread{display:flex; height:12px; gap:1px; min-width:120px}
+.spread i{display:block}
+.verdict{font-family:var(--mono); font-size:.68rem; letter-spacing:.05em; padding:2px 7px; white-space:nowrap}
+.v-hold{background:var(--accent-soft); color:var(--accent)}
+.v-break{background:transparent; color:var(--neg); border:1px solid var(--neg)}
+
+/* generic list plates */
+.lst{background:var(--surface); border:1px solid var(--rule-soft); padding:4px 0; margin:1.3em 0}
+.lst .it{display:grid; grid-template-columns:auto 1fr auto; gap:12px; align-items:baseline;
+  padding:9px 18px; border-bottom:1px solid var(--rule-soft)}
+.lst .it:last-child{border-bottom:0}
+.lst .cdot{width:9px; height:9px; border-radius:50%; align-self:center}
+.lst .nm{font-size:.92rem}
+.lst .nm em{display:block; font-family:var(--mono); font-size:.68rem; color:var(--faint); font-style:normal; margin-top:2px}
+.lst .mt{font-family:var(--mono); font-size:.7rem; color:var(--muted); white-space:nowrap}
+
+.callout{border-left:2px solid var(--accent); background:var(--surface); padding:16px 20px; margin:1.6em 0}
+.callout p:last-child{margin-bottom:0}
+.warn{border-left-color:var(--neg)}
+/* Publication status notice added 2026-09-05; historical report styles remain below. */
+.historical-status{margin:24px 0 0; border:2px solid var(--neg)}
+.historical-status h2{font-size:1.3rem}
+figcaption{font-family:var(--mono); font-size:.7rem; color:var(--muted); line-height:1.6; margin-top:14px; max-width:76ch}
+ul.tight{padding-left:1.1em; margin:0 0 1.1em}
+ul.tight li{margin-bottom:.5em}
+footer{padding:44px 0 70px; color:var(--muted); font-family:var(--mono); font-size:.72rem; line-height:1.8}
+@media (max-width:640px){
+  body{font-size:16px}
+  table.mat th.rot{height:120px}
+}
+</style>
+
+<!-- Publication status notice added 2026-09-05; original report preserved below. -->
+<div class="wrap">
+  <aside class="callout warn historical-status" role="note" aria-labelledby="historical-status-title">
+    <h2 id="historical-status-title">Historical report: superseded</h2>
+    <p>This is the 2026-08-16 exploratory report on 407 events, preserved as a historical checkpoint. Its claims of "eight axes and six stable kinds" and sorting "by the data rather than by theory" were superseded by later review. The original results and wording below are retained for the record, not presented as current conclusions.</p>
+    <p>Later review found no tested automatic partition robust enough to serve as the public taxonomy. The current project distinguishes six source-reviewed editorial families, eight-trait analytical profiles, and nine canonical v6 exploratory factors. Read the <a href="monograph/">current working monograph</a> and <a href="data/">data downloads</a> for the frozen release, qualifications, and distinction from post-freeze display corrections.</p>
+  </aside>
+</div>
+<!-- End publication status notice. -->
+
+<header class="masthead">
+  <div class="wrap">
+    <span class="kicker">Taking their land &#183; empirical re-categorization</span>
+    <h1>Six Shapes of Taking</h1>
+    <p class="standfirst">407 historical events, scored on 60 measured dimensions, sorted by the data rather than by theory. The result is eight axes and six stable kinds &#8212; and they do not agree with the atlas's current twelve categories.</p>
+    <p class="byline">Exploratory factor analysis &#183; oblimin rotation &#183; bootstrap-validated k-means &#183; 2026-08-16</p>
+
+    <div class="figs" id="figs"></div>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <span class="eyebrow">The finding</span>
+    <h2>Mechanism and severity are independent</h2>
+    <p>The single most useful result is a negative one. <strong>Lethal coercion emerged as its own factor</strong> &#8212; the fifth largest &#8212; loading on lethality, mortality share, subsistence destruction, confinement, and sex-differential targeting, and on almost nothing else. It is statistically separable from how a process was organized, whether settlers arrived, and whether land changed hands in law.</p>
+    <p>That is the atlas's own editorial rule, recovered from data that never saw it: <em>categories describe mechanisms, not moral severity</em>. Violence is a real, measurable property of these events, but it varies <em>across</em> structural types rather than defining them. A taxonomy built on structure will not smuggle in a severity ranking, and one built on severity would cut across every structural boundary in the corpus.</p>
+    <p>The corroboration is direct: comparing the 222 events currently on the atlas against the 185 that are not, the difference in mean lethality is <span class="num">+0.03</span> &#8212; indistinguishable from zero. Whatever rule has governed inclusion, it has not been a violence filter.</p>
+  </div>
+</section>
+
+<section>
+  <div class="plate">
+    <span class="eyebrow">Plate I &#183; rotated factor loadings</span>
+    <h2>Eight axes carry the corpus</h2>
+    <p style="max-width:var(--measure)">Parallel analysis retained eight factors against a simulated null &#8212; not a scree-plot judgment call. Together they account for <span class="num">53%</span> of variance across all 60 dimensions, none of which had to be dropped for missingness. Each column below is a factor; each row a coded dimension, grouped by the discipline that proposed it. Teal is positive loading, ochre negative; blank cells fall below <span class="num">|0.30|</span>.</p>
+    <div class="scroller"><table class="mat" id="mat"></table></div>
+    <figcaption>Minres extraction, oblimin (correlated) rotation. Dimension prefixes: <b>scs</b> settler-colonial studies &#183; <b>pel</b> political economy of land &amp; labor &#183; <b>hdem</b> historical demography &amp; archaeogenetics &#183; <b>gfm</b> genocide &amp; forced migration &#183; <b>ssi</b> state formation &amp; sovereignty. The five batteries were written independently and kept unmerged; where their dimensions load on a shared factor, that convergence is a result, not a design decision.</figcaption>
+  </div>
+</section>
+
+<section>
+  <div class="plate">
+    <span class="eyebrow">The axes</span>
+    <h2>What each factor measures</h2>
+    <div class="fcards" id="fcards"></div>
+  </div>
+</section>
+
+<section>
+  <div class="plate">
+    <span class="eyebrow">Plate II &#183; the six kinds</span>
+    <h2>Six stable shapes</h2>
+    <p style="max-width:var(--measure)">Clusters were chosen on <strong>bootstrap stability</strong>, not on silhouette. Silhouette peaked at k=10, but only 4 of those 10 clusters survived resampling. At <strong>k=6, all six survive</strong> (mean Jaccard <span class="num">0.842</span>) &#8212; the highest stability of any solution tested. Bars show each cluster's mean position on the eight axes; the centre line is the corpus average.</p>
+    <div class="ccards" id="ccards"></div>
+    <figcaption>Exemplars are the events nearest each cluster centroid. Atlas coverage is the share of that cluster's events currently rendered among the 222 published cases.</figcaption>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <span class="eyebrow">Is it real structure?</span>
+    <h2>Overlapping kinds, not sharp boxes</h2>
+    <p>Absolute silhouette values are low &#8212; around <span class="num">0.23</span> &#8212; which on its own would suggest a formless continuum. That reading is wrong, and the test that settles it is a comparison against a matched-covariance unimodal null: data with the same means, variances, and correlations but no cluster structure at all.</p>
+    <p>Real data beats that null by <strong>26 to 32 standard deviations</strong>. The structure is emphatically present. What the low silhouette actually says is that the six kinds have <em>populated boundaries</em> &#8212; a great many genuine hybrids sit between the cores rather than in them.</p>
+    <div class="callout">
+      <p><strong>The practical consequence:</strong> the six shapes are best used as named regions of a continuous eight-dimensional space, not as boxes every case must enter. An event's coordinates carry more information than its cluster label, and for boundary cases the label alone is actively misleading. A revised atlas should record the coordinates and treat the name as a convenience.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="plate">
+    <span class="eyebrow">Old scheme vs. new</span>
+    <h2>Which current categories survive</h2>
+    <p style="max-width:var(--measure)">Agreement between the six emergent kinds and the current twelve mechanism families is <span class="num">ARI 0.29</span> &#8212; real but partial overlap. Reading family by family shows the pattern is not uniform: some current labels are coherent structural kinds, and others are names applied to processes that behave nothing alike.</p>
+    <div class="scroller"><table class="split" id="split"></table></div>
+    <figcaption>Families with &#8805; 8 events. The bar shows how each family distributes across the six kinds; &#8220;largest&#8221; is the share falling in its single biggest cluster. Held = concentrated in one or two kinds. Fragmented = scattered across four or more.</figcaption>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <span class="eyebrow">Reading the fragmentation</span>
+    <h2>Two labels are doing no work</h2>
+    <p><strong>State resettlement / internal colonization</strong> scatters across five of the six kinds, with only <span class="num">33%</span> in its largest. <strong>Expulsion / deportation / ethnic cleansing</strong> does nearly the same &#8212; five kinds, <span class="num">35%</span> largest. These are not mechanisms in any structural sense. They are descriptions of intent or of legal character that get applied to processes with fundamentally different architectures: some install a replacement population under formal title, some empty a region and leave it empty, some move people into space that is already occupied.</p>
+    <p>The contrast is sharp. <strong>Population exchange / partition</strong> lands entirely in one kind. <strong>Conflict displacement</strong> is <span class="num">97%</span> concentrated, and <strong>demographic expansion analogue</strong> <span class="num">96%</span>. Those three are earning their keep as categories &#8212; they pick out events that genuinely resemble each other.</p>
+    <p>Note what this implies about the prehistoric cases. The &#8220;expansion analogue&#8221; label has always carried a faint suggestion that these are lesser or merely inferred examples of the real thing. The data say the opposite: they form one of the tightest, most internally consistent groups in the entire corpus. Their coherence is a finding, and the word <em>analogue</em> understates it.</p>
+  </div>
+</section>
+
+<section>
+  <div class="plate">
+    <span class="eyebrow">Coverage</span>
+    <h2>What the atlas selects for</h2>
+    <p style="max-width:var(--measure)">Comparing the 222 rendered cases against the 185 that are not, the current inclusion rule becomes legible as a position in factor space. The atlas selects strongly for settler implantation, legal-proprietary machinery, and durable outcomes &#8212; and selects <em>against</em> state orchestration and displacement into already-occupied space.</p>
+    <div class="scroller"><table class="split" id="bias"></table></div>
+    <figcaption>Difference in mean factor score, on-atlas minus off-atlas, in standard-deviation units. Positive means the trait is over-represented among rendered cases.</figcaption>
+    <p style="max-width:var(--measure); margin-top:1.6em">This is a coherent editorial definition of settler colonialism, and defensible as such. But it leaves two large, internally consistent regions of the space nearly unrepresented: <strong>transient conflict displacement</strong> (<span class="num">4</span> of <span class="num">66</span> rendered) and <strong>state demographic engineering</strong> (<span class="num">17</span> of <span class="num">61</span>). Whether that is the right boundary is an editorial question, not a statistical one &#8212; but it is now a visible and quantified choice rather than an implicit one.</p>
+  </div>
+</section>
+
+<section>
+  <div class="plate">
+    <span class="eyebrow">Re-mapping</span>
+    <h2>Where the model disagrees with the atlas</h2>
+    <p style="max-width:var(--measure)">Every one of the 407 events carries cluster and coordinates in <span class="mono">final_k6_assignments.csv</span>. Three groups are worth direct attention.</p>
+
+    <h3 style="margin-top:1.8em">Off-atlas events sitting in atlas-dense kinds</h3>
+    <p style="max-width:var(--measure)">These resemble what the atlas already publishes, but are not on it. The prehistoric turnovers among them were found by this project's gap scan and are absent from the audit register entirely.</p>
+    <div class="lst" id="promo"></div>
+
+    <h3 style="margin-top:2em">Rendered cases in sparsely-covered kinds</h3>
+    <p style="max-width:var(--measure)">Thirty-two published cases sit in kinds the atlas otherwise mostly excludes &#8212; chiefly the MENA Jewish departures and the Soviet national deportations. They are not errors; they are the places where the atlas has already, quietly, crossed its own boundary. That is worth making explicit rather than leaving as an unexamined exception.</p>
+    <div class="lst" id="sparse"></div>
+
+    <h3 style="margin-top:2em">Genuine hybrids</h3>
+    <p style="max-width:var(--measure)">Lowest-silhouette rendered cases &#8212; those sitting almost equidistant between kinds. Any single label misrepresents them, and they are the strongest argument for recording coordinates over categories.</p>
+    <div class="lst" id="hyb"></div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <span class="eyebrow">Limits</span>
+    <h2>What would change these numbers</h2>
+    <div class="callout warn">
+      <p><strong>One factor is era-confounded.</strong> Durability of outcome correlates with start year at <span class="num">&#961; = &#8722;0.51</span> &#8212; older events score as more durable, partly because they have had millennia to demonstrate it. Treat F6 as contaminated by observation window; the other seven are below <span class="num">|0.45|</span> and lethality is clean at <span class="num">&#961; = 0.00</span>.</p>
+    </div>
+    <ul class="tight">
+      <li><strong>Cross-coder agreement is 0.76, not 0.93.</strong> The pilot's 0.93 was two instances of one model; the honest figure comes from two <em>different</em> models coding the same 30 events &#8212; <span class="num">0.76</span> exact, <span class="num">0.95</span> within one anchor step. Measurement noise attenuates correlations, so true factor structure is likely somewhat sharper than measured.</li>
+      <li><strong>N=407 against 60 dimensions is thin</strong> for factor analysis. Robustness runs help: excluding the 33 gap-scan events reproduces loadings at congruence <span class="num">0.96&#8211;1.00</span>. But restricting to the 222 on-atlas cases collapses F8 entirely (congruence <span class="num">0.06</span>) &#8212; coerced exogenous labor is a real axis that the atlas's current selection cannot see.</li>
+      <li><strong>Coding is model-generated,</strong> anchored and validated but not an expert panel. It is a consistent instrument, not a substitute for domain scholarship.</li>
+      <li><strong>The corpus inherits the register's selection.</strong> The gap scan mitigates this &#8212; it found 33 qualifying absences &#8212; but cannot eliminate it.</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <span class="eyebrow">Recommendations</span>
+    <h2>What to do with this</h2>
+    <ul class="tight">
+      <li><strong>Retire two labels.</strong> &#8220;State resettlement / internal colonization&#8221; and &#8220;expulsion / deportation / ethnic cleansing&#8221; fragment across five kinds each and describe intent rather than structure. Replace them with the structural distinction the data draw: whether a replacement population arrives, and whether the destination was already occupied.</li>
+      <li><strong>Keep three.</strong> Population exchange/partition, conflict displacement, and demographic expansion are structurally coherent. Consider renaming the last to drop &#8220;analogue&#8221; &#8212; it is among the tightest groups in the corpus.</li>
+      <li><strong>Record coordinates, not just a category.</strong> Store the eight factor scores per case. For hybrids they are the honest answer, and they let the atlas express degree without inventing more boxes.</li>
+      <li><strong>Decide the boundary deliberately.</strong> Conflict displacement and state demographic engineering are near-absent by an implicit rule. Either adopt the exclusion openly in the methods text, or admit the strongest candidates.</li>
+      <li><strong>Review the 33 gap-scan finds on their own merits</strong> &#8212; independent of this analysis. Soviet dekulakization, the Porfirian Yaqui deportations, and the Argentine Chaco conquest are absences the register's own logic implies should be filled.</li>
+    </ul>
+    <p style="margin-top:1.6em">The reproducible bundle &#8212; corpus, codebook, coded matrix, scripts, and results &#8212; is in <span class="mono">analysis/</span>, with provenance and caveats in its README.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    407 events &#183; 60 dimensions &#183; 24,420 coded cells &#183; 8 factors &#183; 6 stable kinds<br>
+    Exploratory factor analysis (minres, oblimin) &#183; parallel analysis for retention &#183; k-means with bootstrap stability selection<br>
+    Ground facts from the audit register's cited scholarship; categories derived from the data.
+  </div>
+</footer>
+
+<script id="D" type="application/json">{"loadings":{"F1":{"scs_settler_permanence_orientation":-0.08,"scs_metropole_anchorage":0.69,"scs_settler_sovereignty_capture":-0.13,"scs_native_labor_articulation":-0.01,"scs_transfer_mode_multiplicity":0.11,"scs_land_tenure_extinguishment":0.14,"scs_symbolic_indigenization":-0.13,"scs_settler_agency_locus":-0.68,"scs_exogenous_labor_triad":-0.14,"scs_structural_persistence":0.04,"scs_demographic_saturation":-0.02,"scs_prior_polity_recognition":0.15,"pel_frontier_land_labor_ratio":-0.1,"pel_native_labor_incorporation":-0.02,"pel_unfree_incomer_share":0.28,"pel_title_transfer_formalization":0.17,"pel_land_commodification":-0.17,"pel_fixed_capital_intensity":0.24,"pel_export_orientation":-0.05,"pel_organizing_agent_locus":0.79,"pel_strategic_position_weight":0.68,"pel_incomer_household_composition":-0.05,"pel_incomer_influx_tempo":0.35,"pel_production_regime_conversion":0.09,"hdem_prior_population_removal":0.1,"hdem_incomer_share_at_consolidation":-0.07,"hdem_displacement_scale":0.13,"hdem_migrant_stream_family_completeness":-0.02,"hdem_mortality_share_of_prior_decline":-0.06,"hdem_transformation_tempo":0.33,"hdem_settler_reproduction_engine":-0.13,"hdem_stream_coordination":0.38,"hdem_displaced_relocation_distance":0.19,"hdem_destination_saturation":0.12,"hdem_prior_ancestry_in_successor_population":0.24,"hdem_present_day_endpoint":0.09,"gfm_coercion_apex":0.24,"gfm_lethality_of_process":-0.12,"gfm_subsistence_destruction":0.2,"gfm_perpetrator_state_centrality":0.74,"gfm_intent_legibility":0.66,"gfm_pattern_imposition":-0.1,"gfm_survivor_confinement":0.09,"gfm_return_foreclosure":0.09,"gfm_displacement_tempo":0.41,"gfm_category_permeability":-0.17,"gfm_sex_differential_targeting":-0.13,"gfm_expropriation_formalization":0.19,"ssi_carrier_centralization":0.78,"ssi_legal_instrumentation_depth":0.29,"ssi_sovereignty_transfer_form":-0.01,"ssi_displaced_status_trajectory":-0.06,"ssi_legitimating_doctrine_codification":-0.14,"ssi_geopolitical_separation":-0.36,"ssi_legibility_engineering":0.44,"ssi_displaced_polity_stateness":0.26,"ssi_settler_polity_autonomy":-0.68,"ssi_boundary_hardening":0.42,"ssi_sovereignty_outcome_durability":-0.01,"ssi_external_contestation_peak":0.02},"F2":{"scs_settler_permanence_orientation":0.04,"scs_metropole_anchorage":0.26,"scs_settler_sovereignty_capture":0.12,"scs_native_labor_articulation":0.06,"scs_transfer_mode_multiplicity":0.42,"scs_land_tenure_extinguishment":0.62,"scs_symbolic_indigenization":0.36,"scs_settler_agency_locus":0.04,"scs_exogenous_labor_triad":0.27,"scs_structural_persistence":0.02,"scs_demographic_saturation":0.05,"scs_prior_polity_recognition":-0.1,"pel_frontier_land_labor_ratio":-0.06,"pel_native_labor_incorporation":-0.04,"pel_unfree_incomer_share":-0.17,"pel_title_transfer_formalization":0.86,"pel_land_commodification":0.74,"pel_fixed_capital_intensity":0.47,"pel_export_orientation":0.51,"pel_organizing_agent_locus":0.22,"pel_strategic_position_weight":-0.12,"pel_incomer_household_composition":-0.09,"pel_incomer_influx_tempo":0.04,"pel_production_regime_conversion":-0.03,"hdem_prior_population_removal":-0.1,"hdem_incomer_share_at_consolidation":0.06,"hdem_displacement_scale":0.11,"hdem_migrant_stream_family_completeness":-0.02,"hdem_mortality_share_of_prior_decline":0.03,"hdem_transformation_tempo":-0.13,"hdem_settler_reproduction_engine":0.07,"hdem_stream_coordination":0.07,"hdem_displaced_relocation_distance":-0.04,"hdem_destination_saturation":0.05,"hdem_prior_ancestry_in_successor_population":-0.21,"hdem_present_day_endpoint":0.0,"gfm_coercion_apex":-0.25,"gfm_lethality_of_process":0.01,"gfm_subsistence_destruction":-0.1,"gfm_perpetrator_state_centrality":0.27,"gfm_intent_legibility":0.18,"gfm_pattern_imposition":0.36,"gfm_survivor_confinement":0.06,"gfm_return_foreclosure":0.06,"gfm_displacement_tempo":-0.14,"gfm_category_permeability":0.11,"gfm_sex_differential_targeting":-0.14,"gfm_expropriation_formalization":0.84,"ssi_carrier_centralization":0.23,"ssi_legal_instrumentation_depth":0.74,"ssi_sovereignty_transfer_form":0.38,"ssi_displaced_status_trajectory":0.23,"ssi_legitimating_doctrine_codification":0.43,"ssi_geopolitical_separation":0.27,"ssi_legibility_engineering":0.54,"ssi_displaced_polity_stateness":-0.06,"ssi_settler_polity_autonomy":-0.0,"ssi_boundary_hardening":0.17,"ssi_sovereignty_outcome_durability":-0.05,"ssi_external_contestation_peak":0.0},"F3":{"scs_settler_permanence_orientation":0.91,"scs_metropole_anchorage":0.17,"scs_settler_sovereignty_capture":0.42,"scs_native_labor_articulation":-0.0,"scs_transfer_mode_multiplicity":0.13,"scs_land_tenure_extinguishment":0.18,"scs_symbolic_indigenization":0.31,"scs_settler_agency_locus":0.36,"scs_exogenous_labor_triad":-0.07,"scs_structural_persistence":0.03,"scs_demographic_saturation":0.57,"scs_prior_polity_recognition":-0.02,"pel_frontier_land_labor_ratio":0.39,"pel_native_labor_incorporation":0.06,"pel_unfree_incomer_share":0.05,"pel_title_transfer_formalization":0.05,"pel_land_commodification":-0.07,"pel_fixed_capital_intensity":0.22,"pel_export_orientation":0.04,"pel_organizing_agent_locus":-0.07,"pel_strategic_position_weight":0.17,"pel_incomer_household_composition":0.24,"pel_incomer_influx_tempo":0.29,"pel_production_regime_conversion":-0.09,"hdem_prior_population_removal":-0.16,"hdem_incomer_share_at_consolidation":0.6,"hdem_displacement_scale":-0.05,"hdem_migrant_stream_family_completeness":0.95,"hdem_mortality_share_of_prior_decline":-0.03,"hdem_transformation_tempo":-0.09,"hdem_settler_reproduction_engine":0.74,"hdem_stream_coordination":0.76,"hdem_displaced_relocation_distance":-0.09,"hdem_destination_saturation":-0.26,"hdem_prior_ancestry_in_successor_population":-0.07,"hdem_present_day_endpoint":0.19,"gfm_coercion_apex":0.02,"gfm_lethality_of_process":0.03,"gfm_subsistence_destruction":-0.1,"gfm_perpetrator_state_centrality":-0.15,"gfm_intent_legibility":-0.07,"gfm_pattern_imposition":0.26,"gfm_survivor_confinement":-0.04,"gfm_return_foreclosure":-0.12,"gfm_displacement_tempo":-0.09,"gfm_category_permeability":0.07,"gfm_sex_differential_targeting":-0.01,"gfm_expropriation_formalization":0.03,"ssi_carrier_centralization":-0.01,"ssi_legal_instrumentation_depth":-0.01,"ssi_sovereignty_transfer_form":0.19,"ssi_displaced_status_trajectory":0.04,"ssi_legitimating_doctrine_codification":0.08,"ssi_geopolitical_separation":0.15,"ssi_legibility_engineering":0.07,"ssi_displaced_polity_stateness":-0.16,"ssi_settler_polity_autonomy":-0.09,"ssi_boundary_hardening":0.02,"ssi_sovereignty_outcome_durability":-0.01,"ssi_external_contestation_peak":-0.11},"F4":{"scs_settler_permanence_orientation":-0.06,"scs_metropole_anchorage":-0.04,"scs_settler_sovereignty_capture":-0.12,"scs_native_labor_articulation":0.69,"scs_transfer_mode_multiplicity":-0.06,"scs_land_tenure_extinguishment":0.19,"scs_symbolic_indigenization":0.19,"scs_settler_agency_locus":-0.09,"scs_exogenous_labor_triad":-0.02,"scs_structural_persistence":0.05,"scs_demographic_saturation":0.37,"scs_prior_polity_recognition":0.11,"pel_frontier_land_labor_ratio":0.09,"pel_native_labor_incorporation":-0.77,"pel_unfree_incomer_share":-0.02,"pel_title_transfer_formalization":0.03,"pel_land_commodification":0.05,"pel_fixed_capital_intensity":-0.16,"pel_export_orientation":-0.24,"pel_organizing_agent_locus":0.08,"pel_strategic_position_weight":-0.04,"pel_incomer_household_composition":0.15,"pel_incomer_influx_tempo":0.35,"pel_production_regime_conversion":-0.04,"hdem_prior_population_removal":0.62,"hdem_incomer_share_at_consolidation":0.26,"hdem_displacement_scale":-0.2,"hdem_migrant_stream_family_completeness":0.01,"hdem_mortality_share_of_prior_decline":0.09,"hdem_transformation_tempo":0.46,"hdem_settler_reproduction_engine":-0.18,"hdem_stream_coordination":-0.08,"hdem_displaced_relocation_distance":0.23,"hdem_destination_saturation":-0.13,"hdem_prior_ancestry_in_successor_population":-0.67,"hdem_present_day_endpoint":0.21,"gfm_coercion_apex":-0.07,"gfm_lethality_of_process":0.03,"gfm_subsistence_destruction":-0.02,"gfm_perpetrator_state_centrality":-0.12,"gfm_intent_legibility":0.1,"gfm_pattern_imposition":0.03,"gfm_survivor_confinement":-0.04,"gfm_return_foreclosure":0.27,"gfm_displacement_tempo":0.46,"gfm_category_permeability":0.34,"gfm_sex_differential_targeting":-0.31,"gfm_expropriation_formalization":0.03,"ssi_carrier_centralization":0.02,"ssi_legal_instrumentation_depth":0.07,"ssi_sovereignty_transfer_form":-0.15,"ssi_displaced_status_trajectory":0.14,"ssi_legitimating_doctrine_codification":-0.0,"ssi_geopolitical_separation":-0.05,"ssi_legibility_engineering":-0.01,"ssi_displaced_polity_stateness":-0.02,"ssi_settler_polity_autonomy":-0.03,"ssi_boundary_hardening":0.28,"ssi_sovereignty_outcome_durability":-0.02,"ssi_external_contestation_peak":-0.22},"F5":{"scs_settler_permanence_orientation":0.01,"scs_metropole_anchorage":0.01,"scs_settler_sovereignty_capture":0.06,"scs_native_labor_articulation":-0.08,"scs_transfer_mode_multiplicity":0.52,"scs_land_tenure_extinguishment":0.13,"scs_symbolic_indigenization":0.22,"scs_settler_agency_locus":0.08,"scs_exogenous_labor_triad":0.17,"scs_structural_persistence":-0.04,"scs_demographic_saturation":0.02,"scs_prior_polity_recognition":0.2,"pel_frontier_land_labor_ratio":0.19,"pel_native_labor_incorporation":0.18,"pel_unfree_incomer_share":0.15,"pel_title_transfer_formalization":-0.07,"pel_land_commodification":0.03,"pel_fixed_capital_intensity":-0.03,"pel_export_orientation":0.14,"pel_organizing_agent_locus":-0.01,"pel_strategic_position_weight":0.06,"pel_incomer_household_composition":-0.02,"pel_incomer_influx_tempo":0.05,"pel_production_regime_conversion":0.09,"hdem_prior_population_removal":0.24,"hdem_incomer_share_at_consolidation":0.08,"hdem_displacement_scale":0.33,"hdem_migrant_stream_family_completeness":0.02,"hdem_mortality_share_of_prior_decline":0.65,"hdem_transformation_tempo":0.01,"hdem_settler_reproduction_engine":-0.08,"hdem_stream_coordination":-0.01,"hdem_displaced_relocation_distance":0.22,"hdem_destination_saturation":-0.1,"hdem_prior_ancestry_in_successor_population":-0.07,"hdem_present_day_endpoint":0.07,"gfm_coercion_apex":0.61,"gfm_lethality_of_process":0.8,"gfm_subsistence_destruction":0.57,"gfm_perpetrator_state_centrality":0.08,"gfm_intent_legibility":0.17,"gfm_pattern_imposition":0.33,"gfm_survivor_confinement":0.55,"gfm_return_foreclosure":0.14,"gfm_displacement_tempo":0.06,"gfm_category_permeability":0.27,"gfm_sex_differential_targeting":0.5,"gfm_expropriation_formalization":-0.05,"ssi_carrier_centralization":-0.01,"ssi_legal_instrumentation_depth":0.02,"ssi_sovereignty_transfer_form":0.09,"ssi_displaced_status_trajectory":0.12,"ssi_legitimating_doctrine_codification":0.32,"ssi_geopolitical_separation":0.04,"ssi_legibility_engineering":0.08,"ssi_displaced_polity_stateness":-0.1,"ssi_settler_polity_autonomy":0.07,"ssi_boundary_hardening":0.1,"ssi_sovereignty_outcome_durability":-0.06,"ssi_external_contestation_peak":0.18},"F6":{"scs_settler_permanence_orientation":0.05,"scs_metropole_anchorage":-0.02,"scs_settler_sovereignty_capture":0.35,"scs_native_labor_articulation":0.07,"scs_transfer_mode_multiplicity":-0.02,"scs_land_tenure_extinguishment":0.05,"scs_symbolic_indigenization":0.01,"scs_settler_agency_locus":0.08,"scs_exogenous_labor_triad":-0.03,"scs_structural_persistence":0.8,"scs_demographic_saturation":0.19,"scs_prior_polity_recognition":0.05,"pel_frontier_land_labor_ratio":0.11,"pel_native_labor_incorporation":-0.09,"pel_unfree_incomer_share":0.07,"pel_title_transfer_formalization":0.04,"pel_land_commodification":-0.02,"pel_fixed_capital_intensity":0.02,"pel_export_orientation":-0.04,"pel_organizing_agent_locus":0.02,"pel_strategic_position_weight":-0.12,"pel_incomer_household_composition":-0.05,"pel_incomer_influx_tempo":-0.34,"pel_production_regime_conversion":-0.02,"hdem_prior_population_removal":0.13,"hdem_incomer_share_at_consolidation":0.21,"hdem_displacement_scale":0.06,"hdem_migrant_stream_family_completeness":-0.05,"hdem_mortality_share_of_prior_decline":-0.06,"hdem_transformation_tempo":-0.33,"hdem_settler_reproduction_engine":0.24,"hdem_stream_coordination":-0.06,"hdem_displaced_relocation_distance":0.22,"hdem_destination_saturation":-0.06,"hdem_prior_ancestry_in_successor_population":-0.23,"hdem_present_day_endpoint":0.61,"gfm_coercion_apex":0.12,"gfm_lethality_of_process":0.01,"gfm_subsistence_destruction":-0.12,"gfm_perpetrator_state_centrality":-0.06,"gfm_intent_legibility":-0.05,"gfm_pattern_imposition":0.15,"gfm_survivor_confinement":-0.09,"gfm_return_foreclosure":0.53,"gfm_displacement_tempo":-0.23,"gfm_category_permeability":-0.1,"gfm_sex_differential_targeting":-0.03,"gfm_expropriation_formalization":0.03,"ssi_carrier_centralization":0.01,"ssi_legal_instrumentation_depth":0.03,"ssi_sovereignty_transfer_form":-0.03,"ssi_displaced_status_trajectory":0.29,"ssi_legitimating_doctrine_codification":0.11,"ssi_geopolitical_separation":-0.19,"ssi_legibility_engineering":-0.03,"ssi_displaced_polity_stateness":-0.23,"ssi_settler_polity_autonomy":0.11,"ssi_boundary_hardening":-0.1,"ssi_sovereignty_outcome_durability":0.9,"ssi_external_contestation_peak":-0.21},"F7":{"scs_settler_permanence_orientation":-0.02,"scs_metropole_anchorage":-0.07,"scs_settler_sovereignty_capture":0.22,"scs_native_labor_articulation":-0.0,"scs_transfer_mode_multiplicity":0.15,"scs_land_tenure_extinguishment":-0.02,"scs_symbolic_indigenization":0.17,"scs_settler_agency_locus":-0.06,"scs_exogenous_labor_triad":-0.11,"scs_structural_persistence":-0.0,"scs_demographic_saturation":-0.21,"scs_prior_polity_recognition":0.28,"pel_frontier_land_labor_ratio":-0.43,"pel_native_labor_incorporation":-0.0,"pel_unfree_incomer_share":0.0,"pel_title_transfer_formalization":-0.07,"pel_land_commodification":-0.0,"pel_fixed_capital_intensity":-0.33,"pel_export_orientation":-0.26,"pel_organizing_agent_locus":0.01,"pel_strategic_position_weight":0.06,"pel_incomer_household_composition":0.09,"pel_incomer_influx_tempo":0.07,"pel_production_regime_conversion":-0.74,"hdem_prior_population_removal":-0.07,"hdem_incomer_share_at_consolidation":-0.26,"hdem_displacement_scale":0.03,"hdem_migrant_stream_family_completeness":0.03,"hdem_mortality_share_of_prior_decline":-0.15,"hdem_transformation_tempo":0.25,"hdem_settler_reproduction_engine":-0.03,"hdem_stream_coordination":0.05,"hdem_displaced_relocation_distance":0.39,"hdem_destination_saturation":0.57,"hdem_prior_ancestry_in_successor_population":-0.02,"hdem_present_day_endpoint":-0.18,"gfm_coercion_apex":0.17,"gfm_lethality_of_process":-0.12,"gfm_subsistence_destruction":-0.33,"gfm_perpetrator_state_centrality":-0.04,"gfm_intent_legibility":0.07,"gfm_pattern_imposition":0.24,"gfm_survivor_confinement":0.07,"gfm_return_foreclosure":0.07,"gfm_displacement_tempo":0.23,"gfm_category_permeability":0.41,"gfm_sex_differential_targeting":0.16,"gfm_expropriation_formalization":0.04,"ssi_carrier_centralization":0.02,"ssi_legal_instrumentation_depth":0.21,"ssi_sovereignty_transfer_form":-0.04,"ssi_displaced_status_trajectory":0.22,"ssi_legitimating_doctrine_codification":0.24,"ssi_geopolitical_separation":-0.18,"ssi_legibility_engineering":0.02,"ssi_displaced_polity_stateness":0.37,"ssi_settler_polity_autonomy":-0.06,"ssi_boundary_hardening":0.27,"ssi_sovereignty_outcome_durability":0.05,"ssi_external_contestation_peak":0.13},"F8":{"scs_settler_permanence_orientation":-0.05,"scs_metropole_anchorage":0.12,"scs_settler_sovereignty_capture":-0.19,"scs_native_labor_articulation":-0.07,"scs_transfer_mode_multiplicity":-0.29,"scs_land_tenure_extinguishment":0.05,"scs_symbolic_indigenization":-0.22,"scs_settler_agency_locus":0.0,"scs_exogenous_labor_triad":0.61,"scs_structural_persistence":-0.05,"scs_demographic_saturation":0.06,"scs_prior_polity_recognition":-0.11,"pel_frontier_land_labor_ratio":0.17,"pel_native_labor_incorporation":0.1,"pel_unfree_incomer_share":0.61,"pel_title_transfer_formalization":0.03,"pel_land_commodification":0.04,"pel_fixed_capital_intensity":0.17,"pel_export_orientation":0.24,"pel_organizing_agent_locus":-0.01,"pel_strategic_position_weight":-0.08,"pel_incomer_household_composition":-0.61,"pel_incomer_influx_tempo":0.01,"pel_production_regime_conversion":0.06,"hdem_prior_population_removal":-0.04,"hdem_incomer_share_at_consolidation":0.15,"hdem_displacement_scale":-0.37,"hdem_migrant_stream_family_completeness":-0.14,"hdem_mortality_share_of_prior_decline":0.08,"hdem_transformation_tempo":-0.04,"hdem_settler_reproduction_engine":-0.02,"hdem_stream_coordination":0.31,"hdem_displaced_relocation_distance":0.27,"hdem_destination_saturation":-0.2,"hdem_prior_ancestry_in_successor_population":-0.07,"hdem_present_day_endpoint":-0.08,"gfm_coercion_apex":0.17,"gfm_lethality_of_process":0.13,"gfm_subsistence_destruction":-0.34,"gfm_perpetrator_state_centrality":-0.04,"gfm_intent_legibility":-0.1,"gfm_pattern_imposition":-0.19,"gfm_survivor_confinement":0.15,"gfm_return_foreclosure":0.16,"gfm_displacement_tempo":-0.01,"gfm_category_permeability":0.14,"gfm_sex_differential_targeting":0.05,"gfm_expropriation_formalization":0.03,"ssi_carrier_centralization":-0.04,"ssi_legal_instrumentation_depth":0.08,"ssi_sovereignty_transfer_form":0.25,"ssi_displaced_status_trajectory":0.18,"ssi_legitimating_doctrine_codification":-0.11,"ssi_geopolitical_separation":0.53,"ssi_legibility_engineering":-0.1,"ssi_displaced_polity_stateness":-0.11,"ssi_settler_polity_autonomy":-0.16,"ssi_boundary_hardening":-0.0,"ssi_sovereignty_outcome_durability":0.02,"ssi_external_contestation_peak":-0.03}},"factor_names":{"F1":"state_orchestration","F2":"legal_proprietary_machinery","F3":"settler_implantation","F4":"elimination_vs_incorporation","F5":"lethal_coercion","F6":"durability_of_outcome","F7":"displacement_into_occupied_space","F8":"coerced_exogenous_labor"},"var_prop":[0.1,0.089,0.081,0.06,0.059,0.053,0.046,0.043],"var_cum":0.531,"eigen":[11.45,9.87,5.04,3.41,3.18,2.36,1.87,1.73,1.48,1.42,1.15,1.02],"pa_thresh":[1.9,1.81,1.76,1.7,1.65,1.6,1.57,1.53,1.5,1.47,1.44,1.41],"clusters":{"0":{"n":49,"mean_silhouette":0.44640831051575813,"centroid":{"state_orchestration":-1.92,"legal_proprietary_machinery":-1.27,"settler_implantation":0.67,"elimination_vs_incorporation":-0.28,"lethal_coercion":-0.34,"durability_of_outcome":0.79,"displacement_into_occupied_space":-0.46,"coerced_exogenous_labor":-0.35},"on_atlas_n":40,"on_atlas_share":0.8163265306122449,"exemplars":[{"id":"atlas-anglo-saxon-britain","name":"Anglo-Saxon settlement of Britain"},{"id":"am-tupi-atlantic-coast-expansion","name":"Tupi-speaking expansion along Brazil's Atlantic coast"},{"id":"eu-south-slavic-balkan-settlement","name":"South Slavic settlement of the Balkans"},{"id":"atlas-oromo-expansion","name":"Oromo expansion into the Ethiopian highlands"},{"id":"europe-norse-settlement-faroes","name":"Norse settlement of the Faroe Islands and the unresolved fate of earlier occupants"}],"top_mechanisms":{"demographic expansion analogue":43,"conquest with settlement":6},"mean_inapplicable":0.32653061224489793,"mean_unknown":7.816326530612245,"era_median_start":750.0},"1":{"n":41,"mean_silhouette":0.2602482442946851,"centroid":{"state_orchestration":0.04,"legal_proprietary_machinery":0.05,"settler_implantation":-1.46,"elimination_vs_incorporation":0.75,"lethal_coercion":-0.4,"durability_of_outcome":0.11,"displacement_into_occupied_space":1.52,"coerced_exogenous_labor":-0.49},"on_atlas_n":11,"on_atlas_share":0.2682926829268293,"exemplars":[{"id":"mena-jewish-departure-syria","name":"Restriction, clandestine flight, and the delayed departure of Syria's Jews"},{"id":"modern-nicaragua-2018-repression-exile","name":"Nicaragua's post-2018 repression and exile"},{"id":"mena-jewish-departure-yemen-aden","name":"The mass departure of Yemenite and Adeni Jews"},{"id":"eu-forced-conversion-jews-muslims-portugal-1496","name":"Expulsion orders and forced conversion of Jews and Muslims in Portugal"},{"id":"modern-ethiopia-eritrea-reciprocal-expulsions","name":"Ethiopia\u2013Eritrea war reciprocal expulsions"}],"top_mechanisms":{"expulsion/deportation/ethnic cleansing":22,"genocide-linked clearance":3,"development/conservation displacement":2,"enslavement/labor removal":1},"mean_inapplicable":4.585365853658536,"mean_unknown":0.1951219512195122,"era_median_start":1959.0},"2":{"n":88,"mean_silhouette":0.13093465517854516,"centroid":{"state_orchestration":0.1,"legal_proprietary_machinery":0.41,"settler_implantation":0.22,"elimination_vs_incorporation":-1.04,"lethal_coercion":-0.44,"durability_of_outcome":-0.33,"displacement_into_occupied_space":-0.1,"coerced_exogenous_labor":0.43},"on_atlas_n":62,"on_atlas_share":0.7045454545454546,"exemplars":[{"id":"atlas-rapa-nui","name":"Rapa Nui"},{"id":"asia-han-southwest-commandery-settlement","name":"Han conquest and commandery settlement in the southwest"},{"id":"med-carthaginian-western-islands-iberia","name":"Carthaginian territorial colonization in Iberia and the western Mediterranean islands"},{"id":"med-carthage-north-african-settlement","name":"Carthaginian settlement and agrarian expansion in North Africa"},{"id":"med-greek-cyrene-colonization","name":"Theran Greek colonization of Cyrenaica"}],"top_mechanisms":{"conquest with settlement":39,"settler colonization":15,"enslavement/labor removal":12,"state resettlement/internal colonization":11},"mean_inapplicable":0.14772727272727273,"mean_unknown":0.13636363636363635,"era_median_start":1832.5},"3":{"n":102,"mean_silhouette":0.20674778394070564,"centroid":{"state_orchestration":0.06,"legal_proprietary_machinery":0.77,"settler_implantation":0.58,"elimination_vs_incorporation":0.37,"lethal_coercion":0.63,"durability_of_outcome":0.52,"displacement_into_occupied_space":-0.75,"coerced_exogenous_labor":0.59},"on_atlas_n":88,"on_atlas_share":0.8627450980392157,"exemplars":[{"id":"us-southwest-conquest-navajo-apache","name":"United States conquest and settlement of Din\u00e9 and Apache homelands"},{"id":"atlantic-new-france-st-lawrence-settlement","name":"French seigneurial settlement along the St. Lawrence"},{"id":"atlantic-british-middle-colonies-settlement","name":"British settlement and Indigenous dispossession in the middle colonies"},{"id":"atlas-russian-far-east","name":"Russian Far East"},{"id":"us-alaska-colonial-settlement","name":"United States colonial incorporation and settlement of Alaska"}],"top_mechanisms":{"settler colonization":52,"conquest with settlement":25,"state resettlement/internal colonization":8,"enslavement/labor removal":7},"mean_inapplicable":0.6372549019607843,"mean_unknown":0.0392156862745098,"era_median_start":1788.0},"4":{"n":61,"mean_silhouette":0.22503139845334172,"centroid":{"state_orchestration":0.91,"legal_proprietary_machinery":0.28,"settler_implantation":0.75,"elimination_vs_incorporation":0.76,"lethal_coercion":0.43,"durability_of_outcome":-0.14,"displacement_into_occupied_space":1.06,"coerced_exogenous_labor":-0.43},"on_atlas_n":17,"on_atlas_share":0.2786885245901639,"exemplars":[{"id":"atlas-iraqi-kurdistan-kirkuk","name":"Iraqi Kurdistan & Kirkuk"},{"id":"eu-balkan-wars-ethnic-cleansing","name":"Balkan Wars expulsions and ethnic homogenization"},{"id":"modern-tigray-war-displacement","name":"Tigray war displacement and expulsions"},{"id":"eu-croatia-war-ethnic-cleansing","name":"Ethnic cleansing and reciprocal displacement in the Croatian War"},{"id":"asia-rohingya-expulsions","name":"Denationalization, military clearance, and expulsion of the Rohingya"}],"top_mechanisms":{"expulsion/deportation/ethnic cleansing":22,"genocide-linked clearance":12,"state resettlement/internal colonization":11,"population exchange/partition":8},"mean_inapplicable":0.19672131147540983,"mean_unknown":0.14754098360655737,"era_median_start":1947.0},"5":{"n":66,"mean_silhouette":0.2475524052164903,"centroid":{"state_orchestration":0.33,"legal_proprietary_machinery":-1.07,"settler_implantation":-1.48,"elimination_vs_incorporation":-0.15,"lethal_coercion":-0.28,"durability_of_outcome":-0.9,"displacement_into_occupied_space":-0.29,"coerced_exogenous_labor":-0.53},"on_atlas_n":4,"on_atlas_share":0.06060606060606061,"exemplars":[{"id":"modern-nicaragua-revolution-contra-displacement","name":"Nicaraguan revolution and Contra-war displacement"},{"id":"ca-russo-ukrainian-war-displacement","name":"Russo-Ukrainian war mass displacement"},{"id":"modern-angola-civil-war-displacement","name":"Angolan civil war displacement"},{"id":"modern-south-sudan-civil-war-displacement","name":"South Sudan civil war and mass displacement"},{"id":"modern-afghanistan-soviet-war-displacement","name":"Soviet\u2013Afghan war mass displacement"}],"top_mechanisms":{"conflict displacement":32,"expulsion/deportation/ethnic cleansing":14,"development/conservation displacement":11,"genocide-linked clearance":4},"mean_inapplicable":5.590909090909091,"mean_unknown":0.696969696969697,"era_median_start":1987.0}},"crosstab":{"0":{"conquest with settlement":6,"demographic expansion analogue":43},"1":{"civil-war displacement and communal collapse":1,"decolonization exodus, violence, and citizenship rupture":1,"decolonization-era emigration under insecurity and institutional contraction":1,"denaturalization, property sequestration, and refugee migration":1,"development/conservation displacement":2,"enslavement/labor removal":1,"expulsion/deportation/ethnic cleansing":22,"genocide-linked clearance":3,"minority insecurity, postwar emigration, and Zionist migration":1,"multiwave emigration under insecurity, restriction, and organized recruitment":1,"pogrom-driven and organized refugee migration":1,"pogrom-driven flight, later expulsion, and property loss":1,"return/decolonizing displacement":1,"revolution-driven refugee and diaspora migration":1,"state expulsion, internment, sequestration, and refugee migration":1,"state resettlement/internal colonization":1,"travel restriction, property constraint, clandestine flight, and delayed exodus":1},"2":{"conquest with settlement":39,"conquest without substantial settlement":2,"demographic expansion analogue":1,"development/conservation displacement":5,"enslavement/labor removal":12,"expulsion/deportation/ethnic cleansing":3,"settler colonization":15,"state resettlement/internal colonization":11},"3":{"conquest with settlement":25,"conquest without substantial settlement":2,"development/conservation displacement":3,"enslavement/labor removal":7,"expulsion/deportation/ethnic cleansing":2,"genocide-linked clearance":3,"settler colonization":52,"state resettlement/internal colonization":8},"4":{"conflict displacement":1,"conquest with settlement":4,"expulsion/deportation/ethnic cleansing":22,"genocide-linked clearance":12,"population exchange/partition":8,"settler colonization":3,"state resettlement/internal colonization":11},"5":{"conflict displacement":32,"demographic expansion analogue":1,"development/conservation displacement":11,"enslavement/labor removal":2,"expulsion/deportation/ethnic cleansing":14,"genocide-linked clearance":4,"state resettlement/internal colonization":2}},"mech_totals":{"civil-war displacement and communal collapse":1,"conflict displacement":33,"conquest with settlement":74,"conquest without substantial settlement":4,"decolonization exodus, violence, and citizenship rupture":1,"decolonization-era emigration under insecurity and institutional contraction":1,"demographic expansion analogue":45,"denaturalization, property sequestration, and refugee migration":1,"development/conservation displacement":21,"enslavement/labor removal":22,"expulsion/deportation/ethnic cleansing":63,"genocide-linked clearance":22,"minority insecurity, postwar emigration, and Zionist migration":1,"multiwave emigration under insecurity, restriction, and organized recruitment":1,"pogrom-driven and organized refugee migration":1,"pogrom-driven flight, later expulsion, and property loss":1,"population exchange/partition":8,"return/decolonizing displacement":1,"revolution-driven refugee and diaspora migration":1,"settler colonization":70,"state expulsion, internment, sequestration, and refugee migration":1,"state resettlement/internal colonization":33,"travel restriction, property constraint, clandestine flight, and delayed exodus":1},"stability":{"4":{"mean_jaccard":0.7662969638208013,"per_cluster":{"0":0.7410825076322434,"1":0.9487322939165417,"2":0.7678735648109538,"3":0.6074994889234661},"n_stable_clusters":2},"6":{"mean_jaccard":0.8419467290566608,"per_cluster":{"0":0.965769726872857,"1":0.8332103287460549,"2":0.7500972491135964,"3":0.7709952291774858,"4":0.8105773454175548,"5":0.9210304950124162},"n_stable_clusters":6},"8":{"mean_jaccard":0.7364852062074453,"per_cluster":{"0":0.8785969181490048,"1":0.614359343795359,"2":0.5865554522475402,"3":0.8383903821687768,"4":0.9495808913010536,"5":0.9220622675370052,"6":0.5794903757917305,"7":0.522846018669092},"n_stable_clusters":4},"10":{"mean_jaccard":0.6659798248291766,"per_cluster":{"0":0.6578656444495141,"1":0.8999831021834137,"2":0.4401278125007215,"3":0.6360556941476823,"4":0.49778399587321603,"5":0.8654254555180481,"6":0.8035828945020775,"7":0.8803422859637487,"8":0.5930180606417018,"9":0.3856133025116425},"n_stable_clusters":4}},"noise":{"4":{"real":0.2247009571311094,"noise_mean":0.12051166125711985,"noise_sd":0.0039992506686761424,"z":26.052197887431014},"6":{"real":0.23395597763872333,"noise_mean":0.11131982517659259,"noise_sd":0.003756620383004725,"z":32.645332057403266},"8":{"real":0.23041130668337215,"noise_mean":0.1080509063434442,"noise_sd":0.004742449747744788,"z":25.801090374658052},"10":{"real":0.23637435298549717,"noise_mean":0.10735219534649948,"noise_sd":0.00397627777852005,"z":32.44796575531333}},"era":{"F1":{"rho":0.4478195322104956,"p":7.598343007962746e-20},"F2":{"rho":-0.1056718657174689,"p":0.041104168327213725},"F3":{"rho":-0.34837468300279817,"p":4.117960149800321e-12},"F4":{"rho":0.2788828487425196,"p":4.1470313175602944e-08},"F5":{"rho":0.0007940475455811837,"p":0.9877890546068474},"F6":{"rho":-0.5056908367754748,"p":1.126642427336343e-25},"F7":{"rho":0.3990970363228648,"p":9.8781662027705e-16},"F8":{"rho":-0.4107370645134334,"p":1.179599784047335e-16}},"atlas_bias":{"F1":{"on_atlas_mean":-0.2697265282798512,"off_atlas_mean":0.32367183393582144,"diff":-0.5933983622156727},"F2":{"on_atlas_mean":0.3018818398966813,"off_atlas_mean":-0.36225820787601737,"diff":0.6641400477726986},"F3":{"on_atlas_mean":0.4521620856248587,"off_atlas_mean":-0.5425945027498305,"diff":0.9947565883746892},"F4":{"on_atlas_mean":-0.06996576020923648,"off_atlas_mean":0.08395891225108378,"diff":-0.15392467246032027},"F5":{"on_atlas_mean":0.015027120901386701,"off_atlas_mean":-0.018032545081664148,"diff":0.03305966598305085},"F6":{"on_atlas_mean":0.23752171256796722,"off_atlas_mean":-0.28502605508156054,"diff":0.5225477676495278},"F7":{"on_atlas_mean":-0.2667475506220905,"off_atlas_mean":0.3200970607465087,"diff":-0.5868446113685992},"F8":{"on_atlas_mean":0.12405794323325968,"off_atlas_mean":-0.14886953187991178,"diff":0.27292747511317145}},"sil_curve":[{"k":2,"sil":0.191},{"k":3,"sil":0.221},{"k":4,"sil":0.224},{"k":5,"sil":0.223},{"k":6,"sil":0.234},{"k":7,"sil":0.231},{"k":8,"sil":0.237},{"k":9,"sil":0.232},{"k":10,"sil":0.243},{"k":11,"sil":0.236},{"k":12,"sil":0.238}],"cluster_atlas":{"0":{"n":49,"on":40},"1":{"n":41,"on":11},"2":{"n":88,"on":62},"3":{"n":102,"on":88},"4":{"n":61,"on":17},"5":{"n":66,"on":4}},"promote":[{"id":"prehistory-neolithic-mainland-southeast-asia-farmer-expansion","name":"Neolithic farmer expansion from southern China into Mainland Southeast","date":"c. 2100 BCE-1 CE","c":0,"sil":0.57},{"id":"prehistory-iberia-steppe-ancestry-turnover","name":"Steppe-ancestry expansion and male-lineage replacement in Iberia","date":"c. 2500-2000 BCE","c":0,"sil":0.49},{"id":"prehistory-post-lapita-papuan-replacement-vanuatu","name":"Post-Lapita Papuan expansion and population replacement in Vanuatu","date":"c. 600 BCE-1000 CE","c":0,"sil":0.47},{"id":"prehistory-neolithic-southern-scandinavia-turnover","name":"Funnel Beaker farmer colonization and hunter-gatherer replacement in s","date":"c. 4000-3300 BCE","c":0,"sil":0.47},{"id":"atlas-indo-aryan-migration","name":"Steppe migration into South Asia","date":"c. 2000\u20131500 BCE","c":0,"sil":0.46},{"id":"atlas-magyar-carpathian","name":"Magyar settlement of the Carpathian Basin","date":"c. 895\u20131000 CE","c":0,"sil":0.41},{"id":"new-zealand-musket-wars-displacement","name":"Musket Wars inter-iwi conquests and mass displacement in Aotearoa","date":"c. 1818\u20131840","c":0,"sil":0.3},{"id":"am-argentina-chaco-conquest-reducciones","name":"Argentine conquest of the Gran Chaco and confinement on reducciones","date":"1884\u20131917","c":3,"sil":0.3},{"id":"medieval-umayyad-conquest-settlement-iberia","name":"Umayyad conquest and Arab-Berber settlement of Iberia (al-Andalus)","date":"711-c. 800","c":2,"sil":0.26},{"id":"af-mascarene-seychelles-forced-population-formation","name":"Colonial settlement, slavery, and indenture in the Mascarenes and Seyc","date":"1638\u2013c. 1920","c":3,"sil":0.22}],"atlas_in_sparse":[{"id":"mena-jewish-departure-syria","name":"Restriction, clandestine flight, and the delayed departure of Syria's ","c":1,"sil":0.46},{"id":"mena-jewish-departure-libya","name":"Pogroms, mass departure, and the end of Jewish communal life in Libya","c":1,"sil":0.41},{"id":"mena-jewish-departure-iraq","name":"Denaturalization, property sequestration, and the departure of Iraq's ","c":1,"sil":0.4},{"id":"mena-jewish-departure-yemen-aden","name":"The mass departure of Yemenite and Adeni Jews","c":1,"sil":0.4},{"id":"mena-jewish-departure-algeria","name":"Decolonization and the exodus of Algeria's Jews","c":1,"sil":0.39},{"id":"ca-crimean-tatar-deportation-resettlement","name":"Soviet deportation of Crimean Tatars and replacement settlement","c":4,"sil":0.39},{"id":"ca-soviet-chechen-ingush-deportation","name":"Soviet deportation of Chechens and Ingush and settler redistribution o","c":4,"sil":0.38},{"id":"mena-jewish-departure-egypt","name":"Expulsion, sequestration, and the dispersal of Egyptian Jews","c":1,"sil":0.38},{"id":"atlas-iraqi-kurdistan-kirkuk","name":"Iraqi Kurdistan & Kirkuk","c":4,"sil":0.37},{"id":"mena-jewish-departure-turkey","name":"Postwar Jewish emigration from Turkey","c":1,"sil":0.34}],"n_atlas_in_sparse":32,"hybrids":[{"id":"ca-imperial-russian-colonization-crimea","name":"Imperial Russian annexation, Tatar dispossession, and settler coloniza","c":2,"sil":-0.02},{"id":"modern-acadian-deportation-planter-replacement","name":"Acadian deportation and New England Planter replacement","c":3,"sil":-0.01},{"id":"atlas-sokoto-caliphate","name":"The Fulani jihad and the Sokoto Caliphate","c":2,"sil":-0.01},{"id":"south-africa-land-act-apartheid-removals","name":"South African segregation, apartheid, and forced removals","c":2,"sil":-0.01},{"id":"atlas-cahokia-colonies","name":"Cahokian colonies on the northern frontier","c":5,"sil":-0.01},{"id":"mena-negev-bedouin-dispossession","name":"Negev Bedouin dispossession, concentration, and village nonrecognition","c":4,"sil":-0.01},{"id":"south-africa-xhosa-frontier-wars-settlement","name":"Xhosa frontier wars and British settlement of the eastern Cape","c":2,"sil":-0.0},{"id":"asia-indonesian-occupation-timor-leste","name":"Indonesian occupation, forced resettlement, and removals from Timor-Le","c":2,"sil":-0.0}]}</script>
+<script>
+const D=JSON.parse(document.getElementById('D').textContent);
+const CC=['var(--c0)','var(--c1)','var(--c2)','var(--c3)','var(--c4)','var(--c5)'];
+const FN=D.factor_names;
+const FKEYS=Object.keys(FN);
+const LABEL={
+ state_orchestration:'State orchestration',
+ legal_proprietary_machinery:'Legal-proprietary machinery',
+ settler_implantation:'Settler implantation',
+ elimination_vs_incorporation:'Elimination vs incorporation',
+ lethal_coercion:'Lethal coercion',
+ durability_of_outcome:'Durability of outcome',
+ displacement_into_occupied_space:'Displacement into occupied space',
+ coerced_exogenous_labor:'Coerced exogenous labour'};
+const DESC={
+ state_orchestration:'A central state, metropole, or ministry plans and executes, with legible intent &#8212; versus a settler society acting on its own account. Bipolar: high is state project, low is settler autonomy.',
+ legal_proprietary_machinery:'Title transfer, formal expropriation, land commodification, legal instrumentation, cadastral legibility. Whether the taking ran through paperwork.',
+ settler_implantation:'Whether a self-reproducing incoming population actually landed: family migration, coordinated streams, demographic saturation.',
+ elimination_vs_incorporation:'High: the prior population was removed and its ancestry does not persist. Low: it was incorporated as labour and its descendants remain.',
+ lethal_coercion:'Massacre, mortality share, subsistence destruction, confinement of survivors, sex-differential targeting. Independent of the structural axes.',
+ durability_of_outcome:'Sovereignty durability, structural persistence, present-day endpoint, foreclosure of return. Era-confounded &#8212; read with caution.',
+ displacement_into_occupied_space:'People pushed into already-inhabited territory rather than land being converted to a new production regime.',
+ coerced_exogenous_labour:'Import of unfree third-party labour &#8212; the plantation configuration, where incomers are neither settlers nor natives.',
+ coerced_exogenous_labor:'Import of unfree third-party labour &#8212; the plantation configuration, where incomers are neither settlers nor natives.'};
+const CNAME={0:'Stateless durable settlement',1:'Exodus without replacement',2:'Conquest with absorption',3:'Legalised settler replacement',4:'State demographic engineering',5:'Transient conflict displacement'};
+const CDESC={
+ 0:'No state carrier and no legal machinery at all, yet settlers implant and the outcome sticks. Overwhelmingly the prehistoric and early-medieval expansions &#8212; and the highest unknown-code count in the corpus, reflecting real evidentiary limits rather than coder failure.',
+ 1:'A population leaves and no one replaces it. Strongly negative on settler implantation, strongly positive on movement into already-occupied space. Carries the corpus&#8217;s heaviest load of structurally-inapplicable codes: there are simply no incomers to describe.',
+ 2:'Conquest where the prior population is absorbed rather than removed &#8212; its labour incorporated, its ancestry persisting in the successor population. The most heterogeneous kind, and the weakest-separated.',
+ 3:'The classic syndrome: formal title, settler families, durable sovereignty, and elevated coercion together. The largest kind and the one the atlas publishes most completely.',
+ 4:'A state removes one population and installs another, deliberately and legibly, into space that was already occupied. Structurally distinct from both plain expulsion and settler colonisation.',
+ 5:'War-driven flight with no replacement project, no legal apparatus, and no durable settlement outcome. The most coherent kind by mechanism, and the least represented on the atlas.'};
+
+/* key figures */
+document.getElementById('figs').innerHTML=[
+ ['407','events coded'],['60','dimensions each'],['8','factors retained'],
+ ['6','stable kinds'],['0.29','ARI vs current scheme'],['0.84','bootstrap stability']
+].map(([v,l])=>`<div class="fig"><div class="v">${v}</div><div class="l">${l}</div></div>`).join('');
+
+/* loading matrix */
+const GRP={scs:'Settler-colonial studies',pel:'Political economy',hdem:'Historical demography',gfm:'Genocide & forced migration',ssi:'State & sovereignty'};
+const dims=Object.keys(D.loadings.F1);
+let html='<thead><tr><th class="dim"></th>';
+FKEYS.forEach(f=>{html+=`<th class="rot">${LABEL[FN[f]]||FN[f]}</th>`});
+html+='</tr></thead><tbody>';
+let last='';
+dims.forEach(d=>{
+  const g=d.split('_')[0];
+  if(g!==last){last=g; html+=`<tr><th class="grp" colspan="9">${GRP[g]||g}</th></tr>`}
+  html+=`<tr><th class="dim">${d}</th>`;
+  FKEYS.forEach(f=>{
+    const v=D.loadings[f][d];
+    if(Math.abs(v)<0.3){html+=`<td class="z"></td>`}
+    else{
+      const a=Math.min(1,(Math.abs(v)-0.28)/0.62);
+      const c=v>0?'var(--pos)':'var(--neg)';
+      html+=`<td style="background:${c};opacity:${(0.30+0.70*a).toFixed(2)}" title="${d} &#183; ${v}">${v>0?'':'&#8722;'}${Math.abs(v).toFixed(2).slice(1)}</td>`;
+    }
+  });
+  html+='</tr>';
+});
+document.getElementById('mat').innerHTML=html+'</tbody>';
+
+/* factor cards */
+document.getElementById('fcards').innerHTML=FKEYS.map((f,i)=>{
+  const n=FN[f], v=D.var_prop[i];
+  return `<div class="fcard"><span class="fid">${f} &#183; ${(v*100).toFixed(1)}% of variance</span>
+   <h3>${LABEL[n]||n}</h3><p>${DESC[n]||''}</p>
+   <div class="bar"><i style="width:${(v/0.10*100).toFixed(0)}%"></i></div>
+   <span class="varlab">era correlation &#961; ${D.era[f].rho>=0?'+':''}${D.era[f].rho.toFixed(2)}${Math.abs(D.era[f].rho)>0.5?' &#183; confounded':''}</span></div>`;
+}).join('');
+
+/* cluster cards */
+document.getElementById('ccards').innerHTML=Object.keys(D.clusters).map(c=>{
+  const cl=D.clusters[c], cen=cl.centroid, share=cl.on_atlas_share;
+  const rows=FKEYS.map(f=>{
+    const n=FN[f], v=cen[n]||0, w=Math.min(50,Math.abs(v)/2.0*50);
+    const left=v>=0?50:50-w;
+    return `<div class="row"><span class="tk">${LABEL[n]||n}</span>
+      <span class="tr"><u></u><i style="left:${left}%;width:${w}%"></i></span></div>`;
+  }).join('');
+  const ex=cl.exemplars.slice(0,3).map(e=>e.id).join('<br>');
+  return `<div class="ccard" style="--ck:${CC[c]}">
+    <span class="cn">Kind ${c} &#183; n=${cl.n}</span>
+    <h3>${CNAME[c]}</h3>
+    <p class="desc">${CDESC[c]}</p>
+    ${`<div class="sig">${rows}</div>`}
+    <div class="cov"><span>atlas</span><span class="track"><i style="width:${(share*100).toFixed(0)}%"></i></span><span>${cl.on_atlas_n}/${cl.n} &#183; ${(share*100).toFixed(0)}%</span></div>
+    <div class="exs">${ex}</div></div>`;
+}).join('');
+
+/* mechanism split */
+const mt=D.mech_totals, ctab=D.crosstab;
+const rows=Object.keys(mt).filter(m=>mt[m]>=8).map(m=>{
+  const counts=[0,1,2,3,4,5].map(c=>(ctab[c]&&ctab[c][m])||0);
+  const tot=counts.reduce((a,b)=>a+b,0);
+  const nz=counts.filter(x=>x>0).length;
+  const mx=Math.max(...counts)/tot;
+  return {m,tot,nz,mx,counts};
+}).sort((a,b)=>a.nz-b.nz||b.mx-a.mx);
+document.getElementById('split').innerHTML=
+ '<thead><tr><th>Current mechanism family</th><th>n</th><th>Distribution across the six kinds</th><th>Kinds</th><th>Largest</th><th></th></tr></thead><tbody>'+
+ rows.map(r=>`<tr><td>${r.m}</td><td class="r">${r.tot}</td>
+  <td><span class="spread">${r.counts.map((v,i)=>v?`<i style="background:${CC[i]};flex:${v}" title="Kind ${i}: ${v}"></i>`:'').join('')}</span></td>
+  <td class="r">${r.nz}</td><td class="r">${(r.mx*100).toFixed(0)}%</td>
+  <td><span class="verdict ${r.nz<=2?'v-hold':(r.nz>=4?'v-break':'')}">${r.nz<=2?'held':(r.nz>=4?'fragmented':'mixed')}</span></td></tr>`).join('')+'</tbody>';
+
+/* atlas bias */
+const bias=D.atlas_bias;
+document.getElementById('bias').innerHTML=
+ '<thead><tr><th>Factor</th><th>On atlas</th><th>Off atlas</th><th>Difference</th><th></th></tr></thead><tbody>'+
+ FKEYS.map(f=>{
+   const b=bias[f], d=b.diff, w=Math.min(50,Math.abs(d)/1.0*50), left=d>=0?50:50-w;
+   const col=d>=0?'var(--pos)':'var(--neg)';
+   return `<tr><td>${LABEL[FN[f]]||FN[f]}</td>
+    <td class="r">${b.on_atlas_mean>=0?'+':''}${b.on_atlas_mean.toFixed(2)}</td>
+    <td class="r">${b.off_atlas_mean>=0?'+':''}${b.off_atlas_mean.toFixed(2)}</td>
+    <td class="r">${d>=0?'+':''}${d.toFixed(2)}</td>
+    <td><span class="tr" style="position:relative;display:block;height:10px;background:var(--sunk)">
+      <u style="position:absolute;left:50%;top:-2px;bottom:-2px;width:1px;background:var(--rule)"></u>
+      <i style="position:absolute;left:${left}%;width:${w}%;top:0;height:100%;background:${col}"></i></span></td></tr>`;
+ }).join('')+'</tbody>';
+
+/* lists */
+const mkList=(el,items,meta)=>{
+  document.getElementById(el).innerHTML=items.map(o=>
+   `<div class="it"><span class="cdot" style="background:${CC[o.c]}"></span>
+    <span class="nm">${o.name}<em>${o.id}</em></span>
+    <span class="mt">${meta(o)}</span></div>`).join('');
+};
+mkList('promo',D.promote,o=>`${o.date||''} &#183; kind ${o.c}`);
+mkList('sparse',D.atlas_in_sparse,o=>`kind ${o.c}`);
+mkList('hyb',D.hybrids,o=>`kind ${o.c} &#183; sil ${o.sil.toFixed(2)}`);
+</script>

@@ -1,0 +1,53 @@
+{
+  "schema": "post-v5-corrected-eight-trait-card-summary-v1",
+  "status": "frozen_v4_card_model_corrected_candidate_not_active",
+  "event_count": 675,
+  "trait_count": 8,
+  "display_status_counts": {
+    "F1_state_orchestration_display_status": {
+      "insufficient_evidence_do_not_show_solid_point": 30,
+      "partial_evidence_show_range": 41,
+      "supported_point": 604
+    },
+    "F2_legal_proprietary_machinery_display_status": {
+      "insufficient_evidence_do_not_show_solid_point": 62,
+      "partial_evidence_show_range": 58,
+      "supported_point": 555
+    },
+    "F3_settler_implantation_display_status": {
+      "insufficient_evidence_do_not_show_solid_point": 169,
+      "partial_evidence_show_range": 25,
+      "supported_point": 481
+    },
+    "F4_elimination_vs_incorporation_display_status": {
+      "insufficient_evidence_do_not_show_solid_point": 205,
+      "partial_evidence_show_range": 81,
+      "supported_point": 389
+    },
+    "F5_lethal_coercion_display_status": {
+      "insufficient_evidence_do_not_show_solid_point": 217,
+      "partial_evidence_show_range": 51,
+      "supported_point": 407
+    },
+    "F6_durability_of_outcome_display_status": {
+      "insufficient_evidence_do_not_show_solid_point": 128,
+      "partial_evidence_show_range": 34,
+      "supported_point": 513
+    },
+    "F7_separation_from_homeland_display_status": {
+      "insufficient_evidence_do_not_show_solid_point": 255,
+      "structural_not_applicable": 1,
+      "supported_point": 419
+    },
+    "F8_coerced_exogenous_labor_display_status": {
+      "insufficient_evidence_do_not_show_solid_point": 91,
+      "partial_evidence_show_range": 169,
+      "supported_point": 415
+    }
+  },
+  "known_applicable_share": {
+    "minimum": 0.0,
+    "median": 0.8771929824561403,
+    "maximum": 1.0
+  }
+}

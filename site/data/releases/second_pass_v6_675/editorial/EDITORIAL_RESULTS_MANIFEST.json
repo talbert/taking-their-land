@@ -1,0 +1,33 @@
+{
+  "schema": "post-v5-corrected-editorial-results-manifest-v1",
+  "status": "reproducible_candidate_editorial_outputs_not_active",
+  "candidate": "post_v5_corrected_successor_675",
+  "frozen_card_model_source": "second_pass_v5_676/editorial/eight_trait_card_model.json",
+  "input_sha256": {
+    "analysis/second_pass/v5/post_v5_correction_application_v1/build_editorial_outputs.py": "93fe9a160f579dde640cd8d377c4f2626beb67f5ffbd9e324defd9ac499ceae7",
+    "analysis/second_pass/v5/post_v5_correction_application_v1/CORRECTION_PLAN.json": "36cbbc8d72ad1ce873c128526f96b23fd647e6d542e04f435651966f98d60cd3",
+    "analysis/second_pass/v5/post_v5_correction_application_v1/candidate/post_v5_corrected_successor_675/candidate_manifest.json": "94ca23c844ef2d294d536ca46bd69f210db8cc7189c0f7d807ec8a1ff090b991",
+    "analysis/second_pass/v5/post_v5_correction_application_v1/candidate/post_v5_corrected_successor_675/data/corpus_v2.json": "6b54b4f159a20b51c3389a4d4290dabf613a2f0159f9d517c67eac647ebe6a3d",
+    "analysis/second_pass/v5/post_v5_correction_application_v1/candidate/post_v5_corrected_successor_675/data/scores_v2.csv": "70b004bc0b9526d928c48049d04036e2d8dd89f1c27a92cbca68c6f769f6d51c",
+    "analysis/second_pass/v5/post_v5_correction_application_v1/candidate/post_v5_corrected_successor_675/data/na_types_v2.csv": "78d9ef238a381dd592c754b8723bb6fc7deb4c3959472f35c89c3e5ded669eea",
+    "analysis/second_pass/releases/second_pass_v5_676/editorial/primary_family_labels.csv": "0f2b97ae227a093d69c44a69ecb081cae1725c470b6e408fd173b8ea9750ac0c",
+    "analysis/second_pass/releases/second_pass_v5_676/editorial/eight_trait_card_model.json": "6b97b895c0de48d82aa1ed3a127e9095288ad9fa6e88ea850a5a4f59ad9daa9c"
+  },
+  "output_sha256": {
+    "eight_trait_cards.csv": "6777bf64a88185036cf928e6cf64a2370f4d5b7901aab39354884b4fe8b32188",
+    "eight_trait_card_summary.json": "421220806587d3aa9c3febb45fa6eb5e9429822484d2e1ac5e590a932d37605d",
+    "primary_family_labels.csv": "4c3c77ffc654fe8ea40149ba00cad9d1946f12e9d8c4a923d4aadbbfdcb65f08",
+    "primary_family_summary.json": "f18ad2557ed0a3a7b24dcc770f12797a8e285316f5a3646b9a2cc6e93ddf7837",
+    "eight_trait_card_model.json": "6b97b895c0de48d82aa1ed3a127e9095288ad9fa6e88ea850a5a4f59ad9daa9c"
+  },
+  "runtime": {
+    "python": "3.9.6",
+    "python_executable": "/Users/talbert/settler colonalism visualization/tmp/second-pass-venv/bin/python",
+    "numpy": "1.25.2",
+    "pandas": "2.1.0"
+  },
+  "candidate_activation_authorized": false,
+  "release_authorized": false,
+  "atlas_change_authorized": false,
+  "deployment_authorized": false
+}

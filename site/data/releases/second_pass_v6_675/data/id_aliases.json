@@ -1,0 +1,16 @@
+{
+  "schema": "post-v5-event-id-aliases-v1",
+  "candidate": "post_v5_corrected_successor_675",
+  "aliases": {
+    "early-neo-assyrian-ashurnasirpal-tumme-habhu-883": {
+      "candidate_event_id": "early-neo-assyrian-ashurnasirpal-tumme-habhu",
+      "kind": "statistical_event_id_alias",
+      "reason": "The old suffix falsely resolves the ORACC 882 versus Sano 883 chronology conflict."
+    },
+    "early-neo-assyrian-ashurnasirpal-nipur-pasate-883": {
+      "candidate_event_id": "early-neo-assyrian-ashurnasirpal-nipur-pasate",
+      "kind": "statistical_event_id_alias",
+      "reason": "The old suffix falsely resolves the ORACC 882 versus Sano 883 chronology conflict."
+    }
+  }
+}

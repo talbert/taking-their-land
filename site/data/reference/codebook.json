@@ -1,0 +1,970 @@
+{
+ "version": "1.1",
+ "n_dimensions": 60,
+ "dimensions": [
+  {
+   "id": "scs_settler_permanence_orientation",
+   "discipline": "settler-colonial-studies",
+   "name": "settler_permanence_orientation",
+   "definition": "Whether the incoming population's migration was demographically and materially structured for permanent, self-reproducing settlement rather than sojourning, garrisoning, or extraction tours.",
+   "anchors": [
+    "0: No incoming resident population settles in the affected territory during the event window (pure expulsion, conflict displacement, or clearance with no arriving settlers).",
+    "1: Incomers are overwhelmingly rotating male sojourners — garrisons, administrators, traders — who normally return home; no on-site settler family reproduction (incomer sex ratio above ~4:1 male, or fixed tours of duty documented).",
+    "2: Male-biased incomer stream becomes resident but reproduces mainly with prior-population women; permanence without family migration (aDNA pattern of incoming Y-lineages paired with local maternal lineages, or documented intermarriage regime).",
+    "3: Family-unit migration is documented and incomers form self-reproducing communities with on-site burial and heritable landholding, but return migration and homeland circulation remain common (roughly 10-40% return where measurable).",
+    "4: Migration dominated by family units or whole communities with near-balanced sex ratios; multigenerational tenure, burial, and inheritance the norm; return migration rare — the incomers demonstrably 'come to stay'."
+   ],
+   "evidence_notes": "Decided from migrant-cohort composition: sex ratios, children in passenger lists or cemetery populations, inheritance records, return-migration rates. Key works: Veracini, Settler Colonialism: A Theoretical Overview (2010), ch. 1 (settlers 'come to stay'); Belich, Replenishing the Earth (2009) on family-based Anglo settlement; Fischer, Albion's Seed (1989) for the New England balanced-sex-ratio benchmark versus male sojourner streams.",
+   "era_coverage": "Fully codable prehistorically via aDNA: sex-biased admixture (incoming Y-chromosomes with local mtDNA = score 2, as in Yamnaya-derived expansions per Haak et al. 2015) versus whole-family ancestry turnover (Early Neolithic Britain per Brace et al. 2019 = score 4). Return 'unknown' only when neither biological, burial, nor documentary evidence indicates cohort composition.",
+   "expected_correlates": "Will correlate with demographic_saturation and structural_persistence — meaningful covariance, not redundancy: the elite male-biased configuration (score 2) with high persistence (Yamnaya, Sokoto) is exactly what distinguishes conquest regimes from settler colonization proper."
+  },
+  {
+   "id": "scs_metropole_anchorage",
+   "discipline": "settler-colonial-studies",
+   "name": "metropole_anchorage",
+   "definition": "The degree to which an external sponsoring polity (metropole) initiated, chartered, and continuously governed the settlement or removal project.",
+   "anchors": [
+    "0: No metropole exists: the moving population has no sponsoring state or institution elsewhere; migration is endogenous kin-group or tribal movement (all pre-state expansions).",
+    "1: A homeland exists as recruitment pool and cultural referent but exercises no institutional control over the venture (chain migration, diaspora settlement without charter).",
+    "2: Metropolitan institutions organize the founding — charters, oikist appointments, locator contracts, colonization-society sponsorship — but the settlement self-governs after establishment (Greek apoikia; American Colonization Society and Liberia).",
+    "3: Metropole retains ongoing sovereign governance (appointed governors, metropolitan law, garrisons, trade regulation) over a settlement that also has substantial settler institutions (royal-colony pattern: Saint-Domingue; post-1684 New England).",
+    "4: The project is executed throughout as a direct arm of the central state — ministries, armies, or paramilitary corps plan, transport, and administer both removal and settlement (viceroyalty of Kush in New Kingdom Nubia; SS/RKFDV under Generalplan Ost; Soviet resettlement of Crimea; XPCC)."
+   ],
+   "evidence_notes": "Founding charters, appointment records, state planning documents, administrative correspondence. Motivated by the settler-versus-metropolitan colonialism distinction in Veracini (2010) and the colony typologies of Osterhammel, Colonialism (1997) and Fieldhouse, The Colonial Empires (1966). Scores the initiating/governing side only — where sovereignty ends up is settler_sovereignty_capture.",
+   "era_coverage": "Prehistoric cases score 0 by positive determination (no state existed to sponsor) — that is a real datum, not 'unknown'. Reserve 'unknown' for protohistoric cases where sponsorship is plausible but unattested (e.g., the contested Fatimid role in dispatching the Banu Hilal).",
+   "expected_correlates": "Expected negative correlation with settler_agency_locus by construction; both are retained because hybrid cases (chartered-then-autonomous, settler-led-then-annexed) score high on both, and that hybridity is itself a finding."
+  },
+  {
+   "id": "scs_settler_sovereignty_capture",
+   "discipline": "settler-colonial-studies",
+   "name": "settler_sovereignty_capture",
+   "definition": "How far the incoming/beneficiary population itself became the sovereign political authority over the affected territory by the end of the event window.",
+   "anchors": [
+    "0: Incomers (if any) never hold political authority over the territory, or the project collapses or is overthrown before authority consolidates (Norse Greenland's extinction; Saint-Domingue, where the victims' descendants seized sovereignty in 1804).",
+    "1: Incomers hold only delegated local privileges (town law, communal self-administration) under the continuing sovereignty of prior-population rulers or a third power (Ostsiedlung villages under Piast and Premyslid princes).",
+    "2: Incomers govern themselves under an external metropole's sovereignty; the prior population is subject to settler-run local institutions but ultimate authority is metropolitan (colonial New England; planter Saint-Domingue before 1791).",
+    "3: The incomers' nation controls the sovereign state ruling the territory, but as a region of a larger polity rather than a distinct settler state (Han-dominated PRC rule in Xinjiang; Soviet rule of resettled Crimea; the Iraqi state after the Jewish exodus).",
+    "4: A polity constituted by the settler collective or its descendants exercises independent sovereignty over the territory at event end (USA over California; Israel by 1949; the Americo-Liberian republic 1847-1980; the Teutonic Ordensstaat at its height)."
+   ],
+   "evidence_notes": "Juridical status of the territory at the closing date: who legislated, taxed, and commanded force. Grounded in Veracini's argument that settler colonialism is distinguished by sovereignty passing to the settler collective — settler colonialism 'extinguishes itself' through settler independence (Veracini 2010; Cavanagh & Veracini, Routledge Handbook of the History of Settler Colonialism, 2017, introduction).",
+   "era_coverage": "For stateless societies, code the analogue: did incoming lineages hold paramount political authority (elite-burial and settlement-hierarchy turnover)? Yamnaya-derived elite dominance in successor cultures supports 3-4 on the analogue; where political organization is archaeologically invisible, return 'unknown'.",
+   "expected_correlates": "Correlates with structural_persistence and, at the top end, inversely with metropole_anchorage (score 4 usually requires breaking with the metropole). Not redundant with persistence: Liberia scores 4 here but low-mid on persistence because the settler order was overthrown in 1980."
+  },
+  {
+   "id": "scs_native_labor_articulation",
+   "discipline": "settler-colonial-studies",
+   "name": "native_labor_articulation",
+   "definition": "Whether the project's economy needed the prior population's labor (exploitation/dependence) or rendered it superfluous — Wolfe's precondition for the logic of elimination.",
+   "anchors": [
+    "0: The incomer polity/economy is structurally dependent on prior-population labor kept in place — tribute, corvee, serfdom, tenancy, or slave production by the conquered (Sokoto Caliphate plantation slavery of conquered communities; encomienda-type regimes).",
+    "1: Major sectors rely on prior-population labor although settlers also produce (labor drafts, native auxiliaries and porters central to the economy).",
+    "2: Segmented economy: settler production is self-sufficient in the core sector while prior-population labor is used seasonally or peripherally (rancho-era California; Greek cities with dependent native cultivators such as the Killyrioi of Syracuse).",
+    "3: Prior-population labor is marginal; the incomer economy runs on settler families' own labor and the prior population is economically dispensable (New England family farming after the fur-trade period).",
+    "4: Prior population deliberately excluded from the incomer economy — labor supplied by settlers or imported third parties, with documented exclusion policy ('Hebrew labor' campaigns; Generalplan Ost's design to replace rather than employ most Slavic populations)."
+   ],
+   "evidence_notes": "Who worked the land, mines, and households: labor codes, tribute registers, plantation records, exclusionary hiring rules. This is the battery's theoretical core: Wolfe, 'Settler Colonialism and the Elimination of the Native', Journal of Genocide Research 8:4 (2006) — settler colonialism destroys to replace because it does not need native labor; Fieldhouse (1966) and Osterhammel (1997) on exploitation versus settlement colonies; Elkins & Pedersen (eds.), Settler Colonialism in the Twentieth Century (2005) on mixed regimes.",
+   "era_coverage": "Prehistory: infer from producer-population continuity under incoming elites (settlement continuity plus elite turnover suggests dependence, 0-2) versus wholesale settlement replacement (3-4). Where the record cannot distinguish incorporation of producers from their replacement, return 'unknown' rather than defaulting to mid-scale.",
+   "expected_correlates": "Predicted to anti-correlate with transfer_mode_multiplicity and land_tenure_extinguishment: dependence protects, superfluity licenses removal. This lets the factor analysis TEST Wolfe's central hypothesis instead of assuming it — if labor dependence fails to load opposite the elimination measures, the discipline's core claim needs revision."
+  },
+  {
+   "id": "scs_transfer_mode_multiplicity",
+   "discipline": "settler-colonial-studies",
+   "name": "transfer_mode_multiplicity",
+   "definition": "How many distinct modes of 'transfer' (Veracini's term for the repertoire by which a project removes, absorbs, or erases the prior population) are positively documented: (a) necropolitical killing campaigns; (b) physical removal — deportation, expulsion, flight under attack, confinement to reserves; (c) coerced assimilation — forced conversion, language prohibition, child transfer; (d) juridical-administrative erasure — status denial, blood-quantum accounting, criminalized presence; (e) conceptual-narrative erasure — emptiness doctrines, renaming, denial of priority.",
+   "anchors": [
+    "0: No transfer mode documented: incomers settle without removing, absorbing, or erasing a prior population (vacuum settlement, e.g., Norse landnam in effectively unoccupied south Greenland).",
+    "1: Exactly one mode positively documented (e.g., a pure expulsion with no killing campaign, assimilation apparatus, or erasure program).",
+    "2: Two distinct modes positively documented.",
+    "3: Three distinct modes positively documented.",
+    "4: Four or five modes documented in combination (California 1846-73: militia extermination campaigns + removal to reservations + child indenture under the 1850 Act for the Government and Protection of Indians + legal nonpersonhood + 'vanishing Digger' narratives)."
+   ],
+   "evidence_notes": "Checklist coding against five mode families condensed from the twenty-six transfer types enumerated in Veracini (2010), ch. 2. Each mode requires one positively attested instrument or practice (statute, decree, campaign record) — not inference from outcome. Wolfe (2006) on assimilation as elimination; Moses (ed.), Genocide and Settler Society (2004) on the killing/absorption continuum.",
+   "era_coverage": "Prehistoric ceiling is structurally lower: only necropolitical (massacre sites, e.g., Neolithic mass graves), physical displacement (abrupt settlement abandonment), and proxies for assimilation (sex-biased absorption) or narrative transfer (total language replacement) are visible, so prehistoric scores are effectively censored at ~2-3; code what is attested and flag the censoring. Return 'unknown' only when the record supports no determination at all.",
+   "expected_correlates": "Positive correlation with land_tenure_extinguishment and negative with native_labor_articulation expected. Its non-redundant contribution: it measures BREADTH of the eliminative repertoire, not lethality — a low-death, high-multiplicity assimilationist project separates cleanly from a high-death single-mode massacre."
+  },
+  {
+   "id": "scs_land_tenure_extinguishment",
+   "discipline": "settler-colonial-studies",
+   "name": "land_tenure_extinguishment",
+   "definition": "How comprehensively the prior population's land-tenure regime within the affected territory was legally or institutionally extinguished and re-titled to incomers or the beneficiary state.",
+   "anchors": [
+    "0: Prior tenure regime intact: displaced people's title is not formally extinguished and no re-titling apparatus operates (most conflict displacement, e.g., Yemen since 2014).",
+    "1: Dispossession is de facto only — squatting, seizure, destruction — with no legal instrument converting title (raiding-era occupations; most prehistoric analogues).",
+    "2: Formal expropriation of specific tracts or communities (military zones, confiscation decrees) while the general tenure regime survives (Marshall Islands test-site takings).",
+    "3: A majority of the affected territory is re-titled to incomers or the beneficiary state through a systematic apparatus — surveys, land commissions, absentee- or abandoned-property laws (Israel's Absentee Property Law of 1950 and subsequent land regime; Teutonic Handfesten re-granting in Prussia; transfer of deported Crimean Tatars' farms to settler kolkhozy).",
+    "4: Comprehensive extinguishment: prior tenure is voided wholesale or denied ever to have existed — terra-nullius-style doctrine, unratified treaties invoked as cession, or total cadastral replacement (California after the 1851 Land Claims Act with eighteen treaties negotiated but never ratified; Chagos, where the entire population was removed and no tenure survived)."
+   ],
+   "evidence_notes": "Land statutes, survey and cadastre creation, treaty ratification records, confiscation decrees, restitution litigation. Cole Harris, 'How Did Colonialism Dispossess?', Annals of the AAG 94:1 (2004); Banner, How the Indians Lost Their Land (2005); Weaver, The Great Land Rush (2003); law chapters in Cavanagh & Veracini (2017).",
+   "era_coverage": "A legal-institutional dimension, so prehistoric cases usually score 1 by positive determination (de facto displacement without any tenure apparatus), or 'unknown' when even de facto dispossession versus absorption cannot be distinguished. Never project legalism backwards: scores 2-4 require an attested administrative instrument.",
+   "expected_correlates": "Correlates with metropole_anchorage and settler_sovereignty_capture (states and settler polities build tenure apparatus). Non-redundant payoff: it splits events with identical demographic outcomes by whether replacement was bureaucratized — the difference between the Banu Hilal and the Ostsiedlung."
+  },
+  {
+   "id": "scs_symbolic_indigenization",
+   "discipline": "settler-colonial-studies",
+   "name": "symbolic_indigenization",
+   "definition": "The extent to which the incoming/beneficiary population claimed the land as always-already theirs — erasing prior presence through renaming, emptiness doctrines, founding myths, and settler claims to native or returning status.",
+   "anchors": [
+    "0: Prior population's priority openly acknowledged: place-names retained, incomers self-describe as newcomers, prior right recognized in founding accounts.",
+    "1: Limited renaming confined to new foundations; prior toponyms and the fact of prior occupation persist in incomer usage and records.",
+    "2: Substantial renaming plus a providential or civilizational founding myth, but prior presence remains legally and narratively acknowledged (deeds, treaties, or mission records that name prior owners).",
+    "3: Dominant discourse asserts the land was empty, waste, or underused, and/or incomers claim indigeneity or return; systematic toponym replacement; prior population narrated as vanishing (New England vacuum-domicilium arguments; Americo-Liberian 'return' ideology; 'land without a people' tropes).",
+    "4: Comprehensive erasure program: official doctrine denies prior ownership or existence and toponymy is replaced wholesale by decree (post-1944 Crimea, where Soviet decrees of 1945-48 renamed the overwhelming majority of Crimean Tatar settlements; Generalplan Ost Germanization of names; leveling and renaming of ~400 depopulated Palestinian villages)."
+   ],
+   "evidence_notes": "Toponym-replacement decrees and before/after gazetteer comparison, founding charters and myths, legal doctrines of emptiness, settler-indigenization claims. Veracini (2010) on 'transfer by conceptual displacement' and settler indigenization; Wolfe (1999; 2006) on repressive authenticity and the vanishing native; Benvenisti, Sacred Landscape (2000) on the remade map of Palestine; O'Brien, Firsting and Lasting (2010) on New England. This is the dimension only settler-colonial studies would insist on measuring: erasure as an operating component of replacement, not commentary on it.",
+   "era_coverage": "Prehistory: use linguistic and toponymic survival as the proxy — total language replacement with sparse substrate toponymy supports a score-3 analogue; persistent substrate hydronymy (Old European river names) supports lower scores. Doctrine and myth are inaccessible, so cap prehistoric scores at 3 and return 'unknown' where linguistic outcomes are undetermined.",
+   "expected_correlates": "Predicted to correlate with structural_persistence (erasure is the maintenance work of a persisting order — Wolfe's structure-not-event) and settler_permanence_orientation, but weakly with lethality-type measures: erasure is cheap and often peaks after the killing stops, which is exactly why it needs its own axis."
+  },
+  {
+   "id": "scs_settler_agency_locus",
+   "discipline": "settler-colonial-studies",
+   "name": "settler_agency_locus",
+   "definition": "Who drove acquisition on the ground: autonomous settler collectives moving ahead of (or against) state authority versus conscripted or directed populations executing a state plan.",
+   "anchors": [
+    "0: No autonomous settler initiative: participants are transported, assigned, or conscripted by the organizing state, which selects sites and allocates land (Soviet organized resettlement of emptied Crimea; XPCC paramilitary land assignment; score 0 also when there are no settlers at all).",
+    "1: State plans and recruits; volunteers respond to subsidies and allotments but exercise no independent acquisition (state transmigration programs).",
+    "2: Co-production: private entrepreneurs, chartered companies, or locators recruit and site settlements under state or princely license (Ostsiedlung locators; proprietary and company colonies).",
+    "3: Settler initiative leads and the state follows to ratify, subsidize, and protect what settlers seized (California: private overland migration and settler militias, with state and federal reimbursement of volunteer campaigns afterwards).",
+    "4: Settlement or clearance proceeds ahead of or against any state: squatting beyond proclaimed boundaries, unauthorized private conquest, or autonomous kin-group migration with no state in existence or in control."
+   ],
+   "evidence_notes": "Who financed transport, chose sites, and used force first: militia muster rolls and reimbursement acts, squatting records versus allocation registers, recruitment contracts. Belich (2009) on the settler revolution outrunning the state; Wolfe (2006) on frontier violence as privatized elimination; Elkins & Pedersen (2005) on the state-directed twentieth-century variants that invert the classic pattern.",
+   "era_coverage": "Pre-state expansions score 4 by positive determination — no state existed, so movement was necessarily autonomous. 'Unknown' only where a state existed and its role in an attested migration cannot be established (e.g., the debated Fatimid dispatch of the Banu Hilal).",
+   "expected_correlates": "Strong negative correlation with metropole_anchorage expected, but kept separate because charter-plus-squatter co-production scores high on both. The directed pole (0-1) is what should pull 'state resettlement', 'deportation + resettlement', and implemented Generalplan Ost into a single empirical cluster that the current mechanism families keep apart."
+  },
+  {
+   "id": "scs_exogenous_labor_triad",
+   "discipline": "settler-colonial-studies",
+   "name": "exogenous_labor_triad",
+   "definition": "Whether the project introduced a third population — enslaved, indentured, or otherwise unfree imported people who are neither settlers nor natives — completing Veracini's settler-native-exogenous 'population economy'.",
+   "anchors": [
+    "0: No third population introduced; the demographic field is incomers and prior population only.",
+    "1: Small imported contingents (enslaved people, thralls, recaptives, auxiliaries) under ~10% of the incomer population (Gaelic-origin thralls among Greenland Norse; enslaved Africans in seventeenth-century New England).",
+    "2: A distinct imported labor population is structurally significant but a clear minority of the total (Liberia's 'Congo' recaptives; non-German recruited peasantry inside the Ordensstaat).",
+    "3: Imported unfree or indentured population roughly comparable in size to the settler population and a principal labor force.",
+    "4: Imported population outnumbers settlers and the economy rests on its coerced labor (Saint-Domingue, where the enslaved were roughly nine-tenths of the population by 1789)."
+   ],
+   "evidence_notes": "Census and slave-registry proportions, shipping and indenture records, legal status categories distinguishing the imported group from natives. Veracini (2010), ch. 1, on the triangular population economy; Wolfe (2006) on the opposed racial accountings of the two subordinated populations — expansive one-drop reckoning for the enslaved, dilutive blood-quantum reckoning for natives; Elkins & Pedersen (2005) on plantation-settler hybrids.",
+   "era_coverage": "Prehistory: captive-taking is sometimes visible (isotopically nonlocal individuals with distinct burial treatment), supporting 0-1; finer gradations are undecidable — return 'unknown' beyond that. Absence of any third-source ancestry in adequate aDNA sampling justifies a positive 0.",
+   "expected_correlates": "Largely independent of the other dimensions, which is its point: it isolates the plantation-settler hybrid that the current 'settler colonization' family lumps with family-farm colonies. Expect a small distinct factor or cluster signature (high triad + high permanence + high tenure extinguishment = the Saint-Domingue type)."
+  },
+  {
+   "id": "scs_structural_persistence",
+   "discipline": "settler-colonial-studies",
+   "name": "structural_persistence",
+   "definition": "How far the population-and-property order created by the event persists to the present (or persisted until the record ends), operationalizing Wolfe's dictum that invasion is a structure, not an event.",
+   "anchors": [
+    "0: Fully reversed or dissolved: the beneficiary population departed, was expelled, or died out, and victims or their descendants (where any survived) reoccupied the space (Norse Greenland by c. 1450; the Saint-Domingue planter order after 1804).",
+    "1: Mostly reversed: the implantation was substantially undone by later expulsion or return, with residual traces only (German settlement of Prussia after the 1945-47 expulsions).",
+    "2: Partially reversed: large-scale return or restitution occurred, but the event's demographic order remains locally dominant (Crimea after 1989: roughly a quarter-million Tatars returned yet remain a ~12% minority in a Slavic-settled peninsula).",
+    "3: Order persists with formal acknowledgment and marginal restitution only — apologies, litigation, token returns without repopulation (Chagos: sovereignty ceded to Mauritius in 2024 but islander return unrealized; Marshall Islands compensation without full resettlement of Bikini).",
+    "4: Order fully consolidated: descendants of the incomers/beneficiaries hold the land and demographic majority to the present with no significant reversal (New England; California; the post-1948 map of Israel; steppe-derived ancestry as an enduring majority component in the affected regions)."
+   ],
+   "evidence_notes": "Present-day demographic composition of the affected territory, return and restitution statistics, property-law status of the displaced. Wolfe (2006): invasion as structure; Veracini, The Settler Colonial Present (2015); comparative reversal cases across Cavanagh & Veracini (2017). Deliberately scores the aftermath rather than the event window — the one thing an event taxonomy cannot see.",
+   "era_coverage": "Prehistory is fully codable — arguably best of all dimensions — via modern population genetics: whether the incoming ancestry component remains predominant in the region today. 'Unknown' is rarely honest here; reserve it for territories lacking both genetic and demographic continuity data.",
+   "expected_correlates": "Correlates with settler_permanence_orientation, demographic_saturation, and settler_sovereignty_capture, jointly forming the predicted core 'settler structure' factor. Non-redundant because reversal cases (high permanence, zero persistence: Norse Greenland, Saint-Domingue, trans-Oder Ostsiedlung) break the correlation and are analytically the most interesting rows in the matrix."
+  },
+  {
+   "id": "scs_demographic_saturation",
+   "discipline": "settler-colonial-studies",
+   "name": "demographic_saturation",
+   "definition": "The incoming/beneficiary population's share of the affected territory's population within roughly two generations (~50-60 years) of the event's core phase.",
+   "anchors": [
+    "0: Incomers under 5% of the territory's population or absent entirely (pure removals; Yemen conflict displacement).",
+    "1: 5-20%: enclave or elite implantation (Egyptian temple-town population in New Kingdom Nubia; ruling Fulani strata in most Sokoto emirates).",
+    "2: 20-50%: substantial minority (Han share of Xinjiang, roughly 40% by 2020; Greeks in Sicily island-wide; steppe-ancestry proportion in the lower Danube region in the centuries after 3000 BCE).",
+    "3: 50-80%: majority within two generations (Jewish majority inside the 1949 armistice lines; German-law village populations across much of the Ostsiedlung zone).",
+    "4: Over 80%: near-total replacement within two generations (Early Neolithic Britain/Ireland with ancestry turnover estimated above ~75-90% in aDNA; New England colonists by 1700)."
+   ],
+   "evidence_notes": "Censuses, tax and hearth registers, contemporary estimates; for deep time, ancestry-proportion estimates from ancient DNA. Brace et al., 'Ancient genomes indicate population replacement in Early Neolithic Britain', Nature Ecology & Evolution (2019); Haak et al., Nature (2015); Belich (2009) on explosive settler growth. Settler-colonial studies needs this as the material base of the settler-majority polity — Veracini's threshold at which the settler collective stops needing anyone else.",
+   "era_coverage": "aDNA ancestry-turnover percentages map directly onto the anchors, making prehistoric cases first-class citizens. Return 'unknown' when no quantitative estimate (census, register, or genomic) exists for the two-generation window — never extrapolate backwards from present-day composition, which is structural_persistence's job.",
+   "expected_correlates": "With settler_permanence_orientation and structural_persistence (the settler-structure factor). Divergences are diagnostic: low saturation with high sovereignty capture flags elite-conquest regimes (Sokoto, Nubia), and high saturation with directed agency (Crimea) flags state transfer — configurations the current families encode by fiat rather than measurement."
+  },
+  {
+   "id": "scs_prior_polity_recognition",
+   "discipline": "settler-colonial-studies",
+   "name": "prior_polity_recognition",
+   "definition": "Whether incomers dealt with the prior population as organized polities with standing to host, negotiate, or capitulate — or as unorganized inhabitants with no political existence at all.",
+   "anchors": [
+    "0: Settlement occurs at the invitation or under the licensing of prior-population rulers, who remain the recognized authority (Slavic princes recruiting Ostsiedlung locators and settlers into their own realms).",
+    "1: Treaties or purchase agreements with recognized prior authorities are concluded and substantially honored for at least a generation.",
+    "2: Agreements are made but coerced, systematically broken, or never ratified while settlement proceeds regardless (New England's deed-and-covenant regime; the eighteen California treaties negotiated 1851-52 and left unratified by the Senate).",
+    "3: No negotiation as equals, but prior polities are still engaged as polities — formal capitulation, vassalage, or retention of native administrative structures under new overlords (Kushite principalities under the Egyptian viceroyalty; Hausa state structures retained as Sokoto emirates).",
+    "4: Prior population accorded no political standing whatsoever: no treaties or capitulations sought; people administratively reclassified or treated as part of the landscape (the 1944 NKVD deportation order processing Crimean Tatars as a 'special settler' category; UK reclassification of Chagossians as transient contract workers; terra-nullius regimes)."
+   ],
+   "evidence_notes": "Treaty texts and ratification records, deeds, capitulation and vassalage instruments, administrative classifications of the displaced. Banner (2005); Ford, Settler Sovereignty (2010) on the shift from treating natives as polities to treating them as subjects; Mamdani, Neither Settler nor Native (2020) on political status as the crux; Vine, Island of Shame (2009) for the Chagos reclassification.",
+   "era_coverage": "Requires evidence of political dealings, so most prehistoric cases are honestly 'unknown'. Exception: long stable forager-farmer frontiers (centuries of attested coexistence horizons) support a 0-1 analogue, versus abrupt horizon replacement; code conservatively and prefer 'unknown' to inference from outcome.",
+   "expected_correlates": "Expected to correlate with native_labor_articulation (recognition co-occurs with dependence) and inversely with symbolic_indigenization and land_tenure_extinguishment. Its unique cut: it separates invited settlement (Ostsiedlung under Slavic princes) from conquest settlement (Teutonic Prussia) — two events the current schema files in adjacent families while missing the actual structural difference between them."
+  },
+  {
+   "id": "pel_frontier_land_labor_ratio",
+   "discipline": "political-economy-land-labor",
+   "name": "frontier_land_labor_ratio",
+   "definition": "How scarce labor was relative to appropriable land at the destination, from the standpoint of the incoming regime when it organized occupation and production (the Nieboer-Domar open-resources condition).",
+   "anchors": [
+    "0: Destination densely occupied relative to its subsistence technology (roughly >20 persons/km2, or contiguous cultivation of essentially all arable land): takers could only acquire land that was actively worked, and labor was abundant (partition zones, cities, irrigated valleys).",
+    "1: Core zones fully occupied with only marginal pockets of unclaimed land; no contemporary or archaeological evidence of labor shortage; land, not labor, was the contested factor.",
+    "2: Patchwork endowment: substantial cultivable or grazable land outside continuous cultivation alongside dense cores (steppe margins, a river-strip agriculture with empty hinterland); neither factor clearly binding.",
+    "3: Labor demonstrably the binding constraint: recruitment schemes, locator or immigration bounties, wage premiums over origin regions, or official complaints of labor shortage documented within a generation of the taking.",
+    "4: Open-resource frontier: prior population density under ~2 persons/km2 (forager, sparse pastoral, or recently depopulated), land effectively free at the margin, so surplus production required importing, breeding, or coercing labor."
+   ],
+   "evidence_notes": "Settled by regional population-density estimates (McEvedy & Jones; HYDE 3.x), frontier wage evidence, recruitment/bounty documents, and locator contracts. Coding rule: score the situation confronting the takers when they organized production, INCLUDING vacancies their own violence created (post-1944 Crimea was labor-scarce, hence the Slavic recruitment drive = 3). Motivating works: H.J. Nieboer, Slavery as an Industrial System (1900); Evsey Domar, 'The Causes of Slavery or Serfdom: A Hypothesis,' Journal of Economic History 30:1 (1970), 18-32 (the free-land/free-labor/non-working-landowner trilemma); Engerman & Sokoloff, 'Factor Endowments, Institutions, and Differential Paths of Growth' (1997).",
+   "era_coverage": "Prehistoric cases code from site-density surveys, radiocarbon summed-probability population proxies (Shennan et al. 2013, Nature Communications), and aDNA effective population size. Forager landscapes are virtually always <0.1 persons/km2, so farmer-into-forager expansions (Neolithic Britain) code 4 with confidence. Code unknown only where regional archaeology cannot distinguish dense from sparse occupation at all.",
+   "expected_correlates": "Per Domar it should predict unfree_incomer_share and native_labor_incorporation — but that correlation is the hypothesis under test, not redundancy: the trilemma says scarcity forces a choice among coerced labor, land concentration, or family-labor homesteads, and WHICH branch was taken is what the labor and household dimensions record. Divergence between this precondition and those outcomes is exactly where the factor analysis gets its power."
+  },
+  {
+   "id": "pel_native_labor_incorporation",
+   "discipline": "political-economy-land-labor",
+   "name": "native_labor_incorporation",
+   "definition": "What role the prior population played in the takers' economy within a generation of the event, from total elimination/exclusion to being the prize itself.",
+   "anchors": [
+    "0: No labor role: prior population killed, deported, or excluded from the successor economy, which was organized entirely with incomer or imported labor within one generation (also the code where aDNA shows <10% local ancestry persisting in successors).",
+    "1: Residual use: scattered survivors employed casually or seasonally (guides, domestic servants, harvest hands); the economy was designed to function without them.",
+    "2: Niche incorporation: prior population systematically retained in designated sectors (herding, porterage, mining gangs, domestic service) while incomers monopolized land and core production.",
+    "3: Principal workforce under coercion: prior population supplied most productive labor via corvee, tribute-labor, encomienda-like grants, sharecropping on their own former land, or debt bondage, while takers held title and office.",
+    "4: Labor was the prize: the population itself was enslaved or enserfed in place, or seized and removed as workers; territorial occupation was secondary to labor capture (mass enslavement raiding, enserfment of a conquered peasantry)."
+   ],
+   "evidence_notes": "Settled by labor codes, tribute registers, plantation inventories, mission/encomienda-type records, and slavery scholarship (e.g., Lovejoy on the Sokoto Caliphate's plantation slavery). Motivating works: Patrick Wolfe, 'Settler Colonialism and the Elimination of the Native,' Journal of Genocide Research 8:4 (2006), 387-409 (the land-versus-labor logics); Acemoglu, Johnson & Robinson, 'The Colonial Origins of Comparative Development,' AER 91 (2001) on extractive versus settler institutional paths. Note the sample splits sharply: Nubia ~3, Sokoto ~4, New England ~1, Nakba/Crimea/Neolithic Britain ~0, California ~1 (the 1850 Act's de facto Indian servitude).",
+   "era_coverage": "aDNA admixture fraction is the prehistoric proxy: substantial local ancestry persisting in the successor population implies >=2; near-total turnover implies 0-1; sex-biased persistence (local mtDNA under incomer Y-lineages) indicates incorporation of women specifically and codes 2 with a note. Unknown when neither aDNA nor documentary evidence exists.",
+   "expected_correlates": "Strong negative correlation expected with incomer_household_composition (family colonization pairs with elimination; male sojourner streams pair with incorporation) — together they turn Wolfe's typology into two continuous axes. Cuts across the existing vocabulary: the two 'conquest with settlement' cases split (Nubia 3 vs Teutonic Prussia 1-2)."
+  },
+  {
+   "id": "pel_unfree_incomer_share",
+   "discipline": "political-economy-land-labor",
+   "name": "unfree_incomer_share",
+   "definition": "What fraction of the incoming population arrived under legal or physical compulsion — slaves, convicts, deportee-settlers, indentured servants, assigned personnel — during the event window.",
+   "anchors": [
+    "0: No identifiable unfree component; incomers migrated by household decision (chain migration, land-seeking families, tribal movement).",
+    "1: Minor bonded stream, under ~10% of arrivals: household slaves or thralls, small indentured contingents, individually assigned officials.",
+    "2: Substantial unfree minority, ~10-40% of arrivals: organized convict shipments, indenture systems, or state-assigned workers alongside a free majority.",
+    "3: Unfree majority, ~40-80% of arrivals: mass slave imports, penal colonization, demobilized-soldier assignment, or settlers who could not lawfully refuse the posting or leave it (early XPCC contingents).",
+    "4: Overwhelmingly unfree, >80% of arrivals: the incoming population was itself a coerced workforce (mature plantation-slavery inflows, forced-laborer colonies; Saint-Domingue's arrival stream was ~90% enslaved)."
+   ],
+   "evidence_notes": "Settled by the Trans-Atlantic Slave Trade Database, convict transportation records, indenture registries, and institutional histories (XPCC recruitment; Soviet orgnabor vs deportation). Score arrival cohorts during the event window, not the descendants' later status. Motivating works: Philip Curtin, The Rise and Fall of the Plantation Complex (1990); Engerman & Sokoloff (1997) on why open frontiers plus export staples produced coerced inflows — the empirical face of Domar's trilemma.",
+   "era_coverage": "Usually unknown for prehistory: sex-biased admixture alone does NOT establish bondage, so resist inference. Code prehistoric cases unknown unless isotopic or mortuary evidence of captive-taking (non-local individuals with distinct diet or degraded burial treatment) is specifically reported in the literature.",
+   "expected_correlates": "Should load with frontier_land_labor_ratio=4 and export_orientation (the plantation branch). Deliberately orthogonal to native_labor_incorporation: Saint-Domingue is 4 here and 0 there, Sokoto the reverse — that cross-cutting variance is what lets clustering separate labor-import regimes from labor-capture regimes, a distinction the current taxonomy cannot express."
+  },
+  {
+   "id": "pel_title_transfer_formalization",
+   "discipline": "political-economy-land-labor",
+   "name": "title_transfer_formalization",
+   "definition": "The degree of juridical apparatus used to extinguish the prior population's tenure and constitute the takers' title.",
+   "anchors": [
+    "0: No juridical instruments: possession by occupation and defense alone; prior tenure neither recognized nor formally extinguished (all pre-literate cases by definition; raw seizures never followed by land law).",
+    "1: Bare assertion: a right-of-conquest proclamation, terra nullius declaration, or religious/papal grant claimed at the level of the whole territory, with no parcel-level instruments or surveys.",
+    "2: Block instruments: confiscation decrees, denaturalization-and-forfeiture laws, or charters conveying whole regions to companies, orders, or lords — documented transfer without individual process or survey (Golden Bull of Rimini; Soviet deportation decrees; Generalplan Ost).",
+    "3: Parcel-level instruments, unevenly applied: purchase deeds, treaties, allotment lotteries (Greek kleroi), locator contracts, town grants with rudimentary survey; individual titles exist but no comprehensive adjudication of prior claims.",
+    "4: Full cadastral-judicial machinery within a generation: land commissions or courts processing prior claims, systematic survey grids, registries, custodian/absentee-property regimes, compensation schedules — even where the process was itself the dispossession (California Land Act 1851 + public-land survey; Israel's Absentee Property Law 1950 and settlement-of-title operations)."
+   ],
+   "evidence_notes": "Settled by land-law histories: John Weaver, The Great Land Rush and the Making of the Modern World (2003); Stuart Banner, How the Indians Lost Their Land (2005); James Scott, Seeing Like a State (1998) on cadastral legibility; Cole Harris, 'How Did Colonialism Dispossess?' Annals AAG 94:1 (2004); Gary Fields, Enclosure (2017). The key coding discipline: formality is independent of violence — California codes 4 while Generalplan Ost codes 2. Law here is a transfer technology, not a moral mitigant, and that independence is the finding.",
+   "era_coverage": "Pre-literate societies code 0 by definition: the absence of documentary title technology is a real property of the process, not missing data. Reserve unknown for literate-era cases whose land-law record is genuinely unstudied.",
+   "expected_correlates": "Correlates with organizing_agent_locus and land_commodification (registries enable markets), but socialist and military cases break the chain (formal state registry, zero market), so all three earn their places. Also expected to be strongly era-graded — which is informative, not confounding, since it dates the technology, not the behavior."
+  },
+  {
+   "id": "pel_land_commodification",
+   "discipline": "political-economy-land-labor",
+   "name": "land_commodification",
+   "definition": "Whether appropriated land (or the confiscated property of the displaced) became a tradable commodity — prices, private resale, mortgages, speculation — within roughly a generation.",
+   "anchors": [
+    "0: No alienable individual tenure in the taken land: communal, customary, or state allocation that could not be sold (state farms, military reservations, kin-based tenure).",
+    "1: Personalized transfers only: revocable service grants, fiefs, or use-rights; resale rare and requiring a superior's consent.",
+    "2: Regulated transferable tenures: heritable peasant or burgher holdings alienable under restrictions — fixed rents, lord's consent, within-community sales (Ostsiedlung Erbzinsrecht-type tenures).",
+    "3: Active private land market among incomers within a generation: recorded deeds and prices, mortgages, routine resale of shares and allotments (New England town proprietors trading rights).",
+    "4: Speculative boom or mass liquidation: land companies, subdivision speculation, price bubbles, absentee investment, or mass auction of confiscated property within ~25 years of the taking (US frontier land offices; auctions of dispossessed owners' assets)."
+   ],
+   "evidence_notes": "Settled by deed registries, land-company records, price/mortgage evidence, and auction records of confiscated property. Motivating works: James Belich, Replenishing the Earth (2009) — explosive colonization ran on land speculation; Weaver (2003) on the state-speculator symbiosis; Karl Polanyi, The Great Transformation (1944) on land as fictitious commodity. Coding note: the liquidation of the dispossessed group's assets (sales of departing Iraqi Jews' property, 1951 onward) codes high even with no settler frontier — commodification of the victims' assets is the same market mechanic from the other side.",
+   "era_coverage": "Prehistoric and most pre-literate cases code 0 — no evidence a land-commodity form existed, again a datum rather than a gap. Unknown only for literate cases lacking any tenure scholarship.",
+   "expected_correlates": "Correlates with title_transfer_formalization and fixed_capital_intensity (title enables mortgage enables capital), but the state-socialist and strategic-military cases (XPCC, Crimea, Chagos, Marshall) score high on state organization and zero here — giving the factor model the leverage to separate market-driven from state-driven takings, which I expect to be the deepest axis in the whole corpus."
+  },
+  {
+   "id": "pel_fixed_capital_intensity",
+   "discipline": "political-economy-land-labor",
+   "name": "fixed_capital_intensity",
+   "definition": "How much immobile productive or strategic capital the takers sank into the taken land within roughly a generation — investment that bound the appropriation in place.",
+   "anchors": [
+    "0: No fixed investment beyond dwellings and stock enclosures; mobile or extensive techniques (pastoral conversion, shifting use); or no successor production at all.",
+    "1: Smallholder improvements only: field clearance, fencing, farmsteads, byres.",
+    "2: Community-scale works: mills, small harbors, town walls, planned villages, local irrigation ditches.",
+    "3: Region-scale infrastructure within a generation: canal or major irrigation systems, fortress networks (Teutonic Ordensburgen), roads or railheads, drainage schemes, temple-town or garrison-city foundations.",
+    "4: Industrial or strategic-scale sunk capital dominating the landscape: sugar-mill complexes, railroads, dams, mines with processing works, or permanent military installations (Diego Garcia base; Bikini/Enewetak test infrastructure)."
+   ],
+   "evidence_notes": "Settled by archaeology of infrastructure and economic histories of investment. Motivating works: Engerman & Sokoloff on capital-intensive staples driving land concentration and coerced labor; the Innis staples tradition. Coding insight for strategic cases: the base or test site IS the fixed capital — Chagos and the Marshall Islands are capital-intensive takings with no settler economy, which is precisely what distinguishes them from dam-and-park displacement inside the same current category.",
+   "era_coverage": "Among the most archaeologically visible dimensions: irrigation, urban plans, and productive construction survive and are dated. Score productive/strategic capital, not monuments (megaliths are not mills). Unknown is rare.",
+   "expected_correlates": "Correlates with export_orientation and land_commodification on the plantation branch; expected to LAG incomer_influx_tempo in homestead cases (capital follows the demographic wave) — a sequencing signature the factor analysis can pick up if the corpus includes phase-dated events."
+  },
+  {
+   "id": "pel_export_orientation",
+   "discipline": "political-economy-land-labor",
+   "name": "export_orientation",
+   "definition": "Degree to which production or extraction on the taken land served external markets or a metropole rather than local subsistence, in the two generations after the taking.",
+   "anchors": [
+    "0: Subsistence or local exchange only; no systematic outbound flows attributable to the taken land (also the code where the takers established no production at all).",
+    "1: Opportunistic or prestige exports: furs, ivory, captives, booty traded irregularly.",
+    "2: Regular export of one or two staples from an economy still organized around local subsistence (timber, fish, grain surplus, Greenland's walrus ivory).",
+    "3: Exports or metropolitan tribute as the organizing purpose: land allocated and production organized primarily for external demand or imperial extraction (Nubian gold to Egypt; Baltic grain via the Hanse; Liberia's rubber concessions).",
+    "4: Enclave monoculture: the overwhelming share of output leaves the territory and provisioning is imported or subordinated (mature sugar islands; pure extraction enclaves)."
+   ],
+   "evidence_notes": "Settled by trade statistics, tribute lists, cargo and customs records, and commodity histories. Motivating works: the commodity-frontier literature (Jason Moore); Sven Beckert, Empire of Cotton (2014) on 'war capitalism'; Curtin (1990). Note the discriminating power on the sample: Chagos and the Marshall Islands score 0-1 here despite maximal coercion, while scoring 4 on strategic_position_weight — the two dimensions jointly resolve what 'development/conservation displacement (military)' currently smears together.",
+   "era_coverage": "Prehistory codes from provenance archaeometry (isotope sourcing, obsidian/amber/metal distribution networks, cargo finds), which usually supports only a 0-1 versus 2+ distinction; when regional exchange studies are absent, code unknown.",
+   "expected_correlates": "Should load with unfree_incomer_share and fixed_capital_intensity to form the plantation-extraction factor, and against incomer_household_composition — this is the Engerman-Sokoloff contrast between staple colonies and neo-Europes rendered ordinal instead of typological."
+  },
+  {
+   "id": "pel_organizing_agent_locus",
+   "discipline": "political-economy-land-labor",
+   "name": "organizing_agent_locus",
+   "definition": "Who organized recruitment, transport, land allocation, and defense: autonomous kin groups at one pole, direct state administrative execution at the other.",
+   "anchors": [
+    "0: Autonomous household, kin, or tribal migration: no polity organizes movement or allocation; leadership is emergent (segmentary migration, warband-plus-households).",
+    "1: Private magnates or religious bodies acting on their own resources with at most tacit sovereign blessing (lords recruiting peasants via locators, monastic houses, merchant adventurers before any charter).",
+    "2: Chartered delegation: a sovereign licenses a company, military order, proprietor, or colonization society that runs the scheme with its own administration (Massachusetts Bay Company; Teutonic Order; the American Colonization Society for Liberia).",
+    "3: State-sponsored, settler-executed: official programs — subsidized passage, land bounties, founded colonies with appointed leaders (Greek apoikia under a polis-appointed oikist), military-agricultural colonies — where the state plans and funds but households execute.",
+    "4: Direct administrative execution: security forces or state organs physically move populations and assign land (NKVD deportation operations; SS resettlement machinery; UK/US removal of Chagossians; US Navy relocations in the Marshalls)."
+   ],
+   "evidence_notes": "Settled by identifying who paid for transport and who signed allocation documents. Motivating works: Michael Levien, Dispossession without Development (2018) — 'regimes of dispossession' are defined by the dispossessing agent; Belich (2009) on settlerism as privately organized mass transfer; Weaver (2003). This is the classic political-economy question of the state-market boundary applied to population transfer, and it cuts orthogonally across every existing mechanism family in the corpus.",
+   "era_coverage": "For prehistory, code 0 where no state-level polity existed in the source region — archaeologically decidable from settlement hierarchy and administrative technology. Unknown only where a state existed but its role in the migration is genuinely undocumented.",
+   "expected_correlates": "Correlates with title_transfer_formalization and strategic_position_weight, but its independence from violence and from settler volume is what lets clustering separate company frontiers (2) from security transfers (4) — currently hidden inside 'settler colonization' and 'state resettlement' respectively."
+  },
+  {
+   "id": "pel_strategic_position_weight",
+   "discipline": "political-economy-land-labor",
+   "name": "strategic_position_weight",
+   "definition": "How much the taking was driven by military-geopolitical control of position rather than acquisition of land, labor, or commodities.",
+   "anchors": [
+    "0: No strategic rationale in evidence: drivers were demographic or economic; no fortification program, garrison, or security doctrine attached to the settlement.",
+    "1: Incidental strategic benefit acknowledged but not organizing; defenses are local self-protection only.",
+    "2: Dual-purpose: settlement explicitly justified partly as frontier defense, buffer, or route control alongside economic aims (march colonization; colonies sited at straits and passes).",
+    "3: Security rationale primary in the organizing documents: settlement or removal framed as securing a border, purging an 'unreliable' population, or garrisoning a frontier, with economic settlement as the instrument (the Crimean deportation decree's collective-treason framing; XPCC's garrison-and-develop mandate).",
+    "4: Purely strategic installation: population removed to emplace military or security assets with no settler economy intended (Chagos for Diego Garcia; Marshall Islands test grounds; cleared buffer zones)."
+   ],
+   "evidence_notes": "Settled by reading the takers' own planning documents, decrees, and correspondence where they exist (declassified UK-US Chagos files; Soviet deportation decrees; Teutonic crusading privileges). Geopolitical economy of territory: the taking acquires position as a factor, not production. This dimension is what separates base-and-test-site takings from dam-and-park displacements that the current 'development/conservation' category lumps together, and separates security deportations from labor deportations.",
+   "era_coverage": "Prehistory usually codes 0 or unknown; fortified site placement at choke points can support 1-2, but never infer strategy from geography alone without defensive architecture. Ancient states with royal inscriptions (Egypt in Nubia: fortress chains plus gold) can code 2-3 from text.",
+   "expected_correlates": "Correlates with organizing_agent_locus 3-4 and negatively with land_commodification; jointly they should isolate a 'security taking' cluster cutting across deportation, internal colonization, and development-displacement categories — a cluster the current taxonomy distributes across four families."
+  },
+  {
+   "id": "pel_incomer_household_composition",
+   "discipline": "political-economy-land-labor",
+   "name": "incomer_household_composition",
+   "definition": "Demographic makeup of the incoming stream — adult-male sojourner cohorts versus whole-household or whole-community reproduction units — the household labor-supply regime of the taking.",
+   "anchors": [
+    "0: Overwhelmingly adult-male (roughly >4:1 male), garrison/camp/warband demography; in aDNA, incoming ancestry carried almost exclusively on the male line.",
+    "1: Strongly male-biased (~2-4:1): mining rushes, early plantation-colony Europeans (California 1850 census ~90% male); women a small minority through the first generation.",
+    "2: Male-led but family-forming within the first generation: organized bride migration, or systematic intermarriage with local women producing a mixed successor population.",
+    "3: Family migration predominant: near-balanced sex ratio and children present in the arrival cohorts; households migrate as units (New England's Great Migration; Ostsiedlung peasant households).",
+    "4: Whole-community transplantation: villages, congregations, or kin groups move together with dependents, livestock, and institutions intact."
+   ],
+   "evidence_notes": "Settled by passenger and muster lists, early censuses, and migration historiography (Alison Games, Migration and the Origins of the English Atlantic World, 1999). Political-economy relevance: household composition IS the labor regime of the homestead branch — a balanced-sex family stream supplies its own labor and needs no coerced workforce (Engerman-Sokoloff's New England), while male extractive enclaves must coerce or hire. Belich (2009) on the sojourner-to-settler transition. This is the dimension most likely to distinguish replacement outcomes from admixture outcomes ACROSS eras.",
+   "era_coverage": "Uniquely well-attested in prehistory: X-chromosomal versus autosomal ancestry contrasts measure sex-biased admixture directly (steppe expansions strongly male-biased; Neolithic Britain's turnover involved both sexes) — some 4000 BCE cases code more confidently than some medieval ones. Unknown where neither aDNA nor migration records exist, and for events with no meaningful incomer stream (pure expulsions like Yemen or the Iraqi Jewish exodus) — that missingness is itself informative.",
+   "expected_correlates": "Strong negative with native_labor_incorporation: family streams replace, male streams incorporate and intermarry. Together with tempo it should define the homestead-replacement factor and predict which 'conquests with settlement' actually produced demographic replacement."
+  },
+  {
+   "id": "pel_incomer_influx_tempo",
+   "discipline": "political-economy-land-labor",
+   "name": "incomer_influx_tempo",
+   "definition": "Speed of incomer demographic buildup — incremental seepage versus explosive boom — scored on the event's own influx, not later background migration.",
+   "anchors": [
+    "0: Multi-century trickle: incomer presence built over more than ~250 years with no single decade of mass arrival.",
+    "1: Slow wave: the bulk of in-migration spread over ~100-250 years (Ostsiedlung; Neolithic Britain's roughly three-century turnover).",
+    "2: Generational wave: the bulk of incomers arrived within ~30-100 years.",
+    "3: Decadal surge: the majority of the eventual incomer population arrived within ~10-30 years (New England 1630-1640; Crimean resettlement drives 1944-1950s).",
+    "4: Explosive: incomer numbers multiplied more than ~5x within a single decade — boom-rush rates (California non-native population ~15,000 to ~250,000 in 1848-1852; state transfer operations completing in 1-5 years; Israel's population doubling 1948-1951)."
+   ],
+   "evidence_notes": "Settled by census series, ship arrival records, and settlement-foundation counts. Motivating works: James Belich, Replenishing the Earth (2009) — 'explosive colonization' as a distinct socioeconomic regime with boom-bust dynamics and metropolitan 'recolonization', against Turner's incremental frontier line (Turner 1893, read critically). Tempo is not a detail: Belich's argument is that boom-speed frontiers have different capital flows, labor markets, and crash politics than seepage frontiers, so tempo belongs in the institutional signature.",
+   "era_coverage": "Radiocarbon summed-probability demographic proxies (Shennan et al. 2013) and aDNA turnover rates resolve century-scale bins: prehistory can reliably distinguish 0-1 from 2, rarely 3-4. When chronology is coarser than the bins, code the coarsest bin consistent with evidence or unknown. Unknown for events with no incomer stream.",
+   "expected_correlates": "Both land_commodification (speculative booms) and organizing_agent_locus 4 (deportation logistics) push tempo up by different routes. If the factor analysis splits fast-market tempo from fast-state tempo, the current settler-colonization versus state-resettlement boundary dissolves into tempo-plus-agent coordinates — my central prediction for this dimension."
+  },
+  {
+   "id": "pel_production_regime_conversion",
+   "discipline": "political-economy-land-labor",
+   "name": "production_regime_conversion",
+   "definition": "Whether the takers captured the existing production system as a going concern or converted the land to a different production regime — replacement of owners versus replacement of economies.",
+   "anchors": [
+    "0: Full assumption (turnkey): incomers occupied standing houses, farms, groves, or workshops and continued substantially the same production (Slavic settlers assigned deported Tatars' farms and houses; urban property redistributed intact).",
+    "1: Continuation with marginal change: same fields and systems under new owners, with a shifted crop mix or new rent terms.",
+    "2: Reorganization: existing productive land retained but re-planned — field-system consolidation, new tenure geometry, partial new crops — production recognizably descended from the old.",
+    "3: Predominant conversion: a different production regime imposed on land formerly used otherwise (forager range to cereal farming; Maghreb farmland to pasture under pastoralist in-migration; smallholdings absorbed into estates).",
+    "4: Total transformation or withdrawal from production: prior landscape razed and replaced by plantation complexes, or land removed from civilian production entirely (bases, test sites, reservoirs, depopulated buffer zones)."
+   ],
+   "evidence_notes": "The dimension only a land-and-labor-regimes economist would insist on: it separates 'replacement of owners' from 'replacement of economies', a distinction the current mechanism families cannot express — Crimea 1944 and Saint-Domingue are both settlement-after-removal yet sit at opposite poles, and turnkey takings (0-1) imply the takers valued the prior economy's going-concern income stream, an appropriation logic entirely different from frontier transformation. Framed by the commodity-frontier literature (Moore) and by the Banu Hilal pastoralization debate (Ibn Khaldun's account versus modern revisionism).",
+   "era_coverage": "Among the best prehistoric dimensions: pollen cores (cereal-type pollen rise, elm decline), faunal assemblage turnover, and field-system archaeology directly record land-use change. Unknown mainly for events too recent or unresolved to have a distinct successor land use (ongoing conflict displacement with no taker occupation).",
+   "expected_correlates": "Conversion pole (3-4) correlates with fixed_capital_intensity and export_orientation; assumption pole (0-1) should co-locate with direct state execution and fast tempo — predicting a latent 'turnkey dispossession' configuration (Crimea, Iraqi Jewish property, parts of the Nakba) that is invisible in the current taxonomy because its members are scattered across three mechanism families."
+  },
+  {
+   "id": "hdem_prior_population_removal",
+   "discipline": "historical-demography",
+   "name": "prior_population_removal",
+   "definition": "Fraction of the pre-event population of the affected zone that was no longer resident in place within roughly one generation (~30 years) of the event's demographic culmination, regardless of whether they died, fled, or were transported.",
+   "anchors": [
+    "0 = No prior population in the settled zone (true vacuum, e.g. uninhabited fjords/islands), OR >90% of the prior population still resident in place afterward (elite overlay, garrison conquest, in-situ persistence).",
+    "1 = 70-90% remained in place; removal localized to specific districts, ports, or corridors.",
+    "2 = 30-70% remained in place; removal substantial but far from complete.",
+    "3 = 5-30% remained in place; the large majority dead, fled, or transported (e.g. ~150k of ~900k Palestinians remaining inside 1949 armistice lines).",
+    "4 = <5% remained in place; near-total clearance of the zone (total deportations, extirpations, complete island removals)."
+   ],
+   "evidence_notes": "Modern era: censuses before/after, refugee registration (UNRWA), NKVD deportation tallies, colonial enumerations; Morris (2004) for the Nakba, Pohl (1999) for Crimea. Early modern/medieval: hearth and tax registers, chronicle estimates cross-checked against McEvedy & Jones (1978, Atlas of World Population History). The question is answerable in ~10 minutes for most corpus events because removal fractions are headline numbers in the secondary literature.",
+   "era_coverage": "Prehistoric: code from ancestry continuity in aDNA time-transects (e.g. Brace et al. 2019 for Neolithic Britain; Haak et al. 2015 for Corded Ware) plus settlement continuity and summed radiocarbon probability distributions (Shennan et al. 2013). Note that ancestry turnover alone overestimates in-place removal if replacement ran through fertility over centuries — use settlement abandonment to separate; if aDNA and settlement data conflict or are absent, code unknown.",
+   "expected_correlates": "Will correlate with mortality_share_of_prior_decline and displaced_relocation_distance (jointly forming a 'clearance completeness' factor) and negatively with prior_ancestry_in_successor_population. Not redundant with incomer_share_at_consolidation: Sokoto scores high incomer visibility with near-zero removal, Chagos scores total removal with zero settlement."
+  },
+  {
+   "id": "hdem_incomer_share_at_consolidation",
+   "discipline": "historical-demography",
+   "name": "incomer_share_at_consolidation",
+   "definition": "Incomer-descended share of the affected zone's total population at demographic consolidation (within ~3 generations / 100 years of onset, or at event end if shorter).",
+   "anchors": [
+    "0 = <2% — no meaningful incomer population established (pure displacement events, failed settlements).",
+    "1 = 2-10% — thin elite, garrison, merchant, or planter stratum atop an intact majority.",
+    "2 = 10-35% — substantial minority; incomers dominate towns or specific districts but not the region.",
+    "3 = 35-65% — parity band; region demographically contested between populations.",
+    "4 = >65% — incomers the overwhelming majority; near-total genetic or census turnover (e.g. ~90% gene-pool replacement in Beaker-period Britain per Olalde et al. 2018; New England by 1700; Crimea after 1944)."
+   ],
+   "evidence_notes": "Modern: censuses and colonial enumerations by origin category. Ancient/medieval: settlement counts, city foundations, onomastics used cautiously. The construct deliberately equates census share and autosomal ancestry share — the same quantity measured by different instruments (Reich 2018, Who We Are and How We Got Here). Key comparators: Haak et al. 2015 (~75% steppe ancestry in Corded Ware), Olalde et al. 2018 (Nature 555:190), Brace et al. 2019 (Nat Ecol Evol, Neolithic Britain).",
+   "era_coverage": "Prehistoric: autosomal ancestry proportion in post-event individuals is a direct estimator — these cases are often EASIER to code than medieval ones. Medieval/early-modern cases without census or aDNA (e.g. Banu Hilal settler share c. 1200): use the published range; if scholarly estimates span more than two anchor bins, code unknown.",
+   "expected_correlates": "Correlates with migrant_stream_family_completeness and settler_reproduction_engine (the 'settler engine' factor) and negatively with destination_saturation. Distinct from prior_population_removal (see Sokoto vs. Chagos contrast) — the pair {removal, incomer share} defines a 2x2 that the current mechanism families conflate."
+  },
+  {
+   "id": "hdem_displacement_scale",
+   "discipline": "historical-demography",
+   "name": "displacement_scale",
+   "definition": "Order of magnitude of persons directly moved by the event — the larger of (a) incomers settled and (b) prior residents displaced, deported, or enslaved-and-removed — over the whole event window.",
+   "anchors": [
+    "0 = <1,000 persons (e.g. Marshall Islands nuclear removals: Bikini 167, Enewetak ~140, Rongelap ~350).",
+    "1 = 1,000-10,000 persons (e.g. Chagos ~1,500-2,000).",
+    "2 = 10,000-100,000 persons (e.g. Great Migration to New England ~20,000 in 1630-1640).",
+    "3 = 100,000-1,000,000 persons (e.g. ~191,000 Crimean Tatars deported May 1944; ~700,000 Nakba refugees; ~120,000-130,000 Iraqi Jews).",
+    "4 = >1,000,000 persons (e.g. Generalplan Ost expulsions, Yemen 4M+ IDPs, XPCC-era Han in-migration)."
+   ],
+   "evidence_notes": "Log-binning is the demographer's defense against false precision; disputes between rival scholarly estimates rarely cross an order-of-magnitude boundary. Sources: deportation and refugee tallies, slave-trade shipment series (Curtin 1969, The Atlantic Slave Trade: A Census; SlaveVoyages database), migration series (Gemery 1980 for colonial British America), McEvedy & Jones (1978) for pre-statistical baselines.",
+   "era_coverage": "Prehistoric: infer from regional paleodemographic density estimates times affected area, or from effective-population-size genetics; order-of-magnitude precision is usually attainable (Neolithic pioneer streams: 10^3-10^4). Code unknown only when published estimates disagree across two or more bins.",
+   "expected_correlates": "Moderately correlates with destination_saturation and stream_coordination (states move more people). Deliberately uncorrelated with severity dimensions — Chagos is total (removal=4) but tiny (scale=1) — which is exactly the discrimination the corpus needs."
+  },
+  {
+   "id": "hdem_migrant_stream_family_completeness",
+   "discipline": "historical-demography",
+   "name": "migrant_stream_family_completeness",
+   "definition": "Demographic composition of the incoming stream during its main phase, ordered from single-sex extraction to reproductively complete family units.",
+   "anchors": [
+    "0 = No incoming population stream (pure displacement/conflict events).",
+    "1 = Overwhelmingly single-sex: >4:1 male (armies, garrisons, convicts, male-dominated slave shipments); in aDNA, strong male bias on the order of the 5-14 males-per-female estimate for the steppe migration (Goldberg et al. 2017, PNAS 114:2657).",
+    "2 = Heavily male-biased: ~2:1 to 4:1; local wife-taking systematic; genetically, Y-chromosome turnover far exceeding mtDNA turnover.",
+    "3 = Moderately male-biased: ~1.2:1 to 2:1; some families, many single men (typical frontier-rush composition).",
+    "4 = Family migration at near sex-parity with children present (Puritan Great Migration ship lists; Volksdeutsche resettlement; Neolithic Anatolian farmer stream, which shows no sex bias in X-vs-autosome comparisons per Goldberg et al. 2017)."
+   ],
+   "evidence_notes": "THE dimension only this discipline would insist on: family completeness is the single best predictor of whether settlement becomes self-reproducing rather than replenishment-dependent (Moch 2003; Crosby 1986). Modern/early-modern: passenger lists, colonial sex ratios in censuses. Prehistoric: X-chromosome vs. autosome admixture ratios and Y-haplogroup vs. mtDNA turnover asymmetry. Note the method dispute: Lazaridis & Reich (2017, PNAS) failed to replicate the steppe sex-bias point estimate; Goldberg et al.'s reply defended the direction. Coders should score the bin, not the point estimate, and flag contested cases.",
+   "era_coverage": "Prehistoric: directly codable wherever uniparental + autosomal data exist (better attested than for many medieval streams). Unknown when only material culture is available — do not infer sex ratio from artifact type.",
+   "expected_correlates": "Correlates positively with settler_reproduction_engine and incomer_share_at_consolidation, negatively with prior_ancestry_in_successor_population (male-biased streams absorb local women; family streams maintain boundaries). Partial redundancy with reproduction engine is real but informative — divergent cases (male-biased streams that still achieved dominance, e.g. steppe) are theoretically central."
+  },
+  {
+   "id": "hdem_mortality_share_of_prior_decline",
+   "discipline": "historical-demography",
+   "name": "mortality_share_of_prior_decline",
+   "definition": "Of the prior population's total decline in the zone, the share attributable to excess deaths (violence, induced famine, epidemic, transit mortality) as opposed to out-movement or assimilation into the incomer population.",
+   "anchors": [
+    "0 = No decline, or decline occurred entirely through out-migration/absorption with no attested excess mortality.",
+    "1 = Deaths a minor component: <10% of the decline (e.g. Iraqi Jewish exodus; Chagos removal itself).",
+    "2 = Deaths a secondary component: 10-40% of decline (e.g. Crimean Tatar deportation, where transit-and-exile deaths in 1944-48 were substantial but removal accounted for the whole in-place decline; flight-with-massacres patterns).",
+    "3 = Deaths roughly half of decline: 40-70% (epidemic-plus-war frontiers, e.g. 17th-c. New England where virgin-soil epidemics preceded and accompanied dispossession).",
+    "4 = Decline predominantly by death: >70% (California 1846-1873; Generalplan Ost zones with extermination)."
+   ],
+   "evidence_notes": "This is demographic accounting in the tradition of the ICTY demographic unit (Brunborg, Tabeau & Bijak) and indirect-estimation work on mass-mortality crises (Heuveline 1998 on Cambodia): decompose decline into deaths vs. displacement vs. reclassification. It deliberately does NOT ask about intent — epidemic and massacre both count as mortality — so it measures process, not verdict, and cuts across 'genocide-linked' vs. 'expulsion' families. Cook & Borah and Dobyns vs. Henige illustrate the contact-era estimation debates coders will meet.",
+   "era_coverage": "Prehistoric: code only where positive evidence exists — massacre horizons (Talheim, Sandby borg-type sites), trauma frequencies, or sharp SPD crashes coincident with the transition; otherwise unknown. Expect 'unknown' for most aDNA-only cases: ancestry turnover is silent on whether decline ran through graves or through wombs.",
+   "expected_correlates": "Correlates with prior_population_removal and fast transformation_tempo (mortality-heavy clearances tend to be pulses). Its low end separates absorption/emigration events from clearances that current 'strength' coding lumps together."
+  },
+  {
+   "id": "hdem_transformation_tempo",
+   "discipline": "historical-demography",
+   "name": "transformation_tempo",
+   "definition": "Elapsed time from the onset of in-movement or clearance to the event's demographic culmination (peak incomer share or maximum displacement) — pulse versus wave.",
+   "anchors": [
+    "0 = >300 years, or the transformation never culminated (open-ended drift, stalled settlement).",
+    "1 = 100-300 years: multi-century wave (Greek colonization of Sicily; Ostsiedlung; Beaker-period British turnover completed within a few hundred years per Olalde et al. 2018).",
+    "2 = 25-100 years: multi-decade process (New England 1620-1700; XPCC build-up).",
+    "3 = 5-25 years: within one generation (California 1846-1873 at 27 years sits at the 2/3 boundary — code 3 if the bulk of change fell within a decade, as it did).",
+    "4 = <5 years: a pulse (Crimean deportation executed in days in May 1944; Nakba in ~22 months; Marshall Islands removals per atoll)."
+   ],
+   "evidence_notes": "Tempo is the classic archaeogenetic discriminator between demic-diffusion waves (Ammerman & Cavalli-Sforza 1984 wave-of-advance) and event-like turnovers; radiocarbon-anchored ancestry transects now date prehistoric turnovers to within centuries. For modern events, tempo is trivially documented. Keyfitz-style momentum reasoning explains why slow waves and fast pulses reach the same endpoint by different mechanics.",
+   "era_coverage": "Prehistoric: date the ancestry transition from first appearance to fixation in the aDNA transect (typically resolvable to the century); code unknown only when the transect has a single time-point.",
+   "expected_correlates": "Fast tempo correlates with stream_coordination (states make pulses) and mortality_share; slow tempo with settler_reproduction_engine (fertility-driven waves). This is the axis on which 'demographic expansion analogue' should dissolve — its members are simply the slow-tempo, low-coordination corner of the same space."
+  },
+  {
+   "id": "hdem_settler_reproduction_engine",
+   "discipline": "historical-demography",
+   "name": "settler_reproduction_engine",
+   "definition": "The demographic engine sustaining the incomer population after initial arrival: whether it was a mortality sink requiring replenishment, migration-fed, or self-amplifying through natural increase.",
+   "anchors": [
+    "0 = No incomer population established or retained.",
+    "1 = Demographic sink: deaths exceeded births; the population persisted only through continuous replenishment (Saint-Domingue, where both the white and the enslaved populations had strongly negative natural increase and were sustained by ~800k cumulative slave imports; early Virginia; Norse Greenland in its terminal phase).",
+    "2 = Migration-fed growth: natural increase positive but continued in-migration the dominant growth component (XPCC-era Xinjiang; most 19th-c. frontier rushes in their first decades).",
+    "3 = Self-sustaining: after the founder cohort, natural increase the dominant growth source; immigration secondary (Ostsiedlung villages after c. 1300; Liberia's Americo-Liberians).",
+    "4 = Explosive natural increase: population doubling every ~25-30 years across 2+ generations with negligible further immigration (New England after 1640 — ~20k founders to ~90k+ by 1700; the Quebec founder effect, ~8,500 founders per Charbonneau et al. 1993)."
+   ],
+   "evidence_notes": "The core settler-demography insight (Crosby 1986, Ecological Imperialism): 'Neo-Europes' were made by fertility, not by boats. Colonial vital records, doubling times, and founder-effect genetics (French-Canadian, Afrikaner) decide the score quickly. Curtin (1969) and Geggus for the Caribbean sink pattern. This dimension splits the current 'settler colonization' family in half (sink plantations vs. natural-increase settlement colonies) — by design.",
+   "era_coverage": "Prehistoric: use the Neolithic Demographic Transition signature — juvenility-index jumps in cemeteries (Bocquet-Appel 2002; 2011, Science 333:560) and sustained SPD growth (Shennan et al. 2013) indicate anchor 3-4 for farmer expansions; steppe-pastoralist internal growth is less directly attested — code 2-3 or unknown. Unknown whenever neither cemeteries nor SPDs exist.",
+   "expected_correlates": "Correlates with family_completeness and incomer_share (settler-engine factor), negatively with destination_saturation. The correlation with family completeness is causal, not redundant: composition is the input, reproduction regime the output, and mismatches (male-biased yet self-sustaining via local wives) mark the absorption pathway."
+  },
+  {
+   "id": "hdem_stream_coordination",
+   "discipline": "historical-demography",
+   "name": "stream_coordination",
+   "definition": "Degree of central organization of the migrant stream: who chose the destination, financed the move, and allocated land — from household drift to state-assigned placement.",
+   "anchors": [
+    "0 = No incoming stream.",
+    "1 = Uncoordinated demic diffusion or household drift: no recruiting institutions; movement by budding of settlements or seasonal expansion.",
+    "2 = Kin/community chain migration: destinations chosen through information and remittances from prior migrants; self-financed (MacDonald & MacDonald 1964; Banu Hilal tribal segments).",
+    "3 = Organized private/chartered recruitment: professional recruiters, land contractors, or founder-led expeditions allocating plots — Greek oikist-led apoikiai, Ostsiedlung locatores, joint-stock and proprietary companies, land-grant advertising.",
+    "4 = State-directed placement: destinations assigned, transport provided, quotas set, departure sometimes compulsory (XPCC bingtuan; Soviet resettlement into Crimea; Generalplan Ost's Volksdeutsche placement; Egyptian state foundations in Nubia)."
+   ],
+   "evidence_notes": "Straight from migration-systems theory: whether a stream is network-driven or policy-driven determines its selectivity, tempo, and reversibility (Mabogunje 1970; Kritz, Lim & Zlotnik 1992; Massey et al. 1993, 'Theories of International Migration', Pop Dev Rev 19:431, on cumulative causation). Charters, recruitment contracts, and resettlement decrees are fast to find for historical cases; the locator institution is textbook for Ostsiedlung.",
+   "era_coverage": "Prehistoric: default to 1 (demic diffusion) — a defensible prior where no state existed — unless archaeology shows planned single-episode foundation; never code 3-4 without documentary or epigraphic evidence. 'Unknown' rarely needed because absence of institutions is itself the low anchor.",
+   "expected_correlates": "Correlates with transformation_tempo and displacement_scale (the orchestration factor) and cross-cuts severity entirely: state-directed streams include both benign resettlement and Generalplan Ost. This orthogonality is the point — it should emerge as its own factor, not fold into clearance."
+  },
+  {
+   "id": "hdem_displaced_relocation_distance",
+   "discipline": "historical-demography",
+   "name": "displaced_relocation_distance",
+   "definition": "Modal severance of the displaced population from its homeland: how far the displaced ended up and whether return remained physically/structurally feasible.",
+   "anchors": [
+    "0 = No displaced population, or displaced remained within their home district with return feasible within days.",
+    "1 = Short-distance displacement within the contiguous homeland region (<~100 km); homeland visible/reachable; most Yemen IDP movement.",
+    "2 = Displacement to margins or reserved zones within the same polity: reservations, refugia, uplands, mission concentrations (California rancherias/reservations; forager retreat zones).",
+    "3 = Expulsion across a polity or cultural boundary into adjacent territories (Nakba refugees into neighboring states; Old Prussian flight into Lithuania; Generalplan Ost expellees into the General Government).",
+    "4 = Long-range transfer >1,000 km, overseas, or otherwise structurally barred from return (Crimean Tatars to Uzbekistan; Chagossians to Mauritius/Seychelles; Iraqi Jews airlifted to Israel; the Middle Passage)."
+   ],
+   "evidence_notes": "Forced-migration demography treats distance and border-crossing as the master variables for return probability and diaspora formation (Kunz 1973 refugee kinetics; Zolberg; Hugo). Distance decay is the oldest law in migration studies (Ravenstein 1885). Destination geography is documented in every modern case within minutes; for deportations the receiving oblast/state is a matter of record.",
+   "era_coverage": "Prehistoric: codable only where aDNA or isotopes show survivor populations persisting in refugia (e.g. western/upland forager persistence during farmer expansions); strontium isotope mobility helps for individuals. Usually unknown — say so rather than guessing.",
+   "expected_correlates": "Correlates with prior_population_removal and stream_coordination (long-range transfer requires logistics). Its independence from mortality_share distinguishes transport-clearances (Crimea) from extermination-clearances (California) — two poles the clustering should separate."
+  },
+  {
+   "id": "hdem_destination_saturation",
+   "discipline": "historical-demography",
+   "name": "destination_saturation",
+   "definition": "Demographic saturation of the affected zone at event onset: how densely peopled and how politically organized the land the incomers entered (or the cleared zone) was.",
+   "anchors": [
+    "0 = Effectively uninhabited (no resident population: Norse-era Greenland fjords; Iceland-type landnám).",
+    "1 = Sparse mobile foragers or dispersed herders, <~0.1 persons/km² (post-epidemic coastal New England approached this; interior Australia-type).",
+    "2 = Low-density farming/pastoral communities without state-level organization (Baltic Prussia c. 1230; Neolithic-transition Britain's forager population).",
+    "3 = Dense settled agrarian landscape under polity organization (Nile-valley Nubia under Kerma/Kush; Sicilian interior; Palestine 1947).",
+    "4 = Dense agrarian plus urban network — incomers entered occupied, administered, taxed land (Iraqi cities 1948; Yemen 2014; Maghreb cities for Banu Hilal)."
+   ],
+   "evidence_notes": "The structural precondition dimension: Crosby's 'Neo-Europes' and the debate over the 'widowed land' (Cronon 1983; Dobyns vs. Henige on contact-era counts) show that pre-event density shapes every downstream mechanic. Use HYDE 3.x gridded historical population (Klein Goldewijk et al.) for rapid density lookups, plus regional paleodemography. Ten-minute codable for nearly all events.",
+   "era_coverage": "Prehistoric: settlement-site densities and SPDs give the bin directly; foragers vs. farmers is archaeologically legible. This dimension is unusual in being FULLY codable for every era — reserve unknown for genuinely contested emptiness claims (terra nullius assertions must be checked against archaeology, not taken from settler sources).",
+   "expected_correlates": "Negatively correlates with incomer_share_at_consolidation and settler_reproduction_engine (empty land enables the settler engine); positively with prior_population_removal among high-incomer events (dense zones require clearance for settlement). Interaction with removal is the theoretically loaded term: settlement into vacuum vs. settlement by clearance."
+  },
+  {
+   "id": "hdem_prior_ancestry_in_successor_population",
+   "discipline": "historical-demography",
+   "name": "prior_ancestry_in_successor_population",
+   "definition": "Detectable demographic contribution of the prior population WITHIN the zone's consolidated post-event population — the absorption axis: did incomers absorb the locals, or replace/exclude them?",
+   "anchors": [
+    "0 = Negligible: <5% prior-population ancestry/membership in the successor population (boundary rigidly maintained or population removed: post-1944 Crimea; New England colonial population).",
+    "1 = Trace: 5-15% (Neolithic-farmer ancestry surviving in Beaker-period Britons, ~10% per Olalde et al. 2018).",
+    "2 = Moderate: 15-40% (European-farmer ancestry within Corded Ware populations, ~25-30% per Haak et al. 2015).",
+    "3 = Major: 40-70% — successor population is a genuine fusion (much of the Ostsiedlung zone: eastern German populations carry substantial Slavic ancestry).",
+    "4 = Dominant: >70% local — incomers demographically dissolved into the prior gene pool; language/identity shifted while ancestry stayed local (Maghreb Arabization: Arab genomic contribution minority against a Berber base, cf. Arauna et al. 2017; Sokoto's Fulani-Hausa fusion; Egyptianized Nubia)."
+   ],
+   "evidence_notes": "Archaeogenetics' signature discovery is precisely this dissociation: culture, language, and Y-chromosomes can turn over while the autosomal gene pool barely moves — 'elite dominance' language shift (Renfrew) now testable. Modern admixture panels (Maghreb: Arauna et al. 2017 Mol Biol Evol; global: Hellenthal et al. 2014) and intermarriage statistics decide the score. This dimension detects events the current taxonomy misfiles as 'conquest without settlement' when they were demographically absorptive conquest.",
+   "era_coverage": "Prehistoric and ancient: directly measured by aDNA or modern-DNA admixture dating — often the best-attested dimension for old cases. Modern cases without genetic studies: use intermarriage/mestizaje records; unknown if the successor population was never studied and social records are silent.",
+   "expected_correlates": "Strong negative correlation with prior_population_removal and family_completeness (male-biased streams absorb; family streams exclude) — expected and informative, since the removal-absorption anticorrelation IS factor F4. Mathematically related to incomer_share but not identical: incomer_share is the zone's composition, this is composition within the successor community."
+  },
+  {
+   "id": "hdem_present_day_endpoint",
+   "discipline": "historical-demography",
+   "name": "present_day_endpoint",
+   "definition": "State of the demographic transformation in the 2020s: whether the incomer population's dominance persisted, blended, receded, or was reversed — the event's modern demographic fossil.",
+   "anchors": [
+    "0 = Fully reversed: incomer-descended population gone from the zone (Norse Greenland extinct by c. 1450; Saint-Domingue's settlers expelled 1804; Iraq's zone-of-event Jewish population and, conversely, any settler group later wholly withdrawn).",
+    "1 = Largely receded: incomer-descended group persists as a small minority without demographic dominance (Americo-Liberians ~2-5% of Liberia).",
+    "2 = Blended: no demographically distinct incomer vs. prior groups today — a fusion population is the endpoint (Maghreb Arab-Berber; most Ostsiedlung-zone populations pre-1945).",
+    "3 = Transformation persists alongside a substantial surviving/returned prior population, composition still politically live (Crimea: Slavic majority with ~12% returned Tatars; Israel/Palestine; Xinjiang).",
+    "4 = Transformation complete and permanent: prior population <5% of the zone today; incomer-descended (or subsequent-layer) population overwhelmingly dominant (New England; California; Britain's post-Beaker ancestry base; Prussia's extinct Old Prussians)."
+   ],
+   "evidence_notes": "The discipline's 'present as archive' move: current censuses and population-genetic surveys make EVERY event, however ancient, codable at its endpoint. Ten-minute sources: national censuses, minority-population statistics, modern admixture surveys. Note that later events overwrite earlier ones (post-1945 expulsion of Germans reversed the Ostsiedlung east of the Oder — code the zone as the event defined it and let the reversal show).",
+   "era_coverage": "Uniformly codable for all eras by construction — this is the one dimension with essentially no 'unknown' cell, which anchors the factor analysis when ancient rows are otherwise sparse.",
+   "expected_correlates": "Correlates with prior_population_removal and settler_reproduction_engine (engines make endpoints durable), anticorrelates with destination_saturation. Divergences are the analytically rich cells: total-removal events that later reversed (Saint-Domingue) versus low-violence waves that became permanent (Neolithic Britain) — a contrast invisible in the current strength scale."
+  },
+  {
+   "id": "gfm_coercion_apex",
+   "discipline": "genocide-forced-migration",
+   "name": "coercion_apex",
+   "definition": "The most direct coercive instrument documented as actually effecting the population change, ordered from no documented coercion through administrative pressure, disorganized terror, organized armed force, to removal under direct physical custody.",
+   "anchors": [
+    "0 = No coercive act against the prior/target population is documented or archaeologically attested; change proceeds by migration into demonstrably unoccupied or vacated land, recruitment, or purchase (Norse Greenland's Eastern Settlement; Ostsiedlung recruitment zones settled by charter).",
+    "1 = Administrative and economic pressure only: discriminatory statutes, punitive taxation, land-titling, dismissal from employment, denaturalization — with no organized physical force applied to move anyone (Han in-migration phases of XPCC settlement driven by job allocation and hukou incentives).",
+    "2 = Intimidation and sporadic, organizationally shallow violence — pogroms, arson, threats, isolated killings by mobs or freelance settlers — precipitates flight or withdrawal (the 1941 Farhud and 1950-51 Baghdad bombings preceding the Iraqi Jewish exodus; frontier squatter violence).",
+    "3 = Organized armed force compels movement or seizes land: military campaigns, militia sweeps, village destruction; people flee under fire or are driven out at gunpoint but move themselves (majority pattern of the 1948 Nakba; Pequot War; Sokoto jihad campaigns; Yemen front-line displacement).",
+    "4 = Removal executed under direct physical custody of victims' bodies in transit: roundups, escorted marches, deportation trains, forced embarkation on ships (Crimean Tatar operation of 18-20 May 1944; Chagossian embarkations 1971-73; slave transports to Saint-Domingue; Warthegau deportation trains)."
+   ],
+   "evidence_notes": "Settled by operational histories and survivor testimony: was there a deportation order and transport manifest (4), a military campaign (3), riots without organization (2), or only statutes (1)? Motivated by the coercion-spectrum literature: Naimark, Fires of Hatred (2001); Ther, The Dark Side of Nation-States (2014); Polian, Against Their Will (2004) on Soviet custody operations; Zolberg, Suhrke & Aguayo, Escape from Violence (1989) distinguishing violence-driven from pressure-driven flight.",
+   "era_coverage": "Prehistoric: massacre horizons (mass graves, embedded projectiles, burn layers coinciding with ancestry turnover) support 3; absence of such evidence supports 'unknown', NOT 0 — code 0 only where the settled zone is positively shown to have been unoccupied (Norse Greenland). Level 4 (custody) is essentially unattestable before written records, so prehistoric events effectively cap at 3.",
+   "expected_correlates": "Correlates with perpetrator_state_centrality and displacement_tempo (custody requires state logistics and compresses time). Not redundant: California scores high apex with only mid state-centrality (militias), Chagos scores maximum apex with near-zero lethality, and Ostsiedlung scores low on all three."
+  },
+  {
+   "id": "gfm_lethality_of_process",
+   "discipline": "genocide-forced-migration",
+   "name": "lethality_of_process",
+   "definition": "Cumulative excess mortality among the target group attributable to the process — direct killing plus deaths in flight, transit, confinement, and process-caused famine or epidemic — as a share of the group's pre-event population.",
+   "anchors": [
+    "0 = No excess mortality documented; sources or archaeology describe displacement, absorption, or subordination without attributed deaths (Norse Greenland; core Ostsiedlung recruitment zones).",
+    "1 = Lethal episodes documented but cumulative toll under roughly 1% of the group (Chagos removal; Iraqi Jewish exodus; Marshall Islands relocations, where deaths came slowly via displacement conditions and radiation rather than mass killing).",
+    "2 = Recurrent lethal violence, massacre episodes, or transit mortality totaling roughly 1-10% (Nakba: ~13,000 Palestinian deaths against a population of ~1.3 million, with documented massacres such as Deir Yassin and Lydda).",
+    "3 = Mass mortality of roughly 10-33%, whether by killing or by deportation/confinement conditions (Crimean Tatar special-settlement deaths, credibly estimated at 15-25% in the first years of exile; southern New England Native losses across King Philip's War and its aftermath).",
+    "4 = More than a third of the group died, or contemporaneous evidence shows an exterminatory aim substantially executed (California: Native population fell ~150,000 to ~30,000, 1846-1873, with state-sponsored killing documented by Madley, An American Genocide, 2016; Generalplan Ost zones)."
+   ],
+   "evidence_notes": "Settled by published demographic estimates in case literature — Madley's county-level tallies for California, NKVD registration data via Polian (2004) for Crimea, Morris (The Birth of the Palestinian Refugee Problem Revisited, 2004) for 1948. The bands deliberately include attritional deaths per Fein, 'Genocide by Attrition' (Health and Human Rights, 1997) — deaths from engineered conditions count the same as bullets.",
+   "era_coverage": "Prehistoric: code a band only when aDNA turnover is accompanied by massacre archaeology or a paleodemographic crash (summed radiocarbon probability collapse). Ancestry replacement alone does NOT establish death — displacement and differential fertility mimic it — so Neolithic Britain and the Yamnaya-Danube expansion are honestly 'unknown' absent region-specific mortality evidence.",
+   "expected_correlates": "Correlates with coercion_apex and subsistence_destruction but is deliberately separable: Chagos pairs maximum custody with minimal death; Crimea pairs custody with mass death; the Maghreb pairs enormous cultural replacement with little documented killing. That separation is the Lemkin point — physical destruction is only one technique of group destruction."
+  },
+  {
+   "id": "gfm_subsistence_destruction",
+   "discipline": "genocide-forced-migration",
+   "name": "subsistence_destruction",
+   "definition": "The degree to which the perpetrator destroyed the target group's means of life — food systems, herds, water, livelihoods — as an instrument of removal or destruction (Fein's 'genocide by attrition').",
+   "anchors": [
+    "0 = The group's subsistence base was left intact; no documented attacks on food, livestock, water, or livelihood systems (Ostsiedlung; Norse Greenland).",
+    "1 = Livelihood disruption incidental to displacement — fields abandoned, employment lost, assets frozen by law — but the subsistence base itself was not targeted (Iraq's 1951 asset-freeze law accompanying denaturalization).",
+    "2 = Localized, campaign-scoped destruction: crop burning, livestock seizure, orchard and well destruction during military operations (King Philip's War crop destruction; Sokoto-era raiding; harvest seizures during and after 1948).",
+    "3 = Systematic destruction of the subsistence base as a strategy across the theater: repeated scorched-earth sweeps, burning of villages and food stores, or engineered livelihood shutdown to force departure (California village-and-store burning campaigns; Chagos: plantation closures, cut food shipments, and the killing of islanders' dogs; Marshall Islands: home atolls rendered radiologically unusable).",
+    "4 = Engineered mass starvation or comprehensive blockade of food, water, and medicine, or a written starvation plan (the Hunger Plan within Generalplan Ost; the Yemen blockade with targeted strikes on ports, farms, and water infrastructure)."
+   ],
+   "evidence_notes": "Settled by campaign histories and humanitarian documentation: does the record show food-system targeting as method? Motivating literature: Fein 1997 on attrition; de Waal, Mass Starvation (2018) on famine crimes; Madley 2016 on California's destroy-the-villages pattern; Vine, Island of Shame (2009) for Chagos. This dimension rescues low-body-count cases that were still eliminationist in method.",
+   "era_coverage": "Prehistoric: deliberateness is unknowable; code 'unknown' unless destruction layers across multiple settlements coincide with population turnover (then 2). Paleoecological land-use change alone is not destruction. Ancient literate cases codable from campaign inscriptions (e.g., Egyptian punitive expeditions in Nubia).",
+   "expected_correlates": "Correlates with lethality_of_process where starvation was the killing method, but decouples in custody removals (Chagos: 3 on this, 1 on lethality) and in clean deportations (Crimea: 4 on custody, low here). The decoupling distinguishes attritional from ballistic destruction — a distinction the current mechanism list cannot represent."
+  },
+  {
+   "id": "gfm_perpetrator_state_centrality",
+   "discipline": "genocide-forced-migration",
+   "name": "perpetrator_state_centrality",
+   "definition": "Who executed the displacing or subordinating action: from no organized perpetrator at all, through private and settler initiative, state sponsorship of private violence, to direct execution by central state organs (Mann's core variable).",
+   "anchors": [
+    "0 = No organized perpetrator identifiable; the change is the aggregate of autonomous household or kin-group movement across generations (Neolithic farmer expansion into Britain/Ireland; the Yamnaya-Danube movement as modeled in the aDNA literature).",
+    "1 = Organized non-state actors act without a sponsoring state's direction: tribal confederations, colonization societies, chartered companies acting alone (Banu Hilal confederations; the American Colonization Society's early Liberia).",
+    "2 = An existing state or paramount authority passively tolerates private seizure and violence — no punishment, no direction (squatter expansion ratified by official inaction).",
+    "3 = The state sponsors, arms, pays, or legalizes private/settler action while private actors execute: militia pay and bounty systems, land grants conditional on occupation, locator charters (California's state-funded, federally reimbursed militia expeditions; Ostsiedlung princes and their locators; New England colonial governments in the Pequot War).",
+    "4 = Central state organs execute the operation themselves: army, security police, or a dedicated agency (NKVD, May 1944; SS/RKFDV under Generalplan Ost; the Egyptian New Kingdom army-and-temple-town complex in Nubia; XPCC as a para-state corps; UK/US governments at Chagos; IDF operations under Plan Dalet)."
+   ],
+   "evidence_notes": "Settled by asking who was paid, ordered, or chartered: militia muster rolls, state appropriations, decrees. Motivating literature: Mann, The Dark Side of Democracy (2005) on state-society coalitions in cleansing; Madley 2016, who reconstructs California's 'killing machine' as precisely a level-3 hybrid; Straus, Making and Unmaking Nations (2015) on state capacity and restraint.",
+   "era_coverage": "Prehistoric: code 0 when the process spans centuries and many independent groups (wave-of-advance/leapfrog models in the aDNA literature); code 'unknown' when a coordinating polity is plausible but undocumented. Ancient states are codable from royal inscriptions and administrative texts (Nubian temple-towns = 4).",
+   "expected_correlates": "Correlates with coercion_apex, intent_legibility, and expropriation_formalization — a possible 'stateness' super-factor, which is exactly the hypothesis EFA should test rather than have baked in. Discriminates within current categories: 'settler colonization' spans 1 (Liberia) to 4 (XPCC)."
+  },
+  {
+   "id": "gfm_intent_legibility",
+   "discipline": "genocide-forced-migration",
+   "name": "intent_legibility",
+   "definition": "How legible the design was: whether removal/replacement was articulated in advance, ordered during the event, improvised locally, or demonstrably emergent from uncoordinated action — independent of how bad the outcome was.",
+   "anchors": [
+    "0 = Demonstrably emergent: no actor articulates a removal or replacement design, and the outcome accretes from uncoordinated decisions over three or more generations (Neolithic Britain; Yamnaya-Danube; Banu Hilal drift westward).",
+    "1 = Pull-side design only: recruitment charters, colonization schemes, foundation rituals, or land-grant propaganda exist, but no documented design against the prior population (Ostsiedlung locator contracts; Greek apoikia foundations with oikist and land division; Erik the Red's organized Greenland fleet).",
+    "2 = Removal improvised mid-crisis by local commanders, settlers, or officials and tolerated or ratified afterward; no prior or contemporaneous central directive found (much of California's escalation 1846-52; historiographically disputed cases default here when no operational order can be cited).",
+    "3 = Contemporaneous central directives ordering removal or settlement of specified populations — decrees, operational plans issued during the event, but no comprehensive prior blueprint (Plan Dalet, March 1948; Iraq's Denaturalization Law of 1950; XPCC founding directives; Bikini/Enewetak relocation orders).",
+    "4 = A comprehensive written plan predating implementation, with population targets, quotas, or timetables (Generalplan Ost; GKO Decree 5859ss plus the NKVD operational plan for Crimea; the 1960s BIOT paper trail resolving to leave 'no indigenous population' on Diego Garcia)."
+   ],
+   "evidence_notes": "Settled by whether a citable document exists and when it was written relative to events — a 10-minute check in the case literature. Motivating literature: Mann 2005 on 'Plan A/B/C' radicalization (intent often crystallizes mid-process, which is why 2 and 3 must be distinct); the intentionalist-functionalist debate in Holocaust historiography; Morris 2004 vs. Pappé on 1948 (coding rule: score 3 only where an operational order is documented; score the dispute in a coder note).",
+   "era_coverage": "Prehistoric: code 0 only when the multi-generational, multi-actor structure is itself positively attested (radiocarbon gradients, staggered settlement horizons); otherwise 'unknown'. Literate-ancient cases codable from inscriptions; 'unknown' when archives are lost rather than absent.",
+   "expected_correlates": "Correlates with displacement_tempo and perpetrator_state_centrality (plans compress time and need states), with instructive exceptions: XPCC is fully planned yet multi-decadal; California was fast-ish yet only semi-planned. Splitting legibility from severity prevents the common conflation of 'planned' with 'worst' — Chagos is maximally planned and minimally lethal."
+  },
+  {
+   "id": "gfm_pattern_imposition",
+   "discipline": "genocide-forced-migration",
+   "name": "pattern_imposition",
+   "definition": "Lemkin's second phase: the degree to which the perpetrator's cultural-institutional pattern (language, religion, law, toponymy, built landscape) was imposed on the territory and any remaining population.",
+   "anchors": [
+    "0 = The incomers' pattern remains an enclave or dissolves into the local pattern; prior language, cult, and toponyms stay dominant in the territory (trading-post and garrison colonialisms; Norse Greenland, where there was no prior pattern in the settled zone to replace).",
+    "1 = Coexistence or syncretism: incomer institutions are added alongside surviving ones, with no prohibition of the prior pattern (mixed zones of the Ostsiedlung where Slavic law and parishes persisted beside German-law towns).",
+    "2 = Incomer pattern dominant in cores (towns, plantations, colonies) while the prior pattern persists among the rural or hinterland majority (Greek Sicily in its first centuries; Egyptian temple-towns in Nubia; Americo-Liberian coastal institutions vs. the interior).",
+    "3 = Region-wide replacement within roughly two centuries — language shift, religious conversion, legal system, and toponymy largely replaced — without documented prohibition of the old pattern (Arabization of the Maghreb after Banu Hilal; total material-culture replacement in Neolithic Britain; the Corded Ware horizon; Hellenization of eastern Sicily).",
+    "4 = Active suppression documented: bans on language, religion, or dress; forced conversion; renaming of places or persons by decree; destruction of shrines and cemeteries; forced re-education or child transfer (forced Christianization of Prussia and extinction of Old Prussian; mass Russification of Crimean toponyms and mosque closures after 1944; village demolition and map Hebraization after 1948; mosque demolition and internment-based re-education in Xinjiang; Germanization measures under Generalplan Ost)."
+   ],
+   "evidence_notes": "Settled by observable outcomes — what language, religion, and place-names prevailed two centuries on — plus documented prohibition for level 4. Motivated directly by Lemkin, Axis Rule in Occupied Europe (1944), ch. IX, whose two-phase definition makes imposition of the oppressor's pattern constitutive of genocide, not an afterthought; also Kiernan, Blood and Soil (2007) on cultivation-and-naming ideologies.",
+   "era_coverage": "Uniquely prehistoric-friendly on the outcome side: material-culture and (later-attested) language replacement are archaeologically visible, so code up to 3 from assemblage turnover. Level 4 requires attested prohibition, so prehistory caps at 3; code 'unknown' only when the archaeological record is too thin to characterize continuity.",
+   "expected_correlates": "Correlates with return_foreclosure and expropriation_formalization (the consolidation cluster) and is strikingly independent of lethality — the Maghreb and Neolithic Britain reach 3 with no documented mass killing, while the Generalplan Ost expulsions reached 4 briefly and were then wholly reversed. Predicted inverse relation with category_permeability at the top end: assimilationist regimes score high here but low on impermeability."
+  },
+  {
+   "id": "gfm_survivor_confinement",
+   "discipline": "genocide-forced-migration",
+   "name": "survivor_confinement",
+   "definition": "The most severe spatial regime the perpetrator imposed on surviving group members (in place, in transit, or in exile under perpetrator control), sustained at least one year and touching at least 10% of survivors — the reservation/ghetto/camp axis.",
+   "anchors": [
+    "0 = No spatial restriction: survivors move and settle freely, or the group was removed wholly beyond the perpetrator's reach with no regime imposed at destination (Chagossians in Mauritius; Iraqi Jews after departure).",
+    "1 = De facto relegation to marginal lands or quarters — economic and social exclusion without codified spatial law (forager persistence in upland/wetland margins where settlement archaeology shows it; informal native quarters).",
+    "2 = Legally designated zones with restricted rights but porous boundaries: reservations, praying towns, ghettos, pales of settlement (New England praying towns; early California reservations as designated but leaky spaces).",
+    "3 = Enforced confinement with movement control: pass systems, commandant regimes, closed reservations, military government, sieges of group enclaves (the USSR's spetsposelenie regime for Crimean Tatars, with monthly registration and criminalized departure; Israeli military government over remaining Palestinians, 1948-66; Round Valley concentration drives; besieged Yemeni cities such as Taiz).",
+    "4 = Custodial internment: camps, forced-labor concentration, prison islands, with guards and documented excess mortality (ghettos and camps under Generalplan Ost; post-2017 internment in Xinjiang within the XPCC event's span; plantation slavery regimes of Saint-Domingue; large-scale slave estates of the Sokoto Caliphate)."
+   ],
+   "evidence_notes": "Settled by the legal-administrative record: was there a statute or regime document, and did it control movement? Motivating literature: Pitzer, One Long Night: A Global History of Concentration Camps (2017); Viola, The Unknown Gulag (2007) and Polian 2004 on special settlement; Ostler, Surviving Genocide (2019) on the reservation as containment; Wolfe, 'Settler Colonialism and the Elimination of the Native' (JGR, 2006) on confinement as elimination's alternative. The one-year/10% thresholds keep short spikes (Deer Island, 1675-76) from dominating the code.",
+   "era_coverage": "Prehistoric: almost always 'unknown'; code 1 only from clear settlement-pattern relegation of the prior population to marginal zones, and never higher without texts. Ancient literate cases codable from administrative records (temple-estate labor attachment).",
+   "expected_correlates": "Correlates with category_permeability and perpetrator_state_centrality. Expected to load on a bipolar factor against clean-removal dimensions: processes that deport everyone (Crimea scores 3 only in exile; Chagos scores 0) versus processes that keep survivors as confined labor (Saint-Domingue, Sokoto = 4). That bipolarity operationalizes elimination-vs-exploitation, which no current mechanism family captures."
+  },
+  {
+   "id": "gfm_return_foreclosure",
+   "discipline": "genocide-forced-migration",
+   "name": "return_foreclosure",
+   "definition": "How completely return was foreclosed for the displaced, assessed ~50 years after peak displacement (or at present for ongoing cases): the refugee-studies durable-solutions outcome inverted into a process property.",
+   "anchors": [
+    "0 = No lasting displacement, or most of the displaced returned within a decade (the Generalplan Ost expulsions: most surviving Polish expellees returned after 1945; short-radius wartime flight with quick return).",
+    "1 = Substantial return (roughly 25-75%) within a generation, with partial property recovery; return neither centrally barred nor complete (portions of Yemen's IDP population returning to retaken areas).",
+    "2 = Only a trickle returned despite no permanent legal bar: homes destroyed or occupied, return unsafe or pointless (many protracted conflict displacements; post-war non-return where villages were razed).",
+    "3 = Return formally barred by law, border closure, or citizenship-stripping for decades, followed by significant partial return after a regime change (Crimean Tatars: barred until 1989, roughly half returned after; Bikini/Rongelap: resettlement attempted, re-evacuated, partial and contested to date).",
+    "4 = Permanent exile to date: return barred, homes reallocated or destroyed, often denationalization; no significant return ever occurred (Palestinian refugees of 1948; Iraqi Jews stripped of citizenship; Chagossians, whose return remained blocked for five decades; enslaved Africans transported to Saint-Domingue)."
+   ],
+   "evidence_notes": "Settled quickly from case literature and, for modern cases, UNHCR/IOM return statistics; the decisive facts are a legal bar (denaturalization acts, entry bans, absentee-property laws) and the observed return share. Motivating literature: the UNHCR durable-solutions triad (return, local integration, resettlement); Kunz, 'Exile and Resettlement: Refugee Theory' (IMR, 1981) on return orientation; Long, The Point of No Return (2013); Hirschon, Crossing the Aegean (2003) on the Lausanne exchange's permanence.",
+   "era_coverage": "Prehistoric: codable from aDNA 'resurgence' signals — a measurable rebound of displaced-population ancestry in later strata codes 1-2 (the Middle Neolithic hunter-gatherer ancestry resurgence in continental Europe); no detectable resurgence after turnover codes 4 with a confidence note (Britain); otherwise 'unknown'. Groups subordinated in place without displacement code 0 with a note.",
+   "expected_correlates": "Correlates with pattern_imposition and expropriation_formalization (consolidation), and pointedly NOT with lethality or intent — the most lethal, best-planned case in the corpus (Generalplan Ost) scores near 0 because defeat reversed it. This dimension splits the current 'expulsion/ethnic cleansing' family into reversed vs. consolidated removals, a distinction the existing taxonomy cannot see."
+  },
+  {
+   "id": "gfm_displacement_tempo",
+   "discipline": "genocide-forced-migration",
+   "name": "displacement_tempo",
+   "definition": "The kinetics of displacement (after Kunz's kinetic models): the speed of the peak displacement episode, from multi-generational drift with no discrete episode to a single custody operation measured in days.",
+   "anchors": [
+    "0 = No discrete displacement episode: population change unfolds over more than three generations (~90+ years) as drift, attrition, or gradual replacement (Neolithic Britain; Yamnaya-Danube; the Ostsiedlung; Banu Hilal).",
+    "1 = Protracted waves across roughly 30-90 years, no single year removing more than ~10% of the group (Greek colonization of a given coast; Liberia's frontier expansion; seventeenth-century New England dispossession).",
+    "2 = Sustained multi-year displacement over roughly 2-30 years with identifiable peak years (California 1846-73; Chagos 1968-73; XPCC-era demographic transformation's punctuated phases; most years of the Yemen war).",
+    "3 = Acute: the majority of total displacement occurs within about 24 months — mass flight under fire or a compressed removal program (the Nakba, April-December 1948; the Iraqi airlift of 1951-52, ~110,000 people in under two years; the Warthegau expulsion waves of 1939-41).",
+    "4 = A single coordinated operation measured in days to weeks removes most of the group (the Crimean Tatar deportation, completed 18-20 May 1944; the Bikini removal, March 1946)."
+   ],
+   "evidence_notes": "Settled by dated displacement statistics — nearly every modern case literature reports monthly or yearly flows; ancient cases from settlement chronology. Motivating literature: Kunz, 'The Refugee in Flight: Kinetic Models and Forms of Displacement' (International Migration Review, 1973) — the anticipatory-vs-acute distinction is fundamentally a tempo claim; Schechtman on transfer operations; Ther 2014 on the compressed timetables of twentieth-century cleansing.",
+   "era_coverage": "Radiocarbon and aDNA resolution is generational at best, so prehistoric events can honestly code only 0 or 1; a turnover that looks 'fast' at century scale still codes 1 with an uncertainty note. If even century-scale resolution is unavailable, 'unknown'.",
+   "expected_correlates": "Correlates with coercion_apex and intent_legibility (custody and plans compress time). Its analytic value is separating the two poles of the current 'demographic expansion analogue' vs. 'deportation' vocabulary as a continuous variable — and exposing hybrids like California (organized lethality at only tempo 2) that the binary hides."
+  },
+  {
+   "id": "gfm_category_permeability",
+   "discipline": "genocide-forced-migration",
+   "name": "category_permeability",
+   "definition": "Whether an individual member of the target group could avert removal, confinement, or death by changing religion, allegiance, or behavior while staying in place — the ascriptive rigidity of the victim category (Bulutgil's and Mann's boundary question).",
+   "anchors": [
+    "0 = Targeting keyed to location or behavior only: leaving a combat zone or complying ends exposure, and group identity per se is not targeted (most Yemen front-line displacement; economically driven clearances that took anyone in the way).",
+    "1 = Exit open and honored: conversion, oath, or assimilation reliably ends targeting, and significant numbers used it (conversion to Islam ending jihad targeting under Sokoto; Slavs entering German-law towns during the Ostsiedlung).",
+    "2 = Exit available but conditional and distrusted: converts or collaborators are partially spared yet surveilled, locally exempted, or periodically re-victimized (praying Indians interned at Deer Island despite conversion; baptized Prussians held under discriminatory law by the Teutonic Order).",
+    "3 = Exit exceptional: only selected individuals or client communities are exempted (guides, collaborators, allied minorities) while membership is otherwise inescapable (Druze and a few allied villages exempted in 1948 while Palestinian Arab identity was otherwise determinative; Egyptianized Nubian client elites).",
+    "4 = Ascriptive and total: descent- or registry-based definition with no exit by conversion, loyalty, or service (Nuremberg-law descent rules under Generalplan Ost; the Crimean deportation sweeping Tatar communists and Red Army veterans' families; race-defined targeting in California; Chagossians removed on residence-descent regardless of any conduct)."
+   ],
+   "evidence_notes": "Settled by asking what happened to converts, collaborators, and loyalists — case literatures almost always record this. Motivating literature: Bulutgil, The Roots of Ethnic Cleansing in Europe (2016) on crosscutting vs. reinforcing cleavages; Mann 2005 on organic vs. civic conceptions of the nation; Naimark 2001 on the racialization that closed exits in the twentieth century; Fredrickson on descent rules.",
+   "era_coverage": "Prehistoric: 'unknown' — classification practices leave no direct archaeological trace (sex-biased admixture hints at selective absorption but does not identify the rule). Ancient literate cases codable where sources describe absorption norms (Egyptianization, Hellenization of Sikels).",
+   "expected_correlates": "Predicted to correlate inversely with lethality at the extremes (impermeable categories enable totalizing violence) and inversely with pattern_imposition's assimilationist top: forced-assimilation regimes are permeable-but-imposing, exterminatory regimes impermeable. That double dissociation is exactly what makes it non-redundant with either."
+  },
+  {
+   "id": "gfm_sex_differential_targeting",
+   "discipline": "genocide-forced-migration",
+   "name": "sex_differential_targeting",
+   "definition": "The degree to which the process treated men and women differently — sex-selective killing or detention, abduction and forced marriage, sex-biased absorption of survivors, or reproductive suppression (the gendercide axis).",
+   "anchors": [
+    "0 = No sex asymmetry documented: families were moved, killed, or absorbed as units (Chagos; Marshall Islands; the Iraqi Jewish exodus).",
+    "1 = Incidental asymmetry from circumstance, not selection — e.g., men absent at war or labor when removal struck, skewing the deported population (the Crimean Tatar deportation fell disproportionately on women, children, and the elderly because men were at the front).",
+    "2 = Measurable sex-biased selection or absorption: documentary or genetic evidence that one sex was preferentially taken, retained, or incorporated (male-biased slave imports to Saint-Domingue at roughly 2:1; moderate sex-biased admixture signals in colonization-era populations; intermarriage-based absorption of local women in Greek colonies).",
+    "3 = Systematic sex-selective practice as pattern or policy: screening and detention or killing of battle-age males, mass abduction/forced marriage/concubinage of women, or state birth-suppression campaigns (the Lydda and Ramle male roundups of 1948; slave-raid concubinage under Sokoto; post-2017 birth-suppression in Xinjiang; the near-total Y-chromosome turnover accompanying partial autosomal replacement in steppe-expansion aDNA).",
+    "4 = Near-categorical elimination of one sex with absorption of the other — the 'Melian' pattern of adult males killed and women and children enslaved, applied to most of the group (attested for sacked cities in Greek warfare; the extreme pole in massacre-and-capture frontier episodes)."
+   ],
+   "evidence_notes": "Settled by massacre demographics, captive-taking records, and — uniquely — published aDNA sex-bias analyses. Motivating literature: Jones, 'Gendercide and Genocide' (Journal of Genocide Research, 2000); the Srebrenica jurisprudence on sex-selective massacre as genocide's marker; Goldberg et al., 'Ancient X chromosomes reveal contrasting sex bias in Neolithic and Bronze Age Eurasian migrations' (PNAS, 2017); Olalde et al. (Science, 2019) on Iberia's near-complete Y-lineage replacement. This is the dimension only genocide studies would insist on, and it is the one place the discipline and archaeogenetics measure the same construct.",
+   "era_coverage": "The most prehistoric-codable severity dimension in the battery: X-vs-autosome ratios and Y-haplogroup turnover measure sex bias directly, so code 2-3 from published analyses (Yamnaya-related expansions = 3); 'unknown' when no sex-bias analysis exists for the region, never inferred from analogy.",
+   "expected_correlates": "Largely orthogonal to the state/plan cluster — modern bureaucratic deportations tend to score 0-1 (whole families) while both ancient conquests and settler frontiers score 2-4. Predicted to correlate with survivor absorption/confinement rather than with lethality overall; its orthogonality is its value, splitting 'conquest' cases that current mechanisms lump."
+  },
+  {
+   "id": "gfm_expropriation_formalization",
+   "discipline": "genocide-forced-migration",
+   "name": "expropriation_formalization",
+   "definition": "How much legal-bureaucratic machinery converted the taking into recorded title: from possession by occupation alone to comprehensive cadastral redistribution with dedicated agencies — the administrative technology of dispossession.",
+   "anchors": [
+    "0 = No legal instruments: possession passes by occupation or force alone; this is also the substantive (not missing-data) code for non-literate contexts with no administrative apparatus attested (Yamnaya; Neolithic Britain; Banu Hilal).",
+    "1 = Post hoc paper: faits accomplis later ratified through treaties, purchase fictions, quitclaims, or compensation agreements that follow the seizure (post-conquest ratification treaties; trusteeship-era compensation instruments for the Marshall Islands).",
+    "2 = Generic doctrine stretched to cover the taking: conquest title, terra nullius, escheat, crown- or miri-land conversion, customary allotment of 'new' land (Norse landnám allotment; Sokoto fief allocation; Egyptian temple-estate grants).",
+    "3 = Dedicated instruments created for this specific transfer: statutes, charters, ordinances, or offices (Ostsiedlung locator contracts and Teutonic Handfesten; New England town-grant and General Court systems; Greek colonial kleros allotment under foundation decrees; BIOT ordinances and compulsory plantation purchase at Chagos; Soviet decrees settling Slavic newcomers into Crimean Tatar houses).",
+    "4 = Comprehensive bureaucratic redistribution: cadastral survey plus title registry plus custodial or resettlement agencies operating at scale (Israel's Absentee Property Law of 1950 with the Custodian and JNF transfer machinery; SS/RKFDV land offices under Generalplan Ost; the XPCC land-reclamation and registration system)."
+   ],
+   "evidence_notes": "Settled by naming the instrument: coders ask 'what statute, charter, or office moved the title?' — answerable in minutes for literate cases. Motivating literature: the legal-erasure strand of genocide and settler-colonial studies — Lemkin's own emphasis on occupation law in Axis Rule (1944); Wolfe 2006 on the juridical elimination of native title; Forman & Kedar on the 1950 Absentee Property Law; Blackhawk and Banner on treaty-and-title machinery. Legality here is not gentleness: high scores predict permanence, not restraint.",
+   "era_coverage": "Non-literate contexts code 0 by rule — the absence of formalization is itself the process fact, not missing data. Literate-ancient cases codable from inscriptions and charters; 'unknown' only where an administrative apparatus demonstrably existed but its records are lost.",
+   "expected_correlates": "Correlates with perpetrator_state_centrality and return_foreclosure — paper is how takings outlive the violence that made them. Non-redundant because it splits high-violence cases into consolidated (Nakba, 4) versus unconsolidated (Generalplan Ost's land offices ran briefly and were erased, coding 4-then-reversed, with return_foreclosure catching the reversal), and gives low-violence cases like the Ostsiedlung their distinctive high score."
+  },
+  {
+   "id": "ssi_carrier_centralization",
+   "discipline": "state-sovereignty-ideology",
+   "name": "carrier_centralization",
+   "definition": "Degree to which a centralized political authority organized, financed, and directed the population movement or removal, from autonomous folk migration to direct state execution.",
+   "anchors": [
+    "0: No political authority organized the movement - migration/removal proceeded by autonomous household, kin-group, or band decisions; sources or archaeology show no polity recruiting, transporting, escorting, or assigning the movers (chain migration, folk wandering, drift of pastoralist camps).",
+    "1: Segmentary or charismatic coordination - warband leaders, tribal confederacies, clan heads, or religious figures assembled and led movement episodes, but no standing administrative apparatus set quotas, routes, or allotments (Banu Hilal, most warband conquests).",
+    "2: Chartered intermediary - a sovereign or mother-polity licensed a corporate body (chartered company, military-religious order, proprietor, locator-contractor, oikist with a founding mandate) which recruited and planted settlers or executed removals while the sovereign stayed at arm's length (Greek apoikia, Ostsiedlung locators, Massachusetts Bay Company, ACS Liberia).",
+    "3: State-sponsored, privately executed - the state legislated or funded the project (land-grant laws, subsidized passage, removal bounties, militia authorization) but private actors, militias, or individual settlers carried out the taking (California militia-bounty system, homestead-era settlement).",
+    "4: Direct state execution - a state organ planned and executed the movement with its own personnel and budget: army/police deportations under written orders, state settlement agencies or production corps assigning colonists, ministry-run transfer schemes (NKVD Crimean deportation, XPCC, Generalplan Ost, New Kingdom temple-town foundations in Nubia)."
+   ],
+   "evidence_notes": "Settle by identifying who paid and who gave orders: founding charters, deportation decrees, agency archives, subsidy legislation - or their documented absence. Motivating works: Tilly, Coercion, Capital, and European States (1990) on organizations wielding coercion; Belich, Replenishing the Earth (2009), which distinguishes state, corporate, and folk carriers of settler expansion; Spruyt, The Sovereign State and Its Competitors (1994) on non-state corporate carriers as genuine alternatives to states.",
+   "era_coverage": "Prehistoric cases are codable: absence of state-level organization in the SOURCE society (known archaeologically from settlement hierarchy and administrative artifacts) caps the score at 0-1, so aDNA-attested folk expansions (Yamnaya, Neolithic farmers into Britain) default to 0 unless archaeology shows organized planting (uniform planned villages could argue 1). Return unknown only when the carrier society's own organization is undetermined.",
+   "expected_correlates": "Will correlate with legal_instrumentation_depth and legibility_engineering (polities that can deport can also survey) - convergent evidence for a bureaucratic-apparatus factor rather than redundancy, because chartered carriers (score 2) split off distinctively: strong legal instruments with weak state execution (New England, Teutonic Prussia), a combination no single dimension captures."
+  },
+  {
+   "id": "ssi_legal_instrumentation_depth",
+   "discipline": "state-sovereignty-ideology",
+   "name": "legal_instrumentation_depth",
+   "definition": "Extent to which written legal instruments (charters, patents, treaties, statutes, decrees, registries) were the operative machinery that transferred land or ordered removal, rather than legality trailing behind force.",
+   "anchors": [
+    "0: No written legal machinery - transfer effected by occupation, force, or custom alone; no charters, deeds, treaties, or decrees existed or none were used (all pre-literate cases; also documented squatter waves that outran any legal process).",
+    "1: Ceremonial or post-hoc legalization only - possession rituals, proclamations, or retroactive ratifications papered over takings already accomplished by force; no instrument governed individual transfers.",
+    "2: Project-level enabling instrument - a charter, papal bull, firman, concession, or founding statute authorized the enterprise as a whole, but individual takings were not legally processed parcel-by-parcel (Golden Bull of Rieti for Prussia; royal colonial charters).",
+    "3: Parcel-level legal processing - land commissions, title registration, cession treaties, confiscation or absentee-property proceedings converted specific holdings case-by-case through documented legal acts (California Land Claims Act 1851, Israeli Absentees' Property Law 1950, Ostsiedlung locator contracts and Hufen grants).",
+    "4: Comprehensive targeted legislation on land AND persons - statutes or decrees simultaneously expropriated property and altered the legal status of the target population as a named category (Iraqi Denaturalization Law 1950 paired with the 1951 property freeze; Nazi expropriation-plus-citizenship decrees; Soviet deportation decrees with the special-settler regime)."
+   ],
+   "evidence_notes": "Look for named instruments - if one existed a coder finds the statute/charter/treaty within minutes. Motivating works: Bhandar, Colonial Lives of Property (2018); Benton, Law and Colonial Cultures (2002); Ford, Settler Sovereignty (2010) on jurisdiction as the instrument of dispossession; Miller, Ruru, Behrendt & Lindberg, Discovering Indigenous Lands (2010) on Discovery-doctrine instruments; Forman & Kedar on Israeli land law.",
+   "era_coverage": "Pre-literate cases score 0 by definition - this is information (the legal-rational channel was unavailable to the takers), not a data gap; do not return unknown. For literate eras, return unknown only when it is genuinely unclear whether instruments existed at all rather than merely unpublished.",
+   "expected_correlates": "Correlates with carrier_centralization and legibility_engineering as parts of an apparatus factor, but diverges informatively on cases like the Banu Hilal (organized-ish carrier, zero instruments) and 17th-century New England (modest state carrier, dense deed-and-charter instrumentation) - the divergences are where legal history adds beyond a generic stateness scale."
+  },
+  {
+   "id": "ssi_sovereignty_transfer_form",
+   "discipline": "state-sovereignty-ideology",
+   "name": "sovereignty_transfer_form",
+   "definition": "The most formalized mode by which the takers asserted a change of ultimate political authority over the territory, from no claim at all to multilateral consecration.",
+   "anchors": [
+    "0: No sovereignty claim - incomers settled, raided, or extracted without asserting durable political authority over the zone, or the movement remained under the existing sovereign so no transfer was claimed (internal resettlement; Banu Hilal pastoral penetration).",
+    "1: De facto rule only - authority exercised on the ground (forts, tribute, garrisons, administrative centers) but no surviving proclamation, ceremony, or instrument announced annexation.",
+    "2: Unilateral formal claim - annexation or title declared by the taker's own act alone (discovery ritual, proclamation, unilateral statute or edict), without consent of prior holders or endorsement by peer polities.",
+    "3: Bilateral instrument - transfer papered by treaty, cession, purchase, or capitulation signed with the prior sovereign or the displaced polity, however coerced, fraudulent, or later violated (New England Indian deeds and treaties; Guadalupe Hidalgo for California).",
+    "4: Multilateral consecration - transfer endorsed by an inter-polity authority or general settlement: papal grant assigning the land, congress of powers, League mandate, UN partition resolution or peace-conference award (Teutonic Prussia via papal bulls; UNGA 181 for part of the Nakba's territorial frame)."
+   ],
+   "evidence_notes": "Identify the highest-form instrument the takers obtained; code the highest form employed over any substantial part of the zone. Motivating works: Korman, The Right of Conquest (1996) on modes of title; Anghie, Imperialism, Sovereignty and the Making of International Law (2005); Fitzmaurice, Sovereignty, Property and Empire 1500-2000 (2014); Miller et al. (2010) on Discovery rituals as unilateral claims.",
+   "era_coverage": "Prehistoric: if the incoming population demonstrably founded no territorial polity, code 0; if a polity emerged but claim-making is textually invisible, code 1 (de facto rule is archaeologically attestable via forts and central places); never code 2-4 without documents. Yamnaya-type cases thus resolve to 0-1, not unknown.",
+   "expected_correlates": "Loads with external_contestation_peak on an international-order factor (multilateral forms only exist where an inter-polity system does), and moderately with legal_instrumentation_depth. Not redundant with either: bilateral treaties with the displaced (3) mark a distinct politics - recognition-then-abrogation - that pure apparatus measures miss."
+  },
+  {
+   "id": "ssi_displaced_status_trajectory",
+   "discipline": "state-sovereignty-ideology",
+   "name": "displaced_status_trajectory",
+   "definition": "The legal-political status that survivors of the displaced population held, roughly one generation after the event's peak, within the polity ruling their former territory (higher = more excluded).",
+   "anchors": [
+    "0: Full incorporation - surviving prior inhabitants or their in-place descendants held ordinary full membership (same law, courts, landholding, citizenship where relevant) within one generation.",
+    "1: Graduated membership - formal membership in the same polity under documented legal disabilities (restricted landholding, office, worship, or movement) while still subject to the same court system (much of the Ostsiedlung zone's Slavic peasantry under German town law's shadow).",
+    "2: Separate subjecthood - survivors governed as an institutionalized distinct legal category: native law, dhimma, reservation wardship, indirect-rule subjecthood, special-settler status (California survivors under reservation wardship; Crimean Tatars as special settlers; Nubians under viceregal administration).",
+    "3: Alienage or statelessness - survivors legally defined out of the polity: denaturalized, treated as foreign nationals, or barred from return so they held no membership in the state controlling their former land (Palestinian refugees post-1949; denaturalized Iraqi Jews).",
+    "4: Status question extinguished in the territory - no resident survivor community remained to hold any status; the population was wholly removed or destroyed there even if a diaspora exists elsewhere (Chagossians after 1973; Bikini/Enewetak communities during the exclusion decades)."
+   ],
+   "evidence_notes": "Settle from nationality and citizenship laws, reservation/millet-type regimes, return bans, and denaturalization decrees, judged ~30 years after the peak. Motivating works: Mamdani, Citizen and Subject (1996) and Neither Settler nor Native (2020) on the citizen/subject bifurcation as colonialism's core legal output; Robson, States of Separation (2017); Arendt on statelessness as the terminal status.",
+   "era_coverage": "Prehistoric proxy: use aDNA admixture as a coarse stand-in - substantial local ancestry persisting in the successor population (roughly 10-30%+ within a few centuries) supports 0-2 (absorption, e.g. Brace et al. 2019 for Neolithic Britain's residual forager ancestry); near-total turnover with negligible admixture supports 4. Flag such codes low-confidence; return unknown when aDNA coverage is absent. The proxy measures incorporation-versus-elimination, not legal form, and should be labeled as such.",
+   "expected_correlates": "Correlates with boundary_hardening and the eliminationist pole of legitimating_doctrine_codification, forming the status-erasure factor. Deliberately distinct from lethality measures other batteries will propose: a population can be lethally reduced yet incorporated (score 1-2) or bloodlessly removed yet fully erased in status (score 4, Chagos), and that difference is exactly what a legal-history dimension exists to capture."
+  },
+  {
+   "id": "ssi_legitimating_doctrine_codification",
+   "discipline": "state-sovereignty-ideology",
+   "name": "legitimating_doctrine_codification",
+   "definition": "How elaborated and institutionalized the justifying ideology of the taking was, from pragmatic silence up to codified doctrines that mandate the prior population's removal as such.",
+   "anchors": [
+    "0: Documented record shows legitimation absent or purely pragmatic - contemporaries justified the taking only in terms of land shortage, plunder, security, or opportunity, with no claim of right or mission.",
+    "1: Ad hoc justification - leaders episodically invoked divine favor, revenge, or entitlement in speeches, inscriptions, or letters, but no standing doctrine existed (typical royal conquest inscriptions).",
+    "2: Standing legitimating frame - an established religious, civilizational, or national discourse was routinely invoked for the enterprise (crusade, mission civilisatrice, chosen-nation destiny, Manifest Destiny press culture) without codification in operative law or founding doctrine.",
+    "3: Codified doctrine - the justification was written into operative instruments and institutions: papal bulls, juridical doctrines (terra nullius, Discovery in Johnson v. M'Intosh), theological treatises guiding the campaign (Usman dan Fodio's jihad treatises for Sokoto), party programs, official curricula.",
+    "4: Eliminationist program - the codified doctrine declared removal, dissolution, or extermination of the prior population as such to be the objective; displacement was the doctrine's stated object, not a byproduct (Generalplan Ost; Governor Burnett's 1851 'war of extermination' declaration for California)."
+   ],
+   "evidence_notes": "Distinguish rhetoric (2) from codification (3) by whether the doctrine appears in operative or founding documents rather than only in sermons and newspapers. Motivating works: Anghie (2005); Fitzmaurice (2014) on terra nullius; Miller et al. (2010) on Discovery; Weitz, A Century of Genocide (2003) on ideology-mandated removal; the scale is deliberately faith- and era-neutral (papal bull, jihad treatise, and party plan all code 3).",
+   "era_coverage": "Prehistoric: return unknown, not 0 - absence of texts is not absence of ideology. Upgrade to 1-2 only where iconographic or monumental programs demonstrably celebrate the takeover (rare and low-confidence).",
+   "expected_correlates": "The 3-4 range should correlate with legal_instrumentation_depth (codified doctrine tends to live inside legal instruments) - partial redundancy accepted because the 0-2 range measures something instruments cannot: enterprises with thick rhetoric and thin law (Manifest Destiny squatting) versus thick law and thin rhetoric (technocratic development removals like Chagos, which I predict scores high on instruments and low here - a signature combination)."
+  },
+  {
+   "id": "ssi_geopolitical_separation",
+   "discipline": "state-sovereignty-ideology",
+   "name": "geopolitical_separation",
+   "definition": "Physical-communicative distance between the source polity's core and the taken zone - whether the process was internal consolidation, contiguous frontier expansion, or transmarine colonization.",
+   "anchors": [
+    "0: Internal - the zone lay inside the acting polity's existing territory; no external frontier was crossed (Crimean resettlement within the USSR; XPCC within the PRC; Marshall/Chagos removals within one imperial jurisdiction).",
+    "1: Contiguous frontier - the zone adjoined the polity's settled territory by land or shared river corridor; movement extended an existing settlement front (Ostsiedlung, Teutonic Prussia, Nubia up-Nile, California overland, Yamnaya steppe adjacency).",
+    "2: Short crossing - separated by a sea crossing or steppe/desert traverse of days; round trips routine within a season (Greece to Sicily; the Channel for Neolithic Britain; Arabia/Egypt to the Maghreb staging zones).",
+    "3: Long range - separation of weeks, transoceanic or multi-stage; communication ran on seasonal or annual rhythms (England to New England; France to Saint-Domingue; Norway/Iceland to Greenland; US to Liberia).",
+    "4: Effective isolation - multi-month or unreliable communication; contact with the source was episodic, at risk of lapsing, or eventually lost (late-phase Norse Greenland; antipodean settlement in the wider corpus)."
+   ],
+   "evidence_notes": "Decidable from a map plus period transport technology: measure the crossing, check sailing-season constraints. Motivating works: Maier, Once Within Borders (2016) on inside-borders consolidation versus transmarine empire as structurally different political forms; Belich (2009) on distance as the driver of settler divergence; Braudel on sea-distance rhythms.",
+   "era_coverage": "Fully codable for prehistory - geography and period transport are known (Channel crossing = 2, steppe adjacency = 1). Unknown essentially never arises; at worst code the plausible midpoint and flag low confidence.",
+   "expected_correlates": "Predicts settler_polity_autonomy (distance breeds autonomy - Belich's mechanism) but is measured independently of it, so their joint distribution tests the mechanism instead of assuming it: Saint-Domingue (distant, low autonomy under royal governance) versus Ostsiedlung towns (near, chartered privileges) are the informative off-diagonal cases."
+  },
+  {
+   "id": "ssi_legibility_engineering",
+   "discipline": "state-sovereignty-ideology",
+   "name": "legibility_engineering",
+   "definition": "Degree to which the process imposed state-legibility technologies - surveys, standardized allotment, registries, sedentarization, renaming - on the taken land and people.",
+   "anchors": [
+    "0: None - no surveying, registration, or standardized reorganization; incomers adopted or continued existing land-use and settlement patterns, or reduced legibility (pastoralization of farmland, as with the Banu Hilal).",
+    "1: Enumeration only - tribute lists, hearth or head counts, tax assessments of the taken zone, without spatial reorganization of holdings.",
+    "2: Standardized allotment - land divided by repeatable formula visible in planned town or field layouts: hides/Hufen/mansi, cleruchic or colonial lots, township grids, centuriation (Ostsiedlung Hufen villages; Greek colonial orthogonal plans; New England town grants).",
+    "3: Cadastre plus registry - systematic survey tied to written land registration and population rolls that governed allocation, taxation, or confiscation across the zone (US General Land Office survey over California; Israeli land registration over absentee property; Torrens-type systems).",
+    "4: Legibility as population transformation - the people themselves reorganized for visibility: forced sedentarization or villagization, mass renaming of places and persons, identity re-registration, pass or residence-permit systems, surveillance-gated settlement (XPCC with hukou and surveillance infrastructure; Soviet special-settlement regime; Generalplan Ost village planning)."
+   ],
+   "evidence_notes": "This is the dimension only my discipline would field. Scott, Seeing Like a State (1998) and The Art of Not Being Governed (2009) supply the construct; Kain & Baigent, The Cadastral Map in the Service of the State (1992) is the comparative reference for 2-3; look for survey systems, planted-town plans, land registries, sedentarization campaigns. Fields, Enclosure: Palestinian Landscapes in a Historical Mirror (2017) connects it to this corpus directly.",
+   "era_coverage": "Archaeologically codable at the extremes: planned orthogonal layouts and formulaic field systems survive in the ground (score 2 without texts), and excavated settlement showing no standardization is an observed 0, not unknown. Levels 1 and 3 require documents; prehistoric cases therefore code 0 or 2 from excavation, unknown only when the settlement archaeology is itself unstudied.",
+   "expected_correlates": "Part of the apparatus factor with carrier_centralization and legal_instrumentation_depth, but it is the only member measurable for pre-literate cases from material remains, so it anchors that factor across the whole 8,500-year corpus - the reason to keep all three rather than one."
+  },
+  {
+   "id": "ssi_displaced_polity_stateness",
+   "discipline": "state-sovereignty-ideology",
+   "name": "displaced_polity_stateness",
+   "definition": "Political organization of the population being displaced, on a band-to-recognized-state scale - whether the takers displaced Scott's nonstate peoples or members of a state system.",
+   "anchors": [
+    "0: Mobile bands or dispersed foragers/herders without supra-local authority (British and Irish Mesolithic foragers).",
+    "1: Autonomous villages or segmentary tribes - local headmen or councils, no permanent regional authority (many native Californian groups; Old Prussian tribal groupings edge toward 2).",
+    "2: Chiefdoms, confederacies, or city-states - regional authority capable of diplomacy and organized war but no bureaucratic state (Sicilian native polities; Prussian confederations; Hausaland's rivals as seen from below).",
+    "3: State-level polity or province of one - standing administration, taxation, codified law, but outside the takers' recognition system or the modern interstate system (post-Kerma Nubia; Palestinian society under the Mandate as a non-state administrative population; Hausa sultanates displaced by Sokoto).",
+    "4: Recognized modern state or constituent federal unit - the displaced belonged to a state or autonomous unit with standing in the international system of its day (Crimean ASSR's titular nation; Yemeni citizens of a UN member state)."
+   ],
+   "evidence_notes": "Use the standard typology (Service; Johnson & Earle, The Evolution of Human Societies, 2000) plus a recognition criterion for level 4. Scott, The Art of Not Being Governed (2009) motivates why this changes process mechanics: nonstate peoples flee to friction zones and vanish from records, state peoples generate refugee regimes, archives, and revanchist politics. Ten minutes of research settles the typology level for nearly any named victim group.",
+   "era_coverage": "The battery's strongest prehistoric performer: settlement hierarchy, monumental architecture, and burial differentiation settle 0-2 archaeologically. Unknown only when the displaced population is itself archaeologically invisible.",
+   "expected_correlates": "Expected to correlate with external_contestation_peak (state peoples have patrons and forums) and with sovereignty_transfer_form (you sign treaties with polities, not bands) - these correlations are findings about how the interstate system allocates protection, not construct redundancy, since the dimension measures the victims' organization while those measure the takers' instruments."
+  },
+  {
+   "id": "ssi_settler_polity_autonomy",
+   "discipline": "state-sovereignty-ideology",
+   "name": "settler_polity_autonomy",
+   "definition": "Maximum degree of self-government the incoming population achieved in the taken zone during the event window, relative to any parent authority.",
+   "anchors": [
+    "0: Directed personnel - incomers were soldiers, deportees, convicts, corvée colonists, or agency/production-corps members under external command, with no corporate institutions of their own (XPCC members; Slavic resettlers assigned to Crimea; Egyptian garrison colonists).",
+    "1: Local corporate privileges - settlers held chartered town or communal rights (own municipal law, courts, militia) but no role in governing the territory (Ostsiedlung towns under Magdeburg law within princely/Order rule).",
+    "2: Territorial self-administration under oversight - settler assemblies, elected magistrates, or company councils ran the territory subject to real metropolitan review, veto, or appointed governors (Saint-Domingue's colonial assemblies under royal governors).",
+    "3: De facto self-rule - formal subordination persisted but metropolitan control was nominal or unenforceable for sustained periods (New England 1630-1684 under effectively unsupervised charters).",
+    "4: Sovereign independence - the incomers erected or became an independent polity during or at the close of the window: a new state, an independent polis, a settler republic (Greek apoikiai independent from foundation; Liberia 1847; folk migrations answering to no parent polity - see era note)."
+   ],
+   "evidence_notes": "Check who appointed the executive and whether metropolitan review was enforceable: charters, assembly records, declarations of independence. Motivating works: Greene, Peripheries and Center (1986); Belich (2009) on the settler revolution; Graham, Colony and Mother City in Ancient Greece (1964) on apoikia independence; the creole-sovereignty literature on Liberia and the Americas.",
+   "era_coverage": "Prehistoric folk migrations with no parent polity score 4 by construction (incomer communities answered to no one); this is meaningful only jointly with carrier_centralization, and the pair distinguishes Yamnaya (carrier 0 / autonomy 4) from Liberia (carrier 2 / autonomy 4) from XPCC (carrier 4 / autonomy 0). Return unknown when incomer political organization is unattested.",
+   "expected_correlates": "Correlates with geopolitical_separation (the Belich mechanism) and negatively with carrier_centralization; the residual variance - chartered autonomy near home, directed personnel far away - is precisely what separates the current 'settler colonization' family into genuinely different political animals."
+  },
+  {
+   "id": "ssi_boundary_hardening",
+   "discipline": "state-sovereignty-ideology",
+   "name": "boundary_hardening",
+   "definition": "Extent to which the event produced demarcated boundaries and movement controls between incomer and prior populations or their territories.",
+   "anchors": [
+    "0: No boundary - open frontier; populations interpenetrated with no demarcated line or crossing rules (Yamnaya/Danube contact zones; Banu Hilal penetration).",
+    "1: Soft administrative lines - districts, marches, or designated zones existing on paper or in charters without demarcation on the ground or movement control.",
+    "2: Demarcated internal lines with differential rights - reservations, pales, native reserves, closed military or colonization zones; crossing regulated or permit-bound but the line internal and porous (California reservations; Nubian fortress-zone controls; praying-town boundaries).",
+    "3: Interstate or partition line - a new internationally relevant border drawn through or around the affected population, with controls separating the displaced from their former land (the 1949 Green Line; partition boundaries generally).",
+    "4: Sealed separation - fortified or militarized line, total exclusion zone, or pass-law regime making return crossing effectively impossible and legally prohibited (BIOT exclusion of Chagossians; closed irradiated atolls; special-settlement confinement barring Crimean Tatars from Crimea until 1989)."
+   ],
+   "evidence_notes": "Look for armistice lines, reserve boundary statutes, exclusion decrees, permit regimes, and physical works. Motivating works: Maier, Once Within Borders (2016) on bordering as the signature act of modern territoriality; Sack, Human Territoriality (1986); O'Leary, Lustick & Callaghy, Right-Sizing the State (2001) and the partition literature for levels 3-4.",
+   "era_coverage": "Archaeology attests 0 versus 2+ through physical works (ramparts, fortress lines, limes-type systems - the Nubian forts are textbook); where material culture zones visibly interpenetrate and no works exist, code 0; otherwise unknown for prehistory.",
+   "expected_correlates": "Loads on the status-erasure factor with displaced_status_trajectory (hard lines and stripped status travel together) but also on the apparatus factor (only organized polities build walls); its double loading is expected and is the empirical signature of Maier's argument that territoriality fuses coercive capacity with exclusion."
+  },
+  {
+   "id": "ssi_sovereignty_outcome_durability",
+   "discipline": "state-sovereignty-ideology",
+   "name": "sovereignty_outcome_durability",
+   "definition": "How far the sovereignty and settlement outcome had consolidated versus reversed for the majority of the affected zone, judged today or at the end of the record (0 = fully reversed, 4 = fully consolidated).",
+   "anchors": [
+    "0: Full reversal - settler presence ended AND the prior population or its polity regained the territory, or the settlement was abandoned outright (Norse Greenland; pied-noir-type departures with sovereignty reversion in the wider corpus).",
+    "1: Substantial reversal - a majority of settlers departed, or a majority of the displaced returned, or sovereignty reverted, though a residue of the settlement outcome remains.",
+    "2: Contested equilibrium - legally recognized return, restitution, or sovereignty reversal is underway or partial while the demographic outcome largely stands (Crimean Tatar return after 1989; Chagos after the 2019 ICJ opinion and 2024-25 sovereignty transfer without mass return).",
+    "3: Consolidated with organized claims - the outcome stands intact; the displaced persist as an organized claimant community (return movements, litigation, internationally recognized claims) without material reversal (Palestinian refugees; California tribal nations; Marshall Islands claimants).",
+    "4: Fully consolidated - replacement and sovereignty complete and unchallenged; no organized claimant community exists or the prior population no longer exists as a collective claimant (Neolithic Britain; Yamnaya-derived ancestry regimes; Greek Sicily)."
+   ],
+   "evidence_notes": "Judge from present-day demography and the zone's status: censuses, return statistics, restitution law, sovereignty changes. Motivated by the settler-colonial durability debate - Veracini, The Settler Colonial Present (2015); Lustick, Unsettled States, Disputed Lands (1993) on when expansion becomes irreversible - and by comparative decolonization outcomes.",
+   "era_coverage": "aDNA answers prehistory directly: incoming ancestry still dominant regionally codes 4. Rule for supersession: judge relative to THIS event's displaced population - a later third-party turnover (Beaker replacement of Britain's Neolithic farmers) is not reversal, since the originally displaced never recovered; code the state of consolidation reached before supersession. For zones split by later history (Ostsiedlung lands east vs west of the Oder-Neisse), code the majority of the affected zone and flag.",
+   "expected_correlates": "Predicted to correlate negatively with external_contestation_peak and displaced_polity_stateness (contested, state-backed displacements reverse more often) - whether that holds is a headline finding, not an assumption; low expected correlation with the apparatus factor, which would show that bureaucratic takings are no more durable than folk ones."
+  },
+  {
+   "id": "ssi_external_contestation_peak",
+   "discipline": "state-sovereignty-ideology",
+   "name": "external_contestation_peak",
+   "definition": "Peak level of action by third-party polities or international institutions specifically contesting the taking or removal, during or after the event.",
+   "anchors": [
+    "0: None attested - no third-party polity or institution recorded any objection, though neighbors or an inter-polity system existed within reach.",
+    "1: Rhetorical protest - diplomatic complaints, papal or clerical letters, foreign press and humanitarian campaigns; words without institutional proceedings (foreign missionary and press protest over California).",
+    "2: Institutional proceedings or non-recognition - formal adjudication or condemnatory resolutions (Polish-Lithuanian pleadings against the Teutonic Order at the Council of Constance 1414-18; UN General Assembly resolutions; recognition withheld, as with Liberia's US non-recognition until 1862 inverted - some states refusing to recognize an annexation).",
+    "3: Coercive measures - sanctions, embargoes, binding judgments or advisory opinions demanding reversal, suspension from bodies, targeted designations (US sanctions on the XPCC 2020; ICJ Chagos advisory opinion plus UNGA demand 2019).",
+    "4: Armed intervention or enforced reversal - external powers militarily intervened against the taking or undid it by victory (Allied victory reversing Generalplan Ost)."
+   ],
+   "evidence_notes": "Search the event plus 'resolution', 'sanctions', 'ICJ', 'non-recognition'; for pre-modern cases look for papal or conciliar adjudication. Motivating works: Korman, The Right of Conquest (1996) on conquest's shifting legality; Fabry, Recognizing States (2010); Zacher's territorial-integrity-norm article (2001). The Constance case shows the scale is not purely modern.",
+   "era_coverage": "Prehistoric: return unknown - inter-polity reaction is invisible without texts. Early literate cases with documented neighbors and silent sources may code 0. Expect era bias: this dimension partly measures the thickness of the international order itself, which is analytically interesting; do not correct for it, let it load on the era factor openly.",
+   "expected_correlates": "Pairs with sovereignty_transfer_form on the international-order factor and with displaced_polity_stateness (states attract defenders); its negative predicted correlation with sovereignty_outcome_durability is the battery's most policy-relevant testable claim - whether international contestation has ever actually unwound a taking."
+  }
+ ],
+ "global_rules": {
+  "-1": "unknown: real referent, but research cannot settle the score (per era_coverage rules)",
+  "-2": "structurally inapplicable: the dimension object does not exist in this event (e.g. prior-population dimensions in vacuum-settlement cases)"
+ }
+}

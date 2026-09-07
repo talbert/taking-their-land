@@ -1,0 +1,18 @@
+{
+  "status": "valid_public_working_snapshot",
+  "build_id": "20260906a",
+  "published_at": "2026-09-06T21:00:38Z",
+  "release_id": "second_pass_v6_675",
+  "release_manifest_sha256": "6f3dd1366db691a20f05e3b41c902dad0e15178f14e2010bb2405c916ccdffc2",
+  "license_scope": "Original structured research fields: CC-BY-4.0; original narrative prose and graphics: CC-BY-SA-4.0; original software: MIT. Third-party quotations, code, and map data retain their own terms. See LICENSE.md and THIRD_PARTY_NOTICES.md; file format alone does not determine all rights.",
+  "license_notice_sha256": "4cc5e22ed25e9870fe7ad7c5d71d154e29f21041b84e46d70d07ae4857286c9e",
+  "atlas_source_sha256": "5dbc828df657287c0e94ac966dc160e3c3ac18b8017f5f7a2a251da8d38b4037",
+  "data_file_count": 59,
+  "data_archive": "data/taking-their-land-data-second_pass_v6_675.zip",
+  "data_archive_bytes": 1904077,
+  "data_archive_sha256": "22a39e41e6ff8e8d7f5454d6ac9b31091580490678a5475510e78ac08a5fba4f",
+  "monograph_source_sha256": "8a9349c7d3e3cb2127d3a9acf5cd19085f64c3eeb3105140411b16c39ec3046e",
+  "monograph_pdf_bytes": 601634,
+  "monograph_pdf_sha256": "4072c458ef2df2fbd7b544fe248666d79c5bf333d7241a3819cb52d5490f882b",
+  "tree_sha256": "8aeae31c6b708e81c24f720fc2ce323397c79466eaf039d4a17c8f61b74a9fbe"
+}
