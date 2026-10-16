@@ -1,0 +1,895 @@
+{
+  "status": "reviewed_candidate",
+  "prior_live_open": 30,
+  "newly_recorded_fields": 95,
+  "resolved_predecessor_fields": [
+    {
+      "work_id": "access:cbe9ad754079f540c268",
+      "field": "typed_fields.translation_base_edition_year",
+      "status": "open",
+      "question": "Which dated Criniti edition underlies this translation? The inspected page names the editor but no edition year.",
+      "source_url": "https://www.attalus.org/translate/granius.html#35",
+      "basis": "Explicitly absent or unverified role/edition in bounded inspected source set; not proof it cannot be established elsewhere.",
+      "question_id": "ATTALUS-ACCESS-OPEN-2",
+      "resolution_status": "resolved_in_successor_pending_composite",
+      "resolved_value": 1981,
+      "resolution_basis": "Attalus explicitly links this PHI Granius work as its Criniti translation base, and the PHI Canon identifies that work’s Criniti edition as 1981. Proposed value is the linked platform-described base edition year, not independently verified translation publication date or physical printing.",
+      "amendment_id": "PHI-CRINITI-1981-LINKED-BASE"
+    }
+  ],
+  "additional_open_fields": 94,
+  "total_open_fields": 124,
+  "records": [
+    {
+      "review_id": "bibliography_attalus_access_20260910",
+      "work_id": "access:cbe9ad754079f540c268",
+      "field": "typed_fields.translators",
+      "status": "open",
+      "question": "The inspected page does not explicitly name its translator. Generic HTML author metadata is not a translator credit.",
+      "source_url": "https://www.attalus.org/translate/granius.html#35",
+      "basis": "Explicitly absent or unverified role/edition in bounded inspected source set; not proof it cannot be established elsewhere.",
+      "question_id": "ATTALUS-ACCESS-OPEN-1"
+    },
+    {
+      "review_id": "bibliography_attalus_access_20260910",
+      "work_id": "access:e18b64e10b2af7e2f234",
+      "field": "typed_fields.greek_text_edition",
+      "status": "open",
+      "question": "Which exact edition supplies the Greek text? The English companion names Jacoby, but that statement alone does not establish the Greek page’s exact printing.",
+      "source_url": "https://www.attalus.org/greek/memnon1.html",
+      "basis": "Explicitly absent or unverified role/edition in bounded inspected source set; not proof it cannot be established elsewhere.",
+      "question_id": "ATTALUS-ACCESS-OPEN-3"
+    },
+    {
+      "review_id": "bibliography_attalus_access_20260910",
+      "work_id": "url:attalus.org/bc1/year89.html",
+      "field": "typed_fields.compiler",
+      "status": "open",
+      "question": "Who is explicitly credited as compiler? The copyright notice names Andrew Smith; copyright ownership alone does not establish this role.",
+      "source_url": "https://www.attalus.org/bc1/year89.html",
+      "basis": "Explicitly absent or unverified role/edition in bounded inspected source set; not proof it cannot be established elsewhere.",
+      "question_id": "ATTALUS-ACCESS-OPEN-4"
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "question_id": "CA-OPEN-1",
+      "work_id": "title:campbell an economic history of imperial madagascar 17501895",
+      "field": "typed_fields.doi",
+      "status": "open",
+      "question": "What DOI, if any, is explicitly assigned to this exact book/edition?",
+      "basis": "No assignment verified in bounded publisher/institutional sources; do not substitute a review, chapter, other edition or filename-derived identifier."
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "question_id": "CA-OPEN-2",
+      "work_id": "title:kenneth perkins a history of modern tunisia",
+      "field": "typed_fields.doi",
+      "status": "open",
+      "question": "What DOI, if any, is explicitly assigned to this exact book/edition?",
+      "basis": "No assignment verified in bounded publisher/institutional sources; do not substitute a review, chapter, other edition or filename-derived identifier."
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "question_id": "CA-OPEN-3",
+      "work_id": "title:ostler 2004 the plains sioux",
+      "field": "typed_fields.doi",
+      "status": "open",
+      "question": "What DOI, if any, is explicitly assigned to this exact book/edition?",
+      "basis": "No assignment verified in bounded publisher/institutional sources; do not substitute a review, chapter, other edition or filename-derived identifier."
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "question_id": "CA-OPEN-4",
+      "work_id": "title:the huguenots history and memory in transnational context",
+      "field": "typed_fields.doi",
+      "status": "open",
+      "question": "What DOI, if any, is explicitly assigned to this exact book/edition?",
+      "basis": "No assignment verified in bounded publisher/institutional sources; do not substitute a review, chapter, other edition or filename-derived identifier."
+    },
+    {
+      "review_id": "bibliography_dergipark_20260910",
+      "work_id": "access:df7cb49aa99688ef82eb",
+      "field": "typed_fields.doi",
+      "status": "open",
+      "question": "Does this article have an assigned DOI?",
+      "source_url": "https://dergipark.org.tr/tr/pub/karadearas/article/124019",
+      "basis": "No DOI appears in the captured original publisher record; an IZ link is separately labelled. Do not infer that no DOI exists anywhere.",
+      "question_id": "DERGIPARK-OPEN-1"
+    },
+    {
+      "review_id": "bibliography_dergipark_20260910",
+      "work_id": "title:g boykov et al the process of sedentarization of semi nomadic groups of the yoruks in parts of 16th century ottoman rumeli dergipark",
+      "field": "typed_fields.doi",
+      "status": "open",
+      "question": "Does this article have an assigned DOI?",
+      "source_url": "https://dergipark.org.tr/en/pub/balkar/article/597494",
+      "basis": "No DOI appears in the captured original publisher record; an IZ link is separately labelled. Do not infer that no DOI exists anywhere.",
+      "question_id": "DERGIPARK-OPEN-2"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "id": "EMISHI-RECORD-DATE-3",
+      "work_id": "access:654f591ab791c847abcc",
+      "field": "record_publication_or_update_date",
+      "status": "open",
+      "reason": "No record-specific publication/update date is displayed. Designation dates, reference-volume dates and dataset snapshot dates are different roles."
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "id": "EMISHI-RECORD-DATE-5",
+      "work_id": "access:86329afc194ce715310b",
+      "field": "record_publication_or_update_date",
+      "status": "open",
+      "reason": "No record-specific publication/update date is displayed. Designation dates, reference-volume dates and dataset snapshot dates are different roles."
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "id": "EMISHI-RECORD-DATE-6",
+      "work_id": "access:e6d8c5aec86a86ebd1c6",
+      "field": "record_publication_or_update_date",
+      "status": "open",
+      "reason": "No record-specific publication/update date is displayed. Designation dates, reference-volume dates and dataset snapshot dates are different roles."
+    },
+    {
+      "review_id": "bibliography_fordham_20260910",
+      "question_id": "FD-OPEN-1",
+      "work_id": "url:sourcebooks.web.fordham.edu/ancient/appian-civwars1.asp",
+      "field": "typed_fields.translators",
+      "status": "open",
+      "question": "Who translated the English Appian selection reproduced from Thatcher’s 1907 anthology?",
+      "basis": "Selected page gives anthology editor and scanner, not translator. Distinct Horace White access records do not establish this attribution."
+    },
+    {
+      "review_id": "bibliography_hrw_20260909",
+      "record_index": 6,
+      "work_id": "title:human rights watch 2009 syria",
+      "field": "preferred_personal_author_names",
+      "preferred_value": null,
+      "reason": "The report credits an unnamed researcher, while website metadata supplies Nadim Houry. Retain the two observations; do not identify the unnamed writer from the metadata value.",
+      "status": "preferred_personal_writer_unconfirmed"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "id": "JP-SITE-DATE-100712",
+      "work_id": "access:20477f6d7ca402ed50a0",
+      "field": "record_publication_or_update_date",
+      "status": "open",
+      "reason": "No record-specific publication/update date is supplied in the inspected record representation. The linked report date, excavation period, ancient date and search crawl time are not substitutes."
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "id": "JP-SITE-DATE-59040",
+      "work_id": "access:96683d0d748d6002fb18",
+      "field": "record_publication_or_update_date",
+      "status": "open",
+      "reason": "No record-specific publication/update date is supplied in the inspected record representation. The linked report date, excavation period, ancient date and search crawl time are not substitutes."
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "id": "JP-SITE-DATE-167927",
+      "work_id": "access:b891bd4e70d1164ce187",
+      "field": "record_publication_or_update_date",
+      "status": "open",
+      "reason": "No record-specific publication/update date is supplied in the inspected record representation. The linked report date, excavation period, ancient date and search crawl time are not substitutes."
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "id": "JP-SITE-DATE-137986",
+      "work_id": "access:fa5d0cd67bdf6802769d",
+      "field": "record_publication_or_update_date",
+      "status": "open",
+      "reason": "No record-specific publication/update date is supplied in the inspected record representation. The linked report date, excavation period, ancient date and search crawl time are not substitutes."
+    },
+    {
+      "review_id": "bibliography_jstor_20260910",
+      "work_id": "access:431fd3d05c412cea5640",
+      "field": "typed_fields.preferred_exact_ebook_extent",
+      "status": "open",
+      "question": "What is the complete extent of the cited ebook? Yale and JSTOR list 320 pages, while the JSTOR contents list an index at 341–356. Preserve these observations until an exact edition copy resolves physical versus numbered extent."
+    },
+    {
+      "review_id": "bibliography_lexundria_20260910",
+      "work_id": "access:15ead7a393db40375fd6",
+      "field": "typed_fields.edition_year",
+      "status": "open",
+      "question": "Which exact printing/year of Perrin is represented? The inspected About page names the Loeb translation without a year or volume.",
+      "source_url": "https://lexundria.com/plut_lys/0/prr",
+      "shared_question": "PERRIN-LYSANDER-PRINTING",
+      "basis": "Platform metadata only; no physical or scanned edition consulted.",
+      "question_id": "LEX-PERRIN-PRINTING-1"
+    },
+    {
+      "review_id": "bibliography_lexundria_20260910",
+      "work_id": "access:d79ad679a7b75ea5cc00",
+      "field": "typed_fields.edition_year",
+      "status": "open",
+      "question": "Which exact printing/year of Perrin is represented? The inspected About page names the Loeb translation without a year or volume.",
+      "source_url": "https://lexundria.com/plut_lys/0/prr",
+      "shared_question": "PERRIN-LYSANDER-PRINTING",
+      "basis": "Platform metadata only; no physical or scanned edition consulted.",
+      "question_id": "LEX-PERRIN-PRINTING-2"
+    },
+    {
+      "review_id": "bibliography_livius_20260910",
+      "work_id": "access:92fbd8c01e03bcb6ec23",
+      "field": "typed_fields.translation_edition_year",
+      "status": "open",
+      "question": "Which printing/year supplies the Horace White translation on this page? Its translator is named, but no edition year is stated.",
+      "source_url": "https://www.livius.org/sources/content/appian/appian-wars-in-italy/",
+      "basis": "Absent or unverified in the bounded source set; not proof that another source cannot answer it.",
+      "question_id": "LIVIUS-OPEN-1"
+    },
+    {
+      "review_id": "bibliography_livius_20260910",
+      "work_id": "url:livius.org/sources/content/livy/livy-periochae-51-55",
+      "field": "typed_fields.epitomator",
+      "status": "open",
+      "question": "Who made the Periochae? The inspected host text distinguishes an epitomator/maker from Livy but does not name that person.",
+      "source_url": "https://www.livius.org/sources/content/livy/livy-periochae-51-55/",
+      "basis": "Absent or unverified in the bounded source set; not proof that another source cannot answer it.",
+      "question_id": "LIVIUS-OPEN-2"
+    },
+    {
+      "review_id": "bibliography_livius_20260910",
+      "work_id": "url:livius.org/sources/content/livy/livy-periochae-51-55",
+      "field": "typed_fields.underlying_latin_edition",
+      "status": "open",
+      "question": "Which Latin edition underlies Lendering’s Periochae translation? The inspected translation and explanatory page do not state a bibliographic edition.",
+      "source_url": "https://www.livius.org/sources/content/livy/livy-periochae-51-55/",
+      "basis": "Absent or unverified in the bounded source set; not proof that another source cannot answer it.",
+      "question_id": "LIVIUS-OPEN-3"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "access:9c1e593a698d81a0c559",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "access:a7e252f0f6032acf8d68",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "access:a8117dc8c311540f07e4",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "access:aa572e746ddad408d906",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "title:livy 41 luna allotments on ligurian land",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_02.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_03.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_04.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_05.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_06.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_07.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_31.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_36.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_37.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_39.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_40.htm",
+      "field": "preferred_print_edition_identity",
+      "shared_issue_id": "mirror_print_edition_identity",
+      "question": "Identify the exact printed edition underlying this mirror book. The host credits 1905, a separate Roberts catalog record gives 1912, and neither establishes exact source-edition equivalence for this mirror.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "L16"
+    },
+    {
+      "review_id": "bibliography_loc_20260910",
+      "work_id": "access:ea18db86947acb8335c6",
+      "field": "typed_fields.doi",
+      "status": "open",
+      "question": "Does Camodeca’s 2017 chapter have an assigned DOI?",
+      "basis": "No assignment verified in the inspected PDF/title/copyright regions or targeted searches. This is not proof no DOI exists.",
+      "question_id": "LOC-OPEN-1"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "work_id": "title:beyond just conservation a history of maasai dispossession minority rights group",
+      "field": "typed_fields.named_writer",
+      "status": "open",
+      "question": "Who is the individually credited writer of this article/profile?",
+      "source_url": "https://minorityrights.org/beyond-just-conservation-a-history-of-maasai-dispossession-2/",
+      "basis": "No verified value in the bounded original body, displayed credit/date and captured metadata. A logo is not an individual byline; platform modification, footer year, event dates and a separate country profile do not answer this field.",
+      "question_id": "MRG-OPEN-1"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "work_id": "title:indo fijians in the fiji islands minority rights group",
+      "field": "typed_fields.named_writer",
+      "status": "open",
+      "question": "Who is the individually credited writer of this article/profile?",
+      "source_url": "https://minorityrights.org/communities/indo-fijians/",
+      "basis": "No verified value in the bounded original body, displayed credit/date and captured metadata. A logo is not an individual byline; platform modification, footer year, event dates and a separate country profile do not answer this field.",
+      "question_id": "MRG-OPEN-2"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "work_id": "title:minority rights group baluchis in afghanistan and the cross border region",
+      "field": "typed_fields.named_writer",
+      "status": "open",
+      "question": "Who is the individually credited writer of this article/profile?",
+      "source_url": "https://minorityrights.org/communities/baluchis/",
+      "basis": "No verified value in the bounded original body, displayed credit/date and captured metadata. A logo is not an individual byline; platform modification, footer year, event dates and a separate country profile do not answer this field.",
+      "question_id": "MRG-OPEN-3"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "work_id": "title:minority rights group baluchis in afghanistan and the cross border region",
+      "field": "typed_fields.profile_updated",
+      "status": "open",
+      "question": "What content update date, if any, belongs to the original community profile?",
+      "source_url": "https://minorityrights.org/communities/baluchis/",
+      "basis": "No verified value in the bounded original body, displayed credit/date and captured metadata. A logo is not an individual byline; platform modification, footer year, event dates and a separate country profile do not answer this field.",
+      "question_id": "MRG-OPEN-4"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "work_id": "title:minority rights group mongols",
+      "field": "typed_fields.named_writer",
+      "status": "open",
+      "question": "Who is the individually credited writer of this article/profile?",
+      "source_url": "https://minorityrights.org/communities/mongols/",
+      "basis": "No verified value in the bounded original body, displayed credit/date and captured metadata. A logo is not an individual byline; platform modification, footer year, event dates and a separate country profile do not answer this field.",
+      "question_id": "MRG-OPEN-5"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "work_id": "title:minority rights group sahrawis",
+      "field": "typed_fields.named_writer",
+      "status": "open",
+      "question": "Who is the individually credited writer of this article/profile?",
+      "source_url": "https://minorityrights.org/communities/saharawis/",
+      "basis": "No verified value in the bounded original body, displayed credit/date and captured metadata. A logo is not an individual byline; platform modification, footer year, event dates and a separate country profile do not answer this field.",
+      "question_id": "MRG-OPEN-6"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "work_id": "title:minority rights group sahrawis",
+      "field": "typed_fields.profile_updated",
+      "status": "open",
+      "question": "What content update date, if any, belongs to the original community profile?",
+      "source_url": "https://minorityrights.org/communities/saharawis/",
+      "basis": "No verified value in the bounded original body, displayed credit/date and captured metadata. A logo is not an individual byline; platform modification, footer year, event dates and a separate country profile do not answer this field.",
+      "question_id": "MRG-OPEN-7"
+    },
+    {
+      "review_id": "bibliography_mozarabic_chronicle_20260910",
+      "question_id": "MC-OPEN-1",
+      "work_id": "access:9e7a4f7ce287d8533fec",
+      "field": "typed_fields.underlying_latin_text_edition",
+      "status": "open",
+      "question": "Which specific Latin text/edition underlies this revised online translation?",
+      "basis": "Introduction supplies translation and revision notices without naming an edition; saved Gil section bridge was explicitly not directly consulted."
+    },
+    {
+      "review_id": "bibliography_oracc_20260909",
+      "record_index": 16,
+      "work_id": "url:oracc.museum.upenn.edu/rinap/downloads/novotny_jeffers_rinap_5_1.pdf",
+      "field": "preferred_exact_pdf_edition_equivalence",
+      "value": null,
+      "reason": "Local PDF front matter contains unfinished cataloguing fields and its page count differs from the publisher catalogue; exact version equivalence is unestablished.",
+      "status": "uncheckable_with_inspected_evidence",
+      "action": "Inspect an explicitly identified final publisher PDF or reliable version statement before claiming equivalence.",
+      "blocks_supported_metadata": false
+    },
+    {
+      "review_id": "bibliography_oracc_20260909",
+      "record_index": 17,
+      "work_id": "url:oracc.museum.upenn.edu/rinap/downloads/tadmor_yamada_rinap_1.pdf",
+      "field": "preferred_exact_pdf_edition_equivalence",
+      "value": null,
+      "reason": "Local PDF front matter contains unfinished cataloguing fields and its page count differs from the publisher catalogue; exact version equivalence is unestablished.",
+      "status": "uncheckable_with_inspected_evidence",
+      "action": "Inspect an explicitly identified final publisher PDF or reliable version statement before claiming equivalence.",
+      "blocks_supported_metadata": false
+    },
+    {
+      "review_id": "bibliography_oracc_20260909",
+      "record_index": 26,
+      "work_id": "url:oracc.museum.upenn.edu/saao/aebp/essentials/countries/israel",
+      "field": "preferred_original_publication_year",
+      "value": null,
+      "reason": "Content-modification and citation-footer dates do not establish original publication.",
+      "status": "uncheckable_with_inspected_evidence",
+      "action": "Seek an explicit original-publication statement or securely dated version; preserve date roles meanwhile.",
+      "blocks_supported_metadata": false
+    },
+    {
+      "review_id": "bibliography_oracc_20260909",
+      "record_index": 27,
+      "work_id": "url:oracc.museum.upenn.edu/saao/aebp/essentials/governors/massdeportation",
+      "field": "preferred_original_publication_year",
+      "value": null,
+      "reason": "Content-modification and citation-footer dates do not establish original publication.",
+      "status": "uncheckable_with_inspected_evidence",
+      "action": "Seek an explicit original-publication statement or securely dated version; preserve date roles meanwhile.",
+      "blocks_supported_metadata": false
+    },
+    {
+      "review_id": "bibliography_perseus_20260909",
+      "record_index": 4,
+      "work_id": "access:3bd297e509e2cfb7f5da",
+      "field": "preferred_translator_names",
+      "value": null,
+      "reason": "A named person appears in the generic platform heading or bibliography, but a specific translator-role counterpart for this selected access was not grounded by the bounded follow-ups. Retain the reported personal credit; do not infer the preferred role from Ed. or from a different printed volume.",
+      "preferred_value": null,
+      "status": "preferred_field_unconfirmed"
+    },
+    {
+      "review_id": "bibliography_perseus_20260909",
+      "record_index": 10,
+      "work_id": "access:aff1e5c9d05fb7c0ac7d",
+      "field": "preferred_translator_names",
+      "value": null,
+      "reason": "A named person appears in the generic platform heading or bibliography, but a specific translator-role counterpart for this selected access was not grounded by the bounded follow-ups. Retain the reported personal credit; do not infer the preferred role from Ed. or from a different printed volume.",
+      "preferred_value": null,
+      "status": "preferred_field_unconfirmed"
+    },
+    {
+      "review_id": "bibliography_perseus_20260909",
+      "record_index": 19,
+      "work_id": "url:perseus.tufts.edu/hopper/text?doc=26&fromdoc=perseus%3atext%3a1999.02.0158",
+      "field": "preferred_translator_names",
+      "value": null,
+      "reason": "A named person appears in the generic platform heading or bibliography, but a specific translator-role counterpart for this selected access was not grounded by the bounded follow-ups. Retain the reported personal credit; do not infer the preferred role from Ed. or from a different printed volume.",
+      "preferred_value": null,
+      "status": "preferred_field_unconfirmed"
+    },
+    {
+      "review_id": "bibliography_perseus_20260909",
+      "record_index": 25,
+      "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.02.0155%3abook%3d8",
+      "field": "preferred_translator_names",
+      "value": null,
+      "reason": "A named person appears in the generic platform heading or bibliography, but a specific translator-role counterpart for this selected access was not grounded by the bounded follow-ups. Retain the reported personal credit; do not infer the preferred role from Ed. or from a different printed volume.",
+      "preferred_value": null,
+      "status": "preferred_field_unconfirmed"
+    },
+    {
+      "review_id": "bibliography_perseus_20260909",
+      "record_index": 30,
+      "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0064%3aentry%3dsora-geo",
+      "field": "expanded_contributor_name",
+      "value": null,
+      "reason": "E.H.B is observed; the author-key request timed out. No personal-name expansion is verified.",
+      "preferred_value": null,
+      "status": "preferred_field_unconfirmed"
+    },
+    {
+      "review_id": "bibliography_phi_latin_20260910",
+      "work_id": "url:latin.packhum.org/loc/914/1/1464/79-82%2c1452-1455%401",
+      "field": "typed_fields.edition_year",
+      "status": "open",
+      "question": "Which year/printing supplies the Weissenborn–Mueller part 3 text for Books 36–40? The PHI Canon explicitly gives n.d.",
+      "source_url": "https://latin.packhum.org/canon#a914",
+      "shared_question": "PHI-LIVY-36-40-UNDATED",
+      "basis": "Reachable Canon is undated for this book range; years of other volumes do not answer it.",
+      "question_id": "PHI-LATIN-OPEN-1"
+    },
+    {
+      "review_id": "bibliography_phi_latin_20260910",
+      "work_id": "url:latin.packhum.org/loc/914/1/1485/1761-1768",
+      "field": "typed_fields.edition_year",
+      "status": "open",
+      "question": "Which year/printing supplies the Weissenborn–Mueller part 3 text for Books 36–40? The PHI Canon explicitly gives n.d.",
+      "source_url": "https://latin.packhum.org/canon#a914",
+      "shared_question": "PHI-LIVY-36-40-UNDATED",
+      "basis": "Reachable Canon is undated for this book range; years of other volumes do not answer it.",
+      "question_id": "PHI-LATIN-OPEN-2"
+    },
+    {
+      "review_id": "bibliography_pmc_remaining_20260911",
+      "id": "PMC-LIPSON-COPY-VERSION",
+      "work_id": "access:ca814122625698771f40",
+      "field": "exact_pmc_copy_version",
+      "status": "open",
+      "reason": "Current direct PMC access failed and web opening showed a challenge. The exact PMC copy was not compared with the hosted typeset PDF or final publication; neither date nor author-list equivalence is inferred."
+    },
+    {
+      "review_id": "bibliography_teara_20260910",
+      "question_id": "TA-DATE-0",
+      "work_id": "access:89c26558beffe08e3782",
+      "field": "preferred_original_story_publication_date",
+      "shared_question_id": "TA-MUSKET-DATE",
+      "status": "open",
+      "question": "Which original story publication date should be preferred? Section pages 4 and 5 credit 2 June 2017; story summary and sources credit 20 June 2012. About says page footers give the original story date. Do not relabel 2017 as an update without support."
+    },
+    {
+      "review_id": "bibliography_teara_20260910",
+      "question_id": "TA-DATE-1",
+      "work_id": "access:fbc05102ddedf87e5fb2",
+      "field": "preferred_original_story_publication_date",
+      "shared_question_id": "TA-MUSKET-DATE",
+      "status": "open",
+      "question": "Which original story publication date should be preferred? Section pages 4 and 5 credit 2 June 2017; story summary and sources credit 20 June 2012. About says page footers give the original story date. Do not relabel 2017 as an update without support."
+    },
+    {
+      "review_id": "bibliography_teara_20260910",
+      "question_id": "TA-DATE-2",
+      "work_id": "title:musket wars te ara encyclopedia of new zealand based on ballara taua and crosby the musket wars",
+      "field": "preferred_original_story_publication_date",
+      "shared_question_id": "TA-MUSKET-DATE",
+      "status": "open",
+      "question": "Which original story publication date should be preferred? Section pages 4 and 5 credit 2 June 2017; story summary and sources credit 20 June 2012. About says page footers give the original story date. Do not relabel 2017 as an update without support."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:aung thwin 2005 the mists of ramanna",
+      "field": "preferred_electronic_publication_date",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "The electronic DOI registration uses 2020 dates; indexed electronic listings report 2017; print copyright is 2005."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:bahrey 1593 history of the galla beckingham huntingford",
+      "field": "preferred_component_pages",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "The collection is identified but Bahrey component pages have not been located."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:bahrey 1593 history of the galla beckingham huntingford",
+      "field": "preferred_cited_modern_edition",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "The 1954 translated collection is identified; the originally consulted copy/reprint is unspecified."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:barnes 1954 politics in a changing society ngoni",
+      "field": "preferred_publisher",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Smithsonian does not supply the publisher; Oxford and Rhodes-Livingston roles in leads need exact edition evidence."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:beach 1980 the shona and zimbabwe 900 1850",
+      "field": "preferred_cited_edition",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Heinemann, Mambo and Africana same-year counterparts occur; the query does not select one."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:gait 1905 a history of assam",
+      "field": "preferred_cited_publication_year",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Original label/later first-edition note say 1905, while captured scan title and archive metadata say 1906."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:ibn khaldun the muqaddimah",
+      "field": "preferred_cited_edition",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Generic Muqaddimah query does not select an abridged or unabridged edition."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:ibn khaldun the muqaddimah",
+      "field": "preferred_modern_publication_year",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "No modern edition is selected by the inherited citation."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:ibn khaldun the muqaddimah",
+      "field": "preferred_translator",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Rosenthal belongs to the inspected counterpart; the inherited citation does not specify a translator."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:last 1967 the sokoto caliphate",
+      "field": "preferred_cited_edition",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Longmans and Humanities Press counterparts must remain distinct."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:lau 1987 namibia in jonker afrikaner s time",
+      "field": "preferred_exact_published_title",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Repository title is observed; relationship to a longer thesis/book title needs frontmatter."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:omer cooper 1966 the zulu aftermath",
+      "field": "preferred_cited_edition",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Longmans and Northwestern same-year counterparts must remain distinct."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:paichadze seaton eds 2015 voices from karafuto sakhalin",
+      "field": "preferred_format_publication_date",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "The current paperback URL does not establish a 2015 format-specific publication date."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:sutton 1990 a thousand years of east africa",
+      "field": "preferred_publisher_name",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "National bibliography transcribes East while other institutional leads use Eastern; exact title/copyright leaf uninspected."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:wallace 2011 a history of namibia",
+      "field": "preferred_cited_edition",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "Columbia and Hurst same-year counterparts must remain distinct."
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_id": "title:wallace 2011 a history of namibia",
+      "field": "preferred_contributor_role_detail",
+      "value": null,
+      "flag": "[preferred bibliographic value unconfirmed — verify before assignment]",
+      "reason": "WorldCat groups Wallace and Kinahan as authors; finer with/chapter-author hierarchy needs frontmatter."
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "question_id": "TT-AUTHOR-0",
+      "work_id": "access:0c0813b8c0841293c2cb",
+      "field": "preferred_record_author",
+      "status": "open",
+      "question": "Who is explicitly responsible for this particular curated place record? General project personnel, website developer and a borrowed-description author do not establish record-level authorship.",
+      "known_description_credit": null
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "question_id": "TT-AUTHOR-1",
+      "work_id": "access:23ddb93e8ccc2c7ac4cd",
+      "field": "preferred_record_author",
+      "status": "open",
+      "question": "Who is explicitly responsible for this particular curated place record? General project personnel, website developer and a borrowed-description author do not establish record-level authorship.",
+      "known_description_credit": null
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "question_id": "TT-AUTHOR-2",
+      "work_id": "access:294ad47c2ab09a77e703",
+      "field": "preferred_record_author",
+      "status": "open",
+      "question": "Who is explicitly responsible for this particular curated place record? General project personnel, website developer and a borrowed-description author do not establish record-level authorship.",
+      "known_description_credit": null
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "question_id": "TT-AUTHOR-3",
+      "work_id": "access:2b74ef68e910fceadf80",
+      "field": "preferred_record_author",
+      "status": "open",
+      "question": "Who is explicitly responsible for this particular curated place record? General project personnel, website developer and a borrowed-description author do not establish record-level authorship.",
+      "known_description_credit": "Archaeological Atlas of the Aegean, Ministry of the Aegean"
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "question_id": "TT-AUTHOR-4",
+      "work_id": "access:2fd7f29a0826e9f131dc",
+      "field": "preferred_record_author",
+      "status": "open",
+      "question": "Who is explicitly responsible for this particular curated place record? General project personnel, website developer and a borrowed-description author do not establish record-level authorship.",
+      "known_description_credit": "Nigel McGilchrist"
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "question_id": "TT-AUTHOR-5",
+      "work_id": "access:31f17c176f0671f40756",
+      "field": "preferred_record_author",
+      "status": "open",
+      "question": "Who is explicitly responsible for this particular curated place record? General project personnel, website developer and a borrowed-description author do not establish record-level authorship.",
+      "known_description_credit": null
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "question_id": "TT-AUTHOR-6",
+      "work_id": "access:4edcea4a9b5bc932c8fa",
+      "field": "preferred_record_author",
+      "status": "open",
+      "question": "Who is explicitly responsible for this particular curated place record? General project personnel, website developer and a borrowed-description author do not establish record-level authorship.",
+      "known_description_credit": null
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "question_id": "TT-AUTHOR-7",
+      "work_id": "access:f1bc1174bf7f78109b4c",
+      "field": "preferred_record_author",
+      "status": "open",
+      "question": "Who is explicitly responsible for this particular curated place record? General project personnel, website developer and a borrowed-description author do not establish record-level authorship.",
+      "known_description_credit": "W. L. MAC DONALD"
+    },
+    {
+      "review_id": "bibliography_treccani_20260909",
+      "work_id": "access:9cba9651ca3f7583c284",
+      "field": "named_author",
+      "question": "The Labico online entry exposes no named author in its header; do not invent one.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "T13"
+    },
+    {
+      "review_id": "bibliography_treccani_20260909",
+      "work_id": "access:9cba9651ca3f7583c284",
+      "field": "entry_publication_or_update_date",
+      "question": "The Labico online entry exposes no labelled entry date; do not substitute access time or another edition’s year.",
+      "status": "open",
+      "verdict": "Uncheckable",
+      "calibration_group": "T14"
+    },
+    {
+      "review_id": "bibliography_ucpress_20260910",
+      "question_id": "UCP-ORIGINAL-YEAR-0",
+      "work_id": "access:218080eddb0d807e77ae",
+      "field": "preferred_original_publication_year",
+      "status": "open",
+      "question": "Which original publication year should be preferred for this occurrence, and what edition-level evidence establishes it?",
+      "known_scope": "Local copy copyright 1995 and matching ISBN identity; publisher hardcover listing Nov 1996. This pass does not establish why the dates differ."
+    },
+    {
+      "review_id": "bibliography_ucpress_20260910",
+      "question_id": "UCP-ORIGINAL-YEAR-5",
+      "work_id": "title:young 1998 japans total empire",
+      "field": "preferred_original_publication_year",
+      "status": "open",
+      "question": "Which original publication year should be preferred for this occurrence, and what edition-level evidence establishes it?",
+      "known_scope": "Recorded title retains 1998; the inspected publisher listing explicitly describes the Sep 1999 paperback. Original hardcover publication was not newly established."
+    },
+    {
+      "review_id": "bibliography_unhcr_remaining_20260911",
+      "id": "UNHCR-PUBLICATION-DATE-0",
+      "work_id": "title:unhcr ethiopia situation tigray conflict displacement",
+      "field": "record_publication_date",
+      "status": "open",
+      "reason": "Exact origin currently returns 404; indexed reporting year and relative crawl age do not establish the page publication date."
+    },
+    {
+      "review_id": "bibliography_unhcr_remaining_20260911",
+      "id": "UNHCR-PUBLICATION-DATE-1",
+      "work_id": "title:unhcr protracted displacement in myanmar s ethnic conflicts",
+      "field": "record_publication_date",
+      "status": "open",
+      "reason": "Exact origin currently returns 404; indexed reporting year and relative crawl age do not establish the page publication date."
+    }
+  ],
+  "scope": "Selected preferred fields, not an exhaustive list of omitted information or distinct underlying research questions. Existing case holds are separate."
+}

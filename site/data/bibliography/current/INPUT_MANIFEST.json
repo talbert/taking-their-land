@@ -1,0 +1,452 @@
+{
+  "schema": "declared_bibliography_inputs_v1",
+  "cutoff": "2026-09-08",
+  "release": "second_pass_v7_676",
+  "atlas_build": "20260908d",
+  "inputs": [
+    {
+      "path": "monograph/bibliography_20260908/august_inventory/bibliography_census.csv",
+      "sha256": "25e8a286e0f4342c0d4a08b288dcb04316c7096e7a146ae0158f91c3754a6a8c",
+      "reader": "csv_url_records",
+      "scope": "historical_august_inventory"
+    },
+    {
+      "path": "monograph/bibliography_20260908/IDENTIFIER_CORRECTIONS.json",
+      "sha256": "7c2a1289bb5171e1e99725d6c94da58c412102c655a1a8addd9f7947d7693f68",
+      "reader": "reviewed_identifier_relationships",
+      "scope": "bibliographic_corrections"
+    },
+    {
+      "path": "analysis/second_pass/v7/ATLAS_AUTHORING_PARTITION_20260908a.json",
+      "sha256": "9afd7502151139800fc10c79a7236e99fdef79cc91e4e754b2f76a4bfc35fb8f",
+      "reader": "status_join_only",
+      "scope": "authoring_dispositions"
+    },
+    {
+      "path": "analysis/second_pass/releases/second_pass_v7_676/events_enriched.json",
+      "sha256": "ded0daed913c0c344257e9122f2441cbd20a756f4f59f0447cf0dca6252af792",
+      "reader": "event_sources_array",
+      "scope": "publication_sources"
+    },
+    {
+      "path": "analysis/second_pass/releases/second_pass_v7_676/data/corpus_v2.json",
+      "sha256": "daeda53679eccc1cf118c312b09a1e27510caabba1f99636f9f7797af6f8e25e",
+      "reader": "event_sources_array",
+      "scope": "model_input_sources"
+    },
+    {
+      "path": "audit/existing_atlas_cases.json",
+      "sha256": "105c05fb9045ed0488ec9ca1dd5247a90894b80a51c17ed5291333bdc50607ff",
+      "reader": "source_id_join",
+      "scope": "public_authored_cases"
+    },
+    {
+      "path": "audit/existing_atlas_sources.json",
+      "sha256": "b3e71760bf8403ff424d700b9df744313bb6cfb9ff181374a813aba36fafe841",
+      "reader": "source_registry",
+      "scope": "public_and_unassigned_registry"
+    },
+    {
+      "path": "audit/sources.json",
+      "sha256": "70ae9bf4d3d879a78e3541a58741f77642e21b8685c7a00dffc7484fddc07875",
+      "reader": "source_registry",
+      "scope": "audit_registry"
+    },
+    {
+      "path": "audit/reviewed_negative_findings.json",
+      "sha256": "13859e7d46ec5aade9182fa64d39ca3fa7a94eedfe17d53b3b65b3001aa4ccae",
+      "reader": "source_id_join",
+      "scope": "reviewed_negative_findings"
+    },
+    {
+      "path": "analysis/gapscan/gapscan_results.json",
+      "sha256": "fbf295240afb9bc34dd551c87ae745d1a243036deef2679f4f1e4b5ae941f72e",
+      "reader": "bucket_candidate_sources",
+      "scope": "historical_gapscan_dispositions"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_28_ACHAEMENID_SOURCE_NOTES.md",
+      "sha256": "88e5c5e77d9ca9f4680d35ed495127fd5b4154b40b781f50ab8db1a3c0167423",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_28_CIRCEII_SOURCE_NOTES.md",
+      "sha256": "e1737f1aa4d5f9a1191a047efd205ba479e36fb4e91a2b01bd6e42837ddb8b15",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_MILETUS_SOURCE_NOTES.md",
+      "sha256": "4e65c4f7525e9920010bb571a7edf4e455c428ef0d3ac6c2afee7f17269731ac",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_ROMAN_SOURCE_NOTES.md",
+      "sha256": "3d556ceb5aa8d539dbb0a903f3c691f6ef4270df412bf3e219f4074d13d28c22",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_30_AEGINA_SOURCE_NOTES.md",
+      "sha256": "30ab8999a48310176ac966bdf030e6f3bb1f4b9cceb265aa60dac5150e58a3f8",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_30_FIDENAE_SOURCE_NOTES.md",
+      "sha256": "afe6619db3c2c2e6b9605b592ba2679aeba2e941dc6adfedde57afd3e7cfed03",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_31_LABICI_SOURCE_NOTES.md",
+      "sha256": "f17d75c347ec8148cae0f3e8ff343951b763284431a41339e5ebb900761ecea7",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_31_SCIONE_MELOS_SOURCE_NOTES.md",
+      "sha256": "188f4210d5fb5b27a920e54e1b3b500238124ada12b491d17b58988dca95178d",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_32_BOLA_SOURCE_NOTES.md",
+      "sha256": "d5a050995a9f418c2ef6af98bb19346c20ece6661ba5f98b5546e3baaf85c10e",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_32_RESTORATION_SOURCE_NOTES.md",
+      "sha256": "ad34160fb3c29ff6a3b8da39d5628d91586753d13aedb83ee7e68920603bbb2a",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_33_CIRCEII_SOURCE_NOTES.md",
+      "sha256": "41c882d2db031462b6482cd1ec21066fb6f58353ac33bae64671aaea87a4078e",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_33_MELOS_SOURCE_NOTES.md",
+      "sha256": "323ec2b5ab27921d35d4156ac10fe9cb1a553fb6450f484b584ab44a4ab82988",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_33_VEII_SOURCE_NOTES.md",
+      "sha256": "b6faa9a2fb6173a0d67244ed57fcf4da1fd380b33fa141f54eb04c036d183257",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_34_BOLA_SOURCE_NOTES.md",
+      "sha256": "1b13e6c34302d5c3d38410a95dd714ff327f43ffab9bd78921f67afd6214e408",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_34_SUTRIUM_NEPET_SOURCE_NOTES.md",
+      "sha256": "dc359d29ef3c5627d5b861237d002eb4c57fb13a296d2f5cdd31502099723b4e",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_34_VITELLIA_SOURCE_NOTES.md",
+      "sha256": "f4522cdd5ca2425221d8cd39671d1bc51adc339830dfef5f0b49d5c7a5e785c7",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_POMPTINE_SOURCE_NOTES.md",
+      "sha256": "eaf73fb51e9b92d1564984d88ff508e90de5b5c3865901ed79b57fead3ada1cf",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_SATRICUM_382_SOURCE_NOTES.md",
+      "sha256": "59b21ac5cee5765400c7f105acdf6daec0f9894d2fbc0820d81304926c7bc747",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_SATRICUM_386_385_SOURCE_NOTES.md",
+      "sha256": "eb9bbc9ac7ba6d83cee07fd698f62ae14422fc54d40947a66eaaf14143f9ffb1",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_36_SAMOS_SOURCE_NOTES.md",
+      "sha256": "ccb8deb596558c7fa3a9a93b2190f2c002fe7a5161a2b72f1de0c6da74bde4ff",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_36_SATRICUM_377_SOURCE_NOTES.md",
+      "sha256": "56a8b0b09e46cf0f2c22bf873a63b3ef245026506a80cd6d57c66d3897858551",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_36_SETIA_SOURCE_NOTES.md",
+      "sha256": "292e21c01475ea38e4c29045f57dd9433b6a7f34744bf62c4d0187a223208939",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_37_SATRICUM_346_SOURCE_NOTES.md",
+      "sha256": "8efaf83320560efe2737908de05158aaaae895b32fbeee194a84a1a3f0dfce5c",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_37_SIDON_SOURCE_NOTES.md",
+      "sha256": "9a831af8a039b4813cd5f2347b0a555edb521976df742f6f84fbfa35080514a7",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_37_THEBES_SOURCE_NOTES.md",
+      "sha256": "ffb0f1ac977178c7f6ca627294fbe5f6ea35f33649283b4977f66575537aa8dd",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_38_CYRENE_SOURCE_NOTES.md",
+      "sha256": "3f63015190ffec52102585e29ed7482fc9301b3adcfdb1b522695b4918116e29",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_38_SAMOS_RESTORATION_SOURCE_NOTES.md",
+      "sha256": "47411f58901018a37aee948d1d0563ab710bb71338bd9ca81ecca691456277c8",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_39_QIN_NANYANG_SOURCE_NOTES.md",
+      "sha256": "b99826da39f821f5bd56fba0dcc34280493955bd44c2de943d1765dee62c4dcb",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_39_SKEPSIS_SOURCE_NOTES.md",
+      "sha256": "4cf580690edb1b4bb0918a7d2d39e088ae75702a18f28b48b17962b5363e819a",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_39_THEBES_RESTORATION_SOURCE_NOTES.md",
+      "sha256": "a09371dde2e656d6c89062bebc688f782d2d940e568d01bb1075938c99e80f08",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_40_ASTAKOS_SOURCE_NOTES.md",
+      "sha256": "7f8abbfc4f42f4fdbbbc4666e1e00387f3b8e7596c9ad70330c4dd40519c1a7e",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_40_KALINGA_SOURCE_NOTES.md",
+      "sha256": "b8e1cf94b2d0f23dcc6d7c505781a796553ec6346f2d682d49c8b08ec5588714",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_41_LYSIMACHEIA_SOURCE_NOTES.md",
+      "sha256": "98b14f32860d9c3c3b73daf44ac0a4dd9b1067fa6faf335895735d1b683778bf",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_41_QIN_XIANYANG_SOURCE_NOTES.md",
+      "sha256": "ab2dfb9ca2701001dce2dd2fc61cc41ab87d81cf9248be432e44c1c9b61d49e0",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_42_CARTHAGE_SOURCE_NOTES.md",
+      "sha256": "eb44d43ae50c58670ef94a3d5360d2782080c9fd817b4bfa502a3ed217631229",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_42_JUNONIA_SOURCE_NOTES.md",
+      "sha256": "569e609c7e6385e4c554165cd4cc54f674785127b14e8dc798b67aee2658a5cd",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_42_MARIAN_AFRICA_SOURCE_NOTES.md",
+      "sha256": "893fd4804474beeb11084969e57e8d5f1f3f1ded08c0cdd4b6284ea8347eb805",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_43_ALBAN_HILLS_SOURCE_NOTES.md",
+      "sha256": "3670f1d76e313f54cadc1b648a95af9dafb54d1bcb2712f71ed5fd24a235a6cf",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_43_CAPUA_SOURCE_NOTES.md",
+      "sha256": "7ff70031a8614254c391d40bc17af872578918e701b4346b289d0f1712334eb9",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_43_STABIAE_SOURCE_NOTES.md",
+      "sha256": "bb9a6aad1ab9092f42261ef55f61293b3dc2245e54b9bdf0b9c6a343994068fb",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_44_ARRETIUM_SOURCE_NOTES.md",
+      "sha256": "9092a05c3f6475e1aecaa776ae2d0b40386b223ee41bb4e650462a285db0fb21",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_44_FAESULAE_SOURCE_NOTES.md",
+      "sha256": "cee487aceabd60c22ea0d3ae6a04d089a20c20e7a4455b08c8cd10a5e216aa77",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_44_NEAPOLIS_SOURCE_NOTES.md",
+      "sha256": "8f35f1056fbc472ee80eb4410db3110dc358b0e1380460e168d3831e46ac25a9",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_45_NORBA_SOURCE_NOTES.md",
+      "sha256": "db15fd57b798ad018ff490a6ec8a719a57f41207f0b972e249321018adf2d15c",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_45_POPULONIA_SOURCE_NOTES.md",
+      "sha256": "575b1c40a914a9848f1ebb9b6098f6b4b7e17c268199e754bc0fc0ba31112618",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_45_PRAENESTE_SOURCE_NOTES.md",
+      "sha256": "1d5a281023f09b2a8c0d88a995f17079b561c6f65e4874ab963a9346d47ce593",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_46_PROSCRIPTIONS_SOURCE_NOTES.md",
+      "sha256": "cbb932db527dbdcfc6d1e09628f0edeccfa2a7b862cc1fa59def4519761adb20",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_46_SAMNITE_SOURCE_NOTES.md",
+      "sha256": "763fa4286634a83de4212d9b405ec02a920db32c3150d2fc1941487cd144f393",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_46_TELAMON_SOURCE_NOTES.md",
+      "sha256": "4942aa58bccc95188df1a8fc3db652b9ca52e8f16c7e0b5990c93c27c88e9b01",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_47_NOLA_SOURCE_NOTES.md",
+      "sha256": "0d83751522ea71e3fd840617caf52358ba77e3b071289db32cb621db46e97257",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_47_SUESSULA_SOURCE_NOTES.md",
+      "sha256": "77952e698b77c34d9e2c62a86965f0896e5e7e9ca892b53cb98c9dc278e18cc0",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_47_VOLATERRAE_SOURCE_NOTES.md",
+      "sha256": "9f6371d0d13f2cfc6c57362fbe8cd5a108391f8384a5c77ec95b5229cb946bf1",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_48_ANTIOCH_SOURCE_NOTES.md",
+      "sha256": "d6a6c01280d6336a154b5004528e16a92090581a0ec5d4f92589320986e4b719",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_48_HATRA_SOURCE_NOTES.md",
+      "sha256": "dd53a12d545433be22a04d92c9faa6459b3af9bcfd8e76ee7a0c7650628962b9",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_48_TIGRANOKERTA_SOURCE_NOTES.md",
+      "sha256": "38c22d4725dcfeac34c32b7eb721da83e2259fd97e3666b6c02b90c4c4ca4ed5",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_49_DURA_SOURCE_NOTES.md",
+      "sha256": "d2d2264636ba2b88f6e09615c7ea1ff13308b57deed57ed2fa494392ac8584db",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_49_THIRD_CAMPAIGN_SOURCE_NOTES.md",
+      "sha256": "d1f7852efe318260fbafa7bc86a07573ea2c406188818a76e40868b233137ab7",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_49_WEH_ANTIOCH_SOURCE_NOTES.md",
+      "sha256": "b042f8dbc9a4687f26eaff88c988f23fe9c87499c47f992d517f794773bdea14",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_50_EGYPT_SOURCE_NOTES.md",
+      "sha256": "2b8ffe613228a8b923dd21a32161872ed73315da9404ce9587fb74773bc63e80",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_50_EMISHI_SOURCE_NOTES.md",
+      "sha256": "1aa8de431ba123bc82fe796156253c2990412ef475ec8cccb7082ce51a6382e4",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_50_IBERIA_SOURCE_NOTES.md",
+      "sha256": "a4defeb319a4bfacb43f9e1a69faa28eb7f1d933c267083e64db2d8d61b70b81",
+      "reader": "markdown_http_links",
+      "scope": "authoring_source_note_links"
+    }
+  ],
+  "preserved_august_files": {
+    "BIBLIOGRAPHY_REVIEW.md": "f4395bdd6c5631ac293d6b82f3275c41076765d1fc0fb3d5a014e86c0e5ba6a3",
+    "CITATION_RESOLUTION.md": "b6481822d45184d15be816de60da3c670b1c1c247e69fdcc9b610802c50d9d12",
+    "MONOGRAPH_DRAFT_v1.md": "5dd1ff5aaa09ac95434e3cdd1035104684c38cf919888778fbd34c5875d5c3bb",
+    "bibliography_census.csv": "25e8a286e0f4342c0d4a08b288dcb04316c7096e7a146ae0158f91c3754a6a8c",
+    "bibliography_review_queue.csv": "efd71000e723b19bfd1a25a5de681ba051f9619ac7b8d86aa432f0e8252c5aa8",
+    "bibliography_works.csv": "8a5340e21de2cef5c113dac00608225dcfd6daa94bebf4ca72fa96c82a8c7ed1",
+    "build_bibliography_census.py": "701bacde8df44376c83c2e5235259a4e831b12e18349219a99ad445a77ace3bb",
+    "build_work_level_bibliography.py": "1bf52ef3283f97c3068886f66752430b36feece3d1dda1c087590692409e9939",
+    "typed_metadata_pilot/PILOT_AUDIT.md": "0992a6f9940d23af01f6aac77e07bb2ab0349c4afc86decf60b230b033424c96",
+    "typed_metadata_pilot/pilot_metadata.csv": "4d2e4d94b153f8d90565ce687133d214f8e0646e24dc35acdfc0910a4b8cb66a"
+  },
+  "exclusions": [
+    "Raw coder journals, source bodies/PDFs and browser captures are not harvested or redistributed.",
+    "Deployment, QA and process-only URLs are excluded. Source-note URLs are explicitly separate from citations.",
+    "This cutoff covers the named release source arrays, atlas source joins, audit registries and listed source notes, not every research document ever consulted.",
+    "Old same-work and part-of decisions are retained. New title-only matches are not auto-merged; an access-record count is not a unique-work count."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "open": 5,
+  "records": [
+    {
+      "work_id": "access:2fe8966bffe0af4d3e7b",
+      "field": "translator_names_as_supplied",
+      "status": "unresolved",
+      "basis": "No explicit personal translator/adapter credit appears in the inspected page or linked guidance. A web-author meta field, host name or earlier translation credit does not fill this role.",
+      "current_value": null,
+      "action": "Use an explicit credit tied to this translation or adaptation if one is located; do not infer a person from site ownership."
+    },
+    {
+      "work_id": "access:4bf05a17aec56d2772cf",
+      "field": "translator_names_as_supplied",
+      "status": "unresolved",
+      "basis": "No explicit personal translator/adapter credit appears in the inspected page or linked guidance. A web-author meta field, host name or earlier translation credit does not fill this role.",
+      "current_value": null,
+      "action": "Use an explicit credit tied to this translation or adaptation if one is located; do not infer a person from site ownership."
+    },
+    {
+      "work_id": "access:6c8af49ca66799ce94d7",
+      "field": "translator_names_as_supplied",
+      "status": "unresolved",
+      "basis": "No explicit personal translator/adapter credit appears in the inspected page or linked guidance. A web-author meta field, host name or earlier translation credit does not fill this role.",
+      "current_value": null,
+      "action": "Use an explicit credit tied to this translation or adaptation if one is located; do not infer a person from site ownership."
+    },
+    {
+      "work_id": "access:953809b0232291152324",
+      "field": "adapter_names_as_supplied",
+      "status": "unresolved",
+      "basis": "No explicit personal translator/adapter credit appears in the inspected page or linked guidance. A web-author meta field, host name or earlier translation credit does not fill this role.",
+      "current_value": null,
+      "action": "Use an explicit credit tied to this translation or adaptation if one is located; do not infer a person from site ownership."
+    },
+    {
+      "work_id": "url:attalus.org/translate/granius.html",
+      "field": "translator_names_as_supplied",
+      "status": "unresolved",
+      "basis": "No explicit personal translator/adapter credit appears in the inspected page or linked guidance. A web-author meta field, host name or earlier translation credit does not fill this role.",
+      "current_value": null,
+      "action": "Use an explicit credit tied to this translation or adaptation if one is located; do not infer a person from site ownership."
+    }
+  ],
+  "historical_case_holds_added": 0,
+  "coverage_note": "Five explicit personal contributor fields. Other omitted imprint fields and unassigned footer-date roles remain in the metadata limits; this count is not an assertion that every possible bibliographic field is known."
+}

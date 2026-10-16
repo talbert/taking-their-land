@@ -1,0 +1,65 @@
+{
+  "status": "tiered_inventory_followup_applied_not_all_entries_publication_ready",
+  "counts": {
+    "secondary_inventory_unresolved": 1130,
+    "metadata_identity_reconciled_locus_separate": 85,
+    "deposited_metadata_identity_screened": 116,
+    "corrected_identifier_verified": 3,
+    "prior_pilot_review_preserved": 30,
+    "container_identity_reconciled_chapter_link_corrected": 1,
+    "source_identity_reconciled_identifier_unresolved": 1
+  },
+  "anchor_use": {
+    "cited": 27,
+    "background": 14
+  },
+  "work_access_records": 1366,
+  "overlay_records": 26,
+  "base_build": "20260909f",
+  "base_typed_metadata_sha256": "9c4016a8309a7c34e1defb6ced86d377e7cfe7e9c4869f57b149d23d80bc9396",
+  "overlay_sha256": "1f69590b2e63c0f8e263fcbf290c23d486c2eb3e48539a8703755af7868a6fe1",
+  "composite_sha256": "8aaa58bf597319a4be33d959caf3e3eaa97279546347b404034f6323abd5fb9b",
+  "identifier_exceptions": [
+    {
+      "work_id": "doi:10.4067/s0717-71942012000200001",
+      "status": "known_article_both_doi_forms_unregistered",
+      "preferred_url": "https://revistahistoria.uc.cl/index.php/rhis/article/view/10102"
+    }
+  ],
+  "remaining": "Secondary identities, editions and claim locators remain unresolved. Six explicit bibliographic fields remain open across the institutional and Iranica packets. Pilot decisions and original occurrences are preserved.",
+  "identity_followup_source_passages_newly_verified": 0,
+  "passage_review": {
+    "records": 5,
+    "passages_located_with_limits": 3,
+    "partial_opening_only": 1,
+    "abstract_only": 1,
+    "file": "PASSAGE_NOTES.json",
+    "sha256": "67709e9035ed3eaf9fb4ed2fb69732220ea44e3790623a2d0fa6b66298616fd9",
+    "independent_historical_review": false
+  },
+  "prior_overlay_records": 61,
+  "reviewed_overlay_records_total": 87,
+  "latest_identity_review": {
+    "records": 26,
+    "metadata_only": true,
+    "original_occurrences_changed": 0,
+    "historical_scores_changed": 0,
+    "directory": "../iranica_identity_followup_20260909/"
+  },
+  "field_exceptions": {
+    "open": 6,
+    "status": "unresolved_bibliographic_fields_not_case_holds",
+    "files": [
+      {
+        "open": 3,
+        "file": "../institutional_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "6128605408f61ff1095c5263d610df6dfe5d8d3d10ee465a6bc5a7a90d188664"
+      },
+      {
+        "open": 3,
+        "file": "../iranica_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "5b4787c881efc4e7b31b106ba89361177a8f67e2c038145700b32ba633762aae"
+      }
+    ]
+  }
+}

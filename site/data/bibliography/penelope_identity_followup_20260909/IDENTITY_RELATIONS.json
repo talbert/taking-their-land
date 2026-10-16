@@ -1,0 +1,101 @@
+{
+  "ids_merged": 0,
+  "new_ids_created": 0,
+  "relations": [
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "fa29aa5d621d5a208b0f08d4a8e3904caf5e7a68e303c3b2520270d7c7d1f2d4",
+      "work_ids": [
+        "access:029ad5010e176cdafe95",
+        "access:f26c103488ee52e0a220",
+        "url:penelope.uchicago.edu/thayer/e/roman/texts/appian/civil_wars/1%2a.html"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    },
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "a8535be17c0b2c3e0879c803a55223718a74f8b6d2c66c09d271eedd1cf56d0e",
+      "work_ids": [
+        "access:1ea6aed283a346b04cbb",
+        "access:9a4044569971f6d8e0a6"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    },
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "91a97ab22bcf4cee6b27ea3f27204b676ba9aaf8d914054c3732efc924926a91",
+      "work_ids": [
+        "access:346324645ec85893fede",
+        "access:930843be507dab378123"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    },
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "3c99a06cd6e7f3a8a08853dee9e2d6163ca9f9a7931aa59f849ddfb7cd4b89bf",
+      "work_ids": [
+        "access:387efb2516472dfbacee",
+        "access:6414e1e7f1388599d579",
+        "access:86a7146d4474a1fe35e8",
+        "access:c76547af9a5658ed7d7f",
+        "url:penelope.uchicago.edu/thayer/e/roman/texts/velleius_paterculus/1%2a.html"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    },
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "44ff4d9cbe5d5a577b11354406d74f8ac2a1f8f8d1851d2a2b11e93274974c1f",
+      "work_ids": [
+        "access:638a051400ad4e420c36",
+        "access:6d71e56489bf3478e286"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    },
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "2b75070062904e6dd01451c6e8768a77ff08b46ff69c4f827f9979a0fd307d57",
+      "work_ids": [
+        "access:6c8f2993e7081550e2bb",
+        "access:abf78922f5e3baedfc91"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    },
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "a4bda2352ab14af8bfdd6ca14f27310da089399d3f0ed7c6aa7465ed278a8658",
+      "work_ids": [
+        "access:7e68da75cb1564b84192",
+        "url:penelope.uchicago.edu/thayer/e/roman/texts/strabo/5d%2a.html"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    },
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "444df03cf2a2c25399181e3e3d63ae7b34d7287dfff31cbf4f24437ede29d429",
+      "work_ids": [
+        "access:8c030bc7ff3516bfd0bb",
+        "url:penelope.uchicago.edu/thayer/e/roman/texts/strabo/5b%2a.html"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    },
+    {
+      "relation": "same_retrieved_page_body_at_recorded_access_date",
+      "source_body_sha256": "e09d1179e39bd1539e2a2eb85ccb876adbb4a0b266cc9af3e20ee970fb37e4de",
+      "work_ids": [
+        "access:9e70ba348b02dd9d47de",
+        "access:b640cac29747e8921048"
+      ],
+      "merged": false,
+      "limit": "Shared body or a supported corrected target does not erase original URLs, fragments, scopes or occurrence labels."
+    }
+  ],
+  "scope": "Capture-body comparisons only; case, encoding and fragment variants retain their original IDs. No publisher-level work identifiers or canonical access URLs are inferred."
+}

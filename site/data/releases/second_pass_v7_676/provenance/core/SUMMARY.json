@@ -1,0 +1,22 @@
+{
+  "status": "CORE_CONSTRUCTED_PROGRAMS_AND_MAIN_EXECUTION_ACCEPTANCE_PENDING",
+  "baseline_active": 675,
+  "candidate_active": 676,
+  "retired": 13,
+  "new": 14,
+  "candidate_metadata_rows": 771,
+  "inactive_audit_rows": 95,
+  "absent_parent_identities_added": 9,
+  "reviewed_retained_cells": 1876,
+  "changed_retained_cells": 927,
+  "confirmed_retained_cells": 949,
+  "untouched_retained_cells": 37844,
+  "untouched_fractional_cells": 100,
+  "baseline_eligible_nominal_dates": 628,
+  "candidate_eligible_nominal_dates": 627,
+  "candidate_null_starts": 13,
+  "measured_duration_eligible": 0,
+  "parent_rulings": 78,
+  "historical_fits": 0,
+  "public_or_frozen_activity_changed": false
+}

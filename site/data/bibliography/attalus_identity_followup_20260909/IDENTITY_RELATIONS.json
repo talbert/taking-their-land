@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "work_ids": [
+        "access:6c8af49ca66799ce94d7",
+        "url:attalus.org/translate/granius.html"
+      ],
+      "relation": "same_retrieved_page_body_distinct_anchor_scope",
+      "shared_page_sha256": "3b799f24afb43752cc646e992d73e50bd1951c88f876c212cf4e6f2f39cf2253",
+      "merged": false,
+      "scope": "The anchored Book 36 access and the full-page access retain original IDs, URLs and occurrences."
+    },
+    {
+      "work_ids": [
+        "access:5ad4967f76da1c7322db",
+        "access:e858fa4d54c77410c6dc"
+      ],
+      "relation": "complementary_web_parts_of_same_named_speech_translation",
+      "merged": false,
+      "scope": "Separate sections 79-154 and 1-78; shared Freese/1930 credits do not make the page bodies identical."
+    }
+  ]
+}

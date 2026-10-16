@@ -1,0 +1,48 @@
+{
+  "schema": "main-private676-family-disposition-v1",
+  "date": "2026-09-07",
+  "status": "EDITORIAL_CHOICES_ACCEPTED_PENDING_BOUNDED_IMPLEMENTATION_CHECK",
+  "event_id": "prehistory-post-lapita-papuan-replacement-vanuatu",
+  "family": "low_state_durable_expansion",
+  "disposition": "POST_RECODE_RECHECK_COMPLETE_RETAIN_QUALIFIED_FAMILY",
+  "public_case_family_gloss": "Durable demographic expansion",
+  "qualification": "Durable incoming migration and ancestry turnover; state direction, coercion, taken land and prior residents' physical fate remain unestablished. Low-state is not a measured absence of political organization.",
+  "nearest_alternative": "settler_replacement",
+  "alternative_disposition": "NOT_SELECTED_ANCESTRY_TURNOVER_DOES_NOT_ESTABLISH_TAKEN_LAND",
+  "row_unknown_cells": 56,
+  "row_known_cells": 4,
+  "new_family_hold": false,
+  "authoring_hold_cleared": false,
+  "raw_score_change": false,
+  "numerical_rerun": false,
+  "promotion_authorized": false,
+  "publication_authorized": false,
+  "evidence": [
+    {
+      "path": "analysis/second_pass/mechanism_family_v1/CANDIDATE_FAMILY_CODEBOOK.md",
+      "sha256": "07d784f8380f673f95d002a3574db9a0cb02049ab2725ef69c54239a98c7f7b9",
+      "locator": "low_state_durable_expansion, settler_replacement and HOLD definitions; tie-breaking rules"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_26_ADJUDICATION.md",
+      "sha256": "e7955daf232103039f8ee545bd5933a698f97c23a2dfa4ca8b775a9d68d7e86c",
+      "locator": "Vanuatu disposition, lines54–68"
+    },
+    {
+      "path": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_26_INDEPENDENT_REVIEW.md",
+      "sha256": "1bd428551efba676b54a4e2f4bf24cafab6ace66737e0f6e87334197afaf05e1",
+      "locator": "Vanuatu event boundary, family verdict and public-prose/map qualifications, lines229–339"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/successor_scores.csv",
+      "sha256": "0212984016e8aabd6feb46edfd13c8fdf2cb1160c2ff5e17a85fff91a232d6c3",
+      "locator": "event_id=prehistory-post-lapita-papuan-replacement-vanuatu"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/successor_na_types.csv",
+      "sha256": "83884f2ca6d0e370df42d73561fb65ee74e92ecdd92c45258a696bfe139a9ef6",
+      "locator": "event_id=prehistory-post-lapita-papuan-replacement-vanuatu"
+    }
+  ],
+  "disclosure": "Main model-performed editorial disposition using existing accepted source review and corrected rows; no fresh primary-source reading, external expert review or universal-fairness conclusion."
+}

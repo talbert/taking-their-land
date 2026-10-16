@@ -1,0 +1,19 @@
+{
+  "status": "SERIALIZED_ADDENDUM_CHECKS_PASS",
+  "scenario_dispositions": 565,
+  "explicit_patches": 518,
+  "date_records": 511,
+  "new_unique_fits": 2,
+  "canonical_fit_reused": true,
+  "old_baseline_unchanged": true,
+  "no_new_historical_review_or_model_fit_in_this_check": true,
+  "negative_controls_rejected": [
+    "missing_scenario",
+    "invented_third_fit",
+    "bad_eligible_subset"
+  ],
+  "result_sha256": "56a3a5db90f84c1e8691160ed6eb565b30df60f5f8062eb4bbb8a1d44c745287",
+  "old_result_sha256": "91cd3d38aaf3bae80a4d7972c935d020bd48c56e4e78d0cada34104ecd5008f9",
+  "input_bindings_checked": 559,
+  "original_scenario_input_bindings_checked": 63
+}

@@ -1,0 +1,836 @@
+{
+  "additional_not_evidenced_qualifiers": 11,
+  "adjudicator": "Main (AI-assisted editorial implementation under Craig Talbert's authority)",
+  "decisions": [
+    {
+      "accepted_canonical_card": {
+        "band": "minimal",
+        "coverage": 0.2836817365,
+        "coverageBand": "low",
+        "factor": "F3",
+        "high": 71.6318263455,
+        "highMeans": "A larger, more family-complete, self-reproducing, and durable incoming resident population.",
+        "id": "settler_implantation",
+        "intensity": 0.0,
+        "label": "Settler implantation",
+        "low": 0.0,
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": 0.0
+      },
+      "conflict_id": "gr-roman-pometia-destruction-503-495/F3",
+      "decision": {
+        "conflict_id": "gr-roman-pometia-destruction-503-495/F3",
+        "rationale": "Batch27 excludes an inferred successor stream and leaves later land use unresolved. The accepted coding replaces five no-evidence zeros with U. Preserve that scope restriction without converting the earlier display's NA into a raw applicability judgment.",
+        "reviewReason": "No incoming settlement stream is established for this bounded destruction and captive-export event. Buyers and later land use remain unknown; this is not a measured zero implantation score.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "not_applicable",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F3",
+        "high": null,
+        "highMeans": "A larger, more family-complete, self-reproducing, and durable incoming resident population.",
+        "id": "settler_implantation",
+        "intensity": null,
+        "label": "Settler implantation",
+        "low": null,
+        "reviewReason": "No incoming population stream belongs to this bounded destruction and export event; later land use is a different, unresolved question.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md",
+        "status": "structural_not_applicable",
+        "value": null
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "hdem_migrant_stream_family_completeness",
+            "scs_settler_permanence_orientation",
+            "hdem_settler_reproduction_engine",
+            "hdem_incomer_share_at_consolidation",
+            "scs_demographic_saturation"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-pometia-destruction-503-495"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "hdem_migrant_stream_family_completeness",
+            "scs_settler_permanence_orientation",
+            "hdem_settler_reproduction_engine",
+            "hdem_incomer_share_at_consolidation",
+            "scs_demographic_saturation"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-pometia-destruction-503-495"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F3",
+        "high": null,
+        "highMeans": "A larger, more family-complete, self-reproducing, and durable incoming resident population.",
+        "id": "settler_implantation",
+        "intensity": null,
+        "label": "Settler implantation",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-pometia-destruction-503-495/F3",
+        "reviewReason": "No incoming settlement stream is established for this bounded destruction and captive-export event. Buyers and later land use remain unknown; this is not a measured zero implantation score.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F8",
+        "high": 100.0,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": 0.0,
+        "reviewReason": "The applicability gate is unknown; unfree-incomer share cannot establish imported labor by itself.",
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-pometia-destruction-503-495/F8",
+      "decision": {
+        "conflict_id": "gr-roman-pometia-destruction-503-495/F8",
+        "rationale": "Batch27's outward/inward distinction survives. The direct F8 gate and unfree share are accepted U; neither captive export nor an old mixed-F8 NA authorizes a numeric zero, imported-labor estimate or reversal of those codes.",
+        "reviewReason": "The reviewed event describes captives leaving Pometia, not imported unfree labor there. An inward labor stream is not evidenced; the unknown applicability gate is not a zero score.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "not_applicable",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F8",
+        "high": null,
+        "highMeans": "A stronger stream of coerced or unfree labor brought from elsewhere, often without complete households.",
+        "id": "coerced_exogenous_labor",
+        "intensity": null,
+        "label": "Coerced outside labor",
+        "low": null,
+        "reviewReason": "Pometian captives were exported from the event location; no imported unfree-labor stream at Pometia belongs to this event.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md",
+        "status": "structural_not_applicable",
+        "value": null
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "pel_incomer_household_composition",
+            "scs_exogenous_labor_triad",
+            "pel_unfree_incomer_share"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-pometia-destruction-503-495"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "pel_incomer_household_composition",
+            "scs_exogenous_labor_triad",
+            "pel_unfree_incomer_share"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-pometia-destruction-503-495"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F8",
+        "high": null,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-pometia-destruction-503-495/F8",
+        "reviewReason": "The reviewed event describes captives leaving Pometia, not imported unfree labor there. An inward labor stream is not evidenced; the unknown applicability gate is not a zero score.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F7",
+        "high": 100.0,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": 0.0,
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-velitrae-conquest-colony-494-492/F7",
+      "decision": {
+        "conflict_id": "gr-roman-velitrae-conquest-colony-494-492/F7",
+        "rationale": "Batch27 distinguishes incoming colonists from resident removal. Accepted distance and return-foreclosure codes are U. Preserve the evidentiary restriction, not the old display's stronger structural-NA assertion.",
+        "reviewReason": "No prior-resident removal cohort or destination is established. Incoming Roman colonists did move, but their movement does not measure prior residents' separation from homeland.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "not_applicable",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F7",
+        "high": null,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": null,
+        "reviewReason": "No prior-resident removal cohort or destination belongs to the bounded event; the documented movers were incoming Roman colonists.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md",
+        "status": "structural_not_applicable",
+        "value": null
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "hdem_displaced_relocation_distance",
+            "gfm_return_foreclosure"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-velitrae-conquest-colony-494-492"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "hdem_displaced_relocation_distance",
+            "gfm_return_foreclosure"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-velitrae-conquest-colony-494-492"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F7",
+        "high": null,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-velitrae-conquest-colony-494-492/F7",
+        "reviewReason": "No prior-resident removal cohort or destination is established. Incoming Roman colonists did move, but their movement does not measure prior residents' separation from homeland.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F8",
+        "high": 100.0,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": 0.0,
+        "reviewReason": "The applicability gate is unknown; unfree-incomer share cannot establish imported labor by itself.",
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-velitrae-conquest-colony-494-492/F8",
+      "decision": {
+        "conflict_id": "gr-roman-velitrae-conquest-colony-494-492/F8",
+        "rationale": "Batch27 rules out treating civic compulsion as an enslaved-labor stream. The accepted direct gate is U. Use the established not-evidenced display instead of retaining NA for every possible unreported labor stream.",
+        "reviewReason": "Compulsory recruitment of civic colonists does not establish a distinct imported unfree-labor population. That labor stream is not evidenced here; applicability remains unknown rather than a measured zero.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "not_applicable",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F8",
+        "high": null,
+        "highMeans": "A stronger stream of coerced or unfree labor brought from elsewhere, often without complete households.",
+        "id": "coerced_exogenous_labor",
+        "intensity": null,
+        "label": "Coerced outside labor",
+        "low": null,
+        "reviewReason": "Compelled Roman civic colonists were not an imported enslaved or unfree labor stream.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md",
+        "status": "structural_not_applicable",
+        "value": null
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "scs_exogenous_labor_triad"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-velitrae-conquest-colony-494-492"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "scs_exogenous_labor_triad"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-velitrae-conquest-colony-494-492"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F8",
+        "high": null,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-velitrae-conquest-colony-494-492/F8",
+        "reviewReason": "Compulsory recruitment of civic colonists does not establish a distinct imported unfree-labor population. That labor stream is not evidenced here; applicability remains unknown rather than a measured zero.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_27_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F8",
+        "high": 100.0,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": 0.0,
+        "reviewReason": "The applicability gate is unknown; unfree-incomer share cannot establish imported labor by itself.",
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-antium-conquest-integrated-colony-468-467/F8",
+      "decision": {
+        "conflict_id": "gr-roman-antium-conquest-integrated-colony-468-467/F8",
+        "rationale": "Batch29 allowed a zero/not-evidenced display. Choose the latter, already supported by that review, because the accepted gate correction is 0 to U. Local labor relations cannot resolve unknown imported-labor applicability.",
+        "reviewReason": "Crop-sharing by continuing Antiates is local labor incorporation, not evidence of unfree labor imported from elsewhere. The reviewed event supplies no positive imported-labor finding or numerical estimate.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "minimal",
+        "coverage": 1,
+        "coverageBand": "high",
+        "factor": "F8",
+        "high": 0,
+        "highMeans": "A stronger stream of coerced or unfree labor brought from elsewhere, often without complete households.",
+        "id": "coerced_exogenous_labor",
+        "intensity": 0,
+        "label": "Coerced outside labor",
+        "low": 0,
+        "reviewReason": "Continuing Antiates working transferred land under crop shares are local labor incorporation, not a coerced labor stream brought from elsewhere.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md",
+        "status": "supported_point",
+        "value": 0
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "scs_exogenous_labor_triad"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-antium-conquest-integrated-colony-468-467"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "scs_exogenous_labor_triad"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-antium-conquest-integrated-colony-468-467"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F8",
+        "high": null,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-antium-conquest-integrated-colony-468-467/F8",
+        "reviewReason": "Crop-sharing by continuing Antiates is local labor incorporation, not evidence of unfree labor imported from elsewhere. The reviewed event supplies no positive imported-labor finding or numerical estimate.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "moderate",
+        "coverage": 0.5525527387,
+        "coverageBand": "low",
+        "factor": "F4",
+        "high": 73.5090669539,
+        "highMeans": "More removal and demographic replacement, with less incorporation of the prior population.",
+        "id": "elimination_vs_incorporation",
+        "intensity": 52.0571862371,
+        "label": "Elimination over incorporation",
+        "low": 28.7643408248,
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": 50.0
+      },
+      "conflict_id": "gr-roman-ardea-taking-restitution-reorganization-446-442/F4",
+      "decision": {
+        "conflict_id": "gr-roman-ardea-taking-restitution-reorganization-446-442/F4",
+        "rationale": "Batch29's legal-taking/reversal boundary remains. Accepted removal, ancestry and saturation cells become U; the composite's residual range cannot turn that evidence limit into an observed replacement share. Replace the old fully supported zero with an explicit nonnumeric restriction, not a new positive score.",
+        "reviewReason": "The reviewed episode establishes legal land taking and locally weighted restitution, not a measured resident-removal or demographic-replacement outcome. No numeric elimination-versus-incorporation estimate is authorized.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "minimal",
+        "coverage": 1,
+        "coverageBand": "high",
+        "factor": "F4",
+        "high": 0,
+        "highMeans": "More removal and demographic replacement, with less incorporation of the prior population.",
+        "id": "elimination_vs_incorporation",
+        "intensity": 0,
+        "label": "Elimination over incorporation",
+        "low": 0,
+        "reviewReason": "The event demonstrates a legal land taking and reversal, not resident removal or demographic replacement; its final assignment is locally weighted.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md",
+        "status": "supported_point",
+        "value": 0
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "hdem_prior_ancestry_in_successor_population",
+            "hdem_prior_population_removal",
+            "scs_demographic_saturation"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-ardea-taking-restitution-reorganization-446-442"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "hdem_prior_ancestry_in_successor_population",
+            "hdem_prior_population_removal",
+            "scs_demographic_saturation"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-ardea-taking-restitution-reorganization-446-442"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F4",
+        "high": null,
+        "highMeans": "More removal and demographic replacement, with less incorporation of the prior population.",
+        "id": "elimination_vs_incorporation",
+        "intensity": null,
+        "label": "Elimination over incorporation",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-ardea-taking-restitution-reorganization-446-442/F4",
+        "reviewReason": "The reviewed episode establishes legal land taking and locally weighted restitution, not a measured resident-removal or demographic-replacement outcome. No numeric elimination-versus-incorporation estimate is authorized.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F8",
+        "high": 100.0,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": 0.0,
+        "reviewReason": "The applicability gate is unknown; unfree-incomer share cannot establish imported labor by itself.",
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-ardea-taking-restitution-reorganization-446-442/F8",
+      "decision": {
+        "conflict_id": "gr-roman-ardea-taking-restitution-reorganization-446-442/F8",
+        "rationale": "Batch29 expressly permitted not-evidenced in place of the former positive F8. The accepted direct gate and unfree share are U; an old supported-zero display must not conceal those corrections.",
+        "reviewReason": "No distinct unfree-labor population brought from outside the affected community is established for this bounded appropriation-and-restitution episode. This is not a measured zero.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "minimal",
+        "coverage": 1,
+        "coverageBand": "high",
+        "factor": "F8",
+        "high": 0,
+        "highMeans": "A stronger stream of coerced or unfree labor brought from elsewhere, often without complete households.",
+        "id": "coerced_exogenous_labor",
+        "intensity": 0,
+        "label": "Coerced outside labor",
+        "low": 0,
+        "reviewReason": "The bounded episode supplies no coerced labor stream brought from outside the affected community.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md",
+        "status": "supported_point",
+        "value": 0
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "pel_incomer_household_composition",
+            "scs_exogenous_labor_triad",
+            "pel_unfree_incomer_share"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-ardea-taking-restitution-reorganization-446-442"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "pel_incomer_household_composition",
+            "scs_exogenous_labor_triad",
+            "pel_unfree_incomer_share"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-ardea-taking-restitution-reorganization-446-442"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F8",
+        "high": null,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-ardea-taking-restitution-reorganization-446-442/F8",
+        "reviewReason": "No distinct unfree-labor population brought from outside the affected community is established for this bounded appropriation-and-restitution episode. This is not a measured zero.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_29_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F7",
+        "high": 100.0,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": 0.0,
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-labici-colony-418-scope-control/F7",
+      "decision": {
+        "conflict_id": "gr-roman-labici-colony-418-scope-control/F7",
+        "rationale": "Batch31's reason for removing the zero is no identified displaced cohort, not evidence that removal was impossible. The accepted distance and return codes are U. Retain the no-route/no-estimate restriction using not-evidenced, without relabeling raw U as NA.",
+        "reviewReason": "No displaced Labican cohort, destination or return history is established. Allottee movement does not measure prior-resident removal; no numerical separation estimate is authorized.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "not_applicable",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F7",
+        "high": null,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": null,
+        "reviewReason": "No displaced Labican cohort is positively identified. Structural N/A avoids converting source silence into a measured zero-distance removal.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_31_INDEPENDENT_REVIEW.md",
+        "status": "structural_not_applicable",
+        "value": null
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "hdem_displaced_relocation_distance",
+            "gfm_return_foreclosure"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-labici-colony-418-scope-control"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "hdem_displaced_relocation_distance",
+            "gfm_return_foreclosure"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-labici-colony-418-scope-control"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F7",
+        "high": null,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-labici-colony-418-scope-control/F7",
+        "reviewReason": "No displaced Labican cohort, destination or return history is established. Allottee movement does not measure prior-resident removal; no numerical separation estimate is authorized.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_31_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_31_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F7",
+        "high": 100.0,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": 0.0,
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-bola-contested-land-taking-415-414/F7",
+      "decision": {
+        "conflict_id": "gr-roman-bola-contested-land-taking-415-414/F7",
+        "rationale": "Batch32 distinguishes the attested Aequian reinforcement from an unidentified displaced population. Return foreclosure is corrected from 0 to U; distance is already unknown. Keep the evidentiary limit while dropping the earlier display-only NA assertion.",
+        "reviewReason": "No displaced Bola cohort, destination, distance or return restriction is established. The unquantified incoming reinforcement does not supply that missing resident-removal history.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "not_applicable",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F7",
+        "high": null,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": null,
+        "reviewReason": "No displaced Bola cohort, destination, distance, or return bar is positively identified, so the construct is not a measured zero.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_32_INDEPENDENT_REVIEW.md",
+        "status": "structural_not_applicable",
+        "value": null
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "gfm_return_foreclosure"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-bola-contested-land-taking-415-414"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "gfm_return_foreclosure"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-bola-contested-land-taking-415-414"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F7",
+        "high": null,
+        "highMeans": "Displaced people were carried farther from home and return remained more completely blocked.",
+        "id": "separation_from_homeland",
+        "intensity": null,
+        "label": "Separation from homeland",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-bola-contested-land-taking-415-414/F7",
+        "reviewReason": "No displaced Bola cohort, destination, distance or return restriction is established. The unquantified incoming reinforcement does not supply that missing resident-removal history.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_32_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_32_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F8",
+        "high": 100.0,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": 0.0,
+        "reviewReason": "The applicability gate is unknown; unfree-incomer share cannot establish imported labor by itself.",
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-satricum-roman-conquest-colony-386-385/F8",
+      "decision": {
+        "conflict_id": "gr-roman-satricum-roman-conquest-colony-386-385/F8",
+        "rationale": "Batch35's old zero rested on no imported third population being identified. The accepted gate and unfree-share corrections are both 0 to U. Preserve the actual observation as not-evidenced, not a claim of complete knowledge of labor composition.",
+        "reviewReason": "The identified incoming cohort is Roman citizen colonists. No distinct imported unfree-labor population is established within the bounded event, and no numeric estimate is warranted.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "minimal",
+        "coverage": 1.0,
+        "coverageBand": "high",
+        "factor": "F8",
+        "high": 0.0,
+        "highMeans": "A stronger stream of coerced or unfree labor brought from elsewhere, often without complete households.",
+        "id": "coerced_exogenous_labor",
+        "intensity": 0.0,
+        "label": "Coerced outside labor",
+        "low": 0.0,
+        "reviewReason": "The identified incoming stream is Roman citizen colonists; no coerced or unfree third population imported from elsewhere is identified within the bounded event.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_INDEPENDENT_REVIEW.md",
+        "status": "supported_point",
+        "value": 0
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "scs_exogenous_labor_triad",
+            "pel_unfree_incomer_share"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-satricum-roman-conquest-colony-386-385"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "scs_exogenous_labor_triad",
+            "pel_unfree_incomer_share"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-satricum-roman-conquest-colony-386-385"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F8",
+        "high": null,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-satricum-roman-conquest-colony-386-385/F8",
+        "reviewReason": "The identified incoming cohort is Roman citizen colonists. No distinct imported unfree-labor population is established within the bounded event, and no numeric estimate is warranted.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "accepted_canonical_card": {
+        "band": "not_applicable_or_unknown",
+        "coverage": 0.0,
+        "coverageBand": "low",
+        "factor": "F8",
+        "high": 100.0,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": 0.0,
+        "reviewReason": "The applicability gate is unknown; unfree-incomer share cannot establish imported labor by itself.",
+        "status": "insufficient_evidence_do_not_show_solid_point",
+        "value": null
+      },
+      "conflict_id": "gr-roman-pomptine-division-settlement-383-358/F8",
+      "decision": {
+        "conflict_id": "gr-roman-pomptine-division-settlement-383-358/F8",
+        "rationale": "Batch35's two-milestone scope and uncounted settlement stream remain. No reported third population cannot justify the old fully supported zero after both direct F8 inputs become U. Use the existing not-evidenced status; do not alter the accepted raw record.",
+        "reviewReason": "Roman settlement is identified at regional level, but no distinct imported unfree-labor population is established in the bounded notices. No numerical imported-labor estimate is authorized.",
+        "status": "source_review_not_evidenced"
+      },
+      "prior_display": {
+        "band": "minimal",
+        "coverage": 1.0,
+        "coverageBand": "high",
+        "factor": "F8",
+        "high": 0.0,
+        "highMeans": "A stronger stream of coerced or unfree labor brought from elsewhere, often without complete households.",
+        "id": "coerced_exogenous_labor",
+        "intensity": 0.0,
+        "label": "Coerced outside labor",
+        "low": 0.0,
+        "reviewReason": "The bounded regional settlement stream is Roman; no coerced or unfree third population imported from elsewhere is identified.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_INDEPENDENT_REVIEW.md",
+        "status": "supported_point",
+        "value": 0
+      },
+      "raw_comparison": {
+        "baseline_v6": {
+          "changed_relevant_dimensions": [
+            "scs_exogenous_labor_triad",
+            "pel_unfree_incomer_share"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-pomptine-division-settlement-383-358"
+        },
+        "original_display_input": {
+          "changed_relevant_dimensions": [
+            "scs_exogenous_labor_triad",
+            "pel_unfree_incomer_share"
+          ],
+          "delta_key": "second_pass_v6_675:gr-roman-pomptine-division-settlement-383-358"
+        }
+      },
+      "raw_recode": false,
+      "resolved_display": {
+        "band": "source_review_not_evidenced",
+        "coverage": null,
+        "coverageBand": null,
+        "factor": "F8",
+        "high": null,
+        "highMeans": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+        "id": "imported_unfree_labor",
+        "intensity": null,
+        "label": "Imported unfree labor",
+        "low": null,
+        "mainDisplayDecision": "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/display_application/MAIN_DECISIONS.json#gr-roman-pomptine-division-settlement-383-358/F8",
+        "reviewReason": "Roman settlement is identified at regional level, but no distinct imported unfree-labor population is established in the bounded notices. No numerical imported-labor estimate is authorized.",
+        "sourceReview": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_INDEPENDENT_REVIEW.md",
+        "status": "source_review_not_evidenced",
+        "value": null
+      },
+      "source_review": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_35_INDEPENDENT_REVIEW.md"
+    }
+  ],
+  "existing_source_review_qualifiers_preserved": 329,
+  "new_raw_coding_obligations": 0,
+  "six_previous_raw_F8_followups_remain_open": true,
+  "status": "ELEVEN_DISPLAY_CONFLICTS_CLOSED"
+}

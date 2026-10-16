@@ -1,0 +1,30 @@
+{
+  "scope": "Current catalogue access for two authored-case occurrences; original inventory records are preserved. The publisher page provides catalogue information, not full text.",
+  "records": [
+    {
+      "occurrence_id": "occ:3aaf59d62263e22f7e91",
+      "work_id": "title:spear waller eds 1993 being maasai",
+      "case_id": "maasai-expansion",
+      "source_id": "being_maasai",
+      "original_input": "audit/existing_atlas_sources.json",
+      "original_locator": "/being_maasai",
+      "original_url": "https://history.wisc.edu/publications/being-maasai-ethnicity-and-identity-in-east-africa/",
+      "original_input_commit": "c87f8e2afe54c8735c78e3137b69e27b1e1cb91a",
+      "original_input_sha256": "3f9ccfa467e1f32748ca9cd77bbb64bd7ebfbaf2f65d87a9aba64d94594c7675",
+      "current_url": "https://www.ohioswallow.com/9780821410455/being-maasai/"
+    },
+    {
+      "occurrence_id": "occ:c90417d5991999c92a84",
+      "work_id": "title:spear waller eds 1993 being maasai",
+      "case_id": "nandi-uasin-gishu",
+      "source_id": "being_maasai",
+      "original_input": "audit/existing_atlas_sources.json",
+      "original_locator": "/being_maasai",
+      "original_url": "https://history.wisc.edu/publications/being-maasai-ethnicity-and-identity-in-east-africa/",
+      "original_input_commit": "c87f8e2afe54c8735c78e3137b69e27b1e1cb91a",
+      "original_input_sha256": "3f9ccfa467e1f32748ca9cd77bbb64bd7ebfbaf2f65d87a9aba64d94594c7675",
+      "current_url": "https://www.ohioswallow.com/9780821410455/being-maasai/"
+    }
+  ],
+  "historical_claims_changed": 0
+}

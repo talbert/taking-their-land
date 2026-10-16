@@ -1,0 +1,16 @@
+[
+  {
+    "case_id": "asia-han-hexi-conquest-tuntian-121-bce-onward",
+    "field": "contested",
+    "before": "The sources establish conquest, state institutions, and durable colonization, but they do not provide resident-removal totals, parcel transfers, settler counts, or the fate of each Xiongnu or oasis community. The public family is therefore Conquest and incorporation, while the frozen v5 statistical row retains its earlier Settler replacement assignment until the next release. The 220 CE endpoint is a dynastic transition bound, not a simultaneous end to every installation.",
+    "after": "The sources establish conquest, state institutions, and durable colonization, but they do not provide resident-removal totals, parcel transfers, settler counts, or the fate of each Xiongnu or oasis community. The reviewed family is Conquest and incorporation in both the atlas and second_pass_v7_676. The 220 CE endpoint is a dynastic transition bound, not a simultaneous end to every installation.",
+    "reason": "Remove superseded pending-release note; retain historical evidence qualifications."
+  },
+  {
+    "case_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+    "field": "contested",
+    "before": "The detailed 1 November 2023–31 October 2024 reporting window does not establish household membership or parcel-by-parcel outcomes and must not be mistaken for the system's onset or endpoint. The ICJ record supports the 1967 public start; that start requires a next-release date and era-bucket correction, while frozen v5 trait values remain displayed with their evidence ranges rather than silently rescored.",
+    "after": "The detailed 1 November 2023–31 October 2024 reporting window does not establish household membership or parcel-by-parcel outcomes and must not be mistaken for the system's onset or endpoint. The ICJ record supports the 1967 start. The second_pass_v7_676 chronology addendum applies that onset and its era classification; 2024 remains an evidence cutoff, not a terminal year. The displayed traits retain their reviewed evidence ranges and qualifications.",
+    "reason": "Remove superseded pending-release note; retain historical evidence qualifications."
+  }
+]

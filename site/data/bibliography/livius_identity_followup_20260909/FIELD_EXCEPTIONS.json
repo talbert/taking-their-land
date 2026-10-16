@@ -1,0 +1,38 @@
+{
+  "open": 4,
+  "records": [
+    {
+      "work_id": "access:8ad2780a89a28f0fd6b8",
+      "field": "underlying_print_edition",
+      "status": "unresolved",
+      "basis": "The selected Appian component page credits Horace White but does not identify the exact printed edition underlying this online text. No edition year or imprint is inferred from the translator name.",
+      "current_value": null,
+      "action": "Identify the hosting transcription\u2019s exact edition only if a documented edition statement or matched scan establishes it."
+    },
+    {
+      "work_id": "access:aba3ea9960daf2f7a430",
+      "field": "underlying_print_edition",
+      "status": "unresolved",
+      "basis": "The selected Appian component page credits Horace White but does not identify the exact printed edition underlying this online text. No edition year or imprint is inferred from the translator name.",
+      "current_value": null,
+      "action": "Identify the hosting transcription\u2019s exact edition only if a documented edition statement or matched scan establishes it."
+    },
+    {
+      "work_id": "access:c756a7649b41e12c65a9",
+      "field": "underlying_print_edition",
+      "status": "unresolved",
+      "basis": "The selected Appian component page credits Horace White but does not identify the exact printed edition underlying this online text. No edition year or imprint is inferred from the translator name.",
+      "current_value": null,
+      "action": "Identify the hosting transcription\u2019s exact edition only if a documented edition statement or matched scan establishes it."
+    },
+    {
+      "work_id": "url:livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26",
+      "field": "underlying_print_edition",
+      "status": "unresolved",
+      "basis": "The selected Appian component page credits Horace White but does not identify the exact printed edition underlying this online text. No edition year or imprint is inferred from the translator name.",
+      "current_value": null,
+      "action": "Identify the hosting transcription\u2019s exact edition only if a documented edition statement or matched scan establishes it."
+    }
+  ],
+  "historical_case_holds_added": 0
+}

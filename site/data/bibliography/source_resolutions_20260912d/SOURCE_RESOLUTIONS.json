@@ -1,0 +1,31 @@
+{
+  "status": "main_review_accepted",
+  "resolved_at": "2026-09-12T06:49:52.009076+00:00",
+  "metadata_date_resolution": {
+    "work_id": "url:brill.com/downloadpdf/display/title/64787.pdf",
+    "field": "preferred_exact_print_day",
+    "value": "2024-12-06",
+    "source_url": "https://brill.com/browse?level=parent&pageSize=10&pubschedule_1=upcoming&pubschedule_2=new&pubschedule_3=published&sort=datedescending&t=07-05",
+    "basis": "Publisher-indexed catalogue identifies hardback ISBN 9789004545168, publication December 6, 2024. Ebook date and 2025 copyright/book year remain separate.",
+    "previous_open_fields": 133,
+    "current_open_fields": 132
+  },
+  "map_content_resolution": {
+    "id": "CAIRO-MAP-LABEL-COMPONENT-MISMATCH",
+    "work_id": "access:fa6306d6fcb5d3dead56",
+    "status": "resolved_linked_map_identifies_089_001",
+    "source_url": "https://whc.unesco.org/document/100855",
+    "source_pdf_sha256": "96b657132d8b879b7aeff03fef89d8cfee4c540fb6f4f55bf097db14e1cf6d30",
+    "source_page": 1,
+    "component_name": "Al-Fustat",
+    "component_serial_as_printed": "089-001",
+    "area_hectares_as_printed": 54.49,
+    "printed_scale_denominator": 2500,
+    "data_processed_as_printed": "EAIS, October 2007",
+    "pdf_file_creation_metadata": "2008-05-05",
+    "limits": "The source map identifies the component; the earlier listing discrepancy remains documented. No external catalogue edit, historical-footprint adoption, point change or current ownership determination. Processing and scanning dates are not the original web-page publication date."
+  },
+  "historical_changes": 0,
+  "independent_review": false,
+  "earlier_packets_preserved": true
+}

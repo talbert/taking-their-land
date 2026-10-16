@@ -1,0 +1,1334 @@
+[
+  {
+    "work_id": "access:3372de2c47ecc5e0e511",
+    "recorded_title": "Joseph Coleman Carter, “Metapontion,” The Oxford History of the Archaic Greek World, vol. 4 (2024)",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/book/58652/chapter-abstract/485302779"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Metapontion",
+      "container_title": "The Oxford History of the Archaic Greek World: Volume IV: Cyrene to Metapontion",
+      "doi": "10.1093/oso/9780199383559.003.0005",
+      "published_date_as_reported": "2024-10-24",
+      "pages_as_reported": "610–799",
+      "container_doi": "10.1093/oso/9780199383559.001.0001",
+      "container_print_available_as_reported": "2025-02-03",
+      "container_online_isbn": "9780197646373",
+      "container_print_isbn": "9780199383559",
+      "author_names_as_supplied": [
+        "Joseph Coleman Carter"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "container_editor_names_as_supplied": [
+        "Paul Cartledge",
+        "Paul Christesen"
+      ],
+      "registry_metadata": {
+        "DOI": "10.1093/oso/9780199383559.003.0005",
+        "type": "book-chapter",
+        "title": [
+          "Metapontion"
+        ],
+        "container-title": [
+          "The Oxford History of the Archaic Greek World"
+        ],
+        "publisher": "Oxford University PressNew York",
+        "page": "610-799",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              3
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/book/58652/chapter-abstract/485302779",
+      "https://api.crossref.org/works/10.1093%2Foso%2F9780199383559.003.0005"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-2.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:95ecfb4ffcd1d7304fac",
+    "recorded_title": "Hansen and Nielsen, eds., An Inventory of Archaic and Classical Poleis (OUP, 2004), Siris entry, p. 293",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/book/47066"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "An Inventory Of Archaic And Classical Poleis: An Investigation Conducted by The Copenhagen Polis Centre for the Danish National Research Foundation",
+      "container_title": null,
+      "doi": "10.1093/oso/9780198140993.001.0001",
+      "published_date_as_reported": "2004-11-11",
+      "pages_as_reported": null,
+      "online_isbn": "9781383004595",
+      "print_isbn": "9780198140993",
+      "publisher": "Oxford University Press",
+      "role_basis": "Copenhagen author-institution repository explicitly labels both contributors as editors; Oxford names both without role markers in the inspected book header.",
+      "name_variant": "The institutional repository spells Hansen’s middle name Hermann; Oxford spells it Herman. Source spellings retained separately.",
+      "author_names_as_supplied": [],
+      "work_type": "edited_book",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "editor_names_as_supplied": [
+        "Mogens Herman Hansen",
+        "Thomas Heine Nielsen"
+      ],
+      "doi_check_status": "publisher_identifier_observed_registry_rate_limited"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/book/47066",
+      "https://researchprofiles.ku.dk/en/publications/an-inventory-of-archaic-and-classical-poleis/",
+      "https://academic.oup.com/book/47066/chapter-abstract/422669955"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-2.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:b1cfdad71d08e898b0aa",
+    "recorded_title": "H. Kathryn Lomas, “Sybaris,” Oxford Classical Dictionary (2016)",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/550566416"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Sybaris",
+      "container_title": "Oxford Classical Dictionary",
+      "doi": "10.1093/acrefore/9780199381135.013.6162",
+      "published_date_as_reported": "2016-03-07",
+      "pages_as_reported": null,
+      "author_names_as_supplied": [
+        "H Kathryn Lomas"
+      ],
+      "work_type": "reference_article",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/acrefore/9780199381135.013.6162",
+        "type": "reference-entry",
+        "title": [
+          "Sybaris"
+        ],
+        "container-title": [
+          "Oxford Classical Dictionary"
+        ],
+        "publisher": "Oxford University PressNew York, NY",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              7
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/550566416",
+      "https://api.crossref.org/works/10.1093%2Facrefore%2F9780199381135.013.6162"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-2.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:c212687d080c15e094dd",
+    "recorded_title": "Forsythe, source-critical control for early Roman annalistic chronology",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/california-scholarship-online/book/15556/chapter-abstract/170259895"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Evolution and Growth of the Roman State, 444–367 b.c.",
+      "container_title": "A Critical History of Early Rome: From Prehistory to the First Punic War",
+      "doi": "10.1525/california/9780520226517.003.0009",
+      "published_date_as_reported": "2005-02-14",
+      "pages_as_reported": "234–267",
+      "chapter_number": "8",
+      "container_doi": "10.1525/california/9780520226517.001.0001",
+      "container_online_isbn": "9780520940291",
+      "container_print_isbn": "9780520226517",
+      "publisher": "University of California Press",
+      "unconfirmed_container_editor_credit_as_displayed": "John Connelly (ed.)",
+      "author_names_as_supplied": [
+        "Gary Forsythe"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "container_editor_names_as_supplied": null,
+      "registry_metadata": {
+        "DOI": "10.1525/california/9780520226517.003.0009",
+        "type": "book-chapter",
+        "title": [
+          "Evolution and Growth of the Roman State, 444–367 b.c."
+        ],
+        "container-title": [
+          "A Critical History of Early RomeFrom Prehistory to the First Punic War"
+        ],
+        "publisher": "University of California Press",
+        "page": "234-267",
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              2,
+              14
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/california-scholarship-online/book/15556/chapter-abstract/170259895",
+      "https://www.ucpress.edu/books/a-critical-history-of-early-rome/paper",
+      "https://api.crossref.org/works/10.1525%2Fcalifornia%2F9780520226517.003.0009"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "browser and web-14.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed.",
+        "The additional John Connelly editor credit is recorded as a platform observation but remains unconfirmed; the separate UC Press paperback listing does not establish that credit or prove it false."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "container_editor_names_as_supplied"
+      ]
+    }
+  },
+  {
+    "work_id": "title:cameron 2018 the hungry steppe",
+    "recorded_title": "Cameron 2018, The Hungry Steppe",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/cornell-scholarship-online/book/15707/chapter-abstract/170492902"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "The Steppe and the Sown: Peasants, Nomads, and the Transformation of the Kazakh Steppe, 1896–1921",
+      "container_title": "The Hungry Steppe: Famine, Violence, and the Making of Soviet Kazakhstan",
+      "doi": "10.7591/cornell/9781501730436.003.0002",
+      "published_date_as_reported": "2018-11-15",
+      "pages_as_reported": "19–44",
+      "chapter_number": "1",
+      "container_doi": "10.7591/cornell/9781501730436.001.0001",
+      "platform_collection": "Cornell Scholarship Online",
+      "author_names_as_supplied": [
+        "Sarah Cameron"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.7591/cornell/9781501730436.003.0002",
+        "type": "book-chapter",
+        "title": [
+          "The Steppe and the Sown"
+        ],
+        "container-title": [
+          "The Hungry Steppe"
+        ],
+        "publisher": "Cornell University Press",
+        "page": "19-44",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              15
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              23
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/cornell-scholarship-online/book/15707/chapter-abstract/170492902",
+      "https://api.crossref.org/works/10.7591%2Fcornell%2F9781501730436.003.0002"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "browser",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:canny 2001 making ireland british",
+    "recorded_title": "Canny 2001, Making Ireland British",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/book/9765"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Making Ireland British, 1580-1650",
+      "container_title": null,
+      "doi": "10.1093/acprof:oso/9780198200918.001.0001",
+      "published_date_as_reported": "2001-05-03",
+      "pages_as_reported": null,
+      "online_isbn": "9780191718274",
+      "print_isbn": "9780198200918",
+      "publisher": "Oxford University Press",
+      "author_names_as_supplied": [
+        "Nicholas Canny"
+      ],
+      "work_type": "book",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/acprof:oso/9780198200918.001.0001",
+        "type": "monograph",
+        "title": [
+          "Making Ireland British, 1580-1650"
+        ],
+        "container-title": [],
+        "publisher": "Oxford University Press",
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              5,
+              3
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/book/9765",
+      "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780198200918.001.0001"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-8.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:cornell scholarship online dutch guiana plantation society and slavery",
+    "recorded_title": "Cornell Scholarship Online, Dutch Guiana plantation society and slavery",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/cornell-scholarship-online/book/19035/chapter-abstract/177425275"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "The Guianas",
+      "container_title": "Realm between Empires: The Second Dutch Atlantic, 1680-1815",
+      "doi": "10.7591/cornell/9781501705267.003.0005",
+      "published_date_as_reported": "2018-05-15",
+      "pages_as_reported": "121–162",
+      "chapter_number": "4",
+      "container_doi": "10.7591/cornell/9781501705267.001.0001",
+      "container_online_isbn": "9781501719592",
+      "container_print_isbn": "9781501705267",
+      "platform_collection": "Cornell Scholarship Online",
+      "author_names_as_supplied": [
+        "Wim Klooster",
+        "Gert Oostindie"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "doi_check_status": "publisher_identifier_observed_registry_rate_limited"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/cornell-scholarship-online/book/19035/chapter-abstract/177425275"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-8.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:local institutions and human capital formation in pre industrial societies evidence from valencia",
+    "recorded_title": "Local institutions and human capital formation in pre-industrial societies: evidence from Valencia",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/ereh/article/28/2/135/7379742"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Local institutions and human capital formation in pre-industrial societies: evidence from Valencia",
+      "container_title": "European Review of Economic History",
+      "doi": "10.1093/ereh/head022",
+      "published_date_as_reported": "2023-11-08",
+      "pages_as_reported": "135–162",
+      "volume": "28",
+      "issue": "2",
+      "issue_date": "2024-05",
+      "received_as_reported": "2022-11-03",
+      "revision_received_as_reported": "2023-09-22",
+      "author_names_as_supplied": [
+        "Francisco J Beltrán Tapia",
+        "Alfonso Díez-Minguela",
+        "Alicia Gómez-Tello",
+        "Julio Martinez-Galarraga",
+        "Daniel A Tirado-Fabregat"
+      ],
+      "work_type": "journal_article",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/ereh/head022",
+        "type": "journal-article",
+        "title": [
+          "Local institutions and human capital formation in pre-industrial societies: evidence from Valencia"
+        ],
+        "container-title": [
+          "European Review of Economic History"
+        ],
+        "publisher": "Oxford University Press (OUP)",
+        "page": "135-162",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              8
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              8
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/ereh/article/28/2/135/7379742",
+      "https://api.crossref.org/works/10.1093%2Fereh%2Fhead022"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-9.txt and browser disclosure inspection",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed.",
+        "Valencia is the article’s study geography. Broader Iberian use requires its specific contextual passages; the metadata update does not transfer its estimates outside Valencia."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:oxford scholarship online conquest and colonial settlement in medieval wales",
+    "recorded_title": "Oxford Scholarship Online, conquest and colonial settlement in medieval Wales",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/book/26898/chapter-abstract/195967840"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "The Anglo-Norman Settlement of Wales and the Making of Marcher Society",
+      "container_title": "The Age of Conquest: Wales 1063-1415",
+      "doi": "10.1093/acprof:oso/9780198208785.003.0004",
+      "published_date_as_reported": "2000-09-07",
+      "pages_as_reported": "82–108",
+      "chapter_number": "4",
+      "container_doi": "10.1093/acprof:oso/9780198208785.001.0001",
+      "author_names_as_supplied": [
+        "R. R. Davies"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/acprof:oso/9780198208785.003.0004",
+        "type": "book-chapter",
+        "title": [
+          "The Anglo-Norman Settlement of Wales and the Making of Marcher Society"
+        ],
+        "container-title": [
+          "The Age of Conquest"
+        ],
+        "publisher": "Oxford University Press",
+        "page": "82-107",
+        "published-print": {
+          "date-parts": [
+            [
+              2000,
+              9,
+              7
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata",
+      "preferred_page_range": null
+    },
+    "verification_urls": [
+      "https://academic.oup.com/book/26898/chapter-abstract/195967840",
+      "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780198208785.003.0004"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "browser",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed.",
+        "Oxford shows pages 82–108; Crossref shows 82-107. Both remain attributed; the preferred range is unset."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "preferred_page_range"
+      ]
+    }
+  },
+  {
+    "work_id": "title:oxford scholarship online french caribbean plantation colonization",
+    "recorded_title": "Oxford Scholarship Online, French Caribbean plantation colonization",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/book/45803/chapter-abstract/400650671"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Forced Settlement and Colonial Occupation under French Rule: From Saint-Domingue (Haiti) and the French Antilles to Algeria and Sub-Saharan Africa",
+      "container_title": "Ruling Emancipated Slaves and Indigenous Subjects: The Divergent Legacies of Forced Settlement and Colonial Occupation in the Global South",
+      "doi": "10.1093/oso/9780197673027.003.0007",
+      "published_date_as_reported": "2023-04-20",
+      "pages_as_reported": "201–244",
+      "chapter_number": "7",
+      "container_doi": "10.1093/oso/9780197673027.001.0001",
+      "author_names_as_supplied": [
+        "Olukunle P. Owolabi"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/oso/9780197673027.003.0007",
+        "type": "book-chapter",
+        "title": [
+          "Forced Settlement and Colonial Occupation under French Rule"
+        ],
+        "container-title": [
+          "Ruling Emancipated Slaves and Indigenous Subjects"
+        ],
+        "publisher": "Oxford University PressNew York",
+        "page": "201-244",
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              11
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/book/45803/chapter-abstract/400650671",
+      "https://api.crossref.org/works/10.1093%2Foso%2F9780197673027.003.0007"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "browser",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:oxford scholarship online german colonialism and plantation labour in samoa",
+    "recorded_title": "Oxford Scholarship Online, German colonialism and plantation labour in Samoa",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/book/60083/chapter-abstract/519686296"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Plantation or Settler Colonialism?",
+      "container_title": "A Pacific Power: Liberal Imperialism in German Samoa",
+      "doi": "10.1093/9780198936305.003.0003",
+      "published_date_as_reported": "2025-05-19",
+      "pages_as_reported": "38–61",
+      "chapter_number": "2",
+      "container_doi": "10.1093/9780198936305.001.0001",
+      "toc_related_component": "6 Chinese Workers and Settler Violence",
+      "author_names_as_supplied": [
+        "Matthew P Fitzpatrick"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/9780198936305.003.0003",
+        "type": "book-chapter",
+        "title": [
+          "Plantation or Settler Colonialism?"
+        ],
+        "container-title": [
+          "A Pacific Power"
+        ],
+        "publisher": "Oxford University PressOxford",
+        "page": "38-61",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              19
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/book/60083/chapter-abstract/519686296",
+      "https://api.crossref.org/works/10.1093%2F9780198936305.003.0003"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "browser",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed.",
+        "The linked component is chapter 2. The contents separately list chapter 6, Chinese Workers and Settler Violence; exact labour-support passages remain a separate question."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:oxford scholarship online medieval eastward settlement and colonization",
+    "recorded_title": "Oxford Scholarship Online, medieval eastward settlement and colonization",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/book/11459/chapter-abstract/160163144"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "The German Colonization of the East",
+      "container_title": "Marginal Europe: The Contribution of Marginal Lands since the Middle Ages",
+      "doi": "10.1093/acprof:oso/9780198206385.003.0007",
+      "published_date_as_reported": "1997-05-15",
+      "pages_as_reported": "144–160",
+      "chapter_number": "6",
+      "container_doi": "10.1093/acprof:oso/9780198206385.001.0001",
+      "chapter_byline_as_displayed": "SIDNEY POLLARD",
+      "author_names_as_supplied": [
+        "Sidney Pollard"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/acprof:oso/9780198206385.003.0007",
+        "type": "book-chapter",
+        "title": [
+          "The German Colonization of the East"
+        ],
+        "container-title": [
+          "Marginal Europe"
+        ],
+        "publisher": "Oxford University Press",
+        "page": "144-160",
+        "published-print": {
+          "date-parts": [
+            [
+              1997,
+              5,
+              15
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/book/11459/chapter-abstract/160163144",
+      "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780198206385.003.0007"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "browser",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:oxford scholarship online russian imperial conquest and colonization of crimea",
+    "recorded_title": "Oxford Scholarship Online, Russian imperial conquest and colonization of Crimea",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/book/2312/chapter-abstract/142447607"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Dispossession: The Loss of the Crimean Homeland",
+      "container_title": "The Crimean Tatars: From Soviet Genocide to Putin's Conquest",
+      "doi": "10.1093/acprof:oso/9780190494704.003.0002",
+      "published_date_as_reported": "2015-12-01",
+      "pages_as_reported": "9–18",
+      "chapter_number": "2",
+      "container_doi": "10.1093/acprof:oso/9780190494704.001.0001",
+      "container_online_isbn": "9780190494735",
+      "container_print_isbn": "9780190494704",
+      "author_names_as_supplied": [
+        "Brian Glyn Williams"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/acprof:oso/9780190494704.003.0002",
+        "type": "book-chapter",
+        "title": [
+          "Dispossession"
+        ],
+        "container-title": [
+          "The Crimean Tatars"
+        ],
+        "publisher": "Oxford University Press",
+        "page": "9-18",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              1
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/book/2312/chapter-abstract/142447607",
+      "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780190494704.003.0002"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-10.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:pueblos perdidos displacement at the panama canal",
+    "recorded_title": "Pueblos Perdidos: displacement at the Panama Canal",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/mit-press-scholarship-online/book/20164/chapter-abstract/179176515"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Pueblos Perdidos, or How the Lake Ate the River",
+      "container_title": "Beyond the Big Ditch: Politics, Ecology, and Infrastructure at the Panama Canal",
+      "doi": "10.7551/mitpress/9780262028110.003.0007",
+      "published_date_as_reported": "2014-11-28",
+      "pages_as_reported": null,
+      "chapter_number": "7",
+      "container_doi": "10.7551/mitpress/9780262028110.001.0001",
+      "platform_collection": "MIT Press Scholarship Online",
+      "page_range_status": "Not displayed in the inspected browser metadata; registry check pending.",
+      "author_names_as_supplied": [
+        "Ashley Carse"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "doi_check_status": "publisher_identifier_observed_registry_rate_limited"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/mit-press-scholarship-online/book/20164/chapter-abstract/179176515"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "browser",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed.",
+        "No chapter page range was displayed in the inspected metadata; its registry request was rate-limited. The page field remains unknown."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "pages_as_reported"
+      ]
+    }
+  },
+  {
+    "work_id": "title:sorkin jewish emancipation maghreb and mashreq",
+    "recorded_title": "Sorkin, Jewish Emancipation: Maghreb and Mashreq",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/princeton-scholarship-online/book/33984/chapter-abstract/288867341"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Maghreb and Mashreq",
+      "container_title": "Jewish Emancipation: A History Across Five Centuries",
+      "doi": "10.23943/princeton/9780691164946.003.0026",
+      "published_date_as_reported": "2019-09-10",
+      "pages_as_reported": "320–333",
+      "chapter_number": "Twenty-Five",
+      "container_doi": "10.23943/princeton/9780691164946.001.0001",
+      "container_online_isbn": "9780691189673",
+      "container_print_isbn": "9780691164946",
+      "platform_collection": "Princeton Scholarship Online",
+      "author_names_as_supplied": [
+        "David Sorkin"
+      ],
+      "work_type": "chapter",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "doi_check_status": "publisher_identifier_observed_registry_rate_limited"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/princeton-scholarship-online/book/33984/chapter-abstract/288867341"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-10.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548066271",
+    "recorded_title": "Modern cross-check source 1: academic.oup.com",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548066271"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Antium",
+      "container_title": "Oxford Classical Dictionary",
+      "doi": "10.1093/acrefore/9780199381135.013.536",
+      "published_date_as_reported": "2015-12-22",
+      "pages_as_reported": null,
+      "author_names_as_supplied": [
+        "Edward Togo Salmon",
+        "T W Potter"
+      ],
+      "work_type": "reference_article",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "doi_check_status": "publisher_identifier_observed_registry_rate_limited"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548066271"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-11.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548509188",
+    "recorded_title": "Primary source 2: academic.oup.com",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548509188"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Brundisium",
+      "container_title": "Oxford Classical Dictionary",
+      "doi": "10.1093/acrefore/9780199381135.013.1184",
+      "published_date_as_reported": "2015-12-22",
+      "pages_as_reported": null,
+      "author_names_as_supplied": [
+        "H Kathryn Lomas"
+      ],
+      "work_type": "reference_article",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "doi_check_status": "publisher_identifier_observed_registry_rate_limited"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548509188"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-11.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548510756",
+    "recorded_title": "Primary source 3: academic.oup.com",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548510756"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Buxentum",
+      "container_title": "Oxford Classical Dictionary",
+      "doi": "10.1093/acrefore/9780199381135.013.1202",
+      "published_date_as_reported": "2015-12-22",
+      "pages_as_reported": null,
+      "author_names_as_supplied": [
+        "H Kathryn Lomas"
+      ],
+      "work_type": "reference_article",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "doi_check_status": "publisher_identifier_observed_registry_rate_limited"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548510756"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-11.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548510989",
+    "recorded_title": "Modern cross-check source 1: academic.oup.com",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548510989"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Ariminum",
+      "container_title": "Oxford Classical Dictionary",
+      "doi": "10.1093/acrefore/9780199381135.013.728",
+      "published_date_as_reported": "2015-12-22",
+      "pages_as_reported": null,
+      "author_names_as_supplied": [
+        "Edward Togo Salmon",
+        "T W Potter"
+      ],
+      "work_type": "reference_article",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/acrefore/9780199381135.013.728",
+        "type": "reference-entry",
+        "title": [
+          "Ariminum"
+        ],
+        "container-title": [
+          "Oxford Classical Dictionary"
+        ],
+        "publisher": "Oxford University PressNew York, NY",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              22
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548510989",
+      "https://api.crossref.org/works/10.1093%2Facrefore%2F9780199381135.013.728"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-11.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548725116",
+    "recorded_title": "Primary source 2: academic.oup.com",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548725116"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Croton",
+      "container_title": "Oxford Classical Dictionary",
+      "doi": "10.1093/acrefore/9780199381135.013.1941",
+      "published_date_as_reported": "2015-12-22",
+      "pages_as_reported": null,
+      "author_names_as_supplied": [
+        "H Kathryn Lomas"
+      ],
+      "work_type": "reference_article",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "doi_check_status": "publisher_identifier_observed_registry_rate_limited"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter-abstract/548725116"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-12.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:academic.oup.com/edited-volume/61673/chapter/549687296",
+    "recorded_title": "Primary source 2: academic.oup.com",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter/549687296"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Narnia",
+      "container_title": "Oxford Classical Dictionary",
+      "doi": "10.1093/acrefore/9780199381135.013.4336",
+      "published_date_as_reported": "2016-03-07",
+      "pages_as_reported": null,
+      "author_names_as_supplied": [
+        "Edward Togo Salmon",
+        "T W Potter"
+      ],
+      "work_type": "reference_article",
+      "hosting_platform": "Oxford Academic",
+      "metadata_accessed": "2026-09-09",
+      "registry_metadata": {
+        "DOI": "10.1093/acrefore/9780199381135.013.4336",
+        "type": "reference-entry",
+        "title": [
+          "Narnia"
+        ],
+        "container-title": [
+          "Oxford Classical Dictionary"
+        ],
+        "publisher": "Oxford University PressNew York, NY",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              7
+            ]
+          ]
+        }
+      },
+      "doi_check_status": "publisher_identifier_matched_registered_metadata"
+    },
+    "verification_urls": [
+      "https://academic.oup.com/edited-volume/61673/chapter/549687296",
+      "https://api.crossref.org/works/10.1093%2Facrefore%2F9780199381135.013.4336"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "publisher_work_component_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "web-12.txt",
+      "metadata_limits": [
+        "Original work ID, recorded label, access URL and source occurrences are preserved. Metadata does not newly verify historical claims or exact case passages.",
+        "Source-labelled publication dates, registry print/online dates and issue dates retain separate roles; no uninspected printed copy or edition equivalence is implied.",
+        "Direct page requests returned HTTP 403. Metadata grounding uses indexed publisher responses and seven actual public browser metadata pages; one article’s disclosures were also read. No public archive URL is confirmed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  }
+]

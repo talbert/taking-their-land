@@ -1,0 +1,37 @@
+{
+  "build": "20260912d",
+  "prior_open_fields": 129,
+  "additional_open_fields": 3,
+  "total_open_fields": 132,
+  "records": [
+    {
+      "review_id": "bibliography_brill_20260912",
+      "work_id": "access:d9e3a18069a93cd5730d",
+      "field": "online_first_publication_date",
+      "status": "unknown",
+      "reason": "The 2021 copyright and acceptance months do not establish an online-first day. The registry supplies a 2022 issue print date and no online-first date."
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "work_id": "title:contacts of languages in the hittite empire",
+      "field": "preferred_exact_print_day",
+      "status": "unknown",
+      "reason": "The book registry records July 3, 2023 under print, while the publisher copyright-page listing gives June 23. Both observations are retained; a preferred exact print day is not silently chosen."
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "work_id": "title:tero alstola judeans in babylonia a study of deportees in the sixth and fifth centuries bce brill 2020",
+      "field": "preferred_exact_print_day",
+      "status": "unknown",
+      "reason": "The parent is a 2020 book; its registry records January 1, the platform dates the ebook December 16, 2019, and the selected Introduction registry records December 9. These roles differ; the exact print release day is not independently established from the available pages."
+    }
+  ],
+  "resolved_question": {
+    "work_id": "url:brill.com/downloadpdf/display/title/64787.pdf",
+    "field": "preferred_exact_print_day",
+    "value": "2024-12-06",
+    "resolution": "SOURCE_RESOLUTIONS.json"
+  },
+  "superseded_prepared_register": "../ubc_brill_20260912c/FIELD_QUESTIONS.json",
+  "scope": "Effective open preferred fields after the later source review. The older four-question register is preserved as review history."
+}

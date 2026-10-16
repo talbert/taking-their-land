@@ -1,0 +1,16 @@
+{
+  "build": "20260912e",
+  "required": 0,
+  "offered": 1,
+  "registry_changes": 0,
+  "records": [
+    {
+      "id": "THOMPSON-FOURTH-EDITION-REVISER",
+      "source_id": "thompson_sa",
+      "current": "Thompson 2014, A History of South Africa",
+      "offered": "Leonard Thompson, A History of South Africa, Fourth Edition, revised by Lynn Berat (Yale University Press, 2014).",
+      "basis": "Fuller bibliographic identification; current short author/year label remains accurate.",
+      "application": "available_refinement_existing_display_retained"
+    }
+  ]
+}

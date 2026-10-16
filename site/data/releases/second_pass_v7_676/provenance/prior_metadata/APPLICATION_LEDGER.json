@@ -1,0 +1,1771 @@
+{
+  "schema": "prior-metadata-application-v1",
+  "status": "APPLIED_PRIVATELY_DIAGNOSTIC_ADDENDUM_PENDING",
+  "input_sha256": {
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/release_manifest.json": "1de488fead046484b7aebddd30eda0db4dbb544841f632c2a86b39db4c4bd492",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/PRIOR_METADATA_CARRY_FORWARD_CHECK.json": "01b50efe698fbbdc721309296d58763845cb443a0efbdece98cf38fea238936d",
+    "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+    "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+    "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+    "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+    "analysis/second_pass/v5/CAPE_RELEASE_METADATA_CORRECTIONS.json": "16529acd61400a1b18616329ee88062d2614fc142b9b67ce167f4ee53670d82d",
+    "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+    "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+    "audit/v5_authored_atlas_cases.json": "7442b8695e10c6d2730b0759fd2346f19c663c92a297a2c370f9c19e4f54d7ff",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/events_enriched.json": "4f1ea3bb3755ea09f7cac628484d8ed90cd2cf148638eb0004f2aeb67dd638e8",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/atlas_profiles.json": "234dc8f8036fa3f54072c32a38ef63382fa7ed4700f43bbc75f75d8a51a3fdd0",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/corpus_v2.json": "daeda53679eccc1cf118c312b09a1e27510caabba1f99636f9f7797af6f8e25e",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/analysis_metadata.json": "7c127236226e28caefcb703e99e58944ff12e0b4b44ae6a4504ecb3069681750",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/F8_open_raw_followups.json": "50c5cb2274c38421e22b0e80a148f428b9aab590e0b920402780402bf8da39fa",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/publication_carry_through.json": "56aaed67caa3b9a97c7e947034271a2f86b9ab9cdb9d66e69184b61038a78f2f",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/scores_v2.csv": "0212984016e8aabd6feb46edfd13c8fdf2cb1160c2ff5e17a85fff91a232d6c3",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/na_types_v2.csv": "83884f2ca6d0e370df42d73561fb65ee74e92ecdd92c45258a696bfe139a9ef6"
+  },
+  "request_count": 43,
+  "applied_requests": 33,
+  "applied_event_count": 12,
+  "already_satisfied_or_unchanged": 9,
+  "existing_raw_followup_kept_open": 1,
+  "publication_field_changes": 59,
+  "dependent_field_changes": 20,
+  "requests": [
+    {
+      "request_index": 0,
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "start",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 1,
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "end",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 2,
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_label",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 3,
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_numeric_proxy_used",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 4,
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_numeric_proxy_basis",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 5,
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "start",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 6,
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "end",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "2024 remains the evidence cutoff, not an observed terminal date."
+    },
+    {
+      "request_index": 7,
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_label",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 8,
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_numeric_proxy_used",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 9,
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_numeric_proxy_basis",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 10,
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "era_bucket_v2",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 11,
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 12,
+      "event_id": "prospective-bikini-nuclear-test-displacement",
+      "field": "name",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 13,
+      "event_id": "prospective-enewetak-nuclear-test-displacement",
+      "field": "name",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 14,
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "name",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 2
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 15,
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "outcome_and_route",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 3
+      },
+      "public_text_sha256": "7442b8695e10c6d2730b0759fd2346f19c663c92a297a2c370f9c19e4f54d7ff",
+      "unchanged_public_route": [
+        {
+          "from": {
+            "name": "Enjebi homeland",
+            "lon": 162.2403,
+            "lat": 11.6636
+          },
+          "to": {
+            "name": "Ujelang",
+            "lon": 160.9858,
+            "lat": 9.7685
+          },
+          "kind": "forced"
+        },
+        {
+          "from": {
+            "name": "Ujelang",
+            "lon": 160.9858,
+            "lat": 9.7685
+          },
+          "to": {
+            "name": "Enewetak-polity islands",
+            "lon": 162.3703,
+            "lat": 11.4008
+          },
+          "kind": "movement"
+        }
+      ],
+      "route_limit": "The map shows the 1947 removal to Ujelang and the 1980 resettlement on islands within the Enewetak polity’s homeland. There is deliberately no completed line back to Enjebi: the homeland-return claim remained unresolved.",
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 16,
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "name",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 4
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 17,
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "actors_and_quantities",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 5
+      },
+      "public_text_sha256": "7442b8695e10c6d2730b0759fd2346f19c663c92a297a2c370f9c19e4f54d7ff",
+      "unchanged_public_route": [
+        {
+          "from": {
+            "name": "Rongelap",
+            "lon": 166.9494,
+            "lat": 11.4877
+          },
+          "to": {
+            "name": "Kwajalein",
+            "lon": 167.735,
+            "lat": 8.716
+          },
+          "kind": "forced"
+        },
+        {
+          "from": {
+            "name": "Ailinginae",
+            "lon": 166.32,
+            "lat": 11.12
+          },
+          "to": {
+            "name": "Kwajalein",
+            "lon": 167.735,
+            "lat": 8.716
+          },
+          "kind": "forced"
+        },
+        {
+          "from": {
+            "name": "Kwajalein",
+            "lon": 167.735,
+            "lat": 8.716
+          },
+          "to": {
+            "name": "Ejit",
+            "lon": 171.3505,
+            "lat": 7.1249
+          },
+          "kind": "forced"
+        },
+        {
+          "from": {
+            "name": "Ejit",
+            "lon": 171.3505,
+            "lat": 7.1249
+          },
+          "to": {
+            "name": "Rongelap",
+            "lon": 166.9494,
+            "lat": 11.4877
+          },
+          "kind": "movement"
+        },
+        {
+          "from": {
+            "name": "Rongelap",
+            "lon": 166.9494,
+            "lat": 11.4877
+          },
+          "to": {
+            "name": "Mejatto",
+            "lon": 166.8749,
+            "lat": 9.3117
+          },
+          "kind": "forced"
+        }
+      ],
+      "route_limit": "The ordered segments show the documented community chain. Ailinginae is marked at atoll scale because the report does not identify the occupied islet. No route is invented for the approximately 200 people who were absent during Castle Bravo and joined the 1957 return.",
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 18,
+      "event_id": "prospective-bikini-nuclear-test-displacement",
+      "field": "F8_coerced_exogenous_labor",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 6
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "Accepted resolved F8 already structural-NA; no raw-code closure inferred."
+    },
+    {
+      "request_index": 19,
+      "event_id": "prospective-enewetak-nuclear-test-displacement",
+      "field": "F8_coerced_exogenous_labor",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 6
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "Accepted resolved F8 already structural-NA; no raw-code closure inferred."
+    },
+    {
+      "request_index": 20,
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "F8_coerced_exogenous_labor",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 6
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "Accepted resolved F8 already structural-NA; no raw-code closure inferred."
+    },
+    {
+      "request_index": 21,
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "F8_coerced_exogenous_labor",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 6
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "Accepted resolved F8 already structural-NA; no raw-code closure inferred."
+    },
+    {
+      "request_index": 22,
+      "event_id": "prospective-bikini-nuclear-test-displacement",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 7
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 23,
+      "event_id": "prospective-enewetak-nuclear-test-displacement",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 7
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 24,
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 7
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 25,
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 7
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 26,
+      "event_id": "prospective-circassian-danube-dobruja-agricultural-settlement",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 27,
+      "event_id": "prospective-circassian-danube-serbian-border-settlement",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 28,
+      "event_id": "prospective-circassian-danube-dobruja-agricultural-settlement",
+      "field": "agents",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 29,
+      "event_id": "prospective-circassian-uzunyayla-collective-settlement",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 2
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 30,
+      "event_id": "prospective-circassian-uzunyayla-collective-settlement",
+      "field": "victims",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 3
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 31,
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "name",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 4
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 32,
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "mechanism",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 5
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 33,
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "agents",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 6
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 34,
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 7
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 35,
+      "event_id": "prospective-saint-pierre-miquelon-british-deportation-1778",
+      "field": "agents",
+      "authority": {
+        "path": "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+        "correction_index": 0
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 36,
+      "event_id": "prospective-saint-pierre-miquelon-british-deportation-1778",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+        "correction_index": 1
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 37,
+      "event_id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+        "correction_index": 2
+      },
+      "status": "accepted_request_applied"
+    },
+    {
+      "request_index": 38,
+      "event_id": "south-africa-cape-khoekhoe-land-labor-dispossession-1652-1806",
+      "field": "public_F8_imported_unfree_labor",
+      "authority": {
+        "path": "analysis/second_pass/v5/CAPE_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "16529acd61400a1b18616329ee88062d2614fc142b9b67ce167f4ee53670d82d",
+        "correction_index": 0
+      },
+      "status": "existing_raw_followup_kept_open",
+      "reason": "Existing Cape raw-F8 obligation; later accepted qualitative display is not replaced by the obsolete zero."
+    },
+    {
+      "request_index": 39,
+      "event_id": "asia-han-hexi-conquest-tuntian-121-bce-onward",
+      "field": "primary_family",
+      "authority": {
+        "path": "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+        "correction_index": 0
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "Already applied in the preserved five-decision publication carry-through."
+    },
+    {
+      "request_index": 40,
+      "event_id": "asia-han-hexi-conquest-tuntian-121-bce-onward",
+      "field": "sources",
+      "authority": {
+        "path": "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+        "correction_index": 1
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "Already applied in the preserved five-decision publication carry-through."
+    },
+    {
+      "request_index": 41,
+      "event_id": "asia-han-hexi-conquest-tuntian-121-bce-onward",
+      "field": "agents",
+      "authority": {
+        "path": "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+        "correction_index": 2
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "Already applied in the preserved five-decision publication carry-through."
+    },
+    {
+      "request_index": 42,
+      "event_id": "asia-han-western-regions-oasis-garrisons-tuntian",
+      "field": "agents",
+      "authority": {
+        "path": "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+        "correction_index": 3
+      },
+      "status": "already_satisfied_or_unchanged",
+      "reason": "Already applied in the preserved five-decision publication carry-through."
+    }
+  ],
+  "changes": [
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "start",
+      "before_present": true,
+      "before": 1449,
+      "after": 1488,
+      "request_index": 0,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "reason": "Frozen v5 uses 1449 only as a parent-midpoint model coordinate while labeling the operative date unresolved.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "end",
+      "before_present": true,
+      "before": 1449,
+      "after": 1489,
+      "request_index": 1,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "reason": "Frozen v5 uses 1449 only as a parent-midpoint model coordinate while labeling the operative date unresolved.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_label",
+      "before_present": true,
+      "before": "date unresolved",
+      "after": "1488–1489 CE",
+      "request_index": 2,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "reason": "Frozen v5 uses 1449 only as a parent-midpoint model coordinate while labeling the operative date unresolved.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_numeric_proxy_used",
+      "before_present": true,
+      "before": true,
+      "after": false,
+      "request_index": 3,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "reason": "Frozen v5 uses 1449 only as a parent-midpoint model coordinate while labeling the operative date unresolved.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_numeric_proxy_basis",
+      "before_present": true,
+      "before": "nearest reviewed parent midpoint used only as a model coordinate: atlas-canary-islands",
+      "after": "",
+      "request_index": 4,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 0
+      },
+      "reason": "Frozen v5 uses 1449 only as a parent-midpoint model coordinate while labeling the operative date unresolved.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "start",
+      "before_present": true,
+      "before": 2024,
+      "after": 1967,
+      "request_index": 5,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "reason": "Frozen v5 uses the 2024 end of one monitoring window as a model coordinate even though the official record dates the territorial settlement policy from 1967.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_label",
+      "before_present": true,
+      "before": "through 2024 CE",
+      "after": "1967–present; detailed evidence through 2024",
+      "request_index": 7,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "reason": "Frozen v5 uses the 2024 end of one monitoring window as a model coordinate even though the official record dates the territorial settlement policy from 1967.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_numeric_proxy_used",
+      "before_present": true,
+      "before": true,
+      "after": false,
+      "request_index": 8,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "reason": "Frozen v5 uses the 2024 end of one monitoring window as a model coordinate even though the official record dates the territorial settlement policy from 1967.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_numeric_proxy_basis",
+      "before_present": true,
+      "before": "known end used only as a model coordinate; onset year remains unresolved",
+      "after": "",
+      "request_index": 9,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "reason": "Frozen v5 uses the 2024 end of one monitoring window as a model coordinate even though the official record dates the territorial settlement policy from 1967.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "era_bucket_v2",
+      "before_present": true,
+      "before": "1990-present",
+      "after": "1945-1989",
+      "request_index": 10,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "reason": "Frozen v5 uses the 2024 end of one monitoring window as a model coordinate even though the official record dates the territorial settlement policy from 1967.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-israeli-settlements-west-bank-east-jerusalem::SRC-01",
+          "title": "United Nations Office of the High Commissioner for Human Rights, A/HRC/58/73, Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan",
+          "url": "https://documents.un.org/api/symbol/access?l=en&s=A/HRC/58/73&t=pdf:",
+          "locator": "The UN endpoint resolved to the official A/HRC/58/73 body despite returning DOCX rather than PDF, and paragraphs 2-5 and 8-15 were present and usable at the stated locator."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-israeli-settlements-west-bank-east-jerusalem::SRC-PRIOR-METADATA-01",
+          "title": "United Nations Office of the High Commissioner for Human Rights, A/HRC/58/73, Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan",
+          "url": "https://documents.un.org/api/symbol/access?l=en&s=A/HRC/58/73&t=pdf",
+          "locator": "paras. 2–5 and 8–15; reporting window 1 November 2023–31 October 2024"
+        },
+        {
+          "id": "prospective-israeli-settlements-west-bank-east-jerusalem::SRC-PRIOR-METADATA-02",
+          "title": "International Court of Justice, summary of the advisory opinion of 19 July 2024",
+          "url": "https://www.icj-cij.org/node/204176",
+          "locator": "settlement-policy summary, paras. 111–156"
+        }
+      ],
+      "request_index": 11,
+      "authority": {
+        "path": "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+        "correction_index": 1
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-bikini-nuclear-test-displacement",
+      "field": "name",
+      "before_present": true,
+      "before": "U.S. removal of the Bikini community for nuclear testing, serial relocations, attempted return, and renewed removal, 1946–1978",
+      "after": "Bikini nuclear-test displacement and return, 1946–1978",
+      "request_index": 12,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 0
+      },
+      "reason": "The frozen name is accurate but longer and more state-centered than the reviewed public event label.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-enewetak-nuclear-test-displacement",
+      "field": "name",
+      "before_present": true,
+      "before": "U.S. nuclear-test removal of the Enewetak polity to Ujelang and return to its southern-atoll homeland, 1947–1980",
+      "after": "Enewetak nuclear-test displacement and return, 1947–1980",
+      "request_index": 13,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 1
+      },
+      "reason": "The frozen name is accurate but should retain the Enewetak polity as the affected community rather than make the United States the grammatical subject.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "name",
+      "before_present": true,
+      "before": "U.S. nuclear-test removal of the Enjebi polity to Ujelang, constrained return outside its homeland, and continuing Enjebi land-return claim, from 1947",
+      "after": "Enjebi nuclear-test displacement and blocked homeland return, from 1947",
+      "request_index": 14,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 2
+      },
+      "reason": "The frozen phrase constrained return outside its homeland is easy to misread as a completed homeland return and obscures the continuing Enjebi claim.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "summary",
+      "before_present": true,
+      "before": "The opened federal and UN records distinguish the Enjebi polity and homeland from Enewetak, fix the 1947 removal, and document a return only to another polity's islands while Enjebi homeland resettlement remained unfunded. Shared transport and combined return totals are cohort overlap to preserve in scoring, not event duplication.",
+      "after": "United States authorities removed the distinct Enjebi polity from its northern Enewetak Atoll homeland to Ujelang in December 1947. Enjebi people voted in 1979 to return home, but the combined 1980 resettlement placed them only on decontaminated islands within the Enewetak polity’s southern homeland. Federal agencies disagreed about Enjebi’s habitability, Congress did not fund homeland resettlement, and the United Nations reported in 2025 that the Enjebi people remained displaced.",
+      "request_index": 15,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 3
+      },
+      "reason": "Carry the already adjudicated community-chain text verbatim; no invented quantities or routes.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "disputes",
+      "before_present": true,
+      "before": "No terminal year is supported. The opened record lacks an Enjebi-only roster and count, tract-level contamination findings, a complete resettlement-funding history, and evidence on later individual returns. The combined 500-person 1980 return cannot be converted into an Enjebi count.",
+      "after": "No terminal year is supported. The combined 500-person 1980 return figure covers both the Enewetak and Enjebi polities and cannot be converted into an Enjebi count. The map shows resettlement outside the Enjebi homeland and leaves the attempted homeland return visibly incomplete; it does not imply that Enjebi was restored.",
+      "request_index": 15,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 3
+      },
+      "reason": "Carry the already adjudicated community-chain text verbatim; no invented quantities or routes.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "agents",
+      "before_present": true,
+      "before": [
+        "The United States Navy and Trust Territory administration as requisitioning and removal authorities; the United States Departments of Energy, Interior and Defense and Congress as radiological-assessment, cleanup, habitability and funding actors; and the Enjebi Iroij, community leaders and Enjebi people as the displaced polity, voters and land-return claimants."
+      ],
+      "after": [
+        "United States Navy and Trust Territory authorities responsible for requisition and removal",
+        "United States defense, energy, and interior agencies and Congress as cleanup, habitability, and funding actors"
+      ],
+      "request_index": 15,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 3
+      },
+      "reason": "Carry the already adjudicated community-chain text verbatim; no invented quantities or routes.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "victims",
+      "before_present": true,
+      "before": [
+        "The Enjebi people, a polity distinct from Enewetak within the same atoll, removed to Ujelang and later able to live only on decontaminated islands within the Enewetak homeland rather than their own Enjebi homeland. The combined 500-person 1980 return figure is not treated as an Enjebi count."
+      ],
+      "after": [
+        "The Enjebi polity removed from its northern-atoll homeland to Ujelang",
+        "Enjebi people resettled only on islands in the Enewetak polity’s homeland while maintaining a homeland-return claim"
+      ],
+      "request_index": 15,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 3
+      },
+      "reason": "Carry the already adjudicated community-chain text verbatim; no invented quantities or routes.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "name",
+      "before_present": true,
+      "before": "Castle Bravo fallout evacuation of Rongelapese from Rongelap and Ailinginae, 1957 return, and 1985 re-evacuation, 1954–1985",
+      "after": "Castle Bravo displacement of the Rongelapese, 1954–1985",
+      "request_index": 16,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 4
+      },
+      "reason": "The frozen name is accurate but too long for the public event label.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "summary",
+      "before_present": true,
+      "before": "The same community, exposed territories, nuclear trigger, government safety decisions, and continuing land outcome join the 1954 evacuation, 1957 return, and 1985 re-evacuation into one intelligible chain. It remains disjoint from Utirik by population, duration, return history, and later outcome.",
+      "after": "Castle Bravo fallout exposed 82 Rongelapese on Rongelap and Ailinginae in March 1954. United States authorities evacuated them only after a delay, first to Kwajalein and then to Ejit. A government-authorized return to Rongelap followed in 1957, joined by about 200 Rongelapese who had been absent during the test. After later health concerns and unsuccessful relocation requests, the community sought evacuation; Greenpeace carried the 300 remaining residents from Rongelap to Mejatto in 1985.",
+      "request_index": 17,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 5
+      },
+      "reason": "Carry the already adjudicated community-chain text verbatim; no invented quantities or routes.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "disputes",
+      "before_present": true,
+      "before": "The opened passage does not provide a complete roster linking the 82 exposed people, approximately 200 absent returnees, and 300 people evacuated in 1985, and the phase figures must not be summed. It supplies no bounded labor or livelihood evidence and does not resolve individual return, compensation, or present land-access outcomes.",
+      "after": "The 82 exposed residents, about 200 additional 1957 returnees, and 300 people moved in 1985 are phase-specific, overlapping figures and must never be summed. The sources do not provide a complete person-level roster or identify where each absent 1957 returnee came from. The United States made the testing, delayed-evacuation, and return-safety decisions; the Rongelapese community requested the 1985 movement and Greenpeace carried it.",
+      "request_index": 17,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 5
+      },
+      "reason": "Carry the already adjudicated community-chain text verbatim; no invented quantities or routes.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "agents",
+      "before_present": true,
+      "before": [
+        "United States nuclear-testing, Trust Territory, medical and radiological authorities as test, delayed-evacuation and return-safety actors; the Rongelapese community as the exposed, displaced, returning and re-evacuated population; the Nitijela as a relocation petitioner; and Greenpeace as the 1985 evacuation carrier."
+      ],
+      "after": [
+        "United States nuclear-testing, Trust Territory, medical, and radiological authorities",
+        "The Rongelapese community as evacuation petitioners and Greenpeace as the 1985 carrier"
+      ],
+      "request_index": 17,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 5
+      },
+      "reason": "Carry the already adjudicated community-chain text verbatim; no invented quantities or routes.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "victims",
+      "before_present": true,
+      "before": [
+        "The 82 Rongelapese reported on Rongelap and Ailinginae at exposure, together with approximately 200 Rongelapese absent during testing who joined the 1957 return, and the 300 remaining residents evacuated in 1985. These are phase-specific, overlapping figures and are not summed."
+      ],
+      "after": [
+        "82 Rongelapese exposed on Rongelap and Ailinginae in 1954",
+        "About 200 additional Rongelapese joining the 1957 return",
+        "300 remaining residents evacuated from Rongelap to Mejatto in 1985; the phase figures overlap"
+      ],
+      "request_index": 17,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 5
+      },
+      "reason": "Carry the already adjudicated community-chain text verbatim; no invented quantities or routes.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-bikini-nuclear-test-displacement",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-bikini-nuclear-test-displacement::SRC-01",
+          "title": "OHCHR, A/HRC/59/46/Add.1 (2025), https://digitallibrary.un.org/nanna/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0; OHCHR, A/HRC/57/77 (2024), https://digitallibrary.un.org/nanna/record/4076891/files/A_HRC_57_77-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0; Matthew B. Moury, U.S. Department of Energy testimony on the U.S. nuclear legacy in the Marshall Islands (21 October 2021), https://www.energy.gov/sites/default/files/2021-10/10.21.21%20HNR%20AU%20Matthew%20Moury%20Testimony%20.pdf",
+          "url": "https://digitallibrary.un.org/nanna/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+          "locator": "A/HRC/59/46/Add.1 opened successfully, and paragraphs 6–8 on printed page 3 contain the recorded 1946 removal, 1948 moves, constrained Kili choice, food insecurity, 1967 safety assurance, 1971 return, and 1978 renewed removal."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-bikini-nuclear-test-displacement::SRC-PRIOR-METADATA-01",
+          "title": "United Nations Special Rapporteur, A/HRC/59/46/Add.1 (2025)",
+          "url": "https://digitallibrary.un.org/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf",
+          "locator": "printed pp. 3–4, paras. 6–12"
+        }
+      ],
+      "request_index": 22,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 7
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-enewetak-nuclear-test-displacement",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-enewetak-nuclear-test-displacement::SRC-01",
+          "title": "OHCHR, A/HRC/59/46/Add.1 (2025), https://digitallibrary.un.org/nanna/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0; OHCHR, A/HRC/57/77 (2024), https://digitallibrary.un.org/nanna/record/4076891/files/A_HRC_57_77-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0; Matthew B. Moury, U.S. Department of Energy testimony on the U.S. nuclear legacy in the Marshall Islands (21 October 2021), https://www.energy.gov/sites/default/files/2021-10/10.21.21%20HNR%20AU%20Matthew%20Moury%20Testimony%20.pdf; U.S. Department of Energy, Enewetak Radiological Support Project Final Report (1982), opened report page 25 in RMI Nuclear Justice Documents; Hamilton et al., Individual Radiation Protection Monitoring in the Marshall Islands: Enewetak Atoll (2002–2004), U.S. Department of Energy-sponsored Lawrence Livermore National Laboratory report UCRL-TR-220591 (2006)",
+          "url": "https://digitallibrary.un.org/nanna/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+          "locator": "A/HRC/59/46/Add.1 opened successfully. Paragraphs 9–10 distinguish the Enewetak and Enjebi polities, record the 1947 nuclear-test requisition and move to Ujelang, document exile conditions and petitions, and identify the 1977–1980 cleanup and 1980 return to Enewetak-homeland islands."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-enewetak-nuclear-test-displacement::SRC-PRIOR-METADATA-01",
+          "title": "United Nations Special Rapporteur, A/HRC/59/46/Add.1 (2025)",
+          "url": "https://digitallibrary.un.org/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf",
+          "locator": "printed pp. 3–4, paras. 6–12"
+        }
+      ],
+      "request_index": 23,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 7
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-enjebi-nuclear-test-displacement-and-land-claim::SRC-01",
+          "title": "OHCHR, A/HRC/59/46/Add.1 (2025), https://digitallibrary.un.org/nanna/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0; OHCHR, A/HRC/57/77 (2024), https://digitallibrary.un.org/nanna/record/4076891/files/A_HRC_57_77-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0; Matthew B. Moury, U.S. Department of Energy testimony on the U.S. nuclear legacy in the Marshall Islands (21 October 2021), https://www.energy.gov/sites/default/files/2021-10/10.21.21%20HNR%20AU%20Matthew%20Moury%20Testimony%20.pdf; U.S. Department of Energy, Enewetak Radiological Support Project Final Report (1982), opened report page 25 in RMI Nuclear Justice Documents; Hamilton et al., Individual Radiation Protection Monitoring in the Marshall Islands: Enewetak Atoll (2002–2004), U.S. Department of Energy-sponsored Lawrence Livermore National Laboratory report UCRL-TR-220591 (2006)",
+          "url": "https://digitallibrary.un.org/nanna/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+          "locator": "A/HRC/59/46/Add.1 opened successfully. Paragraphs 9–10 verify the separate Enjebi polity and homeland, 1947 requisition and movement to Ujelang, the 1979 homeland-return vote, 1980 return only to Enewetak-polity islands, conflicting federal habitability positions, absent congressional funding, and continuing displacement."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-enjebi-nuclear-test-displacement-and-land-claim::SRC-PRIOR-METADATA-01",
+          "title": "United Nations Special Rapporteur, A/HRC/59/46/Add.1 (2025)",
+          "url": "https://digitallibrary.un.org/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf",
+          "locator": "printed pp. 3–4, paras. 6–12"
+        }
+      ],
+      "request_index": 24,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 7
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain::SRC-01",
+          "title": "OHCHR, A/HRC/59/46/Add.1 (2025), https://digitallibrary.un.org/nanna/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0; OHCHR, A/HRC/57/77 (2024), https://digitallibrary.un.org/nanna/record/4076891/files/A_HRC_57_77-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0; Matthew B. Moury, U.S. Department of Energy testimony on the U.S. nuclear legacy in the Marshall Islands (21 October 2021), https://www.energy.gov/sites/default/files/2021-10/10.21.21%20HNR%20AU%20Matthew%20Moury%20Testimony%20.pdf",
+          "url": "https://digitallibrary.un.org/nanna/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+          "locator": "A/HRC/59/46/Add.1 opened successfully, and paragraphs 11–12 on printed page 4 contain the recorded Castle Bravo exposure, delayed evacuation, Kwajalein and Ejit displacement, 1957 return, prolonged health effects, 1983 relocation request, and 1985 Greenpeace evacuation to Mejatto."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain::SRC-PRIOR-METADATA-01",
+          "title": "United Nations Special Rapporteur, A/HRC/59/46/Add.1 (2025)",
+          "url": "https://digitallibrary.un.org/record/4087118/files/A_HRC_59_46_Add.1-EN.pdf",
+          "locator": "printed pp. 3–4, paras. 6–12"
+        }
+      ],
+      "request_index": 25,
+      "authority": {
+        "path": "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+        "correction_index": 7
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-danube-dobruja-agricultural-settlement",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-circassian-danube-dobruja-agricultural-settlement::SRC-01",
+          "title": "Opened the cited Vladimir Hamed-Troyansky article completely at printed pages 605-623, with target-level use of pages 607-609, 613-614, and 616-617. Four additional authoritative works were opened: Vladimir Muchinov on Circassian settlement in the Danube Vilayet, printed pages 83-96, especially 85-93; Ömer Karataş on Circassian settlement in Uzunyayla, printed pages 83-117, especially 90, 94-96, and 114-115; Chris Gratien, The Ottoman Quagmire, at the authoritative Cambridge abstract and accessible notes on Adana/Cilicia, post-Crimean migrants, malaria, and mevat; and Gratien's Ottoman History Podcast research page with the 1870/71 Ceyhan settlement-map description and Circassian-house caption. No fifth additional work was consulted.",
+          "url": "https://dergipark.org.tr/en/download/article-file/226241",
+          "locator": "The Dergipark PDF opened at printed pp. 85-88 and 91-93. The locator contains the 1862-1867 arrivals, Lom-Nikopol-Svishtov-Dobruja locality chain, village forms, agricultural allocations, 1865-1866 Dobruja mapping, local provisioning burdens, and later wartime departure context."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-circassian-danube-dobruja-agricultural-settlement::SRC-PRIOR-METADATA-01",
+          "title": "Ventsislav Muchinov, Ottoman Policies on Circassian Refugees in the Danube Vilayet in the 1860s and 1870s",
+          "url": "https://dergipark.org.tr/en/download/article-file/226241",
+          "locator": "printed pp. 85–93"
+        }
+      ],
+      "request_index": 26,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 0
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-danube-serbian-border-settlement",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-circassian-danube-serbian-border-settlement::SRC-01",
+          "title": "Opened the cited Vladimir Hamed-Troyansky article completely at printed pages 605-623, with target-level use of pages 607-609, 613-614, and 616-617. Four additional authoritative works were opened: Vladimir Muchinov on Circassian settlement in the Danube Vilayet, printed pages 83-96, especially 85-93; Ömer Karataş on Circassian settlement in Uzunyayla, printed pages 83-117, especially 90, 94-96, and 114-115; Chris Gratien, The Ottoman Quagmire, at the authoritative Cambridge abstract and accessible notes on Adana/Cilicia, post-Crimean migrants, malaria, and mevat; and Gratien's Ottoman History Podcast research page with the 1870/71 Ceyhan settlement-map description and Circassian-house caption. No fifth additional work was consulted.",
+          "url": "https://dergipark.org.tr/en/download/article-file/226241",
+          "locator": "The Dergipark PDF opened and printed pp. 85-88 and 91-93 were present. Those pages give the 1862-1867 arrival window, Refugee Commission administration, Vidin-Niš-Sofia concentration, strategic-barrier rationale, village placement, land allocation, local burdens, and 1877-1878 endpoint context."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-circassian-danube-serbian-border-settlement::SRC-PRIOR-METADATA-01",
+          "title": "Ventsislav Muchinov, Ottoman Policies on Circassian Refugees in the Danube Vilayet in the 1860s and 1870s",
+          "url": "https://dergipark.org.tr/en/download/article-file/226241",
+          "locator": "printed pp. 85–93"
+        }
+      ],
+      "request_index": 27,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 0
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-danube-dobruja-agricultural-settlement",
+      "field": "agents",
+      "before_present": true,
+      "before": [
+        "Ottoman Refugee Commission and Danube Vilayet authorities, local land-survey and provisioning officials, Circassian refugee households, and an Abkhazian cohort arriving in 1867."
+      ],
+      "after": [
+        "Ottoman Refugee Commission, Danube Vilayet authorities, local land-survey and provisioning officials, and Circassian refugee households assigned to the named tract"
+      ],
+      "request_index": 28,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 1
+      },
+      "reason": "The frozen field treats the unresolved 1867 Abkhazian cohort as if it were placed in this tract; the source establishes arrival in the vilayet but not assignment to the named agricultural destinations.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-uzunyayla-collective-settlement",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-circassian-uzunyayla-collective-settlement::SRC-01",
+          "title": "Opened the cited Vladimir Hamed-Troyansky article completely at printed pages 605-623, with target-level use of pages 607-609, 613-614, and 616-617. Four additional authoritative works were opened: Vladimir Muchinov on Circassian settlement in the Danube Vilayet, printed pages 83-96, especially 85-93; Ömer Karataş on Circassian settlement in Uzunyayla, printed pages 83-117, especially 90, 94-96, and 114-115; Chris Gratien, The Ottoman Quagmire, at the authoritative Cambridge abstract and accessible notes on Adana/Cilicia, post-Crimean migrants, malaria, and mevat; and Gratien's Ottoman History Podcast research page with the 1870/71 Ceyhan settlement-map description and Circassian-house caption. No fifth additional work was consulted.",
+          "url": "https://dergipark.org.tr/en/download/article-file/105806",
+          "locator": "The Dergipark PDF opened and the recorded printed pages 90, 94-96, and 114-115 resolved correctly. They contain the free miri, vakif, and vacant-land rule, household figures, 1864 completion statement, field and property conflict, collective settlement, and cohort list."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-circassian-uzunyayla-collective-settlement::SRC-PRIOR-METADATA-01",
+          "title": "Ömer Karataş, 19. Yüzyılda Anadolu’da Çerkes Göçmenlerinin İskânları Sırasında Karşılaştıkları Sorunlar: Uzunyayla Örneği",
+          "url": "https://dergipark.org.tr/en/download/article-file/105806",
+          "locator": "printed pp. 90, 94–96, and 114–115"
+        }
+      ],
+      "request_index": 29,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 2
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-uzunyayla-collective-settlement",
+      "field": "victims",
+      "before_present": true,
+      "before": [
+        "Nearly 3,000 North Caucasian refugee households, including 318 initially unplaced households, and local Afshar pastoralists, Christian cultivators and villages, and other users of fields, pasture, housing materials, and water."
+      ],
+      "after": [
+        "North Caucasian refugee households assigned to Uzunyayla; tract total unresolved",
+        "Local Afshar pastoralists, settled cultivators, and other users of affected fields, pasture, housing materials, and water"
+      ],
+      "request_index": 30,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 3
+      },
+      "reason": "The frozen field presents nearly 3,000 households as an Uzunyayla population even though the figure refers to Sivas province, and places the 318-household unsettled remainder beside it in a way that invites addition.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "name",
+      "before_present": true,
+      "before": "Bzhedugh and Abzakh Circassian settlement at Wadi al-Sir, 1880",
+      "after": "Circassian settlement at Wadi al-Sir, 1880",
+      "request_index": 31,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 4
+      },
+      "reason": "Later property records identify Bzhedugh and Abzakh quarters but do not establish that both groups jointly founded Wadi al-Sir in 1880.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "mechanism",
+      "before_present": true,
+      "before": "State-directed village foundation on Balqa miri land, cohort-quarter formation, land registration and cultivation, and incorporation into the regional agricultural property market.",
+      "after": "Refugee village foundation within Ottoman land-allotment, miri-registration, and agricultural-development institutions.",
+      "request_index": 32,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 5
+      },
+      "reason": "The frozen field says state-directed village foundation, which overstates the source; the documented state role operates through refugee law, land allotment, miri registration, and infrastructure rather than a direct command to found Wadi al-Sir.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "agents",
+      "before_present": true,
+      "before": [
+        "Ottoman refugee and Balqa authorities and Bzhedugh and Abzakh Circassian refugee households."
+      ],
+      "after": [
+        "Ottoman refugee and Balqa land authorities and Circassian refugee households founding Wadi al-Sir"
+      ],
+      "request_index": 33,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 6
+      },
+      "reason": "The frozen field assigns both later-recorded quarters to the founding cohort and implies direct state execution beyond the source.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-circassian-wadi-al-sir-settlement-1880::SRC-01",
+          "title": "Opened the cited Vladimir Hamed-Troyansky article completely at printed pages 605-623, with target-level use of pages 607-609, 613-614, and 616-617. Four additional authoritative works were opened: Vladimir Muchinov on Circassian settlement in the Danube Vilayet, printed pages 83-96, especially 85-93; Ömer Karataş on Circassian settlement in Uzunyayla, printed pages 83-117, especially 90, 94-96, and 114-115; Chris Gratien, The Ottoman Quagmire, at the authoritative Cambridge abstract and accessible notes on Adana/Cilicia, post-Crimean migrants, malaria, and mevat; and Gratien's Ottoman History Podcast research page with the 1870/71 Ceyhan settlement-map description and Circassian-house caption. No fifth additional work was consulted.",
+          "url": "https://www.global.ucsb.edu/sites/default/files/sitefiles/people/Hamed-Troyansky%202017.pdf",
+          "locator": "The UCSB-hosted article opened and printed pp. 607, 608, and 613 matched the locator. The pages date Wadi al-Sir's foundation to 1880, explain the Balqa miri allocation and registration regime, and list separate Bzhedugh and Abzakh Wadi al-Sir land entries."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-circassian-wadi-al-sir-settlement-1880::SRC-PRIOR-METADATA-01",
+          "title": "Vladimir Hamed-Troyansky, Circassian Refugees and the Making of Amman, 1878–1914",
+          "url": "https://www.global.ucsb.edu/sites/default/files/sitefiles/people/Hamed-Troyansky%202017.pdf",
+          "locator": "printed pp. 607–609 and 613–614"
+        }
+      ],
+      "request_index": 34,
+      "authority": {
+        "path": "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+        "correction_index": 7
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-saint-pierre-miquelon-british-deportation-1778",
+      "field": "agents",
+      "before_present": true,
+      "before": [
+        "Newfoundland governor John Montagu and the British expedition; the French colonial population of Saint-Pierre and Miquelon"
+      ],
+      "after": [
+        "Newfoundland governor John Montagu and the British expedition"
+      ],
+      "request_index": 35,
+      "authority": {
+        "path": "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+        "correction_index": 0
+      },
+      "reason": "The frozen field combines the British actor and the affected French colonial population in one agent string.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-saint-pierre-miquelon-british-deportation-1778",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1778::SRC-01",
+          "title": "Nicolas Landry, Les dossiers personnels des réfugiés de l’île-Royale et de Saint-Pierre-et-Miquelon au Ministère de la Marine et des Colonies, 1763–1815; Olaf Uwe Janzen, The Restoration to France (1763–1815)",
+          "url": "https://journals.lib.unb.ca/index.php/MCR/article/download/29272/1882524451/1882524154",
+          "locator": "The UNB PDF opened and the recorded printed-page material was locatable, including inhabitants returned to France after the 1778 conquest, interrupted island residence, property-loss claims, and intended 1783 re-establishment."
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1778::SRC-PRIOR-METADATA-01",
+          "title": "Nicolas Landry, Les dossiers personnels des réfugiés de l’île-Royale et de Saint-Pierre-et-Miquelon au Ministère de la Marine et des Colonies, 1763–1815",
+          "url": "https://journals.lib.unb.ca/index.php/MCR/article/download/29272/1882524451/1882524154",
+          "locator": "printed p. 57 and p. 61 n. 23"
+        },
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1778::SRC-PRIOR-METADATA-02",
+          "title": "Olaf Uwe Janzen, The Restoration to France (1763–1815)",
+          "url": "https://www.heritage.nf.ca/articles/exploration/restoration-france.php",
+          "locator": "War Outbreak and Evacuation, first two paragraphs"
+        }
+      ],
+      "request_index": 36,
+      "authority": {
+        "path": "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+        "correction_index": 1
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815::SRC-01",
+          "title": "Nicolas Landry, Les dossiers personnels des réfugiés de l’île-Royale et de Saint-Pierre-et-Miquelon au Ministère de la Marine et des Colonies, 1763–1815; Olaf Uwe Janzen, The Restoration to France (1763–1815); Archives nationales d’outre-mer, Saint-Pierre-et-Miquelon research guide",
+          "url": "https://www.heritage.nf.ca/articles/exploration/restoration-france.php",
+          "locator": "Heading 'War Outbreak and Evacuation,' first two paragraphs"
+        },
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815::SRC-02",
+          "title": "Nicolas Landry, Les dossiers personnels des réfugiés de l’île-Royale et de Saint-Pierre-et-Miquelon au Ministère de la Marine et des Colonies, 1763–1815; Olaf Uwe Janzen, The Restoration to France (1763–1815); Archives nationales d’outre-mer, Saint-Pierre-et-Miquelon research guide",
+          "url": "https://archives-nationales-outre-mer.culture.gouv.fr/faire-une-recherche/saint-pierre-et-miquelon",
+          "locator": "Historical chronology paragraph stating British domination, 1793-1814"
+        },
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815::SRC-03",
+          "title": "Nicolas Landry, Les dossiers personnels des réfugiés de l’île-Royale et de Saint-Pierre-et-Miquelon au Ministère de la Marine et des Colonies, 1763–1815; Olaf Uwe Janzen, The Restoration to France (1763–1815); Archives nationales d’outre-mer, Saint-Pierre-et-Miquelon research guide",
+          "url": "https://journals.lib.unb.ca/index.php/MCR/article/download/29272/1882524451/1882524154",
+          "locator": "Landry, printed p. 48, introductory chronology"
+        }
+      ],
+      "after": [
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815::SRC-PRIOR-METADATA-01",
+          "title": "Olaf Uwe Janzen, The Restoration to France (1763–1815)",
+          "url": "https://www.heritage.nf.ca/articles/exploration/restoration-france.php",
+          "locator": "War Outbreak and Evacuation, first two paragraphs"
+        },
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815::SRC-PRIOR-METADATA-02",
+          "title": "Archives nationales d’outre-mer, Saint-Pierre-et-Miquelon research guide",
+          "url": "https://archives-nationales-outre-mer.culture.gouv.fr/faire-une-recherche/saint-pierre-et-miquelon",
+          "locator": "opening historical chronology"
+        },
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815::SRC-PRIOR-METADATA-03",
+          "title": "Nicolas Landry, Les dossiers personnels des réfugiés de l’île-Royale et de Saint-Pierre-et-Miquelon au Ministère de la Marine et des Colonies, 1763–1815",
+          "url": "https://journals.lib.unb.ca/index.php/MCR/article/download/29272/1882524451/1882524154",
+          "locator": "printed p. 48; conflicting 1791 statement preserved but not used"
+        },
+        {
+          "id": "prospective-saint-pierre-miquelon-british-deportation-1793-1815::SRC-PRIOR-METADATA-04",
+          "title": "R. J. Morgan, Ogilvie (Ogilvy), James, Dictionary of Canadian Biography",
+          "url": "https://www.biographi.ca/en/bio/ogilvie_james_5E.html",
+          "locator": "paragraph on the 1793 Saint-Pierre and Miquelon expedition and 1793–1794 deportations"
+        }
+      ],
+      "request_index": 37,
+      "authority": {
+        "path": "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json",
+        "sha256": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+        "correction_index": 2
+      },
+      "reason": "Separate probative works and requested locators; old composite IDs/objects remain in before-values.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "operative_date_start",
+      "before_present": true,
+      "before": null,
+      "after": 1488,
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "operative_date_end",
+      "before_present": true,
+      "before": null,
+      "after": 1489,
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_end_role",
+      "before_present": false,
+      "before": null,
+      "after": "bounded_revolt_and_punitive_sequence",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_resolution",
+      "before_present": true,
+      "before": "Mitchell's island table assigns La Gomera a conquest date of 1489, while Espino's punitive-repression sequence places Pedro de Vera's replacement in 1488 after the described operations; neither direct passage gives an explicit date for the revolt and punishment themselves. Because these markers appear to concern different scopes and do not establish one event year, both fields remain UNKNOWN.",
+      "after": "Accepted Batch 18 chronology: the 1488 revolt and the punitive sequence extending into 1489. The public consolidated stop is 1489; the nominal diagnostic onset is 1488. No measured transport duration is supplied.",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "name",
+      "before_present": true,
+      "before": "Suppression of the Indigenous La Gomera revolt after the killing of Hernán Peraza, date unresolved",
+      "after": "Repression and enslavement after the La Gomera revolt",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Coherent date/role text from the already accepted Batch 18 public record; no fresh historical judgment.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "summary",
+      "before_present": true,
+      "before": "The sources directly establish one island-specific punitive episode and multiple territorial-removal mechanisms even though its date and property outcomes remain unresolved. El Hierro and Gran Canaria processes are excluded rather than combined with it.",
+      "after": "After Gomeros killed the island's seigneur Hernán Peraza on 20 November 1488, Beatriz de Bobadilla called Pedro de Vera from Gran Canaria. The relief and punitive sequence extended into 1489 and included executions, mutilation, enslavement, sale, and off-island coercive removal beyond the identified killers.",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Coherent date/role text from the already accepted Batch 18 public record; no fresh historical judgment.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "agents",
+      "before_present": true,
+      "before": [
+        "Hernán Peraza as the seigneur whose intervention in Indigenous factional conflict and killing preceded the punishment; his widow Beatriz de Bobadilla; Gran Canaria governor Pedro de Vera and a force of four hundred men; the Indigenous Pala and Mulagua factions"
+      ],
+      "after": [
+        "Beatriz de Bobadilla, Pedro de Vera, and the punitive force sent from Gran Canaria"
+      ],
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Coherent date/role text from the already accepted Batch 18 public record; no fresh historical judgment.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "victims",
+      "before_present": true,
+      "before": [
+        "Gomeros of the Pala and Mulagua factions besieged at Garajonay; people executed or mutilated; minors, children, and women enslaved or sold; and Gomeros living at Telde and Gáldar who were arrested and killed. Complete counts and individual affiliations remain unresolved."
+      ],
+      "after": [
+        "Gomero communities subjected to the 1488–1489 punitive executions, mutilation, enslavement, sale, and off-island removal"
+      ],
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Coherent date/role text from the already accepted Batch 18 public record; no fresh historical judgment.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "disputes",
+      "before_present": true,
+      "before": "The source does not provide a parcel-by-parcel Indigenous ownership record, a beneficiary roster for the territorial distributions, or complete victim and captive counts. Those values remain unknown and no tract-level dispossession count is inferred.",
+      "after": "The sources do not provide complete victim or captive totals, parcel outcomes, a beneficiary register, or a complete destination network. The line from Gran Canaria shows the documented punitive force, not movement by the people targeted.",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Preserve source limits without the superseded unresolved-onset claim.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "operative_date_start",
+      "before_present": true,
+      "before": null,
+      "after": 1967,
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "operative_date_end",
+      "before_present": true,
+      "before": 2024,
+      "after": null,
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_end_role",
+      "before_present": false,
+      "before": null,
+      "after": "evidence_cutoff_not_process_endpoint",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "evidence_cutoff_year",
+      "before_present": false,
+      "before": null,
+      "after": 2024,
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_resolution",
+      "before_present": true,
+      "before": "A/HRC/58/73 covers 1 November 2023 through 31 October 2024 and describes settlement transfer, maintenance, and expansion as ongoing. The cited paragraphs do not state the historical start or completion of the wider system, so the start year remains UNKNOWN and 2024 is an evidence cutoff rather than an end finding.",
+      "after": "The accepted ICJ-based chronology dates the settlement policy in the occupied West Bank and East Jerusalem from 1967. The process is ongoing in the accepted account; 2024 is the detailed OHCHR evidence cutoff, not a finding that it ended. No measured movement duration is supplied.",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Dependent date semantics must agree with the accepted onset and cutoff.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "name",
+      "before_present": true,
+      "before": "Israeli settlement advancement and associated Palestinian land-control mechanisms in the occupied West Bank, including East Jerusalem (2023–2024 evidence window)",
+      "after": "Israeli settlement and Palestinian land control in the occupied West Bank and East Jerusalem",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Coherent date/role text from the already accepted Batch 18 public record; no fresh historical judgment.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "summary",
+      "before_present": true,
+      "before": "The opened report identifies one West Bank and East Jerusalem settlement-administration system with direct land-control mechanisms and effects on Palestinian territory. It excludes the Golan and does not infer household membership; a fresh profile is required because the wrapper mixed distinct territories.",
+      "after": "Israel's settlement policy in the occupied West Bank and East Jerusalem began after the 1967 occupation and has continued through state-supported civilian transfer, settlement construction and maintenance, land confiscation or requisition, infrastructure, planning control, and territorial fragmentation. The detailed frozen source packet measures the 1 November 2023–31 October 2024 reporting window within that longer system.",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Coherent date/role text from the already accepted Batch 18 public record; no fresh historical judgment.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "agents",
+      "before_present": true,
+      "before": [
+        "Government of Israel; civilian officials including the Additional Minister and Settlement Administration; the Israeli military commander and Civil Administration; Israeli settlers"
+      ],
+      "after": [
+        "Government of Israel, civilian and military land authorities, and Israeli settlers transferred to or maintained in the occupied West Bank and East Jerusalem"
+      ],
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Coherent date/role text from the already accepted Batch 18 public record; no fresh historical judgment.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "victims",
+      "before_present": true,
+      "before": [
+        "Palestinians in the occupied West Bank, including East Jerusalem, affected by land seizures, discriminatory planning and building enforcement, coercive transfer pressures, and territorial fragmentation; Israeli civilians transferred to or maintained in settlements; exact household membership is not established"
+      ],
+      "after": [
+        "Palestinian residents affected by settlement expansion, land seizure or allocation, discriminatory planning, demolition, restrictions, and territorial fragmentation in the occupied West Bank and East Jerusalem"
+      ],
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Coherent date/role text from the already accepted Batch 18 public record; no fresh historical judgment.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "disputes",
+      "before_present": true,
+      "before": "The report supports all domains for its evidence window but leaves the wider system's historical start, parcel and household membership, individual outcomes, and post-31-October-2024 developments unresolved.",
+      "after": "The detailed 1 November 2023–31 October 2024 reporting window does not establish household membership or parcel-by-parcel outcomes and must not be mistaken for the system's onset or endpoint.",
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Preserve source limits without the superseded unresolved-onset claim.",
+      "adjudicator": "Main"
+    },
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "sources",
+      "before_present": true,
+      "before": [
+        {
+          "id": "atlas-canary-la-gomera-revolt-repression::SRC-01",
+          "title": "Peter J. Mitchell, Archaeological Research in the Canary Islands: Island Archaeology off Africa's Atlantic Coast; Antonio Espino López, Granada, Canarias, América: el uso de prácticas aterrorizantes en la praxis de tres conquistas, 1482–1557; Manuel Lobo Cabrera, Formas de poder y economía canaria entre los siglos XV–XVII",
+          "url": "https://www.villadehermigua.com/el-municipio/historia.html",
+          "locator": "Historia de Hermigua > Edad Moderna, paragraphs 1-6 (web text lines 4-9)"
+        }
+      ],
+      "after": [
+        {
+          "id": "atlas-canary-la-gomera-revolt-repression::SRC-PRIOR-METADATA-01",
+          "title": "Gobierno de Canarias, Guahedum heritage record, 20 November 1488 and aftermath",
+          "url": "https://www.gobiernodecanarias.org/boc/2026/147/2639.html"
+        },
+        {
+          "id": "atlas-canary-la-gomera-revolt-repression::SRC-PRIOR-METADATA-02",
+          "title": "Antonio Espino López, ‘Granada, Canarias, América: el uso de prácticas aterrorizantes en la praxis de tres conquistas, 1482–1557’",
+          "url": "https://doi.org/10.4067/S0717-71942012000200001"
+        }
+      ],
+      "request_index": null,
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      },
+      "reason": "Carry the two already accepted public citations supporting the revised chronology. No new page locator is invented.",
+      "adjudicator": "Main"
+    }
+  ],
+  "limits": "Dependent date/role/source fields carry existing Batch 18 decisions. No new historical review, raw score, U/NA, family or roster change. Old complete diagnostic run remains unchanged. Derived publication tables still need to consume this application at final assembly."
+}

@@ -1,0 +1,27 @@
+{
+  "status": "PORTABLE_ADDENDUM_PACKAGING_AND_INPUT_CHECKS_PASS_NOT_FULL_REFIT",
+  "checked_at_utc": "2026-09-08T03:29:32Z",
+  "zip": "portable/date_metadata_reproduction_20260908a.zip",
+  "zip_sha256": "c36bd62543f4fd40c1b6026660efe1e42c9fb74b10062e46bb9cc2f1f58d7263",
+  "zip_bytes": 8139495,
+  "zip_members": 109,
+  "original_99_members_byte_unchanged": true,
+  "packaging_tests_normal": 5,
+  "packaging_tests_optimized": 5,
+  "scientific_function_asts_identical": ["amended", "execute", "main", "prepare", "same"],
+  "isolated_preflight_normal_and_optimized": true,
+  "isolated_numerical_input_bindings_per_run": 48,
+  "original_project_reads_denied": true,
+  "research_cache_in_fixture": false,
+  "network_and_file_writes_denied": true,
+  "new_numerical_fits": 0,
+  "eligible_candidate_nominal_onsets": 629,
+  "measured_continuous_durations": 0,
+  "amended_matrix_fingerprints": [
+    "4b76c6f5caf4c8bfd9dd8a98e90d66da719ce14da285be2dc995a35707c22bd9",
+    "f5337e7f01fbb432a0d3d8eb63e36400eadbfe2e3cdd3e1d45cc0f4444351bf1"
+  ],
+  "changed_metadata_rejected_before_numerical_imports": true,
+  "temporary_fixture_unchanged_then_removed": true,
+  "limits": "Bounded main packaging/input check, not independent historical review or a new full numerical reproduction. The exact-match execution adapter requires a consumer's separately reproduced original run; typed storage/identity refusal unit tests pass. End-to-end numerical replay across platforms has not been performed or promised. Public release selection and deployment remain separate."
+}

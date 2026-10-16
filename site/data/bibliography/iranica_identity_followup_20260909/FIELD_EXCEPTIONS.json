@@ -1,0 +1,27 @@
+{
+  "status": "open_bibliographic_field_limits_not_identity_holds",
+  "exceptions": [
+    {
+      "work_id": "title:encyclopaedia iranica bamian ii history and monuments",
+      "field": "personal_authorship",
+      "status": "unresolved",
+      "evidence": "The consulted section has a title and print locator but no corresponding byline/date field. The parent and sibling records have their own metadata.",
+      "next_action": "Confirm this section-specific field from publisher evidence or a legible original print/source record; do not borrow a parent date or sibling author."
+    },
+    {
+      "work_id": "title:encyclopaedia iranica bamian ii history and monuments",
+      "field": "section_publication_date",
+      "status": "unresolved",
+      "evidence": "The consulted section has a title and print locator but no corresponding byline/date field. The parent and sibling records have their own metadata.",
+      "next_action": "Confirm this section-specific field from publisher evidence or a legible original print/source record; do not borrow a parent date or sibling author."
+    },
+    {
+      "work_id": "title:encyclopaedia iranica bamian ii history and monuments",
+      "field": "section_modification_date",
+      "status": "unresolved",
+      "evidence": "The consulted section has a title and print locator but no corresponding byline/date field. The parent and sibling records have their own metadata.",
+      "next_action": "Confirm this section-specific field from publisher evidence or a legible original print/source record; do not borrow a parent date or sibling author."
+    }
+  ],
+  "other_limits": "Generated-PDF access records are grounded in the corresponding publisher HTML metadata; PDF visual/version checks remain unavailable. Shapur bodies/version equivalence and original print dates have not been independently established. The three earlier institutional field exceptions remain open in their separate published packet."
+}

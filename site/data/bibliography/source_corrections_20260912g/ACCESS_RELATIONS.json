@@ -1,0 +1,83 @@
+{
+  "build": "20260912g",
+  "records": [
+    {
+      "work_id": "access:0ead9047bd55d3a44c23",
+      "relation": "access_copy_of",
+      "target_work_id": "doi:10.1126/science.aat3188",
+      "original_description_role": "Multi-work source-use summary retained.",
+      "limits": "The 5-page file contains the 4-page Lipson article and a publisher cover that also summarizes McColl. It does not contain the full McColl article or preprint; the separately recorded McColl DOI identity is unchanged."
+    },
+    {
+      "work_id": "access:d55d9d5dddefeef1696e",
+      "relation": "access_copy_of",
+      "target_work_id": "doi:10.1017/s0020743817000617",
+      "limits": "The existing PDF and accepted Wadi al-Sir flight passage are retained. Metadata review does not assign additional flight-origin cases."
+    },
+    {
+      "work_id": "access:ab13c4e552d0620efd92",
+      "relation": "identified_access_target_differs_from_recorded_source_use_bundle",
+      "limits": "Indexed official catalogue and title page identify King’s MA thesis. The retained source-use description names HRW and two judgments. Identifying this legacy link does not establish that the thesis was used, endorse its claims, or replace the recorded adopted sources. Direct routes now yield HTML/a repository home page; the PDF web reopen returned 403. No thesis body was obtained this turn."
+    },
+    {
+      "work_id": "access:ad375c4c71041903bbc0",
+      "relation": "earlier_notes_identify_replacement_access",
+      "target_work_id": "title:gorman milesian decrees of isopoliteia and the refoundation of the city",
+      "status": "original_bitstream_identity_unresolved",
+      "limits": "UMD returned 404, as also recorded in the earlier source notes. UNL identifies the named Gorman chapter, but exact equality with inaccessible UMD bytes is unverified. The old local .pdf file is HTML, not an inspectable chapter."
+    },
+    {
+      "work_id": "access:288a75dfe01f72b2af11",
+      "relation": "same_bytes_as_retained_pdf",
+      "sha256": "da3890b6b86b3205b3aea4d081f1f6640e2f1c50fbe224fd49cfc9de2204ba33",
+      "edition_rule": "Electronic 2014 / parent print 2010 / current repository publication 2022-06-20 are separate dates."
+    },
+    {
+      "work_id": "access:cef5ec83f452351eb4c4",
+      "relation": "same_bytes_as_retained_pdf",
+      "sha256": "bd0990fbf9023ed257a75816228548a4be90d9daeba492f8eecf895b380ec2e3",
+      "copy_rule": "26 article pages and a separate copyright notice; no new article-content review."
+    },
+    {
+      "work_id": "title:lipson et al 2018 population turnover in remote oceania shortly after initial settlement current biology 28 1157 1165",
+      "relation": "same_publication_identity",
+      "related_work_id": "access:ca814122625698771f40",
+      "doi": "10.1016/j.cub.2018.02.051",
+      "pii_mapping": {
+        "recorded_url_token": "S0960-9822(18)30236-7",
+        "publisher_registry_token": "S0960982218302367",
+        "rule": "Remove punctuation from the Cell URL token; registry PII and DOI identify the same publication."
+      },
+      "copy_rule": "Current Cell body unavailable. Retained university-hosted typeset article is marked in press; final registry pagination and version-specific printed dates stay labeled. Exact PMC copy-version question remains in the earlier record."
+    },
+    {
+      "work_id": "access:ee1748254b10f0446513",
+      "requested_url": "https://www.openstarts.units.it/bitstream/10077/6083/1/ChiabaRomaPriscaeLatinaeColonie.pdf",
+      "final_url": "https://www.openstarts.units.it/server/api/core/bitstreams/0a1e1398-e286-4aff-90e3-edffe166e4c0/content",
+      "current_response_content_type": "application/pdf;charset=UTF-8",
+      "current_response_sha256": "3d6e8006eac0648af1209ce345e311dbc45e6084e73867e81f9d92555549dd77",
+      "same_bytes_as_retained": true,
+      "relation": "current_pdf_matches_retained_copy"
+    },
+    {
+      "work_id": "access:08671715f4d2243910fd",
+      "requested_url": "https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-3297-1/dissemination/jrs_9/Journal_of_Roman_Studies_Monographs_No-_9_-_The_Writings_of_the_Roman_Land_Surveyors.pdf",
+      "final_url": "https://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-3297-1/dissemination/jrs_9/Journal_of_Roman_Studies_Monographs_No-_9_-_The_Writings_of_the_Roman_Land_Surveyors.pdf",
+      "current_response_content_type": "application/pdf",
+      "current_response_sha256": "c5696b28f994ae5cc3af2f373a30fb9171c1e58960098b83b234c7d45e2d3f35",
+      "same_bytes_as_retained": true,
+      "relation": "current_pdf_matches_retained_copy"
+    },
+    {
+      "work_id": "title:katsuji sano the expansion of the assyrian empire under ashurnasirpal ii 2015",
+      "requested_url": "https://www.ub.edu/ipoa/wp-content/uploads/2021/08/20152AuOrSano.pdf",
+      "final_url": "https://www.ub.edu/ipoa/wp-content/uploads/2021/08/20152AuOrSano.pdf",
+      "current_response_content_type": "text/html",
+      "current_response_sha256": "f31eff70baac94065ecb03012bfb05afdcf559202679c2d9bb40795dde142572",
+      "same_bytes_as_retained": false,
+      "relation": "retained_scholarly_pdf_identified_current_direct_response_is_temporary_unavailability_html"
+    }
+  ],
+  "ids_merged": false,
+  "original_source_use_rewritten": false
+}

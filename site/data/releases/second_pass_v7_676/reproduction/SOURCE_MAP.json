@@ -1,0 +1,866 @@
+{
+  "schema": "portable-numerical-source-allowlist-v1",
+  "status": "implementation_sidecar_not_new_scientific_gate",
+  "owner": "model implementation owner, not independent verifier of this export",
+  "run_manifest": {
+    "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/run_20260907a/MANIFEST.json",
+    "sha256": "e04666c721603cc5111d0421331be9855254c314364000dbc2fed37037d35100"
+  },
+  "acceptance_sha256": "404a93c084fc034f69caa187790ba6e4d12f8103b36e43568c9c2c2615ab8ba9",
+  "binding_counts": {
+    "run_inputs": 63,
+    "numerical_dependencies": 16,
+    "adapters": 6
+  },
+  "sources": [
+    {
+      "path": "LICENSE.md",
+      "sha256": "4cc5e22ed25e9870fe7ad7c5d71d154e29f21041b84e46d70d07ae4857286c9e",
+      "bytes": 4540,
+      "roles": [
+        "license_notice"
+      ],
+      "component_notice": "Existing license/notice terms, unchanged"
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.txt",
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94",
+      "bytes": 18656,
+      "roles": [
+        "license_notice"
+      ],
+      "component_notice": "Existing license/notice terms, unchanged"
+    },
+    {
+      "path": "LICENSES/CC-BY-SA-4.0.txt",
+      "sha256": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
+      "bytes": 20137,
+      "roles": [
+        "license_notice"
+      ],
+      "component_notice": "Existing license/notice terms, unchanged"
+    },
+    {
+      "path": "LICENSES/MIT.txt",
+      "sha256": "9f073e0d2c33e33de5a10f5699795c15a8a332837495c391b4d05535a34059b4",
+      "bytes": 1070,
+      "roles": [
+        "license_notice"
+      ],
+      "component_notice": "Existing license/notice terms, unchanged"
+    },
+    {
+      "path": "LICENSES/d3-geo-LICENSE.txt",
+      "sha256": "3e3edc1224eec9c39cd26491a21304a62883c1e5b6a65c5283ccc7a6cc94baee",
+      "bytes": 1857,
+      "roles": [
+        "license_notice"
+      ],
+      "component_notice": "Existing license/notice terms, unchanged"
+    },
+    {
+      "path": "LICENSES/d3-interpolate-LICENSE.txt",
+      "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+      "bytes": 731,
+      "roles": [
+        "license_notice"
+      ],
+      "component_notice": "Existing license/notice terms, unchanged"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "8dc0cdf57c1613c36d0e59791f98f12d9e53b89e16aabf2c5d2b6c6852499b63",
+      "bytes": 3436,
+      "roles": [
+        "license_notice"
+      ],
+      "component_notice": "Existing license/notice terms, unchanged"
+    },
+    {
+      "path": "analysis/second_pass/11_prepare_data.py",
+      "sha256": "de12d13466d298e606b4c08c2d22c9f4e905b0ae5c9934d120b7204bc9def9f8",
+      "bytes": 18549,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/12_run_second_pass.py",
+      "sha256": "b91b5aef88b32f6ee75194c4e232fb841e133885c812a0e401d3f21ac2456860",
+      "bytes": 45578,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/27_run_roman_source_resolution_sensitivity.py",
+      "sha256": "a86bdeddc964fa3ef6c3258e6218dac8ddc66dc0a41d08ba8813fe74c1b230ec",
+      "bytes": 17301,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/event_unit_fairness_v1/analyze_event_unit_subspace_stability_v2.py",
+      "sha256": "fcf432ac440c5f2f19c551cae35d4d5e31acc3e66c15e377c0629cb88bc3773a",
+      "bytes": 15961,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/event_unit_fairness_v1/candidate_models_v2/sensitivity_groups.csv",
+      "sha256": "b2afd70be41ffe9f1eb4e98468c318c217b4f92d08f8aa46ff2be8a14090679c",
+      "bytes": 13999,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/event_unit_fairness_v1/run_event_unit_fairness_models_v2.py",
+      "sha256": "ece5d95488c2ec0be9cb3835ed77284d13f9a178f9c4a4cad8066f7c47837563",
+      "bytes": 48218,
+      "roles": [
+        "run_input",
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/event_unit_fairness_v1/validate_event_unit_fairness_models_v2.py",
+      "sha256": "b702ec77c0056ebab514b6aaf5889e44fbf96f4cd20f55243db90c0d82da5dc4",
+      "bytes": 11493,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/event_unit_fairness_v1/validate_event_unit_subspace_stability_v2.py",
+      "sha256": "42613a6ee6135a798c9e034ac2ba3f3ef2a60652f2b20465938819bfadfa984a",
+      "bytes": 5461,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/mechanism_family_v1/build_candidate_676_macroregions.py",
+      "sha256": "a03ca97b116b0fb93995204113da12273dcdb4959a8d779ef89f90fa4c5473e4",
+      "bytes": 23100,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/releases/second_pass_v4_583/results/loadings_aligned.csv",
+      "sha256": "703cda56d3b2579a40c426de1556a48db0dd456a9b7ca02ba31c8cba21a01c7d",
+      "bytes": 11499,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/releases/second_pass_v6_675/release_manifest.json",
+      "sha256": "6f3dd1366db691a20f05e3b41c902dad0e15178f14e2010bb2405c916ccdffc2",
+      "bytes": 9137,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/requirements-second-pass.txt",
+      "sha256": "dc1327c78e7ab0a1cd9f7cc4a82a58884f4a19f95940b0b13d3324509e40b972",
+      "bytes": 96,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/roman_sensitivity_registry.json",
+      "sha256": "a86108815ba701818d4ae8e51b4c38de6b740c1fa099805c310503035121c2fc",
+      "bytes": 44107,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v5/post_v5_correction_application_v1/run_model_comparison.py",
+      "sha256": "5613d468c934d023cb3b04953e0116831d2e9d41000dddc0d644e4a874b55c94",
+      "bytes": 26328,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v5/post_v5_correction_application_v1/validate_model_comparison.py",
+      "sha256": "a5c3f178875496207433284c86445e8c5d971f1393766b05ff3cfd6845b4e452",
+      "bytes": 6156,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v5/run_hellenistic_sensitivities.py",
+      "sha256": "caaf54b6b07d14afbd50719aa8c97f2ed858577daa4d12fec79b9ad90fded98d",
+      "bytes": 29895,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v6/correction_cutoff_batch_50/action_inventory.json",
+      "sha256": "290dffdfcaf4931a6ff4465082b533609c9b9d0dba02b5969802a928d077db14",
+      "bytes": 715845,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/full_recode_packets_26/coding/reconciliation/adjudicated_coding.json",
+      "sha256": "8ebed6d8ee31005e053779ebea35b01b8a663bc8a4e1315ee0d94601a7ae8fe9",
+      "bytes": 204053,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/full_recode_packets_47_49/coding/final_coding/adjudicated_coding.json",
+      "sha256": "d31489cf57f1c3f0189943d3c770ff78708c77cf34f046e8ce8c75c9e6fe6407",
+      "bytes": 662406,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/CODING_INSTRUMENT.json",
+      "sha256": "64c6b25776366eef770f9cd1191b4b9d87ad139a36e295dd83596909dfc14c0d",
+      "bytes": 145166,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/MODEL_EXECUTION_PLAN.md",
+      "sha256": "9aaca650d109605b3081caf15bd6402240c75b081c9003c3fc69764f3f1477ff",
+      "bytes": 7137,
+      "roles": [
+        "run_input",
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/ashkelon_candidate/coding_packet/coding/final_coding/adjudicated_coding.json",
+      "sha256": "611b18d20552ebc413896e2c6cbb3883bf3ba31e5b7c3885ac1a9766bb958eff",
+      "bytes": 136472,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/circeii_takeover_candidate/coding_packet/coding/reconciliation/adjudicated_coding.json",
+      "sha256": "048ce3e68b9e08536c84c051bf931b1fc20cb7eb9488f84212ca1ca7475a12ce",
+      "bytes": 530677,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/MAIN_INPUT_DECISIONS.md",
+      "sha256": "0b5dc15e336fa2204cba67191c45ffe7c5b5265b5f931ea6be0c5c4f1e17d609",
+      "bytes": 5410,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/MAIN_PROGRAM_DECISIONS.md",
+      "sha256": "c4b071136b4c5f7747e164581c96d8aed831313fd1b4aa8852e872b3155f6e20",
+      "bytes": 4755,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/ACCEPTANCE.json",
+      "sha256": "404a93c084fc034f69caa187790ba6e4d12f8103b36e43568c9c2c2615ab8ba9",
+      "bytes": 80591,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/MANIFEST.json",
+      "sha256": "a6f862d803adaa394dd7e8f541d1001c28098c82dcc1e510b61aa53a22d1ee99",
+      "bytes": 30384,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/PROGRAMS.json",
+      "sha256": "931025f636d7678293c31d6a5c5b83319814cc3d5fea4ad9a7340690d2cac5c8",
+      "bytes": 10004723,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_1_253_analysis.json",
+      "sha256": "5f3e1d3b14bec1abd4117d19e98701e4525c45d8ee94a3c8211bf348536782fc",
+      "bytes": 2314666,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_1_253_corpus.json",
+      "sha256": "d94a75da4336135d192471a92db9fefa9bc93da5828e582af4fc162ce33aeccc",
+      "bytes": 2681301,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_2_256_analysis.json",
+      "sha256": "98e223593c86ef7f2011c989c8e1be2a5a3c9d0b9e528c577f4b2a6be5a5452d",
+      "bytes": 2314666,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_2_256_corpus.json",
+      "sha256": "0ab9ff2372d761841d20cc6af109a5add093766dbc287e88f71d0dc6b4cbf0dd",
+      "bytes": 2681301,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_3_256_analysis.json",
+      "sha256": "9aaf4b1be4a176568df1ca9963300ee68d988c10f1a3c51bca2a3ba301033a25",
+      "bytes": 2314668,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_3_256_corpus.json",
+      "sha256": "a4d57c126edf0cb9d90921f5e42df7e4e9186f38443a9a62d31132d953835911",
+      "bytes": 2681328,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_4_257_analysis.json",
+      "sha256": "7de1b88b6248bac8ced4b45b60dc70f492936937d7877a66c24427e04075c944",
+      "bytes": 2314668,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_4_257_corpus.json",
+      "sha256": "b2a9d7f00d4459e81f12152c544d26d8edd75403cf3c51a605ff43ef72dc03ae",
+      "bytes": 2681328,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_5_640_analysis.json",
+      "sha256": "8c2791834ffad838dbb95fc83d7991fb8a44fdd9572c7d07191271c03f929bd0",
+      "bytes": 2314668,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/date_alternative_5_640_corpus.json",
+      "sha256": "e3989a35525c0a9eb313e7b3c0d4ffc5bc7767cf162dfe64f5547cdb4c512a48",
+      "bytes": 2681254,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/legacy_parent_analysis.json",
+      "sha256": "6649a780a06687445c2227884daa9446748ea74e4c6883bcae26f1551fe16422",
+      "bytes": 124782,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/weights/marian_africa_program.json",
+      "sha256": "4588774c7cc228334347f21ce98f062a1b2fc23b32a2f42182fecb073d54f6c7",
+      "bytes": 35531,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/weights/pometia_duplicate_annalistic_dates.json",
+      "sha256": "9e4d9f52b066deb5c91da1f46e2073c60be86efe14bb4c624e62c1b176db844e",
+      "bytes": 35531,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/weights/veii_pre338_scope.json",
+      "sha256": "a20630e5ad4e7a3b28cfb4154b729dec3512da86dbdc53bc4ef782bada3701a2",
+      "bytes": 35531,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/complete/weights/velitrae_sequence.json",
+      "sha256": "f552e2027290849d6d811afe8f67ff3f11041e2acc262f63d0bd500f9391c37e",
+      "bytes": 35531,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/SCOPE.json",
+      "sha256": "71280baf6a0e1267814f77d55170a429d2224edfab6ab567f9cde7a5efd4518d",
+      "bytes": 772587,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/baseline_analysis.json",
+      "sha256": "05059bcee146c67090d577eb6bc59562f998c80d5483a3e529300e2846bdf060",
+      "bytes": 1519937,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/baseline_corpus.json",
+      "sha256": "6b54b4f159a20b51c3389a4d4290dabf613a2f0159f9d517c67eac647ebe6a3d",
+      "bytes": 2761539,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/baseline_na_types.csv",
+      "sha256": "78d9ef238a381dd592c754b8723bb6fc7deb4c3959472f35c89c3e5ded669eea",
+      "bytes": 80539,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/baseline_scores.csv",
+      "sha256": "70b004bc0b9526d928c48049d04036e2d8dd89f1c27a92cbca68c6f769f6d51c",
+      "bytes": 233681,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/successor_analysis.json",
+      "sha256": "7c127236226e28caefcb703e99e58944ff12e0b4b44ae6a4504ecb3069681750",
+      "bytes": 2314301,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/successor_corpus.json",
+      "sha256": "daeda53679eccc1cf118c312b09a1e27510caabba1f99636f9f7797af6f8e25e",
+      "bytes": 3032117,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/successor_na_types.csv",
+      "sha256": "83884f2ca6d0e370df42d73561fb65ee74e92ecdd92c45258a696bfe139a9ef6",
+      "bytes": 81847,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/core/successor_scores.csv",
+      "sha256": "0212984016e8aabd6feb46edfd13c8fdf2cb1160c2ff5e17a85fff91a232d6c3",
+      "bytes": 226994,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/program_projection/WEIGHT_RULES.json",
+      "sha256": "84955432c33bf765fdee2983f402ff690fe4aab640b6fbcfba53522041aac104",
+      "bytes": 16116,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/program_projection/archives/legacy_parent_corpus.json",
+      "sha256": "a754d40a25344c9ff1586a33c608a2802c1c7c70cb1c69e86b6ffbbcb507dea6",
+      "bytes": 199871,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/program_projection/archives/legacy_parent_na_types.csv",
+      "sha256": "40b5e4fb58cadfde13596c54de20962027e7e095d7cae32f377d976c338408e2",
+      "bytes": 9457,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/program_projection/archives/legacy_parent_scores.csv",
+      "sha256": "93cadcc40920a9160036bc82b967b7bd9ccec3a30403c8deef318d49afbb6eba",
+      "bytes": 26997,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/program_projection/weights/linked_program_total_one.json",
+      "sha256": "0d285a6df87cd9d62c5a0378a2f44afeb6f74a2397e3293507b38b7ab113811e",
+      "bytes": 35937,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/program_projection/weights/shapur_three_region_illustrative.json",
+      "sha256": "3af63e7b6e4f15626baaa7e4bee8249c3eaa5928b4fb4a9e47f8fcf42ea1a90f",
+      "bytes": 35531,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/indicator_overlap.py",
+      "sha256": "aa301fb096fe9e35ad6631bb2c0d1171c3674dfa19101077dc54cd286a5c8259",
+      "bytes": 8206,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/INPUT_CONTRACT.md",
+      "sha256": "0a269b836655b9724270205451346805e506600678c4c3aa668d567ed50bc66f",
+      "bytes": 10380,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/dependencies.json",
+      "sha256": "408ee793ca9c9a77365472d7199a4a43e2f7fcfda259c3018106c06a35888396",
+      "bytes": 2398,
+      "roles": [
+        "direct_loader_dependency_manifest"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/inputs.py",
+      "sha256": "b1ade72db5258eefe09def8210faa5094eb48c57c4b0fdef571bfb0617a52e87",
+      "bytes": 14265,
+      "roles": [
+        "adapter_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/numerics.py",
+      "sha256": "06d2605b155dee99deaa045cec91b0c00b156bb6abda74a43e541b29c59d75e2",
+      "bytes": 3176,
+      "roles": [
+        "adapter_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/resume_cache.py",
+      "sha256": "6881e5f05dc96df42f35f111412e0203e8410a7ae6588b35c4a11199dc450b10",
+      "bytes": 13995,
+      "roles": [
+        "adapter_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/run_20260907a/MANIFEST.json",
+      "sha256": "e04666c721603cc5111d0421331be9855254c314364000dbc2fed37037d35100",
+      "bytes": 26264,
+      "roles": [
+        "closed_run_manifest"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/run_successor.py",
+      "sha256": "92467ee530c7dac2e36a7493f0605f0039ed865a2f955a6905722f433fc4982d",
+      "bytes": 25943,
+      "roles": [
+        "run_input",
+        "adapter_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/test_resume_cache.py",
+      "sha256": "a7ad477b9c7da9a99cc927d9cf990c1bdc029516b1e364e22eec60114615d8a2",
+      "bytes": 16205,
+      "roles": [
+        "adapter_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/test_synthetic.py",
+      "sha256": "42a9b133059f1150eadcc37b64f9ee0882daaf75ad23f81746f72a7b3b8e84e0",
+      "bytes": 20158,
+      "roles": [
+        "adapter_binding"
+      ],
+      "component_notice": "Original software: MIT; embedded third-party exceptions remain"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/new_event_metadata_v1/COMPATIBILITY.md",
+      "sha256": "c331b1be721d51c17163682401b3256b160b3f824900da2cc4ee4e43b145f374",
+      "bytes": 19219,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/new_event_metadata_v1/MAIN_AUTHORING_DECISIONS.md",
+      "sha256": "54c52b36d4e63e9ef665fe4dcece4f26d3748a1f84723185aa151d32d5e10ac8",
+      "bytes": 7761,
+      "roles": [
+        "numerical_dependency_binding"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/new_event_metadata_v1/main_accepted_projection/MAIN_METADATA_CHOICES.json",
+      "sha256": "33840c538f2d0bf1d92754485fb2ddcd66ad5ba280fbcb05aad453ffc9cb926c",
+      "bytes": 89128,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/qin_southern_candidates/coding_packet/coding/final_coding/adjudicated_coding.json",
+      "sha256": "8ecb1b7873da40abfb1ceca59b9c0420ddc75baf6c3fc7c31041fa06061644dc",
+      "bytes": 1213778,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/sutrium_nepet_candidates/coding_packet/coding/reconciliation/adjudicated_coding.json",
+      "sha256": "fd0e3efe77168a132fa480f7d82b5d3fed25df2a37e787d26bc7979600823647",
+      "bytes": 895225,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/til_karme_candidate/coding_packet/coding/reconciliation/adjudicated_coding.json",
+      "sha256": "c013e9710785d75aa4f66fbf1e5c0923c969f4b4e6c53ec41f70bddffa55a878",
+      "bytes": 140609,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/successor_coding_batch_50/iberia_ready_coding/coding/final_coding/adjudicated_coding.json",
+      "sha256": "3b4a37b3090907d3de407507941a5b8af43fb96505f0eba6d98e95cbf02f8b8e",
+      "bytes": 150959,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/successor_coding_batch_50/ready_coding/coding/final_coding/adjudicated_coding.json",
+      "sha256": "b7448161d071f4eaf6cceb165b66ff8e71a67a81721e65e804b8f4de909daefa",
+      "bytes": 428012,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/targeted_coding_batch_24/coding/reconciliation/adjudicated_coding.json",
+      "sha256": "76e94a985f334d7c47d56a3e35e2b2a968a50a578fc8aa82790ac09a8af92f49",
+      "bytes": 135945,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/targeted_coding_batch_25_27/coding/reconciliation/adjudicated_coding.json",
+      "sha256": "c2cc8a6a2fd00b10c7f28ef2fc8a26464cfc2b107f5eb4ce029fb41cbaf44500",
+      "bytes": 283591,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/targeted_coding_batch_28_31/coding/final_coding/adjudicated_coding.json",
+      "sha256": "d8b737a4cf8063671cb28ea443c0ba5fc6a2941c2169fdf15158e2874551f421",
+      "bytes": 251019,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/targeted_coding_batch_32_34/coding/reconciliation/adjudicated_coding.json",
+      "sha256": "43a038c3785e3da59b090066f21b29501e858c422f1a7cdebba34f707e7ffa22",
+      "bytes": 569241,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/targeted_coding_batch_35_36/coding/reconciliation/adjudicated_coding.json",
+      "sha256": "6426a2ace25d3013197b82b77416ab89334b74b582d5203a8f09028c823a8427",
+      "bytes": 308481,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/targeted_coding_batch_37_39/coding/final_coding/adjudicated_coding.json",
+      "sha256": "dce346f4e10c2fc7cd676a8a66cf34e8d1e89e5ecd239dcc195958dd4e97d7f2",
+      "bytes": 765708,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/targeted_coding_batch_40_42/coding/final_coding/adjudicated_coding.json",
+      "sha256": "10c252f372bfac1bfe52b7cc03569d2cae3f9b53c363042dd1cf9b71883c6387",
+      "bytes": 625355,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    },
+    {
+      "path": "analysis/second_pass/v6/targeted_coding_batch_43_46/coding/final_coding/adjudicated_coding.json",
+      "sha256": "87a70be432f39ffb805081b1ded124e6ec42c816094a66162688151dbbc60ab8",
+      "bytes": 1030756,
+      "roles": [
+        "run_input"
+      ],
+      "component_notice": "Mixed research data/prose/provenance: original fields only under project grants; quotations excepted"
+    }
+  ],
+  "generated_archive_members": [
+    ".git",
+    "EXPECTED_FINGERPRINTS.json",
+    "EXPORT_MANIFEST.json",
+    "LOADER_DEPENDENCIES.md",
+    "README.md",
+    "SOURCE_MAP.json",
+    "portable_preflight.py",
+    "requirements-reproduction.txt"
+  ],
+  "build_only_not_shipped": [
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_execution_v1/run_20260907a/RESULTS.json",
+      "sha256": "91cd3d38aaf3bae80a4d7972c935d020bd48c56e4e78d0cada34104ecd5008f9"
+    },
+    {
+      "path": "analysis/second_pass/v6/post_v6_correction_application_v1/model_verification_v1/RESULTS_CHECKS.json",
+      "sha256": "9007f855c7f1b5e81611c99ee4f8f30c8f83a382c3a6f550e11acf9535506c2d"
+    }
+  ],
+  "exclusions": [
+    "No recursive traversal of nested metadata/provenance paths",
+    "No PDFs or source captures",
+    "No tmp, secrets, raw coder journals, queues, Git history or caches",
+    "No full RESULTS or runtime binaries; compact expectations only"
+  ],
+  "upstream_paths": "Paths inside unchanged metadata are locators, sometimes private and unshipped; this is numerical reproduction, not reproduced historical research."
+}

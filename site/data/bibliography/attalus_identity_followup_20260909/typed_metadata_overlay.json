@@ -1,0 +1,724 @@
+[
+  {
+    "work_id": "access:1decf5397cfe760eb05c",
+    "recorded_title": "Cicero, De domo sua 79–80, for the legal distinction between civic penalties and physical expulsion",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/cicero/domo2.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Cicero : De Domo Sua",
+      "work_type": "ancient_speech_translation_web_component",
+      "author_names_as_supplied": [
+        "Cicero"
+      ],
+      "section_range_as_displayed": "54-104",
+      "translator_names_as_supplied": [
+        "N.H. Watts"
+      ],
+      "translation_year_as_reported": 1928,
+      "footer_date_unlabelled_as_displayed": "25.11.23",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/cicero/domo2.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:2fe8966bffe0af4d3e7b",
+    "recorded_title": "Sylloge Inscriptionum Graecarum 312, Samos honours Gorgos and Minneon of Iasos",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/docs/sig1/s312.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "SAMOS HONOURS GORGOS AND MINNEON OF IASOS",
+      "work_type": "ancient_inscription_translation_webpage",
+      "collection_component_as_reported": "Sylloge Inscriptionum Graecarum: 312",
+      "greek_text_identifier_as_displayed": "Samos 35 ( I.G. 12.6.1.17 )",
+      "inscription_date_as_reported": "soon after 321 B.C.",
+      "translator_names_as_supplied": null,
+      "footer_date_unlabelled_as_displayed": "13.02.16",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/docs/sig1/s312.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "translator_names_as_supplied"
+      ]
+    }
+  },
+  {
+    "work_id": "access:4bf05a17aec56d2772cf",
+    "recorded_title": "Memnon of Herakleia 12.1, for Nikomedes's foundation of a namesake city opposite Astakos; this passage does not independently attest the transfer",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/translate/memnon1.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Memnon: History of Heracleia",
+      "work_type": "ancient_history_excerpt_translation_web_component",
+      "author_names_as_supplied": [
+        "Memnon"
+      ],
+      "chapter_range_as_displayed": "1 to 21",
+      "greek_text_edition_as_reported": "Jacoby's Greek text (FGrH_434)",
+      "transmitting_witness_as_reported": "Photius",
+      "html_meta_author_as_supplied": "Andrew Smith",
+      "translator_names_as_supplied": null,
+      "footer_date_unlabelled_as_displayed": "29.02.16",
+      "text_scope_note": "The page opens with Photius' introduction describing his reading of Memnon's ninth through sixteenth books; the web chapters are not those original book numbers.",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/translate/memnon1.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The HTML author field credits Andrew Smith; it does not explicitly name him as translator."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "translator_names_as_supplied"
+      ]
+    }
+  },
+  {
+    "work_id": "access:5ad4967f76da1c7322db",
+    "recorded_title": "Cicero, Pro Sexto Roscio Amerino 105 and 125–154, for sale and record procedures, the 1 June 81 BCE legal cutoff, an alleged late transaction, and the continuing vulnerability of a victim's heir",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/cicero/s_roscius2.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Cicero : Pro Sex. Roscio",
+      "work_type": "ancient_speech_translation_web_component",
+      "author_names_as_supplied": [
+        "Cicero"
+      ],
+      "section_range_as_displayed": "79-154",
+      "translator_names_as_supplied": [
+        "J.H. Freese"
+      ],
+      "translation_year_as_reported": 1930,
+      "footer_date_unlabelled_as_displayed": "17.02.24",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/cicero/s_roscius2.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:6c8af49ca66799ce94d7",
+    "recorded_title": "Granius Licinianus 36, for the 78 BCE restoration proposal and general program chronology, not local assignment detail",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/translate/granius.html#36"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Granius Licinianus",
+      "work_type": "fragmentary_ancient_history_translation_webpage",
+      "author_names_as_supplied": [
+        "Granius Licinianus"
+      ],
+      "latin_text_edition_editor_as_supplied": "N.Criniti",
+      "older_edition_editor_as_supplied": "M.Flemisch",
+      "numbering_roles_as_reported": {
+        "green": "sentence numbers in Criniti",
+        "red": "page numbers in Flemisch"
+      },
+      "html_meta_author_as_supplied": "Andrew Smith",
+      "translator_names_as_supplied": null,
+      "requested_anchor": "36",
+      "anchor_component_as_displayed": "Book 36 - events of 81-78 B.C.",
+      "footer_date_unlabelled_as_displayed": "29.02.16",
+      "text_scope_note": "Fragmentary palimpsest text with gaps; the site warns that translation is hazardous.",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/translate/granius.html#36"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The HTML author field credits Andrew Smith; it does not explicitly name him as translator."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "translator_names_as_supplied"
+      ]
+    }
+  },
+  {
+    "work_id": "access:953809b0232291152324",
+    "recorded_title": "Orosius, Histories Against the Pagans 4.23.2–7, accessed 2026-08-30, for the much later and separately attributed 55,000-captive account and reported sale; not combined with Appian's total",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/translate/orosius4B.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Orosius, Book 4",
+      "work_type": "adapted_ancient_history_translation_web_component",
+      "author_names_as_supplied": [
+        "Orosius"
+      ],
+      "chapter_range_as_displayed": "14-23",
+      "adapted_from_translator_as_supplied": "I.W. Raymond",
+      "translation_year_as_reported": 1936,
+      "adapter_names_as_supplied": null,
+      "footer_date_unlabelled_as_displayed": "22.12.20",
+      "text_scope_note": "The page explicitly labels its English text as adapted from Raymond, not an unaltered reproduction.",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/translate/orosius4B.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "adapter_names_as_supplied"
+      ]
+    }
+  },
+  {
+    "work_id": "access:e858fa4d54c77410c6dc",
+    "recorded_title": "Cicero, Pro Sexto Roscio Amerino 6 and 20–28, for the near-contemporary allegation that thirteen Amerian farms were acquired after Roscius's name was inserted and his heir was driven from the property",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/cicero/s_roscius.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Cicero : Pro Sex. Roscio",
+      "work_type": "ancient_speech_translation_web_component",
+      "author_names_as_supplied": [
+        "Cicero"
+      ],
+      "section_range_as_displayed": "1-78",
+      "translator_names_as_supplied": [
+        "J.H. Freese"
+      ],
+      "translation_year_as_reported": 1930,
+      "footer_date_unlabelled_as_displayed": "17.02.24",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/cicero/s_roscius.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:f95373bc0f223812c9c6",
+    "recorded_title": "Cicero, Pro Caecina 95–102, especially 97 and 101–102, for Volaterran civic status and the limits of Sullan deprivation",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/cicero/caecina2.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Cicero : Pro Caecina",
+      "work_type": "ancient_speech_translation_web_component",
+      "author_names_as_supplied": [
+        "Cicero"
+      ],
+      "section_range_as_displayed": "51-104",
+      "translator_names_as_supplied": [
+        "H.G. Hodge"
+      ],
+      "translation_year_as_reported": 1927,
+      "footer_date_unlabelled_as_displayed": "06.11.23",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/cicero/caecina2.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:attalus.org/cicero/agraria2_2.html",
+    "recorded_title": "Primary source 1: attalus.org",
+    "scope": [
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/cicero/agraria2_2.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Cicero : De Lege Agraria, 2",
+      "work_type": "ancient_speech_translation_web_component",
+      "author_names_as_supplied": [
+        "Cicero"
+      ],
+      "section_range_as_displayed": "47-103",
+      "translator_names_as_supplied": [
+        "J.H. Freese"
+      ],
+      "translation_year_as_reported": 1930,
+      "footer_date_unlabelled_as_displayed": "20.10.23",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/cicero/agraria2_2.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:attalus.org/cicero/atticus1.html",
+    "recorded_title": "Primary source 2: attalus.org",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/cicero/atticus1.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Cicero : Letters to Atticus",
+      "work_type": "ancient_letters_translation_web_component",
+      "author_names_as_supplied": [
+        "Cicero"
+      ],
+      "book_number_as_displayed": 1,
+      "translator_names_as_supplied": [
+        "E.O. Winstedt"
+      ],
+      "translation_year_as_reported": 1919,
+      "footer_date_unlabelled_as_displayed": "18.07.26",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/cicero/atticus1.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:attalus.org/cicero/sulla.html",
+    "recorded_title": "Primary source 1: attalus.org",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/cicero/sulla.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Cicero : Pro Sulla",
+      "work_type": "ancient_speech_translation_webpage",
+      "author_names_as_supplied": [
+        "Cicero"
+      ],
+      "translator_names_as_supplied": [
+        "L.E. Lord"
+      ],
+      "translation_year_as_reported": 1937,
+      "footer_date_unlabelled_as_displayed": "20.02.24",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/cicero/sulla.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:attalus.org/docs/cil/works.html",
+    "recorded_title": "Primary source 1: attalus.org",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/docs/cil/works.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Latin Inscriptions: Public Works",
+      "work_type": "ancient_inscription_translation_collection_webpage",
+      "translator_names_as_supplied": [
+        "E.H.Warmington"
+      ],
+      "translation_year_as_reported": 1940,
+      "latin_text_collection_as_reported": "Corpus Inscriptionum Latinarum",
+      "displayed_collection_prefix": "CIL_1²",
+      "footer_date_unlabelled_as_displayed": "18.09.25",
+      "text_scope_note": "A page containing multiple inscriptions, not a single ancient author or inscription; original case-specific CIL locators remain separate.",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/docs/cil/works.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The year is part of the host's translation credit; it is not the web publication date and does not establish a specific printed imprint or physical copy."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:attalus.org/names/d/dentatus.html",
+    "recorded_title": "Primary source 2: attalus.org",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/names/d/dentatus.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Dentatus - in ancient sources @ attalus.org",
+      "work_type": "modern_ancient_source_name_index",
+      "indexed_name_as_displayed": "Dentatus (M'. Curius Dentatus)",
+      "copyright_holder_as_supplied": "Andrew Smith",
+      "copyright_year_as_displayed": 2026,
+      "text_scope_note": "A modern name index linking to event lists and translated sources; the page itself is not an ancient primary text.",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/names/d/dentatus.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The copyright credit is retained as a rights statement, without inferring personal authorship or first-publication date."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:attalus.org/names/n/nequinum.html",
+    "recorded_title": "Primary source 1: attalus.org",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/names/n/nequinum.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Nequinum - in ancient sources @ attalus.org",
+      "work_type": "modern_ancient_source_name_index",
+      "indexed_name_as_displayed": "Nequinum",
+      "copyright_holder_as_supplied": "Andrew Smith",
+      "copyright_year_as_displayed": 2021,
+      "text_scope_note": "A modern name index linking to event lists and translated sources; the page itself is not an ancient primary text.",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/names/n/nequinum.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The copyright credit is retained as a rights statement, without inferring personal authorship or first-publication date."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:attalus.org/translate/granius.html",
+    "recorded_title": "Primary source 1: attalus.org",
+    "scope": [
+      "authoring_source_note_link",
+      "family_evidence_hold",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.attalus.org/translate/granius.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Granius Licinianus",
+      "work_type": "fragmentary_ancient_history_translation_webpage",
+      "author_names_as_supplied": [
+        "Granius Licinianus"
+      ],
+      "latin_text_edition_editor_as_supplied": "N.Criniti",
+      "older_edition_editor_as_supplied": "M.Flemisch",
+      "numbering_roles_as_reported": {
+        "green": "sentence numbers in Criniti",
+        "red": "page numbers in Flemisch"
+      },
+      "html_meta_author_as_supplied": "Andrew Smith",
+      "translator_names_as_supplied": null,
+      "footer_date_unlabelled_as_displayed": "29.02.16",
+      "text_scope_note": "Fragmentary palimpsest text with gaps; the site warns that translation is hazardous.",
+      "hosting_platform": "Attalus.org",
+      "metadata_accessed": "2026-09-09"
+    },
+    "verification_urls": [
+      "https://www.attalus.org/translate/granius.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, explicit credits and raw HTML metadata; linked host guidance records its editorial and numbering limits.",
+      "metadata_limits": [
+        "Original IDs, labels, access URLs, purpose notes and case locators are preserved.",
+        "Source-page metadata identifies this web presentation; no printed title-page scan or historical claim acceptance is implied.",
+        "Current access is documented, but no verified public archival URL is available. Exact page bytes are retained privately.",
+        "The footer date has no explicit role label in the consulted page or guidance; it is retained literally, without assigning a publication or modification date.",
+        "The HTML author field credits Andrew Smith; it does not explicitly name him as translator."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "translator_names_as_supplied"
+      ]
+    }
+  }
+]

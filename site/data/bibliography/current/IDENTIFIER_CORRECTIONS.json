@@ -1,0 +1,35 @@
+{
+  "review_date": "2026-09-08",
+  "status": "bibliographic_corrections_verified_pending_public_citation_refresh",
+  "scope": "Correct access identifiers, not event claims or statistical scores. Preserve immutable release inputs and old work IDs with an explicit correction relationship.",
+  "corrections": [
+    {
+      "legacy_work_id": "doi:10.1007/s002679900041",
+      "source_id": "transmig_fearnside",
+      "recorded_url": "https://doi.org/10.1007/s002679900041",
+      "corrected_doi": "10.1007/s002679900049",
+      "corrected_url": "https://doi.org/10.1007/s002679900049",
+      "corrected_title": "Philip M. Fearnside, Transmigration in Indonesia: Lessons from Its Environmental and Social Impacts (1997)",
+      "authority": "https://link.springer.com/article/10.1007/s002679900049",
+      "finding": "Recorded DOI identifies Boyle and Lavkulich, Carbon Pool Dynamics in the Lower Fraser Basin from 1827 to 1990. Springer identifies the intended Fearnside paper in Environmental Management 21, 553–570 (1997) with the corrected DOI.",
+      "affected_case_ids": ["indonesian-transmigration"]
+    },
+    {
+      "legacy_work_id": "doi:10.2307/2059957",
+      "source_id": "tai_oconnor",
+      "recorded_url": "https://doi.org/10.2307/2059957",
+      "corrected_doi": "10.2307/2059956",
+      "corrected_url": "https://doi.org/10.2307/2059956",
+      "corrected_title": "Richard A. O’Connor, Agricultural Change and Ethnic Succession in Southeast Asian States: A Case for Regional Anthropology (1995)",
+      "authority": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/agricultural-change-and-ethnic-succession-in-southeast-asian-states-a-case-for-regional-anthropology/66A68BD54518C46E5DA108CA0CFE75F0",
+      "finding": "Recorded DOI identifies Mark Ravina’s adjacent article on early-modern Japan. The publisher gives O’Connor’s article as Journal of Asian Studies 54(4), November 1995, 968–996, DOI 10.2307/2059956. The platform’s 2010 online date is not the original publication year.",
+      "affected_case_ids": ["asia-tai-central-mainland-settlement", "asia-shan-tai-western-mainland-settlement"]
+    },
+    {
+      "legacy_work_id": "doi:10.1515/9783111593715/html",
+      "corrected_doi": "10.1515/9783111593715",
+      "correction_type": "identifier_extraction_only",
+      "finding": "The De Gruyter /html viewer suffix is not part of the DOI. Keep the valid publisher access URL and the legacy work ID; retrieve the base DOI separately."
+    }
+  ]
+}

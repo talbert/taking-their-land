@@ -1,0 +1,16 @@
+[
+  {
+    "from_work_id": "doi:10.4000/14unm",
+    "relation": "contains_chapter",
+    "to_work_id": "access:74aa08736bbe3da65af9",
+    "chapter_doi": "10.4000/14unk",
+    "basis": "registry title, author and DOI redirects; book and chapter remain separate"
+  },
+  {
+    "from_work_id": "title:bresson pidasa miletos and the karian revolt",
+    "relation": "same_chapter_as",
+    "to_work_id": "access:74aa08736bbe3da65af9",
+    "merged": false,
+    "basis": "matching author/title and the previously recorded canonical access route"
+  }
+]

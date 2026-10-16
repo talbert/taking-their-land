@@ -1,0 +1,17 @@
+{
+  "status": "tiered_inventory_built_not_all_entries_publication_ready",
+  "counts": {
+    "secondary_inventory_unresolved": 1192,
+    "deposited_metadata_needs_identity_or_locus_review": 25,
+    "deposited_metadata_identity_screened": 116,
+    "corrected_identifier_verified": 3,
+    "prior_pilot_review_preserved": 30
+  },
+  "anchor_use": {
+    "cited": 27,
+    "background": 14
+  },
+  "pending_source_identifier_refresh": 2,
+  "unknown_fields_policy": "Blank and explicitly unresolved; no invented author, date, edition or locus.",
+  "remaining": "Resolve secondary metadata and edition/locus exceptions in bounded research batches; this inventory does not represent every research body as fully verified."
+}

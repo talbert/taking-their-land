@@ -1,0 +1,20 @@
+{
+  "schema": "public-f8-imported-unfree-model-v2",
+  "status": "bounded_adjudication_complete_public_display_activated",
+  "public_label": "Imported unfree labor",
+  "high_means": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+  "applicability_gate": "scs_exogenous_labor_triad",
+  "bounded_exception": "A source-bounded event whose defining mechanism is imported unfree labor may be adjudicated applicable even when the statistical triad is structurally N/A because no settler population exists.",
+  "public_display_correction_policy": "A known frozen score may be source-corrected for public display when its positive cells concern the local affected population rather than a distinct population imported from elsewhere. The frozen score remains unchanged and the referent error is queued for the next release.",
+  "secondary_scale_dimension": "pel_unfree_incomer_share",
+  "gate_rules": {
+    "triad_zero": "display zero; coerced settlers or detainees are a different construct",
+    "triad_positive": "combine with known unfree-incomer share; preserve U as uncertainty",
+    "triad_unknown": "suppress solid point and show full uncertainty",
+    "triad_structural_na": "suppress as N/A unless a positive or unresolved unfree score creates a coding-review conflict"
+  },
+  "statistical_f8_preserved": true,
+  "release_authorized": false,
+  "atlas_change_authorized": true,
+  "deployment_authorized": true
+}

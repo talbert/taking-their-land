@@ -1,0 +1,294 @@
+[
+  {
+    "work_id": "access:13e88c5ff0247dbec8b9",
+    "recorded_title": "M. Davies and P. J. Finglass, Stesichorus: The Poems, introduction p. 7",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://assets.cambridge.org/97811070/78345/excerpt/9781107078345_excerpt.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book",
+      "title": "Stesichorus",
+      "subtitle": [
+        "The Poems"
+      ],
+      "authors": [
+        {
+          "literal": "Stesichorus",
+          "role": "ancient_text_author"
+        }
+      ],
+      "editors": [
+        {
+          "literal": "M. Davies"
+        },
+        {
+          "literal": "P. J. Finglass"
+        }
+      ],
+      "translators": [
+        {
+          "literal": "M. Davies"
+        },
+        {
+          "literal": "P. J. Finglass"
+        }
+      ],
+      "publisher": "Cambridge University Press",
+      "year": 2014,
+      "year_basis": "Publisher hardback listing and indexed publisher copyright page",
+      "published": "2014-12",
+      "first_published": 2014,
+      "isbn": [
+        {
+          "value": "9781107078345",
+          "format": "hardback"
+        }
+      ],
+      "series": "Cambridge Classical Texts and Commentaries"
+    },
+    "verification_urls": [
+      "https://www.cambridge.org/ws/titles/stesichorus-poems?format=HB",
+      "https://assets.cambridge.org/97811070/78345/frontmatter/9781107078345_frontmatter.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the cited publisher excerpt as the 2014 edited and translated book with hardback ISBN 9781107078345; preserve the original access ID and introduction p. 7 locator. Separate Stesichorus as ancient text author from the modern editors/translators.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Earlier body consultation and incoming-flight notes remain separately bounded. This metadata update does not verify every inherited locator, historical claim or underlying archival source.",
+      "metadata_basis": "Indexed primary publisher product listing names Stesichorus and both editors, December 2014 and the hardback ISBN. Indexed publisher front matter states first publication/copyright 2014, that ISBN and the introduction/translation/commentary credit. This is text access via the search provider.",
+      "metadata_limits": "Direct publisher page/frontmatter and excerpt requests timed out. No newly downloaded or visually inspected Cambridge PDF is claimed. Edition number, expanded editor names, book DOI, electronic ISBN and series number are not inferred. The earlier p. 7 source consultation remains separately bounded."
+    }
+  },
+  {
+    "work_id": "title:human rights watch 2002 montagnards",
+    "recorded_title": "Human Rights Watch 2002 (Montagnards)",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.hrw.org/report/2002/04/23/repression-montagnards/conflicts-over-land-and-religion-vietnams-central-highlands"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "report",
+      "title": "Repression of Montagnards",
+      "subtitle": [
+        "Conflicts over Land and Religion in Vietnam’s Central Highlands"
+      ],
+      "authors": [
+        {
+          "literal": "Human Rights Watch",
+          "role": "institutional_attribution"
+        }
+      ],
+      "publisher": "Human Rights Watch",
+      "year": 2002,
+      "year_basis": "Report copyright page and publisher report landing page",
+      "copyright_date": "2002-04",
+      "published_web": "2002-04-23",
+      "isbn": [
+        {
+          "value": "1-56432-272-6",
+          "format": "as_printed_in_report"
+        }
+      ],
+      "library_of_congress_control_number": "2002104126"
+    },
+    "verification_urls": [
+      "https://www.hrw.org/report/2002/04/23/repression-montagnards/conflicts-over-land-and-religion-vietnams-central-highlands",
+      "https://www.hrw.org/sites/default/files/reports/vietnam0402.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the full report represented by the existing landing-page URL. Use its title, subtitle and institutional attribution; preserve web publication and report copyright dates as distinct fields.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Earlier body consultation and incoming-flight notes remain separately bounded. This metadata update does not verify every inherited locator, historical claim or underlying archival source.",
+      "metadata_basis": "Downloaded publisher PDF pages 1–2 were read and visually inspected. Title page identifies Human Rights Watch; copyright page gives April 2002, ISBN and Library of Congress number. Publisher landing page displays 23 April 2002.",
+      "metadata_limits": "No named researcher or editor is promoted to sole author. The HTML citation_journal_title value Human Rights Watch is a publisher template field, not evidence this report is a journal article. Report length is not used as a cited passage range. No DOI is inferred."
+    }
+  },
+  {
+    "work_id": "title:journal of chinese history chinese civil war exiles in 1950s taiwan",
+    "recorded_title": "Journal of Chinese History, Chinese Civil War exiles in 1950s Taiwan",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/abs/together-in-the-same-boat-exiled-nationalist-state-and-chinese-civil-war-exiles-in-1950s-taiwan/858F582B8788BA7CE556ADDF2D65DFF3"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6545-4124",
+          "authenticated-orcid": false,
+          "given": "Dominic Meng-Hsuan",
+          "family": "Yang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "title": "Together in the Same Boat: Exiled Nationalist State and Chinese Civil War Exiles in 1950s Taiwan",
+      "container_title": [
+        "Journal of Chinese History"
+      ],
+      "publisher": "Cambridge University Press",
+      "publisher_as_deposited": "Cambridge University Press (CUP)",
+      "year": 2021,
+      "year_basis": "published-print issue date; online date retained separately",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2021,
+            7
+          ]
+        ],
+        "published-online": [
+          [
+            2020,
+            12,
+            22
+          ]
+        ],
+        "issued": [
+          [
+            2020,
+            12,
+            22
+          ]
+        ],
+        "published": [
+          [
+            2020,
+            12,
+            22
+          ]
+        ]
+      },
+      "volume": "5",
+      "issue": "2",
+      "pages": "285-309",
+      "doi": "10.1017/jch.2020.46",
+      "container_title_as_displayed": "Journal of Chinese History 中國歷史學刊"
+    },
+    "verification_urls": [
+      "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/abs/together-in-the-same-boat-exiled-nationalist-state-and-chinese-civil-war-exiles-in-1950s-taiwan/858F582B8788BA7CE556ADDF2D65DFF3",
+      "https://api.crossref.org/works/10.1017%2Fjch.2020.46"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify Yang’s journal article rather than the separately registered book/chapter; retain December 2020 online and July 2021 issue dates.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Earlier body consultation and incoming-flight notes remain separately bounded. This metadata update does not verify every inherited locator, historical claim or underlying archival source.",
+      "metadata_basis": "Primary publisher HTML title/byline/citation fields, journal issue details and DOI agree with the freshly retrieved Crossref record. The earlier saved publisher HTML is hashed in this packet.",
+      "metadata_limits": "Crossref English container title and publisher bilingual displayed title are kept in separate fields. The registered article URL has an abstract path; earlier body access used a separate publisher shared link. No book-chapter passage is substituted."
+    }
+  },
+  {
+    "work_id": "title:sen 2017 developing terra nullius",
+    "recorded_title": "Sen 2017, “Developing Terra Nullius”",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/developing-terra-nullius-colonialism-nationalism-and-indigeneity-in-the-andaman-islands/8F0B5F996A88F1DB8E8B5D7B54AD8E8F"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "given": "Uditi",
+          "family": "Sen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "title": "Developing Terra Nullius: Colonialism, Nationalism, and Indigeneity in the Andaman Islands",
+      "container_title": [
+        "Comparative Studies in Society and History"
+      ],
+      "publisher": "Cambridge University Press",
+      "publisher_as_deposited": "Cambridge University Press (CUP)",
+      "year": 2017,
+      "year_basis": "published-print issue date; online date retained separately",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2017,
+            10
+          ]
+        ],
+        "published-online": [
+          [
+            2017,
+            9,
+            29
+          ]
+        ],
+        "issued": [
+          [
+            2017,
+            9,
+            29
+          ]
+        ],
+        "published": [
+          [
+            2017,
+            9,
+            29
+          ]
+        ]
+      },
+      "volume": "59",
+      "issue": "4",
+      "pages": "944-973",
+      "doi": "10.1017/s0010417517000330"
+    },
+    "verification_urls": [
+      "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/developing-terra-nullius-colonialism-nationalism-and-indigeneity-in-the-andaman-islands/8F0B5F996A88F1DB8E8B5D7B54AD8E8F",
+      "https://api.crossref.org/works/10.1017%2FS0010417517000330"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify Uditi Sen’s article, retaining September 2017 online and October 2017 issue dates; preserve the title-based ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Earlier body consultation and incoming-flight notes remain separately bounded. This metadata update does not verify every inherited locator, historical claim or underlying archival source.",
+      "metadata_basis": "Primary publisher HTML title/byline/citation fields, journal issue details and DOI agree with the freshly retrieved Crossref record. The earlier saved publisher HTML is hashed in this packet.",
+      "metadata_limits": "The title’s deposited italic markup is removed for the plain-text title without changing words. DOI capitalization is preserved as deposited and matched case-insensitively to the publisher. Earlier article-body/source-dependency limits remain in the flight-note review."
+    }
+  }
+]

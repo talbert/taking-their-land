@@ -1,0 +1,1941 @@
+[
+  {
+    "work_id": "access:0bdd27ecd699efeb13a8",
+    "recorded_title": "IACHR, Report on the Situation of Human Rights in Nicaragua (1981), introduction and July 1979 chronology; UNHCR A/35/12, chapter III.A paragraphs 173 and 179–180, printed pages 31–32; UNHCR, The State of the World's Refugees 2000, chapter 5, printed pages 121–122, 127 and 130–131; IACHR, Report on the Situation of a Segment of the Nicaraguan Population of Miskito Origin, part 2 section A and part 3 paragraphs 3–4. No additional source was needed.",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/in/sites/en-in/files/legacy-pdf/4cc039db9.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "institutional_report",
+      "title": "Report of the United Nations High Commissioner for Refugees",
+      "series_title_as_reported": "General Assembly Official Records, Thirty-Fifth Session",
+      "supplement_number_as_reported": "12",
+      "document_symbol_as_reported": "A/35/12",
+      "institutional_credit_as_supplied": "United Nations High Commissioner for Refugees",
+      "publisher_as_reported": "United Nations",
+      "publication_place_as_reported": "New York",
+      "publication_year_as_reported": 1980
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/in/sites/en-in/files/legacy-pdf/4cc039db9.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Printed title/imprint inspected visually. Coverage years and the OCR transcription of the contents-page dateline are not used as publication dates. Existing paragraph/page claims remain outside this metadata review.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:21ae3ffc7a386a4b5760",
+    "recorded_title": "OHCHR, DRC Mapping Exercise fact sheet (complete cited body); United Nations Security Council, S/2024/251 (cited pages and paragraphs); UNHCR, 'Democratic Republic of the Congo. IDPs in Plain Savo' (complete cited body); UNHCR, 'Armed attacks kill hundreds, displace 40,000 civilians in northeast DR Congo' (one targeted authoritative alternative; review stopped after the bounded episode was resolved).",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/briefing-notes/armed-attacks-kill-hundreds-displace-40000-civilians-northeast-dr"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Armed attacks kill hundreds, displace 40,000 civilians in northeast DR Congo",
+      "page_title_as_supplied": "Armed attacks kill hundreds, displace 40,000 civilians in northeast DR Congo",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "19 March 2021",
+      "credit_as_supplied": "Babar Baloch",
+      "credit_role_as_displayed": "quoted_spokesperson",
+      "original_access_status": "page_not_found_on_2026-09-09",
+      "accessible_matching_source_url": "https://www.unhcr.org/africa/news/briefing-notes/armed-attacks-kill-hundreds-displace-40-000-civilians-northeast-dr-congo"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/africa/news/briefing-notes/armed-attacks-kill-hundreds-displace-40-000-civilians-northeast-dr-congo"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Exact article title is explicitly named in the selected record's original recorded_title. The original URL is missing; no redirect from it was observed.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:3a6fa9c47b4ce24ab9e2",
+    "recorded_title": "OHCHR, DRC Mapping Exercise fact sheet (complete cited body); United Nations Security Council, S/2024/251 (cited pages and paragraphs); UNHCR, 'Democratic Republic of the Congo. IDPs in Plain Savo' (complete cited body); UNHCR, 'UNHCR alarm at recent attacks and rising displacement in eastern DRC' (one targeted authoritative alternative; review stopped after the renewed phase was resolved).",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/spotlight/2022/02/democratic-republic-of-the-congo-idps-in-plain-savo/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Democratic Republic of the Congo. IDPs in Plain Savo",
+      "page_title_as_supplied": "Democratic Republic of the Congo. IDPs in Plain Savo",
+      "work_type": "photo_attachment_with_caption",
+      "displayed_date_status": "not_displayed_in_inspected_header",
+      "original_access_status": "page_not_found_on_2026-09-09",
+      "accessible_matching_source_url": "https://www.unhcr.org/spotlight/2023/01/no-escape-for-civilians-trapped-in-eastern-dr-congos-cycle-of-violence/democratic-republic-of-the-congo-idps-in-plain-savo/"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/spotlight/2023/01/no-escape-for-civilians-trapped-in-eastern-dr-congos-cycle-of-violence/democratic-republic-of-the-congo-idps-in-plain-savo/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Exact attachment title explicitly named in original recorded_title and same terminal attachment slug. This is an accessible matching component, not a demonstrated redirect or byte-identical recovery of the missing 2022/02 route.",
+        "Parent-feature date, parent byline and image upload path are not assigned to the attachment as its own publication date or caption author.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "attachment_publication_date",
+        "caption_author"
+      ]
+    }
+  },
+  {
+    "work_id": "access:41666b21db6281fb39fe",
+    "recorded_title": "OHCHR, DRC Mapping Exercise fact sheet (complete cited body); United Nations Security Council, S/2024/251 (cited pages and paragraphs); UNHCR, 'Democratic Republic of the Congo. IDPs in Plain Savo' (complete cited body); UNHCR, '2023: A Moment of Truth for Global Displacement' (first targeted authoritative alternative); UNHCR, 'UNHCR warns of mounting needs in DR Congo as forced displacement continues' (second targeted authoritative alternative).",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/briefing-notes/unhcr-warns-mounting-needs-dr-congo-forced-displacement-continues"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR warns of mounting needs in DR Congo as forced displacement continues",
+      "page_title_as_supplied": "UNHCR warns of mounting needs in DR Congo as forced displacement continues",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "5 May 2023",
+      "credit_as_supplied": "Elizabeth Tan, UNHCR’s Director of International Protection",
+      "credit_role_as_displayed": "quoted_speaker"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/briefing-notes/unhcr-warns-mounting-needs-dr-congo-forced-displacement-continues"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:4e0d329769b73eb8054e",
+    "recorded_title": "OHCHR, DRC Mapping Exercise fact sheet (complete cited body); United Nations Security Council, S/2024/251 (cited pages and paragraphs); UNHCR, 'Democratic Republic of the Congo. IDPs in Plain Savo' (complete cited body); UNHCR, '2023: A Moment of Truth for Global Displacement' (first targeted authoritative alternative); UNHCR, 'UNHCR warns of mounting needs in DR Congo as forced displacement continues' (second targeted authoritative alternative).",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/spotlight/2023/01/2023-a-moment-of-truth-for-global-displacement/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "2023: A Moment of Truth for Global Displacement",
+      "page_title_as_supplied": "2023: A Moment of Truth for Global Displacement",
+      "work_type": "institutional_web_publication",
+      "displayed_date_status": "not_displayed_in_inspected_header"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/spotlight/2023/01/2023-a-moment-of-truth-for-global-displacement/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:511907575d6ea9e041b9",
+    "recorded_title": "UN General Assembly, Report of UNHCR, A/31/12 (1976), chapter IV paragraphs 172–176 and 209–213; UNHCR, EC/46/SC/CRP.44, paragraph 5 and paragraphs 185–190; UNHCR, Thailand: UNHCR calls for end of three-year detention of Lao Hmong, first four body paragraphs; UNHCR, Deportation of Lao Hmong must stop, cited body paragraphs; UNHCR, UN refugee agency appeals for access to returned Lao Hmong, first two body paragraphs (one targeted authoritative follow-up used to resolve whether the threatened return occurred).",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/news/news-releases/un-refugee-agency-appeals-access-returned-lao-hmong"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UN refugee agency appeals for access to returned Lao Hmong",
+      "page_title_as_supplied": "UN refugee agency appeals for access to returned Lao Hmong",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "29 December 2009"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/us/news/news-releases/un-refugee-agency-appeals-access-returned-lao-hmong"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:8486e1a92ddee7d3aca5",
+    "recorded_title": "IACHR, Report on the Situation of Human Rights in Nicaragua (1981), introduction and July 1979 chronology; UNHCR A/35/12, chapter III.A paragraphs 173 and 179–180, printed pages 31–32; UNHCR, The State of the World's Refugees 2000, chapter 5, printed pages 121–122, 127 and 130–131; IACHR, Report on the Situation of a Segment of the Nicaraguan Population of Miskito Origin, part 2 section A and part 3 paragraphs 3–4. No additional source was needed.",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/sites/en-us/files/legacy-pdf/3ebf9baf0.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "book_chapter_pdf",
+      "title": "Proxy wars in Africa, Asia and Central America",
+      "chapter_number_as_reported": 5,
+      "container_title": "The State of The World's Refugees 2000: Fifty Years of Humanitarian Action",
+      "container_credit_as_supplied": "United Nations High Commissioner for Refugees (UNHCR)",
+      "container_displayed_date_as_supplied": "1 January 2000"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/us/sites/en-us/files/legacy-pdf/3ebf9baf0.pdf",
+      "https://www.unhcr.org/ie/publications/state-worlds-refugees-2000-fifty-years-humanitarian-action"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The downloaded chapter file includes endnotes from adjacent chapters. Its file page count is not the chapter's printed-page range.",
+        "Website's day-level date is recorded as displayed, not established as the original book's publication day; original imprint not inspected.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:acc902a02ef0e5c44c3a",
+    "recorded_title": "Opened the cited UNHCR, The State of the World's Refugees 2000, Chapter 4, Flight from Indochina, including printed page 79 overview; Vietnamese sections on printed pages 81-90; Cambodian sections on printed pages 91-96; Laotian sections on printed pages 97-99; and the immediately continuing Lao screening and return text on printed pages 100-102 needed to resolve the cited Lao section's movement sequence. Opened the cited UNHCR, Report of the United Nations High Commissioner for Refugees, 1994 (A/49/12), South-East Asia, paragraphs 126-133, through the official UNHCR text corresponding to the Refworld record. No additional authoritative work was consulted.",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/sites/default/files/legacy-pdf/3ebf9bad0.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "book_chapter_pdf",
+      "title": "Flight from Indochina",
+      "chapter_number_as_reported": 4,
+      "container_title": "The State of The World's Refugees 2000: Fifty Years of Humanitarian Action",
+      "container_credit_as_supplied": "United Nations High Commissioner for Refugees (UNHCR)",
+      "container_displayed_date_as_supplied": "1 January 2000"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/sites/default/files/legacy-pdf/3ebf9bad0.pdf",
+      "https://www.unhcr.org/ie/publications/state-worlds-refugees-2000-fifty-years-humanitarian-action"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The downloaded chapter file includes endnotes from adjacent chapters. No new passage-location acceptance.",
+        "Website's day-level date is recorded as displayed, not established as the original book's publication day; original imprint not inspected.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:d53338a9c21fe12efa10",
+    "recorded_title": "UN General Assembly, Report of UNHCR, A/31/12 (1976), chapter IV paragraphs 172–176 and 209–213; UNHCR, EC/46/SC/CRP.44, paragraph 5 and paragraphs 185–190; UNHCR, Thailand: UNHCR calls for end of three-year detention of Lao Hmong, first four body paragraphs; UNHCR, Deportation of Lao Hmong must stop, cited body paragraphs; UNHCR, UN refugee agency appeals for access to returned Lao Hmong, first two body paragraphs (one targeted authoritative follow-up used to resolve whether the threatened return occurred).",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/news/briefing-notes/thailand-unhcr-calls-end-three-year-detention-lao-hmong"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Thailand: UNHCR calls for end of three-year detention of Lao Hmong",
+      "page_title_as_supplied": "Thailand: UNHCR calls for end of three-year detention of Lao Hmong",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "17 November 2009",
+      "credit_as_supplied": "UNHCR spokesperson; no personal name displayed on this US route",
+      "credit_role_as_displayed": "quoted_spokesperson"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/us/news/briefing-notes/thailand-unhcr-calls-end-three-year-detention-lao-hmong"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Same displayed article title/date as the other selected Lao Hmong detention route. The US route omits a personal speaker name; the global route names Andrej Mahecic. Stable work/access IDs remain unmerged.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:dc361dce9dd691c6f81c",
+    "recorded_title": "OHCHR, DRC Mapping Exercise fact sheet (complete cited body); United Nations Security Council, S/2024/251 (cited pages and paragraphs); UNHCR, 'Democratic Republic of the Congo. IDPs in Plain Savo' (complete cited body); UNHCR, 'UNHCR alarm at recent attacks and rising displacement in eastern DRC' (one targeted authoritative alternative; review stopped after the renewed phase was resolved).",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/news/briefing-notes/unhcr-alarmed-violence-and-displacement-ituri-drc"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR alarm at recent attacks and rising displacement in eastern DRC",
+      "page_title_as_supplied": "UNHCR alarm at recent attacks and rising displacement in eastern DRC",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "28 September 2018",
+      "credit_as_supplied": "UNHCR spokesperson; no personal name displayed on this Malaysia route",
+      "credit_role_as_displayed": "quoted_spokesperson",
+      "original_access_status": "page_not_found_on_2026-09-09",
+      "accessible_matching_source_url": "https://www.unhcr.org/my/news/briefing-notes/unhcr-alarm-recent-attacks-and-rising-displacement-eastern-drc"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/my/news/briefing-notes/unhcr-alarm-recent-attacks-and-rising-displacement-eastern-drc"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Exact article title explicitly named in original recorded_title. The missing original slug differs; the matching title supports this replacement candidate, not a claim of observed redirection or identical historical page bytes.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:un high commissioner for refugees statement on east pakistan refugees 5 may 1971",
+    "recorded_title": "UN High Commissioner for Refugees statement on East Pakistan refugees, 5 May 1971",
+    "scope": [
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/publications/statement-prince-sadruddin-aga-khan-united-nations-high-commissioner-refugees-about"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Statement of Prince Sadruddin Aga Khan, United Nations High Commissioner for Refugees, about refugees from East Pakistan, and complete text of Press Conference questions and answers, 5 May 1971",
+      "page_title_as_supplied": "Statement of Prince Sadruddin Aga Khan, United Nations High Commissioner for Refugees, about refugees from East Pakistan, and complete text of Press Conference questions and answers, 5 May 1971",
+      "work_type": "statement_and_press_conference_transcript",
+      "displayed_date_as_supplied": "5 May 1971",
+      "credit_as_supplied": "Prince Sadruddin Aga Khan",
+      "credit_role_as_displayed": "displayed_credit"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/publications/statement-prince-sadruddin-aga-khan-united-nations-high-commissioner-refugees-about"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The named speaker's statement and the questions-and-answers transcript are kept within the displayed whole-document identity.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr afghanistan ten years after the soviet withdrawal",
+    "recorded_title": "UNHCR, Afghanistan ten years after the Soviet withdrawal",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/news/briefing-notes/afghanistan-10-years-after-soviet-pull-out"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Afghanistan 10 years after Soviet pull-out",
+      "page_title_as_supplied": "Afghanistan 10 years after Soviet pull-out",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "12 February 1999",
+      "credit_as_supplied": "UNHCR spokesperson; no personal name displayed on this US route",
+      "credit_role_as_displayed": "quoted_spokesperson"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/us/news/briefing-notes/afghanistan-10-years-after-soviet-pull-out"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr archive gallery cyprus 1974",
+    "recorded_title": "UNHCR Archive Gallery: Cyprus 1974",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/africa/publications/unhcr-archive-gallery-cyprus-1974"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR Archive Gallery Cyprus 1974",
+      "page_title_as_supplied": "UNHCR Archive Gallery Cyprus 1974",
+      "work_type": "archive_photo_gallery",
+      "displayed_date_as_supplied": "12 June 2009",
+      "credit_as_supplied": "United Nations High Commissioner for Refugees (UNHCR)",
+      "credit_role_as_displayed": "displayed_credit"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/africa/publications/unhcr-archive-gallery-cyprus-1974"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "1974 is the gallery subject; 12 June 2009 is the displayed web date.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr begins organized repatriation of kosovar refugees",
+    "recorded_title": "UNHCR begins organized repatriation of Kosovar refugees",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/press-releases/unhcr-begins-organized-repatriation-kosovar-refugees"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR begins organized repatriation of Kosovar refugees",
+      "page_title_as_supplied": "UNHCR begins organized repatriation of Kosovar refugees",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "28 June 1999",
+      "credit_as_supplied": "Public Information Section",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "Public Information Section",
+      "author_names_as_supplied": [
+        "Public Information Section"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/press-releases/unhcr-begins-organized-repatriation-kosovar-refugees"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr boko haram displacement in the lake chad basin",
+    "recorded_title": "UNHCR, Boko Haram displacement in the Lake Chad Basin",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/sites/default/files/legacy-pdf/597704b87.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "supplementary_appeal",
+      "title": "Nigeria Situation 2017: Supplementary Appeal",
+      "institutional_credit_as_supplied": "UNHCR",
+      "coverage_period_as_reported": "January–December 2017",
+      "revision_date_as_reported": "July 2017",
+      "version_statement_as_supplied": "REVISED, JULY 2017"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/sites/default/files/legacy-pdf/597704b87.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The July revision date is distinguished from the January–December appeal coverage. Cover photograph credit/date is not prose authorship or publication.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr burundi recurring crises and large scale displacement",
+    "recorded_title": "UNHCR, Burundi recurring crises and large-scale displacement",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/sites/en-us/files/legacy-pdf/4a5f436d9.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "evaluation_report",
+      "title": "Money matters: An evaluation of the use of cash grants in UNHCR’s voluntary repatriation and reintegration programme in Burundi",
+      "author_names_as_supplied": [
+        "Katherine Haver",
+        "Felicien Hatungimana",
+        "Vicky Tennant"
+      ],
+      "author_affiliations_as_supplied": [
+        "Katherine Haver, Consultant",
+        "Felicien Hatungimana, Consultant",
+        "Vicky Tennant, PDES"
+      ],
+      "institutional_credit_as_supplied": "United Nations High Commissioner for Refugees, Policy Development and Evaluation Service (PDES)",
+      "report_number_as_reported": "PDES/2009/02",
+      "publication_date_as_reported": "July 2009"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/us/sites/en-us/files/legacy-pdf/4a5f436d9.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Page 2 states that views in PDES publications are not necessarily those of UNHCR. It permits quotation/citation/copying with source acknowledgment. Metadata identity only; evaluation conclusions not independently validated.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr central african republic conflict and mass displacement",
+    "recorded_title": "UNHCR, Central African Republic conflict and mass displacement",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/stories/more-850-000-people-volatile-central-african-republic-remain-displaced"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "More than 850,000 people in volatile Central African Republic remain displaced",
+      "page_title_as_supplied": "More than 850,000 people in volatile Central African Republic remain displaced",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "5 December 2014",
+      "credit_as_supplied": "Karin de Gruijl",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "Karin de Gruijl",
+      "author_names_as_supplied": [
+        "Karin de Gruijl"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/stories/more-850-000-people-volatile-central-african-republic-remain-displaced"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr central sahel forced displacement crisis",
+    "recorded_title": "UNHCR, Central Sahel forced-displacement crisis",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/briefing-notes/unhcr-urges-global-response-neglected-humanitarian-crisis-sahel"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR urges global response to neglected humanitarian crisis in the Sahel",
+      "page_title_as_supplied": "UNHCR urges global response to neglected humanitarian crisis in the Sahel",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "7 June 2024",
+      "credit_as_supplied": "Alpha Seydi Ba",
+      "credit_role_as_displayed": "quoted_spokesperson"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/briefing-notes/unhcr-urges-global-response-neglected-humanitarian-crisis-sahel"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr chronology of syria s displacement crisis",
+    "recorded_title": "UNHCR, chronology of Syria's displacement crisis",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/sites/default/files/legacy-pdf/5245a72e6.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "fact_sheet",
+      "title": "Syria Fact Sheet - Timeline and Figures",
+      "printed_title_as_supplied": "FACT SHEET: TIMELINE AND FIGURES",
+      "institutional_credit_as_supplied": "UNHCR",
+      "section_heading_as_supplied": "Chronology of Syria’s Displacement Crisis"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/sites/default/files/legacy-pdf/5245a72e6.pdf",
+      "https://www.unhcr.org/africa/media/syria-fact-sheet-timeline-and-figures"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The source's chronology extends to September 2013. That is subject coverage, not a verified publication date. Neither the two-page PDF nor the inspected landing header supplies a publication date.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "publication_date"
+      ]
+    }
+  },
+  {
+    "work_id": "title:unhcr colombia internal armed conflict and forced displacement",
+    "recorded_title": "UNHCR Colombia: internal armed conflict and forced displacement",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/where-we-work/countries/colombia"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Colombia",
+      "page_title_as_supplied": "Colombia",
+      "work_type": "changing_country_or_emergency_overview",
+      "displayed_date_status": "not_displayed_in_inspected_header"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/where-we-work/countries/colombia"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Undated changing overview. Child-report dates and historical event dates are not assigned as this page's publication date.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr culture context and mental health in south sudanese displacement",
+    "recorded_title": "UNHCR, culture, context and mental health in South Sudanese displacement",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/africa/sites/afr/files/2023-03/63eba35c7.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "commissioned_report",
+      "title": "Culture, context and mental health and psychosocial well-being of refugees and internally displaced persons from South Sudan",
+      "author_names_as_supplied": [
+        "Tankink, M.",
+        "Belay, H.T.",
+        "Mukasa, M.B.",
+        "Nieuwe Weme, D.",
+        "Burman, M.",
+        "Ventevogel, P."
+      ],
+      "author_name_source": "Suggested citation; initials retained as printed",
+      "publication_year_as_reported": 2023,
+      "publisher_as_reported": "United Nations High Commissioner for Refugees (UNHCR)",
+      "publication_place_as_reported": "Geneva, Switzerland",
+      "commissioning_organization_as_reported": "UNHCR"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/africa/sites/afr/files/2023-03/63eba35c7.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Page 2 says the report was commissioned by UNHCR and that the authors' views are not necessarily those of UNHCR or their other institutions. Language editing, design and cover-photo credits remain separate from authorship.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr darfur refugees fleeing bombardment and militia attacks",
+    "recorded_title": "UNHCR, Darfur refugees fleeing bombardment and militia attacks",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/news/press-releases/unhcr-relocation-operation-darfur-refugees-tops-100-000"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR relocation operation for Darfur refugees tops 100,000",
+      "page_title_as_supplied": "UNHCR relocation operation for Darfur refugees tops 100,000",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "16 June 2004",
+      "credit_as_supplied": "UNHCR",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "UNHCR",
+      "author_names_as_supplied": [
+        "UNHCR"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/us/news/press-releases/unhcr-relocation-operation-darfur-refugees-tops-100-000"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr displacement caused by the lra war in northern uganda",
+    "recorded_title": "UNHCR, displacement caused by the LRA war in northern Uganda",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/uk/node/10759"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Displaced in Uganda face psychological barrier to return home",
+      "page_title_as_supplied": "Displaced in Uganda face psychological barrier to return home",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "21 May 2007",
+      "credit_as_supplied": "Peter-Bastian Halberg",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "Peter-Bastian Halberg",
+      "author_names_as_supplied": [
+        "Peter-Bastian Halberg"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/uk/news/stories/displaced-uganda-face-psychological-barrier-return-home"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr displacement during sri lanka s civil war",
+    "recorded_title": "UNHCR, displacement during Sri Lanka's civil war",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/node/11214"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR chief says only peace can provide solution for Sri Lanka's displaced",
+      "page_title_as_supplied": "UNHCR chief says only peace can provide solution for Sri Lanka's displaced",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "27 July 2006",
+      "credit_as_supplied": "Kitty McKinsey",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "Kitty McKinsey",
+      "author_names_as_supplied": [
+        "Kitty McKinsey"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/unhcr-chief-says-only-peace-can-provide-solution-sri-lankas-displaced"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr five years of conflict displacement in yemen",
+    "recorded_title": "UNHCR, five years of conflict displacement in Yemen",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/stories/yemen-sees-fresh-displacement-after-five-years-conflict"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Yemen sees fresh displacement after five years of conflict",
+      "page_title_as_supplied": "Yemen sees fresh displacement after five years of conflict",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "27 March 2020",
+      "credit_as_supplied": "UNHCR staff in Marib, Yemen",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "UNHCR staff in Marib, Yemen",
+      "author_names_as_supplied": [
+        "UNHCR staff in Marib, Yemen"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/stories/yemen-sees-fresh-displacement-after-five-years-conflict"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr global appeal 1999 bosnia and herzegovina",
+    "recorded_title": "UNHCR Global Appeal 1999: Bosnia and Herzegovina",
+    "scope": [
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/uk/publications/unhcr-global-appeal-1999-bosnia-and-herzegovina"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR Global Appeal 1999 - Bosnia and Herzegovina",
+      "page_title_as_supplied": "UNHCR Global Appeal 1999 - Bosnia and Herzegovina",
+      "work_type": "appeal_country_or_region_section",
+      "displayed_date_as_supplied": "1 December 1998",
+      "credit_as_supplied": "Funding and Donor Relations Service",
+      "credit_role_as_displayed": "displayed_credit",
+      "appeal_year_as_reported": 1999
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/uk/publications/unhcr-global-appeal-1999-bosnia-and-herzegovina"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "1999 is the appeal year; the page separately displays 1 December 1998.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr global appeal 1999 sierra leone",
+    "recorded_title": "UNHCR Global Appeal 1999: Sierra Leone",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/africa/publications/unhcr-global-appeal-1999-sierra-leone"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR Global Appeal 1999 - Sierra Leone",
+      "page_title_as_supplied": "UNHCR Global Appeal 1999 - Sierra Leone",
+      "work_type": "appeal_country_or_region_section",
+      "displayed_date_as_supplied": "1 December 1998",
+      "credit_as_supplied": "Funding and Donor Relations Service",
+      "credit_role_as_displayed": "displayed_credit",
+      "appeal_year_as_reported": 1999
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/africa/publications/unhcr-global-appeal-1999-sierra-leone"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "1999 is the appeal year; the page separately displays 1 December 1998.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr historical account of the 1991 palestinian displacement from kuwait",
+    "recorded_title": "UNHCR historical account of the 1991 Palestinian displacement from Kuwait",
+    "scope": [
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/blogs/wp-content/uploads/sites/48/2024/08/AIH-master-8-rfmt.1.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "personal_memoir",
+      "title": "As it happened: Eight accounts of experiences with UNHCR",
+      "author_names_as_supplied": [
+        "Nicholas Morris"
+      ],
+      "printed_title_as_supplied": "As it happened",
+      "subtitle_as_supplied": "Eight accounts of experiences with UNHCR"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/blogs/wp-content/uploads/sites/48/2024/08/AIH-master-8-rfmt.1.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Printed author credit is Nicholas Morris. Embedded /Author is Françoise Jaccoud and /Title is UNHCR; those file properties are not substituted for printed authorship/title.",
+        "The introduction says the views are the author's and not necessarily those of the United Nations or UNHCR. It dates preparation of the first six accounts to 2016/2017 and the final two to 2023/2024; those are composition dates, not a formal publication date.",
+        "The hosting path and file-creation timestamp are not used as publication dates. The inherited Kuwait topic label is retained separately from this whole memoir's title.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "publication_date"
+      ]
+    }
+  },
+  {
+    "work_id": "title:unhcr internally displaced people in liberia s civil war",
+    "recorded_title": "UNHCR, internally displaced people in Liberia's civil war",
+    "scope": [
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/publications/refugees-magazine-issue-103-idps-so-close-yet-so-far"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "So close, yet so far",
+      "page_title_as_supplied": "Refugees Magazine Issue 103 (IDPs) - So close, yet so far\nRefugees (103, I - 1996)",
+      "work_type": "magazine_article",
+      "displayed_date_as_supplied": "1 March 1996",
+      "credit_as_supplied": "Francis Kpatindé",
+      "credit_role_as_displayed": "displayed_credit",
+      "container_title": "Refugees",
+      "issue_designation_as_supplied": "103, I - 1996",
+      "author_names_as_supplied": [
+        "Francis Kpatindé"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/us/publications/refugees-magazine-issue-103-idps-so-close-yet-so-far"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr iraq displacement from 20062008 sectarian violence",
+    "recorded_title": "UNHCR, Iraq displacement from 2006–2008 sectarian violence",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/us/news/briefing-notes/unhcr-concerned-recent-waves-sectarian-violence-threatens-new-internal"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR concerned as recent waves of sectarian violence threatens new internal displacement of Iraqis",
+      "page_title_as_supplied": "UNHCR concerned as recent waves of sectarian violence threatens new internal displacement of Iraqis",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "24 September 2013",
+      "credit_as_supplied": "UNHCR spokesperson; no personal name displayed on this US route",
+      "credit_role_as_displayed": "quoted_spokesperson"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/us/news/briefing-notes/unhcr-concerned-recent-waves-sectarian-violence-threatens-new-internal"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "The inherited topic label names 2006–2008, while this briefing is dated 24 September 2013. Whether its body supports the older episode requires separate passage review; the date difference alone does not decide that question.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr lao hmong refugee history after 1975",
+    "recorded_title": "UNHCR, Lao Hmong refugee history after 1975",
+    "scope": [
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/node/10142/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Thailand: UNHCR calls for end of three-year detention of Lao Hmong",
+      "page_title_as_supplied": "Thailand: UNHCR calls for end of three-year detention of Lao Hmong",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "17 November 2009",
+      "credit_as_supplied": "Andrej Mahecic",
+      "credit_role_as_displayed": "quoted_spokesperson"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/briefing-notes/thailand-unhcr-calls-end-three-year-detention-lao-hmong"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Same displayed article title/date as the other selected Lao Hmong detention route. The US route omits a personal speaker name; the global route names Andrej Mahecic. Stable work/access IDs remain unmerged.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr mozambique revisited after civil war displacement",
+    "recorded_title": "UNHCR, Mozambique revisited after civil-war displacement",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/africa/publications/refugees-magazine-issue-112-going-home-mozambique-revisited-home-sweet-home"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Home Sweet Home",
+      "page_title_as_supplied": "Refugees Magazine Issue 112 (Going Home : Mozambique Revisited) - Home Sweet Home\nRefugees (112, II - 1998)",
+      "work_type": "magazine_article",
+      "displayed_date_as_supplied": "1 June 1998",
+      "credit_as_supplied": "Ray Wilkinson",
+      "credit_role_as_displayed": "displayed_credit",
+      "container_title": "Refugees",
+      "issue_designation_as_supplied": "112, II - 1998",
+      "author_names_as_supplied": [
+        "Ray Wilkinson"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/africa/publications/refugees-magazine-issue-112-going-home-mozambique-revisited-home-sweet-home"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr nicaraguan displacement after the 2018 crisis",
+    "recorded_title": "UNHCR, Nicaraguan displacement after the 2018 crisis",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/briefing-notes/two-years-political-and-social-crisis-nicaragua-force-more-100000-flee"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Two years of political and social crisis in Nicaragua force more than 100,000 to flee",
+      "page_title_as_supplied": "Two years of political and social crisis in Nicaragua force more than 100,000 to flee",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "10 March 2020",
+      "credit_as_supplied": "Shabia Mantoo",
+      "credit_role_as_displayed": "quoted_spokesperson"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/briefing-notes/two-years-political-and-social-crisis-nicaragua-force-more-100000-flee"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr programme to resolve the situation of 1972 burundian refugees",
+    "recorded_title": "UNHCR, programme to resolve the situation of 1972 Burundian refugees",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/stories/unhcr-begins-programme-resolve-situation-1972-burundian-refugees"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR begins programme to resolve situation of 1972 Burundian refugees",
+      "page_title_as_supplied": "UNHCR begins programme to resolve situation of 1972 Burundian refugees",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "11 March 2008",
+      "credit_as_supplied": "Eveline Wolfcarius, Millicent Mutuli",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "Eveline Wolfcarius, Millicent Mutuli",
+      "author_names_as_supplied": [
+        "Eveline Wolfcarius",
+        "Millicent Mutuli"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/stories/unhcr-begins-programme-resolve-situation-1972-burundian-refugees"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr regional overview central american civil war displacement",
+    "recorded_title": "UNHCR regional overview: Central American civil-war displacement",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/in/publications/unhcr-global-appeal-1999-regional-overview-central-america"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR Global Appeal 1999 - Regional Overview: Central America",
+      "page_title_as_supplied": "UNHCR Global Appeal 1999 - Regional Overview: Central America",
+      "work_type": "appeal_country_or_region_section",
+      "displayed_date_as_supplied": "1 December 1998",
+      "credit_as_supplied": "Funding and Donor Relations Service",
+      "credit_role_as_displayed": "displayed_credit",
+      "appeal_year_as_reported": 1999
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/in/publications/unhcr-global-appeal-1999-regional-overview-central-america"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "1999 is the appeal year; the page separately displays 1 December 1998.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr return and displacement after the chechen wars",
+    "recorded_title": "UNHCR, Return and displacement after the Chechen wars",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/uk/news/stories/unhcr-helps-returnees-rebuild-their-lives-stability-returns-chechnya"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "UNHCR helps returnees rebuild their lives as stability returns to Chechnya",
+      "page_title_as_supplied": "UNHCR helps returnees rebuild their lives as stability returns to Chechnya",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "5 September 2007",
+      "credit_as_supplied": "William Spindler",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "William Spindler",
+      "author_names_as_supplied": [
+        "William Spindler"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/uk/news/stories/unhcr-helps-returnees-rebuild-their-lives-stability-returns-chechnya"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr return of people displaced by nepal s civil conflict",
+    "recorded_title": "UNHCR, return of people displaced by Nepal's civil conflict",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/uk/news/stories/cautious-return-nepals-displaced-people"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Cautious return for Nepal's displaced people",
+      "page_title_as_supplied": "Cautious return for Nepal's displaced people",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "28 December 2007",
+      "credit_as_supplied": "Nini Gurung",
+      "credit_role_as_displayed": "byline",
+      "byline_as_supplied": "Nini Gurung",
+      "author_names_as_supplied": [
+        "Nini Gurung"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/uk/news/stories/cautious-return-nepals-displaced-people"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr rohingya emergency",
+    "recorded_title": "UNHCR, Rohingya Emergency",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/emergencies/rohingya-emergency"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Rohingya emergency",
+      "page_title_as_supplied": "Rohingya emergency",
+      "work_type": "changing_country_or_emergency_overview",
+      "displayed_date_status": "not_displayed_in_inspected_header"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/emergencies/rohingya-emergency"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Undated changing overview. Child-report dates and historical event dates are not assigned as this page's publication date.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr seventy years of protection the indochinese exodus",
+    "recorded_title": "UNHCR, seventy years of protection: the Indochinese exodus",
+    "scope": [
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/spotlight/2020/12/70-years-of-protecting-people-forced-to-flee/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "70 years of protecting people forced to flee",
+      "page_title_as_supplied": "70 years of protecting people forced to flee",
+      "work_type": "institutional_web_publication",
+      "displayed_date_as_supplied": "14 December 2020"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/spotlight/2020/12/70-years-of-protecting-people-forced-to-flee/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr somali refugee displacements in the near region",
+    "recorded_title": "UNHCR, Somali refugee displacements in the near region",
+    "scope": [
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/sites/default/files/legacy-pdf/55152c699.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "discussion_paper",
+      "title": "Somali refugee displacements in the near region: Analysis and Recommendations",
+      "subtitle_as_supplied": "Paper for the UNHCR Global Initiative on Somali Refugees",
+      "author_names_as_supplied": [
+        "Laura Hammond"
+      ]
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/sites/default/files/legacy-pdf/55152c699.pdf",
+      "https://www.unhcr.org/media/somali-refugee-displacements-near-region-analysis-and-recommendations-paper-unhcr-global"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The purpose paragraph says the paper was prepared for a regional meeting to be convened in August 2014. That contextual date is not treated as a publication date.",
+        "An earlier indexed bibliographic reference supplied 2013, but the inspected PDF discusses a forthcoming August 2014 meeting and cites 2014 material. The provisional 2013 date is not accepted. The landing page supplies no visible publication date.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "publication_date"
+      ]
+    }
+  },
+  {
+    "work_id": "title:unhcr state of the world s refugees decolonization in south asia",
+    "recorded_title": "UNHCR, State of the World's Refugees: Decolonization in South Asia",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/in/sites/en-in/files/legacy-pdf/3ebf9bab0.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "book_chapter_pdf",
+      "title": "Rupture in South Asia",
+      "chapter_number_as_reported": 3,
+      "container_title": "The State of The World's Refugees 2000: Fifty Years of Humanitarian Action",
+      "container_credit_as_supplied": "United Nations High Commissioner for Refugees (UNHCR)",
+      "container_displayed_date_as_supplied": "1 January 2000"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/in/sites/en-in/files/legacy-pdf/3ebf9bab0.pdf",
+      "https://www.unhcr.org/ie/publications/state-worlds-refugees-2000-fifty-years-humanitarian-action"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The inherited topic label 'decolonization in South Asia' is not the chapter title. File includes adjacent-chapter endnotes; no printed-page range inferred.",
+        "Website's day-level date is recorded as displayed, not established as the original book's publication day; original imprint not inspected.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr successive conflicts and displacement in the democratic republic of the congo",
+    "recorded_title": "UNHCR, successive conflicts and displacement in the Democratic Republic of the Congo",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/news/briefing-notes/democratic-republic-congo-rwanda-and-unhcr-discuss-returns"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Democratic Republic of the Congo, Rwanda and UNHCR discuss returns",
+      "page_title_as_supplied": "Democratic Republic of the Congo, Rwanda and UNHCR discuss returns",
+      "work_type": "press_briefing_summary",
+      "displayed_date_as_supplied": "17 April 2009",
+      "credit_as_supplied": "Ron Redmond",
+      "credit_role_as_displayed": "quoted_spokesperson"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/news/briefing-notes/democratic-republic-congo-rwanda-and-unhcr-discuss-returns"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Quoted-speaker attribution is retained in its displayed role; it is not a prose-author byline.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr sudan situation appeal 2026",
+    "recorded_title": "UNHCR Sudan Situation Appeal 2026",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/sites/default/files/2026-02/UNHCR%20Sudan%20Situation%20Appeal%202026.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "appeal",
+      "title": "Sudan Situation: UNHCR Appeal 2026",
+      "institutional_credit_as_supplied": "UNHCR",
+      "appeal_year_as_reported": 2026
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/sites/default/files/2026-02/UNHCR%20Sudan%20Situation%20Appeal%202026.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The extracted text of PDF page 2 contains an unrelated COVID-19 report header and January 2022 date that are absent from the rendered contents page. They are not metadata for this appeal.",
+        "The appeal year 2026 is explicit. Earlier indexed portal publication/upload dates of 19 February 2026 remain provisional because this browser visit exposed the portal title but no date fields.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "exact_publication_date"
+      ]
+    }
+  },
+  {
+    "work_id": "title:unhcr supplementary appeal for anglophone cameroon displacement",
+    "recorded_title": "UNHCR supplementary appeal for Anglophone Cameroon displacement",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/sites/default/files/2021-12/UNHCR%2520Cameroon%25202019%2520Supplementary%2520Appeal%2520%2528March%25202019%2529.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "supplementary_appeal",
+      "title": "Cameroon Situation: Responding to the needs of IDPs and Cameroonian refugees in Nigeria",
+      "institutional_credit_as_supplied": "UNHCR",
+      "document_designation_as_reported": "Supplementary Appeal",
+      "coverage_period_as_reported": "January–December 2019",
+      "publication_date_as_reported": "March 2019"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/sites/default/files/2021-12/UNHCR%2520Cameroon%25202019%2520Supplementary%2520Appeal%2520%2528March%25202019%2529.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The last page explicitly states Published in March 2019. The 2021-12 hosting directory is not publication. No exact day is inferred from a separate launch speech.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr tajikistan civil war displacement and repatriation",
+    "recorded_title": "UNHCR, Tajikistan civil-war displacement and repatriation",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/publications/update-voluntary-repatriation-movements"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "title": "Update on voluntary repatriation movements",
+      "page_title_as_supplied": "Update on voluntary repatriation movements\nEC/1995/SC.2/CRP.12",
+      "work_type": "institutional_document",
+      "displayed_date_as_supplied": "20 March 1995",
+      "credit_as_supplied": "UNHCR",
+      "credit_role_as_displayed": "displayed_credit",
+      "document_symbol_as_reported": "EC/1995/SC.2/CRP.12"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/publications/update-voluntary-repatriation-movements"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "The original Tajikistan topic label refers to part of this multi-region document; the whole document is not titled Tajikistan.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "title:unhcr the rwandan genocide and its aftermath",
+    "recorded_title": "UNHCR, The Rwandan Genocide and Its Aftermath",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://www.unhcr.org/africa/sites/afr/files/legacy-pdf/3ebf9bb60.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "metadata_accessed": "2026-09-09",
+      "hosting_platform": "UNHCR",
+      "work_type": "book_chapter_pdf",
+      "title": "The Rwandan genocide and its aftermath",
+      "chapter_number_as_reported": 10,
+      "container_title": "The State of The World's Refugees 2000: Fifty Years of Humanitarian Action",
+      "container_credit_as_supplied": "United Nations High Commissioner for Refugees (UNHCR)",
+      "container_displayed_date_as_supplied": "1 January 2000"
+    },
+    "verification_urls": [
+      "https://www.unhcr.org/africa/sites/afr/files/legacy-pdf/3ebf9bb60.pdf",
+      "https://www.unhcr.org/ie/publications/state-worlds-refugees-2000-fifty-years-humanitarian-action"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "work_component_and_access_metadata_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Inspected source headings, displayed credits/dates, or printed PDF title/imprint and disclosure pages.",
+      "metadata_limits": [
+        "Metadata only. The chapter's historical claims are not newly accepted or independently reviewed.",
+        "Website's day-level date is recorded as displayed, not established as the original book's publication day; original imprint not inspected.",
+        "Metadata verification does not newly verify historical passages. Browser header records are explicit transcriptions; no public archive URL or complete raw HTML archive is claimed."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  }
+]

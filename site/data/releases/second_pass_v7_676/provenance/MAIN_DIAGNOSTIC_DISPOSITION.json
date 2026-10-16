@@ -1,0 +1,21 @@
+{
+  "status": "MAIN_ACCEPTED_VERIFIED_DIAGNOSTICS_WITH_QUALIFICATIONS",
+  "date": "2026-09-07",
+  "decision": "MAIN_DIAGNOSTIC_DISPOSITION.md",
+  "review_findings": "model_verification_v1/FINDINGS.json",
+  "review_findings_sha256": "0bf2eff00073654b9f62c0667e5fa8342e983731cae302aeecb5f9fa3c15e623",
+  "results_sha256": "91cd3d38aaf3bae80a4d7972c935d020bd48c56e4e78d0cada34104ecd5008f9",
+  "run_manifest_sha256": "e04666c721603cc5111d0421331be9855254c314364000dbc2fed37037d35100",
+  "acceptance_sha256": "404a93c084fc034f69caa187790ba6e4d12f8103b36e43568c9c2c2615ab8ba9",
+  "main_review_artifacts_hash_checked": 7,
+  "main_unique_inspected_bindings_rechecked": 763,
+  "material_findings": [],
+  "required_numerical_repairs": [],
+  "prescribed_independent_verification_closed": true,
+  "further_historical_research_gate": false,
+  "editorial_release_assembly_authorized": true,
+  "release_activated": false,
+  "public_refresh_performed": false,
+  "github_public_switch_authorized": false,
+  "zenodo_publication_authorized": false
+}

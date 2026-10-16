@@ -1,0 +1,110 @@
+{
+  "status": "relations_preserved_without_merging",
+  "shared_container_groups": [
+    {
+      "container": "Oxford Classical Dictionary",
+      "work_ids": [
+        "access:b1cfdad71d08e898b0aa",
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548066271",
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548509188",
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548510756",
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548510989",
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548725116",
+        "url:academic.oup.com/edited-volume/61673/chapter/549687296"
+      ],
+      "relation": "Seven distinct reference articles in the same continuing work; not duplicates."
+    }
+  ],
+  "component_container_links": [
+    {
+      "work_id": "access:3372de2c47ecc5e0e511",
+      "component": "Metapontion",
+      "container": "The Oxford History of the Archaic Greek World: Volume IV: Cyrene to Metapontion",
+      "component_doi": "10.1093/oso/9780199383559.003.0005",
+      "container_doi": "10.1093/oso/9780199383559.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "access:c212687d080c15e094dd",
+      "component": "Evolution and Growth of the Roman State, 444–367 b.c.",
+      "container": "A Critical History of Early Rome: From Prehistory to the First Punic War",
+      "component_doi": "10.1525/california/9780520226517.003.0009",
+      "container_doi": "10.1525/california/9780520226517.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:cameron 2018 the hungry steppe",
+      "component": "The Steppe and the Sown: Peasants, Nomads, and the Transformation of the Kazakh Steppe, 1896–1921",
+      "container": "The Hungry Steppe: Famine, Violence, and the Making of Soviet Kazakhstan",
+      "component_doi": "10.7591/cornell/9781501730436.003.0002",
+      "container_doi": "10.7591/cornell/9781501730436.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:cornell scholarship online dutch guiana plantation society and slavery",
+      "component": "The Guianas",
+      "container": "Realm between Empires: The Second Dutch Atlantic, 1680-1815",
+      "component_doi": "10.7591/cornell/9781501705267.003.0005",
+      "container_doi": "10.7591/cornell/9781501705267.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:oxford scholarship online conquest and colonial settlement in medieval wales",
+      "component": "The Anglo-Norman Settlement of Wales and the Making of Marcher Society",
+      "container": "The Age of Conquest: Wales 1063-1415",
+      "component_doi": "10.1093/acprof:oso/9780198208785.003.0004",
+      "container_doi": "10.1093/acprof:oso/9780198208785.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:oxford scholarship online french caribbean plantation colonization",
+      "component": "Forced Settlement and Colonial Occupation under French Rule: From Saint-Domingue (Haiti) and the French Antilles to Algeria and Sub-Saharan Africa",
+      "container": "Ruling Emancipated Slaves and Indigenous Subjects: The Divergent Legacies of Forced Settlement and Colonial Occupation in the Global South",
+      "component_doi": "10.1093/oso/9780197673027.003.0007",
+      "container_doi": "10.1093/oso/9780197673027.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:oxford scholarship online german colonialism and plantation labour in samoa",
+      "component": "Plantation or Settler Colonialism?",
+      "container": "A Pacific Power: Liberal Imperialism in German Samoa",
+      "component_doi": "10.1093/9780198936305.003.0003",
+      "container_doi": "10.1093/9780198936305.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:oxford scholarship online medieval eastward settlement and colonization",
+      "component": "The German Colonization of the East",
+      "container": "Marginal Europe: The Contribution of Marginal Lands since the Middle Ages",
+      "component_doi": "10.1093/acprof:oso/9780198206385.003.0007",
+      "container_doi": "10.1093/acprof:oso/9780198206385.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:oxford scholarship online russian imperial conquest and colonization of crimea",
+      "component": "Dispossession: The Loss of the Crimean Homeland",
+      "container": "The Crimean Tatars: From Soviet Genocide to Putin's Conquest",
+      "component_doi": "10.1093/acprof:oso/9780190494704.003.0002",
+      "container_doi": "10.1093/acprof:oso/9780190494704.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:pueblos perdidos displacement at the panama canal",
+      "component": "Pueblos Perdidos, or How the Lake Ate the River",
+      "container": "Beyond the Big Ditch: Politics, Ecology, and Infrastructure at the Panama Canal",
+      "component_doi": "10.7551/mitpress/9780262028110.003.0007",
+      "container_doi": "10.7551/mitpress/9780262028110.001.0001",
+      "merged": false
+    },
+    {
+      "work_id": "title:sorkin jewish emancipation maghreb and mashreq",
+      "component": "Maghreb and Mashreq",
+      "container": "Jewish Emancipation: A History Across Five Centuries",
+      "component_doi": "10.23943/princeton/9780691164946.003.0026",
+      "container_doi": "10.23943/princeton/9780691164946.001.0001",
+      "merged": false
+    }
+  ],
+  "exact_existing_doi_aliases_found": 0,
+  "alias_check_scope": "Exact DOI equality against other base work IDs and their typed DOI fields only; not an exhaustive identity-deduplication claim."
+}

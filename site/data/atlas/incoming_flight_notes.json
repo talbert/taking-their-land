@@ -1,0 +1,269 @@
+{
+  "schema": "taking_their_land_incoming_flight_notes_v1",
+  "scope": "An explanatory note about the named incoming cohort, separate from the statistical profile. It does not assign modern legal refugee status or a single motive to every newcomer.",
+  "coverage": "Notes for 22 current atlas cases. Coverage is incomplete. No note means that incoming flight has not been established in this note set, not that it played no role.",
+  "notes": {
+    "prospective-magna-graecia-siris-polieium-seizure": {
+      "heading": "Flight in the settlement tradition",
+      "basis": "disputed_literary_tradition",
+      "text": "Strabo describes Ionians fleeing Lydian rule and taking Chonian Siris by force. The Colophonian origin and conventional date belong to a disputed foundation tradition.",
+      "sources": [
+        {
+          "source_id": "v5_greek_strabo_book6",
+          "locator": "Strabo 6.1.14"
+        },
+        {
+          "source_id": "v5_greek_inventory_poleis",
+          "locator": "Inventory, p. 293"
+        }
+      ]
+    },
+    "prospective-circassian-uzunyayla-collective-settlement": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "The incoming population included refugees displaced from the North Caucasus. Ottoman authorities organized their collective settlement in Uzunyayla.",
+      "sources": [
+        {
+          "source_id": "v5_circassian_uzunyayla",
+          "locator": "Karataş, pp. 83, 90, 114–115"
+        }
+      ]
+    },
+    "prospective-circassian-danube-serbian-border-settlement": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "Circassian refugees arriving from the Caucasus were settled near the Serbian frontier. Ottoman authorities also sought to strengthen their control of the border region.",
+      "sources": [
+        {
+          "source_id": "v5_circassian_danube_vilayet",
+          "locator": "Muchinov, pp. 85–87"
+        }
+      ]
+    },
+    "prospective-circassian-danube-dobruja-agricultural-settlement": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "Circassian refugees arriving from the Caucasus were settled along the Danube and in Dobruja. Ottoman land allocation supported agricultural settlement and led to disputes with local residents.",
+      "sources": [
+        {
+          "source_id": "v5_circassian_danube_vilayet",
+          "locator": "Muchinov, pp. 85, 87–88"
+        }
+      ]
+    },
+    "prospective-circassian-wadi-al-sir-settlement-1880": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "Circassian refugee newcomers founded Wadi al-Sir in 1880 within the Ottoman resettlement of people from the North Caucasus.",
+      "sources": [
+        {
+          "source_id": "v5_circassian_balqa",
+          "locator": "Hamed-Troyansky, pp. 607–608"
+        }
+      ]
+    },
+    "prospective-sicily-himera-foundation-chora": {
+      "heading": "Exiles among the settlers",
+      "basis": "reported_political_exile",
+      "text": "Thucydides’ account includes Syracusan political exiles among Himera’s founders, alongside settlers of Chalcidian descent. This note concerns that exiled group.",
+      "sources": [
+        {
+          "source_id": "v5_greek_himera_davies_finglass",
+          "locator": "Davies and Finglass, p. 7, citing Thucydides 6.5.1"
+        }
+      ]
+    },
+    "andaman-islands": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "After Partition, India resettled Bengali refugee families from East Pakistan in the Andaman Islands. This note concerns the post-independence settlement cohort.",
+      "sources": [
+        {
+          "source_id": "andaman",
+          "locator": "Sen, text accompanying notes 41–44"
+        }
+      ]
+    },
+    "vietnam-central-highlands": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "Refugees from northern Vietnam were among the people resettled in the Central Highlands after 1954. Later migration programs and moves for land and work involved additional cohorts.",
+      "sources": [
+        {
+          "source_id": "vietnam_hrw",
+          "locator": "HRW, chapter V, “Organized Migration”"
+        }
+      ]
+    },
+    "mennonite-chaco": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "Later Mennonite settlement waves included refugees from the Soviet Union, arriving in the Chaco in the 1930s and after the Second World War. Their displacement history concerns these later incoming groups.",
+      "sources": [
+        {
+          "source_id": "paraguay",
+          "locator": "Canova, online-first p. 5 and notes 6–7"
+        }
+      ]
+    },
+    "modern-chinese-exodus-to-taiwan": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "Many newcomers were civilian war refugees. Their flight accompanied the relocation of the Nationalist government and armed forces after defeat in the Chinese Civil War.",
+      "sources": [
+        {
+          "source_id": "qc_taiwan_exiles",
+          "locator": "Yang, “Being all at Sea” and “Not in The Same Boat”"
+        }
+      ]
+    },
+    "eu-habsburg-military-frontier": {
+      "heading": "Flight or refuge",
+      "basis": "documented_refugee_settlement",
+      "text": "Refugees from Ottoman warfare were among the newcomers settled along the Habsburg frontier in present-day Croatia. Land and privileges were granted in return for military service.",
+      "sources": [
+        {
+          "source_id": "habsburg_tkalec_2020",
+          "locator": "Tkalec, pp. 123, 137"
+        }
+      ]
+    },
+    "af-cabo-verde-colonial-population-formation": {
+      "heading": "Flight among the early settlers",
+      "basis": "reported_persecution_flight",
+      "text": "Brooks identifies Sephardic Jews fleeing persecution among the first settlers of Santiago. This note concerns that named component; it does not establish other newcomers’ motives or the group’s share.",
+      "sources": [
+        {
+          "source_id": "v7_cabo_brooks_2006",
+          "locator": "Brooks, p. 104, opening paragraph"
+        }
+      ]
+    },
+    "af-kololo-conquest-barotseland": {
+      "heading": "Flight before the conquest",
+      "basis": "reported_forced_departure",
+      "text": "Hogan records that Sebitwane, the Sotho leader who later led the Kololo conquest, was driven from his lands between the Sand and Vet Rivers by Sekonyela, chief of the Tlokwa, in June 1822. This concerns Sebitwane’s prior displacement; it does not establish a motive shared by all the incoming population.",
+      "sources": [
+        {
+          "source_id": "v7_kololo_hogan_2014",
+          "locator": "Hogan, printed pp. 76–77 (PDF physical pp. 88–89), prior displacement and northward movement"
+        }
+      ]
+    },
+    "af-sao-tome-plantation-slavery": {
+      "heading": "Family flight before forced deportation",
+      "basis": "reported_prior_family_flight",
+      "text": "Seibert links the Jewish children forcibly sent to São Tomé in 1493 to families who had fled Spain for Portugal in 1492. The children were separated from their parents by force. Seibert distinguishes their status from slavery: they were assigned enslaved caregivers. This concerns that early group, not the motives of all newcomers or a voluntary move by the children.",
+      "sources": [
+        {
+          "source_id": "v7_sao_tome_seibert_2015",
+          "locator": "Seibert, printed p.101 (PDF physical3), final paragraph; p.102 continuation distinguishes children’s status"
+        }
+      ]
+    },
+    "mena-safavid-georgian-deportations-1614-1616": {
+      "heading": "Refugees among those sent to Farahabad",
+      "basis": "reported_prior_war_flight",
+      "text": "Perry describes peasant refugees from wartorn Karabakh and Shirvan who had fled to Georgia among the people Shah Abbas I deported to Farahabad in 1615. This concerns that refugee component of the mixed transfer, not every Georgian deportee. Their earlier flight and later forced removal were separate movements.",
+      "sources": [
+        {
+          "source_id": "v7_georgian_perry",
+          "locator": "Perry, Deportations, section iii, Shah Abbas I paragraph beginning “In 1024/1615”; generated-PDF physical p. 32, captured lines 1110–1113"
+        }
+      ]
+    },
+    "pacific-sokehs-deportation-pohnpei": {
+      "heading": "Disaster displacement among incoming settlers",
+      "basis": "reported_prior_disaster_displacement",
+      "text": "Some incoming settlers were Mortlockese displaced by the 1907 typhoon. German authorities later settled them on land confiscated from the Sokehs.",
+      "sources": [
+        {
+          "source_id": "sokehs_levy_2018",
+          "locator": "Levy, pp. 48–49: Mortlockese storm displacement and settlement on Sokehs land"
+        },
+        {
+          "source_id": "sokehs_nagaoka_plan_2017",
+          "locator": "Nagaoka, p. 11: outer-island resettlement context"
+        },
+        {
+          "source_id": "sokehs_reichskolonialamt_1909_10",
+          "locator": "1909/10 annual report, pp. [179], 184–185: recovery and return context"
+        },
+        {
+          "source_id": "sokehs_reichskolonialamt_1911_12",
+          "locator": "1911/12 annual report, pp. 149–150, 153–154: resettlement and later movement"
+        }
+      ]
+    },
+    "af-ngoni-mbelwa-northern-malawi-conquests": {
+      "heading": "Flight before joining Mbelwa",
+      "basis": "reported_expulsion_before_arrival",
+      "text": "Mpherembe’s later-joining faction was expelled from northeastern Zambia around 1870. Nyirenda describes flight and sanctuary before its reunion with Mbelwa. This applies to that faction, not all of Mbelwa’s followers; the number who fled is unknown.",
+      "sources": [
+        {
+          "source_id": "v5_ngoni_mbelwa_thompson",
+          "locator": "Printed p. 19 (PDF p. 38), including note 61; onward settlement context pp. 20–24."
+        },
+        {
+          "source_id": "v5_ngoni_mpherembe_nyirenda",
+          "locator": "Printed pp. 21–22 (PDF pp. 37–38), especially note 21; distinction from earlier Bisa flight p. 20."
+        }
+      ]
+    },
+    "prospective-isle-of-man-enemy-alien-internment-1940-1945": {
+      "heading": "Earlier flight from persecution",
+      "basis": "documented_prior_flight",
+      "text": "Some civilians sent to the Isle of Man had previously fled Nazi persecution to seek safety in Britain. That earlier flight and their later compulsory internment were different movements. Their refugee background did not make them colonizing settlers.",
+      "sources": [
+        {
+          "source_id": "v7_manx1940_mnh_teachers",
+          "locator": "Manx National Heritage, Teacher’s Notes, PDF p. 28, Civilian Internment, second paragraph"
+        }
+      ]
+    },
+    "nam-tien": {
+      "heading": "Flight among incoming settlers",
+      "basis": "documented_refugee_settlement",
+      "text": "Some Vietnamese moving south were seeking refuge from war and famine. Li Tana reports arrivals of refugees from the north in Thuận Hóa in 1559 and 1608, within the wider history of southward settlement. This describes particular incoming groups, not everyone involved in Nam tiến or a measure of how many arrivals were directly compelled.",
+      "sources": [
+        {
+          "source_id": "nam_tien_li_tana_1992_thesis",
+          "locator": "Li Tana1992, printed pp.16–18, especially17"
+        }
+      ]
+    },
+    "medieval-ottoman-surgun-balkan-colonization": {
+      "heading": "Flight among incoming settlers",
+      "basis": "war_related_influx_chronicle_mediated",
+      "text": "Some migration into Rumelia followed upheaval in Anatolia. İnalcık, citing Ottoman chronicle tradition, links Timur’s invasion in 1402 to an influx across the straits. This identifies war-related movement within the wider settlement process, without establishing how many arrivals were refugees or directly compelled by Ottoman authorities.",
+      "sources": [
+        {
+          "source_id": "v7_rumelia_inalcik_1954",
+          "locator": "printed p.128"
+        }
+      ]
+    },
+    "af-highveld-difaqane-refugee-state-formation": {
+      "heading": "Flight among incoming settlers",
+      "basis": "violence_related_refuge_and_protection_seeking",
+      "text": "Some people joining new political communities were themselves fleeing violence or seeking protection. Refuge, forced capture and conquest overlapped in this regional history, but were not the same process.",
+      "sources": [
+        {
+          "source_id": "v7_highveld_eldredge_1991",
+          "locator": "printedpp1–3,24; survival submission and protective political aggregation"
+        }
+      ]
+    },
+    "modern-moriori-invasion-enslavement-land-seizure": {
+      "heading": "Flight and refuge in the incoming groups’ history",
+      "basis": "source_reported_warfare_pressure_and_sanctuary",
+      "text": "Te Ara reports that northern Taranaki groups moved south to Cook Strait under warfare pressure. Ngāti Tama and Ngāti Mutunga then sought sanctuary elsewhere. The account links these groups to the 1835 voyage to Rēkohu. Food and expected weak opposition also shaped their choice. This account does not show that every traveller fled or that the voyage was forced transport. It does not establish modern legal refugee status.",
+      "sources": [
+        {
+          "source_id": "v7_moriori_teara_richards_chatham",
+          "locator": "Te Ara, “From first settlement to 1860,” paragraphs on the 1835 Māori arrival"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "build": "20260912c",
+  "records": [
+    {
+      "review_id": "bibliography_brill_20260912",
+      "occurrence_id": "occ:abf13528053b25911cd5",
+      "recorded_locator": "/confirmed/5/sources/1",
+      "verified_locator": "/confirmed/5/candidate/sources/1",
+      "reason": "Historical occurrence locator omitted the candidate object level. The verified target has the identical recorded title and URL.",
+      "original_occurrence_modified": false,
+      "input": "analysis/gapscan/gapscan_results.json"
+    }
+  ],
+  "original_occurrences_preserved": true
+}

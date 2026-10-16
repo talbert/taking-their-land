@@ -1,0 +1,146 @@
+{
+  "changes": [
+    {
+      "table": "editorial/primary_family_labels.csv",
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "event_name",
+      "before": "Israeli settlement advancement and associated Palestinian land-control mechanisms in the occupied West Bank, including East Jerusalem (2023–2024 evidence window)",
+      "after": "Israeli settlement and Palestinian land control in the occupied West Bank and East Jerusalem"
+    },
+    {
+      "table": "editorial/primary_family_labels.csv",
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "era_bucket_v2",
+      "before": "1990-present",
+      "after": "1945-1989"
+    },
+    {
+      "table": "editorial/primary_family_labels.csv",
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "event_name",
+      "before": "Suppression of the Indigenous La Gomera revolt after the killing of Hernán Peraza, date unresolved",
+      "after": "Repression and enslavement after the La Gomera revolt"
+    },
+    {
+      "table": "editorial/primary_family_labels.csv",
+      "event_id": "prospective-bikini-nuclear-test-displacement",
+      "field": "event_name",
+      "before": "U.S. removal of the Bikini community for nuclear testing, serial relocations, attempted return, and renewed removal, 1946–1978",
+      "after": "Bikini nuclear-test displacement and return, 1946–1978"
+    },
+    {
+      "table": "editorial/primary_family_labels.csv",
+      "event_id": "prospective-enewetak-nuclear-test-displacement",
+      "field": "event_name",
+      "before": "U.S. nuclear-test removal of the Enewetak polity to Ujelang and return to its southern-atoll homeland, 1947–1980",
+      "after": "Enewetak nuclear-test displacement and return, 1947–1980"
+    },
+    {
+      "table": "editorial/primary_family_labels.csv",
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "event_name",
+      "before": "U.S. nuclear-test removal of the Enjebi polity to Ujelang, constrained return outside its homeland, and continuing Enjebi land-return claim, from 1947",
+      "after": "Enjebi nuclear-test displacement and blocked homeland return, from 1947"
+    },
+    {
+      "table": "editorial/primary_family_labels.csv",
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "event_name",
+      "before": "Castle Bravo fallout evacuation of Rongelapese from Rongelap and Ailinginae, 1957 return, and 1985 re-evacuation, 1954–1985",
+      "after": "Castle Bravo displacement of the Rongelapese, 1954–1985"
+    },
+    {
+      "table": "editorial/primary_family_labels.csv",
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "event_name",
+      "before": "Bzhedugh and Abzakh Circassian settlement at Wadi al-Sir, 1880",
+      "after": "Circassian settlement at Wadi al-Sir, 1880"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "name",
+      "before": "Israeli settlement advancement and associated Palestinian land-control mechanisms in the occupied West Bank, including East Jerusalem (2023–2024 evidence window)",
+      "after": "Israeli settlement and Palestinian land control in the occupied West Bank and East Jerusalem"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "date_label",
+      "before": "through 2024 CE",
+      "after": "1967–present; detailed evidence through 2024"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "start",
+      "before": "2024",
+      "after": "1967"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "field": "era",
+      "before": "1990-present",
+      "after": "1945-1989"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "name",
+      "before": "Suppression of the Indigenous La Gomera revolt after the killing of Hernán Peraza, date unresolved",
+      "after": "Repression and enslavement after the La Gomera revolt"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "date_label",
+      "before": "date unresolved",
+      "after": "1488–1489 CE"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "field": "start",
+      "before": "1449",
+      "after": "1488"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-bikini-nuclear-test-displacement",
+      "field": "name",
+      "before": "U.S. removal of the Bikini community for nuclear testing, serial relocations, attempted return, and renewed removal, 1946–1978",
+      "after": "Bikini nuclear-test displacement and return, 1946–1978"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-enewetak-nuclear-test-displacement",
+      "field": "name",
+      "before": "U.S. nuclear-test removal of the Enewetak polity to Ujelang and return to its southern-atoll homeland, 1947–1980",
+      "after": "Enewetak nuclear-test displacement and return, 1947–1980"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-enjebi-nuclear-test-displacement-and-land-claim",
+      "field": "name",
+      "before": "U.S. nuclear-test removal of the Enjebi polity to Ujelang, constrained return outside its homeland, and continuing Enjebi land-return claim, from 1947",
+      "after": "Enjebi nuclear-test displacement and blocked homeland return, from 1947"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-rongelap-and-ailinginae-fallout-evacuation-and-return-chain",
+      "field": "name",
+      "before": "Castle Bravo fallout evacuation of Rongelapese from Rongelap and Ailinginae, 1957 return, and 1985 re-evacuation, 1954–1985",
+      "after": "Castle Bravo displacement of the Rongelapese, 1954–1985"
+    },
+    {
+      "table": "editorial/eight_trait_cards.csv",
+      "event_id": "prospective-circassian-wadi-al-sir-settlement-1880",
+      "field": "name",
+      "before": "Bzhedugh and Abzakh Circassian settlement at Wadi al-Sir, 1880",
+      "after": "Circassian settlement at Wadi al-Sir, 1880"
+    }
+  ],
+  "metadata_application_manifest_sha256": "2c3963027729a87c1836e062eb493f7c2363a3056036d09d9c43237fcf6f561f",
+  "all_trait_family_score_and_missingness_tokens_unchanged": true
+}

@@ -1,0 +1,48 @@
+{
+  "status": "PACKAGING_TESTS_PASS",
+  "owner": "implementation owner, not independent verifier",
+  "zip_sha256": "036f1e6937eb315208dd25512a707168b6adf4b1fd82e5b3e33be2e3a4bca229",
+  "source_members": 91,
+  "archive_members": 99,
+  "checks": [
+    "deterministic byte regeneration, fixed timestamps, sorted members and0600 ZIP",
+    "negative controls: traversal, PDF/tmp, raw coder files, caches and secret paths rejected",
+    "isolated original-root-blocked loading/all255 preflights and565 fingerprints: pass; zero factor/Horn/cluster fits",
+    "all extracted member bytes unchanged; no cache/bytecode/results files created",
+    "negative controls: changed consumed bytes, missing loader dependency and missing isolated root marker reject"
+  ],
+  "isolated_preflight": {
+    "status": "PORTABLE_565_FINGERPRINTS_PASS",
+    "owner": "implementation owner, not independent verifier",
+    "source_members": 91,
+    "input_bindings": 63,
+    "program_instructions": 255,
+    "factor_fits": 0,
+    "Horn_simulations": 0,
+    "cluster_fits": 0,
+    "root_selected_correctly": true,
+    "original_project_fallback_forbidden": true,
+    "fallback_guard_exception": "Installed numerical Python prefix only; no research inputs from original project",
+    "network_and_file_writes_forbidden": true,
+    "runtime_packages": {
+      "numpy": "1.25.2",
+      "pandas": "2.1.0",
+      "scipy": "1.13.1",
+      "scikit-learn": "1.5.2",
+      "factor-analyzer": "0.5.1",
+      "threadpoolctl": "3.6.0"
+    },
+    "original_results_sha256": "91cd3d38aaf3bae80a4d7972c935d020bd48c56e4e78d0cada34104ecd5008f9",
+    "scenario_records": 565,
+    "unique_matrix_cases": 536,
+    "fingerprints_sha256": "f11d00232ba0e1a7ed7169538a088b3f4607e1296a5e531b411f4408a2355470",
+    "closed_verification_receipt_sha256": "9007f855c7f1b5e81611c99ee4f8f30c8f83a382c3a6f550e11acf9535506c2d",
+    "KNN_imputation": "Executed as prescribed preprocessing, not a factor/cluster fit",
+    "indicator_overlap_fits": "Not run; bound code is included"
+  },
+  "temporary_extraction_removed": true,
+  "test_script_sha256": "ca484ebc63a7093d4691712c1ead0cca0b41a9d5be50d8074b6edff5af40a9d1",
+  "bound_code_edited": false,
+  "closed_verification_edited": false,
+  "public_deposit_created": false
+}

@@ -1,0 +1,49 @@
+{
+  "build": "20260912b",
+  "prior_open_fields": 124,
+  "additional_open_fields": 5,
+  "total_open_fields": 129,
+  "records": [
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "UNESCO-NPS-HATRA-PAGE-ISSUED",
+      "work_id": "access:cf836821477d7ce20a6b",
+      "field": "page_original_publication_date",
+      "status": "open",
+      "reason": "The retrieved page supplies no explicitly labeled original publication date. Map dates, copyright range, last-updated dates and the linked book year retain their separate roles."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "UNESCO-NPS-CAIRO-PAGE-ISSUED",
+      "work_id": "access:fa6306d6fcb5d3dead56",
+      "field": "page_original_publication_date",
+      "status": "open",
+      "reason": "The retrieved page supplies no explicitly labeled original publication date. Map dates, copyright range, last-updated dates and the linked book year retain their separate roles."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "UNESCO-NPS-ABO-PAGE-ISSUED",
+      "work_id": "title:national park service mission san gregorio de abo",
+      "field": "page_original_publication_date",
+      "status": "open",
+      "reason": "The retrieved page supplies no explicitly labeled original publication date. Map dates, copyright range, last-updated dates and the linked book year retain their separate roles."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "UNESCO-NPS-ALEUT-PAGE-ISSUED",
+      "work_id": "title:us national park service world war ii aleut relocation camps in southeast alaska drawing on the cwric report personal justice denied 1982",
+      "field": "page_original_publication_date",
+      "status": "open",
+      "reason": "The retrieved page supplies no explicitly labeled original publication date. Map dates, copyright range, last-updated dates and the linked book year retain their separate roles."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "SALEH-EXACT-PRINT-DATE",
+      "work_id": "title:saleh political undesirables citizenship denaturalization and reclamation in iraq",
+      "field": "exact_print_release_date",
+      "status": "open",
+      "reason": "Crossref deposits 31 December 2025 for print and 5 November 2025 online; Haverford records 1 December 2025; the publisher catalogue advertises December 2025. No exact original print-release day is inferred. The repository online date is a separate 2026 event."
+    }
+  ],
+  "scope": "Selected preferred metadata fields; not all possible missing data or atlas case holds."
+}

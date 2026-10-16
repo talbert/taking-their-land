@@ -1,0 +1,49 @@
+{
+  "status": "tiered_inventory_followup_applied_not_all_entries_publication_ready",
+  "counts": {
+    "secondary_inventory_unresolved": 1177,
+    "metadata_identity_reconciled_locus_separate": 38,
+    "deposited_metadata_identity_screened": 116,
+    "corrected_identifier_verified": 3,
+    "prior_pilot_review_preserved": 30,
+    "container_identity_reconciled_chapter_link_corrected": 1,
+    "source_identity_reconciled_identifier_unresolved": 1
+  },
+  "anchor_use": {
+    "cited": 27,
+    "background": 14
+  },
+  "work_access_records": 1366,
+  "overlay_records": 8,
+  "base_build": "20260909c",
+  "base_typed_metadata_sha256": "b798c86651a50ceef990076bb31529e69b27fac817f687fa76ab04571aaea2ae",
+  "overlay_sha256": "85f5749fb1c502c5d7127eeb52077ca00595b70b1a1e6f4aab3c2c407c32b95e",
+  "composite_sha256": "5585d77bdab34a83eaf6a81342b98884257ea795d7509994a71a306f06cc65b1",
+  "identifier_exceptions": [
+    {
+      "work_id": "doi:10.4067/s0717-71942012000200001",
+      "status": "known_article_both_doi_forms_unregistered",
+      "preferred_url": "https://revistahistoria.uc.cl/index.php/rhis/article/view/10102"
+    }
+  ],
+  "remaining": "Substantial secondary identities, editions and claim locators remain unresolved. Pilot decisions and original source occurrences are preserved.",
+  "identity_followup_source_passages_newly_verified": 0,
+  "passage_review": {
+    "records": 5,
+    "passages_located_with_limits": 3,
+    "partial_opening_only": 1,
+    "abstract_only": 1,
+    "file": "PASSAGE_NOTES.json",
+    "sha256": "67709e9035ed3eaf9fb4ed2fb69732220ea44e3790623a2d0fa6b66298616fd9",
+    "independent_historical_review": false
+  },
+  "prior_overlay_records": 32,
+  "reviewed_overlay_records_total": 40,
+  "latest_identity_review": {
+    "records": 8,
+    "metadata_only": true,
+    "original_occurrences_changed": 0,
+    "historical_scores_changed": 0,
+    "directory": "../identity_followup_20260909/"
+  }
+}

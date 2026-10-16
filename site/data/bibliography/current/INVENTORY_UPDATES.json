@@ -1,0 +1,49 @@
+{
+  "build": "20260913a",
+  "original_inventory_records": 1366,
+  "original_occurrences": 5875,
+  "current_inventory_records": 1367,
+  "current_occurrences": 5876,
+  "original_work_inventory_sha256": "f0721875b86927c52cbfe0933c8065fcd93fbc0735282d756ef4d7d307677c05",
+  "original_source_occurrences_sha256": "b816aa396e74a79773d70df9f90433481f358f9fae8e1d44cc53ad8af43e5278",
+  "current_work_inventory_sha256": "daabf9701b3484b68177ed30696b7853042f8fa7065afdfb9985e5d462cb2b76",
+  "current_source_occurrences_sha256": "61d054aa5a663dad9158784b593d8dcd5f14f860077c114eff58b27856d42965",
+  "addition": {
+    "work": {
+      "work_id": "doi:10.3326/pse.44.1.4",
+      "legacy": false,
+      "title": "Marina Tkalec (2020), History matters: development and institutional persistence of the Habsburg Military Frontier in Croatia",
+      "legacy_record_class": "",
+      "legacy_merged_work_ids": [],
+      "urls": [
+        "https://doi.org/10.3326/pse.44.1.4"
+      ],
+      "titles": [
+        "Marina Tkalec (2020), History matters: development and institutional persistence of the Habsburg Military Frontier in Croatia"
+      ],
+      "scopes": [
+        "public_authored_case"
+      ],
+      "occurrence_ids": [
+        "occ:c4dbce0426c3170793e7"
+      ]
+    },
+    "occurrence": {
+      "occurrence_id": "occ:c4dbce0426c3170793e7",
+      "work_id": "doi:10.3326/pse.44.1.4",
+      "input": "audit/existing_atlas_sources.json",
+      "locator": "/habsburg_tkalec_2020",
+      "scope": "public_authored_case",
+      "event_id": "",
+      "case_id": "eu-habsburg-military-frontier",
+      "source_id": "habsburg_tkalec_2020",
+      "title_as_recorded": "Marina Tkalec (2020), History matters: development and institutional persistence of the Habsburg Military Frontier in Croatia",
+      "url": "https://doi.org/10.3326/pse.44.1.4",
+      "type_as_recorded": "",
+      "identity_match": "new_doi_record"
+    }
+  },
+  "original_input_manifest_retained": true,
+  "whole_inventory_regenerated": false,
+  "source_access_updates": "source_occurrence_access_updates.json"
+}

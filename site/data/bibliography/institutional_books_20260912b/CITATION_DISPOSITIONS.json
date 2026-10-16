@@ -1,0 +1,44 @@
+{
+  "build": "20260912b",
+  "required": 0,
+  "offered": 4,
+  "registry_changes": 0,
+  "records": [
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "ALEUT-FULLER-PART-CITATION",
+      "work_id": "title:us national park service world war ii aleut relocation camps in southeast alaska drawing on the cwric report personal justice denied 1982",
+      "proposed_label": "Charles M. Mobley, “Introduction,” in World War II Aleut Relocation Camps in Southeast Alaska (National Park Service, Alaska Region, linked copy 2015); NPS web version updated 14 February 2021.",
+      "disposition": "Optional clearer part/author/date citation for the unassigned historical record; original occurrence wording retained.",
+      "url": "https://www.nps.gov/articles/aleu-mobley-intro.htm",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "SALEH-FULLER-CITATION",
+      "work_id": "title:saleh political undesirables citizenship denaturalization and reclamation in iraq",
+      "proposed_label": "Zainab Saleh, Political Undesirables: Citizenship, Denaturalization, and Reclamation in Iraq (2025).",
+      "url": "https://www.sup.org/books/middle-east-studies/political-undesirables",
+      "disposition": "Optional fuller author/title citation; copy and date qualifications remain in metadata.",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "STEPHAN-FULLER-CITATION",
+      "work_id": "title:stephan 1994 the russian far east",
+      "proposed_label": "John J. Stephan, The Russian Far East: A History (1994).",
+      "url": "https://www.sup.org/books/history/russian-far-east",
+      "disposition": "Optional fuller author/title citation; copy and date qualifications remain in metadata.",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "UCHIDA-FULLER-CITATION",
+      "work_id": "title:uchida 2011 brokers of empire",
+      "proposed_label": "Jun Uchida, Brokers of Empire: Japanese Settler Colonialism in Korea, 1876–1945 (2011).",
+      "url": "https://www.hup.harvard.edu/books/9780674492028",
+      "disposition": "Optional fuller author/title citation; copy and date qualifications remain in metadata.",
+      "application": "available_refinement_existing_display_retained"
+    }
+  ]
+}

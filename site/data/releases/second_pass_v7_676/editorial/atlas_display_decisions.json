@@ -1,0 +1,78 @@
+{
+  "status": "MAIN_ACCEPTED_DISPLAY_ONLY",
+  "date": "2026-09-07",
+  "adjudicator": "Main (AI-assisted editorial implementation under Craig Talbert's authority)",
+  "projection_manifest_sha256": "95ea1c739842912949c01773df6ec77ea01522a538e8aa68164b50a91b4af83c",
+  "rule": "Preserve the saved bounded evidence restriction, using the existing nonnumeric source_review_not_evidenced status. Not reported is not a measured zero or proof of structural impossibility. The accepted raw unknowns, descriptive card calculation and all scientific outputs remain unchanged.",
+  "raw_recode": false,
+  "new_historical_source_review": false,
+  "activation_or_deployment": false,
+  "decisions": [
+    {
+      "conflict_id": "gr-roman-pometia-destruction-503-495/F3",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "No incoming settlement stream is established for this bounded destruction and captive-export event. Buyers and later land use remain unknown; this is not a measured zero implantation score.",
+      "rationale": "Batch27 excludes an inferred successor stream and leaves later land use unresolved. The accepted coding replaces five no-evidence zeros with U. Preserve that scope restriction without converting the earlier display's NA into a raw applicability judgment."
+    },
+    {
+      "conflict_id": "gr-roman-pometia-destruction-503-495/F8",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "The reviewed event describes captives leaving Pometia, not imported unfree labor there. An inward labor stream is not evidenced; the unknown applicability gate is not a zero score.",
+      "rationale": "Batch27's outward/inward distinction survives. The direct F8 gate and unfree share are accepted U; neither captive export nor an old mixed-F8 NA authorizes a numeric zero, imported-labor estimate or reversal of those codes."
+    },
+    {
+      "conflict_id": "gr-roman-velitrae-conquest-colony-494-492/F7",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "No prior-resident removal cohort or destination is established. Incoming Roman colonists did move, but their movement does not measure prior residents' separation from homeland.",
+      "rationale": "Batch27 distinguishes incoming colonists from resident removal. Accepted distance and return-foreclosure codes are U. Preserve the evidentiary restriction, not the old display's stronger structural-NA assertion."
+    },
+    {
+      "conflict_id": "gr-roman-velitrae-conquest-colony-494-492/F8",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "Compulsory recruitment of civic colonists does not establish a distinct imported unfree-labor population. That labor stream is not evidenced here; applicability remains unknown rather than a measured zero.",
+      "rationale": "Batch27 rules out treating civic compulsion as an enslaved-labor stream. The accepted direct gate is U. Use the established not-evidenced display instead of retaining NA for every possible unreported labor stream."
+    },
+    {
+      "conflict_id": "gr-roman-antium-conquest-integrated-colony-468-467/F8",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "Crop-sharing by continuing Antiates is local labor incorporation, not evidence of unfree labor imported from elsewhere. The reviewed event supplies no positive imported-labor finding or numerical estimate.",
+      "rationale": "Batch29 allowed a zero/not-evidenced display. Choose the latter, already supported by that review, because the accepted gate correction is 0 to U. Local labor relations cannot resolve unknown imported-labor applicability."
+    },
+    {
+      "conflict_id": "gr-roman-ardea-taking-restitution-reorganization-446-442/F4",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "The reviewed episode establishes legal land taking and locally weighted restitution, not a measured resident-removal or demographic-replacement outcome. No numeric elimination-versus-incorporation estimate is authorized.",
+      "rationale": "Batch29's legal-taking/reversal boundary remains. Accepted removal, ancestry and saturation cells become U; the composite's residual range cannot turn that evidence limit into an observed replacement share. Replace the old fully supported zero with an explicit nonnumeric restriction, not a new positive score."
+    },
+    {
+      "conflict_id": "gr-roman-ardea-taking-restitution-reorganization-446-442/F8",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "No distinct unfree-labor population brought from outside the affected community is established for this bounded appropriation-and-restitution episode. This is not a measured zero.",
+      "rationale": "Batch29 expressly permitted not-evidenced in place of the former positive F8. The accepted direct gate and unfree share are U; an old supported-zero display must not conceal those corrections."
+    },
+    {
+      "conflict_id": "gr-roman-labici-colony-418-scope-control/F7",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "No displaced Labican cohort, destination or return history is established. Allottee movement does not measure prior-resident removal; no numerical separation estimate is authorized.",
+      "rationale": "Batch31's reason for removing the zero is no identified displaced cohort, not evidence that removal was impossible. The accepted distance and return codes are U. Retain the no-route/no-estimate restriction using not-evidenced, without relabeling raw U as NA."
+    },
+    {
+      "conflict_id": "gr-roman-bola-contested-land-taking-415-414/F7",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "No displaced Bola cohort, destination, distance or return restriction is established. The unquantified incoming reinforcement does not supply that missing resident-removal history.",
+      "rationale": "Batch32 distinguishes the attested Aequian reinforcement from an unidentified displaced population. Return foreclosure is corrected from 0 to U; distance is already unknown. Keep the evidentiary limit while dropping the earlier display-only NA assertion."
+    },
+    {
+      "conflict_id": "gr-roman-satricum-roman-conquest-colony-386-385/F8",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "The identified incoming cohort is Roman citizen colonists. No distinct imported unfree-labor population is established within the bounded event, and no numeric estimate is warranted.",
+      "rationale": "Batch35's old zero rested on no imported third population being identified. The accepted gate and unfree-share corrections are both 0 to U. Preserve the actual observation as not-evidenced, not a claim of complete knowledge of labor composition."
+    },
+    {
+      "conflict_id": "gr-roman-pomptine-division-settlement-383-358/F8",
+      "status": "source_review_not_evidenced",
+      "reviewReason": "Roman settlement is identified at regional level, but no distinct imported unfree-labor population is established in the bounded notices. No numerical imported-labor estimate is authorized.",
+      "rationale": "Batch35's two-milestone scope and uncounted settlement stream remain. No reported third population cannot justify the old fully supported zero after both direct F8 inputs become U. Use the existing not-evidenced status; do not alter the accepted raw record."
+    }
+  ]
+}

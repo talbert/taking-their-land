@@ -1,0 +1,51 @@
+{
+  "schema": "bibliography_identity_relations_v1",
+  "relations": [
+    {
+      "place_id": "254082752",
+      "work_ids": [
+        "access:2306a8790bb22ffa50b4",
+        "access:8aec8c6afd73596e32c4"
+      ],
+      "relation": "distinct_access_records_reference_same_place_identifier",
+      "canonical_uri": "https://pleiades.stoa.org/places/254082752",
+      "merged": false,
+      "basis": "Original place-page and JSON access URLs contain the same place ID, matching the pinned source id/uri. Current representations and historical versions were not compared for body equivalence."
+    },
+    {
+      "place_id": "433133",
+      "work_ids": [
+        "access:2c6e074fa207bd931c46",
+        "access:3c10b57623af2901b487"
+      ],
+      "relation": "distinct_access_records_reference_same_place_identifier",
+      "canonical_uri": "https://pleiades.stoa.org/places/433133",
+      "merged": false,
+      "basis": "Original place-page and JSON access URLs contain the same place ID, matching the pinned source id/uri. Current representations and historical versions were not compared for body equivalence."
+    },
+    {
+      "place_id": "403280",
+      "work_ids": [
+        "access:57ee40dbaf9ca0e3a1fc",
+        "access:78a392a53425b96f71d6"
+      ],
+      "relation": "distinct_access_records_reference_same_place_identifier",
+      "canonical_uri": "https://pleiades.stoa.org/places/403280",
+      "merged": false,
+      "basis": "Original place-page and JSON access URLs contain the same place ID, matching the pinned source id/uri. Current representations and historical versions were not compared for body equivalence."
+    },
+    {
+      "place_id": "432981",
+      "work_ids": [
+        "access:8a9c3eddea6dc39bf75e",
+        "access:949a9f8d71666a925853"
+      ],
+      "relation": "distinct_access_records_reference_same_place_identifier",
+      "canonical_uri": "https://pleiades.stoa.org/places/432981",
+      "merged": false,
+      "basis": "Original place-page and JSON access URLs contain the same place ID, matching the pinned source id/uri. Current representations and historical versions were not compared for body equivalence."
+    }
+  ],
+  "ids_merged": 0,
+  "new_ids_created": 0
+}

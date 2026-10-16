@@ -1,0 +1,76 @@
+{
+  "status": "identity_retained_field_conflicts_explicit",
+  "conflicts": [
+    {
+      "id": "CAM-J01",
+      "work_id": "title:elmslie 2017 asia pacific journal",
+      "field": "journal_issue",
+      "cambridge_issue": "2",
+      "crossref_issue": "17",
+      "original_journal_indexed_issue": "2",
+      "original_journal_indexed_number": "1",
+      "original_journal_indexed_article_id": "5005",
+      "cambridge_electronic_locator": "e4",
+      "original_journal_url": "https://apjjf.org/2017/02/Elmslie",
+      "original_journal_index_url": "https://apjjf.org/volume-and-issue/volume-15",
+      "status": "source_reports_preserved_canonical_reconciliation_open",
+      "disposition": "Retain Cambridge issue 2 as its reported value, supported by the original journal’s indexed volume/issue header. Preserve Crossref issue 17 as a conflicting deposit. The Cambridge e4 locator is separate from original article Number 1; do not treat it as a printed page.",
+      "indexed_source_binding": {
+        "private_file": "tmp/cambridge-metadata-20260909/journal-web-reader-conflict.json",
+        "sha256": "bbc0218f0b824e5c3e7a967a4a626121aaba831e1e70e97763c73ab031facb4e",
+        "role": "Original journal metadata through search-index excerpts; direct HTML/PDF reads returned 403."
+      },
+      "registry_source_binding": {
+        "url": "https://api.crossref.org/works/10.1017%2Fs1557466017013274",
+        "private_file": "tmp/cambridge-metadata-20260909/registry-resume-bf6a9953f54c3aef5e44.json",
+        "sha256": "ffaaa916cf0a714748286d89baa8b61147c28a8ef394566687cf7cdd36a3c2d3"
+      }
+    },
+    {
+      "id": "CAM-J02",
+      "work_id": "title:how chinese migrant workers resisted coconut colonialism in samoa",
+      "field": "journal_issue",
+      "cambridge_issue": "17",
+      "crossref_issue": "16",
+      "original_journal_indexed_issue": "17",
+      "original_journal_indexed_number": "9",
+      "original_journal_indexed_article_id": "5750",
+      "cambridge_electronic_locator": "e9",
+      "original_journal_url": "https://apjjf.org/2022/17/droessler",
+      "original_journal_index_url": "https://apjjf.org/volume-and-issue/volume-20/issue-17",
+      "status": "source_reports_preserved_canonical_reconciliation_open",
+      "disposition": "Retain Cambridge issue 17 as its reported value, supported by the original journal’s indexed volume/issue header. Preserve Crossref issue 16 as a conflicting deposit; electronic locator e9 is not a printed page.",
+      "indexed_source_binding": {
+        "private_file": "tmp/cambridge-metadata-20260909/journal-web-reader-conflict.json",
+        "sha256": "bbc0218f0b824e5c3e7a967a4a626121aaba831e1e70e97763c73ab031facb4e",
+        "role": "Original journal metadata through search-index excerpts; direct HTML/PDF reads returned 403."
+      },
+      "registry_source_binding": {
+        "url": "https://api.crossref.org/works/10.1017%2Fs1557466022019362",
+        "private_file": "tmp/cambridge-metadata-20260909/registry-resume-b6ca7e24e025d215bd74.json",
+        "sha256": "24508ac04ab5848a03df8a9c950c99f22c45424c23a0a9c58a8a7644ca3b1efa"
+      }
+    },
+    {
+      "id": "CAM-J03",
+      "work_id": "title:how chinese migrant workers resisted coconut colonialism in samoa",
+      "field": "original_publication_day",
+      "original_html_indexed_date": "2022-10-15",
+      "original_pdf_indexed_date": "2022-10-01",
+      "original_pdf_url": "https://apjjf.org/wp-content/uploads/2023/10/article-632.pdf",
+      "status": "unresolved",
+      "disposition": "Retain both indexed dates as source reports. Direct page/PDF access is blocked and no PDF was visually inspected. Do not assign a canonical original day; retain October 2022 at month precision and Cambridge’s separately labeled 2025 platform-online date.",
+      "indexed_source_binding": {
+        "private_file": "tmp/cambridge-metadata-20260909/journal-web-reader-conflict.json",
+        "sha256": "bbc0218f0b824e5c3e7a967a4a626121aaba831e1e70e97763c73ab031facb4e",
+        "role": "Original journal metadata through search-index excerpts; direct HTML/PDF reads returned 403."
+      },
+      "registry_source_binding": {
+        "url": "https://api.crossref.org/works/10.1017%2Fs1557466022019362",
+        "private_file": "tmp/cambridge-metadata-20260909/registry-resume-b6ca7e24e025d215bd74.json",
+        "sha256": "24508ac04ab5848a03df8a9c950c99f22c45424c23a0a9c58a8a7644ca3b1efa"
+      }
+    }
+  ],
+  "public_changes": false
+}

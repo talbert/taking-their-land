@@ -5,7 +5,32 @@ roster. For current execution state read root `CURRENT_WORK_STATE.md` together
 with `PIPELINE_STATE.json`. The former deep `AUDIT_ACTIVE_STATE.md` is frozen
 history.
 
-Checkpoint: 2026-08-30, after promotion of immutable
+**Current execution update — 8 September 2026:** v7 is locally activated:
+676 admitted events,672 family assignments,4 family holds. The fixed17-package
+correction cycle,565-scenario diagnostics, metadata carry-forward, two-date
+addendum and portable reproduction package are complete. The370-case/380-stop
+display is integrated with build20260908a. The companion PUBLICATION.json and
+dated deployment receipt distinguish release activation from verified serving.
+Do not relaunch closed scientific checks from the historical notes below.
+Six raw-F8 follow-ups remain; Cape is counted once. Remaining authoring:
+306 =246 ordinary +56 separate authoring holds +4 family holds. Exact IDs and
+execution state are in the v7 partition and root Current Work State. Original
+results remain immutable; the chronology supplement is an explicit overlay.
+The dated decisions below are history, not competing launch instructions.
+
+**Raw-F8 source preparation — 9 September 2026:** the private six-event packet
+reconciles twelve actual v7 cells and prepares source-first questions; all six
+substantive decisions remain open. No raw value, boundary or public display was
+changed. Megiddo's SCS is already U despite the old queue's zero wording; its
+PEL is 4 and has a separate anchor question. The Aydın PDF is Grant's *Greek
+Captives and Mediterranean Slavery, 1260–1460* (2024), not the older recorded
+title. The packet preserves the distinct modern cohorts, Cape project-scope
+counterevidence and Megiddo temple/cumulative-gift limits. Independent treatment,
+main adjudication and proportionate application checks are still required.
+This note corrects the current reading of the historical queue, not its frozen
+bytes, and does not reopen the closed correction cycle wholesale.
+
+Historical checkpoint: 2026-08-30, after promotion of immutable
 `second_pass_v6_675`, deployment and validation of atlas authoring Batch 23,
 closure of Batches 24 and 25 without public additions, and deployment and
 validation of bounded Batches 26 through 30.
@@ -16,13 +41,13 @@ adjudication of all 147 findings. The non-destructive verified register is
 frozen at `9b22d64`; the 126-obligation target-readiness inventory is frozen at
 `36aa3a5`; and twelve bounded source-review packets are frozen at `03bcff6`.
 Event-unit fairness gate added 2026-08-23.
-The first current post-promotion section governs over older dated snapshots.
+The current execution update above governs over the dated snapshots below.
 
 This memo excludes ordinary map authoring, bibliography production, and
 deployment. It lists only questions that can still add, remove, split, or
 materially reinterpret statistical events.
 
-## Current post-promotion checkpoint — 2026-08-30
+## Historical post-promotion checkpoint — 2026-08-30
 
 **Holistic sequencing decision, approved by Craig 2026-09-05:**
 `../../HOLISTIC_PROJECT_REVIEW_2026-09-05.md` recommends reconciling and

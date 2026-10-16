@@ -1,0 +1,100 @@
+{
+  "status": "tiered_inventory_followup_applied_not_all_entries_publication_ready",
+  "counts": {
+    "secondary_inventory_unresolved": 888,
+    "metadata_identity_reconciled_locus_separate": 327,
+    "deposited_metadata_identity_screened": 116,
+    "corrected_identifier_verified": 3,
+    "prior_pilot_review_preserved": 30,
+    "container_identity_reconciled_chapter_link_corrected": 1,
+    "source_identity_reconciled_identifier_unresolved": 1
+  },
+  "anchor_use": {
+    "cited": 27,
+    "background": 14
+  },
+  "work_access_records": 1366,
+  "overlay_records": 9,
+  "base_build": "20260909k",
+  "base_typed_metadata_sha256": "7e3c88a64eb19f44bdb103d71461cf07df640364c1731c10ebf2c51aa8454c19",
+  "overlay_sha256": "6603006efce4c6285cee85ecf6177e9dfd1364bcb002cd239593bd6da2416660",
+  "composite_sha256": "6a9d57bc7ee6532df5f03a5e5fac42d6560583295996febbb76df723ca64e017",
+  "identifier_exceptions": [
+    {
+      "work_id": "doi:10.4067/s0717-71942012000200001",
+      "status": "known_article_both_doi_forms_unregistered",
+      "preferred_url": "https://revistahistoria.uc.cl/index.php/rhis/article/view/10102"
+    }
+  ],
+  "remaining": "Secondary identities, editions and claim locators remain unresolved, including the original Capua reference. Twenty-two explicit bibliographic fields remain open. Original source occurrences and prior decisions are preserved.",
+  "identity_followup_source_passages_newly_verified": 0,
+  "passage_review": {
+    "records": 5,
+    "passages_located_with_limits": 3,
+    "partial_opening_only": 1,
+    "abstract_only": 1,
+    "file": "PASSAGE_NOTES.json",
+    "sha256": "67709e9035ed3eaf9fb4ed2fb69732220ea44e3790623a2d0fa6b66298616fd9",
+    "independent_historical_review": false
+  },
+  "prior_overlay_records": 320,
+  "reviewed_overlay_records_total": 329,
+  "latest_identity_review": {
+    "records": 9,
+    "selected_records": 9,
+    "selected_identity_unresolved": 0,
+    "metadata_only": true,
+    "original_occurrences_changed": 0,
+    "historical_scores_changed": 0,
+    "directory": "../livius_identity_followup_20260909/",
+    "unmerged_relation_groups": 1,
+    "current_citation_ids": 10,
+    "current_cases": 8,
+    "source_pages_inspected": 9,
+    "linked_metadata_context_pages_inspected": 2,
+    "atlas_citation_labels_corrected": 1,
+    "new_open_print_edition_fields": 4,
+    "public_archive_urls_confirmed": 0
+  },
+  "field_exceptions": {
+    "open": 22,
+    "status": "unresolved_bibliographic_fields_not_case_holds",
+    "files": [
+      {
+        "open": 3,
+        "file": "../institutional_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "6128605408f61ff1095c5263d610df6dfe5d8d3d10ee465a6bc5a7a90d188664"
+      },
+      {
+        "open": 3,
+        "file": "../iranica_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "5b4787c881efc4e7b31b106ba89361177a8f67e2c038145700b32ba633762aae"
+      },
+      {
+        "open": 2,
+        "file": "../pleiades_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "402ac4a9bb2fac3754e415c76857859111751e1a58a1cdcc22791e357fc3e958"
+      },
+      {
+        "open": 4,
+        "file": "../cambridge_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "947e485dec6f64899251e82bd5844421e1e02e2e054e49c1d5ac5befbcf01a19"
+      },
+      {
+        "open": 6,
+        "file": "../unhcr_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "efd4f2887cd531dd0d845bf71bac40c2bab2479e34e85f243de5b26c6616f3b5"
+      },
+      {
+        "open": 4,
+        "file": "../livius_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "5fa53e84fa2457fdace0ccd0563ed32439e0d4347c16f6968b7a03160e74091b"
+      }
+    ]
+  },
+  "additional_passage_followups": {
+    "records": 1,
+    "file": "../unhcr_identity_followup_20260909/PASSAGE_FOLLOWUPS.json",
+    "status": "unresolved_not_a_new_historical_decision"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "status": "reviewed_metadata_labels_applied",
+  "build": "20260909j",
+  "corrections": [
+    {
+      "citation_id": "eu_norman_wales_davies",
+      "work_id": "title:r r davies the normans in welsh history",
+      "before": "R. R. Davies, The Normans in Welsh History",
+      "after": "Huw Pryce, The Normans in Welsh History (R. Allen Brown Memorial Lecture)",
+      "url": "https://www.cambridge.org/core/books/anglonorman-studies-30/normans-in-welsh-history-r-allen-brown-memorial-lecture/88EEB1121D23DB6993619C89F0BEA86F",
+      "typed_fields_sha256": "8d68cea636fcf5476417118f6e2ecacc8caa63b38dc590d421639d87e28c740f",
+      "verification_urls": [
+        "https://www.cambridge.org/core/books/anglonorman-studies-30/normans-in-welsh-history-r-allen-brown-memorial-lecture/88EEB1121D23DB6993619C89F0BEA86F"
+      ],
+      "historical_passages_newly_verified": false,
+      "source_urls_and_case_sources_changed": false
+    },
+    {
+      "citation_id": "v5_han_hexi_wen",
+      "work_id": "access:f7399f51ed32ffdb1f3b",
+      "before": "Xin Wen, “Between the Great Walls: Northern Song Imaginations of the Northwest,” Journal of Chinese History (2025), p. 251",
+      "after": "Xin Wen, “Between the Great Walls: Northern Song Imaginations of the Northwest,” Journal of Chinese History (2024), p. 251",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E214AF16C3C74EB05C19C60537FCD38F/S2059163224000446a.pdf/between-the-great-walls-northern-song-imaginations-of-the-northwest.pdf",
+      "typed_fields_sha256": "fce8a7022f718e499f17ea0fd87f14c4fabc595a83009d0e4dc6a71bace1d53c",
+      "verification_urls": [
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E214AF16C3C74EB05C19C60537FCD38F/S2059163224000446a.pdf/between-the-great-walls-northern-song-imaginations-of-the-northwest.pdf",
+        "https://doi.org/10.1017/jch.2024.44",
+        "https://api.crossref.org/works/10.1017%2Fjch.2024.44"
+      ],
+      "historical_passages_newly_verified": false,
+      "source_urls_and_case_sources_changed": false
+    }
+  ],
+  "scope": "Two citation display labels only. Original citation IDs, URLs, case assignments, p. 251 locator, original bibliography occurrences and historical interpretations are preserved."
+}

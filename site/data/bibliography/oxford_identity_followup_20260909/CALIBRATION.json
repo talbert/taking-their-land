@@ -1,0 +1,1028 @@
+{
+  "status": "main_calibration_complete_with_explicit_limits",
+  "reviewed_document": "REVISED_IDENTITY_CANDIDATES.json",
+  "groups": [
+    {
+      "group_id": "O01",
+      "work_ids": [
+        "access:3372de2c47ecc5e0e511"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:3372de2c47ecc5e0e511; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/58652/chapter-abstract/485302779",
+        "https://api.crossref.org/works/10.1093%2Foso%2F9780199383559.003.0005"
+      ],
+      "grounding_passages": [
+        "Metapontion",
+        "10.1093/oso/9780199383559.003.0005",
+        "Joseph Coleman Carter",
+        "24 October 2024",
+        "610–799",
+        "9780197646373",
+        "9780199383559",
+        "Paul Cartledge (ed.), Paul Christesen (ed.)",
+        "03 February 2025"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "book-chapter",
+        "title": [
+          "Metapontion"
+        ],
+        "container-title": [
+          "The Oxford History of the Archaic Greek World"
+        ],
+        "publisher": "Oxford University PressNew York",
+        "page": "610-799",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              3
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "322b9f10ea9de8143a027aea5648de194b53847a6e0c32dd3323885f54d21be0",
+        "be35ce9a8e5b04cba1a41e22e9c85ea24f0169149e6a3e0fe4118efce1a49f94"
+      ]
+    },
+    {
+      "group_id": "O02",
+      "work_ids": [
+        "access:95ecfb4ffcd1d7304fac"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:95ecfb4ffcd1d7304fac; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/47066",
+        "https://researchprofiles.ku.dk/en/publications/an-inventory-of-archaic-and-classical-poleis/",
+        "https://academic.oup.com/book/47066/chapter-abstract/422669955"
+      ],
+      "grounding_passages": [
+        "An Inventory Of Archaic And Classical Poleis: An Investigation Conducted by The Copenhagen Polis Centre for the Danish National Research Foundation",
+        "10.1093/oso/9780198140993.001.0001",
+        "Thomas Heine Nielsen (Editor)",
+        "Mogens Hermann Hansen (Editor)",
+        "11 November 2004",
+        "9781383004595",
+        "9780198140993"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "retained_response_sha256": [
+        "322b9f10ea9de8143a027aea5648de194b53847a6e0c32dd3323885f54d21be0"
+      ]
+    },
+    {
+      "group_id": "O03",
+      "work_ids": [
+        "access:b1cfdad71d08e898b0aa"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:b1cfdad71d08e898b0aa; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/550566416",
+        "https://api.crossref.org/works/10.1093%2Facrefore%2F9780199381135.013.6162"
+      ],
+      "grounding_passages": [
+        "Sybaris",
+        "10.1093/acrefore/9780199381135.013.6162",
+        "H Kathryn Lomas",
+        "07 March 2016"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "reference-entry",
+        "title": [
+          "Sybaris"
+        ],
+        "container-title": [
+          "Oxford Classical Dictionary"
+        ],
+        "publisher": "Oxford University PressNew York, NY",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              7
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "322b9f10ea9de8143a027aea5648de194b53847a6e0c32dd3323885f54d21be0",
+        "9587b6f7c179880a0b9a2167ebf8a640390a68aea2ce413a4bfee37e9a685481"
+      ]
+    },
+    {
+      "group_id": "O04",
+      "work_ids": [
+        "access:c212687d080c15e094dd"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:c212687d080c15e094dd; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/california-scholarship-online/book/15556/chapter-abstract/170259895",
+        "https://www.ucpress.edu/books/a-critical-history-of-early-rome/paper",
+        "https://api.crossref.org/works/10.1525%2Fcalifornia%2F9780520226517.003.0009"
+      ],
+      "grounding_passages": [
+        "Evolution and Growth of the Roman State, 444–367 b.c.",
+        "10.1525/california/9780520226517.003.0009",
+        "Gary Forsythe",
+        "14 February 2005",
+        "234–267",
+        "9780520940291",
+        "9780520226517"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "book-chapter",
+        "title": [
+          "Evolution and Growth of the Roman State, 444–367 b.c."
+        ],
+        "container-title": [
+          "A Critical History of Early RomeFrom Prehistory to the First Punic War"
+        ],
+        "publisher": "University of California Press",
+        "page": "234-267",
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              2,
+              14
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "fef3587373f08052df7a4ba001362e3d19452708acc485d6ed32a4f32263ed5c",
+        "82dbef00d0b9dc1209716153aa16e2eef746ca294f309e96b960290c1f055a89",
+        "45abfab5ee7420e9d18dae621f1962def84621fbe1e6e3865baf77e36284cb0e"
+      ]
+    },
+    {
+      "group_id": "O05",
+      "work_ids": [
+        "title:cameron 2018 the hungry steppe"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:cameron 2018 the hungry steppe; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/cornell-scholarship-online/book/15707/chapter-abstract/170492902",
+        "https://api.crossref.org/works/10.7591%2Fcornell%2F9781501730436.003.0002"
+      ],
+      "grounding_passages": [
+        "The Steppe and the Sown: Peasants, Nomads, and the Transformation of the Kazakh Steppe, 1896–1921",
+        "10.7591/cornell/9781501730436.003.0002",
+        "Sarah Cameron",
+        "15 November 2018",
+        "19–44"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "book-chapter",
+        "title": [
+          "The Steppe and the Sown"
+        ],
+        "container-title": [
+          "The Hungry Steppe"
+        ],
+        "publisher": "Cornell University Press",
+        "page": "19-44",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              15
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              23
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "fef3587373f08052df7a4ba001362e3d19452708acc485d6ed32a4f32263ed5c",
+        "c936ce875ea37f3fb331bcf916256d6f3a0749f392f54015213edb0c096fdf7a"
+      ]
+    },
+    {
+      "group_id": "O06",
+      "work_ids": [
+        "title:canny 2001 making ireland british"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:canny 2001 making ireland british; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/9765",
+        "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780198200918.001.0001"
+      ],
+      "grounding_passages": [
+        "Making Ireland British, 1580-1650",
+        "10.1093/acprof:oso/9780198200918.001.0001",
+        "Nicholas Canny",
+        "03 May 2001",
+        "9780191718274",
+        "9780198200918"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "monograph",
+        "title": [
+          "Making Ireland British, 1580-1650"
+        ],
+        "container-title": [],
+        "publisher": "Oxford University Press",
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              5,
+              3
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "0b11d4ad29abc13f91399e63bde505a7713dc14cf9541b8810f95d8f1d740a3a",
+        "fad5b7ef51acf05a25acf2de78e7a608974d8193e83f94bde86dd8d66ce1794a"
+      ]
+    },
+    {
+      "group_id": "O07",
+      "work_ids": [
+        "title:cornell scholarship online dutch guiana plantation society and slavery"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:cornell scholarship online dutch guiana plantation society and slavery; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/cornell-scholarship-online/book/19035/chapter-abstract/177425275"
+      ],
+      "grounding_passages": [
+        "The Guianas",
+        "10.7591/cornell/9781501705267.003.0005",
+        "Wim Klooster",
+        "Gert Oostindie",
+        "15 May 2018",
+        "121–162",
+        "9781501719592",
+        "9781501705267"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "retained_response_sha256": [
+        "0b11d4ad29abc13f91399e63bde505a7713dc14cf9541b8810f95d8f1d740a3a"
+      ]
+    },
+    {
+      "group_id": "O08",
+      "work_ids": [
+        "title:local institutions and human capital formation in pre industrial societies evidence from valencia"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:local institutions and human capital formation in pre industrial societies evidence from valencia; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/ereh/article/28/2/135/7379742",
+        "https://api.crossref.org/works/10.1093%2Fereh%2Fhead022"
+      ],
+      "grounding_passages": [
+        "Local institutions and human capital formation in pre-industrial societies: evidence from Valencia",
+        "10.1093/ereh/head022",
+        "Francisco J Beltrán Tapia",
+        "Alfonso Díez-Minguela",
+        "Alicia Gómez-Tello",
+        "Julio Martinez-Galarraga",
+        "Daniel A Tirado-Fabregat",
+        "08 November 2023",
+        "135–162"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "journal-article",
+        "title": [
+          "Local institutions and human capital formation in pre-industrial societies: evidence from Valencia"
+        ],
+        "container-title": [
+          "European Review of Economic History"
+        ],
+        "publisher": "Oxford University Press (OUP)",
+        "page": "135-162",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              8
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              8
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "d32258fc54c03211ee401b13bdf1525193dd68d6517f65a3ded06854a00d4f49",
+        "b2a4a0275199380692bbce075dc8f1188fde82cded817a13ceacb232dec6dcf9"
+      ]
+    },
+    {
+      "group_id": "O09",
+      "work_ids": [
+        "title:oxford scholarship online conquest and colonial settlement in medieval wales"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:oxford scholarship online conquest and colonial settlement in medieval wales; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/26898/chapter-abstract/195967840",
+        "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780198208785.003.0004"
+      ],
+      "grounding_passages": [
+        "The Anglo-Norman Settlement of Wales and the Making of Marcher Society",
+        "10.1093/acprof:oso/9780198208785.003.0004",
+        "R. R. Davies",
+        "07 September 2000",
+        "82–108"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "book-chapter",
+        "title": [
+          "The Anglo-Norman Settlement of Wales and the Making of Marcher Society"
+        ],
+        "container-title": [
+          "The Age of Conquest"
+        ],
+        "publisher": "Oxford University Press",
+        "page": "82-107",
+        "published-print": {
+          "date-parts": [
+            [
+              2000,
+              9,
+              7
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "fef3587373f08052df7a4ba001362e3d19452708acc485d6ed32a4f32263ed5c",
+        "1b9fc35281513b66eb330bac1b4e624c2f6a286723cd8c9cc0748d6793b534fc"
+      ]
+    },
+    {
+      "group_id": "O10",
+      "work_ids": [
+        "title:oxford scholarship online french caribbean plantation colonization"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:oxford scholarship online french caribbean plantation colonization; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/45803/chapter-abstract/400650671",
+        "https://api.crossref.org/works/10.1093%2Foso%2F9780197673027.003.0007"
+      ],
+      "grounding_passages": [
+        "Forced Settlement and Colonial Occupation under French Rule: From Saint-Domingue (Haiti) and the French Antilles to Algeria and Sub-Saharan Africa",
+        "10.1093/oso/9780197673027.003.0007",
+        "Olukunle P. Owolabi",
+        "20 April 2023",
+        "201–244"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "book-chapter",
+        "title": [
+          "Forced Settlement and Colonial Occupation under French Rule"
+        ],
+        "container-title": [
+          "Ruling Emancipated Slaves and Indigenous Subjects"
+        ],
+        "publisher": "Oxford University PressNew York",
+        "page": "201-244",
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              11
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "fef3587373f08052df7a4ba001362e3d19452708acc485d6ed32a4f32263ed5c",
+        "3b2cd4a31e30011882c7b2b85db587e79027685a76c0a1d38ceb303f33e13ff2"
+      ]
+    },
+    {
+      "group_id": "O11",
+      "work_ids": [
+        "title:oxford scholarship online german colonialism and plantation labour in samoa"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:oxford scholarship online german colonialism and plantation labour in samoa; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/60083/chapter-abstract/519686296",
+        "https://api.crossref.org/works/10.1093%2F9780198936305.003.0003"
+      ],
+      "grounding_passages": [
+        "Plantation or Settler Colonialism?",
+        "10.1093/9780198936305.003.0003",
+        "Matthew P Fitzpatrick",
+        "19 May 2025",
+        "38–61"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "book-chapter",
+        "title": [
+          "Plantation or Settler Colonialism?"
+        ],
+        "container-title": [
+          "A Pacific Power"
+        ],
+        "publisher": "Oxford University PressOxford",
+        "page": "38-61",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              19
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "fef3587373f08052df7a4ba001362e3d19452708acc485d6ed32a4f32263ed5c",
+        "98322b5c70ec63d3da36ae198fa20df09beeaddc0444bb7f586e4831a65231b7"
+      ]
+    },
+    {
+      "group_id": "O12",
+      "work_ids": [
+        "title:oxford scholarship online medieval eastward settlement and colonization"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:oxford scholarship online medieval eastward settlement and colonization; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/11459/chapter-abstract/160163144",
+        "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780198206385.003.0007"
+      ],
+      "grounding_passages": [
+        "The German Colonization of the East",
+        "10.1093/acprof:oso/9780198206385.003.0007",
+        "SIDNEY POLLARD",
+        "15 May 1997",
+        "144–160"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "book-chapter",
+        "title": [
+          "The German Colonization of the East"
+        ],
+        "container-title": [
+          "Marginal Europe"
+        ],
+        "publisher": "Oxford University Press",
+        "page": "144-160",
+        "published-print": {
+          "date-parts": [
+            [
+              1997,
+              5,
+              15
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "fef3587373f08052df7a4ba001362e3d19452708acc485d6ed32a4f32263ed5c",
+        "56956525f3bc6c12329aeb074c85936d24f558f4a46641e60d71288b2bed87da"
+      ]
+    },
+    {
+      "group_id": "O13",
+      "work_ids": [
+        "title:oxford scholarship online russian imperial conquest and colonization of crimea"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:oxford scholarship online russian imperial conquest and colonization of crimea; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/2312/chapter-abstract/142447607",
+        "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780190494704.003.0002"
+      ],
+      "grounding_passages": [
+        "Dispossession: The Loss of the Crimean Homeland",
+        "10.1093/acprof:oso/9780190494704.003.0002",
+        "Brian Glyn Williams",
+        "01 December 2015",
+        "9–18",
+        "9780190494735",
+        "9780190494704"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "book-chapter",
+        "title": [
+          "Dispossession"
+        ],
+        "container-title": [
+          "The Crimean Tatars"
+        ],
+        "publisher": "Oxford University Press",
+        "page": "9-18",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              1
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "1b84c7cfcbb6df25e78fa2b5a017f79031377beb22c4566d2ecfc123054c9d8a",
+        "f7904c3db5ada37916670e4e56b11aff87a2273499b23b31885eb1fff5a07e27"
+      ]
+    },
+    {
+      "group_id": "O14",
+      "work_ids": [
+        "title:pueblos perdidos displacement at the panama canal"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:pueblos perdidos displacement at the panama canal; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/mit-press-scholarship-online/book/20164/chapter-abstract/179176515"
+      ],
+      "grounding_passages": [
+        "Pueblos Perdidos, or How the Lake Ate the River",
+        "10.7551/mitpress/9780262028110.003.0007",
+        "Ashley Carse",
+        "28 November 2014"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "retained_response_sha256": [
+        "fef3587373f08052df7a4ba001362e3d19452708acc485d6ed32a4f32263ed5c"
+      ]
+    },
+    {
+      "group_id": "O15",
+      "work_ids": [
+        "title:sorkin jewish emancipation maghreb and mashreq"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: title:sorkin jewish emancipation maghreb and mashreq; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/princeton-scholarship-online/book/33984/chapter-abstract/288867341"
+      ],
+      "grounding_passages": [
+        "Maghreb and Mashreq",
+        "10.23943/princeton/9780691164946.003.0026",
+        "David Sorkin",
+        "10 September 2019",
+        "320–333",
+        "9780691189673",
+        "9780691164946"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "retained_response_sha256": [
+        "1b84c7cfcbb6df25e78fa2b5a017f79031377beb22c4566d2ecfc123054c9d8a"
+      ]
+    },
+    {
+      "group_id": "O16",
+      "work_ids": [
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548066271"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:academic.oup.com/edited-volume/61673/chapter-abstract/548066271; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/548066271"
+      ],
+      "grounding_passages": [
+        "Antium",
+        "10.1093/acrefore/9780199381135.013.536",
+        "Edward Togo Salmon",
+        "T W Potter",
+        "22 December 2015"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "retained_response_sha256": [
+        "75a51ce352bf1f2744f1b95e0d44487964be6d85ba360b64e0da685b459e10e8"
+      ]
+    },
+    {
+      "group_id": "O17",
+      "work_ids": [
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548509188"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:academic.oup.com/edited-volume/61673/chapter-abstract/548509188; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/548509188"
+      ],
+      "grounding_passages": [
+        "Brundisium",
+        "10.1093/acrefore/9780199381135.013.1184",
+        "H Kathryn Lomas",
+        "22 December 2015"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "retained_response_sha256": [
+        "75a51ce352bf1f2744f1b95e0d44487964be6d85ba360b64e0da685b459e10e8"
+      ]
+    },
+    {
+      "group_id": "O18",
+      "work_ids": [
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548510756"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:academic.oup.com/edited-volume/61673/chapter-abstract/548510756; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/548510756"
+      ],
+      "grounding_passages": [
+        "Buxentum",
+        "10.1093/acrefore/9780199381135.013.1202",
+        "H Kathryn Lomas",
+        "22 December 2015"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "retained_response_sha256": [
+        "75a51ce352bf1f2744f1b95e0d44487964be6d85ba360b64e0da685b459e10e8"
+      ]
+    },
+    {
+      "group_id": "O19",
+      "work_ids": [
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548510989"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:academic.oup.com/edited-volume/61673/chapter-abstract/548510989; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/548510989",
+        "https://api.crossref.org/works/10.1093%2Facrefore%2F9780199381135.013.728"
+      ],
+      "grounding_passages": [
+        "Ariminum",
+        "10.1093/acrefore/9780199381135.013.728",
+        "Edward Togo Salmon",
+        "T W Potter",
+        "22 December 2015"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "reference-entry",
+        "title": [
+          "Ariminum"
+        ],
+        "container-title": [
+          "Oxford Classical Dictionary"
+        ],
+        "publisher": "Oxford University PressNew York, NY",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              22
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "75a51ce352bf1f2744f1b95e0d44487964be6d85ba360b64e0da685b459e10e8",
+        "0c9868097b4eda2a30d6518ac1fc5121deb4d08757381792916393ef668e53d0"
+      ]
+    },
+    {
+      "group_id": "O20",
+      "work_ids": [
+        "url:academic.oup.com/edited-volume/61673/chapter-abstract/548725116"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:academic.oup.com/edited-volume/61673/chapter-abstract/548725116; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/548725116"
+      ],
+      "grounding_passages": [
+        "Croton",
+        "10.1093/acrefore/9780199381135.013.1941",
+        "H Kathryn Lomas",
+        "22 December 2015"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "retained_response_sha256": [
+        "fce5b2a1d47a8d52026bdbcb41aaa48b0e7c9e9a4a3cfe6ca175a148b778066b"
+      ]
+    },
+    {
+      "group_id": "O21",
+      "work_ids": [
+        "url:academic.oup.com/edited-volume/61673/chapter/549687296"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:academic.oup.com/edited-volume/61673/chapter/549687296; typed metadata and attributed limits; PROPOSED_LABEL_CORRECTIONS.json where applicable",
+      "load_bearing_terms": "as supplied; as reported; registered; source role; modern reference article; unconfirmed; preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/edited-volume/61673/chapter/549687296",
+        "https://api.crossref.org/works/10.1093%2Facrefore%2F9780199381135.013.4336"
+      ],
+      "grounding_passages": [
+        "Narnia",
+        "10.1093/acrefore/9780199381135.013.4336",
+        "Edward Togo Salmon",
+        "T W Potter",
+        "07 March 2016"
+      ],
+      "source_locators": [
+        "Publisher metadata header/bylines/component and dates; institutional editor-role record for Inventory; observed browser metadata transcript for seven chapters; named registry JSON keys where retrieved."
+      ],
+      "source_licenses": "The source-qualified work/component identity and attribution of supplied metadata. This does not license new historical passage acceptance, physical-edition equivalence or filling the separate preferred-field gaps.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the final candidate fields and their explicit limits.",
+      "registered_fields_inspected": {
+        "type": "reference-entry",
+        "title": [
+          "Narnia"
+        ],
+        "container-title": [
+          "Oxford Classical Dictionary"
+        ],
+        "publisher": "Oxford University PressNew York, NY",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              7
+            ]
+          ]
+        }
+      },
+      "retained_response_sha256": [
+        "fce5b2a1d47a8d52026bdbcb41aaa48b0e7c9e9a4a3cfe6ca175a148b778066b",
+        "3aef4203b1c8afc353b1d3fce9147da29758ce219a8e0206ba26d86c32d9bc1e"
+      ]
+    },
+    {
+      "group_id": "GAP-3",
+      "work_ids": [
+        "access:c212687d080c15e094dd"
+      ],
+      "claim_location": "access:c212687d080c15e094dd: container_editor_names_as_supplied",
+      "load_bearing_terms": "unconfirmed / preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/california-scholarship-online/book/15556/chapter-abstract/170259895",
+        "https://www.ucpress.edu/books/a-critical-history-of-early-rome/paper",
+        "https://api.crossref.org/works/10.1525%2Fcalifornia%2F9780520226517.003.0009"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "OPEN_SOURCE_QUESTIONS.json and REGISTRY_COMPARISON.json"
+      ],
+      "source_licenses": "Available evidence does not settle this preferred field. Conflicting or absent values remain explicit.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Retain the null preferred field and attributed observations; do not choose a plausible value."
+    },
+    {
+      "group_id": "GAP-8",
+      "work_ids": [
+        "title:oxford scholarship online conquest and colonial settlement in medieval wales"
+      ],
+      "claim_location": "title:oxford scholarship online conquest and colonial settlement in medieval wales: preferred_page_range",
+      "load_bearing_terms": "unconfirmed / preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/book/26898/chapter-abstract/195967840",
+        "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780198208785.003.0004"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "OPEN_SOURCE_QUESTIONS.json and REGISTRY_COMPARISON.json"
+      ],
+      "source_licenses": "Available evidence does not settle this preferred field. Conflicting or absent values remain explicit.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Retain the null preferred field and attributed observations; do not choose a plausible value."
+    },
+    {
+      "group_id": "GAP-13",
+      "work_ids": [
+        "title:pueblos perdidos displacement at the panama canal"
+      ],
+      "claim_location": "title:pueblos perdidos displacement at the panama canal: pages_as_reported",
+      "load_bearing_terms": "unconfirmed / preferred value unset",
+      "source_urls": [
+        "https://academic.oup.com/mit-press-scholarship-online/book/20164/chapter-abstract/179176515"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "OPEN_SOURCE_QUESTIONS.json and REGISTRY_COMPARISON.json"
+      ],
+      "source_licenses": "Available evidence does not settle this preferred field. Conflicting or absent values remain explicit.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Retain the null preferred field and attributed observations; do not choose a plausible value."
+    },
+    {
+      "group_id": "DISCLOSURES",
+      "work_ids": [],
+      "claim_location": "SOURCE_DISCLOSURES.json and first-round disclosure paragraph",
+      "load_bearing_terms": "as disclosed; source-labelled dates",
+      "source_urls": [
+        "https://academic.oup.com/ereh/article/28/2/135/7379742"
+      ],
+      "grounding_passages": [
+        "Bank of Spain",
+        "PGC2018-095821-B-I00",
+        "from the authors on request."
+      ],
+      "source_locators": [
+        "Named page guidance/disclosure section; selected observed metadata transcript."
+      ],
+      "source_licenses": "The named funding, data-availability and rights disclosures only; no conflict-free or funding-to-validity conclusion.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the source-attributed limitation.",
+      "retained_response_sha256": [
+        "0d103294243617ba9b06423632730364a9577573acdebd93d33449343716ce93"
+      ]
+    },
+    {
+      "group_id": "DATE-GUIDANCE",
+      "work_ids": [],
+      "claim_location": "ROUND_1_FACT_CHECK.md: publisher date-role paragraph",
+      "load_bearing_terms": "as disclosed; source-labelled dates",
+      "source_urls": [
+        "https://academic.oup.com/pages/using-the-content/search"
+      ],
+      "grounding_passages": [
+        "The “Published” date of a book is the earliest publication date.",
+        "This could be either the print or the online publication date"
+      ],
+      "source_locators": [
+        "Named page guidance/disclosure section; selected observed metadata transcript."
+      ],
+      "source_licenses": "Oxford explains the book Published label; no uniform first-online date is assigned.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the source-attributed limitation.",
+      "retained_response_sha256": [
+        "99693aedce688351b5d303d4b6e83da4ab93853a1ca0252fd685f8f394a9960b"
+      ]
+    }
+  ],
+  "verdict_counts": {
+    "Matched": 23,
+    "Uncheckable": 3,
+    "Overclaimed": 0,
+    "Underclaimed": 0,
+    "Unsupported-but-sound": 0
+  },
+  "limits": "Exact metadata strings are grounded; browser entries are identified transcripts, not raw HTML. Operational checks and historical passages are separate.",
+  "coverage_note": "Grounding includes exact publisher/transcribed date labels, supplied page ranges and ISBN strings, with explicit registry field values. The registered data retains its own field names and date roles.",
+  "public_apparatus_note": "Private response paths omitted; source URLs, metadata grounding and locators retained. Candidate filenames refer to the retained review packet. No complete chapter or printed-edition inspection is claimed."
+}

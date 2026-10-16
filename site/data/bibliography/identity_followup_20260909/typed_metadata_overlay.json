@@ -1,0 +1,362 @@
+[
+  {
+    "work_id": "access:3f6b82b082b9434ed7ea",
+    "recorded_title": "James Henry Breasted, Ancient Records of Egypt, vol. 2, §§408–410 and 435–437",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://archive.org/details/ancientrecordsof02brea_0"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book",
+      "title": "Ancient Records of Egypt",
+      "subtitle": [
+        "Historical Documents from the Earliest Times to the Persian Conquest, Collected, Edited and Translated with Commentary"
+      ],
+      "volume": "II",
+      "volume_title": "The Eighteenth Dynasty",
+      "editors": [
+        {
+          "literal": "James Henry Breasted"
+        }
+      ],
+      "translators": [
+        {
+          "literal": "James Henry Breasted"
+        }
+      ],
+      "publisher": "The University of Chicago Press",
+      "place": "Chicago",
+      "year": 1906,
+      "year_basis": "Title and copyright/publication pages in the inspected scan",
+      "published": "1906-03",
+      "digitized": 2015
+    },
+    "verification_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ancient_records_of_Egypt%3B_historical_documents_from_the_earliest_times_to_the_Persian_conquest_%28IA_ancientrecordsof02brea_0%29.pdf",
+      "https://archive.org/details/ancientrecordsof02brea_0"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the volume and Breasted's editor/translator roles from the scan; preserve this access/work ID. The scan's digitization leaf explicitly names the Internet Archive item, linking the two routes without merging their records.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Selected body reading exists in a separate raw-F8 research packet. This identity update does not accept its pending historical or coding judgments or certify inherited claim locators.",
+      "metadata_basis": "PDF pp. 2, 7 and 8, all visually inspected: digitization/item link, title/volume/publisher, copyright and March 1906 publication.",
+      "metadata_limits": "The Internet Archive metadata API returned an internal error. Identity linkage instead rests on the scan's own item URL. Selected historical passages were read separately; not every inherited section locator was reverified."
+    }
+  },
+  {
+    "work_id": "access:5d1333151da177881853",
+    "recorded_title": "Opened the cited Alasdair C. Grant thesis at printed page 66 and pages 198-200; A. C. S. Peacock, Islam, Literature and Society in Mongol Anatolia, section The Formation of Islamic Anatolia, opening three paragraphs; Lazaridis et al., Medieval migrations into Anatolia and the Balkans and the Figure 4 discussion; and the Beihammer preview at pages 1 and 5-6 as a chronology boundary control. Three additional authoritative works were opened: Vedat Turgut on the Menteşe principality, especially printed pages 25-27 and 38-42; Raif Kaplanoğlu and Yusuf Kılıç on the non-Muslim population of Bursa and Bithynian settlement, especially printed pages 27-29 and the Bursa/Mudanya/Iznik/Izmit locality discussion; and Alasdair C. Grant, Byzantine Slavery and the Mediterranean World, especially printed pages 31-35 and 166-180. No fourth additional work was needed.",
+    "scope": [
+      "authoring_evidence_hold",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://edinburghuniversitypress.com/pub/media/ebooks/9781399523851.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book",
+      "title": "Greek Captives and Mediterranean Slavery, 1260–1460",
+      "authors": [
+        {
+          "literal": "Alasdair C. Grant"
+        }
+      ],
+      "publisher": "Edinburgh University Press",
+      "place": "Edinburgh",
+      "year": 2024,
+      "year_basis": "Inspected book copyright page",
+      "isbn": "9781399523851",
+      "isbn_format": "webready PDF",
+      "other_formats_as_listed": [
+        {
+          "format": "hardback",
+          "isbn": "9781399523837"
+        },
+        {
+          "format": "epub",
+          "isbn": "9781399523868"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://edinburghuniversitypress.com/pub/media/ebooks/9781399523851.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Replace the unresolved typed identity with the book actually served at the registered ISBN/PDF. Preserve the long original multi-work research-log label and all original occurrences as historical data. Do not substitute the earlier doctoral thesis.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Selected body reading exists in a separate raw-F8 research packet. This identity update does not accept its pending historical or coding judgments or certify inherited claim locators.",
+      "metadata_basis": "PDF title and copyright/ISBN pages 4–5, visually inspected; acknowledgments also read.",
+      "metadata_limits": "Identity and PDF edition are established. The inherited pp. 31–35 and 166–180 claims are not all reverified by this correction; the raw-F8 source packet separately records selected pages and remaining questions."
+    }
+  },
+  {
+    "work_id": "access:bc3f0c9c5047a672c740",
+    "recorded_title": "South African History Online, History of slavery and early colonisation in South Africa",
+    "scope": [
+      "active_release",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://sahistory.org.za/article/history-slavery-and-early-colonisation-south-africa"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "History of slavery and early colonisation in South Africa",
+      "publisher": "South African History Online",
+      "year": 2011,
+      "year_basis": "Page datePublished structured metadata; modified date retained separately",
+      "published": "2011-06-02",
+      "modified": "2026-07-21"
+    },
+    "verification_urls": [
+      "https://sahistory.org.za/article/history-slavery-and-early-colonisation-south-africa"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the institutional article from its displayed heading and structured dates. Do not treat the content-management account name as a verified personal author.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Selected body reading exists in a separate raw-F8 research packet. This identity update does not accept its pending historical or coding judgments or certify inherited claim locators.",
+      "metadata_basis": "Downloaded article h1, og:title and page datePublished/dateModified fields.",
+      "metadata_limits": "First publication and last modification are different dates. No named author is established here. A current page is not proof that every paragraph existed in the 2011 version."
+    }
+  },
+  {
+    "work_id": "title:breasted ancient records of egypt volume ii sections 434437",
+    "recorded_title": "Breasted, Ancient Records of Egypt, volume II, sections 434–437",
+    "scope": [
+      "active_release",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ancient_records_of_Egypt%3B_historical_documents_from_the_earliest_times_to_the_Persian_conquest_%28IA_ancientrecordsof02brea_0%29.pdf"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book",
+      "title": "Ancient Records of Egypt",
+      "subtitle": [
+        "Historical Documents from the Earliest Times to the Persian Conquest, Collected, Edited and Translated with Commentary"
+      ],
+      "volume": "II",
+      "volume_title": "The Eighteenth Dynasty",
+      "editors": [
+        {
+          "literal": "James Henry Breasted"
+        }
+      ],
+      "translators": [
+        {
+          "literal": "James Henry Breasted"
+        }
+      ],
+      "publisher": "The University of Chicago Press",
+      "place": "Chicago",
+      "year": 1906,
+      "year_basis": "Title and copyright/publication pages in the inspected scan",
+      "published": "1906-03",
+      "digitized": 2015
+    },
+    "verification_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ancient_records_of_Egypt%3B_historical_documents_from_the_earliest_times_to_the_Persian_conquest_%28IA_ancientrecordsof02brea_0%29.pdf",
+      "https://archive.org/details/ancientrecordsof02brea_0"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the volume and Breasted's editor/translator roles from the scan; preserve this access/work ID. The scan's digitization leaf explicitly names the Internet Archive item, linking the two routes without merging their records.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Selected body reading exists in a separate raw-F8 research packet. This identity update does not accept its pending historical or coding judgments or certify inherited claim locators.",
+      "metadata_basis": "PDF pp. 2, 7 and 8, all visually inspected: digitization/item link, title/volume/publisher, copyright and March 1906 publication.",
+      "metadata_limits": "The Internet Archive metadata API returned an internal error. Identity linkage instead rests on the scan's own item URL. Selected historical passages were read separately; not every inherited section locator was reverified."
+    }
+  },
+  {
+    "work_id": "title:cameroon equatorial guinea and the management of equatoguinean refugees 19601979",
+    "recorded_title": "Cameroon, Equatorial Guinea, and the management of Equatoguinean refugees, 1960–1979",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://journals.codesria.org/index.php/az/article/view/1780"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "title": "Cameroon, Equatorial Guinea, and the management of Equatoguinean Refugees from 1960 to 1979",
+      "authors": [
+        {
+          "literal": "Delmas Tsafack"
+        }
+      ],
+      "container_title": [
+        "Afrika Zamani"
+      ],
+      "issue": "25",
+      "year": 2017,
+      "year_basis": "Printed issue designation on the article and current issue listing; later web dates retained explicitly",
+      "pages": "87–106",
+      "issn": [
+        "0850-3079"
+      ],
+      "doi": "10.57054/az.vi25.1780",
+      "copyright_year": 2018,
+      "website_issue_published": "2019-02-15",
+      "website_article_published": "2022-01-19",
+      "website_generated_citation_year": 2022
+    },
+    "verification_urls": [
+      "https://journals.codesria.org/index.php/az/article/view/1780",
+      "https://journals.codesria.org/index.php/az/article/download/1780/1839/2003"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Recover the author, full title, printed issue/extent and publisher-listed DOI. Use the printed issue year with an explicit date discrepancy, preserving the website's different issue, article and generated-citation dates.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Selected body reading exists in a separate raw-F8 research packet. This identity update does not accept its pending historical or coding judgments or certify inherited claim locators.",
+      "metadata_basis": "PDF first page visually inspected; OJS article page issue, DOI, author and publication-date fields read on 2026-09-09.",
+      "metadata_limits": "The publisher supplies conflicting citation/publication dates. This record does not invent one definitive release date or silently replace the printed 2017 issue year with the 2022 web date. Displayed DOI is identified; no new DOI-registry resolution check is claimed."
+    }
+  },
+  {
+    "work_id": "title:langer forced labour and deportations in ancient egypt",
+    "recorded_title": "Langer, Forced Labour and Deportations in Ancient Egypt",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://rephip.unr.edu.ar/server/api/core/bitstreams/fdd10945-5279-47cb-95fe-df0a24b71905/content"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "title": "Forced Labour and Deportations in Ancient Egypt: Recent Trends and Future Possibilities",
+      "authors": [
+        {
+          "literal": "Christian Langer"
+        }
+      ],
+      "container_title": [
+        "Claroscuro"
+      ],
+      "volume": "19",
+      "issue": "2",
+      "year": 2020,
+      "year_basis": "PDF journal cover and article headers",
+      "pages": "1–22",
+      "issn": [
+        "2314-0542"
+      ]
+    },
+    "verification_urls": [
+      "https://rephip.unr.edu.ar/server/api/core/bitstreams/fdd10945-5279-47cb-95fe-df0a24b71905/content"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the exact article and extent from the journal PDF rather than the shortened inherited label. Do not infer a DOI from the repository bitstream identifier.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Selected body reading exists in a separate raw-F8 research packet. This identity update does not accept its pending historical or coding judgments or certify inherited claim locators.",
+      "metadata_basis": "PDF cover and first article page text; printed article headers and closing pagination.",
+      "metadata_limits": "Journal cover/first-page text read and a selected body page visually inspected during source preparation; this metadata pass does not claim full visual inspection of every page or independent verification of the article's underlying research."
+    }
+  },
+  {
+    "work_id": "title:united states holocaust memorial museum introduction to the holocaust",
+    "recorded_title": "United States Holocaust Memorial Museum, Introduction to the Holocaust",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Introduction to the Holocaust",
+      "authors": [
+        {
+          "literal": "United States Holocaust Memorial Museum, Washington, DC"
+        }
+      ],
+      "container_title": [
+        "Holocaust Encyclopedia"
+      ],
+      "publisher": "United States Holocaust Memorial Museum",
+      "modified": "2024-09-20"
+    },
+    "verification_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Use the article's displayed h1 and institutional byline. Retain its last-edited date as a modification date, not an inferred publication year.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Selected body reading exists in a separate raw-F8 research packet. This identity update does not accept its pending historical or coding judgments or certify inherited claim locators.",
+      "metadata_basis": "Downloaded h1, displayed Author(s) byline and Last Edited element. The longer search/og:title is not substituted for the displayed heading.",
+      "metadata_limits": "No first-publication year was established. Metadata identification does not recertify all assertions or numerical claims in the article."
+    }
+  },
+  {
+    "work_id": "title:united states holocaust memorial museum japanese american forced removal",
+    "recorded_title": "United States Holocaust Memorial Museum, Japanese American forced removal",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/japanese-american-relocation"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Japanese American Relocation",
+      "container_title": [
+        "Holocaust Encyclopedia"
+      ],
+      "publisher": "United States Holocaust Memorial Museum"
+    },
+    "verification_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/japanese-american-relocation"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Recover the displayed article title while preserving the inherited forced-removal work key and original occurrence title. Identify the institutional publisher without inventing a named author or publication date.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Selected body reading exists in a separate raw-F8 research packet. This identity update does not accept its pending historical or coding judgments or certify inherited claim locators.",
+      "metadata_basis": "Downloaded article h1 and og:title; institutional site identity.",
+      "metadata_limits": "No displayed byline or first-publication date was located in this page. The existing event endpoint and source terminology are historical questions outside this metadata correction."
+    }
+  }
+]

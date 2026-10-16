@@ -1,0 +1,61 @@
+{
+  "build": "20260912b",
+  "records": [
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "work_ids": [
+        "access:cf836821477d7ce20a6b",
+        "access:fa6306d6fcb5d3dead56",
+        "title:national park service mission san gregorio de abo",
+        "title:us national park service world war ii aleut relocation camps in southeast alaska drawing on the cwric report personal justice denied 1982"
+      ],
+      "records": 4,
+      "seal_sha256": "d68d62d556964f2887e5ffd9e618350e82aa6465546abdb943cd0d70e69c8806",
+      "decision_sha256": "fd2ea6af0aa3dfc4e5e49f30926dbc362b7f372a1d752343d0657a8bd356745c",
+      "validation_sha256": "20a6760df6900a71f99e900f81a3f51ace6b6c5112af320be20eadac38a76e27",
+      "accepted_decision": {
+        "status": "main_metadata_review_accepted_with_explicit_limits",
+        "reviewer": "main_agent",
+        "accepted_records": 4,
+        "required_source_repairs": 0,
+        "offered_source_refinements": 1,
+        "new_preferred_metadata_questions": 4,
+        "separate_source_questions": 1,
+        "historical_changes": 0,
+        "publication_applied": false,
+        "basis": "50 typed fields (46 grounded, four unknown), five source-scope groups and three disclosure groups; 21/13/6 main audits. No independent review claimed."
+      },
+      "reviewed_at": "2026-09-12T03:40:37.923810+00:00",
+      "historical_independent_review": false
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "work_ids": [
+        "title:james reardon anderson reluctant pioneers china s expansion northward 16441937 stanford university press 2005",
+        "title:saleh political undesirables citizenship denaturalization and reclamation in iraq",
+        "title:stephan 1994 the russian far east",
+        "title:uchida 2011 brokers of empire"
+      ],
+      "records": 4,
+      "seal_sha256": "ade4acf499a36009d37b491c99b437c8c7c9fa0427664e7cb76c442e122447c6",
+      "decision_sha256": "3d0a23439dd7cca869a35d934613c24bb2ba2022c3751cd987952ee9d95446fd",
+      "validation_sha256": "ea81a0d517c949d5dee095d800c2520feb78ed41d38b1c007094a1d53551a7f0",
+      "accepted_decision": {
+        "status": "main_metadata_review_accepted_with_explicit_limits",
+        "accepted_records": 4,
+        "required_source_repairs": 0,
+        "offered_source_refinements": 3,
+        "new_preferred_metadata_questions": 1,
+        "new_unverified_passage_leads": 1,
+        "historical_changes": 0,
+        "publication_applied": false,
+        "basis": "Main 21/13/6 review; 61 Matched and one Uncheckable calibration groups. Full books and substantive historical evidence remain unreviewed."
+      },
+      "reviewed_at": "2026-09-12T03:59:31.813782+00:00",
+      "historical_independent_review": false
+    }
+  ],
+  "metadata_records_updated": 8,
+  "original_ids_preserved": 1366,
+  "original_occurrences_preserved": 5875
+}

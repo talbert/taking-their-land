@@ -1,0 +1,2469 @@
+[
+  {
+    "work_id": "access:029ad5010e176cdafe95",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1%2A.html#67"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Appian"
+      ],
+      "page_title_as_supplied": "Appian • The Civil Wars — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Horace White"
+      ],
+      "page_header_edition_year_as_supplied": 1913,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1912 and 1913"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:1219e4abd3ba786ee294",
+    "recorded_title": "Plutarch, Life of Coriolanus",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Plutarch"
+      ],
+      "page_title_as_supplied": "Plutarch • Life of Coriolanus",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Bernadotte Perrin"
+      ],
+      "page_header_volume_as_supplied": "IV",
+      "page_header_edition_year_as_supplied": 1916,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Parallel Lives"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:1d6da7f5e60ab86e3a11",
+    "recorded_title": "Dionysius of Halicarnassus, Roman Antiquities, Book 8",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/8A%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Dionysius of Halicarnassus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Dionysius' Roman Antiquities — Book VIII Chapters 1‑38",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Earnest Cary"
+      ],
+      "page_header_volume_as_supplied": "V",
+      "page_header_edition_year_as_supplied": 1940,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "Roman Antiquities",
+      "work_index_edition_dates_as_reported": "1937 thru 1950"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/8A%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:1ea6aed283a346b04cbb",
+    "recorded_title": "Diodorus Siculus, Library of History 17.12-14, on Thebes's capture, killing, enslavement, destruction, and allied disposition",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/17A%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XVII Chapters 1‑16",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "VIII",
+      "page_header_edition_year_as_supplied": 1963,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "C. Bradford Welles"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/17A%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:255296d6954c94a7304f",
+    "recorded_title": "Dionysius of Halicarnassus 11.52, Roman appropriation of the disputed land",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/11C%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Dionysius of Halicarnassus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Dionysius' Roman Antiquities — Book XI Chapters 45‑63",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Earnest Cary"
+      ],
+      "page_header_volume_as_supplied": "VII",
+      "page_header_edition_year_as_supplied": 1950,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "Roman Antiquities",
+      "work_index_edition_dates_as_reported": "1937 thru 1950"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/11C%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:346324645ec85893fede",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Wars/2D*.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Procopius"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Procopius, Persian Wars II.14‑19",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. B. Dewing"
+      ],
+      "page_header_edition_year_as_supplied": 1914,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Wars",
+      "work_index_edition_dates_as_reported": "1914 thru 1928"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Wars/2D*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Wars/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:387efb2516472dfbacee",
+    "recorded_title": "Velleius Paterculus, Roman History, Book 1",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1*.html#14.2"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Velleius Paterculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Velleius Paterculus — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Frederick W. Shipley"
+      ],
+      "page_header_edition_year_as_supplied": 1924,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1924"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:3f838f69c3dba3e10daa",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Lysander*.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Plutarch"
+      ],
+      "page_title_as_supplied": "Plutarch • Life of Lysander",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Bernadotte Perrin"
+      ],
+      "page_header_volume_as_supplied": "IV",
+      "page_header_edition_year_as_supplied": 1916,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Parallel Lives"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Lysander*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:4247a03281c49530cc69",
+    "recorded_title": "Strabo, Geography 12.2.9, for compulsory movement from Mazaka and other Cappadocian communities into Mesopotamia and later return",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/12B%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book XII Chapter 2",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "V",
+      "page_header_edition_year_as_supplied": 1928,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/12B%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:4247f6905a46193d5f5d",
+    "recorded_title": "Strabo, Geography 13.1.52, again recording Lysimachos's release of the Skepsians from the synoecism",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/13A3%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book XIII Chapter 1 (Part 3)",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "V",
+      "page_header_edition_year_as_supplied": 1928,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "body_volume_as_supplied": "VI",
+      "edition_conflict_status": "source_header_conflict_retained_volume_and_first_printing_verified_from_scan",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932",
+      "verified_edition_volume": "VI",
+      "verified_edition_first_printing_year": 1929,
+      "corroborating_scan_printing": {
+        "title_page_year": 1960,
+        "reprint_years_as_printed": [
+          1954,
+          1960
+        ],
+        "url": "https://ryanfb.xyz/loebolus-data/L223.pdf",
+        "pdf_sha256": "d7d2ca7b3c0c726774489ec6841352a894742b666dbba4e9a60f41b8d99985e5",
+        "verified_pdf_pages_1based": [
+          9,
+          10,
+          11,
+          71,
+          103
+        ]
+      },
+      "website_transcribed_physical_printing": "not_established"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/13A3%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html",
+      "https://ryanfb.xyz/loebolus-data/L223.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates. The retained website header V/1928 conflicts with its VI body heading. The printed facsimile establishes Volume VI and first printing 1929; its title page is 1960. This does not establish which physical printing the website transcribed. Only the five recorded scan pages were inspected, not a full text collation.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:4a54031f010ae875bf4a",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/2%2A.html#27"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Polybius"
+      ],
+      "page_title_as_supplied": "Polybius • Histories — Book 2",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "W[illiam] R[oger] Paton"
+      ],
+      "page_header_volume_as_supplied": "I",
+      "page_header_edition_year_as_supplied": 1922,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Histories",
+      "work_index_edition_dates_as_reported": "1922 thru 1927"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/2%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:4cf40a49de6a11a7fa71",
+    "recorded_title": "Herodotus, Histories 6.100-119, Eretria capture, custody, transfer, and Ardericca settlement",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/6C%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Herodotus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Herodotus — Book VI: Chapters 94‑140",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "A. D. Godley"
+      ],
+      "page_header_volume_as_supplied": "III",
+      "page_header_edition_year_as_supplied": 1922,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Histories",
+      "work_index_edition_dates_as_reported": "1920 thru 1925"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/6C%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:5a665f047334f34b0c68",
+    "recorded_title": "Opened the cited Strabo Geography VI.1 at section 2 and sections 12-15 and VI.2 at sections 2-4 and 6; Belvedere, Contatto culturale e interrelazioni tra Greci e indigeni nel territorio di Himera, printed page 61/PDF page 8; Herodotus 7.156.1-3 at the cited edition; and Diodorus 12.9-11, including 12.10.1-2, at the cited edition. Herodotus and Diodorus were used only to delimit the later Camarina, Gela, Megara Hyblaea, and Sybaris/Croton incidents. No additional work was consulted.",
+    "scope": [
+      "active_release",
+      "family_evidence_hold",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/6A*.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book VI Chapter 1",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "III",
+      "page_header_edition_year_as_supplied": 1924,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/6A*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:638a051400ad4e420c36",
+    "recorded_title": "Diodorus Siculus, Library of History",
+    "scope": [
+      "authoring_evidence_hold",
+      "authoring_source_note_link",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/18A%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XVIII Chapters 1‑25",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "IX",
+      "page_header_edition_year_as_supplied": 1947,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "Russel M. Geer"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/18A%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:6414e1e7f1388599d579",
+    "recorded_title": "Velleius Paterculus 1.14.2, on the alternative Sutrium and Nepet foundation dates",
+    "scope": [
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1*.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Velleius Paterculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Velleius Paterculus — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Frederick W. Shipley"
+      ],
+      "page_header_edition_year_as_supplied": 1924,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1924"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:6c8f2993e7081550e2bb",
+    "recorded_title": "Diodorus Siculus 14.117.4, an earlier Sutrium colony label that complicates the chronology",
+    "scope": [
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/14G*.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XIV Chapters 113‑117",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "VI",
+      "page_header_edition_year_as_supplied": 1954,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "C. H. Oldfather"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/14G*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:6d71e56489bf3478e286",
+    "recorded_title": "Diodorus Siculus, Library of History 18.18.9, on the Samian exile and restoration",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/18A*.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XVIII Chapters 1‑25",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "IX",
+      "page_header_edition_year_as_supplied": 1947,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "Russel M. Geer"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/18A*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:77ce631842a164f0543a",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/Strategemata/1%2A.html#II.7"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Frontinus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Frontinus — Stratagems, Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb edition",
+      "translation_names_as_supplied": [
+        "Charles E. Bennett"
+      ],
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "Strategemata",
+      "work_index_edition_dates_as_reported": "1925",
+      "corrected_access_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/Strategemata/1%2A.html#2.7"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/Strategemata/1%2A.html#2.7",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/Strategemata/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates. Original occurrence, source note and work ID remain unchanged. Roman chapter II is represented by the live HTML anchor 2.7; the original II.7 fragment is absent. This is an access correction only; the earlier historical assessment is not reopened.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:7b367a17eee51dded0a2",
+    "recorded_title": "Dionysius of Halicarnassus 9.59-60, mixed Antium colony, retained Antiate land, and local continuity",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/9C%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Dionysius of Halicarnassus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Dionysius' Roman Antiquities — Book IX Chapters 50‑71",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Earnest Cary"
+      ],
+      "page_header_volume_as_supplied": "VI",
+      "page_header_edition_year_as_supplied": 1947,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "Roman Antiquities",
+      "work_index_edition_dates_as_reported": "1937 thru 1950"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/9C%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:7e68da75cb1564b84192",
+    "recorded_title": "Strabo, Geography 5.4.11, 5.4.11, A later tradition of punishment of prominent Samnites and own-day civic contraction; not an 82-80 BCE census or uniform causal survey.",
+    "scope": [
+      "authoring_source_note_link",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/5D%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book V Chapter 4",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "II",
+      "page_header_edition_year_as_supplied": 1923,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/5D%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:86a7146d4474a1fe35e8",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1B*.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Velleius Paterculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Velleius Paterculus — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Frederick W. Shipley"
+      ],
+      "page_header_edition_year_as_supplied": 1924,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1924",
+      "corrected_access_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1*.html#14.2"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1*.html#14.2",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates. Original URL, occurrence, work ID and source-note prose remain unchanged. This identifies the intended access target; it does not adjudicate chronology or land-transfer interpretation.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:8c030bc7ff3516bfd0bb",
+    "recorded_title": "Strabo, Geography 5.2.6, for the siege and surrender context, not the later land-title sequence",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/5B%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book V Chapter 2",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "II",
+      "page_header_edition_year_as_supplied": 1923,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/5B%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:8ef20de989f1912ac4c9",
+    "recorded_title": "Cassius Dio 41.18.2, for Caesar's restoration of office-seeking rights to children of Sulla's proscribed in 49 BCE; political restoration does not prove restoration of every estate",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/41%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Cassius Dio"
+      ],
+      "page_title_as_supplied": "Cassius Dio — Book 41",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Earnest Cary"
+      ],
+      "page_header_volume_as_supplied": "IV",
+      "page_header_edition_year_as_supplied": 1916,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "Roman History",
+      "work_index_edition_dates_as_reported": "1914 thru 1927"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/41%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:930843be507dab378123",
+    "recorded_title": "Procopius, Wars 2.14.1–4, for Khosrow's purpose-built city near Ctesiphon, settlement of Antiochene captives, amenities, selected occupational transfers, and direct royal status",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Wars/2D%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Procopius"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Procopius, Persian Wars II.14‑19",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. B. Dewing"
+      ],
+      "page_header_edition_year_as_supplied": 1914,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Wars",
+      "work_index_edition_dates_as_reported": "1914 thru 1928"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Wars/2D%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Wars/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:9a4044569971f6d8e0a6",
+    "recorded_title": "Diodorus Siculus, Library of History, Book 17; Arrian, Anabasis of Alexander, Book 1",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/e/roman/texts/diodorus_siculus/17a%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XVII Chapters 1‑16",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "VIII",
+      "page_header_edition_year_as_supplied": 1963,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "C. Bradford Welles"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/e/roman/texts/diodorus_siculus/17a%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:9c43b175998e9354f1a6",
+    "recorded_title": "Diodorus Siculus 14.102.4, on Veientine land distribution and the named 393 colony at Circeii",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/14F*.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XIV Chapters 97‑112",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "VI",
+      "page_header_edition_year_as_supplied": 1954,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "C. H. Oldfather"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/14F*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:9c6df28e3c7a4d9acc65",
+    "recorded_title": "Pliny, Natural History 3.52, accessed 2026-08-30, for three later Arretine group names; their familiar old, Sullan, and Caesarian assignments remain modern reconstruction",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/thayer/l/roman/texts/pliny_the_elder/3%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_latin_text_section",
+      "author_names_as_supplied": [
+        "Pliny the Elder"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Pliny the Elder's Natural History — Book 3",
+      "text_language": "Latin",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Teubner",
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "text_editor_as_supplied": "Karl Mayhoff",
+      "source_edition_year": 1905,
+      "source_reprint_year": 1933,
+      "title": "Natural History",
+      "work_index_edition_dates_as_reported": "1933 reprint of the 1905 edition"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/thayer/l/roman/texts/pliny_the_elder/3%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Pliny_the_Elder/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates. Latin text of Book 3; neither Holland nor Bostock/Riley is its translator. Section numbering differs across those editions.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:9e70ba348b02dd9d47de",
+    "recorded_title": "Plutarch, Marius 41.2-4, 41.2-4, Marius at Telamon in 87 BCE; not later Sullan retaliation.",
+    "scope": [
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Plutarch"
+      ],
+      "page_title_as_supplied": "Plutarch • Life of Marius",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Bernadotte Perrin"
+      ],
+      "page_header_volume_as_supplied": "IX",
+      "page_header_edition_year_as_supplied": 1920,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Parallel Lives"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:9ecf237d69ecde51e5f4",
+    "recorded_title": "Strabo, Geography 13.1.33, distinguishing Lysimachos's permitted Skepsian return from the Cebrenians remaining in Alexandreia",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/13A2%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book XIII Chapter 1 (Part 2)",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "V",
+      "page_header_edition_year_as_supplied": 1928,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "body_volume_as_supplied": "VI",
+      "edition_conflict_status": "source_header_conflict_retained_volume_and_first_printing_verified_from_scan",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932",
+      "verified_edition_volume": "VI",
+      "verified_edition_first_printing_year": 1929,
+      "corroborating_scan_printing": {
+        "title_page_year": 1960,
+        "reprint_years_as_printed": [
+          1954,
+          1960
+        ],
+        "url": "https://ryanfb.xyz/loebolus-data/L223.pdf",
+        "pdf_sha256": "d7d2ca7b3c0c726774489ec6841352a894742b666dbba4e9a60f41b8d99985e5",
+        "verified_pdf_pages_1based": [
+          9,
+          10,
+          11,
+          71,
+          103
+        ]
+      },
+      "website_transcribed_physical_printing": "not_established"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/13A2%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html",
+      "https://ryanfb.xyz/loebolus-data/L223.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates. The retained website header V/1928 conflicts with its VI body heading. The printed facsimile establishes Volume VI and first printing 1929; its title page is 1960. This does not establish which physical printing the website transcribed. Only the five recorded scan pages were inspected, not a full text collation.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:abf78922f5e3baedfc91",
+    "recorded_title": "Diodorus Siculus, Library of History, Book 14",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/14G*.html#117.4"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XIV Chapters 113‑117",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "VI",
+      "page_header_edition_year_as_supplied": 1954,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "C. H. Oldfather"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/14G*.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:b640cac29747e8921048",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius%2A.html#41"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Plutarch"
+      ],
+      "page_title_as_supplied": "Plutarch • Life of Marius",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Bernadotte Perrin"
+      ],
+      "page_header_volume_as_supplied": "IX",
+      "page_header_edition_year_as_supplied": 1920,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Parallel Lives"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Marius%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:b6899f93424ce98331fb",
+    "recorded_title": "Dionysius of Halicarnassus 7.12-13, Velitrae settlement and compulsory recruitment",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/7A%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Dionysius of Halicarnassus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Dionysius' Roman Antiquities — Book VII Chapters 1‑19",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Earnest Cary"
+      ],
+      "page_header_volume_as_supplied": "IV",
+      "page_header_edition_year_as_supplied": 1940,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "Roman Antiquities",
+      "work_index_edition_dates_as_reported": "1937 thru 1950"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/7A%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:c76547af9a5658ed7d7f",
+    "recorded_title": "Primary source 1: penelope.uchicago.edu",
+    "scope": [
+      "active_release",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/thayer/e/roman/texts/velleius_paterculus/1%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Velleius Paterculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Velleius Paterculus — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Frederick W. Shipley"
+      ],
+      "page_header_edition_year_as_supplied": 1924,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1924"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/thayer/e/roman/texts/velleius_paterculus/1%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:c786365d0a5e193fb51f",
+    "recorded_title": "Diodorus 28.12, for Antiochos's refounding and resettling of Lysimacheia",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/28%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XXVIII",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "XI",
+      "page_header_edition_year_as_supplied": 1957,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "F. R. Walton"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/28%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:e65cb104beb0bff03196",
+    "recorded_title": "Strabo, Geography 11.14.15, for Tigranes founding Tigranokerta and collecting inhabitants from twelve depopulated Greek cities",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/11N%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book XI Chapter 14",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "V",
+      "page_header_edition_year_as_supplied": 1928,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/11N%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:ea81a95bb374cdf85f16",
+    "recorded_title": "Polybius 18.4.5-6 and 18.50-51, for the depopulation sequence and Antiochos's attributed diplomatic claim of return and resettlement",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/18%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Polybius"
+      ],
+      "page_title_as_supplied": "Polybius • Histories — Book 18",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "W[illiam] R[oger] Paton"
+      ],
+      "page_header_volume_as_supplied": "V",
+      "page_header_edition_year_as_supplied": 1926,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "The Histories",
+      "work_index_edition_dates_as_reported": "1922 thru 1927"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/18%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:f26c103488ee52e0a220",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1%2A.html#89"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Appian"
+      ],
+      "page_title_as_supplied": "Appian • The Civil Wars — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Horace White"
+      ],
+      "page_header_edition_year_as_supplied": 1913,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1912 and 1913"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:f5133a0f5076452cd37a",
+    "recorded_title": "Diodorus Siculus, Library of History",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/19C%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XIX Chapters 49‑65",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "IX",
+      "page_header_edition_year_as_supplied": 1947,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "Russel M. Geer"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/19C%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:f716bc4e71696eb6761e",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/2A%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Velleius Paterculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Velleius Paterculus — Book II, Chapters 1‑28",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Frederick W. Shipley"
+      ],
+      "page_header_edition_year_as_supplied": 1924,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1924"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/2A%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/appian/civil_wars/1%2a.html",
+    "recorded_title": "Primary source 1: penelope.uchicago.edu",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Appian"
+      ],
+      "page_title_as_supplied": "Appian • The Civil Wars — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Horace White"
+      ],
+      "page_header_edition_year_as_supplied": 1913,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1912 and 1913"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/diodorus_siculus/16c%2a.html",
+    "recorded_title": "Diodorus Siculus 16.43–45",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/16C%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Diodorus Siculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Diodorus Siculus — Book XVI Chapters 40‑65",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "page_header_volume_as_supplied": "VII",
+      "page_header_edition_year_as_supplied": 1952,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "translation_names_as_supplied": [
+        "C. L. Sherman"
+      ],
+      "title": "The Library of History",
+      "work_index_edition_dates_as_reported": "1933 thru 1967"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/16C%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/dionysius_of_halicarnassus/17-18%2a.html",
+    "recorded_title": "Primary source 1: penelope.uchicago.edu",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/17-18%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Dionysius of Halicarnassus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Dionysius' Roman Antiquities — Books XVII‑XVIII",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Earnest Cary"
+      ],
+      "page_header_volume_as_supplied": "VII",
+      "page_header_edition_year_as_supplied": 1950,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "Roman Antiquities",
+      "work_index_edition_dates_as_reported": "1937 thru 1950"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/17-18%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/herodotus/4g%2a.html",
+    "recorded_title": "Herodotus 4.200–204",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/4g%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Herodotus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Herodotus — Book IV: Chapters 145‑205",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "A. D. Godley"
+      ],
+      "page_header_volume_as_supplied": "II",
+      "page_header_edition_year_as_supplied": 1921,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Histories",
+      "work_index_edition_dates_as_reported": "1920 thru 1925"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/4g%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/herodotus/5a%2a.html",
+    "recorded_title": "Herodotus 5.12–17",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/5a%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Herodotus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Herodotus — Book V: Chapters 1‑27",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "A. D. Godley"
+      ],
+      "page_header_volume_as_supplied": "III",
+      "page_header_edition_year_as_supplied": 1922,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Histories",
+      "work_index_edition_dates_as_reported": "1920 thru 1925"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/5a%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/herodotus/6a%2a.html",
+    "recorded_title": "Herodotus 6.18–20",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/6A%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Herodotus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Herodotus — Book VI: Chapters 1‑42",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "A. D. Godley"
+      ],
+      "page_header_volume_as_supplied": "III",
+      "page_header_edition_year_as_supplied": 1922,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Histories",
+      "work_index_edition_dates_as_reported": "1920 thru 1925"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/6A%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/plutarch/lives/sulla%2a.html",
+    "recorded_title": "Primary source 2: penelope.uchicago.edu",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Sulla%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Plutarch"
+      ],
+      "page_title_as_supplied": "Plutarch • Life of Sulla",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Bernadotte Perrin"
+      ],
+      "page_header_volume_as_supplied": "IV",
+      "page_header_edition_year_as_supplied": 1916,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Parallel Lives"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Sulla%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/secondary/halriv/6%2a.html",
+    "recorded_title": "Hall, History of Rome, book VI",
+    "scope": [
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/HALRIV/6%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "historical_monograph_chapter",
+      "author_names_as_supplied": [
+        "W. H. (Bullock) Hall"
+      ],
+      "page_title_as_supplied": "W. H. Hall: The Romans on the Riviera and the Rhone • Chapter 6",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "chapter_title": "Campaigns in Eastern Liguria",
+      "chapter": "VI",
+      "original_publication_year": 1898,
+      "original_publisher_as_reported": "Macmillan & Co., Ltd.",
+      "transcribed_reprint_year": 1974,
+      "transcribed_reprint_publisher_as_reported": "Ares Publishers, Inc.",
+      "title": "The Romans on the Riviera and the Rhone",
+      "work_index_edition_dates_as_reported": "1974",
+      "page_header_original_publication_year_as_supplied": 1898
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/HALRIV/6%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/HALRIV/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates. The recorded title 'Hall, History of Rome, book VI' remains an occurrence label; the linked item is chapter VI of Hall's named monograph. The site's index page number and chapter page marker also differ; no locus correction is inferred here.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/strabo/4f%2a.html",
+    "recorded_title": "Primary source 2: penelope.uchicago.edu",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/e/roman/texts/strabo/4f%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book IV Chapter 6",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "II",
+      "page_header_edition_year_as_supplied": 1923,
+      "proofreading_status_as_reported": "not_yet_proofread_as_reported_on_page",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/e/roman/texts/strabo/4f%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates. This page says it has not yet been proofread, despite the work index's broader proofreading statement; retain the page-level notice.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/strabo/5b%2a.html",
+    "recorded_title": "Primary source 1: penelope.uchicago.edu",
+    "scope": [
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/thayer/e/roman/texts/strabo/5b%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book V Chapter 2",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "II",
+      "page_header_edition_year_as_supplied": 1923,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/thayer/e/roman/texts/strabo/5b%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/strabo/5d%2a.html",
+    "recorded_title": "Primary source 1: penelope.uchicago.edu",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/thayer/e/roman/texts/strabo/5d%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Strabo"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Strabo's Geography — Book V Chapter 4",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "H. L. Jones"
+      ],
+      "page_header_volume_as_supplied": "II",
+      "page_header_edition_year_as_supplied": 1923,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Geography",
+      "work_index_edition_dates_as_reported": "1917 thru 1932"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/thayer/e/roman/texts/strabo/5d%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/varro/de_re_rustica/1%2a.html",
+    "recorded_title": "Primary source 2: penelope.uchicago.edu",
+    "scope": [
+      "active_release",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Varro/de_Re_Rustica/1%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Varro"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Varro On Agriculture — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "W. D. Hooper",
+        "H. B. Ash"
+      ],
+      "page_header_edition_year_as_supplied": 1934,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "De Re Rustica",
+      "work_index_edition_dates_as_reported": "1934"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Varro/de_Re_Rustica/1%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Varro/de_Re_Rustica/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/e/roman/texts/velleius_paterculus/1%2a.html",
+    "recorded_title": "Primary source 3: penelope.uchicago.edu",
+    "scope": [
+      "authoring_source_note_link",
+      "family_evidence_hold",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_english_translation_section",
+      "author_names_as_supplied": [
+        "Velleius Paterculus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Velleius Paterculus — Book I",
+      "text_language": "English",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb Classical Library",
+      "translation_names_as_supplied": [
+        "Frederick W. Shipley"
+      ],
+      "page_header_edition_year_as_supplied": 1924,
+      "proofreading_status_as_reported": "proofread_as_reported_on_page",
+      "title": "The Roman History",
+      "work_index_edition_dates_as_reported": "1924"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  },
+  {
+    "work_id": "url:penelope.uchicago.edu/thayer/l/roman/texts/frontinus/strategemata/4%2a.html",
+    "recorded_title": "Primary source 1: penelope.uchicago.edu",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://penelope.uchicago.edu/thayer/l/roman/texts/frontinus/strategemata/4%2A.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "classical_latin_text_section",
+      "author_names_as_supplied": [
+        "Frontinus"
+      ],
+      "page_title_as_supplied": "LacusCurtius • Frontinus — Strategemata, Liber IV",
+      "text_language": "Latin",
+      "digital_collection": "LacusCurtius",
+      "transcription_by_as_reported": "Bill Thayer",
+      "metadata_accessed": "2026-09-09",
+      "edition_series_as_reported": "Loeb edition",
+      "proofreading_status_as_reported": "index_reports_latin_checked_against_loeb_no_page_notice",
+      "text_editor_as_supplied": "Gundermann",
+      "underlying_teubner_year_as_reported": 1887,
+      "loeb_text_year_as_reported": 1925,
+      "title": "Strategemata",
+      "work_index_edition_dates_as_reported": "1925"
+    },
+    "verification_urls": [
+      "https://penelope.uchicago.edu/thayer/l/roman/texts/frontinus/strategemata/4%2A.html",
+      "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/Strategemata/home.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "classical_text_and_edition_metadata_identity_only",
+      "decision": "Reconcile the linked work/edition identity while retaining the original access record and citation occurrences.",
+      "source_passages_newly_verified": false,
+      "metadata_basis": "The linked text page supplies its title, part and page-specific reproduction notice; its work index supplies edition and translator roles. Each role remains attributed to its source. Supplementary source-specific evidence is bound below.",
+      "metadata_limits": "Work, edition and access identity only; no historical claim, score, geometry or source occurrence is newly accepted. Transcription and proofreading are the site's reports, not independent collation against printed editions. Source edition dates are separate from ancient composition and web publication dates. The index reports adaptation of another site's Latin transcription followed by checking against Loeb; Bennett is not entered as translator of the Latin text.",
+      "passage_limit": "Original historical claims and source occurrences remain separate. No score, case or historical interpretation is newly accepted."
+    }
+  }
+]

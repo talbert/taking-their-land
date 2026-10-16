@@ -1,0 +1,27 @@
+{
+  "status": "open_bibliographic_field_limits_not_identity_holds",
+  "exceptions": [
+    {
+      "work_id": "access:fcd7d61cceb805cd2c07",
+      "field": "personal_authorship",
+      "status": "unresolved",
+      "evidence": "Structured author/citation data name Rob Frost; displayed credit is Unrecorded and suggested citation uses the institution.",
+      "next_action": "Keep supplied fields separate; confirm personal attribution from publisher evidence if available."
+    },
+    {
+      "work_id": "access:fcd7d61cceb805cd2c07",
+      "field": "editor_name_parsing",
+      "status": "unresolved",
+      "evidence": "Source supplies one Person.name string: Stuart Ferguson Yoline Young.",
+      "next_action": "Do not split or disambiguate it without further publisher evidence."
+    },
+    {
+      "work_id": "title:library of congress colonization",
+      "field": "dc.date_role",
+      "status": "unresolved",
+      "evidence": "The section gives dc.date 2010-07-23 without a role; linked exhibit history separately mentions June 1997.",
+      "next_action": "Preserve the untyped source field; do not treat either as a demonstrated first-publication date."
+    }
+  ],
+  "other_limits": "Missing first-publication dates and unestablished personal bylines remain absent, as stated in each decision. Page identity reconciliation does not certify complete metadata or historical passages."
+}

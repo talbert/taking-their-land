@@ -1,0 +1,882 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "2026-10-04-discovery-pivot",
+      "title": "Discovery work starts again to find absent histories",
+      "occurred_at": "2026-10-04T02:49:30.736739Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Research",
+      "paragraphs": [
+        "We started the project again to find histories absent from the first event list. The new search starts with places and periods with fewer atlas cases. Each case needs a real source location before review. Open leads stay visible. This method makes no claim that the atlas covers all history."
+      ],
+      "links": [],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-maafu-research",
+      "title": "Research review: a missed Pacific history",
+      "occurred_at": "2026-10-04T08:07:34.888434Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Research",
+      "paragraphs": [
+        "The search beyond the first list found its first case that completed research review. It is about the conquest of Lau by Maʻafu from 1852 to 1869. The case stays out of the public atlas and active data set. Its record has three phases and 29 unknown fields. Separate Mago and Munia or Yanuyanu questions do not have decisions."
+      ],
+      "links": [],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-florida-research",
+      "title": "Research review: Florida mission destruction",
+      "occurred_at": "2026-10-04T10:00:42.676577Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Research",
+      "paragraphs": [
+        "The second case beyond the first list has a research review. It is about attacks on Florida mission communities from 1702 to 1706. The case is not in the public atlas or active data set. One count says the attacks took about 1,000 captives. The record does not use the later Seminole name for those older groups."
+      ],
+      "links": [],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-equatorial-guinea-live",
+      "title": "New public case: Equatorial Guinea",
+      "occurred_at": "2026-10-04T05:01:35.702693Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Atlas release",
+      "paragraphs": [
+        "The live atlas now has the Macías Nguema dictatorship and mass exile from Equatorial Guinea from 1968 to 1979. The case is about political flight, blocked return, and children born in exile. It gives each estimate with its date. The source does not confirm claims of forced plantation labor. This release has 530 cases across 540 playback stops."
+      ],
+      "links": [
+        {
+          "label": "Open the Equatorial Guinea case",
+          "url": "/takingtheirland/#case=modern-equatorial-guinea-macias-exile"
+        }
+      ],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-sierra-leone-live",
+      "title": "New public case: Sierra Leone",
+      "occurred_at": "2026-10-04T07:15:15.541149Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Atlas release",
+      "paragraphs": [
+        "We added the Sierra Leone case, from 1991 to 2002. It is about flight in the civil war. The text has details on flight within the state and refuge across borders. It also has details on return and flight after return. Commission statement counts are not totals for all people. This release has 531 cases and 541 playback stops."
+      ],
+      "links": [
+        {
+          "label": "Open the Sierra Leone case",
+          "url": "/takingtheirland/#case=modern-sierra-leone-civil-war-displacement"
+        }
+      ],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-beni-ituri-live",
+      "title": "New public case: Beni and nearby Ituri villages",
+      "occurred_at": "2026-10-04T10:08:07.684328Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Atlas release",
+      "paragraphs": [
+        "The live atlas now has a case on attacks in Beni Territory and nearby Ituri villages from January to 19 March 2021. The case reports an estimate of 40,000 newly displaced people. This estimate does not include people displaced before the attacks or the deaths. We do not know the routes, return, or long-term land results. This release has 532 cases and 542 playback stops."
+      ],
+      "links": [
+        {
+          "label": "Open the Beni and Ituri case",
+          "url": "/takingtheirland/#case=prospective-adf-attack-displacement-beni-and-nearby-ituri-january-march-2021"
+        }
+      ],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-zanzibar-live",
+      "title": "New public case: Zanzibar property confiscation",
+      "occurred_at": "2026-10-04T12:42:52.354988Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Atlas release",
+      "paragraphs": [
+        "The latest live atlas has a case on state seizure and transfer of property in Zanzibar from 1964 through September 1987. The source counts 1,565 properties. That number does not count people or households. The case does not use seized property as proof of expulsion, and questions about removal are open. This release has 533 cases and 543 stops. Another 79 known cases need text, and 64 cases have evidence or classification holds."
+      ],
+      "links": [
+        {
+          "label": "Open the Zanzibar property case",
+          "url": "/takingtheirland/#case=zanzibar-unit-1964-1987-property-confiscation-redistribution"
+        },
+        {
+          "label": "View the public data",
+          "url": "/takingtheirland/data/"
+        }
+      ],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-two-channel-search",
+      "title": "Sixty research topics have two searches",
+      "occurred_at": "2026-10-04T13:20:43.840802Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Research",
+      "paragraphs": [
+        "We used two separate search methods for 60 topics across regions, periods, and processes. The searches found candidates in 24 topics. The searches found no candidates in 19 topics within the stated limits. Sources or access did not permit complete searches for 17 topics. Another 1,220 topics still need both searches. The search program is still open."
+      ],
+      "links": [
+        {
+          "label": "View the public data",
+          "url": "/takingtheirland/data/"
+        }
+      ],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-population-region-index",
+      "title": "More population and region records",
+      "occurred_at": "2026-10-04T14:23:43.386827Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Research",
+      "paragraphs": [
+        "All 676 source events now use one standard world region label. The population index now has stable records for 177 named groups. It has 343 links from groups to events. It also has five supported links between groups. Another 220 possible links do not have decisions. The full source list has 2,358 exact name leads, so the index is not complete."
+      ],
+      "links": [
+        {
+          "label": "View the public data",
+          "url": "/takingtheirland/data/"
+        }
+      ],
+      "backfilled": true
+    },
+    {
+      "id": "2026-09-23-map-credits-live",
+      "title": "Map credits move into the site interface",
+      "occurred_at": "2026-09-23T03:29:10.472425Z",
+      "published_at": "2026-10-04T19:15:37Z",
+      "kind": "Site release",
+      "paragraphs": [
+        "The live atlas removed the fixed Santiago coastline notice. A start-up credit and a permanent Map credits control now carry OpenStreetMap, ODbL, and Natural Earth attribution. This release has 438 cases across 448 playback stops. At that date, 176 known cases still needed text. Another 62 cases had holds. The update did not change the 676-event statistical release."
+      ],
+      "links": [
+        {
+          "label": "Open the live atlas",
+          "url": "/takingtheirland/"
+        }
+      ],
+      "backfilled": true
+    },
+    {
+      "id": "2026-10-04-updates-and-rss",
+      "title": "Project updates and RSS",
+      "occurred_at": "2026-10-04T19:30:54.521739Z",
+      "published_at": "2026-10-04T19:30:54.521739Z",
+      "kind": "Site update",
+      "paragraphs": [
+        "The project now has an Updates page and an RSS feed. Each post has its own address. The archive shows the work date and the date we added the post. These posts give information about live releases and decisions about the project. Older posts use project records that have dates."
+      ],
+      "links": [],
+      "backfilled": false
+    },
+    {
+      "id": "2026-10-04-search-plan",
+      "title": "Next search plan",
+      "occurred_at": "2026-10-04T20:50:37Z",
+      "published_at": "2026-10-04T21:01:23.835087Z",
+      "kind": "Research",
+      "paragraphs": [
+        "We agreed on the next search plan. First, we will join the accepted group records in one index. Then we will examine which searches apply and do a test of how we choose the next search. Each work cycle must cover all periods that still need searches. New finds at the end of a search start a short follow-up with a stated scope. Checks of search results use a repeatable sample and expand when they find errors."
+      ],
+      "links": [],
+      "backfilled": false
+    },
+    {
+      "id": "2026-10-04-matching-play-buttons",
+      "title": "Matching play buttons",
+      "occurred_at": "2026-10-04T21:01:23.835087Z",
+      "published_at": "2026-10-04T21:01:23.835087Z",
+      "kind": "Site update",
+      "paragraphs": [
+        "The start screen now has two play buttons of the same size. Their arrows point in opposite directions. Their labels line up. The layout is correct on wide and narrow screens. The change keeps the same cases and playback order."
+      ],
+      "links": [
+        {
+          "label": "Open the atlas",
+          "url": "/takingtheirland/"
+        }
+      ],
+      "backfilled": false
+    },
+    {
+      "id": "2026-10-04-controls-and-sound",
+      "title": "Play controls and sound",
+      "occurred_at": "2026-10-05T00:21:51.201271Z",
+      "published_at": "2026-10-05T00:21:51.201960Z",
+      "kind": "Site",
+      "paragraphs": [
+        "The play controls are in one bar. Site links are below the timeline. The sound keeps one key within a region. The key changes when the region changes. The atlas still has 533 cases and 543 stops."
+      ],
+      "links": [],
+      "backfilled": false
+    },
+    {
+      "id": "2026-10-04-discovery-status-report",
+      "title": "New report: discovery status",
+      "occurred_at": "2026-10-05T02:29:59.643857Z",
+      "published_at": "2026-10-05T02:32:00Z",
+      "kind": "Research",
+      "paragraphs": [
+        "A new dated report shows the current discovery search and its limits. It lists 1,280 saved search records. Of these, 24 contain located results, 19 contain no result in scope, and 17 have evidence or access limits.",
+        "The current cycle has 19 partial search attempts across eight era blocks. No block meets the full search floor. The first test recovered zero of three eligible pairs. Three other pairs were outside the source scope. Source gaps do not rule out faults in the search prompts or source selection.",
+        "This report does not add atlas cases. The live atlas remains at 533 cases and 543 stops."
+      ],
+      "links": [
+        {
+          "label": "Open the discovery status report",
+          "url": "/takingtheirland/discovery/"
+        }
+      ],
+      "backfilled": false
+    },
+    {
+      "id": "2026-10-04-tawergha-live",
+      "title": "New public case: Tawergha",
+      "kind": "Atlas release",
+      "occurred_at": "2026-10-05T03:23:05.935024Z",
+      "published_at": "2026-10-05T03:23:05.935024Z",
+      "backfilled": false,
+      "paragraphs": [
+        "The atlas adds the forced removal of Tawergha residents from their town in Libya in 2011. The case follows barriers to return and later return through 2025. Return did not mean full recovery.",
+        "The case keeps unknown values where the sources do not support a score or a map route. The atlas now contains 534 cases and 544 stops. There are 78 known ordinary cases left and 64 separate holds.",
+        "The dated discovery report keeps its earlier counts and search limits. This case update does not change that report or the frozen statistical release."
+      ],
+      "links": [
+        {
+          "label": "Open the Tawergha case",
+          "url": "/takingtheirland/#case=modern-libya-tawergha-expulsion"
+        },
+        {
+          "label": "View the public data",
+          "url": "/takingtheirland/data/"
+        },
+        {
+          "label": "Open the dated discovery report",
+          "url": "/takingtheirland/discovery/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-congo-research-update",
+      "title": "Congo case and research updates",
+      "kind": "Atlas and research update",
+      "backfilled": false,
+      "paragraphs": [
+        "The atlas adds a case on refugee camp clearance in Congo in 1996 to 1997. The case separates deaths, forced flight, and return. The total number of affected people remains unknown.",
+        "The atlas now contains 535 cases and 545 stops. There are 77 known ordinary cases left and 64 separate holds.",
+        "The research ledger adds two Cameroon candidates: Bamum village expulsion and Ncharé conquest with land allocation. Their relation to one campaign remains unknown. A separate Tikar and Tumu lead lacks evidence of a land or residence loss. None of these records adds a public atlas case.",
+        "The separate statistical test now has five added events. The first comparison is due at 30 added events. The active statistical release still contains 676 events.",
+        "The updated discovery report lists search results and open questions. It does not claim a global coverage percentage."
+      ],
+      "links": [
+        {
+          "label": "Open the Congo case",
+          "url": "/takingtheirland/#case=modern-first-congo-war-refugee-camp-clearance"
+        },
+        {
+          "label": "View the public data",
+          "url": "/takingtheirland/data/"
+        },
+        {
+          "label": "Open the discovery report",
+          "url": "/takingtheirland/discovery/"
+        }
+      ],
+      "occurred_at": "2026-10-05T19:29:12.670805Z",
+      "published_at": "2026-10-05T20:01:38.067634Z"
+    },
+    {
+      "id": "2026-10-05-moriori-flight-refuge-note",
+      "title": "Flight and refuge in the Moriori case",
+      "kind": "Source and flight note update",
+      "backfilled": false,
+      "paragraphs": [
+        "The Moriori case now has a note on flight and refuge. It covers the history of Ngāti Tama and Ngāti Mutunga. The note describes warfare pressure in Taranaki and later moves toward Rēkohu.",
+        "A link leads to the source and its limits. The account does not show that every traveller fled. The case keeps its account of the invasion, deaths, enslavement, and land loss."
+      ],
+      "links": [
+        {
+          "label": "Open the Moriori case",
+          "url": "/takingtheirland/#case=modern-moriori-invasion-enslavement-land-seizure"
+        },
+        {
+          "label": "View the public data",
+          "url": "/takingtheirland/data/"
+        },
+        {
+          "label": "Read the source",
+          "url": "https://teara.govt.nz/en/chatham-islands/print"
+        }
+      ],
+      "occurred_at": "2026-10-05T23:20:41.926154Z",
+      "published_at": "2026-10-05T23:30:20.224802Z"
+    },
+    {
+      "id": "2026-10-06-korean-war-civilian-displacement",
+      "title": "Korean War civilian displacement added",
+      "kind": "New atlas case",
+      "backfilled": false,
+      "paragraphs": [
+        "The atlas now includes Korean War civilian displacement from 1950 to 1953. The case keeps summer flight and the winter retreat as distinct waves. It also separates refugees from North Korea from South Korean evacuees.",
+        "The source supports flight, limits on return, and new places of residence. It does not give one total for all people who moved. It also does not show one route, general title loss, or permanent exile for every civilian. Damaged number tables are not used."
+      ],
+      "links": [
+        {
+          "label": "Open the Korean War case",
+          "url": "/takingtheirland/#case=modern-korean-war-civilian-displacement"
+        },
+        {
+          "label": "View the public data",
+          "url": "/takingtheirland/data/"
+        },
+        {
+          "label": "Read Kim, sections II–IV and Conclusions, pages 285–329",
+          "url": "https://journal.kci.go.kr/hksh/archive/articleView?artiId=ART001510291"
+        }
+      ],
+      "occurred_at": "2026-10-06T01:25:27.054876Z",
+      "published_at": "2026-10-06T01:35:05.297008Z"
+    },
+    {
+      "id": "2026-10-06-maafu-lau-land-reorganization",
+      "title": "Maʻafu’s conquest and land reorganization in Lau added",
+      "kind": "New atlas case",
+      "backfilled": false,
+      "paragraphs": [
+        "The atlas now includes Maʻafu’s conquest and land changes in Lau from 1852 to 1869. The case has three phases. It covers war, changed rule, and measured land plots in named Lauan islands.",
+        "The sources show new tax and tribute ties. They also show plots for tax-paying men and some Tongan residents and warriors. They do not show that all residents left or that all land was seized. The number displaced, death share, and full land loss remain unknown.",
+        "The map uses regional context. Exact event geometry is unknown. Mago and Munia or Yanuyanu remain separate research leads. This atlas case is separate from the 676 active events."
+      ],
+      "links": [
+        {
+          "label": "Open the Lau case",
+          "url": "/takingtheirland/#case=pacific-tongan-conquest-lau-fiji"
+        },
+        {
+          "label": "View the public data",
+          "url": "/takingtheirland/data/"
+        },
+        {
+          "label": "Read Spurway, chapter 5 and Appendix G",
+          "url": "https://press.anu.edu.au/publications/series/pacific/maafu-prince-tonga-chief-fiji"
+        },
+        {
+          "label": "Read France, printed pages 164 and 167–168",
+          "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/10809/7/France_P_1966.pdf"
+        },
+        {
+          "label": "Read Pauwels, printed pages 229–232",
+          "url": "https://doi.org/10.3138/anth.2018-0017.r3"
+        },
+        {
+          "label": "Read the British Commissioners’ report, paragraphs 57–58",
+          "url": "https://history.state.gov/historicaldocuments/frus1874/d310"
+        }
+      ],
+      "occurred_at": "2026-10-06T04:01:17.834682Z",
+      "published_at": "2026-10-06T04:13:55.225214Z"
+    },
+    {
+      "id": "2026-10-06-almoravid-deportation-1126",
+      "title": "Almoravid deportation in 1126 added",
+      "kind": "New atlas case",
+      "backfilled": false,
+      "paragraphs": [
+        "The atlas now includes the Almoravid deportation of Andalusi Christians to the Maghreb in 1126. The case covers named groups. These groups include families and church leaders. It does not cover every Christian in the named cities.",
+        "The account describes an order, armed pursuit, and legal actions after removal. A separate record concerns a church and its endowment. The full number displaced remains unknown. The sources do not establish a complete route or a replacement population.",
+        "The atlas has 538 cases and 550 stops. The sources have three links in the case. The active statistical release remains 676 events."
+      ],
+      "links": [
+        {
+          "label": "Open the Almoravid case",
+          "url": "/takingtheirland/#case=medieval-almoravid-mozarab-deportation-1126"
+        },
+        {
+          "label": "View the public data and source uses",
+          "url": "/takingtheirland/data/"
+        },
+        {
+          "label": "Delfina Serrano, ‘Dos fetuas sobre la expulsión de mozárabes al Magreb en 1126,’ Anaquel de Estudios Árabes 2 (1991): 163–182. Order and named groups: pp. 167–168; Seville, Meknes, armed pursuit, post-removal sale requests and legal procedures: pp. 174–176; church and endowment record: pp. 170–173.",
+          "url": "https://revistas.ucm.es/index.php/ANQE/article/view/ANQE9191110163A"
+        },
+        {
+          "label": "Alejandro García Sanjuán, ‘Declive y extinción de la minoría cristiana en la Sevilla andalusí (ss. XI–XII),’ Historia. Instituciones. Documentos 31 (2004): 269–286. Lost original opinion: p. 280; post-removal sale permission and procedure: p. 283; enforcement, selective removal and later institutional change: pp. 281–286.",
+          "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=1414651"
+        },
+        {
+          "label": "Tarek Ladjal, ‘The Christian Presence in North Africa under Almoravid Rule (1040–1147 CE): Coexistence or Eradication?’ Cogent Arts & Humanities 4 (2017), 1334374, section 3.3. The count remains vague; later figures measure different groups.",
+          "url": "https://doi.org/10.1080/23311983.2017.1334374"
+        }
+      ],
+      "occurred_at": "2026-10-06T06:49:13.084208Z",
+      "published_at": "2026-10-06T06:52:36.267180Z"
+    },
+    {
+      "id": "2026-10-06-kazakh-flight-land-loss",
+      "title": "Kazakh flight and land loss, 1929–1934",
+      "kind": "New atlas case",
+      "backfilled": false,
+      "paragraphs": [
+        "The atlas adds a case on flight, forced returns and land loss in Kazakhstan from 1929 to 1934. State plans sought settled life, but many plans failed. The account keeps those plans separate from forced returns, local expulsions and pasture loss.",
+        "Pianciola argues that famine caused dependence and some settlement. He rejects violent settlement as the usual cause of the famine. He estimates that one-third of Kazakhs died in 1930–1933. The drop in the republic's Kazakh population also includes migration. These measures are separate. The sources do not give one total for people forced to move.",
+        "All eight trait values remain from the fixed model. Each has a source qualification. Filled cells show coding completion, not source confidence. The active statistical roster still has 676 events. The atlas has 539 cases and 551 stops."
+      ],
+      "links": [
+        {
+          "label": "Open the Kazakh case",
+          "url": "/takingtheirland/#case=modern-kazakh-famine-sedentarization"
+        },
+        {
+          "label": "View the public data and source uses",
+          "url": "/takingtheirland/data/"
+        },
+        {
+          "label": "Niccolò Pianciola, Famine in the steppe (2004), pp. 137–138, 147, 154–156, 163–165, 170–181 and 186. Failed plans, flight, forced return, local expulsion, pasture loss and continued returns.",
+          "url": "https://doi.org/10.4000/monderusse.8681"
+        },
+        {
+          "label": "Niccolò Pianciola, Ukraine and Kazakhstan: Comparing the Famines (2018), pp. 441–442. Famine and partial settlement; attributed one-third mortality, separate death-plus-migration decline.",
+          "url": "https://doi.org/10.1017/S0960777318000309"
+        }
+      ],
+      "occurred_at": "2026-10-06T08:53:21.297040Z",
+      "published_at": "2026-10-06T08:58:07.299695Z"
+    },
+    {
+      "id": "2026-10-06-mascarene-slavery-contract-work",
+      "title": "Slave transport, contract work and island residence",
+      "kind": "New atlas case",
+      "backfilled": false,
+      "paragraphs": [
+        "The atlas adds a case on slave transport, contract work and residence in the Mascarenes and Seychelles. It spans 1638 to about 1920. The sources describe selected groups and periods. They do not show that every arrival was forced.",
+        "Two links show selected voyages in 1770 and 1807. The points are approximate place references. The arcs are not ship tracks. The departure port for the 1718 arrival in Bourbon is not mapped. Other routes and later fates remain unknown.",
+        "Slave transport and contract work remain separate. Some former workers bought small plots. The sources do not give one total for people forced to move, or deaths across this whole case. All eight fixed trait values and the family remain unchanged. Each trait has a source note.",
+        "The atlas has 540 cases and 552 stops. The active statistical roster still has 676 events. Eleven separate scientific entries remain inactive. The site keeps all 22 earlier update posts."
+      ],
+      "links": [
+        {
+          "label": "Open the Mascarene and Seychelles case",
+          "url": "/takingtheirland/#case=af-mascarene-seychelles-forced-population-formation"
+        },
+        {
+          "label": "View public data and source uses",
+          "url": "/takingtheirland/data/"
+        },
+        {
+          "label": "Richard B. Allen, “The Mascarenes, Indian Ocean Africa, and Global Labor Migration during the Eighteenth and Nineteenth Centuries,” in African Islands (2019), pp. 294–316, DOI 10.1017/9781787444874.011. Only the official Summary, paragraphs 1–2, was read; the full chapter was not acquired.",
+          "url": "https://www.cambridge.org/core/books/abs/african-islands/mascarenes-indian-ocean-africa-and-global-labor-migration-during-the-eighteenth-and-nineteenth-centuries/03CDB93A3DD66CA8F2E7666A7F14940C"
+        },
+        {
+          "label": "Yadhav Deerpaul, Alexander Springer and Philip Gooding, “The first recorded outbreak of epidemic dropsy, 1877–80: Climate, empire, and colonial medical science between India, Bengal, and Mauritius,” Medical History 68(4) (2024), pp. 436–456, DOI 10.1017/mdh.2024.24. Contracts and estate placement: pp. 443–444; former-worker landholding: pp. 444–445; returnee recruitment: pp. 447–448; work and medical control: pp. 451–452. Epidemic estimates are not this case’s death count.",
+          "url": "https://doi.org/10.1017/mdh.2024.24"
+        },
+        {
+          "label": "Rafaël Thiebaut, “Traite des esclaves malgaches à Bourbon,” Musée de Villèle, Portail de l’esclavage à La Réunion. See “L’histoire de la traite,” the 1718 expedition and Courrier de Bourbon paragraphs, note 6; “État des bâtiments entrés,” Action/Tamatave/4 May 1807 row; “Les particularités de la traite”; “La situation à Bourbon”; and “Les chiffres.” The essay uses mediated archives and historical scholarship.",
+          "url": "https://www.portail-esclavage-reunion.fr/documentaires/la-traite-des-esclaves/origine-des-esclaves-de-bourbon-2/traite-des-esclaves-malgaches-a-bourbon/"
+        },
+        {
+          "label": "Tony Mathiot, “250 Years Anniversary,” Seychelles National Museum (2020). See the opening voyage and passenger-list paragraphs, followed by the paragraphs on the 1771 move to Mahé and Romainville’s 1778 arrival. The list identifies seven African slaves; the status of five Indians and Marie is not stated. A secondary museum account, not an inspected passenger register.",
+          "url": "https://seychellesnationalmuseums.org/special-events/250-years-anniversary/"
+        }
+      ],
+      "occurred_at": "2026-10-06T11:52:44.462422Z",
+      "published_at": "2026-10-06T11:57:45.877935Z"
+    },
+    {
+      "id": "2026-10-14-known-source-questions",
+      "title": "Source questions now visible",
+      "occurred_at": "2026-10-14T10:34:37Z",
+      "published_at": "2026-10-14T10:34:37Z",
+      "kind": "publication",
+      "paragraphs": [
+        "The research list now names source leads and cases that still need map locations. Each entry states what a source supports and what remains unknown.",
+        "The list also states the next step. Some cases already appear in the atlas. Their wider source questions remain open.",
+        "The new page adds no scores or map routes. The atlas cases and statistical release do not change."
+      ],
+      "links": [
+        {
+          "label": "Read the source questions",
+          "url": "/takingtheirland/discovery/known/"
+        },
+        {
+          "label": "Read the dated discovery report",
+          "url": "/takingtheirland/discovery/"
+        }
+      ],
+      "backfilled": false
+    },
+    {
+      "id": "2026-10-14-india-illinois-source-questions",
+      "title": "More source questions from India and Illinois",
+      "kind": "publication",
+      "paragraphs": [
+        "The source list now includes a royal land grant from southern India and two Illinois settlement studies.",
+        "The charter reports a loss of land rights. The Illinois studies do not establish forced departure or land loss.",
+        "Each entry states what remains unknown and what evidence is needed next. These research entries add no cases to the live atlas."
+      ],
+      "links": [
+        {
+          "label": "Read the source questions",
+          "url": "/takingtheirland/discovery/known/"
+        }
+      ],
+      "backfilled": false,
+      "occurred_at": "2026-10-14T13:17:57.852587Z",
+      "published_at": "2026-10-14T13:17:57.852587Z"
+    },
+    {
+      "id": "2026-10-14-nepal-utah-source-questions",
+      "title": "New source questions from Nepal and Utah",
+      "kind": "publication",
+      "paragraphs": [
+        "The source list adds two entries from Nepal and Utah.",
+        "The Nepal entry is a candidate, with no scores. A royal text reports conquest of the city of the Mallas. Its date and modern site remain unknown.",
+        "The Utah entry concerns a possible refuge at Rock Island. It does not establish forced departure or land loss.",
+        "Neither entry adds a case to the live atlas. Unknown harm does not mean no harm."
+      ],
+      "links": [
+        {
+          "label": "Read the source questions",
+          "url": "/takingtheirland/discovery/known/"
+        }
+      ],
+      "backfilled": false,
+      "occurred_at": "2026-10-14T17:24:19.468193Z",
+      "published_at": "2026-10-14T17:24:19.468193Z"
+    },
+{
+  "id": "2026-10-14-jebel-sahaba-and-charter-source-questions",
+  "title": "New source questions from Jebel Sahaba and a royal charter",
+  "kind": "publication",
+  "paragraphs": [
+    "The source list adds three entries. One concerns the Jebel Sahaba study. Two concern a royal charter from Udayendiram.",
+    "The Jebel Sahaba study reports repeated violence. The evidence reviewed here does not establish lost homes, forced flight or land loss.",
+    "The charter reports loss of prior land rights for a village grant. It also reports the defeat of a chief and rule over a district.",
+    "An order does not show that the chief left. The dates and the fate of residents remain unknown.",
+    "The Malla source assessment is done. Its next step is an atlas draft. These changes add no case to the live atlas."
+  ],
+  "links": [
+    {
+      "label": "Read the source questions",
+      "url": "/takingtheirland/discovery/known/"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-14T19:50:00.911497Z",
+  "published_at": "2026-10-14T19:50:00.911497Z"
+},
+{
+  "id": "2026-10-14-duckfoot-and-whistling-elk-source-questions",
+  "title": "Burned homes and open source questions",
+  "kind": "publication",
+  "paragraphs": [
+    "The source list now includes Duckfoot in southwest North America. The author argues that someone burned the homes on purpose. He proposes that residents did this before they left. The cause of departure remains unknown.",
+    "The Whistling Elk entry adds an original field report. Excavators found a burned inner roof, a mostly unburned outer roof and floor objects. The authors infer a hasty departure. They propose an attack as one possible cause.",
+    "The Seminole entry now uses the same evidence rule as other entries. It seeks a bounded process and a land outcome for an affected group or tract. A named surviving community is not required.",
+    "These changes add no case to the live atlas."
+  ],
+  "links": [
+    {
+      "label": "Read the source questions",
+      "url": "/takingtheirland/discovery/known/"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-14T21:37:30.855953Z",
+  "published_at": "2026-10-14T21:37:30.855953Z"
+},
+{
+  "id": "2026-10-14-california-language-and-land-questions",
+  "title": "Two open questions on language and land",
+  "kind": "publication",
+  "paragraphs": [
+    "The source list adds a view from Golla. He suggests a Wintuan spread based on language patterns. The link to a forced move or land loss remains unknown. The linked Maiduan question stays open.",
+    "A separate entry covers Chilula encroachment on Wiyot land near Blue Lake. Golla reports a language boundary that moved west. The local effect on homes or land control remains unknown.",
+    "The wider account of land loss is not proof of this local outcome. The excerpt ends mid-section. These entries add no case to the live atlas."
+  ],
+  "links": [
+    {
+      "label": "Read the source questions",
+      "url": "/takingtheirland/discovery/known/"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-14T23:11:17.585531Z",
+  "published_at": "2026-10-14T23:11:17.585531Z"
+},
+{
+  "id": "2026-10-14-two-source-questions",
+  "title": "Two reports raise questions on camps and a town",
+  "kind": "publication",
+  "paragraphs": [
+    "The source list adds a published Tlingit oral account. It reports forced capture, ruined camps and property, and freer use of places to camp. Spirit stories form part of the account. The date and the event to assess remain open.",
+    "A royal text reports that a king ploughed down Pithumda with asses. This named-town claim remains unverified. The effects on residents, land rights and length of control are unknown.",
+    "Both entries state what the sources report and what remains unknown. They add no case to the live atlas."
+  ],
+  "links": [
+    {
+      "label": "Read the source questions",
+      "url": "/takingtheirland/discovery/known/"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T00:45:32.582318Z",
+  "published_at": "2026-10-15T00:45:32.582318Z"
+},
+{
+  "id": "2026-10-15-pithumda-source-assessment",
+  "title": "The Pithumda source assessment is saved",
+  "kind": "publication",
+  "paragraphs": [
+    "The source assessment of a royal report about Pithumda is saved. The text reports that a king ploughed the town. It does not confirm that the act took place.",
+    "Effects on residents, land rights and length of control remain unknown. The exact place and date are still unknown.",
+    "The source entry now gives the next step. This update adds no case to the live atlas and makes no change to active analysis."
+  ],
+  "links": [
+    {
+      "label": "Read the source entry",
+      "url": "/takingtheirland/discovery/known/#ledger-8dc93550e09eb0270b7b"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T02:05:43.001766Z",
+  "published_at": "2026-10-15T02:05:43.001766Z"
+},
+{
+  "id": "2026-10-15-sri-lanka-source-questions",
+  "title": "Three Sri Lanka research notes",
+  "kind": "publication",
+  "paragraphs": [
+    "Three research notes are now on the public list. Two concern reported changes of rule in Sri Lanka. One concerns a report that a group fled a threat to the life of its leader.",
+    "The chronicle calls both new regimes just. It does not show who lost homes or rights to land in the two takeovers. The threat to the leader does not prove that each person faced the same threat.",
+    "These are open research questions. They add no stop to the atlas and change no model score. The dates and wider effects on residents remain unclear."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "/takingtheirland/discovery/known/#ledger-0c1430ce3772698c0c95"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T05:28:27.022068Z",
+  "published_at": "2026-10-15T05:28:27.022068Z"
+},
+{
+  "id": "2026-10-15-cushing-source-questions",
+  "title": "Three questions from a Zuni account",
+  "kind": "publication",
+  "paragraphs": [
+    "Three source questions are now on the public list. They come from the 1896 English account by Cushing.",
+    "The account reports a mountain-town defeat and a later group departure. It also reports that Winter clans fought into a valley and settled there. The third note covers its report of flight from Hanhlipinkya before destruction.",
+    "The dates and exact places remain unknown. The account does not prove that these acts took place. These notes add no atlas case or model score."
+  ],
+  "links": [
+    {
+      "label": "Read the source questions",
+      "url": "/takingtheirland/discovery/known/#ledger-cd3539b6276001ff7328"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T07:05:25.805560Z",
+  "published_at": "2026-10-15T07:05:25.805560Z"
+},
+{
+  "id": "2026-10-15-alaska-source-questions",
+  "title": "Two questions from an Alaska report",
+  "kind": "publication",
+  "paragraphs": [
+    "Two source questions are now on the public list. They come from a 2018 state report on Alaska.",
+    "The report says a migration with Denbigh culture displaced or replaced earlier people. That choice stays open. It also describes Ipiutak injuries and later replacement. It does not link those injuries to a forced loss of homes or land.",
+    "These are open source questions. The report gives no firm event dates or modern group identity. The notes add no atlas case or scientific admission."
+  ],
+  "links": [
+    {
+      "label": "Read the source questions",
+      "url": "/takingtheirland/discovery/known/#ledger-2e2e05a226803d2d31f1"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T08:13:53.453355Z",
+  "published_at": "2026-10-15T08:13:53.453355Z"
+},
+{
+  "id": "2026-10-15-great-lakes-source-questions",
+  "title": "Great Lakes source questions",
+  "kind": "publication",
+  "paragraphs": [
+    "31 source questions from the Great Lakes region are now on the public list. They concern changes in rule, forced moves, land rights, and refuge.",
+    "The notes state what the source reports and what remains unknown. Some accounts report a move. Others leave its cause or result open. These questions add no atlas case or model score.",
+    "Two older notes now ask for more evidence after their source assessments."
+  ],
+  "links": [
+    {
+      "label": "Read the source questions",
+      "url": "/takingtheirland/discovery/known/"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T10:51:34.959246Z",
+  "published_at": "2026-10-15T10:51:34.959246Z"
+},
+{
+  "id": "2026-10-15-bengal-source-questions",
+  "title": "Bengal source questions",
+  "kind": "publication",
+  "paragraphs": [
+    "10 source questions from a chapter on Bengal are now on the public list. Three are candidate hypotheses. Seven are leads with source locations.",
+    "These are open questions, not 10 confirmed cases. The notes state what the source reports and what remains unknown. Links to inactive profiles do not confirm that the reported events took place.",
+    "These questions add no public atlas case or model score."
+  ],
+  "links": [
+    {
+      "label": "Read the source questions",
+      "url": "/takingtheirland/discovery/known/"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T14:09:23.418800Z",
+  "published_at": "2026-10-15T14:09:23.418800Z"
+},
+{
+  "id": "2026-10-15-driftless-research-lead",
+  "title": "A Driftless research lead",
+  "kind": "publication",
+  "paragraphs": [
+    "We added one research note on villages and later moves in the Driftless Area. The authors propose that scarce resources and war helped drive these changes. The cause of each move remains open.",
+    "This note adds no atlas case or model score."
+  ],
+  "links": [
+    {
+      "label": "Read the research note",
+      "url": "/takingtheirland/discovery/known/#ledger-bf88a41b937edf53ed84"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T15:38:52.770596Z",
+  "published_at": "2026-10-15T15:38:52.770596Z"
+},
+{
+  "id": "2026-10-15-discovery-report-r6",
+  "title": "Search report update",
+  "kind": "publication",
+  "paragraphs": [
+    "We updated the discovery report. It lists 60 known ordinary cases left in the local data.",
+    "The dated report shows the search gaps and open questions. It keeps inactive archive records separate from public atlas cases. The atlas itself did not change."
+  ],
+  "links": [
+    {
+      "label": "Read the report",
+      "url": "/takingtheirland/discovery/"
+    }
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-15T16:52:45.165700Z",
+  "published_at": "2026-10-15T16:52:45.165700Z"
+},
+{
+  "id": "2026-10-15-seven-research-notes",
+  "title": "Seven new research notes",
+  "paragraphs": [
+    "We added seven research notes. One concerns reported Ho-Chunk removal from Wisconsin. Six concern reports of movement, land grants and rule in Bengal and nearby areas.",
+    "These notes state what each source supports and what remains unknown. They add no atlas case or score."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "/takingtheirland/discovery/known/"
+    }
+  ],
+  "kind": "publication",
+  "backfilled": false,
+  "occurred_at": "2026-10-15T18:46:16.519007Z",
+  "published_at": "2026-10-15T18:46:16.519007Z"
+},
+{
+  "id": "2026-10-15-early-eastern-north-america-notes",
+  "title": "Early North America: seven new notes",
+  "kind": "publication",
+  "backfilled": false,
+  "paragraphs": [
+    "The research list adds seven notes on early eastern North America. It also updates the Midsouth note.",
+    "The notes cover claims of captives and disputes over site use. They also cover changes in homes. Each note states the source claims and limits.",
+    "We read six chapters and the shared reference list in one book. The cited field studies remain unread. These notes add no atlas cases."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    }
+  ],
+  "occurred_at": "2026-10-15T20:49:33.990916Z",
+  "published_at": "2026-10-15T21:08:20.958060Z"
+},
+{
+  "id": "2026-10-15-american-bottom-field-report",
+  "title": "American Bottom note adds a field report",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "The American Bottom note now cites the original field report. We read 158 selected pages, not the full 490-page report.",
+    "At Sprague, part of a house pit filled with soil before a fire. The report suggests that people returned and reused homes and food stores. This does not prove that someone forced people to leave.",
+    "Wasps can nest in homes that people still use. The causes of local moves and earlier land use remain open."
+  ],
+  "links": [
+    {
+      "label": "Read the American Bottom note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-4958965b94d6bad18f0e"
+    }
+  ],
+  "occurred_at": "2026-10-15T22:29:25.265930Z",
+  "published_at": "2026-10-15T22:39:37.623398Z"
+},
+{
+  "id": "2026-10-16-chola-note-search-scope",
+  "title": "Chola source note and search scope update",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "One new note covers orders for temple staff from Chola villages. Texts 69 and 70 list pay and tax duties. Text 57 adds guard duties. The sources do not show if each order was carried out.",
+    "We also corrected the search record for 19 cells. We reopened 16 cells because earlier searches did not cover the full date span. Three cells now state limits on the search scope. We kept the earlier source results.",
+    "These changes add no case to the atlas. The map still has 540 cases and 552 stops. More work on early North America and South Asia remains open."
+  ],
+  "links": [
+    {
+      "label": "Read the Chola source note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-b045df8dc4469197fa80"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-16T00:23:38.734307Z",
+  "published_at": "2026-10-16T00:34:29.060044Z"
+},
+{
+  "id": "2026-10-16-northeast-research-notes",
+  "title": "Northeast research notes",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added seven research notes for Northeast North America. They cover village moves, forced departures and a disputed migration model.",
+    "We also checked the Sirkap note against the text by Marshall. He assigns quake damage to one layer. He places another layer after conquest. The cause of later damage remains open.",
+    "These research updates add no case to the map or model. The atlas still has 540 cases and 552 stops."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-16T03:42:20.038081Z",
+  "published_at": "2026-10-16T03:50:44.682649Z"
+}
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "status": "main_calibration_complete_with_explicit_field_limits",
+  "reviewed_document": "REVISED_IDENTITY_CANDIDATES.json",
+  "groups": [
+    {
+      "group_id": "A01",
+      "work_ids": [
+        "access:1decf5397cfe760eb05c"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:1decf5397cfe760eb05c; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/cicero/domo2.html"
+      ],
+      "grounding_passages": [
+        "Cicero : De Domo Sua",
+        "Sections 54-104",
+        "N.H. Watts (1928)",
+        "25.11.23"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "The named Cicero component, explicit personal translation credit and its associated year. Page-footer date remains literal and unassigned; no physical printing or historical claim is established.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "e2ec0a7541b111321bb65eac69580299eb5da1123f31df823004c670fe954591",
+        "47d01eb3d31739ef06f90e71da4dde538615c7bf1006bbe17ab2e7bb1c9b5bd5"
+      ]
+    },
+    {
+      "group_id": "A02",
+      "work_ids": [
+        "access:2fe8966bffe0af4d3e7b"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:2fe8966bffe0af4d3e7b; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/docs/sig1/s312.html"
+      ],
+      "grounding_passages": [
+        "SAMOS HONOURS GORGOS AND MINNEON OF IASOS",
+        "Sylloge Inscriptionum Graecarum: 312",
+        "Samos 35 ( I.G. 12.6.1.17 )",
+        "soon after 321 B.C.",
+        "13.02.16"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "Named Samos decree in Sylloge 312, its displayed Greek-text concordance and source-attributed inscription date. No personal translator credit supplied.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "fd9aa64853067879e8aa7b013588e6a4ba9a8cc48cb6a40dcb0c86e37b403287",
+        "3f5044251d0b0728a035f29f481081cadbda30d7d9069c565462046c619059f4"
+      ]
+    },
+    {
+      "group_id": "A03",
+      "work_ids": [
+        "access:4bf05a17aec56d2772cf"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:4bf05a17aec56d2772cf; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/translate/memnon1.html"
+      ],
+      "grounding_passages": [
+        "Memnon: History of Heracleia",
+        "chapters 1 to 21",
+        "Jacoby's Greek text (FGrH_434)",
+        "Photius' introduction",
+        "Andrew Smith",
+        "29.02.16"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "Named Memnon excerpt/chapter component and Jacoby text basis, with Photius as the transmitting introduction. HTML meta-author is separate from an explicit translator credit.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "f67020682bb558a7a8f15b4bad550ab5359e951d9e71e16541ee169d7eaf5d57",
+        "d3a0547729c08ed247520d4fe6cae49b610219c9aec87268626a3eef14740f82"
+      ]
+    },
+    {
+      "group_id": "A04",
+      "work_ids": [
+        "access:5ad4967f76da1c7322db"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:5ad4967f76da1c7322db; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/cicero/s_roscius2.html"
+      ],
+      "grounding_passages": [
+        "Cicero : Pro Sex. Roscio",
+        "Sections 79-154",
+        "J.H. Freese (1930)",
+        "17.02.24"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "The named Cicero component, explicit personal translation credit and its associated year. Page-footer date remains literal and unassigned; no physical printing or historical claim is established.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "7234b76d92d50fe156f3702382100decfb1038d64cec96d7bfd290e44248c3dd",
+        "7a81e5fa8efdd89a5d3a132fcab2ac80bb6c7b363798c132def6f8d6ac928dfb"
+      ]
+    },
+    {
+      "group_id": "A05",
+      "work_ids": [
+        "access:6c8af49ca66799ce94d7",
+        "url:attalus.org/translate/granius.html"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:6c8af49ca66799ce94d7, url:attalus.org/translate/granius.html; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/translate/granius.html#36",
+        "https://www.attalus.org/translate/granius.html"
+      ],
+      "grounding_passages": [
+        "Granius Licinianus",
+        "edition by N.Criniti",
+        "older edition by M.Flemisch",
+        "Book 36 - events of 81-78 B.C.",
+        "Andrew Smith",
+        "29.02.16"
+      ],
+      "source_locators": [
+        "Source text lines 1–11 and footer; raw HTML meta-author. Both anchor scopes share this body."
+      ],
+      "source_licenses": "Named Granius text and Book 36 anchor, distinct Criniti sentence/Flemisch page numbering, and separate HTML meta-author. One downloaded body serves two access IDs.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "48bdcf670b86d82c2aa9a365d243e6ace45a7f996a98c03d7997579aae365c5b",
+        "3b799f24afb43752cc646e992d73e50bd1951c88f876c212cf4e6f2f39cf2253"
+      ]
+    },
+    {
+      "group_id": "A06",
+      "work_ids": [
+        "access:953809b0232291152324"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:953809b0232291152324; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/translate/orosius4B.html"
+      ],
+      "grounding_passages": [
+        "Orosius, Book 4",
+        "Chapters 14-23",
+        "Adapted from the translation by I.W. Raymond (1936).",
+        "22.12.20"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "Named Orosius component explicitly adapted from Raymond/1936, not a claim of verbatim or scan-verified reproduction; adapter remains unfilled.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "35a03a366dcdceafc08e66f5e1033cbca6ecfa5fbbb0e7c867fe918bb8b8edf1",
+        "f22f663d1d9c308d35db96bb2e67cdbcbe1ca51dbbc62566df46d1402e1e8bbe"
+      ]
+    },
+    {
+      "group_id": "A07",
+      "work_ids": [
+        "access:e858fa4d54c77410c6dc"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:e858fa4d54c77410c6dc; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/cicero/s_roscius.html"
+      ],
+      "grounding_passages": [
+        "Cicero : Pro Sex. Roscio",
+        "Sections 1-78",
+        "J.H. Freese (1930)",
+        "17.02.24"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "The named Cicero component, explicit personal translation credit and its associated year. Page-footer date remains literal and unassigned; no physical printing or historical claim is established.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "27f9a417fd1e2d462914fcbbbaeb9ab2aedc9759d8c2ae977218f0170c75823c",
+        "da0166b1b5169ccc0c0a2bae6ad99c296c773c5b27759ae7df20e782fa7e7883"
+      ]
+    },
+    {
+      "group_id": "A08",
+      "work_ids": [
+        "access:f95373bc0f223812c9c6"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: access:f95373bc0f223812c9c6; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/cicero/caecina2.html"
+      ],
+      "grounding_passages": [
+        "Cicero : Pro Caecina",
+        "Sections 51-104",
+        "H.G. Hodge (1927)",
+        "06.11.23"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "The named Cicero component, explicit personal translation credit and its associated year. Page-footer date remains literal and unassigned; no physical printing or historical claim is established.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "a0c28a5053756129448f067fe5e2860cb41f6e8a1075567c656de5312bd3fa7f",
+        "1b0333c3643ae99bb8aead3b4c92eca90df65f9883e09f0545f55ef2d8c54dfd"
+      ]
+    },
+    {
+      "group_id": "A09",
+      "work_ids": [
+        "url:attalus.org/cicero/agraria2_2.html"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:attalus.org/cicero/agraria2_2.html; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/cicero/agraria2_2.html"
+      ],
+      "grounding_passages": [
+        "Cicero : De Lege Agraria, 2",
+        "Sections 47-103",
+        "J.H. Freese (1930)",
+        "20.10.23"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "The named Cicero component, explicit personal translation credit and its associated year. Page-footer date remains literal and unassigned; no physical printing or historical claim is established.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "f2678af3f485104f1c337effd2ba5efaab8c00cb66be8051e73a312186f831ab",
+        "d2cee1f22a19fc5a35bee5397e368aad7cac43cbc179cfff665704fc4838be81"
+      ]
+    },
+    {
+      "group_id": "A10",
+      "work_ids": [
+        "url:attalus.org/cicero/atticus1.html"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:attalus.org/cicero/atticus1.html; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/cicero/atticus1.html"
+      ],
+      "grounding_passages": [
+        "Cicero : Letters to Atticus",
+        "Book 1",
+        "E.O. Winstedt (1919)",
+        "18.07.26"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "The named Cicero component, explicit personal translation credit and its associated year. Page-footer date remains literal and unassigned; no physical printing or historical claim is established.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "a4b25098788ab2dc9e283178f2a8ce4f91d664d7204075be22e5fcb4429914ab",
+        "3b64085d41da2869e6a34d6f6a8781d27584627806d5fed5049a693c2193c755"
+      ]
+    },
+    {
+      "group_id": "A11",
+      "work_ids": [
+        "url:attalus.org/cicero/sulla.html"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:attalus.org/cicero/sulla.html; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/cicero/sulla.html"
+      ],
+      "grounding_passages": [
+        "Cicero : Pro Sulla",
+        "L.E. Lord (1937)",
+        "20.02.24"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "The named Cicero component, explicit personal translation credit and its associated year. Page-footer date remains literal and unassigned; no physical printing or historical claim is established.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "61b86e95cd005a022c57c6b17950a52171c7f1f27d4ff4da50c1f8b37bcf0e61",
+        "4c2470e230823ec5b90ad339344212379a8a07821be6414d68fa717177becd92"
+      ]
+    },
+    {
+      "group_id": "A12",
+      "work_ids": [
+        "url:attalus.org/docs/cil/works.html"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:attalus.org/docs/cil/works.html; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/docs/cil/works.html"
+      ],
+      "grounding_passages": [
+        "Latin Inscriptions: Public Works",
+        "translated by E.H.Warmington (1940)",
+        "Corpus Inscriptionum Latinarum",
+        "CIL</I>_1<SUP>2</SUP>",
+        "18.09.25"
+      ],
+      "source_locators": [
+        "Source text heading/credit lines 1–5, footer date/rights line; raw HTML author/superscript attributes where specified."
+      ],
+      "source_licenses": "A collection of translated Latin inscriptions with Warmington/1940 credit and displayed CIL numbering, not a single ancient author or a verified physical printing.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "8ad8f91dfe187a4a4e3931ec59a743a5f928b740488fa34e63d29cbd26082efe",
+        "9a24bae8cf70f0aee56ae8aa2b5283095482d0329b838cce32e1211283373fa0"
+      ]
+    },
+    {
+      "group_id": "A13",
+      "work_ids": [
+        "url:attalus.org/names/d/dentatus.html"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:attalus.org/names/d/dentatus.html; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/names/d/dentatus.html"
+      ],
+      "grounding_passages": [
+        "Dentatus - in ancient sources @ attalus.org",
+        "part of the index of names",
+        "This page © Andrew Smith, 2026"
+      ],
+      "source_locators": [
+        "Source text heading/index description lines 1–6 and final copyright line."
+      ],
+      "source_licenses": "Modern Dentatus name index and literal copyright holder/year. No ancient authorship or first-publication date is inferred.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "a116fd3bce23bbde33f80cf9b82257514af229d5dc67ee6cc7cabd7b8a1bb293",
+        "2bd9a4ba5ed6b3c4c15591bffbbe2c9f0ee060d8e5eea2c25c043c254f270e0f"
+      ]
+    },
+    {
+      "group_id": "A14",
+      "work_ids": [
+        "url:attalus.org/names/n/nequinum.html"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json: url:attalus.org/names/n/nequinum.html; supplied title, component, contributor, date-role and text-scope fields",
+      "load_bearing_terms": "as supplied; as reported; adapted; index; unlabelled; separate roles",
+      "source_urls": [
+        "https://www.attalus.org/names/n/nequinum.html"
+      ],
+      "grounding_passages": [
+        "Nequinum - in ancient sources @ attalus.org",
+        "part of the index of names",
+        "This page © Andrew Smith, 2021"
+      ],
+      "source_locators": [
+        "Source text heading/index description lines 1–6 and final copyright line."
+      ],
+      "source_licenses": "Modern Nequinum name index and literal copyright holder/year. No ancient authorship or first-publication date is inferred.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the candidate fields and explicit limits.",
+      "private_response_sha256": [
+        "fc427f063b379269c380c28192fa55564def5c48e58470571453adbd4c33ca88",
+        "96fee701e1fc90f4f56db1272ea54a00aed713a85e775e21a444e2f749c6ec79"
+      ]
+    },
+    {
+      "group_id": "A-GUIDE",
+      "claim_location": "SOURCE_OBSERVATIONS.json context note and ROUND_1_FACT_CHECK.md source-quality disclosure",
+      "source_urls": [
+        "https://www.attalus.org/info/howto.html",
+        "https://www.attalus.org/translate/index.html"
+      ],
+      "grounding_passages": [
+        "they have not been through any kind of scholarly review",
+        "the others have all been re-edited",
+        "nearest chapter or section"
+      ],
+      "source_locators": [
+        "Usage guide, paragraphs in section 4, lines 48–50; usage guide line 37; translations index final paragraph line 99"
+      ],
+      "source_licenses": "Host disclosures about its new translations, edited predecessors and approximate navigation. These are attributed limitations, not a blanket verdict on every ancient account.",
+      "work_ids": [],
+      "load_bearing_terms": "host explains; host warns; not independent certification",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the attributed source-use disclosure.",
+      "private_response_sha256": [
+        "148e64d9f9eac10ac096eb91bd9e6f15717d954c4a08a4d9efdfb58e65092059"
+      ]
+    },
+    {
+      "group_id": "A-KEY",
+      "claim_location": "SOURCE_OBSERVATIONS.json context note on editorial notation",
+      "source_urls": [
+        "https://www.attalus.org/info/translate_key.html"
+      ],
+      "grounding_passages": [
+        "Letters or words supplied by modern editors",
+        "The text or meaning of the following phrase is uncertain."
+      ],
+      "source_locators": [
+        "Notation key, square-bracket and (?) rows, lines 6 and 9"
+      ],
+      "source_licenses": "The host explicitly marks editorial additions and uncertain readings. These conventions do not independently verify an historical claim.",
+      "work_ids": [],
+      "load_bearing_terms": "host explains; host warns; not independent certification",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain the attributed source-use disclosure.",
+      "private_response_sha256": [
+        "3e2b219ba5f1383ae06df4c8dfa818da5f61980bd3547d9376f79dd2dbd3a2fb"
+      ]
+    },
+    {
+      "group_id": "A-OPEN-1",
+      "work_ids": [
+        "access:2fe8966bffe0af4d3e7b"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json access:2fe8966bffe0af4d3e7b: translator_names_as_supplied",
+      "load_bearing_terms": "personal translator/adapter is not identified",
+      "source_urls": [
+        "https://www.attalus.org/docs/sig1/s312.html"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Page header, HTML metadata and consulted host guidance; no explicit credit for this role"
+      ],
+      "source_licenses": "Reachable evidence does not identify the personal contributor in this role. No memory-based identity or plausibility attribution is used.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep the null field and its explicit exception; seek a source-linked personal credit.",
+      "private_response_sha256": [
+        "fd9aa64853067879e8aa7b013588e6a4ba9a8cc48cb6a40dcb0c86e37b403287",
+        "3f5044251d0b0728a035f29f481081cadbda30d7d9069c565462046c619059f4"
+      ]
+    },
+    {
+      "group_id": "A-OPEN-2",
+      "work_ids": [
+        "access:4bf05a17aec56d2772cf"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json access:4bf05a17aec56d2772cf: translator_names_as_supplied",
+      "load_bearing_terms": "personal translator/adapter is not identified",
+      "source_urls": [
+        "https://www.attalus.org/translate/memnon1.html"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Page header, HTML metadata and consulted host guidance; no explicit credit for this role"
+      ],
+      "source_licenses": "Reachable evidence does not identify the personal contributor in this role. No memory-based identity or plausibility attribution is used.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep the null field and its explicit exception; seek a source-linked personal credit.",
+      "private_response_sha256": [
+        "f67020682bb558a7a8f15b4bad550ab5359e951d9e71e16541ee169d7eaf5d57",
+        "d3a0547729c08ed247520d4fe6cae49b610219c9aec87268626a3eef14740f82"
+      ]
+    },
+    {
+      "group_id": "A-OPEN-3",
+      "work_ids": [
+        "access:6c8af49ca66799ce94d7"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json access:6c8af49ca66799ce94d7: translator_names_as_supplied",
+      "load_bearing_terms": "personal translator/adapter is not identified",
+      "source_urls": [
+        "https://www.attalus.org/translate/granius.html#36"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Page header, HTML metadata and consulted host guidance; no explicit credit for this role"
+      ],
+      "source_licenses": "Reachable evidence does not identify the personal contributor in this role. No memory-based identity or plausibility attribution is used.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep the null field and its explicit exception; seek a source-linked personal credit.",
+      "private_response_sha256": [
+        "48bdcf670b86d82c2aa9a365d243e6ace45a7f996a98c03d7997579aae365c5b",
+        "3b799f24afb43752cc646e992d73e50bd1951c88f876c212cf4e6f2f39cf2253"
+      ]
+    },
+    {
+      "group_id": "A-OPEN-4",
+      "work_ids": [
+        "access:953809b0232291152324"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json access:953809b0232291152324: adapter_names_as_supplied",
+      "load_bearing_terms": "personal translator/adapter is not identified",
+      "source_urls": [
+        "https://www.attalus.org/translate/orosius4B.html"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Page header, HTML metadata and consulted host guidance; no explicit credit for this role"
+      ],
+      "source_licenses": "Reachable evidence does not identify the personal contributor in this role. No memory-based identity or plausibility attribution is used.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep the null field and its explicit exception; seek a source-linked personal credit.",
+      "private_response_sha256": [
+        "35a03a366dcdceafc08e66f5e1033cbca6ecfa5fbbb0e7c867fe918bb8b8edf1",
+        "f22f663d1d9c308d35db96bb2e67cdbcbe1ca51dbbc62566df46d1402e1e8bbe"
+      ]
+    },
+    {
+      "group_id": "A-OPEN-5",
+      "work_ids": [
+        "url:attalus.org/translate/granius.html"
+      ],
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json url:attalus.org/translate/granius.html: translator_names_as_supplied",
+      "load_bearing_terms": "personal translator/adapter is not identified",
+      "source_urls": [
+        "https://www.attalus.org/translate/granius.html"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Page header, HTML metadata and consulted host guidance; no explicit credit for this role"
+      ],
+      "source_licenses": "Reachable evidence does not identify the personal contributor in this role. No memory-based identity or plausibility attribution is used.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep the null field and its explicit exception; seek a source-linked personal credit.",
+      "private_response_sha256": [
+        "48bdcf670b86d82c2aa9a365d243e6ace45a7f996a98c03d7997579aae365c5b",
+        "3b799f24afb43752cc646e992d73e50bd1951c88f876c212cf4e6f2f39cf2253"
+      ]
+    }
+  ],
+  "counts": {
+    "Matched": 16,
+    "Uncheckable": 5,
+    "Overclaimed": 0,
+    "Underclaimed": 0,
+    "Unsupported-but-sound": 0
+  },
+  "coverage": "All fifteen metadata records, grouped across fourteen page bodies, plus two host-guidance groups and five missing personal-credit fields. Original historical claims, full translation accuracy and physical printed editions are not audited here.",
+  "reverse_check": "Actively checked for underclaims in explicit translator names, years and modern index identity; none found.",
+  "public_apparatus_note": "Private response paths omitted; source URLs, grounding passages and locators are unchanged. Candidate filenames refer to the retained review packet."
+}

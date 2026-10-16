@@ -1,0 +1,10 @@
+[
+  {
+    "from_work_id": "access:3f6b82b082b9434ed7ea",
+    "relation": "same_scanned_volume_as",
+    "to_work_id": "title:breasted ancient records of egypt volume ii sections 434437",
+    "merged": false,
+    "basis": "The inspected Wikimedia-hosted PDF digitization leaf names https://archive.org/details/ancientrecordsof02brea_0; its title/copyright leaves identify Breasted volume II, 1906.",
+    "metadata_api_status": "Internal error; relationship does not rely on an unseen API response."
+  }
+]

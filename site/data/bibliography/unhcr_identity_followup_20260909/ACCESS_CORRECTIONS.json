@@ -1,0 +1,33 @@
+{
+  "status": "matching_work_component_access_not_original_page_byte_recovery",
+  "records": [
+    {
+      "work_id": "access:21ae3ffc7a386a4b5760",
+      "original_urls": [
+        "https://www.unhcr.org/news/briefing-notes/armed-attacks-kill-hundreds-displace-40000-civilians-northeast-dr"
+      ],
+      "matching_url": "https://www.unhcr.org/africa/news/briefing-notes/armed-attacks-kill-hundreds-displace-40-000-civilians-northeast-dr-congo",
+      "matching_title": "Armed attacks kill hundreds, displace 40,000 civilians in northeast DR Congo",
+      "basis": "Exact article title is explicitly named in the selected record's original recorded_title. The original URL is missing; no redirect from it was observed."
+    },
+    {
+      "work_id": "access:3a6fa9c47b4ce24ab9e2",
+      "original_urls": [
+        "https://www.unhcr.org/spotlight/2022/02/democratic-republic-of-the-congo-idps-in-plain-savo/"
+      ],
+      "matching_url": "https://www.unhcr.org/spotlight/2023/01/no-escape-for-civilians-trapped-in-eastern-dr-congos-cycle-of-violence/democratic-republic-of-the-congo-idps-in-plain-savo/",
+      "matching_title": "Democratic Republic of the Congo. IDPs in Plain Savo",
+      "basis": "Exact attachment title explicitly named in original recorded_title and same terminal attachment slug. This is an accessible matching component, not a demonstrated redirect or byte-identical recovery of the missing 2022/02 route."
+    },
+    {
+      "work_id": "access:dc361dce9dd691c6f81c",
+      "original_urls": [
+        "https://www.unhcr.org/us/news/briefing-notes/unhcr-alarmed-violence-and-displacement-ituri-drc"
+      ],
+      "matching_url": "https://www.unhcr.org/my/news/briefing-notes/unhcr-alarm-recent-attacks-and-rising-displacement-eastern-drc",
+      "matching_title": "UNHCR alarm at recent attacks and rising displacement in eastern DRC",
+      "basis": "Exact article title explicitly named in original recorded_title. The missing original slug differs; the matching title supports this replacement candidate, not a claim of observed redirection or identical historical page bytes."
+    }
+  ],
+  "original_occurrence_urls_modified": false
+}

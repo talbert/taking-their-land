@@ -1,0 +1,1297 @@
+[
+  {
+    "work_id": "access:0e26ce6ec03bc765bd1f",
+    "recorded_title": "Encyclopaedia Iranica, Shapur I: History, for the Cologne Mani Codex synchronism and Shapur's co-regency; not proof of his operational command",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/shapur-i-old/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "SHĀPUR I: History",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Alireza Shapur Shahbazi",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Alireza Shapur Shahbazi",
+      "published": "2002-07-20",
+      "modified": "2017-09-11",
+      "year": 2002,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date."
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/shapur-i-old/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts. The other Shapur URL has a different displayed update date and title spelling. Both IDs and both date values are retained; full body/version equivalence is unverified."
+    }
+  },
+  {
+    "work_id": "access:23698df9f469dc7793e3",
+    "recorded_title": "Encyclopaedia Iranica, Aryandes and the chronology of the Libyan campaign",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/aryandes-achaemenid-satrap-of-egypt/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "ARYANDES",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Alireza Shapur Shahbazi",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Alireza Shapur Shahbazi",
+      "published": "1987-12-15",
+      "modified": "2013-02-15",
+      "year": 1987,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. II, Fasc. 7, pp. 683-684",
+      "print_locators": [
+        {
+          "volume_roman": "II",
+          "fascicle": "7",
+          "pages": "683-684"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/aryandes-achaemenid-satrap-of-egypt/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in publisher-indexed source text; direct opening remained limited.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "access:32e7d40640f3bdbab800",
+    "recorded_title": "Encyclopaedia Iranica, Mada'en, for the receiving city's southeastern Ctesiphon-region placement and later continuity",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/madaen-sasanian-metropolitan-area/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "MADĀʾEN",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Michael G. Morony",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Michael G. Morony",
+      "published": "2009-04-20",
+      "modified": "2012-11-19",
+      "year": 2009,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date."
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/madaen-sasanian-metropolitan-area/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "access:43d0777e2f225563a1d4",
+    "recorded_title": "Encyclopaedia Iranica, Darius iii. Darius I the Great",
+    "scope": [
+      "active_release",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/darius-iii/?generate_pdf=1"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "DARIUS iii. Darius I the Great",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Alireza Shapur Shahbazi",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Alireza Shapur Shahbazi",
+      "published": "1994-12-15",
+      "modified": "2016-08-18",
+      "year": 1994,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. VII, Fasc. 1, pp. 41-50",
+      "print_locators": [
+        {
+          "volume_roman": "VII",
+          "fascicle": "1",
+          "pages": "41-50"
+        }
+      ],
+      "preferred_url": "https://www.iranicaonline.org/articles/darius-iii/",
+      "original_access_format": "generated_pdf_requested"
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/darius-iii/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts. Metadata uses the corresponding publisher HTML page. The originally linked generated PDF was not downloaded or visually inspected; no PDF version or page-layout equivalence is asserted."
+    }
+  },
+  {
+    "work_id": "access:6e1b6516df6caf635f52",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/babylonian-chronicles/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "BABYLONIAN CHRONICLES",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Muhammad A. Dandamayev",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Muhammad A. Dandamayev",
+      "published": "2002-07-20",
+      "modified": "2013-02-22",
+      "year": 2002,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date."
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/babylonian-chronicles/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "access:717b81ab3db5e408901b",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/kandahar-pre-islamic-monuments-and-remains/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "KANDAHAR ii. Pre-Islamic Monuments and Remains",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Gerard Fussman",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Gerard Fussman",
+      "published": "2010-12-15",
+      "modified": "2018-05-14",
+      "year": 2010,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. XV, Fasc. 5, pp. 475-477",
+      "print_locators": [
+        {
+          "volume_roman": "XV",
+          "fascicle": "5",
+          "pages": "475-477"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/kandahar-pre-islamic-monuments-and-remains/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in publisher-indexed source text; direct opening remained limited.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "access:7893ff73f42ace209fdb",
+    "recorded_title": "Encyclopaedia Iranica, Herodotus vi. Darius According to Herodotus",
+    "scope": [
+      "active_release",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/herodotus-vi/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "HERODOTUS vi. DARIUS ACCORDING TO HERODOTUS",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Robert Rollinger",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Robert Rollinger",
+      "published": "2003-12-15",
+      "modified": "2013-06-08",
+      "year": 2003,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. XII, Fasc. 3, pp. 264-270",
+      "print_locators": [
+        {
+          "volume_roman": "XII",
+          "fascicle": "3",
+          "pages": "264-270"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/herodotus-vi/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "access:840b42d5d2bcb69f1328",
+    "recorded_title": "Encyclopaedia Iranica, Hormozd I, for the disputed 253/256 chronology and scholarship favoring 253",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/hormozd-i/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "HORMOZD I",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "M. Rahim Shayegan",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "M. Rahim Shayegan",
+      "published": "2004-12-15",
+      "modified": "2013-06-11",
+      "year": 2004,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. XII, Fasc. 5, pp. 462-464",
+      "print_locators": [
+        {
+          "volume_roman": "XII",
+          "fascicle": "5",
+          "pages": "462-464"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/hormozd-i/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "access:84b3d7b7fae513fbc0f7",
+    "recorded_title": "Encyclopaedia Iranica, Ardashir I, for the final conquest chronology and Ardashir's role",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/ardasir-i/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "ARDAŠĪR I i. History",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Josef Wiesehöfer",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Josef Wiesehöfer",
+      "published": "1986-12-15",
+      "modified": "2016-04-29",
+      "year": 1986,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. II, Fasc. 4, pp. 371-376",
+      "print_locators": [
+        {
+          "volume_roman": "II",
+          "fascicle": "4",
+          "pages": "371-376"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/ardasir-i/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "access:8a9aa76732e7ffee601b",
+    "recorded_title": "Rudi Matthee, ‘Shah Abbas I: The Myth, the Monarch, and the Man,’ Iranian Studies; John R. Perry, ‘Deportations,’ Encyclopaedia Iranica; Hirotake Maeda, ‘Georgia vii. Georgians in the Safavid Administration,’ Encyclopaedia Iranica generated PDF; Keith Hitchins, ‘Georgia ii. History of Iranian-Georgian Relations,’ Encyclopaedia Iranica generated PDF",
+    "scope": [
+      "active_release"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/georgia-ii-history/?generate_pdf=1"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "GEORGIA ii. History of Iranian-Georgian Relations",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Keith Hitchins",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Keith Hitchins",
+      "published": "2001-12-15",
+      "modified": "2015-06-28",
+      "year": 2001,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. X, Fasc. 4, pp. 464-470",
+      "print_locators": [
+        {
+          "volume_roman": "X",
+          "fascicle": "4",
+          "pages": "464-470"
+        }
+      ],
+      "preferred_url": "https://www.iranicaonline.org/articles/georgia-ii-history/",
+      "original_access_format": "generated_pdf_requested"
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/georgia-ii-history/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in publisher-indexed source text; direct opening remained limited.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts. Metadata uses the corresponding publisher HTML page. The originally linked generated PDF was not downloaded or visually inspected; no PDF version or page-layout equivalence is asserted."
+    }
+  },
+  {
+    "work_id": "access:9e30b3c0373c73e4ae22",
+    "recorded_title": "Encyclopaedia Iranica, Tigran II, for forcible transfer into the new capital, a distinct Armenian settler stream, and the measure's temporary character",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/tigran-ii/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "TIGRAN II",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Nina Garsoïan",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Nina Garsoïan",
+      "published": "2005-07-20",
+      "modified": "2019-06-12",
+      "year": 2005,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date."
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/tigran-ii/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "access:c7e779fdbc4b3214f1d9",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/lysander/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "LYSANDER",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Ernst Badian",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Ernst Badian",
+      "published": "2006-08-15",
+      "modified": "2012-11-19",
+      "year": 2006,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date."
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/lysander/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica antioch",
+    "recorded_title": "Encyclopaedia Iranica: Antioch",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/antioch-1-northern-syria/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "ANTIOCH (1)",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Marie Louise Chaumont",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Marie Louise Chaumont",
+      "published": "1986-12-15",
+      "modified": "2015-06-25",
+      "year": 1986,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. II, Fasc. 2, pp. 119-125",
+      "print_locators": [
+        {
+          "volume_roman": "II",
+          "fascicle": "2",
+          "pages": "119-125"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/antioch-1-northern-syria/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica balk ii history from the arab conquest to the mongols",
+    "recorded_title": "Encyclopaedia Iranica, Balḵ ii. History from the Arab Conquest to the Mongols",
+    "scope": [
+      "active_release",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/bal%E1%B8%B5-ii-history-from-the-arab-conquest-to-the-mongols/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "BALḴ ii. History from the Arab Conquest to the Mongols",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Clifford Edmund Bosworth",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Clifford Edmund Bosworth",
+      "published": "1988-12-15",
+      "modified": "2016-10-25",
+      "year": 1988,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. III, Fasc. 6, pp. 588-591",
+      "print_locators": [
+        {
+          "volume_roman": "III",
+          "fascicle": "6",
+          "pages": "588-591"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/bal%E1%B8%B5-ii-history-from-the-arab-conquest-to-the-mongols/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica bamian ii history and monuments",
+    "recorded_title": "Encyclopaedia Iranica, Bāmīān ii. History and monuments",
+    "scope": [
+      "active_release",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/bamian-town-in-central-afghanistan/bamian-ii-history-and-monuments/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "BĀMĪĀN ii. History and monuments",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "print_detail_as_supplied": "Vol. III, Fasc. 6, pp. 658-660",
+      "print_locators": [
+        {
+          "volume_roman": "III",
+          "fascicle": "6",
+          "pages": "658-660"
+        }
+      ],
+      "parent_entry_metadata_as_supplied": {
+        "title": "BĀMĪĀN",
+        "url": "https://www.iranicaonline.org/articles/bamian-town-in-central-afghanistan/",
+        "published": "1988-12-15",
+        "modified": "2016-10-26",
+        "print_detail": "Vol. III, Fasc. 6, pp. 657-661",
+        "role": "containing_entry_only_not_section_dates"
+      }
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/bamian-town-in-central-afghanistan/bamian-ii-history-and-monuments/",
+      "https://www.iranicaonline.org/articles/bamian-town-in-central-afghanistan/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in publisher-indexed source text; direct opening remained limited. The separate parent-entry metadata was read and retained only as parent metadata.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts. No author, publication date or modification date for this section was established. Parent-entry dates and sibling-section bylines/dates are not assigned to this section."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica bukhara iii after the mongol invasion",
+    "recorded_title": "Encyclopaedia Iranica, Bukhara iii. After the Mongol Invasion",
+    "scope": [
+      "active_release",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/bukhara-iii/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "BUKHARA iii. After the Mongol Invasion",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Yuri Bregel",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Yuri Bregel",
+      "published": "2000-01-01",
+      "modified": "2013-05-06",
+      "year": 2000,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. IV, Fasc. 5, pp. 515-521",
+      "print_locators": [
+        {
+          "volume_roman": "IV",
+          "fascicle": "5",
+          "pages": "515-521"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/bukhara-iii/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts. January 1, 2000 is the page field labeled Published. The supplied volume/fascicle is retained separately; no independent original-print year is asserted."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica ctesiphon",
+    "recorded_title": "Encyclopaedia Iranica: Ctesiphon",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/ctesiphon/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "CTESIPHON",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Jens Kröger",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Jens Kröger",
+      "published": "1993-12-15",
+      "modified": "2018-02-20",
+      "year": 1993,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. VI, Fasc. 4, pp. 446-448",
+      "print_locators": [
+        {
+          "volume_roman": "VI",
+          "fascicle": "4",
+          "pages": "446-448"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/ctesiphon/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica deportations",
+    "recorded_title": "Encyclopaedia Iranica: Deportations",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/deportations/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "DEPORTATIONS",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Alireza Shapur Shahbazi",
+          "role": "publisher_displayed_article_byline"
+        },
+        {
+          "literal": "Erich Kettenhofen",
+          "role": "publisher_displayed_article_byline"
+        },
+        {
+          "literal": "John R. Perry",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Alireza Shapur Shahbazi Erich Kettenhofen John R. Perry",
+      "published": "1994-12-15",
+      "modified": "2018-02-20",
+      "year": 1994,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. VII, Fasc. 3, pp. 297-312",
+      "print_locators": [
+        {
+          "volume_roman": "VII",
+          "fascicle": "3",
+          "pages": "297-312"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/deportations/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in publisher-indexed source text; direct opening remained limited.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts. The linked record is the combined three-period article. Its three displayed authors are retained; this is not a sole-authored citation to the Islamic-period section."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica dura europos archaeology and history",
+    "recorded_title": "Encyclopaedia Iranica: Dura-Europos — Archaeology and History",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/dura-europos/dura-europos-i-archaeology-and-history/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "DURA EUROPOS i. Archaeology and History",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Pierre Leriche",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Pierre Leriche",
+      "published": "1996-12-15",
+      "modified": "2013-12-09",
+      "year": 1996,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. VII, Fasc. 6, pp. 589-594",
+      "print_locators": [
+        {
+          "volume_roman": "VII",
+          "fascicle": "6",
+          "pages": "589-594"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/dura-europos/dura-europos-i-archaeology-and-history/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica gondeshapur",
+    "recorded_title": "Encyclopaedia Iranica: Gondeshapur",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/gondesapur/gondesapur-ii-history-and-medical-school/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "GONDĒŠĀPUR ii. History and medical school",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Lutz Richter-Bernburg",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Lutz Richter-Bernburg",
+      "published": "2002-12-15",
+      "modified": "2018-09-25",
+      "year": 2002,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. XI, Fasc. 2, pp. 131-135",
+      "print_locators": [
+        {
+          "volume_roman": "XI",
+          "fascicle": "2",
+          "pages": "131-135"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/gondesapur/gondesapur-ii-history-and-medical-school/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica hatra",
+    "recorded_title": "Encyclopaedia Iranica: Hatra",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/hatra/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "HATRA",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Rüdiger Schmitt",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Rüdiger Schmitt",
+      "published": "2003-12-15",
+      "modified": "2013-06-06",
+      "year": 2003,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. XII, Fasc. 1, pp. 58-61",
+      "print_locators": [
+        {
+          "volume_roman": "XII",
+          "fascicle": "1",
+          "pages": "58-61"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/hatra/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in publisher-indexed source text; direct opening remained limited.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica herat iii history medieval period",
+    "recorded_title": "Encyclopaedia Iranica, Herat iii. History, Medieval Period",
+    "scope": [
+      "active_release",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/herat-iii/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "HERAT iii. HISTORY, MEDIEVAL PERIOD",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Maria Szuppe",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Maria Szuppe",
+      "published": "2003-12-15",
+      "modified": "2013-06-07",
+      "year": 2003,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. XII, Fasc. 2, pp. 206-211",
+      "print_locators": [
+        {
+          "volume_roman": "XII",
+          "fascicle": "2",
+          "pages": "206-211"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/herat-iii/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in publisher-indexed source text; direct opening remained limited.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica ionian revolt",
+    "recorded_title": "Encyclopaedia Iranica: Ionian Revolt",
+    "scope": [
+      "family_evidence_hold",
+      "historical_august_inventory",
+      "inactive_model_input_record"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/ionian-revolt/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "IONIAN REVOLT",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Ernst Badian",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Ernst Badian",
+      "published": "2004-12-15",
+      "modified": "2012-03-29",
+      "year": 2004,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. XIII, Fasc. 2, pp. 188-195",
+      "print_locators": [
+        {
+          "volume_roman": "XIII",
+          "fascicle": "2",
+          "pages": "188-195"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/ionian-revolt/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica peoples of iran pre islamic",
+    "recorded_title": "Encyclopaedia Iranica: Peoples of Iran, Pre-Islamic",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/iran-v2-peoples-pre-islamic/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "IRAN v. PEOPLES OF IRAN (2) Pre-Islamic",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Christopher J. Brunner",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Christopher J. Brunner",
+      "published": "2004-12-15",
+      "modified": "2016-04-01",
+      "year": 2004,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date.",
+      "print_detail_as_supplied": "Vol. XIII, Fasc. 3, pp. 326-336 and Vol. XIII, Fasc. 4, pp. 337-344",
+      "print_locators": [
+        {
+          "volume_roman": "XIII",
+          "fascicle": "3",
+          "pages": "326-336"
+        },
+        {
+          "volume_roman": "XIII",
+          "fascicle": "4",
+          "pages": "337-344"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/iran-v2-peoples-pre-islamic/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica samarqand history and archaeology",
+    "recorded_title": "Encyclopaedia Iranica, Samarqand: History and Archaeology",
+    "scope": [
+      "active_release",
+      "historical_august_inventory"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/samarqand-i/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "SAMARQAND i. HISTORY AND ARCHAEOLOGY",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Frantz Grenet",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Frantz Grenet",
+      "published": "2002-07-20",
+      "modified": "2013-04-22",
+      "year": 2002,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date."
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/samarqand-i/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts."
+    }
+  },
+  {
+    "work_id": "title:encyclopaedia iranica shapur i",
+    "recorded_title": "Encyclopaedia Iranica: Shapur I",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.iranicaonline.org/articles/shapur-i/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "encyclopedia_entry",
+      "title": "ŠĀPUR I: History",
+      "container_title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "metadata_accessed": "2026-09-09",
+      "authors": [
+        {
+          "literal": "Alireza Shapur Shahbazi",
+          "role": "publisher_displayed_article_byline"
+        }
+      ],
+      "displayed_byline_as_supplied": "Alireza Shapur Shahbazi",
+      "published": "2002-07-20",
+      "modified": "2018-02-20",
+      "year": 2002,
+      "year_basis": "Publisher page field labeled Published; not an independently checked first-print or first-online date."
+    },
+    "verification_urls": [
+      "https://www.iranicaonline.org/articles/shapur-i/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing encyclopedia article or section and retain its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Article/section identity, publisher date roles and explicit field/access gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "The publisher title, displayed article byline where present, labeled Published/Last Updated fields and any Print Detail were read in saved web-reader text.",
+      "metadata_limits": "Publisher-displayed metadata and indexed excerpts only; a complete current HTML download was not available. Article identity and field roles do not verify inherited historical claims, source passages or editions used in earlier notes. No external archival snapshot was obtained; the dated private captures preserve the consulted excerpts. The other Shapur URL has a different displayed update date and title spelling. Both IDs and both date values are retained; full body/version equivalence is unverified."
+    }
+  }
+]

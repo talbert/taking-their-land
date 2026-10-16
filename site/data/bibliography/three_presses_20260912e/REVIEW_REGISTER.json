@@ -1,0 +1,24 @@
+{
+  "build": "20260912e",
+  "metadata_records_updated": 3,
+  "original_ids_preserved": 1366,
+  "original_occurrences_preserved": 5875,
+  "records": [
+    {
+      "review_id": "bibliography_three_presses_20260912",
+      "work_ids": [
+        "title:reynolds 2006 the other side of the frontier",
+        "title:richmond 2013 the circassian genocide",
+        "title:thompson 2014 a history of south africa"
+      ],
+      "seal_sha256": "9ece73d2b8cbb85def433e0a4ad186b06f741ab2169f8f3cb29b49255e983d5f",
+      "decision_sha256": "e129590784a45bb20c19f28b98975ceeb8ed1623117379d779dfe5cb0c08a586",
+      "validation_sha256": "7d1d7afe48f3bf4deffc972362fc2b7ce5815a7970ddb37852d137e6601c4a6a",
+      "reviewed_at": "2026-09-12T07:13:16.153771+00:00",
+      "reviewer": "main_agent",
+      "independent_historical_review": false,
+      "known_fields": 33,
+      "unknown_fields": 1
+    }
+  ]
+}

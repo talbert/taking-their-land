@@ -1,0 +1,47 @@
+{
+  "build": "20260912g",
+  "required_registry_repairs": 3,
+  "registry_changes": 3,
+  "offered_refinements": 0,
+  "notes": [
+    "The existing Adhikari source label already distinguishes WebPDF 2014 and print 2010.",
+    "Lipson Science pp. 92–94 is an existing passage locator; article extent 92–95 does not require changing it.",
+    "The original King HRW/ECHR source-use bundle remains; the metadata identifies its different legacy access target.",
+    "Only the incorrect given names are replaced. Original source occurrences remain unchanged; the current registry and atlas labels carry the correction."
+  ],
+  "affected_case_count": 5,
+  "author_repairs": [
+    {
+      "source_id": "b35_ee1748254b10f0",
+      "original_title": "Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits",
+      "corrected_title": "Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits",
+      "url_unchanged": "https://www.openstarts.units.it/bitstream/10077/6083/1/ChiabaRomaPriscaeLatinaeColonie.pdf",
+      "case_ids": [
+        "gr-roman-pomptine-division-settlement-383-358",
+        "gr-roman-satricum-countercapture-382",
+        "gr-roman-satricum-roman-conquest-colony-386-385"
+      ],
+      "included_in_build": "20260912g"
+    },
+    {
+      "source_id": "b36_ee1748254b10f0",
+      "original_title": "Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 115-122, on Satricum and Setia",
+      "corrected_title": "Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 115-122, on Satricum and Setia",
+      "url_unchanged": "https://www.openstarts.units.it/bitstream/10077/6083/1/ChiabaRomaPriscaeLatinaeColonie.pdf",
+      "case_ids": [
+        "gr-roman-satricum-latin-burning-377"
+      ],
+      "included_in_build": "20260912g"
+    },
+    {
+      "source_id": "b37_ee1748254b10f0",
+      "original_title": "Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 115-116, on the distinct 346 Satricum destruction",
+      "corrected_title": "Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 115-116, on the distinct 346 Satricum destruction",
+      "url_unchanged": "https://www.openstarts.units.it/bitstream/10077/6083/1/ChiabaRomaPriscaeLatinaeColonie.pdf",
+      "case_ids": [
+        "gr-roman-satricum-roman-destruction-enslavement-346"
+      ],
+      "included_in_build": "20260912g"
+    }
+  ]
+}

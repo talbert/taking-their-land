@@ -1,0 +1,3669 @@
+{
+  "status": "accepted_review_provenance_for_candidate_publication",
+  "records_changed": 346,
+  "packets": [
+    {
+      "review_id": "bibliography_attalus_access_20260910",
+      "work_ids": [
+        "access:038635286588b2c5043d",
+        "access:0c3ba31451a8e8474ad6",
+        "access:87b436e125bacd5c8ed9",
+        "access:e18b64e10b2af7e2f234",
+        "url:attalus.org/bc1/year89.html",
+        "access:cbe9ad754079f540c268"
+      ],
+      "records": 6,
+      "seal_sha256": "386395dd18cc753ebb1475d575088b8d33e478324294221f408b2a8fec208824",
+      "decision_sha256": [
+        "0fc911a377dad87c176d5169b73578f27d258d38a09ae82fbd6a36188e20cbf0"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:038635286588b2c5043d",
+            "access:0c3ba31451a8e8474ad6",
+            "access:87b436e125bacd5c8ed9",
+            "access:cbe9ad754079f540c268",
+            "access:e18b64e10b2af7e2f234",
+            "url:attalus.org/bc1/year89.html"
+          ],
+          "accepted_required_source_corrections": [
+            "ATTALUS-GRANIUS-TELAMON-ANCHOR",
+            "ATTALUS-CHRONOLOGY-GENRE"
+          ],
+          "accepted_offered_source_refinements": [],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "ATTALUS-PLINY",
+            "ATTALUS-CICERO-II",
+            "ATTALUS-CICERO-III",
+            "ATTALUS-GRANIUS",
+            "ATTALUS-MEMNON",
+            "ATTALUS-CHRONOLOGY",
+            "ATTALUS-DATE-ROLES",
+            "ATTALUS-SITE-LIMITS",
+            "ATTALUS-DECODING",
+            "ATTALUS-ACCESS"
+          ],
+          "accepted_locator_check": "GRANIUS_LOCATOR_CHECK.json",
+          "preferred_questions": "EXPLICIT_QUESTIONS.json",
+          "new_preferred_fields_open": 4,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "work_ids": [
+        "access:99f919554a7e7a6bff9b",
+        "title:campbell an economic history of imperial madagascar 17501895",
+        "title:kenneth perkins a history of modern tunisia",
+        "title:ostler 2004 the plains sioux",
+        "title:the huguenots history and memory in transnational context"
+      ],
+      "records": 5,
+      "seal_sha256": "1cf23c2711f5c426e3ce239d6a9f619098ec94b59ecb0391e1ce62a5feaa1391",
+      "decision_sha256": [
+        "8a10383632117878c62388af3627af8829f079b7092e4cdf429d2b9bcd9bc453"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:99f919554a7e7a6bff9b",
+            "title:campbell an economic history of imperial madagascar 17501895",
+            "title:kenneth perkins a history of modern tunisia",
+            "title:ostler 2004 the plains sioux",
+            "title:the huguenots history and memory in transnational context"
+          ],
+          "accepted_required_source_corrections": [
+            "CA-HUGUENOTS-URL",
+            "CA-HUGUENOTS-TYPE"
+          ],
+          "accepted_offered_source_refinements": [
+            "CA-FULL-CITATION-0",
+            "CA-FULL-CITATION-1",
+            "CA-FULL-CITATION-2",
+            "CA-FULL-CITATION-3"
+          ],
+          "accepted_scope_notes": [
+            "CA-FORNARA-EDITION",
+            "CA-CAMPBELL-ROLE",
+            "CA-PERKINS-EDITION",
+            "CA-OSTLER-SCOPE",
+            "CA-HUGUENOTS-MISMATCH",
+            "CA-HUGUENOTS-CONTENTS",
+            "CA-DATES-IDENTIFIERS",
+            "CA-ACCESS-DISCLOSURES",
+            "CA-FUNDING-READING",
+            "CA-PRESERVATION"
+          ],
+          "new_preferred_fields_open": 4,
+          "open_passage_followups": [
+            "CA-FORNARA-25-26",
+            "CA-HUGUENOTS-PASSAGE"
+          ],
+          "uncheckable_nonmetadata_observation": "CA-FUNDING-READING",
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "Later successor may add metadata and scoped source repairs while retaining every original identity, URL, label and occurrence. Do not transplant Orchard into Trim, Perkins 2014 DOI into 2004, or chapter/review DOIs into book records. A proposed link identity is verified at publisher-index scope; current live access is not."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_dergipark_20260910",
+      "work_ids": [
+        "access:94b47a9f2e71467c8ef5",
+        "access:ac0614e0a0b5276d9058",
+        "access:df7cb49aa99688ef82eb",
+        "title:g boykov et al the process of sedentarization of semi nomadic groups of the yoruks in parts of 16th century ottoman rumeli dergipark"
+      ],
+      "records": 4,
+      "seal_sha256": "0f49cb6af19d071c66ce54b96740f95938da46151469b6b33c8890d38ce5b053",
+      "decision_sha256": [
+        "9f12e32eb5b170dc34828e3d7c9e6a12acbaa866ee1f9d47cf709474ae6e1f21"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:94b47a9f2e71467c8ef5",
+            "access:ac0614e0a0b5276d9058",
+            "access:df7cb49aa99688ef82eb",
+            "title:g boykov et al the process of sedentarization of semi nomadic groups of the yoruks in parts of 16th century ottoman rumeli dergipark"
+          ],
+          "accepted_required_source_corrections": [
+            "DERGIPARK-PETKOVA-BYLINE",
+            "DERGIPARK-TURGUT-BUNDLE-LABEL"
+          ],
+          "accepted_offered_source_refinements": [],
+          "accepted_scope_notes": [
+            "DERGIPARK-MUCHINOV",
+            "DERGIPARK-TURGUT",
+            "DERGIPARK-KARATAS",
+            "DERGIPARK-PETKOVA",
+            "DERGIPARK-DATES",
+            "DERGIPARK-TITLE-AND-CREDIT",
+            "DERGIPARK-IDENTIFIERS",
+            "DERGIPARK-DISCLOSURES",
+            "DERGIPARK-ACCESS",
+            "DERGIPARK-FLIGHT"
+          ],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "preferred_questions": "EXPLICIT_QUESTIONS.json",
+          "new_preferred_fields_open": 2,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "Repair derived bibliography display labels; preserve original stable IDs, recorded labels and all frozen occurrence records. Turgut’s accurate English registry label does not require replacement."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "work_ids": [
+        "access:14f5aa6d9726ba21b4cc",
+        "access:22ccce72987bbe57530f",
+        "access:3add8330036837f18b14",
+        "access:654f591ab791c847abcc",
+        "access:663c94b574f728149cde",
+        "access:86329afc194ce715310b",
+        "access:e6d8c5aec86a86ebd1c6",
+        "title:karl f friday pushing beyond the pale the yamato conquest of the emishi and northern japan journal of japanese studies 23 1 1997"
+      ],
+      "records": 8,
+      "seal_sha256": "90680c32ff3d5bb85f3469d6e164fa3ad5025a8069d77105915b1e0e1c1dff59",
+      "decision_sha256": [
+        "679a74154199a9cc36d3693c03fa8f3184f68285ccf105074d8150829b932ba7"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:14f5aa6d9726ba21b4cc",
+            "access:22ccce72987bbe57530f",
+            "access:3add8330036837f18b14",
+            "access:654f591ab791c847abcc",
+            "access:663c94b574f728149cde",
+            "access:86329afc194ce715310b",
+            "access:e6d8c5aec86a86ebd1c6",
+            "title:karl f friday pushing beyond the pale the yamato conquest of the emishi and northern japan journal of japanese studies 23 1 1997"
+          ],
+          "required_source_corrections": [
+            "EM-CITATION-0"
+          ],
+          "offered_source_refinements": [
+            "EM-CITATION-1",
+            "EM-CITATION-2",
+            "EM-CITATION-3",
+            "EM-CITATION-4",
+            "EM-CITATION-5",
+            "EM-CITATION-6",
+            "EM-CITATION-7"
+          ],
+          "new_preferred_fields_open": 3,
+          "open_questions": [
+            "EMISHI-RECORD-DATE-3",
+            "EMISHI-RECORD-DATE-5",
+            "EMISHI-RECORD-DATE-6"
+          ],
+          "source_followups": [
+            "EM-GRANT-OUTPUT-METADATA"
+          ],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "flight_assignments": 0,
+          "publication_application": false,
+          "application_rule": "Apply the Morioka copyright-year correction and reviewed metadata only in a later successor. Preserve all identities, occurrences, deposited/original roles and source reading limits. Friday’s complete extent is newly verified without rewriting its prior deposit. Three online record dates stay null; linked grant-output discrepancies remain open. The gap-scan candidate pointer resolution is technical and does not rehabilitate the superseded event."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_fordham_20260910",
+      "work_ids": [
+        "access:15449575773ee43a6e63",
+        "title:einhard life of charlemagne",
+        "url:sourcebooks.web.fordham.edu/ancient/appian-civwars1.asp"
+      ],
+      "records": 3,
+      "seal_sha256": "9f4f36757a02a72f048696a2b73e450bc535a3faa6a19f145e18f87a0fee8195",
+      "decision_sha256": [
+        "da4b3f5828a4c1fd4839c785e2375819ed7b94efdc6392951ad834623d043bae"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:15449575773ee43a6e63",
+            "title:einhard life of charlemagne",
+            "url:sourcebooks.web.fordham.edu/ancient/appian-civwars1.asp"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "FD-EINHARD-SECTION-7",
+            "FD-APPIAN-ANTHOLOGY-CREDIT"
+          ],
+          "accepted_scope_notes": [
+            "FD-IBERIA-INDEX",
+            "FD-EINHARD-ROLES",
+            "FD-EINHARD-PASSAGE",
+            "FD-APPIAN-CREDITS",
+            "FD-APPIAN-LOCATOR",
+            "FD-APPIAN-LIMITS",
+            "FD-DATES-HOST",
+            "FD-PERSPECTIVE-DISCLOSURES",
+            "FD-PRESERVATION"
+          ],
+          "new_preferred_fields_open": 1,
+          "new_open_passage_followups": [],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "Later successor may add typed metadata and optional citation precision, preserving all IDs, original labels/URLs, occurrences and existing case decisions. Preserve the Appian translator question, source anthology versus other editions, index versus linked chronicle, and template versus document dates."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_global_press_batwa_20260910",
+      "work_ids": [
+        "title:court ruling brings hope to a displaced people global press journal"
+      ],
+      "records": 1,
+      "seal_sha256": "0b7557898d414fc271142ce195552f85a9e20c30466b919169cf45c00c6d822e",
+      "decision_sha256": [
+        "e41c46d8f809b4ab7e92e20329e2dc976b6eb0eda59f0d187f5ccab946a8a5bc"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "title:court ruling brings hope to a displaced people global press journal"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "GP-FULL-ARTICLE-CREDIT"
+          ],
+          "accepted_scope_notes": [
+            "GP-IDENTITY",
+            "GP-DATES",
+            "GP-CREDITS",
+            "GP-COURT",
+            "GP-COUNTS",
+            "GP-ECHUYA",
+            "GP-TESTIMONY",
+            "GP-FUNDING",
+            "GP-FLIGHT",
+            "GP-JUDGMENT-LEADS"
+          ],
+          "accepted_bounded_passage_findings": [
+            "GP-RULING-IMPLEMENTATION",
+            "GP-POPULATION-SCOPE",
+            "GP-ECHUYA-TESTIMONY",
+            "GP-REFUGEE-COMPARISON"
+          ],
+          "local_source_locator_resolution": "LOCAL_LOCATOR_RESOLUTION.json",
+          "new_preferred_fields_open": 0,
+          "new_open_passage_followups": [
+            "GP-JUDGMENT-IDENTITY"
+          ],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "A later successor may add verified author/date/publication/translation/photo metadata and the offered citation. Preserve the stable ID, recorded source title/URL and occurrences. Use the actual gapscan candidate pointer when regenerating source context; retain the original recorded path as provenance. Ruling reporting is distinct from inspected judgment and completed restitution. No event, score or incoming-flight reclassification."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_hrw_20260909",
+      "work_ids": [
+        "access:3f3d879b414efc69b3ec",
+        "access:5689808385b03052000a",
+        "access:6281f722c68009cd657f",
+        "access:eb391b420da09ec05e9a",
+        "title:helsinki watch denying human rights and ethnic identity the greeks of turkey 1992",
+        "title:human rights watch 2004 n iraq",
+        "title:human rights watch 2009 syria",
+        "title:human rights watch enforced disappearances by pakistan security forces in balochistan",
+        "title:human rights watch evicted and forsaken after operation murambatsvina",
+        "title:human rights watch genocide in iraq the anfal campaign against the kurds",
+        "title:human rights watch helsinki punished peoples of the soviet union 1991",
+        "title:human rights watch helsinki the ingush ossetian conflict in the prigorodnyi region 1996",
+        "title:human rights watch hostages to peace threats and the 1988 isaaq clearance",
+        "title:human rights watch iraqi refugees asylum seekers and displaced persons",
+        "title:human rights watch kurds continue to be denied rights in turkey",
+        "title:human rights watch pakistan surge in forced returns of afghan refugees apr 2026",
+        "title:human rights watch pakistan widespread abuses force afghans to leave nov 2023",
+        "title:human rights watch playing the communal card in sri lanka",
+        "title:human rights watch the horn of africa war mass expulsions and the nationality issue",
+        "title:it s like killing culture human rights impacts of relocating tanzania s maasai human rights watch 2024"
+      ],
+      "records": 20,
+      "seal_sha256": "a1b076c39c8f2b48b1a23846edab2c392f95241ec83a2e00b4e84dd4d7007a0e",
+      "decision_sha256": [
+        "70d294eef065daaa60c564edc1f300044e64566a2ddec2b7bb639d2125696001"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_application_pending",
+          "records": [
+            {
+              "work_id": "access:3f3d879b414efc69b3ec",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/reports/pdfs/l/liberia/liberia0402.pdf"
+              ]
+            },
+            {
+              "work_id": "access:5689808385b03052000a",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/report/1994/12/01/seven-years-conflict-nagorno-karabakh",
+                "https://www.hrw.org/sites/default/files/reports/AZER%20Conflict%20in%20N-K%20Dec94.pdf",
+                "https://www.hrw.org/reports/pdfs/a/azerbjn/azerbaij94d.pdf"
+              ]
+            },
+            {
+              "work_id": "access:6281f722c68009cd657f",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/reports/1992/WR92/MEW2.htm",
+                "https://www.hrw.org/reports/1992/WR92/index.htm"
+              ]
+            },
+            {
+              "work_id": "access:eb391b420da09ec05e9a",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/reports/pdfs/a/azerbjn/azerbaij94d.pdf"
+              ]
+            },
+            {
+              "work_id": "title:helsinki watch denying human rights and ethnic identity the greeks of turkey 1992",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/sites/default/files/reports/TURKEY923.PDF"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch 2004 n iraq",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/report/2004/08/02/claims-conflict/reversing-ethnic-cleansing-northern-iraq",
+                "https://www.hrw.org/sites/default/files/reports/iraq0804.pdf"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch 2009 syria",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_personal_author_names"
+              ],
+              "verification_urls": [
+                "https://www.hrw.org/report/2009/11/26/group-denial/repression-kurdish-political-and-cultural-rights-syria",
+                "https://www.hrw.org/sites/default/files/reports/syria1109web_0.pdf"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch enforced disappearances by pakistan security forces in balochistan",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/report/2011/07/28/we-can-torture-kill-or-keep-you-years/enforced-disappearances-pakistan-security",
+                "https://www.hrw.org/sites/default/files/reports/pakistan0711WebInside.pdf"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch evicted and forsaken after operation murambatsvina",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/report/2005/12/01/zimbabwe-evicted-and-forsaken/internally-displaced-persons-aftermath-operation",
+                "https://www.hrw.org/sites/default/files/reports/zim1205webwcover.pdf"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch genocide in iraq the anfal campaign against the kurds",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/legacy/reports/1993/iraqanfal/ANFALINT.htm",
+                "https://www.hrw.org/reports/1993/iraqanfal/",
+                "https://www.hrw.org/reports/pdfs/i/iraq/iraq.937/anfalfull.pdf"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch helsinki punished peoples of the soviet union 1991",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/reports/pdfs/u/ussr/ussr.919/usssr919full.pdf"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch helsinki the ingush ossetian conflict in the prigorodnyi region 1996",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/report/1996/04/01/ingush-ossetian-conflict-prigorodnyi-regions",
+                "http://www.hrw.org/legacy/reports/1996/Russia.htm"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch hostages to peace threats and the 1988 isaaq clearance",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/report/2009/07/13/hostages-peace/threats-human-rights-and-democracy-somaliland",
+                "https://www.hrw.org/sites/default/files/reports/somaliland0709web.pdf"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch iraqi refugees asylum seekers and displaced persons",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/legacy/backgrounder/mena/iraq021203/2.htm",
+                "https://www.hrw.org/legacy/backgrounder/mena/iraq021203/index.htm"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch kurds continue to be denied rights in turkey",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/news/1999/05/28/turkey-kurds-continue-be-denied-political-and-cultural-rights"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch pakistan surge in forced returns of afghan refugees apr 2026",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/news/2026/04/21/pakistan-surge-in-forced-returns-of-afghan-refugees"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch pakistan widespread abuses force afghans to leave nov 2023",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/news/2023/11/28/pakistan-widespread-abuses-force-afghans-leave"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch playing the communal card in sri lanka",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/reports/1995/communal/",
+                "https://www.hrw.org/report/1995/04/01/playing-communal-card/communal-violence-and-human-rights",
+                "https://www.hrw.org/reports/pdfs/g/general/general954.pdf"
+              ]
+            },
+            {
+              "work_id": "title:human rights watch the horn of africa war mass expulsions and the nationality issue",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/report/2003/01/29/horn-africa-war/mass-expulsions-and-nationality-issue",
+                "https://www.hrw.org/sites/default/files/reports/ethioerit0103.pdf"
+              ]
+            },
+            {
+              "work_id": "title:it s like killing culture human rights impacts of relocating tanzania s maasai human rights watch 2024",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai",
+                "https://www.hrw.org/sites/default/files/media_2024/07/tanzania0724%20web.pdf"
+              ]
+            }
+          ]
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_iberia_journals_20260910",
+      "work_ids": [
+        "access:1c2625ab0d475e3b178a",
+        "access:918f5e1f2a77b99c594a",
+        "access:f1b23c42563afe922bf1"
+      ],
+      "records": 3,
+      "seal_sha256": "e1653881745c7b987cef24770f44bc0776578fbc26c6a8430868603669e534d4",
+      "decision_sha256": [
+        "53230fd438a9acaca3a5c45f618bb89477d7311f28ef7081dd58f5794f98f475"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:1c2625ab0d475e3b178a",
+            "access:918f5e1f2a77b99c594a",
+            "access:f1b23c42563afe922bf1"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "IJ-ACIEN-FULL-CREDIT",
+            "IJ-KONIG-FULL-CREDIT"
+          ],
+          "accepted_scope_notes": [
+            "IJ-ACIEN-IDENTITY",
+            "IJ-ACIEN-DATES",
+            "IJ-ACIEN-SCOPE",
+            "IJ-ACIEN-NOTICES",
+            "IJ-KONIG-IDENTITY",
+            "IJ-KONIG-SOURCE",
+            "IJ-KONIG-PROTECTIONS",
+            "IJ-ACCESS-LIMITS"
+          ],
+          "new_preferred_fields_open": 0,
+          "new_open_passage_followups": [],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "Later successor may add typed metadata and offered citation precision while preserving stable access IDs, original URLs/labels, occurrences and existing event/source qualifications. Do not backdate later settlement phases or expand treaty protections. Source-retrieval failures remain explicit."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "work_ids": [
+        "access:20477f6d7ca402ed50a0",
+        "access:317ff3c2e5b3b740b930",
+        "access:50ae2a3a60bfb463e9a6",
+        "access:90effe518ca5ba0549e2",
+        "access:96683d0d748d6002fb18",
+        "access:9ba3c7903ca7561faf2e",
+        "access:b891bd4e70d1164ce187",
+        "access:fa5d0cd67bdf6802769d"
+      ],
+      "records": 8,
+      "seal_sha256": "4aa0137dd0fbf30886d19bc1cfb0e541ecf21dc214361020bf1ef368c4d2ec4e",
+      "decision_sha256": [
+        "710eafa10725be8665b773ad0ef5b506898ea80c2f805c6885546f7760d05b4d"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:20477f6d7ca402ed50a0",
+            "access:317ff3c2e5b3b740b930",
+            "access:50ae2a3a60bfb463e9a6",
+            "access:90effe518ca5ba0549e2",
+            "access:96683d0d748d6002fb18",
+            "access:9ba3c7903ca7561faf2e",
+            "access:b891bd4e70d1164ce187",
+            "access:fa5d0cd67bdf6802769d"
+          ],
+          "required_source_corrections": [
+            "JP-CITATION-1"
+          ],
+          "offered_source_refinements": [
+            "JP-CITATION-0",
+            "JP-CITATION-2",
+            "JP-CITATION-3",
+            "JP-CITATION-4",
+            "JP-CITATION-5",
+            "JP-CITATION-6",
+            "JP-CITATION-7"
+          ],
+          "new_preferred_fields_open": 4,
+          "open_questions": [
+            "JP-SITE-DATE-100712",
+            "JP-SITE-DATE-59040",
+            "JP-SITE-DATE-167927",
+            "JP-SITE-DATE-137986"
+          ],
+          "open_access_questions": [
+            "JP-ISAWA-FRESH-BODY"
+          ],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "flight_assignments": 0,
+          "publication_application": false,
+          "application_rule": "Use the actual article titles and known metadata in a later successor. Preserve all paired access identities, original titles/URLs/occurrences and existing abstract locators. Four site-record dates stay null. Retain Isawa indexed-access limits; linked report metadata must not be assigned as the site record’s author/date. No historical outcome or map change follows from this main metadata acceptance."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_jstor_20260910",
+      "work_ids": [
+        "access:37e18641e8605a86da0d",
+        "access:412e700bf2022649318f",
+        "access:431fd3d05c412cea5640",
+        "access:571c710fbadc92eecf15",
+        "access:7f5914ad80b7b30d59f7",
+        "access:836d9da638a600f0fcb0",
+        "access:f8866da9a46ee8629238",
+        "access:f9b08fbcbbd89c868652",
+        "title:hittite movement and resettlement synthesis",
+        "title:miescher a dam for africa akosombo stories from ghana indiana up 2022"
+      ],
+      "records": 10,
+      "seal_sha256": "71bf3c231ffe9e17b0b0a3154ff81120cf79526f23b98136cd5b48d5012b9192",
+      "decision_sha256": [
+        "e2ff945fbeec3246f0fe45e2052b8a8565fc2b44ed329e80d08a16b58505ddcc"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:37e18641e8605a86da0d",
+            "access:412e700bf2022649318f",
+            "access:431fd3d05c412cea5640",
+            "access:571c710fbadc92eecf15",
+            "access:7f5914ad80b7b30d59f7",
+            "access:836d9da638a600f0fcb0",
+            "access:f8866da9a46ee8629238",
+            "access:f9b08fbcbbd89c868652",
+            "title:hittite movement and resettlement synthesis",
+            "title:miescher a dam for africa akosombo stories from ghana indiana up 2022"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "b23_079e12b629f834"
+          ],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "JS-ACCESS-PAIR",
+            "JS-ORTEGA-CONTAINER",
+            "JS-DATE-ROLES",
+            "JS-ASHOKA-EXTENT",
+            "JS-COSA-CREDIT",
+            "JS-COSA-LIMITS",
+            "JS-CHAPTER-ACCESS",
+            "JS-PRIOR-HISTORY",
+            "JS-DOI-COSA-LIMIT",
+            "JS-MIESCHER-FORMATS"
+          ],
+          "new_preferred_fields_open": 1,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_landry_20260910",
+      "work_ids": [
+        "access:e55141b13c3a93cacce5",
+        "title:material culture review the acadian refugee settlement of saint pierre and miquelon"
+      ],
+      "records": 2,
+      "seal_sha256": "ed28dcd1ab0872d517dea1ed056337ae4b76c4b329eecde3cf7a9169fa3cae56",
+      "decision_sha256": [
+        "fb31cc1c2ef651e509ff6e05f4c0e8ff8e49b347db11bced728eaf3274e76f71"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:e55141b13c3a93cacce5",
+            "title:material culture review the acadian refugee settlement of saint pierre and miquelon"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "LD-FULL-ARTICLE-CREDIT"
+          ],
+          "accepted_scope_notes": [
+            "LD-IDENTITY",
+            "LD-DATES",
+            "LD-DOI-PUBLISHER",
+            "LD-SOURCE-DESIGN",
+            "LD-1778-LOCUS",
+            "LD-RETURN-LOCUS",
+            "LD-DATE-CONFLICT",
+            "LD-FLIGHT-SCOPE",
+            "LD-DISCLOSURES"
+          ],
+          "accepted_bounded_passage_findings": [
+            "LD-1778-FRANCE",
+            "LD-1783-INTENTION",
+            "LD-1791-DISCLOSED"
+          ],
+          "new_preferred_fields_open": 0,
+          "new_open_passage_followups": [],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "A later successor may add typed metadata and the fuller citation with case-specific page locators. Preserve stable access IDs, original URLs/labels and occurrences. Retain separate issue/online dates, the one-day online date discrepancy, the already-disclosed 1791 statement and incomplete return/population evidence. Do not infer a new incoming-flight assignment."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_lexundria_20260910",
+      "work_ids": [
+        "access:15ead7a393db40375fd6",
+        "access:34e07e8782a90c950fc5",
+        "access:631c29434f8386d2dfd2",
+        "access:d79ad679a7b75ea5cc00",
+        "title:herodotus 5 98",
+        "url:lexundria.com/dio/53.25/cy"
+      ],
+      "records": 6,
+      "seal_sha256": "4314e81f91dbb3cb6a4bfc3f6356d567a9a81387cc1de262ae21dd1adde8fcff",
+      "decision_sha256": [
+        "622deb57473b0ff1953bae34f5b971a6c28ea2681ec5b7bcaa6d3af10258c404"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:15ead7a393db40375fd6",
+            "access:34e07e8782a90c950fc5",
+            "access:631c29434f8386d2dfd2",
+            "access:d79ad679a7b75ea5cc00",
+            "title:herodotus 5 98",
+            "url:lexundria.com/dio/53.25/cy"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "LEX-PLUTARCH-ROUTES",
+            "LEX-PLUTARCH-SCOPE",
+            "LEX-HERODOTUS-523",
+            "LEX-HERODOTUS-598",
+            "LEX-SALLUST",
+            "LEX-DIO",
+            "LEX-EDITION-DATES",
+            "LEX-DISCLOSURE-ACCESS"
+          ],
+          "accepted_route_comparison": "PLUTARCH_ROUTE_COMPARISON.json",
+          "preferred_questions": "EXPLICIT_QUESTIONS.json",
+          "new_preferred_fields_open": 2,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_livius_20260910",
+      "work_ids": [
+        "access:92fbd8c01e03bcb6ec23",
+        "access:bb46180256bea83c8208",
+        "url:livius.org/sources/content/livy/livy-periochae-51-55"
+      ],
+      "records": 3,
+      "seal_sha256": "04adc5a7e3703faee3170c662440a51496c695a9ffe75eb0f764f2f334e48976",
+      "decision_sha256": [
+        "92410ad451a0cf562e57ab3fb356b17df69e362c912d4d1fa52fd1e99c24e53f"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:92fbd8c01e03bcb6ec23",
+            "access:bb46180256bea83c8208",
+            "url:livius.org/sources/content/livy/livy-periochae-51-55"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "LIVIUS-PERIOCHAE-SALASSIAN-LOCATOR"
+          ],
+          "accepted_scope_notes": [
+            "LIVIUS-APPIAN",
+            "LIVIUS-PHILOSTRATUS",
+            "LIVIUS-PERIOCHAE",
+            "LIVIUS-EPITOME",
+            "LIVIUS-LANGUAGE",
+            "LIVIUS-DATES",
+            "LIVIUS-LOCATORS",
+            "LIVIUS-SITE",
+            "LIVIUS-ACCESS"
+          ],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "preferred_questions": "EXPLICIT_QUESTIONS.json",
+          "new_preferred_fields_open": 3,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_livy_mirror_20260909",
+      "work_ids": [
+        "access:9c1e593a698d81a0c559",
+        "access:a7e252f0f6032acf8d68",
+        "access:a8117dc8c311540f07e4",
+        "access:aa572e746ddad408d906",
+        "title:livy 41 luna allotments on ligurian land",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_02.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_03.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_04.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_05.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_06.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_07.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_31.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_36.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_37.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_39.htm",
+        "url:swartzentrover.com/cotor/e-books/misc/livy/hor_40.htm"
+      ],
+      "records": 16,
+      "seal_sha256": "47fcc30bb855ac1fddb5c830460cf5359fa7f7d340d45113de40fbc40e36554f",
+      "decision_sha256": [
+        "c7883b53d66e51bc59ac46626bd4dc48c223ac8cc246b4cf3319cb55f8cad6a7"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "records": [
+            {
+              "work_id": "access:9c1e593a698d81a0c559",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L00",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/HOR_04.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "access:a7e252f0f6032acf8d68",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L01",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_39.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "access:a8117dc8c311540f07e4",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L02",
+              "verification_urls": [
+                "https://swartzentrover.com/cotor/E-Books/misc/Livy/HOR_02.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "access:aa572e746ddad408d906",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L03",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_33.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "title:livy 41 luna allotments on ligurian land",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L04",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/HOR_41.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_02.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L05",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_02.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_03.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L06",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_03.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_04.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L07",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_04.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_05.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L08",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_05.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_06.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L09",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_06.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_07.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L10",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_07.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_31.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L11",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/livy/HOR_31.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_36.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L12",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/HOR_36.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_37.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L13",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/e-books/misc/Livy/HOR_37.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_39.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L14",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/HOR_39.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            },
+            {
+              "work_id": "url:swartzentrover.com/cotor/e-books/misc/livy/hor_40.htm",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "L15",
+              "verification_urls": [
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/HOR_40.htm",
+                "https://www.swartzentrover.com/cotor/E-Books/misc/Livy/main.htm"
+              ],
+              "new_preferred_fields_open": 1,
+              "shared_issue_id": "mirror_print_edition_identity"
+            }
+          ],
+          "shared_edition_questions": 1,
+          "new_preferred_fields_open": 16,
+          "separate_structure_questions": 1,
+          "historical_disposition_changes": 0,
+          "current_label_or_url_changes": 0
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_loc_20260910",
+      "work_ids": [
+        "access:3717309e8f1c5f0a0f9b",
+        "access:a18b14a44f3e9cac4fc2",
+        "access:ea18db86947acb8335c6",
+        "title:migration histories of the medieval afroeurasian transition zone"
+      ],
+      "records": 4,
+      "seal_sha256": "e0f2601684a6a722f1a9a844b67b85654d7adf0d44e909d50e20eda676af3f1d",
+      "decision_sha256": [
+        "3224b08c9d6bd7f3ba4c950e36859cf1240c5af417a78f12070316c4f1c37718"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:3717309e8f1c5f0a0f9b",
+            "access:a18b14a44f3e9cac4fc2",
+            "access:ea18db86947acb8335c6",
+            "title:migration histories of the medieval afroeurasian transition zone"
+          ],
+          "accepted_required_source_corrections": [
+            "LOC-CAMODECA-CITATION-LABEL",
+            "LOC-THEIN-PDF-OFFSET"
+          ],
+          "accepted_offered_source_refinements": [
+            "LOC-MIGRATION-CHAPTER-LOCATOR"
+          ],
+          "accepted_scope_notes": [
+            "LOC-ALSTOLA-EDITION",
+            "LOC-THEIN-DATES-PAGES",
+            "LOC-CAMODECA-SCOPE",
+            "LOC-NOLA-CORRECTION",
+            "LOC-VOLATERRAE",
+            "LOC-MIGRATION-CHAPTER",
+            "LOC-CREDITS-SERIES",
+            "LOC-DISCLOSURES",
+            "LOC-IDENTIFIERS",
+            "LOC-ACCESS-LIMITS"
+          ],
+          "new_preferred_fields_open": 1,
+          "open_passage_followups": [
+            "LOC-NOLA-INSCRIPTION-DATE"
+          ],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "Apply identities and scoped citation/locator repairs in a later successor. Preserve all stable IDs, original labels, frozen source notes and historical occurrences. Do not alter Nola’s date without the separate source follow-up and required review."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "work_ids": [
+        "title:beyond just conservation a history of maasai dispossession minority rights group",
+        "title:indo fijians in the fiji islands minority rights group",
+        "title:minority rights group baluchis in afghanistan and the cross border region",
+        "title:minority rights group mongols",
+        "title:minority rights group sahrawis"
+      ],
+      "records": 5,
+      "seal_sha256": "879f9e46db16efab74cb00f24f95d49719b79094515a3e9575cb5f65f0eced6d",
+      "decision_sha256": [
+        "b0f6cc5d0326f263c7d1c6c07bb39a63fefe14071e3e6435049a8c6133af0d3b"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "title:beyond just conservation a history of maasai dispossession minority rights group",
+            "title:indo fijians in the fiji islands minority rights group",
+            "title:minority rights group baluchis in afghanistan and the cross border region",
+            "title:minority rights group mongols",
+            "title:minority rights group sahrawis"
+          ],
+          "accepted_required_source_corrections": [
+            "MRG-SAHARAWIS-BROKEN-LINK"
+          ],
+          "accepted_offered_source_refinements": [
+            "MRG-BALUCHIS-EXACT-TITLE",
+            "MRG-MONGOLS-EXACT-TITLE"
+          ],
+          "accepted_scope_notes": [
+            "MRG-MAASAI",
+            "MRG-FIJI",
+            "MRG-BALUCHIS",
+            "MRG-MONGOLS",
+            "MRG-SAHARAWIS-ACCESS",
+            "MRG-SAHARAWIS-PASSAGE",
+            "MRG-DATE-ROLES",
+            "MRG-WRITER-ROLES",
+            "MRG-FUNDING",
+            "MRG-ACCESS",
+            "MRG-FLIGHT"
+          ],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "preferred_questions": "EXPLICIT_QUESTIONS.json",
+          "related_source_candidate": "RELATED_SOURCE_CANDIDATE.json",
+          "replacement_identity_added_to_composite": false,
+          "replacement_integration_requirement": "At later citation integration, explicitly introduce/reconcile Western Sahara country-profile identity and label/date; preserve the original Saharawis work and historical occurrences. No silent overwrite or transfer of its date.",
+          "new_preferred_fields_open": 7,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_mozarabic_chronicle_20260910",
+      "work_ids": [
+        "access:9e7a4f7ce287d8533fec"
+      ],
+      "records": 1,
+      "seal_sha256": "43e32234997d006683bfac8b14a156f9e642c4d92f01453f12c007aafc0bcd4f",
+      "decision_sha256": [
+        "05a552fec31d4cf8372701659428bcba428b91a5a0604325506f0d688aab777c"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:9e7a4f7ce287d8533fec"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "MC-TRANSLATION-CREDIT"
+          ],
+          "accepted_scope_notes": [
+            "MC-ROLES",
+            "MC-VERSIONS",
+            "MC-EDITION",
+            "MC-BOUNDARY",
+            "MC-PERSPECTIVE",
+            "MC-DISCLOSURES"
+          ],
+          "new_preferred_fields_open": 1,
+          "new_open_passage_followups": [],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "Later successor may add typed metadata and offered translation/version credit while preserving all stable identities, original URLs/labels, occurrences and event exclusions. The Latin edition remains unknown and Gil numbering mediated."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_mukasa_deusto_20260910",
+      "work_ids": [
+        "title:the batwa indigenous people in uganda and their detachment from forest livelihood land eviction and social plight deusto journal of human rights"
+      ],
+      "records": 1,
+      "seal_sha256": "78378e1e3d6e78952494fb7ba261169cc88fc62ac34a51c0cfa0cebddf0e45ac",
+      "decision_sha256": [
+        "d88fe8c74b70b0cd5cbcac67b3f7666c935b4e966232f02aede14522fcedaf90"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "title:the batwa indigenous people in uganda and their detachment from forest livelihood land eviction and social plight deusto journal of human rights"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "MD-FULL-ARTICLE-CREDIT"
+          ],
+          "accepted_scope_notes": [
+            "MD-IDENTITY",
+            "MD-DATES",
+            "MD-JOURNAL",
+            "MD-METHOD",
+            "MD-LOCATORS",
+            "MD-CHRONOLOGY",
+            "MD-ECHUYA",
+            "MD-DISCLOSURES",
+            "MD-FLIGHT"
+          ],
+          "accepted_bounded_passage_findings": [
+            "MD-PARK-DATES",
+            "MD-MAP-SCOPE",
+            "MD-COMPENSATION-TIME"
+          ],
+          "new_preferred_fields_open": 0,
+          "new_open_passage_followups": [],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "A later successor may add the exact printed title, original journal/issue and separately labelled host/online metadata plus precise figure/table locators. Preserve the stable ID, original recorded label/URL and occurrences. Gazette dates are not household eviction dates; later funding/compensation and Echuya boundaries retain their distinct roles. No historical, scientific or incoming-flight reclassification."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_myanmar_un_20260911",
+      "work_ids": [
+        "access:6b2d0f832e3ef0883b3d",
+        "access:8840015091528104460a",
+        "access:924fdbd44d2840f80551",
+        "access:9959e2592f39f5c3da71"
+      ],
+      "records": 4,
+      "seal_sha256": "57595c78ad7b53f357f81446803c66e2281ea94aab641d4d5d5fc1fc89d94ba8",
+      "decision_sha256": [
+        "cbc0b0f47769b5f9893ea2961ea1d442edbbc71bd178e2d27bc9fb398e6144f3"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:6b2d0f832e3ef0883b3d",
+            "access:8840015091528104460a",
+            "access:924fdbd44d2840f80551",
+            "access:9959e2592f39f5c3da71"
+          ],
+          "accepted_required_source_corrections": [
+            "MM-CITATION-0",
+            "MM-CITATION-1",
+            "MM-CITATION-2",
+            "MM-CITATION-3"
+          ],
+          "accepted_scope_notes": [
+            "MM-IDENTITY-ROLES",
+            "MM-DATES",
+            "MM-METHOD",
+            "MM-FLASH-LIMIT",
+            "MM-KAYAH",
+            "MM-RAKHINE",
+            "MM-SHAN",
+            "MM-COUNT-SCOPES"
+          ],
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "flight_assignments": 0,
+          "publication_application": false,
+          "application_rule": "Apply the four document-specific display citations and typed fields in a later successor. Preserve stable IDs, original bundled labels, URLs and all source occurrences. Keep report dates, posting dates and cutoffs distinct. Retain the correct Update 42 page 3 locator. No new event endpoint, cohort total, score or incoming-flight classification follows from this main metadata review."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_nature_20260909",
+      "work_ids": [
+        "access:a62ecae8e1b52b7db889",
+        "access:b1cda7e2da9fefb6dc92",
+        "title:allentoft et al 2024 100 ancient genomes show repeated population turnovers in neolithic denmark nature 625 329 337",
+        "title:allentoft et al 2024 population genomics of post glacial western eurasia nature 625 301 311",
+        "title:brace et al 2019 nature ecology evolution",
+        "title:fernandes et al 2021 nature",
+        "title:gretzinger et al 2022 nature",
+        "title:gretzinger et al 2025 nature",
+        "title:haak et al 2015 nature",
+        "title:kanzawa kiriyama et al 2017 j human genetics",
+        "title:lazaridis et al 2014 nature",
+        "title:lipson et al 2014 reconstructing austronesian population history in island southeast asia nature communications 5 4689",
+        "title:neparaczki et al 2019 scientific reports",
+        "title:olalde et al 2018 the beaker phenomenon nature",
+        "title:reich et al 2009 nature",
+        "title:schiffels et al 2016 nature communications",
+        "title:sedimentary dna and molecular evidence for early human occupation of the faroe islands"
+      ],
+      "records": 17,
+      "seal_sha256": "4db7cdcd411421fba99ed8c98e42b64ea291e1b2378103286b783d40a7e52ab0",
+      "decision_sha256": [
+        "34495096167f1680b51e563456e8a56a1f5e8bce024da7a229eefcb6d337de8d"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "records": [
+            {
+              "work_id": "access:a62ecae8e1b52b7db889",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N00",
+              "verification_urls": [
+                "https://www.nature.com/articles/s42003-025-09471-0",
+                "https://doi.org/10.1038/s42003-025-09471-0"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:b1cda7e2da9fefb6dc92",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N01",
+              "verification_urls": [
+                "https://www.nature.com/articles/s41467-018-02825-9",
+                "https://doi.org/10.1038/s41467-018-02825-9"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:allentoft et al 2024 100 ancient genomes show repeated population turnovers in neolithic denmark nature 625 329 337",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N02",
+              "verification_urls": [
+                "https://www.nature.com/articles/s41586-023-06862-3",
+                "https://doi.org/10.1038/s41586-023-06862-3"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:allentoft et al 2024 population genomics of post glacial western eurasia nature 625 301 311",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N03",
+              "verification_urls": [
+                "https://www.nature.com/articles/s41586-023-06865-0",
+                "https://doi.org/10.1038/s41586-023-06865-0"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:brace et al 2019 nature ecology evolution",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N04",
+              "verification_urls": [
+                "https://www.nature.com/articles/s41559-019-0871-9",
+                "https://doi.org/10.1038/s41559-019-0871-9"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:fernandes et al 2021 nature",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N05",
+              "verification_urls": [
+                "https://www.nature.com/articles/s41586-020-03053-2",
+                "https://doi.org/10.1038/s41586-020-03053-2"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:gretzinger et al 2022 nature",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N06",
+              "verification_urls": [
+                "https://www.nature.com/articles/s41586-022-05247-2",
+                "https://doi.org/10.1038/s41586-022-05247-2"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:gretzinger et al 2025 nature",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N07",
+              "verification_urls": [
+                "https://www.nature.com/articles/s41586-025-09437-6",
+                "https://doi.org/10.1038/s41586-025-09437-6"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:haak et al 2015 nature",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N08",
+              "verification_urls": [
+                "https://www.nature.com/articles/nature14317",
+                "https://doi.org/10.1038/nature14317"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:kanzawa kiriyama et al 2017 j human genetics",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N09",
+              "verification_urls": [
+                "https://www.nature.com/articles/jhg2016110",
+                "https://doi.org/10.1038/jhg.2016.110"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:lazaridis et al 2014 nature",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N10",
+              "verification_urls": [
+                "https://www.nature.com/articles/nature13673",
+                "https://doi.org/10.1038/nature13673"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:lipson et al 2014 reconstructing austronesian population history in island southeast asia nature communications 5 4689",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N11",
+              "verification_urls": [
+                "https://www.nature.com/articles/ncomms5689",
+                "https://doi.org/10.1038/ncomms5689"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:neparaczki et al 2019 scientific reports",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N12",
+              "verification_urls": [
+                "https://www.nature.com/articles/s41598-019-53105-5",
+                "https://doi.org/10.1038/s41598-019-53105-5"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:olalde et al 2018 the beaker phenomenon nature",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N13",
+              "verification_urls": [
+                "https://www.nature.com/articles/nature25738",
+                "https://doi.org/10.1038/nature25738"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:reich et al 2009 nature",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N14",
+              "verification_urls": [
+                "https://www.nature.com/articles/nature08365",
+                "https://doi.org/10.1038/nature08365"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:schiffels et al 2016 nature communications",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N15",
+              "verification_urls": [
+                "https://www.nature.com/articles/ncomms10408",
+                "https://doi.org/10.1038/ncomms10408"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:sedimentary dna and molecular evidence for early human occupation of the faroe islands",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "N16",
+              "verification_urls": [
+                "https://www.nature.com/articles/s43247-021-00318-0",
+                "https://doi.org/10.1038/s43247-021-00318-0"
+              ],
+              "new_preferred_fields_open": 0
+            }
+          ],
+          "proposed_title_corrections": 1,
+          "new_preferred_fields_open": 0,
+          "separate_passage_followups": 2
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_ohchr_20260911",
+      "work_ids": [
+        "title:ohchr forced displacement from ukrainian territory occupied by the russian federation 20222025",
+        "title:ohchr special procedures communication on executions of baluch people in iran",
+        "title:un committee on economic social and cultural rights operation wuambushu in mayotte",
+        "title:un human rights 2024 crimea",
+        "title:un special procedures communication on bedouin displacement in the negev naqab",
+        "title:un special procedures communication on tibetan residential schools"
+      ],
+      "records": 6,
+      "seal_sha256": "4c18561a6f94cd545d931c0d70af18e802dd58602c8457a0ec983c4888fe0d80",
+      "decision_sha256": [
+        "76cd7526afaed7f25387afbf5067ee715dad4caceb37ff042e60149628ee473a"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "title:ohchr forced displacement from ukrainian territory occupied by the russian federation 20222025",
+            "title:ohchr special procedures communication on executions of baluch people in iran",
+            "title:un committee on economic social and cultural rights operation wuambushu in mayotte",
+            "title:un human rights 2024 crimea",
+            "title:un special procedures communication on bedouin displacement in the negev naqab",
+            "title:un special procedures communication on tibetan residential schools"
+          ],
+          "required_source_corrections": [],
+          "offered_source_refinements": [
+            "OH-CITATION-0",
+            "OH-CITATION-1",
+            "OH-CITATION-2",
+            "OH-CITATION-3",
+            "OH-CITATION-4",
+            "OH-CITATION-5"
+          ],
+          "new_preferred_fields_open": 0,
+          "open_questions": [],
+          "source_followups": [],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "flight_assignments": 0,
+          "publication_application": false,
+          "application_rule": "Use the verified exact titles, references, dates and signatory roles in a later successor while retaining descriptive labels and all source identities/occurrences. Six fuller labels are offered, not required historical repairs. Preserve conditional allegations, recommendations versus implementation, distinct populations and the inactive Tibet disposition."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_openedition_20260910",
+      "work_ids": [
+        "access:679baba66af91881525a",
+        "access:d21fd8295b70f2423e38",
+        "title:haldon a context for two evil deeds",
+        "url:books.openedition.org/cdf/4272?lang=en",
+        "url:books.openedition.org/pccj/120?format=embed",
+        "url:books.openedition.org/psorbonne/23968?lang=fr",
+        "url:books.openedition.org/pur/199839"
+      ],
+      "records": 7,
+      "seal_sha256": "583e55d7cf9c3239b972ee77771a01de1b5c92e4891771697d94f7a6d6e5e48c",
+      "decision_sha256": [
+        "fcbb05143a1419eaa4a8fbca4b107321f702639a4c7c47daa7e1cc8d2b18e32b"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:679baba66af91881525a",
+            "access:d21fd8295b70f2423e38",
+            "title:haldon a context for two evil deeds",
+            "url:books.openedition.org/cdf/4272?lang=en",
+            "url:books.openedition.org/pccj/120?format=embed",
+            "url:books.openedition.org/psorbonne/23968?lang=fr",
+            "url:books.openedition.org/pur/199839"
+          ],
+          "accepted_required_source_corrections": [
+            "b47_nola_cil_fe7f15fa3f"
+          ],
+          "accepted_offered_source_refinements": [
+            "b47_nola_cil_fe7f15fa3f",
+            "v5_roman_salassi_openedition",
+            "b17_d6613b8ac288d5",
+            "b17_f26e3e46f8b3c7",
+            "b15_venusia_openedition"
+          ],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "OE-DOI-ROLES",
+            "OE-DATE-ROLES",
+            "OE-PAGE-ROLES",
+            "OE-NOLA-NAME",
+            "OE-NOLA-LOCATOR",
+            "OE-MINTURNAE-LANGUAGE",
+            "OE-SEGARD-PUBLISHERS",
+            "OE-HERMON-REDIRECT",
+            "OE-FUNDING",
+            "OE-PRIOR-HISTORY",
+            "OE-ACCESS-RIGHTS"
+          ],
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_oracc_20260909",
+      "work_ids": [
+        "access:45f09446fa2e40761cfc",
+        "url:oracc.museum.upenn.edu/riao/q004455",
+        "url:oracc.museum.upenn.edu/riao/q004534",
+        "url:oracc.museum.upenn.edu/riao/q004536",
+        "url:oracc.museum.upenn.edu/riao/q004539",
+        "url:oracc.museum.upenn.edu/riao/q004544",
+        "url:oracc.museum.upenn.edu/riao/q004545",
+        "url:oracc.museum.upenn.edu/riao/q004608",
+        "url:oracc.museum.upenn.edu/riao/q004610",
+        "url:oracc.museum.upenn.edu/riao/q004611",
+        "url:oracc.museum.upenn.edu/riao/q004613",
+        "url:oracc.museum.upenn.edu/riao/q004619",
+        "url:oracc.museum.upenn.edu/riao/q004621",
+        "url:oracc.museum.upenn.edu/riao/q004738",
+        "url:oracc.museum.upenn.edu/riao/q004739",
+        "url:oracc.museum.upenn.edu/riao/q004741",
+        "url:oracc.museum.upenn.edu/rinap/downloads/novotny_jeffers_rinap_5_1.pdf",
+        "url:oracc.museum.upenn.edu/rinap/downloads/tadmor_yamada_rinap_1.pdf",
+        "url:oracc.museum.upenn.edu/rinap/q003231",
+        "url:oracc.museum.upenn.edu/rinap/q003434",
+        "url:oracc.museum.upenn.edu/rinap/rinap1/q006333/html",
+        "url:oracc.museum.upenn.edu/rinap/rinap2/q006482",
+        "url:oracc.museum.upenn.edu/rinap/rinap2/q006590",
+        "url:oracc.museum.upenn.edu/rinap/rinap3/q003496",
+        "url:oracc.museum.upenn.edu/rinap/rinap3/q003943",
+        "url:oracc.museum.upenn.edu/rinap/rinap5/q003708",
+        "url:oracc.museum.upenn.edu/saao/aebp/essentials/countries/israel",
+        "url:oracc.museum.upenn.edu/saao/aebp/essentials/governors/massdeportation"
+      ],
+      "records": 28,
+      "seal_sha256": "48c228a86ba5d6ff31e0431a11196affca62526e0bd53dea29dd46506d8f2d36",
+      "decision_sha256": [
+        "f309e7f9891bf2438a895aae0de3693c6a9d0f21df1ac287ac5fb00da5818d75"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_application_pending",
+          "records": [
+            {
+              "work_id": "access:45f09446fa2e40761cfc",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004455/html"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004455",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004455"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004534",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004534"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004536",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004536"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004539",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004539"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004544",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004544"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004545",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004545"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004608",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004608"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004610",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004610"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004611",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004611"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004613",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004613"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004619",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004619"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004621",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004621"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004738",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004738"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004739",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004739"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/riao/q004741",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/riao/Q004741"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/downloads/novotny_jeffers_rinap_5_1.pdf",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_exact_pdf_edition_equivalence"
+              ],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/downloads/Novotny_Jeffers_RINAP_5_1.pdf",
+                "https://www.eisenbrauns.org/books/titles/978-1-57506-997-5.html"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/downloads/tadmor_yamada_rinap_1.pdf",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_exact_pdf_edition_equivalence"
+              ],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/downloads/Tadmor_Yamada_RINAP_1.pdf",
+                "https://www.eisenbrauns.org/books/titles/978-1-57506-220-4.html",
+                "https://api.crossref.org/works/10.5325/j.ctv1bxh207"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/q003231",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/Q003231"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/q003434",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/Q003434"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/rinap1/q006333/html",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/rinap1/Q006333/html"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/rinap2/q006482",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/rinap2/Q006482"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/rinap2/q006590",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/rinap2/Q006590"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/rinap3/q003496",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/rinap3/Q003496"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/rinap3/q003943",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/rinap3/Q003943"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/rinap/rinap5/q003708",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/rinap/rinap5/Q003708"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/saao/aebp/essentials/countries/israel",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_original_publication_year"
+              ],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/saao/aebp/essentials/countries/israel/"
+              ]
+            },
+            {
+              "work_id": "url:oracc.museum.upenn.edu/saao/aebp/essentials/governors/massdeportation",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_original_publication_year"
+              ],
+              "verification_urls": [
+                "https://oracc.museum.upenn.edu/saao/aebp/essentials/governors/massdeportation/"
+              ]
+            }
+          ]
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_oup_academic_20260910",
+      "work_ids": [
+        "access:1d8c37a099f2da798424",
+        "access:6c6f967b77de37f5bfe3",
+        "access:9b951aa01e41747afb7b",
+        "access:b1f2d0489b1a6a53f84f",
+        "access:eaee91f3aa1099a94878",
+        "title:from empire to exile pied noir and harki communities 19622012",
+        "title:kaymak the jewish community in modern and contemporary turkey",
+        "title:property confiscation in the zanzibar revolution"
+      ],
+      "records": 8,
+      "seal_sha256": "61a2f5aafad483bcc07a2e4dc054a02b03a5e64bac82cf127925651904ca935a",
+      "decision_sha256": [
+        "f26d0d34f1017af73749af05e14e2206956af69a7fbde85121df035b1043dec5"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:1d8c37a099f2da798424",
+            "access:6c6f967b77de37f5bfe3",
+            "access:9b951aa01e41747afb7b",
+            "access:b1f2d0489b1a6a53f84f",
+            "access:eaee91f3aa1099a94878",
+            "title:from empire to exile pied noir and harki communities 19622012",
+            "title:kaymak the jewish community in modern and contemporary turkey",
+            "title:property confiscation in the zanzibar revolution"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "modern_algeria_exodus"
+          ],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "OUP-PUBLISHER-ROLES",
+            "OUP-OCD-EDITOR",
+            "OUP-TURKEY-DATES",
+            "OUP-ZANZIBAR-DATES",
+            "OUP-SOURCE-NOTE-LIMITS",
+            "OUP-INACTIVE-SCOPE",
+            "OUP-ZANZIBAR-LIMITS",
+            "OUP-SAMNIUM-SUPPORT",
+            "OUP-ELDRIDGE-SUPPORT",
+            "OUP-ZANZIBAR-SUPPORT-RIGHTS",
+            "OUP-ACCESS-ARCHIVE"
+          ],
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_persee_20260910",
+      "work_ids": [
+        "access:2fc6c3094e2508369b61",
+        "access:43a7123b5dd56d8c8791",
+        "access:c3897d37c82f0bdd2e8d",
+        "access:d4938466d71adacea6b9",
+        "access:f9478cd1d2dea5ef764b",
+        "title:bulletin critique des annales islamologiques review of el naixement d una colonia domination and resistance in valencia 12381276",
+        "title:providing for the buddha",
+        "url:persee.fr/doc/ecelt_0373-1928_1990_num_27_1_1923"
+      ],
+      "records": 8,
+      "seal_sha256": "f4daeb8f7cc0881f1552ebfa2a894cd422b1c59a89a254c2d373fa0d2d3c61c9",
+      "decision_sha256": [
+        "315aa1d9e532b39d377cbd5813e753c749eca1f5da13dbc64d945083249526ea"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "records": [
+            {
+              "work_id": "access:2fc6c3094e2508369b61",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "P00",
+              "verification_urls": [
+                "https://www.persee.fr/doc/rebyz_0766-5598_2013_num_71_1_4989"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:43a7123b5dd56d8c8791",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "P01",
+              "verification_urls": [
+                "https://www.persee.fr/doc/btcgi_0000-0009_2011_num_20_1_4637"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:c3897d37c82f0bdd2e8d",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "P02",
+              "verification_urls": [
+                "https://www.persee.fr/doc/efr_0223-5099_1998_act_241_1_5918"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:d4938466d71adacea6b9",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "P03",
+              "verification_urls": [
+                "https://www.persee.fr/doc/rea_0035-2004_1964_num_66_3_3727"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:f9478cd1d2dea5ef764b",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "P04",
+              "verification_urls": [
+                "https://www.persee.fr/doc/ccgg_1016-9008_1991_num_2_1_1341",
+                "https://www.persee.fr/authority/234808"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:bulletin critique des annales islamologiques review of el naixement d una colonia domination and resistance in valencia 12381276",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "P05",
+              "verification_urls": [
+                "https://www.persee.fr/doc/bcai_0259-7373_2001_num_17_1_991_t4_0144_0000_1"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:providing for the buddha",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "P06",
+              "verification_urls": [
+                "https://www.persee.fr/doc/arasi_0004-3958_2008_num_63_1_1665"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:persee.fr/doc/ecelt_0373-1928_1990_num_27_1_1923",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "P07",
+              "verification_urls": [
+                "https://www.persee.fr/doc/ecelt_0373-1928_1990_num_27_1_1923"
+              ],
+              "new_preferred_fields_open": 0
+            }
+          ],
+          "current_label_or_url_changes": 0,
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_perseus_20260909",
+      "work_ids": [
+        "access:0a264f01672843e56240",
+        "access:0ade602459db29c5f5c7",
+        "access:20a8100cfc0f6b663153",
+        "access:24580d541010d1d3b2b3",
+        "access:3bd297e509e2cfb7f5da",
+        "access:6565da218369687d796a",
+        "access:7045f7a25448293d639e",
+        "access:76d28da1018bf0b6754f",
+        "access:7ce8319e96efc189d2d8",
+        "access:aead0db8efa2a47a4ade",
+        "access:aff1e5c9d05fb7c0ac7d",
+        "access:bbd992bb5ac1221bd208",
+        "access:c83e631adc7a4a81a9b3",
+        "access:d570a99e4549072d9746",
+        "access:e2e7ff631190be35b964",
+        "access:e41277574c3af4c2ccc1",
+        "access:e4c3d6fb518b6eac3f0f",
+        "access:ec7be6e3bd5daa9e4f4c",
+        "url:perseus.tufts.edu/hopper/disppref?default.scheme=book%3achapter%2a&default.type=book&url=%2fhopper%2ftext%3fdoc%3dperseus%3atext%3a1999.02.0144%3abook%3d34",
+        "url:perseus.tufts.edu/hopper/text?doc=26&fromdoc=perseus%3atext%3a1999.02.0158",
+        "url:perseus.tufts.edu/hopper/text?doc=liv.%207.15",
+        "url:perseus.tufts.edu/hopper/text?doc=liv.+9.26.18&lang=original",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.01.0126%3abook%3d6%3achapter%3d119",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.01.0230%3atext%3dpun.%3achapter%3d8",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.01.0234%3abook%3d2%3achapter%3d19",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.02.0155%3abook%3d8",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0006%3aentry%3dcosa",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0006%3aentry%3dnarbo",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0006%3aentry%3dneapolis-3",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0064%3aentry%3dbrundisium-geo",
+        "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0064%3aentry%3dsora-geo",
+        "url:perseus.tufts.edu/hopper/text?doc=plb.%202.21"
+      ],
+      "records": 32,
+      "seal_sha256": "7cd689dd1b1d36a14dad921d808556574500dfa66dfd28ca76a9d94040bc1c36",
+      "decision_sha256": [
+        "e34cda4b4361c414134ded31fa46ded28921f3f01eb517840df53f0a5c226e7f"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_application_pending",
+          "records": [
+            {
+              "work_id": "access:0a264f01672843e56240",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=urn%3Acts%3AgreekLit%3Atlg0003.tlg001.perseus-eng2%3A2"
+              ]
+            },
+            {
+              "work_id": "access:0ade602459db29c5f5c7",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0026%3Abook%3D3"
+              ]
+            },
+            {
+              "work_id": "access:20a8100cfc0f6b663153",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D6%3Achapter%3D102"
+              ]
+            },
+            {
+              "work_id": "access:24580d541010d1d3b2b3",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D6%3Achapter%3D100"
+              ]
+            },
+            {
+              "work_id": "access:3bd297e509e2cfb7f5da",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_translator_names"
+              ],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Aabo%3Atlg%2C0099%2C001%3A12%3A4%3A2"
+              ]
+            },
+            {
+              "work_id": "access:6565da218369687d796a",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=App.+BC+1.11",
+                "https://catalog.perseus.org/?_=1399998958633&f%5Bsubjects%5D%5B%5D=Rome--History&f%5Byear_facet%5D%5B%5D=1899&sort=title_display+asc"
+              ]
+            },
+            {
+              "work_id": "access:7045f7a25448293d639e",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Liv.%2039.55"
+              ]
+            },
+            {
+              "work_id": "access:76d28da1018bf0b6754f",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Strab.+5.4&fromdoc=Perseus%3Atext%3A1999.01.0239",
+                "https://www.perseus.tufts.edu/hopper/dltext?doc=Perseus%3Atext%3A1999.01.0239"
+              ]
+            },
+            {
+              "work_id": "access:7ce8319e96efc189d2d8",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Aabo%3Atlg%2C0007%2C033%3A30"
+              ]
+            },
+            {
+              "work_id": "access:aead0db8efa2a47a4ade",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Liv.%2040.29"
+              ]
+            },
+            {
+              "work_id": "access:aff1e5c9d05fb7c0ac7d",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_translator_names"
+              ],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0198%3Abook%3D13%3Achapter%3D1%3Asection%3D33"
+              ]
+            },
+            {
+              "work_id": "access:bbd992bb5ac1221bd208",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Liv.%2035.40",
+                "https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0914.phi001.opp-eng9"
+              ]
+            },
+            {
+              "work_id": "access:c83e631adc7a4a81a9b3",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D6%3Achapter%3D101"
+              ]
+            },
+            {
+              "work_id": "access:d570a99e4549072d9746",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0144%3Abook%3D34%3Achapter%3D45"
+              ]
+            },
+            {
+              "work_id": "access:e2e7ff631190be35b964",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Xen.+Hell.+2.2&lang=original",
+                "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0032.tlg001.perseus-eng1"
+              ]
+            },
+            {
+              "work_id": "access:e41277574c3af4c2ccc1",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D11%3Achapter%3D14",
+                "https://www.perseus.tufts.edu/hopper/dltext?doc=Perseus%3Atext%3A1999.01.0239"
+              ]
+            },
+            {
+              "work_id": "access:e4c3d6fb518b6eac3f0f",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=sipontum",
+                "https://books.google.com/books/about/The_Princeton_Encyclopedia_of_Classical.html?id=e3vnngEACAAJ"
+              ]
+            },
+            {
+              "work_id": "access:ec7be6e3bd5daa9e4f4c",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=App.+BC+1.10.93&lang=original",
+                "https://catalog.perseus.org/?_=1399998958633&f%5Bsubjects%5D%5B%5D=Rome--History&f%5Byear_facet%5D%5B%5D=1899&sort=title_display+asc"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/disppref?default.scheme=book%3achapter%2a&default.type=book&url=%2fhopper%2ftext%3fdoc%3dperseus%3atext%3a1999.02.0144%3abook%3d34",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0144:book=34"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=26&fromdoc=perseus%3atext%3a1999.02.0158",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_translator_names"
+              ],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=26&fromdoc=Perseus%3Atext%3A1999.02.0158"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=liv.%207.15",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Liv.%207.15"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=liv.+9.26.18&lang=original",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Liv.+9.26.18&lang=original",
+                "https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0914.phi001.opp-eng10"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.01.0126%3abook%3d6%3achapter%3d119",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D6%3Achapter%3D119"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.01.0230%3atext%3dpun.%3achapter%3d8",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0230%3Atext%3DPun.%3Achapter%3D8",
+                "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0551.tlg009.perseus-eng1"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.01.0234%3abook%3d2%3achapter%3d19",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0234%3Abook%3D2%3Achapter%3D19"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.02.0155%3abook%3d8",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_translator_names"
+              ],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0155%3Abook%3D8"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0006%3aentry%3dcosa",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aentry%3Dcosa",
+                "https://books.google.com/books/about/The_Princeton_Encyclopedia_of_Classical.html?id=e3vnngEACAAJ"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0006%3aentry%3dnarbo",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aentry%3Dnarbo",
+                "https://books.google.com/books/about/The_Princeton_Encyclopedia_of_Classical.html?id=e3vnngEACAAJ"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0006%3aentry%3dneapolis-3",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aentry%3Dneapolis-3",
+                "https://books.google.com/books/about/The_Princeton_Encyclopedia_of_Classical.html?id=e3vnngEACAAJ"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0064%3aentry%3dbrundisium-geo",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aentry%3Dbrundisium-geo"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=perseus%3atext%3a1999.04.0064%3aentry%3dsora-geo",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "expanded_contributor_name"
+              ],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aentry%3Dsora-geo"
+              ]
+            },
+            {
+              "work_id": "url:perseus.tufts.edu/hopper/text?doc=plb.%202.21",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.perseus.tufts.edu/hopper/text?doc=Plb.%202.21"
+              ]
+            }
+          ]
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_phi_latin_20260910",
+      "work_ids": [
+        "access:978988fc46ccb575dc9e",
+        "url:latin.packhum.org/loc/1044/1/13/344-351%2c637-644%2c948-955%2c1219-1226%2c1440-1447%401",
+        "url:latin.packhum.org/loc/914/1/1234/931-940",
+        "url:latin.packhum.org/loc/914/1/1464/79-82%2c1452-1455%401",
+        "url:latin.packhum.org/loc/914/1/1485/1761-1768"
+      ],
+      "records": 5,
+      "seal_sha256": "1087be5555295455c99aa9f7f6e10ad952632aa29f2d3b1476b0ab0f65aa471b",
+      "decision_sha256": [
+        "b7c48a46b24b126ec95c85a3244675d057b98764939bd20ce4b2edb2237825cd"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:978988fc46ccb575dc9e",
+            "url:latin.packhum.org/loc/1044/1/13/344-351%2c637-644%2c948-955%2c1219-1226%2c1440-1447%401",
+            "url:latin.packhum.org/loc/914/1/1234/931-940",
+            "url:latin.packhum.org/loc/914/1/1464/79-82%2c1452-1455%401",
+            "url:latin.packhum.org/loc/914/1/1485/1761-1768"
+          ],
+          "amended_prior_records": [
+            "access:cbe9ad754079f540c268"
+          ],
+          "accepted_amendments": [
+            "PHI-CRINITI-1981-LINKED-BASE"
+          ],
+          "resolved_prior_questions": [
+            "ATTALUS-ACCESS-OPEN-2"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "PHI-VOLATERRAE-WEB-PAGINATION"
+          ],
+          "accepted_scope_notes": [
+            "PHI-GRANIUS",
+            "PHI-VELLEIUS",
+            "PHI-COPIA",
+            "PHI-BUXENTUM",
+            "PHI-POTENTIA",
+            "PHI-EDITIONS",
+            "PHI-LOCATORS",
+            "PHI-PAGINATION",
+            "PHI-CONTEXT-PDF",
+            "PHI-ACCESS"
+          ],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "preferred_questions": "EXPLICIT_QUESTIONS.json",
+          "new_preferred_fields_open": 2,
+          "effective_prior_questions_closed": 1,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_plos_batwa_20260910",
+      "work_ids": [
+        "access:8d34742c3b70fdcabc3a",
+        "title:batwa indigenous peoples forced eviction for conservation a qualitative examination on community impacts plos global public health 2023"
+      ],
+      "records": 2,
+      "seal_sha256": "bee1768ecfb7a32a6833231b83464f9adf01242220eae62100fcded9382babf2",
+      "decision_sha256": [
+        "c0150f6c019278b34cb34371ae3f3962bd501002645870cbf69ccc263d5f3ec9"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:8d34742c3b70fdcabc3a",
+            "title:batwa indigenous peoples forced eviction for conservation a qualitative examination on community impacts plos global public health 2023"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "PB-FULL-ARTICLE-CREDIT"
+          ],
+          "accepted_scope_notes": [
+            "PB-ACCESS",
+            "PB-BUNDLE",
+            "PB-VERSION",
+            "PB-METHOD",
+            "PB-CATEGORIES",
+            "PB-DISCLOSURES",
+            "PB-HISTORY",
+            "PB-GEOGRAPHY",
+            "PB-FLIGHT"
+          ],
+          "accepted_bounded_passage_findings": [
+            "PB-1991-CONTEXT",
+            "PB-REMOVAL-TESTIMONY",
+            "PB-RETURN-DESIRE"
+          ],
+          "new_preferred_fields_open": 0,
+          "new_open_passage_followups": [],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false,
+          "application_rule": "A later successor may add typed metadata and the fuller article/version citation with precise source sections. Preserve stable IDs, original URLs/labels and occurrences. Separate the other works in the old bundle without discarding their provenance. Retain original/republication/correction date roles, sample limits, method wording discrepancy, attributed testimony and existing event boundaries. No new incoming-flight assignment."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_pmc_remaining_20260911",
+      "work_ids": [
+        "access:67192f6d6e81206c85e4",
+        "access:ca814122625698771f40",
+        "access:cd9ec5c49a3eb944dfbb"
+      ],
+      "records": 3,
+      "seal_sha256": "3c2b97b218e871a30d82f4a6b604c95d74b27e8525f6dd506a4db8526c0aa445",
+      "decision_sha256": [
+        "2ec30f050c81bf5200e0115f65b00db4abf3891498a8b3346e7fcc00e02a71e0"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_with_one_open_version",
+          "accepted_records": [
+            "access:67192f6d6e81206c85e4",
+            "access:ca814122625698771f40",
+            "access:cd9ec5c49a3eb944dfbb"
+          ],
+          "required_source_corrections": [],
+          "offered_source_refinements": [
+            "NORBA-FULLER-CITATION"
+          ],
+          "new_preferred_fields_open": 1,
+          "open_questions": [
+            "PMC-LIPSON-COPY-VERSION"
+          ],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "flight_assignments": 0,
+          "publication_application": false,
+          "application_rule": "Preserve each access identity and prior DOI decisions; retain source-role/date/pagination distinctions and the unverified exact Lipson PMC version. Integrate the offered Norba title only with the later publication."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_routledge_20260910",
+      "work_ids": [
+        "title:ahmida 2020 genocide in libya",
+        "title:beihammer 2017",
+        "title:breyfogle schrader sunderland 2007",
+        "title:cavanagh veracini 2017",
+        "title:gat the jewish exodus from iraq 19481951",
+        "title:ooi keat gin the japanese occupation of borneo 194145",
+        "title:ye 2019"
+      ],
+      "records": 7,
+      "seal_sha256": "81bd5810ca612025ccaa6edb7749f9728d44a1fa9cfa7bb2f2a2303c28ad2dc9",
+      "decision_sha256": [
+        "2a1a319e20bbe658ee4822ac3d76375537768980a462f33b710ef64f74e5cb2a"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "title:ahmida 2020 genocide in libya",
+            "title:beihammer 2017",
+            "title:breyfogle schrader sunderland 2007",
+            "title:cavanagh veracini 2017",
+            "title:gat the jewish exodus from iraq 19481951",
+            "title:ooi keat gin the japanese occupation of borneo 194145",
+            "title:ye 2019"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "RT-EDITED-ROLES",
+            "RT-DATE-ROLES",
+            "RT-GAT-FORMAT",
+            "RT-FUNDING-LICENCE",
+            "RT-OOI-NAME",
+            "RT-GAT-CONTENTS"
+          ],
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_springer_20260909",
+      "work_ids": [
+        "access:18949309673619898b41",
+        "access:3cdf29d8617f28c3505e",
+        "access:e7548ecffc1fab25a53e",
+        "access:f48b82c2a914d2d5a17c",
+        "title:chronic uncertainty and momentary opportunity a half century of adaptation among zambia s gwembe tonga human ecology 2007",
+        "title:posth et al 2018 language continuity despite population replacement in remote oceania nature ecology evolution 2 731 740",
+        "title:the pacific insular case of american samoa land rights and law in unincorporated u s territories",
+        "title:what drives relocation policies in the maldives",
+        "url:link.springer.com/article/10.1007/s12520-017-0561-y"
+      ],
+      "records": 9,
+      "seal_sha256": "bd041cbc98d17f28e3114a7cc69eae21b6a3960769dbb5b92594df4c480856f1",
+      "decision_sha256": [
+        "2a4980768a12b1c58d2c52e84c34d6602611214ca4d133de1be6541ce4bc93ba"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "records": [
+            {
+              "work_id": "access:18949309673619898b41",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S00",
+              "verification_urls": [
+                "https://link.springer.com/article/10.1007/s10814-023-09186-y/tables/1",
+                "https://link.springer.com/article/10.1007/s10814-023-09186-y"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:3cdf29d8617f28c3505e",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S01",
+              "verification_urls": [
+                "https://link.springer.com/article/10.1007/s10814-023-09186-y",
+                "https://doi.org/10.1007/s10814-023-09186-y"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:e7548ecffc1fab25a53e",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S02",
+              "verification_urls": [
+                "https://link.springer.com/chapter/10.1007/978-3-319-44642-4_3",
+                "https://link.springer.com/book/10.1007/978-3-319-44642-4",
+                "https://doi.org/10.1007/978-3-319-44642-4_3"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:f48b82c2a914d2d5a17c",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S03",
+              "verification_urls": [
+                "https://link.springer.com/content/pdf/10.1007/978-3-319-44642-4_3.pdf",
+                "https://link.springer.com/chapter/10.1007/978-3-319-44642-4_3",
+                "https://link.springer.com/book/10.1007/978-3-319-44642-4",
+                "https://doi.org/10.1007/978-3-319-44642-4_3"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:chronic uncertainty and momentary opportunity a half century of adaptation among zambia s gwembe tonga human ecology 2007",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S04",
+              "verification_urls": [
+                "https://link.springer.com/article/10.1007/s10745-006-9080-7",
+                "https://doi.org/10.1007/s10745-006-9080-7"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:posth et al 2018 language continuity despite population replacement in remote oceania nature ecology evolution 2 731 740",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S05",
+              "verification_urls": [
+                "https://link.springer.com/article/10.1038/s41559-018-0498-2",
+                "https://doi.org/10.1038/s41559-018-0498-2"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:the pacific insular case of american samoa land rights and law in unincorporated u s territories",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S06",
+              "verification_urls": [
+                "https://link.springer.com/book/10.1007/978-3-319-69971-4",
+                "https://doi.org/10.1007/978-3-319-69971-4"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "title:what drives relocation policies in the maldives",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S07",
+              "verification_urls": [
+                "https://link.springer.com/article/10.1007/s10584-020-02919-8",
+                "https://doi.org/10.1007/s10584-020-02919-8"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:link.springer.com/article/10.1007/s12520-017-0561-y",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "S08",
+              "verification_urls": [
+                "https://link.springer.com/article/10.1007/s12520-017-0561-y",
+                "https://doi.org/10.1007/s12520-017-0561-y"
+              ],
+              "new_preferred_fields_open": 0
+            }
+          ],
+          "required_title_corrections": 0,
+          "offered_label_refinements": 1,
+          "new_preferred_fields_open": 0,
+          "separate_passage_followups": 1
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_teara_20260910",
+      "work_ids": [
+        "access:89c26558beffe08e3782",
+        "access:fbc05102ddedf87e5fb2",
+        "title:musket wars te ara encyclopedia of new zealand based on ballara taua and crosby the musket wars",
+        "title:te ara maori population change",
+        "title:te ara new zealand wars"
+      ],
+      "records": 5,
+      "seal_sha256": "03d1626fcd7be8865fa175938b3b5a91b194a144af5f886f1b804a24880f34c7",
+      "decision_sha256": [
+        "17c34a78a946724cc36399047b82cc2781bbd052b2543f8b29d89c4428bc2237"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:89c26558beffe08e3782",
+            "access:fbc05102ddedf87e5fb2",
+            "title:musket wars te ara encyclopedia of new zealand based on ballara taua and crosby the musket wars",
+            "title:te ara maori population change",
+            "title:te ara new zealand wars"
+          ],
+          "accepted_required_source_corrections": [],
+          "new_preferred_fields_open": 3,
+          "shared_preferred_date_questions": 1,
+          "source_use_disclosure_questions": 1,
+          "historical_disposition_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_title_queries_20260909",
+      "work_ids": [
+        "title:aung thwin 2005 the mists of ramanna",
+        "title:bahrey 1593 history of the galla beckingham huntingford",
+        "title:barnes 1954 politics in a changing society ngoni",
+        "title:beach 1980 the shona and zimbabwe 900 1850",
+        "title:blanke 1981 prussian poland in the german empire",
+        "title:cobbing 1988 the mfecane as alibi j african history",
+        "title:gait 1905 a history of assam",
+        "title:giersch 2006 asian borderlands",
+        "title:goldstein 2005 andean diaspora",
+        "title:hardjono 1977 transmigration in indonesia",
+        "title:hiskett 1973 the sword of truth usman dan fodio",
+        "title:huntingford 1953 the nandi of kenya",
+        "title:ibn khaldun the muqaddimah",
+        "title:julien 1970 history of north africa",
+        "title:keegan hofman 2017 the caribbean before columbus",
+        "title:last 1967 the sokoto caliphate",
+        "title:lau 1987 namibia in jonker afrikaner s time",
+        "title:lyons 2003 ancestral hopi migrations",
+        "title:madsen rhode eds 1994 across the west",
+        "title:mohammed hassen 1990 the oromo of ethiopia 1570 1860",
+        "title:ogot 1967 history of the southern luo",
+        "title:omer cooper 1966 the zulu aftermath",
+        "title:paichadze seaton eds 2015 voices from karafuto sakhalin",
+        "title:rasmussen 1978 migrant kingdom mzilikazi s ndebele",
+        "title:saikia 2004 fragmented memories",
+        "title:sutton 1990 a thousand years of east africa",
+        "title:wallace 2011 a history of namibia",
+        "title:waller 1985 ecology migration and expansion in east africa african affairs",
+        "title:wyatt 1984 thailand a short history"
+      ],
+      "records": 29,
+      "seal_sha256": "152a513899350a3faa3c319cd8f62a0eaa823e187f8a5c6b8b4dbb0a668f2f0e",
+      "decision_sha256": [
+        "fdb87248e62d09ae47514de21077b279a1b8ad6f0cd6a368e46e41205d892460"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "records": [
+            {
+              "work_id": "title:aung thwin 2005 the mists of ramanna",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_electronic_publication_date"
+              ],
+              "verification_urls": [
+                "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/89/05/2021758905/2021758905.pdf",
+                "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp92503",
+                "https://api.crossref.org/works/10.1515%2F9780824874414"
+              ],
+              "calibration_id": "TQ00-identity"
+            },
+            {
+              "work_id": "title:bahrey 1593 history of the galla beckingham huntingford",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_component_pages",
+                "preferred_cited_modern_edition"
+              ],
+              "verification_urls": [
+                "https://www.hakluyt.com/bibliography-of-the-hakluyt-society-second-series-part-ii/"
+              ],
+              "calibration_id": "TQ01-identity"
+            },
+            {
+              "work_id": "title:barnes 1954 politics in a changing society ngoni",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_publisher"
+              ],
+              "verification_urls": [
+                "https://www.si.edu/object/politics-changing-society-political-history-fort-jameson-ngoni-ja-barnes%3Asiris_sil_194254"
+              ],
+              "calibration_id": "TQ02-identity"
+            },
+            {
+              "work_id": "title:beach 1980 the shona and zimbabwe 900 1850",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_cited_edition"
+              ],
+              "verification_urls": [
+                "https://search.worldcat.org/fr/title/The-Shona-and-Zimbabwe-900-1850-%3A-an-outline-of-Shona-history/oclc/7143856"
+              ],
+              "calibration_id": "TQ03-identity"
+            },
+            {
+              "work_id": "title:blanke 1981 prussian poland in the german empire",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://search.worldcat.org/title/Prussian-Poland-in-the-German-Empire-%281871-1900%29/oclc/1511568163"
+              ],
+              "calibration_id": "TQ04-identity"
+            },
+            {
+              "work_id": "title:cobbing 1988 the mfecane as alibi j african history",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/mfecane-as-alibi-thoughts-on-dithakong-and-mbolompo1/342F2627DC6748BA17D732C83A6326FA",
+                "https://api.crossref.org/works/10.1017%2FS0021853700030590"
+              ],
+              "calibration_id": "TQ05-identity"
+            },
+            {
+              "work_id": "title:gait 1905 a history of assam",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_cited_publication_year"
+              ],
+              "verification_urls": [
+                "https://ci.nii.ac.jp/ncid/BA64920476",
+                "https://archive.org/metadata/historyofassam00gait",
+                "https://archive.org/download/historyofassam00gait/historyofassam00gait_djvu.txt"
+              ],
+              "calibration_id": "TQ06-identity"
+            },
+            {
+              "work_id": "title:giersch 2006 asian borderlands",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://external.dandelon.com/download/attachments/dandelon/ids/CH001FB26AB2257413C64C125732F0050ADC5.pdf"
+              ],
+              "calibration_id": "TQ07-identity"
+            },
+            {
+              "work_id": "title:goldstein 2005 andean diaspora",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://search.worldcat.org/nl/title/Andean-diaspora-%3A-the-Tiwanaku-colonies-and-the-origins-of-South-American-empire/oclc/56825058"
+              ],
+              "calibration_id": "TQ08-identity"
+            },
+            {
+              "work_id": "title:hardjono 1977 transmigration in indonesia",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://ci.nii.ac.jp/ncid/BA20525328?l=en"
+              ],
+              "calibration_id": "TQ09-identity"
+            },
+            {
+              "work_id": "title:hiskett 1973 the sword of truth usman dan fodio",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://search.worldcat.org/title/The-sword-of-truth%3A-the-life-and-times-of-the-Shehu-Usuman-dan-Fodio/oclc/463005018"
+              ],
+              "calibration_id": "TQ10-identity"
+            },
+            {
+              "work_id": "title:huntingford 1953 the nandi of kenya",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://ci.nii.ac.jp/ncid/BA19662569"
+              ],
+              "calibration_id": "TQ11-identity"
+            },
+            {
+              "work_id": "title:ibn khaldun the muqaddimah",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_cited_edition",
+                "preferred_modern_publication_year",
+                "preferred_translator"
+              ],
+              "verification_urls": [
+                "https://www.jstor.org/stable/j.ctvwh8dcw"
+              ],
+              "calibration_id": "TQ12-identity"
+            },
+            {
+              "work_id": "title:julien 1970 history of north africa",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://lib.umi.ac.ug/cgi-bin/koha/opac-detail.pl?biblionumber=9380"
+              ],
+              "calibration_id": "TQ13-identity"
+            },
+            {
+              "work_id": "title:keegan hofman 2017 the caribbean before columbus",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://academic.oup.com/book/11404",
+                "https://api.crossref.org/works/10.1093%2Facprof%3Aoso%2F9780190605247.001.0001"
+              ],
+              "calibration_id": "TQ14-identity"
+            },
+            {
+              "work_id": "title:last 1967 the sokoto caliphate",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_cited_edition"
+              ],
+              "verification_urls": [
+                "https://ci.nii.ac.jp/ncid/BA1149119X?l=en"
+              ],
+              "calibration_id": "TQ15-identity"
+            },
+            {
+              "work_id": "title:lau 1987 namibia in jonker afrikaner s time",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_exact_published_title"
+              ],
+              "verification_urls": [
+                "https://www.namibiadigitalrepository.com/items/show/207",
+                "https://www.namibiadigitalrepository.com/about"
+              ],
+              "calibration_id": "TQ16-identity"
+            },
+            {
+              "work_id": "title:lyons 2003 ancestral hopi migrations",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.bibliovault.org/BV.book.epl?ISBN=9780816522804"
+              ],
+              "calibration_id": "TQ17-identity"
+            },
+            {
+              "work_id": "title:madsen rhode eds 1994 across the west",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://libcat.weber.edu/bib/942852"
+              ],
+              "calibration_id": "TQ18-identity"
+            },
+            {
+              "work_id": "title:mohammed hassen 1990 the oromo of ethiopia 1570 1860",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://iucat.iu.edu/iub/62921"
+              ],
+              "calibration_id": "TQ19-identity"
+            },
+            {
+              "work_id": "title:ogot 1967 history of the southern luo",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://library.aiu.ac.ke/bib/33650"
+              ],
+              "calibration_id": "TQ20-identity"
+            },
+            {
+              "work_id": "title:omer cooper 1966 the zulu aftermath",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_cited_edition"
+              ],
+              "verification_urls": [
+                "https://library.africamuseum.be/bib/262643"
+              ],
+              "calibration_id": "TQ21-identity"
+            },
+            {
+              "work_id": "title:paichadze seaton eds 2015 voices from karafuto sakhalin",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_format_publication_date"
+              ],
+              "verification_urls": [
+                "https://www.routledge.com/Voices-from-the-Shifting-Russo-Japanese-Border-Karafuto---Sakhalin-1st/Paichadze-Seaton/p/book/9781138104044?PageSpeed=noscript"
+              ],
+              "calibration_id": "TQ22-identity"
+            },
+            {
+              "work_id": "title:rasmussen 1978 migrant kingdom mzilikazi s ndebele",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://library.africamuseum.be/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=275895"
+              ],
+              "calibration_id": "TQ23-identity"
+            },
+            {
+              "work_id": "title:saikia 2004 fragmented memories",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://www.dukeupress.edu/fragmented-memories",
+                "https://api.crossref.org/works/10.1215%2F9780822386162"
+              ],
+              "calibration_id": "TQ24-identity"
+            },
+            {
+              "work_id": "title:sutton 1990 a thousand years of east africa",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_publisher_name"
+              ],
+              "verification_urls": [
+                "https://knls.ac.ke/wp-content/uploads/KENYA-NATIONAL-BIBLIOGRAPHY-1992.pdf"
+              ],
+              "calibration_id": "TQ25-identity"
+            },
+            {
+              "work_id": "title:wallace 2011 a history of namibia",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [
+                "preferred_cited_edition",
+                "preferred_contributor_role_detail"
+              ],
+              "verification_urls": [
+                "https://search.worldcat.org/title/A-history-of-Namibia-%3A-from-the-beginning-to-1990/oclc/635465370"
+              ],
+              "calibration_id": "TQ26-identity"
+            },
+            {
+              "work_id": "title:waller 1985 ecology migration and expansion in east africa african affairs",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://academic.oup.com/afraf/article/84/336/347/70842",
+                "https://api.crossref.org/works/10.1093%2Foxfordjournals.afraf.a097698"
+              ],
+              "calibration_id": "TQ27-identity"
+            },
+            {
+              "work_id": "title:wyatt 1984 thailand a short history",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "unresolved_fields": [],
+              "verification_urls": [
+                "https://opactmu.lib.tmu.ac.jp/iwjs0013opc/ufirdi.do?ncid=BA0124694X&ufi_target=ctlsrh"
+              ],
+              "calibration_id": "TQ28-identity"
+            }
+          ]
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "work_ids": [
+        "access:0c0813b8c0841293c2cb",
+        "access:23ddb93e8ccc2c7ac4cd",
+        "access:294ad47c2ab09a77e703",
+        "access:2b74ef68e910fceadf80",
+        "access:2fd7f29a0826e9f131dc",
+        "access:31f17c176f0671f40756",
+        "access:4edcea4a9b5bc932c8fa",
+        "access:f1bc1174bf7f78109b4c"
+      ],
+      "records": 8,
+      "seal_sha256": "05b0cfc16138bec9fd8187711796e5d19801c9f47a55d40f19a86d42928d9b71",
+      "decision_sha256": [
+        "262af1bf036593ade413f2d47d914fe7e59227bc39cbbc242164f5474fd9536a"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_and_offered_label_review_complete_publication_pending",
+          "accepted_records": [
+            "access:0c0813b8c0841293c2cb",
+            "access:23ddb93e8ccc2c7ac4cd",
+            "access:294ad47c2ab09a77e703",
+            "access:2b74ef68e910fceadf80",
+            "access:2fd7f29a0826e9f131dc",
+            "access:31f17c176f0671f40756",
+            "access:4edcea4a9b5bc932c8fa",
+            "access:f1bc1174bf7f78109b4c"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [
+            "b31_2fd7f29a0826e9",
+            "b33_2fd7f29a0826e9"
+          ],
+          "source_refinements": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "new_preferred_fields_open": 8,
+          "source_scope_questions_adjudicated": 1,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_treccani_20260909",
+      "work_ids": [
+        "access:8facd951cb751fbdca78",
+        "access:9cba9651ca3f7583c284",
+        "access:cd25374344483c816ab3",
+        "url:treccani.it/enciclopedia/atri_%28enciclopedia-dell%27-arte-antica%29",
+        "url:treccani.it/enciclopedia/colonizzazione_%28enciclopedia-italiana%29",
+        "url:treccani.it/enciclopedia/fregellae_%28enciclopedia-dell%27-arte-antica%29",
+        "url:treccani.it/enciclopedia/interamna-lirenas_%28enciclopedia-dell%27-arte-antica%29",
+        "url:treccani.it/enciclopedia/saticula_%28enciclopedia-italiana%29",
+        "url:treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28enciclopedia-dell%27arte-antica%29",
+        "url:treccani.it/enciclopedia/talamone_res-a7ea522d-8c61-11dc-8e9d-0016357eee51_%28enciclopedia-dell%27-arte-antica%29",
+        "url:treccani.it/enciclopedia/temsa_%28enciclopedia-italiana%29",
+        "url:treccani.it/enciclopedia/terracina_%28enciclopedia-dell%27-arte-antica%29"
+      ],
+      "records": 12,
+      "seal_sha256": "8214370d27c61a01a609b2fc6852909542f341234529108a1d8632309bd5a2a6",
+      "decision_sha256": [
+        "7bfd905c4ef612dc0ca7bf1d4fc1ea96b88b12c7dd23a2abd37a170d34532ea4"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "records": [
+            {
+              "work_id": "access:8facd951cb751fbdca78",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T00",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/talamone_%28Enciclopedia-dell%27-Arte-Antica%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "access:9cba9651ca3f7583c284",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T01",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/labico/"
+              ],
+              "new_preferred_fields_open": 2
+            },
+            {
+              "work_id": "access:cd25374344483c816ab3",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T02",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/talamone_res-34320579-87eb-11dc-8e9d-0016357eee51_%28Enciclopedia-Italiana%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/atri_%28enciclopedia-dell%27-arte-antica%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T03",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/atri_%28Enciclopedia-dell%27-Arte-Antica%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/colonizzazione_%28enciclopedia-italiana%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T04",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/colonizzazione_%28Enciclopedia-Italiana%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/fregellae_%28enciclopedia-dell%27-arte-antica%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T05",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/fregellae_%28Enciclopedia-dell%27-Arte-Antica%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/interamna-lirenas_%28enciclopedia-dell%27-arte-antica%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T06",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/interamna-lirenas_%28Enciclopedia-dell%27-Arte-Antica%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/saticula_%28enciclopedia-italiana%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T07",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/saticula_%28Enciclopedia-Italiana%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28enciclopedia-dell%27arte-antica%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T08",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27-Arte-Antica%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/talamone_res-a7ea522d-8c61-11dc-8e9d-0016357eee51_%28enciclopedia-dell%27-arte-antica%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T09",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/talamone_res-a7ea522d-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27-Arte-Antica%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/temsa_%28enciclopedia-italiana%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T10",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/temsa_%28Enciclopedia-Italiana%29/"
+              ],
+              "new_preferred_fields_open": 0
+            },
+            {
+              "work_id": "url:treccani.it/enciclopedia/terracina_%28enciclopedia-dell%27-arte-antica%29",
+              "decision": "metadata_identity_reconciled_with_explicit_limits",
+              "calibration_group": "T11",
+              "verification_urls": [
+                "https://www.treccani.it/enciclopedia/terracina_%28Enciclopedia-dell%27-Arte-Antica%29/"
+              ],
+              "new_preferred_fields_open": 0
+            }
+          ],
+          "distinct_url_repairs": 1,
+          "affected_current_citation_ids": 2,
+          "new_preferred_fields_open": 2,
+          "historical_disposition_changes": 0
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_ucl_20260910",
+      "work_ids": [
+        "access:1ef3406eef30f3ed5dc3",
+        "access:69ae694cc5228e712035",
+        "access:845ca6c074c43a2ba97b",
+        "access:ad41d3134a2320314e43",
+        "access:cb5cf96133cf09408b7c",
+        "title:re placing home displacement and resettlement in india s narmada valley dam project ucl thesis",
+        "url:discovery.ucl.ac.uk/id/eprint/10100165/1/10055445.pdf"
+      ],
+      "records": 7,
+      "seal_sha256": "e727a2f0a8c0542f2fea49fe89a6b5d2040d013bef49dd0b737858369f57d1c5",
+      "decision_sha256": [
+        "7e40493f28de062941047af2857845a60e5a695a6328a123318f54b738b2d35d"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_and_name_correction_review_complete_publication_pending",
+          "accepted_records": [
+            "access:1ef3406eef30f3ed5dc3",
+            "access:69ae694cc5228e712035",
+            "access:845ca6c074c43a2ba97b",
+            "access:ad41d3134a2320314e43",
+            "access:cb5cf96133cf09408b7c",
+            "title:re placing home displacement and resettlement in india s narmada valley dam project ucl thesis",
+            "url:discovery.ucl.ac.uk/id/eprint/10100165/1/10055445.pdf"
+          ],
+          "accepted_required_source_corrections": [
+            "b35_69ae694cc5228e"
+          ],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_ucpress_20260910",
+      "work_ids": [
+        "access:218080eddb0d807e77ae",
+        "access:f403f1ccd8b6cbe96f0e",
+        "title:akins bauer 2021 we are the land",
+        "title:beinin the dispersion of egyptian jewry",
+        "title:hirshberg suburban empire cold war militarization in the us pacific university of california press 2022",
+        "title:young 1998 japans total empire"
+      ],
+      "records": 6,
+      "seal_sha256": "7a07339ac29c4bb1fe83ca770d494aaaedceffa1d1fc75e81e75a56974136e46",
+      "decision_sha256": [
+        "81e45a0d43e236a67f79bdfa18d07b8602ddf99a0a70bf7504629811f4de3348"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_and_required_url_review_complete_publication_pending",
+          "accepted_records": [
+            "access:218080eddb0d807e77ae",
+            "access:f403f1ccd8b6cbe96f0e",
+            "title:akins bauer 2021 we are the land",
+            "title:beinin the dispersion of egyptian jewry",
+            "title:hirshberg suburban empire cold war militarization in the us pacific university of california press 2022",
+            "title:young 1998 japans total empire"
+          ],
+          "accepted_required_source_corrections": [
+            "b48_tig_cohen_5152f4aad7"
+          ],
+          "accepted_offered_source_refinements": [],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "new_preferred_fields_open": 2,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_un_documents_20260910",
+      "work_ids": [
+        "access:3a47197a286e0cbfce36",
+        "access:5601187eb88fb82e8e00",
+        "access:5d0f3e92e718cdbe28b7",
+        "access:6f859611b56fefdb08e0",
+        "access:7716bf9e3d5801e08b62",
+        "access:7ebf1469652b6870ecf8",
+        "access:9a23640219a704295062",
+        "access:a3dc84831ffd3283bbde",
+        "access:e0cb9cfe30f53c489abb",
+        "access:e41fe87c98952a50d930",
+        "title:un special rapporteur report on the inughuit relocation at thule",
+        "title:un working group allegation on children forcibly removed from timor leste",
+        "title:united nations human rights council nuclear legacy and displacement in the marshall islands"
+      ],
+      "records": 13,
+      "seal_sha256": "3b39ce7c71e7d669229e4a053d726b1701faeaaa0595e283c1b3231c5eb5af17",
+      "decision_sha256": [
+        "33b7c7798afb237202d79f19021881f4668eccb0ae9914dd6d6ac4491a74c3e9"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:3a47197a286e0cbfce36",
+            "access:5601187eb88fb82e8e00",
+            "access:5d0f3e92e718cdbe28b7",
+            "access:6f859611b56fefdb08e0",
+            "access:7716bf9e3d5801e08b62",
+            "access:7ebf1469652b6870ecf8",
+            "access:9a23640219a704295062",
+            "access:a3dc84831ffd3283bbde",
+            "access:e0cb9cfe30f53c489abb",
+            "access:e41fe87c98952a50d930",
+            "title:un special rapporteur report on the inughuit relocation at thule",
+            "title:un working group allegation on children forcibly removed from timor leste",
+            "title:united nations human rights council nuclear legacy and displacement in the marshall islands"
+          ],
+          "accepted_required_source_corrections": [],
+          "accepted_offered_source_refinements": [],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "UN-BUNDLED-LABELS",
+            "UN-DUPLICATE-ACCESS",
+            "UN-WORD-FORMAT",
+            "UN-ACCESS-CONTROLS",
+            "UN-UNRWA-DATE",
+            "UN-UNRWA-ROLES",
+            "UN-DRC-MAPPING",
+            "UN-REPORT-DATE-ROLES",
+            "UN-RESOLUTION-PAGE",
+            "UN-ESCWA-ROLES",
+            "UN-MARSHALL-2025",
+            "UN-THULE-SCOPE",
+            "UN-TIMOR-ALLEGATIONS",
+            "UN-MARSHALL-2024",
+            "UN-READING-LIMITS"
+          ],
+          "resolved_prepared_fields": [
+            {
+              "work_id": "access:9a23640219a704295062",
+              "field": "typed_fields.issued_date",
+              "value": "1967-09-15"
+            }
+          ],
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_un_portals_20260910",
+      "work_ids": [
+        "title:ohchr assessment of human rights concerns in xinjiang",
+        "title:ohchr bougainville conflict evictions and displacement",
+        "title:ohchr situation of human rights in temporarily occupied crimea 20142017",
+        "title:ohchr un experts call for protection of afghan nationals in pakistan dec 2023",
+        "title:republic of san marino statement to the united nations on its second world war refugee history",
+        "title:un economic survey mission 1949",
+        "title:un human rights 2025 a hrc 58 73",
+        "title:un report 2025 occupied syrian golan",
+        "title:united nations decolonization tokelau and the 1863 slave raids",
+        "title:united nations security council resolution 237 1967",
+        "title:united nations western sahara nsgt"
+      ],
+      "records": 11,
+      "seal_sha256": "68a773676c1f79fc8f6692ab2d82ec8f38d2d49748ad37a030cb804a3854032b",
+      "decision_sha256": [
+        "bc3c82f793068c4ba4e8ecb17951772bad50e10c4087c16398b8d89d02f2eb46"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "title:ohchr assessment of human rights concerns in xinjiang",
+            "title:ohchr bougainville conflict evictions and displacement",
+            "title:ohchr situation of human rights in temporarily occupied crimea 20142017",
+            "title:ohchr un experts call for protection of afghan nationals in pakistan dec 2023",
+            "title:republic of san marino statement to the united nations on its second world war refugee history",
+            "title:un economic survey mission 1949",
+            "title:un human rights 2025 a hrc 58 73",
+            "title:un report 2025 occupied syrian golan",
+            "title:united nations decolonization tokelau and the 1863 slave raids",
+            "title:united nations security council resolution 237 1967",
+            "title:united nations western sahara nsgt"
+          ],
+          "accepted_required_source_corrections": [
+            "UN-PORTALS-BOUGAINVILLE-ATTRIBUTION"
+          ],
+          "accepted_offered_source_refinements": [],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "UNP-SCOPE",
+            "UNP-BOUGAINVILLE",
+            "UNP-FIJI-SUPPORT",
+            "UNP-CRIMEA",
+            "UNP-AFGHAN-EXPERTS",
+            "UNP-SANMARINO",
+            "UNP-CLAPP",
+            "UNP-SETTLEMENT-VERSIONS",
+            "UNP-ESCWA",
+            "UNP-TOKELAU",
+            "UNP-WESTERN-SAHARA",
+            "UNP-RESOLUTION",
+            "UNP-ACCESS-AND-READING"
+          ],
+          "added_verified_fields": [
+            {
+              "work_id": "title:un human rights 2025 a hrc 58 73",
+              "field": "typed_fields.issued_date",
+              "value": "2025-03-06"
+            }
+          ],
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_unhcr_refworld_20260910",
+      "work_ids": [
+        "access:2223a1b8ee86194daceb",
+        "access:7bf460e13164c146ae0e",
+        "access:a6ac7c71e1b415301a54",
+        "title:idmc pakistan millions of idps and returnees face continuing crisis reliefweb",
+        "title:internal displacement monitoring centre displacement in pakistan and balochistan",
+        "title:unhcr angola repatriation after the long civil war",
+        "title:unhcr libya displacement of tawergha residents",
+        "title:unhcr operational data portal ukraine refugee situation",
+        "title:unhcr research paper humanitarian issues in the biafra conflict"
+      ],
+      "records": 9,
+      "seal_sha256": "7691a913f66aa779dbd8fd9f5e8af0abd36175d5ebfff04ffb27ede7a4d7a45d",
+      "decision_sha256": [
+        "b62e28d8fcd66c9596d5abb0688b806c8f3f5eb2e0ed1995cb77ffd7ec654831"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:2223a1b8ee86194daceb",
+            "access:7bf460e13164c146ae0e",
+            "access:a6ac7c71e1b415301a54",
+            "title:idmc pakistan millions of idps and returnees face continuing crisis reliefweb",
+            "title:internal displacement monitoring centre displacement in pakistan and balochistan",
+            "title:unhcr angola repatriation after the long civil war",
+            "title:unhcr libya displacement of tawergha residents",
+            "title:unhcr operational data portal ukraine refugee situation",
+            "title:unhcr research paper humanitarian issues in the biafra conflict"
+          ],
+          "accepted_required_source_corrections": [
+            "UNHCR-REFWORLD-BUNDLE-01",
+            "UNHCR-REFWORLD-BUNDLE-02",
+            "UNHCR-ANGOLA-DASHBOARD-SCOPE"
+          ],
+          "accepted_offered_source_refinements": [],
+          "source_corrections": "SOURCE_CORRECTIONS_REVIEWED.json",
+          "source_scope_notes": "SOURCE_SCOPE_REVIEWED.json",
+          "accepted_scope_notes": [
+            "UR-SOMALIA-BUNDLE",
+            "UR-SOMALIA-FLOW",
+            "UR-NOTE-MISMATCH",
+            "UR-HRW-MISMATCH",
+            "UR-PAKISTAN-PROFILE",
+            "UR-PAKISTAN-ANNUAL",
+            "UR-ANGOLA",
+            "UR-LIBYA",
+            "UR-UKRAINE",
+            "UR-BIAFRA",
+            "UR-DISCLOSURE-AND-SCOPE",
+            "UR-ACCESS-AND-READING"
+          ],
+          "historical_support_followups": "SOURCE_SUPPORT_FOLLOWUPS.json",
+          "open_historical_source_support_followups": 3,
+          "revision_delta": "REVISION_DELTA.json",
+          "new_preferred_fields_open": 0,
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "publication_application": false
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_unhcr_remaining_20260911",
+      "work_ids": [
+        "title:unhcr ethiopia situation tigray conflict displacement",
+        "title:unhcr protracted displacement in myanmar s ethnic conflicts"
+      ],
+      "records": 2,
+      "seal_sha256": "1b7be75e07fd7675bad85bcd879943affc1b1d07df94f8f2732ebef8472b1fbc",
+      "decision_sha256": [
+        "6622d99b629a9cd399fb0d3a315e589818da90aae23fd4ccdb9e406a9c58c9ad"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_with_open_access_and_dates",
+          "accepted_records": [
+            "title:unhcr ethiopia situation tigray conflict displacement",
+            "title:unhcr protracted displacement in myanmar s ethnic conflicts"
+          ],
+          "required_source_corrections": [],
+          "offered_source_refinements": [
+            "UNHCR-CITATION-0",
+            "UNHCR-CITATION-1"
+          ],
+          "new_preferred_fields_open": 2,
+          "open_questions": [
+            "UNHCR-PUBLICATION-DATE-0",
+            "UNHCR-PUBLICATION-DATE-1"
+          ],
+          "source_followups": [
+            "UNHCR-ORIGIN-ACCESS-0",
+            "UNHCR-ORIGIN-ACCESS-1"
+          ],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "flight_assignments": 0,
+          "publication_application": false,
+          "application_rule": "Use exact indexed identities and reporting years, retaining both null publication dates, the failed original URLs and the inactive Myanmar input. Two fuller citations are offered. Do not substitute a newer map or claim full original-source access."
+        }
+      ],
+      "independent_historical_review": false
+    },
+    {
+      "review_id": "bibliography_worldbank_20260911",
+      "work_ids": [
+        "access:ea331da1ecb7a28815b0",
+        "title:world bank technical assessment of three gorges resettlement"
+      ],
+      "records": 2,
+      "seal_sha256": "5c32a64f480cb8e77ffaa55420747f8504587bf03ba6c226212310f89071157c",
+      "decision_sha256": [
+        "639a77b00f7ddcdc7051fc88fa6d01669bbe572d6b946f2c5242f64f919fb470"
+      ],
+      "accepted_decisions": [
+        {
+          "status": "main_metadata_review_complete_publication_pending",
+          "accepted_records": [
+            "access:ea331da1ecb7a28815b0",
+            "title:world bank technical assessment of three gorges resettlement"
+          ],
+          "accepted_required_source_corrections": [
+            "WB-SOM-CITATION",
+            "WB-CERNEA-CITATION"
+          ],
+          "accepted_offered_source_refinements": [],
+          "accepted_scope_notes": [
+            "WB-SOM-IDENTITY",
+            "WB-SOM-DATES",
+            "WB-SOM-ROLES",
+            "WB-SOM-METHOD",
+            "WB-SOM-DEFINITIONS",
+            "WB-SOM-CONFLICT",
+            "WB-SOM-EVICTIONS",
+            "WB-SOM-COUNT-DATE-LIMITS",
+            "WB-SOM-RETURN-FLIGHT",
+            "WB-CERNEA-IDENTITY",
+            "WB-CERNEA-ROLES",
+            "WB-CERNEA-TABLES",
+            "WB-CERNEA-EVENT-SCOPE",
+            "WB-READING-SCOPE"
+          ],
+          "new_preferred_fields_open": 0,
+          "new_open_passage_followups": [
+            "WB-THREE-GORGES-LATER-EVIDENCE",
+            "WB-SOMALIA-PUNTLAND-CHRONOLOGY",
+            "WB-SOMALIA-RETURNED-EVICTOR-FLIGHT"
+          ],
+          "historical_disposition_changes": 0,
+          "coordinate_changes": 0,
+          "flight_assignments": 0,
+          "publication_application": false,
+          "application_rule": "Use corrected display citations and typed fields in a later successor while retaining both stable IDs and all original log/title/URL/occurrence provenance. Do not merge UNHCR works or change frozen events. Keep projected Three Gorges totals, separate date layers, report-specific definitions and the three source flags. This main source review is not independent scientific acceptance."
+        }
+      ],
+      "independent_historical_review": false
+    }
+  ],
+  "source_captures_included": false,
+  "review_rule": "The sealed decisions are historical review inputs. Their pending-publication wording is not a current deployment status. This register is not an independent review."
+}

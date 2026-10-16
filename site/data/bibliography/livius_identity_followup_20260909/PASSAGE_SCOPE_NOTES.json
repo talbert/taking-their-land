@@ -1,0 +1,14 @@
+{
+  "status": "existing_limits_retained_no_new_historical_disposition",
+  "records": [
+    {
+      "case_id": "ancient-achaemenid-sidonians-susa-babylon",
+      "observation": "Livius\u2019s tentative 346 BCE dating is already covered by the current case\u2019s explicit 345/346 calendar-conversion note. No duplicate date hold or model rerun is warranted."
+    },
+    {
+      "case_id": "prospective-gr-roman-sulla-suessula-veteran-foundation-81-78-bce",
+      "observation": "The current case already treats the general Sullan program as distinct from independent confirmation of the local Liber coloniarum report. A source URL shared with the Volaterrae record does not authorize transplanting that occurrence\u2019s locator into the Suessula card."
+    }
+  ],
+  "newly_accepted_passage_findings": 0
+}

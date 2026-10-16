@@ -1,0 +1,21 @@
+{
+  "status": "reviewed_metadata_label_applied_locally_publication_pending",
+  "corrections": [
+    {
+      "citation_id": "v5_roman_aquileia_livius",
+      "work_id": "url:livius.org/articles/place/aquileia",
+      "before": "Livius, “Aquileia”",
+      "after": "Jona Lendering, “Aquileia” (Livius; article stub)",
+      "url": "https://www.livius.org/articles/place/aquileia",
+      "basis": "Source page names Jona Lendering and marks the article as a stub; both fields are in the sealed metadata review.",
+      "historical_passage_newly_verified": false
+    }
+  ],
+  "current_cases_affected": [
+    "gr-roman-transalpine-gauls-aquileia"
+  ],
+  "citation_ids_changed": 0,
+  "citation_urls_changed": 0,
+  "historical_acceptance_changed": false,
+  "scope": "One byline/stub label. The other nine current citation labels and all original purpose notes and locators are unchanged."
+}

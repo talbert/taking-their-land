@@ -1,0 +1,45 @@
+{
+  "schema": "prior-metadata-application-manifest-v1",
+  "status": "private_application_not_activated",
+  "input_sha256": {
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/release_manifest.json": "1de488fead046484b7aebddd30eda0db4dbb544841f632c2a86b39db4c4bd492",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/PRIOR_METADATA_CARRY_FORWARD_CHECK.json": "01b50efe698fbbdc721309296d58763845cb443a0efbdece98cf38fea238936d",
+    "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+    "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+    "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+    "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+    "analysis/second_pass/v5/CAPE_RELEASE_METADATA_CORRECTIONS.json": "16529acd61400a1b18616329ee88062d2614fc142b9b67ce167f4ee53670d82d",
+    "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+    "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+    "audit/v5_authored_atlas_cases.json": "7442b8695e10c6d2730b0759fd2346f19c663c92a297a2c370f9c19e4f54d7ff",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/events_enriched.json": "4f1ea3bb3755ea09f7cac628484d8ed90cd2cf148638eb0004f2aeb67dd638e8",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/atlas_profiles.json": "234dc8f8036fa3f54072c32a38ef63382fa7ed4700f43bbc75f75d8a51a3fdd0",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/corpus_v2.json": "daeda53679eccc1cf118c312b09a1e27510caabba1f99636f9f7797af6f8e25e",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/analysis_metadata.json": "7c127236226e28caefcb703e99e58944ff12e0b4b44ae6a4504ecb3069681750",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/F8_open_raw_followups.json": "50c5cb2274c38421e22b0e80a148f428b9aab590e0b920402780402bf8da39fa",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/publication_carry_through.json": "56aaed67caa3b9a97c7e947034271a2f86b9ab9cdb9d66e69184b61038a78f2f",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/scores_v2.csv": "0212984016e8aabd6feb46edfd13c8fdf2cb1160c2ff5e17a85fff91a232d6c3",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/na_types_v2.csv": "83884f2ca6d0e370df42d73561fb65ee74e92ecdd92c45258a696bfe139a9ef6"
+  },
+  "implementation_sha256": {
+    "apply_prior_metadata.py": "6fc8192571cbacc13793644da154700bde2340e693d70b8c0326a37c264d8af3",
+    "test_prior_metadata.py": "6a3b5b443da366e3322399220ddfa8d018632fbe89bee5ecee589ebafa3b631d"
+  },
+  "expanded_requests": 43,
+  "requests_applied": 33,
+  "events_changed": 12,
+  "publication_field_changes": 59,
+  "numerical_metadata_events": 2,
+  "raw_scores_changed": false,
+  "missingness_changed": false,
+  "families_changed": false,
+  "historical_results_changed": false,
+  "numerical_addendum_complete": false,
+  "output_sha256": {
+    "events_enriched.json": "ded0daed913c0c344257e9122f2441cbd20a756f4f59f0447cf0dca6252af792",
+    "AMENDED_DATE_CORPUS.json": "4bf7b761ed57043905a1510356bf80db2e9f1ebe546041e58dd9cce493aaaff8",
+    "AMENDED_ANALYSIS_METADATA.json": "f5b8bcbb8f7dc112a966fd10654bb100aab6907f96eb6dd9c3377ff89e4c553c",
+    "APPLICATION_LEDGER.json": "72f82720adb572f304e7ff34f4ef620b02a4d3e62e9c7ac8db3afd208e30b9f3",
+    "DATE_ADDENDUM_INPUTS.json": "42fe15113b271ed9d87388af83d7c1cc452f82b07eb8810ee111fb63fa0259fb"
+  }
+}

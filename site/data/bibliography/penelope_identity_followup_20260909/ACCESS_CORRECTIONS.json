@@ -1,0 +1,35 @@
+[
+  {
+    "status": "accepted_supplementary_access_correction_original_preserved",
+    "work_id": "access:86a7146d4474a1fe35e8",
+    "original_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1B*.html",
+    "original_http_status": 404,
+    "bound_occurrence": "occ:fed57c5fe20c25855489",
+    "intended_locus_source": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_34_SUTRIUM_NEPET_SOURCE_NOTES.md",
+    "intended_locus_lines": "51-52",
+    "original_label": "Velleius Paterculus 1.14.2",
+    "official_index": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/home.html",
+    "official_index_sha256": "c6009d06858c01018083a8205fa85d8293947a5f1825c22c0ad96e08d8c5ee07",
+    "index_link": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1*.html",
+    "verified_candidate_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1*.html#14.2",
+    "target_sha256": "3c99a06cd6e7f3a8a08853dee9e2d6163ca9f9a7931aa59f849ddfb7cd4b89bf",
+    "anchor_exists": true,
+    "limits": "Original URL, occurrence, work ID and source-note prose remain unchanged. This identifies the intended access target; it does not adjudicate chronology or land-transfer interpretation.",
+    "intended_locus_source_sha256": "dc359d29ef3c5627d5b861237d002eb4c57fb13a296d2f5cdd31502099723b4e"
+  },
+  {
+    "status": "accepted_supplementary_access_correction_original_preserved",
+    "work_id": "access:77ce631842a164f0543a",
+    "original_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/Strategemata/1%2A.html#II.7",
+    "original_http_status": 200,
+    "bound_occurrence": "occ:b35f226719e5c4163a50",
+    "intended_locus_source": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_46_TELAMON_SOURCE_NOTES.md",
+    "intended_locus_lines": "135-140",
+    "original_label": "Frontinus, Strategemata 1.2.7",
+    "verified_candidate_url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/Strategemata/1%2A.html#2.7",
+    "target_sha256": "7d3240f6227921cc8ea1a1362af8b19e01a53c5513e9d20e16adc270a0d3f888",
+    "anchor_exists": true,
+    "limits": "Original occurrence, source note and work ID remain unchanged. Roman chapter II is represented by the live HTML anchor 2.7; the original II.7 fragment is absent. This is an access correction only; the earlier historical assessment is not reopened.",
+    "intended_locus_source_sha256": "4942aa58bccc95188df1a8fc3db652b9ca52e8f16c7e0b5990c93c27c88e9b01"
+  }
+]

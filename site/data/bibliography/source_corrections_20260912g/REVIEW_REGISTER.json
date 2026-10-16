@@ -1,0 +1,56 @@
+{
+  "build": "20260912g",
+  "metadata_records_updated": 10,
+  "original_ids_preserved": 1366,
+  "original_occurrences_preserved": 5875,
+  "source_location_annotations": 78,
+  "records": [
+    {
+      "review_id": "bibliography_composite_access_20260913",
+      "work_ids": [
+        "access:0ead9047bd55d3a44c23",
+        "access:d55d9d5dddefeef1696e",
+        "access:ab13c4e552d0620efd92",
+        "title:gorman milesian decrees of isopoliteia and the refoundation of the city"
+      ],
+      "seal_sha256": "f2d03f57fc98d4213dd3ef488a1d5d785a05f4501296da49e411dacfce40f5e5",
+      "decision_sha256": "2a09217cb5b2e81f92297dd44dd47b35acccedd8cbe04e112e1a117e89ba9d46",
+      "validation_sha256": "13e0865de5dee33b13fb70b85e689324223f45d669b8046f400dad2c7ade5358",
+      "reviewed_at": "2026-09-13T01:15:13.424646+00:00",
+      "reviewer": "main_agent",
+      "independent_historical_review": false,
+      "known_fields": 72
+    },
+    {
+      "review_id": "bibliography_source_reuse_20260913",
+      "work_ids": [
+        "access:288a75dfe01f72b2af11",
+        "access:cef5ec83f452351eb4c4",
+        "title:lipson et al 2018 population turnover in remote oceania shortly after initial settlement current biology 28 1157 1165"
+      ],
+      "seal_sha256": "c3120d2a722d9b5afbfb06e27656a12f69eee92cd308d86bd92550bbfd66dd81",
+      "decision_sha256": "da0f7646eaca792f7a447dd24b6f7e4461618bfdac088423175aa8a61c8f4ada",
+      "validation_sha256": "96a37b4a6ab066eb94ca2e8b77f95bf21ef4b3158f734c74cd8a330140227016",
+      "reviewed_at": "2026-09-13T01:37:08.746125+00:00",
+      "reviewer": "main_agent",
+      "independent_historical_review": false,
+      "known_fields": 60
+    },
+    {
+      "review_id": "bibliography_roman_assyrian_20260913",
+      "work_ids": [
+        "access:ee1748254b10f0446513",
+        "access:08671715f4d2243910fd",
+        "title:katsuji sano the expansion of the assyrian empire under ashurnasirpal ii 2015"
+      ],
+      "seal_sha256": "8bf3eba36d42114533d206056df27f8a13fec17c55d4c12b97a0fcfbb137e759",
+      "decision_sha256": "d899be5b5095d84027e1164fae3b84e4e2d1bc472eb66823ee2f15334d4aebb0",
+      "validation_sha256": "7150e8e506354f5aec9833c483f57d242b8b095d511e70f0f1a496840f6b4547",
+      "reviewed_at": "2026-09-13T02:09:02.171573+00:00",
+      "reviewer": "main_agent",
+      "independent_historical_review": false,
+      "known_fields": 29
+    }
+  ],
+  "required_author_repairs": 3
+}

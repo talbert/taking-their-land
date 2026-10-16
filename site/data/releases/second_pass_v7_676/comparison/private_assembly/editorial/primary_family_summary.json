@@ -1,0 +1,22 @@
+{
+  "status": "accepted_editorial_labels_in_private_release_assembly",
+  "event_count": 676,
+  "classified_events": 672,
+  "family_holds": [
+    "gr-roman-setia-foundation-382",
+    "gr-roman-sulla-faesulae-82-78",
+    "prospective-magna-graecia-croton-foundation",
+    "prospective-partial-paeonian-return-during-the-ionian-revolt-approximately-498-bce"
+  ],
+  "family_counts": {
+    "conquest_and_incorporation": 172,
+    "expulsion_or_flight_without_replacement": 173,
+    "land_clearance_for_state_or_project_use": 24,
+    "low_state_durable_expansion": 44,
+    "settler_replacement": 109,
+    "state_directed_demographic_remaking": 150
+  },
+  "alternative_records": 22,
+  "automatic_clustering_used_for_assignment": false,
+  "on_atlas_field": "Inherited metadata field, not a fresh rendered-inventory census."
+}

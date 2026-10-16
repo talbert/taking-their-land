@@ -85,7 +85,7 @@ historical research.
 1. **Crosswalk every benchmark record.** Give each a disposition: existing exact
    match, merged duplicate, new candidate, below threshold, out of temporal
    scope, unsupported, or unresolved. Never silently ignore a record.
-2. **Build an era × region × mechanism review matrix.** At minimum divide the
+2. **Build an era × region × search-mechanism review matrix.** At minimum divide the
    project into prehistoric, ancient, medieval, early modern, nineteenth
    century, 1900–1945, 1945–1989, and 1990–present cells. Record the sources and
    search terms used for each cell.
@@ -94,11 +94,13 @@ historical research.
    Asian imperial population policy, medieval religious and dynastic
    expulsions, early-modern confessional transfers, and precolonial African,
    American, and Oceanian cases. Modern humanitarian indexes cannot cover these.
-4. **Run mechanism sweeps.** Independently review settler replacement,
+4. **Run search-mechanism sweeps.** Independently review settler replacement,
    state-directed demographic remaking, expulsions and blocked return,
    conflict flight, population exchange, coerced labor movement, dams and
    infrastructure, military clearance, conservation removal, and extraction or
-   plantation land seizure.
+   plantation land seizure. These ten terms are discovery prompts only. They
+   are not a public taxonomy or coded event field, and they do not revive the
+   normalized mechanism vocabulary that failed its reliability retest.
 5. **Keep a candidate ledger.** Every proposed event receives its sources,
    closest existing event, inclusion reasoning, rejection reasoning when
    applicable, and reviewer/date. Preserve negative findings. For older-era
@@ -115,9 +117,10 @@ historical research.
    sources, event boundaries, confidence, exclusions, and known blind spots
    visible. Invite public and specialist challenges, prioritize weak cells, and
    disposition every substantive correction in the candidate ledger.
-8. **Repeat after corrections.** A gap scan that finds events is evidence to
-   update the register and run another scan, not evidence that the search is
-   finished.
+8. **Repeat the implicated cause class after corrections.** Cause-code each
+   omission and rescan the discovery method or scope that missed it, while
+   retaining periodic cross-class checks. Do not restart every historical
+   search indefinitely.
 
 ## Relationship to the statistical second pass
 
@@ -315,25 +318,29 @@ remains in an undefined open bucket, and no pair of successive independent
 zero-new-event scans has occurred. The project therefore may describe a
 validated first expansion, but not completed comprehensive due diligence.
 
-## Completion evidence
+## Declared-scope coverage-report evidence
 
-The project may say it performed strong due diligence when all of the following
-are true:
+The project may publish a finite coverage report for a declared scope when all
+of the following are true:
 
 - 100% of records from the declared benchmark datasets have a documented
   disposition.
-- Every era × region × mechanism cell has a named review source or an explicit
-  evidence limitation.
+- Every applicable era × controlled-region × search-mechanism cell has at least
+  two methodologically distinct search channels, or an explicit non-applicable
+  or evidence/access-limited disposition. Any unsearched cell is listed.
 - Every included event has stable provenance, source minimums, and an event-unit
   review; every exclusion has a reason.
 - Cross-dataset duplicates and umbrella events are resolved explicitly.
-- Two successive independent gap scans find no new high-confidence event above
-  the declared inclusion threshold. If either scan finds one, incorporate it and
-  restart the saturation check.
+- Every located candidate has a current disposition, including explicit holds;
+  search leads without real source locators remain separately identified.
+- Channel yields and overlaps, valid benchmark-disposition fractions, and known
+  unsearched cells are published. No global coverage percentage is reported
+  without a specified and validated estimator.
 - The remaining uncertainties and known blind spots are published alongside the
   coverage claim.
 
-The defensible wording is then: **the atlas was cross-indexed, independently
-gap-tested to saturation under a published scope, and released as a publicly
-auditable version with a correction record.** Do not claim that the register is
-a mathematically complete census of history.
+The defensible wording is then: **this coverage report states the declared
+scope, where and how the atlas searched, what it found, every current candidate
+disposition, and the remaining limitations.** It closes that declared search
+program, not history. Later evidence may reopen a cell. Do not claim saturation,
+historical completeness, or a mathematically complete census.

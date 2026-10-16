@@ -1,0 +1,60 @@
+{
+  "build": "20260912c",
+  "records": [
+    {
+      "review_id": "bibliography_ubc_20260912",
+      "work_ids": [
+        "title:eyford 2016 white settler reserve",
+        "title:harris 2020 a bounded land",
+        "title:ruck 2021 the laws and the land"
+      ],
+      "records": 3,
+      "seal_sha256": "611eac654a69a6c1c009cd17ebda61db4d408b41c201eb1cd6a6e3cb00498ba8",
+      "decision_sha256": "b981ad70fab41ef20fdbc6c2e3e6a7e6711ff1ecbad1ff03bfc65b136066cd07",
+      "validation_sha256": "0e2239297cf54b1defd08f6c9bd666e625d2ca109b335649612baf410e0a472f",
+      "accepted_decision": {
+        "status": "main_metadata_review_accepted_with_explicit_limits",
+        "accepted_records": 3,
+        "required_source_repairs": 0,
+        "offered_source_refinements": 3,
+        "new_preferred_metadata_questions": 0,
+        "open_passage_groups": 3,
+        "new_migration_pressure_leads": 1,
+        "historical_changes": 0,
+        "publication_applied": false,
+        "basis": "Main 21/13/6 review; 71 Matched groups. Historical case support and flight adjudication remain separate."
+      },
+      "reviewed_at": "2026-09-12T04:25:34.287010+00:00",
+      "historical_independent_review": false
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "work_ids": [
+        "access:d9e3a18069a93cd5730d",
+        "title:contacts of languages in the hittite empire",
+        "title:tero alstola judeans in babylonia a study of deportees in the sixth and fifth centuries bce brill 2020",
+        "url:brill.com/downloadpdf/display/title/64787.pdf"
+      ],
+      "records": 4,
+      "seal_sha256": "12c17b89e7d8b6c1d89cf4434acfda8ec905e62f33fe9b643deee9717d05274f",
+      "decision_sha256": "d56283583998261aabce0fbcd251eb438a83bb0901621e67c0746d26dab6c406",
+      "validation_sha256": "1482e759d01912bb01ffaae2c73c651e1efad917547eb6bff25df75214ec5b4c",
+      "accepted_decision": {
+        "status": "main_metadata_review_accepted_with_explicit_limits",
+        "accepted_records": 4,
+        "required_source_repairs": 1,
+        "offered_source_refinements": 1,
+        "required_locator_errata": 1,
+        "new_preferred_metadata_questions": 4,
+        "historical_changes": 0,
+        "publication_applied": false,
+        "basis": "75 known leaves, nine scope/disclosure groups and four unknown preferred dates; main 21/13/6 review."
+      },
+      "reviewed_at": "2026-09-12T04:41:55.241791+00:00",
+      "historical_independent_review": false
+    }
+  ],
+  "metadata_records_updated": 7,
+  "original_ids_preserved": 1366,
+  "original_occurrences_preserved": 5875
+}

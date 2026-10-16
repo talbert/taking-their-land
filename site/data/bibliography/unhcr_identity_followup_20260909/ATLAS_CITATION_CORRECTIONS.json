@@ -1,0 +1,334 @@
+{
+  "status": "reviewed_metadata_labels_applied_locally_publication_pending",
+  "corrections": [
+    {
+      "citation_id": "eu_cyprus_displacement_unhcr",
+      "work_id": "title:unhcr archive gallery cyprus 1974",
+      "before": "UNHCR Archive Gallery: Cyprus 1974",
+      "after": "UNHCR Archive Gallery Cyprus 1974",
+      "url": "https://www.unhcr.org/africa/publications/unhcr-archive-gallery-cyprus-1974",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "eu_bosnia_displacement_unhcr",
+      "work_id": "title:unhcr global appeal 1999 bosnia and herzegovina",
+      "before": "UNHCR Global Appeal 1999: Bosnia and Herzegovina",
+      "after": "UNHCR Global Appeal 1999 - Bosnia and Herzegovina",
+      "url": "https://www.unhcr.org/uk/publications/unhcr-global-appeal-1999-bosnia-and-herzegovina",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "eu_kosovo_return_unhcr",
+      "work_id": "title:unhcr begins organized repatriation of kosovar refugees",
+      "before": "UNHCR begins organized repatriation of Kosovar refugees",
+      "after": "Public Information Section. UNHCR begins organized repatriation of Kosovar refugees",
+      "url": "https://www.unhcr.org/news/press-releases/unhcr-begins-organized-repatriation-kosovar-refugees",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "mena_kuwait_palestinians_unhcr",
+      "work_id": "title:unhcr historical account of the 1991 palestinian displacement from kuwait",
+      "before": "UNHCR historical account of the 1991 Palestinian displacement from Kuwait",
+      "after": "Nicholas Morris. As it happened: Eight accounts of experiences with UNHCR",
+      "url": "https://www.unhcr.org/blogs/wp-content/uploads/sites/48/2024/08/AIH-master-8-rfmt.1.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "ca_chechnya_unhcr",
+      "work_id": "title:unhcr return and displacement after the chechen wars",
+      "before": "UNHCR, Return and displacement after the Chechen wars",
+      "after": "William Spindler. UNHCR helps returnees rebuild their lives as stability returns to Chechnya",
+      "url": "https://www.unhcr.org/uk/news/stories/unhcr-helps-returnees-rebuild-their-lives-stability-returns-chechnya",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "af_rwanda_displacement_unhcr",
+      "work_id": "title:unhcr the rwandan genocide and its aftermath",
+      "before": "UNHCR, The Rwandan Genocide and Its Aftermath",
+      "after": "The State of The World's Refugees 2000: Fifty Years of Humanitarian Action, chapter 10: The Rwandan genocide and its aftermath",
+      "url": "https://www.unhcr.org/africa/sites/afr/files/legacy-pdf/3ebf9bb60.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "asia_partition_1947_unhcr",
+      "work_id": "title:unhcr state of the world s refugees decolonization in south asia",
+      "before": "UNHCR, State of the World's Refugees: Decolonization in South Asia",
+      "after": "The State of The World's Refugees 2000: Fifty Years of Humanitarian Action, chapter 3: Rupture in South Asia",
+      "url": "https://www.unhcr.org/in/sites/en-in/files/legacy-pdf/3ebf9bab0.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "asia_bangladesh_1971_unhcr",
+      "work_id": "title:un high commissioner for refugees statement on east pakistan refugees 5 may 1971",
+      "before": "UN High Commissioner for Refugees statement on East Pakistan refugees, 5 May 1971",
+      "after": "Statement of Prince Sadruddin Aga Khan, United Nations High Commissioner for Refugees, about refugees from East Pakistan, and complete text of Press Conference questions and answers, 5 May 1971",
+      "url": "https://www.unhcr.org/publications/statement-prince-sadruddin-aga-khan-united-nations-high-commissioner-refugees-about",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "asia_rohingya_unhcr",
+      "work_id": "title:unhcr rohingya emergency",
+      "before": "UNHCR, Rohingya Emergency",
+      "after": "Rohingya emergency",
+      "url": "https://www.unhcr.org/emergencies/rohingya-emergency",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_burundi_1972_unhcr",
+      "work_id": "title:unhcr programme to resolve the situation of 1972 burundian refugees",
+      "before": "UNHCR, programme to resolve the situation of 1972 Burundian refugees",
+      "after": "Eveline Wolfcarius, Millicent Mutuli. UNHCR begins programme to resolve situation of 1972 Burundian refugees",
+      "url": "https://www.unhcr.org/news/stories/unhcr-begins-programme-resolve-situation-1972-burundian-refugees",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_burundi_crises_unhcr",
+      "work_id": "title:unhcr burundi recurring crises and large scale displacement",
+      "before": "UNHCR, Burundi recurring crises and large-scale displacement",
+      "after": "Katherine Haver, Felicien Hatungimana, Vicky Tennant. Money matters: An evaluation of the use of cash grants in UNHCR’s voluntary repatriation and reintegration programme in Burundi",
+      "url": "https://www.unhcr.org/us/sites/en-us/files/legacy-pdf/4a5f436d9.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_drc_conflicts_unhcr",
+      "work_id": "title:unhcr successive conflicts and displacement in the democratic republic of the congo",
+      "before": "UNHCR, successive conflicts and displacement in the Democratic Republic of the Congo",
+      "after": "Democratic Republic of the Congo, Rwanda and UNHCR discuss returns",
+      "url": "https://www.unhcr.org/news/briefing-notes/democratic-republic-congo-rwanda-and-unhcr-discuss-returns",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_darfur_unhcr",
+      "work_id": "title:unhcr darfur refugees fleeing bombardment and militia attacks",
+      "before": "UNHCR, Darfur refugees fleeing bombardment and militia attacks",
+      "after": "UNHCR relocation operation for Darfur refugees tops 100,000",
+      "url": "https://www.unhcr.org/us/news/press-releases/unhcr-relocation-operation-darfur-refugees-tops-100-000",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_sudan_2023_unhcr",
+      "work_id": "title:unhcr sudan situation appeal 2026",
+      "before": "UNHCR Sudan Situation Appeal 2026",
+      "after": "Sudan Situation: UNHCR Appeal 2026",
+      "url": "https://www.unhcr.org/sites/default/files/2026-02/UNHCR%20Sudan%20Situation%20Appeal%202026.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_south_sudan_unhcr",
+      "work_id": "title:unhcr culture context and mental health in south sudanese displacement",
+      "before": "UNHCR, culture, context and mental health in South Sudanese displacement",
+      "after": "Tankink, M., Belay, H.T., Mukasa, M.B., Nieuwe Weme, D., Burman, M., Ventevogel, P.. Culture, context and mental health and psychosocial well-being of refugees and internally displaced persons from South Sudan",
+      "url": "https://www.unhcr.org/africa/sites/afr/files/2023-03/63eba35c7.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_somalia_civil_unhcr",
+      "work_id": "title:unhcr somali refugee displacements in the near region",
+      "before": "UNHCR, Somali refugee displacements in the near region",
+      "after": "Laura Hammond. Somali refugee displacements in the near region: Analysis and Recommendations",
+      "url": "https://www.unhcr.org/sites/default/files/legacy-pdf/55152c699.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_mozambique_unhcr",
+      "work_id": "title:unhcr mozambique revisited after civil war displacement",
+      "before": "UNHCR, Mozambique revisited after civil-war displacement",
+      "after": "Ray Wilkinson. Home Sweet Home — Refugees (112, II - 1998)",
+      "url": "https://www.unhcr.org/africa/publications/refugees-magazine-issue-112-going-home-mozambique-revisited-home-sweet-home",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_sierra_leone_unhcr",
+      "work_id": "title:unhcr global appeal 1999 sierra leone",
+      "before": "UNHCR Global Appeal 1999: Sierra Leone",
+      "after": "UNHCR Global Appeal 1999 - Sierra Leone",
+      "url": "https://www.unhcr.org/africa/publications/unhcr-global-appeal-1999-sierra-leone",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_liberia_unhcr",
+      "work_id": "title:unhcr internally displaced people in liberia s civil war",
+      "before": "UNHCR, internally displaced people in Liberia's civil war",
+      "after": "Francis Kpatindé. So close, yet so far — Refugees (103, I - 1996)",
+      "url": "https://www.unhcr.org/us/publications/refugees-magazine-issue-103-idps-so-close-yet-so-far",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_uganda_lra_unhcr",
+      "work_id": "title:unhcr displacement caused by the lra war in northern uganda",
+      "before": "UNHCR, displacement caused by the LRA war in northern Uganda",
+      "after": "Peter-Bastian Halberg. Displaced in Uganda face psychological barrier to return home",
+      "url": "https://www.unhcr.org/uk/node/10759",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_car_unhcr",
+      "work_id": "title:unhcr central african republic conflict and mass displacement",
+      "before": "UNHCR, Central African Republic conflict and mass displacement",
+      "after": "Karin de Gruijl. More than 850,000 people in volatile Central African Republic remain displaced",
+      "url": "https://www.unhcr.org/news/stories/more-850-000-people-volatile-central-african-republic-remain-displaced",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_boko_haram_unhcr",
+      "work_id": "title:unhcr boko haram displacement in the lake chad basin",
+      "before": "UNHCR, Boko Haram displacement in the Lake Chad Basin",
+      "after": "Nigeria Situation 2017: Supplementary Appeal; revised July 2017",
+      "url": "https://www.unhcr.org/sites/default/files/legacy-pdf/597704b87.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_sahel_unhcr",
+      "work_id": "title:unhcr central sahel forced displacement crisis",
+      "before": "UNHCR, Central Sahel forced-displacement crisis",
+      "after": "UNHCR urges global response to neglected humanitarian crisis in the Sahel",
+      "url": "https://www.unhcr.org/news/briefing-notes/unhcr-urges-global-response-neglected-humanitarian-crisis-sahel",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_cameroon_anglophone_unhcr",
+      "work_id": "title:unhcr supplementary appeal for anglophone cameroon displacement",
+      "before": "UNHCR supplementary appeal for Anglophone Cameroon displacement",
+      "after": "Cameroon Situation: Responding to the needs of IDPs and Cameroonian refugees in Nigeria",
+      "url": "https://www.unhcr.org/sites/default/files/2021-12/UNHCR%2520Cameroon%25202019%2520Supplementary%2520Appeal%2520%2528March%25202019%2529.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_afghanistan_unhcr",
+      "work_id": "title:unhcr afghanistan ten years after the soviet withdrawal",
+      "before": "UNHCR, Afghanistan ten years after the Soviet withdrawal",
+      "after": "Afghanistan 10 years after Soviet pull-out",
+      "url": "https://www.unhcr.org/us/news/briefing-notes/afghanistan-10-years-after-soviet-pull-out",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_syria_unhcr",
+      "work_id": "title:unhcr chronology of syria s displacement crisis",
+      "before": "UNHCR, chronology of Syria's displacement crisis",
+      "after": "Syria Fact Sheet - Timeline and Figures",
+      "url": "https://www.unhcr.org/sites/default/files/legacy-pdf/5245a72e6.pdf",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_iraq_sectarian_unhcr",
+      "work_id": "title:unhcr iraq displacement from 20062008 sectarian violence",
+      "before": "UNHCR, Iraq displacement from 2006–2008 sectarian violence",
+      "after": "UNHCR concerned as recent waves of sectarian violence threatens new internal displacement of Iraqis",
+      "url": "https://www.unhcr.org/us/news/briefing-notes/unhcr-concerned-recent-waves-sectarian-violence-threatens-new-internal",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_yemen_unhcr",
+      "work_id": "title:unhcr five years of conflict displacement in yemen",
+      "before": "UNHCR, five years of conflict displacement in Yemen",
+      "after": "UNHCR staff in Marib, Yemen. Yemen sees fresh displacement after five years of conflict",
+      "url": "https://www.unhcr.org/news/stories/yemen-sees-fresh-displacement-after-five-years-conflict",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_indochina_unhcr",
+      "work_id": "title:unhcr seventy years of protection the indochinese exodus",
+      "before": "UNHCR, seventy years of protection: the Indochinese exodus",
+      "after": "70 years of protecting people forced to flee",
+      "url": "https://www.unhcr.org/spotlight/2020/12/70-years-of-protecting-people-forced-to-flee/",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_laos_hmong_unhcr",
+      "work_id": "title:unhcr lao hmong refugee history after 1975",
+      "before": "UNHCR, Lao Hmong refugee history after 1975",
+      "after": "Thailand: UNHCR calls for end of three-year detention of Lao Hmong",
+      "url": "https://www.unhcr.org/node/10142/",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_sri_lanka_unhcr",
+      "work_id": "title:unhcr displacement during sri lanka s civil war",
+      "before": "UNHCR, displacement during Sri Lanka's civil war",
+      "after": "Kitty McKinsey. UNHCR chief says only peace can provide solution for Sri Lanka's displaced",
+      "url": "https://www.unhcr.org/node/11214",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_tajik_civil_unhcr",
+      "work_id": "title:unhcr tajikistan civil war displacement and repatriation",
+      "before": "UNHCR, Tajikistan civil-war displacement and repatriation",
+      "after": "Update on voluntary repatriation movements (EC/1995/SC.2/CRP.12)",
+      "url": "https://www.unhcr.org/publications/update-voluntary-repatriation-movements",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_nepal_civil_unhcr",
+      "work_id": "title:unhcr return of people displaced by nepal s civil conflict",
+      "before": "UNHCR, return of people displaced by Nepal's civil conflict",
+      "after": "Nini Gurung. Cautious return for Nepal's displaced people",
+      "url": "https://www.unhcr.org/uk/news/stories/cautious-return-nepals-displaced-people",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_colombia_displacement",
+      "work_id": "title:unhcr colombia internal armed conflict and forced displacement",
+      "before": "UNHCR Colombia: internal armed conflict and forced displacement",
+      "after": "Colombia",
+      "url": "https://www.unhcr.org/where-we-work/countries/colombia",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_central_america_unhcr",
+      "work_id": "title:unhcr regional overview central american civil war displacement",
+      "before": "UNHCR regional overview: Central American civil-war displacement",
+      "after": "UNHCR Global Appeal 1999 - Regional Overview: Central America",
+      "url": "https://www.unhcr.org/in/publications/unhcr-global-appeal-1999-regional-overview-central-america",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    },
+    {
+      "citation_id": "modern_nicaragua_2018_unhcr",
+      "work_id": "title:unhcr nicaraguan displacement after the 2018 crisis",
+      "before": "UNHCR, Nicaraguan displacement after the 2018 crisis",
+      "after": "Two years of political and social crisis in Nicaragua force more than 100,000 to flee",
+      "url": "https://www.unhcr.org/news/briefing-notes/two-years-political-and-social-crisis-nicaragua-force-more-100000-flee",
+      "basis": "Rendering of sealed, reviewed typed title/author/component fields. No new historical claim.",
+      "historical_passage_newly_verified": false
+    }
+  ],
+  "citation_ids_changed": 0,
+  "citation_urls_changed": 0,
+  "historical_acceptance_changed": false,
+  "scope": "Source catalog title/author/component metadata only. None of the 36 corrected references is used by the 370 currently displayed cases. Original labels remain in this ledger and unchanged occurrence history.",
+  "currently_displayed_cases_using_corrected_references": 0
+}

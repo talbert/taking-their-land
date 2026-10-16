@@ -1,0 +1,15 @@
+{
+  "groups": [
+    {
+      "work_ids": [
+        "access:17b27b2d4e7ffec12d58",
+        "access:c4286a0ba275337d7552"
+      ],
+      "relation": "same_named_Periochae_translation_distinct_access_views",
+      "basis": "Both requested pages name books 86\u201390 and Jona Lendering; the test-site level=4 view displays Book 89 in a different ordering and carries different page dates.",
+      "merged": false,
+      "byte_equivalence_claimed": false
+    }
+  ],
+  "policy": "Preserve both existing identities and all original occurrences."
+}

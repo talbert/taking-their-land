@@ -1,0 +1,13 @@
+{
+  "status": "LOSSLESS_RESULTS_ARCHIVE_VERIFIED",
+  "source": "run_20260908a/RESULTS.json",
+  "raw_bytes": 32385697,
+  "raw_sha256": "56a3a5db90f84c1e8691160ed6eb565b30df60f5f8062eb4bbb8a1d44c745287",
+  "gzip_file": "RESULTS.json.gz",
+  "gzip_bytes": 3504774,
+  "gzip_sha256": "09c32316f1f6f749561503e8017cd1cd818195dc6f20bcfbbdd911b96ddfd3e0",
+  "script_sha256": "abbb678cdba8a4c6481e9c9e71949bda7bd9a679e98d5750f273314bd6f38840",
+  "restore": "Decompress into the recorded RESULTS.json path if absent; verify raw_sha256 before use. Never overwrite a differing result.",
+  "original_removed": false,
+  "cache_scope": "Completed whole-unit caches remain local/private-backup recovery artifacts, not part of this Git archive."
+}

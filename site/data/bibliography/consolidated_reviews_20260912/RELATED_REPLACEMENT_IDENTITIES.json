@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "replacement_id": "replacement:minorityrights.org/country/western-sahara/",
+      "replaces_display_access_for_work_id": "title:minority rights group sahrawis",
+      "typed_fields": {
+        "title": "Western Sahara",
+        "issuing_organization": "Minority Rights Group",
+        "source_type": "country profile",
+        "url": "https://minorityrights.org/country/western-sahara/",
+        "content_updated": "2025-11",
+        "relationship": "Different, updated country-level document; not an identical mirror of the selected community profile.",
+        "existing_composite_identity": null
+      },
+      "citation_id": "mrg_sahrawis",
+      "original_identity_preserved": true,
+      "inventory_membership": "Separate replacement-source register; not an added or overwritten original inventory record.",
+      "scope": "Different country profile, with its own November 2025 update. No transfer of this date to the original community profile."
+    }
+  ]
+}

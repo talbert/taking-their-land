@@ -1,0 +1,476 @@
+{
+  "source": "monograph/bibliography_20260908/august_inventory/MONOGRAPH_DRAFT_v1.md",
+  "source_sha256": "5dd1ff5aaa09ac95434e3cdd1035104684c38cf919888778fbd34c5875d5c3bb",
+  "review_date": "2026-09-08",
+  "count": 41,
+  "cited": 27,
+  "background": 14,
+  "entries": [
+    {
+      "anchor_id": "acemoglu-2001",
+      "author_label": "Acemoglu",
+      "year": "2001",
+      "canonical_citation": "Acemoglu, D., S. Johnson, and J. A. Robinson. 2001. \"The Colonial Origins of Comparative Development: An Empirical Investigation.\" *American Economic Review* 91 (5): 1369–1401.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "aimark 2001; Mann 2005), political economy around land and labor regimes (Nieboer 1900; Domar 1970; Acemoglu, Johnson, and Robinson 2001), historical demography and archaeogenetics around measurable population turnover (Haak et al. 2015; Reich 2018), and the study of state formation around sover"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "allentoft-2024",
+      "author_label": "Allentoft",
+      "year": "2024",
+      "canonical_citation": "Allentoft, M. E., et al. 2024. \"100 Ancient Genomes Show Repeated Population Turnovers in Neolithic Denmark.\" *Nature* 625: 329–337.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "belich-2009",
+      "author_label": "Belich",
+      "year": "2009",
+      "canonical_citation": "Belich, J. 2009. *Replenishing the Earth: The Settler Revolution and the Rise of the Anglo-World, 1783–1939*. Oxford University Press.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "brace-2019",
+      "author_label": "Brace",
+      "year": "2019",
+      "canonical_citation": "Brace, S., et al. 2019. \"Ancient Genomes Indicate Population Replacement in Early Neolithic Britain.\" *Nature Ecology & Evolution* 3: 765–771.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "bulutgil-2016",
+      "author_label": "Bulutgil",
+      "year": "2016",
+      "canonical_citation": "Bulutgil, H. Z. 2016. *The Roots of Ethnic Cleansing in Europe*. Cambridge University Press.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "cavanagh-2017",
+      "author_label": "Cavanagh",
+      "year": "2017",
+      "canonical_citation": "Cavanagh, E., and L. Veracini, eds. 2017. *The Routledge Handbook of the History of Settler Colonialism*. Routledge.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "cohen-2013",
+      "author_label": "Cohen",
+      "year": "2013",
+      "canonical_citation": "Cohen, G. M. 2013. *The Hellenistic Settlements in the East from Armenia and Mesopotamia to Bactria and India*. University of California Press.",
+      "use_status": "cited",
+      "matched_contexts": [
+        ". (A further Hellenistic-eastern pre-coding queue, anchored in the standard settlement catalogues — Cohen 2013 for the East — was held outside that release pending the same gates.) The then-current statistical release, `second_pass_v6_675`, held 675 active events in an "
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "domar-1970",
+      "author_label": "Domar",
+      "year": "1970",
+      "canonical_citation": "Domar, E. D. 1970. \"The Causes of Slavery or Serfdom: A Hypothesis.\" *Journal of Economic History* 30 (1): 18–32.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "mkin 1944; Naimark 2001; Mann 2005), political economy around land and labor regimes (Nieboer 1900; Domar 1970; Acemoglu, Johnson, and Robinson 2001), historical demography and archaeogenetics around measurable population turnover (Haak et al. 2015; Reich 2018), and the"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "fieldhouse-1966",
+      "author_label": "Fieldhouse",
+      "year": "1966",
+      "canonical_citation": "Fieldhouse, D. K. 1966. *The Colonial Empires: A Comparative Survey from the Eighteenth Century*. Weidenfeld & Nicolson.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "gilardi-2023",
+      "author_label": "Gilardi",
+      "year": "2023",
+      "canonical_citation": "Gilardi, F., M. Alizadeh, and M. Kubli. 2023. \"ChatGPT Outperforms Crowd Workers for Text-Annotation Tasks.\" *PNAS* 120 (30): e2305016120.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "e (the `-1`/`-2` rule) after the pilot. (Cf. emerging practice on LLM annotation in social science: Gilardi, Alizadeh, and Kubli 2023; Ziems et al. 2024.) ### 4.1 Pilot Two independent agent coders (separate contexts, no communication) coded the same six maximally different events — Yamnaya l"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "gordillo-2004",
+      "author_label": "Gordillo",
+      "year": "2004",
+      "canonical_citation": "Gordillo, G. R. 2004. *Landscapes of Devils: Tensions of Place and Memory in the Argentinean Chaco*. Duke University Press.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "-DeHart 1974), the register's first event with Mexico as perpetrator; the Argentine Chaco conquest (Gordillo 2004), a gap the register's own Argentina entry had named; the Neo-Assyrian and Neo-Babylonian deportation systems; Umayyad Iberia; the Danelaw; Ottoman sürgün; and"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "haak-2015",
+      "author_label": "Haak",
+      "year": "2015",
+      "canonical_citation": "Haak, W., et al. 2015. \"Massive Migration from the Steppe Was a Source for Indo-European Languages in Europe.\" *Nature* 522: 207–211.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "nd Robinson 2001), historical demography and archaeogenetics around measurable population turnover (Haak et al. 2015; Reich 2018), and the study of state formation around sovereignty, legibility, and borders (Scott 1998; Tilly 1990; Maier 2016). Each vocabulary illuminates th",
+        "storic case scores sex-biased admixture from ancient-DNA evidence (e.g., steppe-ancestry turnovers: Haak et al. 2015; Olalde et al. 2019) where a modern case scores passenger manifests and censuses. ### 3.3 Unknown is not inapplicable The pilot (§4.1) surfaced a distinction t"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "hennig-2007",
+      "author_label": "Hennig",
+      "year": "2007",
+      "canonical_citation": "Hennig, C. 2007. \"Cluster-Wise Assessment of Cluster Stability.\" *Computational Statistics & Data Analysis* 52 (1): 258–271.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "tte 0.24 on the first pass) that pass casual inspection. Testing undoes them. Bootstrap resampling (Hennig 2007) finds only four of ten clusters stable; the stability-optimal k = 6 solution (mean Jaccard 0.842 on the first pass; 0.803 at 490 events) is *stable but shallo"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "hennig-2015",
+      "author_label": "Hennig",
+      "year": "2015",
+      "canonical_citation": "Hennig, C. 2015. \"What Are the True Clusters?\" *Pattern Recognition Letters* 64: 53–62.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "they were facts about the past rather than facts about a corpus, an encoding, and an algorithm (cf. Hennig 2015 on the method-dependence of \"true\" clusters). The process was iterative rather than a single pre-planned protocol; §5–§6 therefore distinguish explicitly betwe",
+        " that history contains no natural kinds, and stable clusters can themselves be artifacts of method (Hennig 2015). What the record shows is narrower and sufficient: **no tested automatic partition is robust enough to serve as the atlas's public taxonomy.** The phrase \"no "
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "horn-1965",
+      "author_label": "Horn",
+      "year": "1965",
+      "canonical_citation": "Horn, J. L. 1965. \"A Rationale and Test for the Number of Factors in Factor Analysis.\" *Psychometrika* 30 (2): 179–185.",
+      "use_status": "cited",
+      "matched_contexts": [
+        " a boundary-sensitive count ### 5.1 The factor solution at the analysis baseline Parallel analysis (Horn 1965) against a simulated null retains **eight factors** on the 407-event first-pass matrix and again on the 490-event expansion. The axes of that eight-factor solu"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "hu-dehart-1974",
+      "author_label": "Hu-DeHart",
+      "year": "1974",
+      "canonical_citation": "Hu-DeHart, E. 1974. \"Development and Rural Rebellion: Pacification of the Yaquis in the Late Porfiriato.\" *Hispanic American Historical Review* 54 (1): 72–93.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "h the register's ethnic-deportation coverage had missed entirely; the Porfirian Yaqui deportations (Hu-DeHart 1974), the register's first event with Mexico as perpetrator; the Argentine Chaco conquest (Gordillo 2004), a gap the register's own Argentina entry had named; the "
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "hubert-1985",
+      "author_label": "Hubert",
+      "year": "1985",
+      "canonical_citation": "Hubert, L., and P. Arabie. 1985. \"Comparing Partitions.\" *Journal of Classification* 2: 193–218.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "lemkin-1944",
+      "author_label": "Lemkin",
+      "year": "1944",
+      "canonical_citation": "Lemkin, R. 1944. *Axis Rule in Occupied Europe: Laws of Occupation, Analysis of Government, Proposals for Redress*. Washington, DC: Carnegie Endowment for International Peace.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "s (Wolfe 2006; Veracini 2010), genocide and forced-migration studies around destruction and flight (Lemkin 1944; Naimark 2001; Mann 2005), political economy around land and labor regimes (Nieboer 1900; Domar 1970; Acemoglu, Johnson, and Robinson 2001), historical demogra"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "lipson-2018",
+      "author_label": "Lipson",
+      "year": "2018",
+      "canonical_citation": "Lipson, M., et al. 2018. \"Ancient Genomes Document Multiple Waves of Migration in Southeast Asian Prehistory.\" *Science* 361: 92–95.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "maier-2016",
+      "author_label": "Maier",
+      "year": "2016",
+      "canonical_citation": "Maier, C. S. 2016. *Once Within Borders: Territories of Power, Wealth, and Belonging since 1500*. Belknap Press of Harvard University Press.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "d the study of state formation around sovereignty, legibility, and borders (Scott 1998; Tilly 1990; Maier 2016). Each vocabulary illuminates the cases it was built on and strains on its neighbors'. The result, familiar to any comparative reader, is a taxonomy problem: c"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "malhi-2008",
+      "author_label": "Malhi",
+      "year": "2008",
+      "canonical_citation": "Malhi, R. S., et al. 2008. \"Distribution of Y Chromosomes among Native North Americans: A Study of Athapaskan Population History.\" *American Journal of Physical Anthropology* 137 (4): 412–424. https://doi.org/10.1002/ajpa.20883.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "nts and main dispositions are reported above. Its first checked case remains a useful illustration. Malhi et al. (2008) support a small proto-Apachean movement into the Southwest and extensive admixture, but the opened passages do not establish prior-population displacement, te"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "mann-2005",
+      "author_label": "Mann",
+      "year": "2005",
+      "canonical_citation": "Mann, M. 2005. *The Dark Side of Democracy: Explaining Ethnic Cleansing*. Cambridge University Press.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "0), genocide and forced-migration studies around destruction and flight (Lemkin 1944; Naimark 2001; Mann 2005), political economy around land and labor regimes (Nieboer 1900; Domar 1970; Acemoglu, Johnson, and Robinson 2001), historical demography and archaeogenetics a"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "naimark-2001",
+      "author_label": "Naimark",
+      "year": "2001",
+      "canonical_citation": "Naimark, N. M. 2001. *Fires of Hatred: Ethnic Cleansing in Twentieth-Century Europe*. Harvard University Press.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "; Veracini 2010), genocide and forced-migration studies around destruction and flight (Lemkin 1944; Naimark 2001; Mann 2005), political economy around land and labor regimes (Nieboer 1900; Domar 1970; Acemoglu, Johnson, and Robinson 2001), historical demography and archae"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "nieboer-1900",
+      "author_label": "Nieboer",
+      "year": "1900",
+      "canonical_citation": "Nieboer, H. J. 1900. *Slavery as an Industrial System: Ethnological Researches*. Martinus Nijhoff.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "and flight (Lemkin 1944; Naimark 2001; Mann 2005), political economy around land and labor regimes (Nieboer 1900; Domar 1970; Acemoglu, Johnson, and Robinson 2001), historical demography and archaeogenetics around measurable population turnover (Haak et al. 2015; Reich 20"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "oded-1979",
+      "author_label": "Oded",
+      "year": "1979",
+      "canonical_citation": "Oded, B. 1979. *Mass Deportations and Deportees in the Neo-Assyrian Empire*. Reichert.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "our under Šamši-Adad V) from a seventy-five-record ruler-by-ruler ledger of the royal inscriptions (Oded 1979; project ledgers `EARLY_NEO_ASSYRIAN_SOURCE_REVIEW.md`, `_EVENT_UNITS.md`); and the third statistical release retired two published Roman wrapper cases (`med-r"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "olalde-2018",
+      "author_label": "Olalde",
+      "year": "2018",
+      "canonical_citation": "Olalde, I., et al. 2018. \"The Beaker Phenomenon and the Genomic Transformation of Northwest Europe.\" *Nature* 555: 190–196.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "olalde-2019",
+      "author_label": "Olalde",
+      "year": "2019",
+      "canonical_citation": "Olalde, I., et al. 2019. \"The Genomic History of the Iberian Peninsula over the Past 8000 Years.\" *Science* 363: 1230–1234.",
+      "use_status": "cited",
+      "matched_contexts": [
+        " sex-biased admixture from ancient-DNA evidence (e.g., steppe-ancestry turnovers: Haak et al. 2015; Olalde et al. 2019) where a modern case scores passenger manifests and censuses. ### 3.3 Unknown is not inapplicable The pilot (§4.1) surfaced a distinction that became one of th"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "osterhammel-2005",
+      "author_label": "Osterhammel",
+      "year": "2005",
+      "canonical_citation": "Osterhammel, J. 2005. *Colonialism: A Theoretical Overview*. 2nd ed. Markus Wiener.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "polian-2004",
+      "author_label": "Polian",
+      "year": "2004",
+      "canonical_citation": "Polian, P. 2004. *Against Their Will: The History and Geography of Forced Migrations in the USSR*. CEU Press.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "ded as unverified**. Among the confirmed: the class-based Soviet dekulakization system (Viola 2007; Polian 2004), which the register's ethnic-deportation coverage had missed entirely; the Porfirian Yaqui deportations (Hu-DeHart 1974), the register's first event with Mexi"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "posth-2018",
+      "author_label": "Posth",
+      "year": "2018",
+      "canonical_citation": "Posth, C., et al. 2018. \"Language Continuity despite Population Replacement in Remote Oceania.\" *Nature Ecology & Evolution* 2: 731–740.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "reich-2018",
+      "author_label": "Reich",
+      "year": "2018",
+      "canonical_citation": "Reich, D. 2018. *Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past*. Pantheon.",
+      "use_status": "cited",
+      "matched_contexts": [
+        " historical demography and archaeogenetics around measurable population turnover (Haak et al. 2015; Reich 2018), and the study of state formation around sovereignty, legibility, and borders (Scott 1998; Tilly 1990; Maier 2016). Each vocabulary illuminates the cases it w"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "rousseeuw-1987",
+      "author_label": "Rousseeuw",
+      "year": "1987",
+      "canonical_citation": "Rousseeuw, P. J. 1987. \"Silhouettes: A Graphical Aid to the Interpretation and Validation of Cluster Analysis.\" *Journal of Computational and Applied Mathematics* 20: 53–65.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "salmon-1969",
+      "author_label": "Salmon",
+      "year": "1969",
+      "canonical_citation": "Salmon, E. T. 1969. *Roman Colonization under the Republic*. Thames & Hudson.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "edger anchored in the ancient narrative and antiquarian sources (Livy, Dionysius, Appian, Velleius; Salmon 1969). The individual classical passages and editions are resolved in that source ledger; the four author names are not claims of one-to-one entries in the selected"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "scott-1998",
+      "author_label": "Scott",
+      "year": "1998",
+      "canonical_citation": "Scott, J. C. 1998. *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "l. 2015; Reich 2018), and the study of state formation around sovereignty, legibility, and borders (Scott 1998; Tilly 1990; Maier 2016). Each vocabulary illuminates the cases it was built on and strains on its neighbors'. The result, familiar to any comparative reader, "
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "seymour-2012",
+      "author_label": "Seymour",
+      "year": "2012",
+      "canonical_citation": "Seymour, D. J., ed. 2012. *From the Land of Ever Winter to the American Southwest: Athapaskan Migrations, Mobility, and Ethnogenesis*. University of Utah Press.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "sokoloff-2000",
+      "author_label": "Sokoloff",
+      "year": "2000",
+      "canonical_citation": "Sokoloff, K. L., and S. L. Engerman. 2000. \"Institutions, Factor Endowments, and Paths of Development in the New World.\" *Journal of Economic Perspectives* 14 (3): 217–232.",
+      "use_status": "background",
+      "matched_contexts": [],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "tilly-1990",
+      "author_label": "Tilly",
+      "year": "1990",
+      "canonical_citation": "Tilly, C. 1990. *Coercion, Capital, and European States, AD 990–1990*. Blackwell.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "ch 2018), and the study of state formation around sovereignty, legibility, and borders (Scott 1998; Tilly 1990; Maier 2016). Each vocabulary illuminates the cases it was built on and strains on its neighbors'. The result, familiar to any comparative reader, is a taxonom"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "veracini-2010",
+      "author_label": "Veracini",
+      "year": "2010",
+      "canonical_citation": "Veracini, L. 2010. *Settler Colonialism: A Theoretical Overview*. Palgrave Macmillan.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "up separately — settler-colonial studies around the permanence of incoming populations (Wolfe 2006; Veracini 2010), genocide and forced-migration studies around destruction and flight (Lemkin 1944; Naimark 2001; Mann 2005), political economy around land and labor regimes ("
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "viola-2007",
+      "author_label": "Viola",
+      "year": "2007",
+      "canonical_citation": "Viola, L. 2007. *The Unknown Gulag: The Lost World of Stalin's Special Settlements*. Oxford University Press.",
+      "use_status": "cited",
+      "matched_contexts": [
+        " still recorded as unverified**. Among the confirmed: the class-based Soviet dekulakization system (Viola 2007; Polian 2004), which the register's ethnic-deportation coverage had missed entirely; the Porfirian Yaqui deportations (Hu-DeHart 1974), the register's first ev"
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "wolfe-2006",
+      "author_label": "Wolfe",
+      "year": "2006",
+      "canonical_citation": "Wolfe, P. 2006. \"Settler Colonialism and the Elimination of the Native.\" *Journal of Genocide Research* 8 (4): 387–409.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "cesses grew up separately — settler-colonial studies around the permanence of incoming populations (Wolfe 2006; Veracini 2010), genocide and forced-migration studies around destruction and flight (Lemkin 1944; Naimark 2001; Mann 2005), political economy around land and "
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    },
+    {
+      "anchor_id": "ziems-2024",
+      "author_label": "Ziems",
+      "year": "2024",
+      "canonical_citation": "Ziems, C., et al. 2024. \"Can Large Language Models Transform Computational Social Science?\" *Computational Linguistics* 50 (1): 237–291.",
+      "use_status": "cited",
+      "matched_contexts": [
+        "lot. (Cf. emerging practice on LLM annotation in social science: Gilardi, Alizadeh, and Kubli 2023; Ziems et al. 2024.) ### 4.1 Pilot Two independent agent coders (separate contexts, no communication) coded the same six maximally different events — Yamnaya lower Danube, Greek "
+      ],
+      "review": "Author/year and citation-variant/context check; bibliography itself excluded.",
+      "bibliographic_verification": "Preserved 2026-08-21 citation resolution; Malhi 2008 addition verified 2026-08-27 as recorded in v1."
+    }
+  ]
+}

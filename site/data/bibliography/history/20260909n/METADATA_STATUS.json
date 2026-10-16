@@ -1,0 +1,110 @@
+{
+  "status": "tiered_inventory_followup_applied_not_all_entries_publication_ready",
+  "counts": {
+    "secondary_inventory_unresolved": 852,
+    "metadata_identity_reconciled_locus_separate": 363,
+    "deposited_metadata_identity_screened": 116,
+    "corrected_identifier_verified": 3,
+    "prior_pilot_review_preserved": 30,
+    "container_identity_reconciled_chapter_link_corrected": 1,
+    "source_identity_reconciled_identifier_unresolved": 1
+  },
+  "anchor_use": {
+    "cited": 27,
+    "background": 14
+  },
+  "work_access_records": 1366,
+  "overlay_records": 21,
+  "base_build": "20260909m",
+  "base_typed_metadata_sha256": "2e2d0da95300430c243e34580a97ae3937bcbddfbc8f95e05226d14b898dccc7",
+  "overlay_sha256": "eb590d1c12c21bbfc0721d1f1b806568a66ce57e4fcd0824e37a4606ea015c0f",
+  "composite_sha256": "6c1cc15768818f2a9ab029c634d5280111b3163934a1c8ec0adea1d739e0886a",
+  "identifier_exceptions": [
+    {
+      "work_id": "doi:10.4067/s0717-71942012000200001",
+      "status": "known_article_both_doi_forms_unregistered",
+      "preferred_url": "https://revistahistoria.uc.cl/index.php/rhis/article/view/10102"
+    }
+  ],
+  "remaining": "Secondary identities, editions and claim locators remain unresolved, including the original Capua reference. Thirty explicit bibliographic fields remain open. This is not an exhaustive inventory of omitted imprints or unassigned date roles. Original source occurrences and prior decisions are preserved.",
+  "identity_followup_source_passages_newly_verified": 0,
+  "passage_review": {
+    "records": 5,
+    "passages_located_with_limits": 3,
+    "partial_opening_only": 1,
+    "abstract_only": 1,
+    "file": "PASSAGE_NOTES.json",
+    "sha256": "67709e9035ed3eaf9fb4ed2fb69732220ea44e3790623a2d0fa6b66298616fd9",
+    "independent_historical_review": false
+  },
+  "prior_overlay_records": 344,
+  "reviewed_overlay_records_total": 365,
+  "latest_identity_review": {
+    "records": 21,
+    "selected_records": 21,
+    "selected_identity_unresolved": 0,
+    "metadata_only": true,
+    "original_occurrences_changed": 0,
+    "historical_scores_changed": 0,
+    "directory": "../oxford_identity_followup_20260909/",
+    "current_citation_ids": 21,
+    "current_cases": 24,
+    "atlas_citation_labels_corrected": 6,
+    "new_open_metadata_fields": 3,
+    "public_archive_urls_confirmed": 0,
+    "registered_selected_dois_retrieved": 13,
+    "selected_registry_requests_rate_limited": 8,
+    "container_registry_requests_rate_limited": 1
+  },
+  "field_exceptions": {
+    "open": 30,
+    "status": "unresolved_bibliographic_fields_not_case_holds",
+    "files": [
+      {
+        "open": 3,
+        "file": "../institutional_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "6128605408f61ff1095c5263d610df6dfe5d8d3d10ee465a6bc5a7a90d188664"
+      },
+      {
+        "open": 3,
+        "file": "../iranica_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "5b4787c881efc4e7b31b106ba89361177a8f67e2c038145700b32ba633762aae"
+      },
+      {
+        "open": 2,
+        "file": "../pleiades_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "402ac4a9bb2fac3754e415c76857859111751e1a58a1cdcc22791e357fc3e958"
+      },
+      {
+        "open": 4,
+        "file": "../cambridge_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "947e485dec6f64899251e82bd5844421e1e02e2e054e49c1d5ac5befbcf01a19"
+      },
+      {
+        "open": 6,
+        "file": "../unhcr_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "efd4f2887cd531dd0d845bf71bac40c2bab2479e34e85f243de5b26c6616f3b5"
+      },
+      {
+        "open": 4,
+        "file": "../livius_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "5fa53e84fa2457fdace0ccd0563ed32439e0d4347c16f6968b7a03160e74091b"
+      },
+      {
+        "open": 5,
+        "file": "../attalus_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "33f091f50c519dfaad063a8c75b2218437d8049ee3d475778cefee154f089cb0"
+      },
+      {
+        "open": 3,
+        "file": "../oxford_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "66aba2309296f037500fa062b7fdf702a9f15a8634fee6f820a828b5903d0d17"
+      }
+    ]
+  },
+  "additional_passage_followups": {
+    "records": 1,
+    "file": "../unhcr_identity_followup_20260909/PASSAGE_FOLLOWUPS.json",
+    "status": "unresolved_not_a_new_historical_decision"
+  }
+}

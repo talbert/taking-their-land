@@ -1,0 +1,56 @@
+{
+  "status": "applied_to_this_publication",
+  "build": "20260909n",
+  "corrections": [
+    {
+      "citation_id": "b15_antium_oxford",
+      "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548066271",
+      "before": "Oxford History of the Archaic Greek World, Antium chapter",
+      "after": "Edward Togo Salmon, T W Potter, “Antium”, Oxford Classical Dictionary (2015)",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/548066271",
+      "reason": "The cited access record identifies an Oxford Classical Dictionary reference article, not an Oxford History of the Archaic Greek World chapter."
+    },
+    {
+      "citation_id": "b16_13520ce10a9055",
+      "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548509188",
+      "before": "Oxford History of the Archaic Greek World, Brundisium chapter",
+      "after": "H Kathryn Lomas, “Brundisium”, Oxford Classical Dictionary (2015)",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/548509188",
+      "reason": "The cited access record identifies an Oxford Classical Dictionary reference article, not an Oxford History of the Archaic Greek World chapter."
+    },
+    {
+      "citation_id": "b17_af5e6be7505f83",
+      "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548510756",
+      "before": "Oxford History of the Archaic Greek World, Buxentum chapter",
+      "after": "H Kathryn Lomas, “Buxentum”, Oxford Classical Dictionary (2015)",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/548510756",
+      "reason": "The cited access record identifies an Oxford Classical Dictionary reference article, not an Oxford History of the Archaic Greek World chapter."
+    },
+    {
+      "citation_id": "v5_roman_ariminum_oxford",
+      "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548510989",
+      "before": "Oxford History of the Archaic Greek World, Ariminum chapter",
+      "after": "Edward Togo Salmon, T W Potter, “Ariminum”, Oxford Classical Dictionary (2015)",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/548510989",
+      "reason": "The cited access record identifies an Oxford Classical Dictionary reference article, not an Oxford History of the Archaic Greek World chapter."
+    },
+    {
+      "citation_id": "b16_2b0de42498605c",
+      "work_id": "url:academic.oup.com/edited-volume/61673/chapter-abstract/548725116",
+      "before": "Oxford History of the Archaic Greek World, Croton chapter",
+      "after": "H Kathryn Lomas, “Croton”, Oxford Classical Dictionary (2015)",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/548725116",
+      "reason": "The cited access record identifies an Oxford Classical Dictionary reference article, not an Oxford History of the Archaic Greek World chapter."
+    },
+    {
+      "citation_id": "b15_narnia_oxford",
+      "work_id": "url:academic.oup.com/edited-volume/61673/chapter/549687296",
+      "before": "Oxford History of the Archaic Greek World, Narnia chapter",
+      "after": "Edward Togo Salmon, T W Potter, “Narnia”, Oxford Classical Dictionary (2016)",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter/549687296",
+      "reason": "The cited access record identifies an Oxford Classical Dictionary reference article, not an Oxford History of the Archaic Greek World chapter."
+    }
+  ],
+  "historical_acceptance_changed": false,
+  "original_source_occurrences_changed": 0
+}

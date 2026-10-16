@@ -1,0 +1,49 @@
+{
+  "status": "tiered_inventory_followup_applied_not_all_entries_publication_ready",
+  "counts": {
+    "secondary_inventory_unresolved": 1173,
+    "metadata_identity_reconciled_locus_separate": 42,
+    "deposited_metadata_identity_screened": 116,
+    "corrected_identifier_verified": 3,
+    "prior_pilot_review_preserved": 30,
+    "container_identity_reconciled_chapter_link_corrected": 1,
+    "source_identity_reconciled_identifier_unresolved": 1
+  },
+  "anchor_use": {
+    "cited": 27,
+    "background": 14
+  },
+  "work_access_records": 1366,
+  "overlay_records": 4,
+  "base_build": "20260909d",
+  "base_typed_metadata_sha256": "5585d77bdab34a83eaf6a81342b98884257ea795d7509994a71a306f06cc65b1",
+  "overlay_sha256": "7b978c3da86b0f4a91f2849c033b814dde8d2b2344c8f574a580c9d6990d163b",
+  "composite_sha256": "ca51f7f6e0c634195ab3c2dc10a626d49b632393225bd1f4170f3cb36bebffb3",
+  "identifier_exceptions": [
+    {
+      "work_id": "doi:10.4067/s0717-71942012000200001",
+      "status": "known_article_both_doi_forms_unregistered",
+      "preferred_url": "https://revistahistoria.uc.cl/index.php/rhis/article/view/10102"
+    }
+  ],
+  "remaining": "Substantial secondary identities, editions and claim locators remain unresolved. Pilot decisions and original source occurrences are preserved.",
+  "identity_followup_source_passages_newly_verified": 0,
+  "passage_review": {
+    "records": 5,
+    "passages_located_with_limits": 3,
+    "partial_opening_only": 1,
+    "abstract_only": 1,
+    "file": "PASSAGE_NOTES.json",
+    "sha256": "67709e9035ed3eaf9fb4ed2fb69732220ea44e3790623a2d0fa6b66298616fd9",
+    "independent_historical_review": false
+  },
+  "prior_overlay_records": 40,
+  "reviewed_overlay_records_total": 44,
+  "latest_identity_review": {
+    "records": 4,
+    "metadata_only": true,
+    "original_occurrences_changed": 0,
+    "historical_scores_changed": 0,
+    "directory": "../flight_identity_followup_20260909/"
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "schema": "two-event-date-metadata-addendum-inputs-v1",
+  "status": "INPUTS_PREPARED_NOT_YET_ANALYZED",
+  "changes": [
+    {
+      "event_id": "atlas-canary-la-gomera-revolt-repression",
+      "corpus_before": {
+        "event_id": "atlas-canary-la-gomera-revolt-repression",
+        "name": "Suppression of the Indigenous La Gomera revolt after the killing of Hernán Peraza, date unresolved",
+        "start": 1449,
+        "end": 1449,
+        "date_label": "date unresolved",
+        "operative_date_start": null,
+        "operative_date_end": null,
+        "date_numeric_proxy_used": true,
+        "date_numeric_proxy_basis": "nearest reviewed parent midpoint used only as a model coordinate: atlas-canary-islands",
+        "date_resolution": "Mitchell's island table assigns La Gomera a conquest date of 1489, while Espino's punitive-repression sequence places Pedro de Vera's replacement in 1488 after the described operations; neither direct passage gives an explicit date for the revolt and punishment themselves. Because these markers appear to concern different scopes and do not establish one event year, both fields remain UNKNOWN.",
+        "region": "Africa",
+        "mechanism": "Punitive expedition after Peraza's killing; encirclement and defeat; executions, dismemberment, mutilation, drowning, enslavement, sale, and deterrent terror directed beyond the identified killers",
+        "agents": [
+          "Hernán Peraza as the seigneur whose intervention in Indigenous factional conflict and killing preceded the punishment; his widow Beatriz de Bobadilla; Gran Canaria governor Pedro de Vera and a force of four hundred men; the Indigenous Pala and Mulagua factions"
+        ],
+        "victims": [
+          "Gomeros of the Pala and Mulagua factions besieged at Garajonay; people executed or mutilated; minors, children, and women enslaved or sold; and Gomeros living at Telde and Gáldar who were arrested and killed. Complete counts and individual affiliations remain unresolved."
+        ],
+        "agent_countries": [],
+        "victim_countries": [],
+        "container_countries": [],
+        "atlas_status_preapply": "prospective-not-authored",
+        "atlas_case_ids": "",
+        "recommendation": "event-unit successor candidate; model-only",
+        "confidence": "PASS_WITH_EXPLICIT_GAPS",
+        "summary": "The sources directly establish one island-specific punitive episode and multiple territorial-removal mechanisms even though its date and property outcomes remain unresolved. El Hierro and Gran Canaria processes are excluded rather than combined with it.",
+        "disputes": "The source does not provide a parcel-by-parcel Indigenous ownership record, a beneficiary roster for the territorial distributions, or complete victim and captive counts. Those values remain unknown and no tract-level dispossession count is inferred.",
+        "omission_or_category_error": "",
+        "legacy_story": "",
+        "legacy_fit": "",
+        "event_json_summary": "Punitive military defeat followed by execution, enslavement, sale, and forced removal of Gomero residents",
+        "sources": [
+          {
+            "id": "atlas-canary-la-gomera-revolt-repression::SRC-01",
+            "title": "Peter J. Mitchell, Archaeological Research in the Canary Islands: Island Archaeology off Africa's Atlantic Coast; Antonio Espino López, Granada, Canarias, América: el uso de prácticas aterrorizantes en la praxis de tres conquistas, 1482–1557; Manuel Lobo Cabrera, Formas de poder y economía canaria entre los siglos XV–XVII",
+            "url": "https://www.villadehermigua.com/el-municipio/historia.html",
+            "locator": "Historia de Hermigua > Edad Moderna, paragraphs 1-6 (web text lines 4-9)"
+          }
+        ],
+        "rendered_case_id": "",
+        "on_atlas": false,
+        "in_model": true,
+        "origin": "event_unit_fairness_candidate_v1",
+        "era_bucket_v2": "medieval (500-1499)",
+        "parent_event_ids": [
+          "atlas-canary-islands"
+        ],
+        "parent_overlap_ruling": "The input's El Hierro–La Gomera composite is not one event: El Hierro's early Norman and later seigneurial control is separated from the much later La Gomera revolt and punitive expedition by actors, population, island, and chronology. The revised target contains only the directly documented La Gomera repression and remains distinct from Pedro de Vera's Gran Canaria conquest because its trigger and affected population are Gomero.",
+        "event_unit_sensitivity_group": "event_unit_program_016"
+      },
+      "corpus_after": {
+        "event_id": "atlas-canary-la-gomera-revolt-repression",
+        "name": "Suppression of the Indigenous La Gomera revolt after the killing of Hernán Peraza, date unresolved",
+        "start": 1488,
+        "end": 1489,
+        "date_label": "1488–1489 CE",
+        "operative_date_start": 1488,
+        "operative_date_end": 1489,
+        "date_numeric_proxy_used": false,
+        "date_numeric_proxy_basis": "",
+        "date_resolution": "Accepted Batch 18 chronology: the 1488 revolt and the punitive sequence extending into 1489. The public consolidated stop is 1489; the nominal diagnostic onset is 1488. No measured transport duration is supplied.",
+        "region": "Africa",
+        "mechanism": "Punitive expedition after Peraza's killing; encirclement and defeat; executions, dismemberment, mutilation, drowning, enslavement, sale, and deterrent terror directed beyond the identified killers",
+        "agents": [
+          "Hernán Peraza as the seigneur whose intervention in Indigenous factional conflict and killing preceded the punishment; his widow Beatriz de Bobadilla; Gran Canaria governor Pedro de Vera and a force of four hundred men; the Indigenous Pala and Mulagua factions"
+        ],
+        "victims": [
+          "Gomeros of the Pala and Mulagua factions besieged at Garajonay; people executed or mutilated; minors, children, and women enslaved or sold; and Gomeros living at Telde and Gáldar who were arrested and killed. Complete counts and individual affiliations remain unresolved."
+        ],
+        "agent_countries": [],
+        "victim_countries": [],
+        "container_countries": [],
+        "atlas_status_preapply": "prospective-not-authored",
+        "atlas_case_ids": "",
+        "recommendation": "event-unit successor candidate; model-only",
+        "confidence": "PASS_WITH_EXPLICIT_GAPS",
+        "summary": "The sources directly establish one island-specific punitive episode and multiple territorial-removal mechanisms even though its date and property outcomes remain unresolved. El Hierro and Gran Canaria processes are excluded rather than combined with it.",
+        "disputes": "The source does not provide a parcel-by-parcel Indigenous ownership record, a beneficiary roster for the territorial distributions, or complete victim and captive counts. Those values remain unknown and no tract-level dispossession count is inferred.",
+        "omission_or_category_error": "",
+        "legacy_story": "",
+        "legacy_fit": "",
+        "event_json_summary": "Punitive military defeat followed by execution, enslavement, sale, and forced removal of Gomero residents",
+        "sources": [
+          {
+            "id": "atlas-canary-la-gomera-revolt-repression::SRC-01",
+            "title": "Peter J. Mitchell, Archaeological Research in the Canary Islands: Island Archaeology off Africa's Atlantic Coast; Antonio Espino López, Granada, Canarias, América: el uso de prácticas aterrorizantes en la praxis de tres conquistas, 1482–1557; Manuel Lobo Cabrera, Formas de poder y economía canaria entre los siglos XV–XVII",
+            "url": "https://www.villadehermigua.com/el-municipio/historia.html",
+            "locator": "Historia de Hermigua > Edad Moderna, paragraphs 1-6 (web text lines 4-9)"
+          }
+        ],
+        "rendered_case_id": "",
+        "on_atlas": false,
+        "in_model": true,
+        "origin": "event_unit_fairness_candidate_v1",
+        "era_bucket_v2": "medieval (500-1499)",
+        "parent_event_ids": [
+          "atlas-canary-islands"
+        ],
+        "parent_overlap_ruling": "The input's El Hierro–La Gomera composite is not one event: El Hierro's early Norman and later seigneurial control is separated from the much later La Gomera revolt and punitive expedition by actors, population, island, and chronology. The revised target contains only the directly documented La Gomera repression and remains distinct from Pedro de Vera's Gran Canaria conquest because its trigger and affected population are Gomero.",
+        "event_unit_sensitivity_group": "event_unit_program_016",
+        "date_end_role": "bounded_revolt_and_punitive_sequence"
+      },
+      "analysis_before": {
+        "event_id": "atlas-canary-la-gomera-revolt-repression",
+        "normalized_macroregion": "NORTH_AFRICA",
+        "date_is_proxy": true,
+        "continuous_date_eligible": false,
+        "observed_date_year": null,
+        "duration_eligible": false,
+        "duration_years": null,
+        "duration_measurand": "No separately supplied measured transport/influx-duration series; not an assertion of unknown historical tempo and not calendar end minus start.",
+        "observation_horizons": {
+          "instrument_ref": {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/CODING_INSTRUMENT.json",
+            "sha256": "64c6b25776366eef770f9cd1191b4b9d87ad139a36e295dd83596909dfc14c0d"
+          },
+          "rule": "Retain the unchanged dimension-specific operative, generational, consolidation and long-run definitions/anchors; no uniform time window or new retrospective coding audit.",
+          "accepted_event_date_semantics": null,
+          "accepted_coding_cell_authorities": [],
+          "limit": "Limits preserve accepted evidence/referents; do not supply missing dates, profiles or descendant cohorts."
+        },
+        "authority_refs": [
+          {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/metadata_checkpoint/data/corpus_v2.json",
+            "sha256": "013aa44cbef6abd3ff40f61d37691264c5a62bd754f01266f7dd1481aaeebe7d"
+          },
+          {
+            "path": "analysis/second_pass/mechanism_family_v1/candidate_676_macroregion_v1/candidate_676_macroregions.csv",
+            "sha256": "d01a56471ea840b2698685403f98d4ca73e77d65330be6e485ca2b284df922d7"
+          },
+          {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/MAIN_INPUT_DECISIONS.md",
+            "sha256": "0b5dc15e336fa2204cba67191c45ffe7c5b5265b5f931ea6be0c5c4f1e17d609"
+          }
+        ],
+        "date_normalization": {
+          "date_is_proxy": true,
+          "continuous_date_eligible": false,
+          "observed_date_year": null,
+          "basis": "preserve_explicit_dataset_flag",
+          "exclusion_reasons": [
+            "proxy_not_observed_year",
+            "accepted_current_metadata_explicit_proxy"
+          ],
+          "limit": "Inherited nominal start-year diagnostic, not exact-year certification or movement duration."
+        },
+        "legacy_normalized_macroregion": "NORTH_AFRICA",
+        "region_normalization": "Main-approved exact-ID/explicit-alias inheritance."
+      },
+      "analysis_after": {
+        "event_id": "atlas-canary-la-gomera-revolt-repression",
+        "normalized_macroregion": "NORTH_AFRICA",
+        "date_is_proxy": false,
+        "continuous_date_eligible": true,
+        "observed_date_year": 1488,
+        "duration_eligible": false,
+        "duration_years": null,
+        "duration_measurand": "No separately supplied measured transport/influx-duration series; not an assertion of unknown historical tempo and not calendar end minus start.",
+        "observation_horizons": {
+          "instrument_ref": {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/CODING_INSTRUMENT.json",
+            "sha256": "64c6b25776366eef770f9cd1191b4b9d87ad139a36e295dd83596909dfc14c0d"
+          },
+          "rule": "Retain the unchanged dimension-specific operative, generational, consolidation and long-run definitions/anchors; no uniform time window or new retrospective coding audit.",
+          "accepted_event_date_semantics": {
+            "operative_date_start": 1488,
+            "operative_date_end": 1489,
+            "date_end_role": "bounded_revolt_and_punitive_sequence",
+            "date_resolution": "Accepted Batch 18 chronology: the 1488 revolt and the punitive sequence extending into 1489. The public consolidated stop is 1489; the nominal diagnostic onset is 1488. No measured transport duration is supplied."
+          },
+          "accepted_coding_cell_authorities": [],
+          "limit": "Limits preserve accepted evidence/referents; do not supply missing dates, profiles or descendant cohorts."
+        },
+        "authority_refs": [
+          {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/metadata_checkpoint/data/corpus_v2.json",
+            "sha256": "013aa44cbef6abd3ff40f61d37691264c5a62bd754f01266f7dd1481aaeebe7d"
+          },
+          {
+            "path": "analysis/second_pass/mechanism_family_v1/candidate_676_macroregion_v1/candidate_676_macroregions.csv",
+            "sha256": "d01a56471ea840b2698685403f98d4ca73e77d65330be6e485ca2b284df922d7"
+          },
+          {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/MAIN_INPUT_DECISIONS.md",
+            "sha256": "0b5dc15e336fa2204cba67191c45ffe7c5b5265b5f931ea6be0c5c4f1e17d609"
+          },
+          {
+            "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+            "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+            "locator": "Accepted findings 1 and 5; chronology adjudication"
+          }
+        ],
+        "date_normalization": {
+          "date_is_proxy": false,
+          "continuous_date_eligible": true,
+          "observed_date_year": 1488,
+          "basis": "accepted_batch_18_onset_correction",
+          "exclusion_reasons": [],
+          "limit": "Nominal event-onset diagnostic only: neither exact-day certification nor measured movement/influx duration. A reporting cutoff is not a process endpoint."
+        },
+        "legacy_normalized_macroregion": "NORTH_AFRICA",
+        "region_normalization": "Main-approved exact-ID/explicit-alias inheritance."
+      },
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      }
+    },
+    {
+      "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+      "corpus_before": {
+        "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+        "name": "Israeli settlement advancement and associated Palestinian land-control mechanisms in the occupied West Bank, including East Jerusalem (2023–2024 evidence window)",
+        "start": 2024,
+        "end": 2024,
+        "date_label": "through 2024 CE",
+        "operative_date_start": null,
+        "operative_date_end": 2024,
+        "date_numeric_proxy_used": true,
+        "date_numeric_proxy_basis": "known end used only as a model coordinate; onset year remains unresolved",
+        "date_resolution": "A/HRC/58/73 covers 1 November 2023 through 31 October 2024 and describes settlement transfer, maintenance, and expansion as ongoing. The cited paragraphs do not state the historical start or completion of the wider system, so the start year remains UNKNOWN and 2024 is an evidence cutoff rather than an end finding.",
+        "region": "Middle East and North Africa",
+        "mechanism": "Transfer of administrative and legal powers from military to civilian government; settlement planning and approval; outpost regularization; infrastructure development; land designation, seizure, and allocation; state-land declarations; discriminatory construction enforcement; and settlement and housing-plan expansion that fragments Palestinian territory",
+        "agents": [
+          "Government of Israel; civilian officials including the Additional Minister and Settlement Administration; the Israeli military commander and Civil Administration; Israeli settlers"
+        ],
+        "victims": [
+          "Palestinians in the occupied West Bank, including East Jerusalem, affected by land seizures, discriminatory planning and building enforcement, coercive transfer pressures, and territorial fragmentation; Israeli civilians transferred to or maintained in settlements; exact household membership is not established"
+        ],
+        "agent_countries": [],
+        "victim_countries": [],
+        "container_countries": [],
+        "atlas_status_preapply": "prospective-not-authored",
+        "atlas_case_ids": "",
+        "recommendation": "event-unit successor candidate; model-only",
+        "confidence": "PASS_WITH_EXPLICIT_GAPS",
+        "summary": "The opened report identifies one West Bank and East Jerusalem settlement-administration system with direct land-control mechanisms and effects on Palestinian territory. It excludes the Golan and does not infer household membership; a fresh profile is required because the wrapper mixed distinct territories.",
+        "disputes": "The report supports all domains for its evidence window but leaves the wider system's historical start, parcel and household membership, individual outcomes, and post-31-October-2024 developments unresolved.",
+        "omission_or_category_error": "",
+        "legacy_story": "",
+        "legacy_fit": "",
+        "event_json_summary": "Settlement planning and expansion, land designation and seizure, administrative transfer, discriminatory enforcement, and Palestinian territorial fragmentation",
+        "sources": [
+          {
+            "id": "prospective-israeli-settlements-west-bank-east-jerusalem::SRC-01",
+            "title": "United Nations Office of the High Commissioner for Human Rights, A/HRC/58/73, Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan",
+            "url": "https://documents.un.org/api/symbol/access?l=en&s=A/HRC/58/73&t=pdf:",
+            "locator": "The UN endpoint resolved to the official A/HRC/58/73 body despite returning DOCX rather than PDF, and paragraphs 2-5 and 8-15 were present and usable at the stated locator."
+          }
+        ],
+        "rendered_case_id": "",
+        "on_atlas": false,
+        "in_model": true,
+        "origin": "event_unit_fairness_candidate_v1",
+        "era_bucket_v2": "1990-present",
+        "parent_event_ids": [
+          "atlas-israeli-settlements-opt"
+        ],
+        "parent_overlap_ruling": "Distinct territorial child of atlas-israeli-settlements-opt: limited to the occupied West Bank, including East Jerusalem, and the Palestinian population-land relationship there; excludes the occupied Syrian Golan and the Gaza resettlement discussion outside the cited paragraph range.",
+        "event_unit_sensitivity_group": "event_unit_program_017"
+      },
+      "corpus_after": {
+        "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+        "name": "Israeli settlement advancement and associated Palestinian land-control mechanisms in the occupied West Bank, including East Jerusalem (2023–2024 evidence window)",
+        "start": 1967,
+        "end": 2024,
+        "date_label": "1967–present; detailed evidence through 2024",
+        "operative_date_start": 1967,
+        "operative_date_end": null,
+        "date_numeric_proxy_used": false,
+        "date_numeric_proxy_basis": "",
+        "date_resolution": "The accepted ICJ-based chronology dates the settlement policy in the occupied West Bank and East Jerusalem from 1967. The process is ongoing in the accepted account; 2024 is the detailed OHCHR evidence cutoff, not a finding that it ended. No measured movement duration is supplied.",
+        "region": "Middle East and North Africa",
+        "mechanism": "Transfer of administrative and legal powers from military to civilian government; settlement planning and approval; outpost regularization; infrastructure development; land designation, seizure, and allocation; state-land declarations; discriminatory construction enforcement; and settlement and housing-plan expansion that fragments Palestinian territory",
+        "agents": [
+          "Government of Israel; civilian officials including the Additional Minister and Settlement Administration; the Israeli military commander and Civil Administration; Israeli settlers"
+        ],
+        "victims": [
+          "Palestinians in the occupied West Bank, including East Jerusalem, affected by land seizures, discriminatory planning and building enforcement, coercive transfer pressures, and territorial fragmentation; Israeli civilians transferred to or maintained in settlements; exact household membership is not established"
+        ],
+        "agent_countries": [],
+        "victim_countries": [],
+        "container_countries": [],
+        "atlas_status_preapply": "prospective-not-authored",
+        "atlas_case_ids": "",
+        "recommendation": "event-unit successor candidate; model-only",
+        "confidence": "PASS_WITH_EXPLICIT_GAPS",
+        "summary": "The opened report identifies one West Bank and East Jerusalem settlement-administration system with direct land-control mechanisms and effects on Palestinian territory. It excludes the Golan and does not infer household membership; a fresh profile is required because the wrapper mixed distinct territories.",
+        "disputes": "The report supports all domains for its evidence window but leaves the wider system's historical start, parcel and household membership, individual outcomes, and post-31-October-2024 developments unresolved.",
+        "omission_or_category_error": "",
+        "legacy_story": "",
+        "legacy_fit": "",
+        "event_json_summary": "Settlement planning and expansion, land designation and seizure, administrative transfer, discriminatory enforcement, and Palestinian territorial fragmentation",
+        "sources": [
+          {
+            "id": "prospective-israeli-settlements-west-bank-east-jerusalem::SRC-01",
+            "title": "United Nations Office of the High Commissioner for Human Rights, A/HRC/58/73, Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan",
+            "url": "https://documents.un.org/api/symbol/access?l=en&s=A/HRC/58/73&t=pdf:",
+            "locator": "The UN endpoint resolved to the official A/HRC/58/73 body despite returning DOCX rather than PDF, and paragraphs 2-5 and 8-15 were present and usable at the stated locator."
+          }
+        ],
+        "rendered_case_id": "",
+        "on_atlas": false,
+        "in_model": true,
+        "origin": "event_unit_fairness_candidate_v1",
+        "era_bucket_v2": "1945-1989",
+        "parent_event_ids": [
+          "atlas-israeli-settlements-opt"
+        ],
+        "parent_overlap_ruling": "Distinct territorial child of atlas-israeli-settlements-opt: limited to the occupied West Bank, including East Jerusalem, and the Palestinian population-land relationship there; excludes the occupied Syrian Golan and the Gaza resettlement discussion outside the cited paragraph range.",
+        "event_unit_sensitivity_group": "event_unit_program_017",
+        "date_end_role": "evidence_cutoff_not_process_endpoint",
+        "evidence_cutoff_year": 2024
+      },
+      "analysis_before": {
+        "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+        "normalized_macroregion": "WEST_ASIA",
+        "date_is_proxy": true,
+        "continuous_date_eligible": false,
+        "observed_date_year": null,
+        "duration_eligible": false,
+        "duration_years": null,
+        "duration_measurand": "No separately supplied measured transport/influx-duration series; not an assertion of unknown historical tempo and not calendar end minus start.",
+        "observation_horizons": {
+          "instrument_ref": {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/CODING_INSTRUMENT.json",
+            "sha256": "64c6b25776366eef770f9cd1191b4b9d87ad139a36e295dd83596909dfc14c0d"
+          },
+          "rule": "Retain the unchanged dimension-specific operative, generational, consolidation and long-run definitions/anchors; no uniform time window or new retrospective coding audit.",
+          "accepted_event_date_semantics": null,
+          "accepted_coding_cell_authorities": [],
+          "limit": "Limits preserve accepted evidence/referents; do not supply missing dates, profiles or descendant cohorts."
+        },
+        "authority_refs": [
+          {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/metadata_checkpoint/data/corpus_v2.json",
+            "sha256": "013aa44cbef6abd3ff40f61d37691264c5a62bd754f01266f7dd1481aaeebe7d"
+          },
+          {
+            "path": "analysis/second_pass/mechanism_family_v1/candidate_676_macroregion_v1/candidate_676_macroregions.csv",
+            "sha256": "d01a56471ea840b2698685403f98d4ca73e77d65330be6e485ca2b284df922d7"
+          },
+          {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/MAIN_INPUT_DECISIONS.md",
+            "sha256": "0b5dc15e336fa2204cba67191c45ffe7c5b5265b5f931ea6be0c5c4f1e17d609"
+          }
+        ],
+        "date_normalization": {
+          "date_is_proxy": true,
+          "continuous_date_eligible": false,
+          "observed_date_year": null,
+          "basis": "preserve_explicit_dataset_flag",
+          "exclusion_reasons": [
+            "proxy_not_observed_year",
+            "accepted_current_metadata_explicit_proxy"
+          ],
+          "limit": "Inherited nominal start-year diagnostic, not exact-year certification or movement duration."
+        },
+        "legacy_normalized_macroregion": "WEST_ASIA",
+        "region_normalization": "Main-approved exact-ID/explicit-alias inheritance."
+      },
+      "analysis_after": {
+        "event_id": "prospective-israeli-settlements-west-bank-east-jerusalem",
+        "normalized_macroregion": "WEST_ASIA",
+        "date_is_proxy": false,
+        "continuous_date_eligible": true,
+        "observed_date_year": 1967,
+        "duration_eligible": false,
+        "duration_years": null,
+        "duration_measurand": "No separately supplied measured transport/influx-duration series; not an assertion of unknown historical tempo and not calendar end minus start.",
+        "observation_horizons": {
+          "instrument_ref": {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/CODING_INSTRUMENT.json",
+            "sha256": "64c6b25776366eef770f9cd1191b4b9d87ad139a36e295dd83596909dfc14c0d"
+          },
+          "rule": "Retain the unchanged dimension-specific operative, generational, consolidation and long-run definitions/anchors; no uniform time window or new retrospective coding audit.",
+          "accepted_event_date_semantics": {
+            "operative_date_start": 1967,
+            "operative_date_end": null,
+            "date_end_role": "evidence_cutoff_not_process_endpoint",
+            "evidence_cutoff_year": 2024,
+            "date_resolution": "The accepted ICJ-based chronology dates the settlement policy in the occupied West Bank and East Jerusalem from 1967. The process is ongoing in the accepted account; 2024 is the detailed OHCHR evidence cutoff, not a finding that it ended. No measured movement duration is supplied."
+          },
+          "accepted_coding_cell_authorities": [],
+          "limit": "Limits preserve accepted evidence/referents; do not supply missing dates, profiles or descendant cohorts."
+        },
+        "authority_refs": [
+          {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/metadata_checkpoint/data/corpus_v2.json",
+            "sha256": "013aa44cbef6abd3ff40f61d37691264c5a62bd754f01266f7dd1481aaeebe7d"
+          },
+          {
+            "path": "analysis/second_pass/mechanism_family_v1/candidate_676_macroregion_v1/candidate_676_macroregions.csv",
+            "sha256": "d01a56471ea840b2698685403f98d4ca73e77d65330be6e485ca2b284df922d7"
+          },
+          {
+            "path": "analysis/second_pass/v6/post_v6_correction_application_v1/complete_candidate_v1/MAIN_INPUT_DECISIONS.md",
+            "sha256": "0b5dc15e336fa2204cba67191c45ffe7c5b5265b5f931ea6be0c5c4f1e17d609"
+          },
+          {
+            "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+            "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+            "locator": "Accepted findings 1 and 5; chronology adjudication"
+          }
+        ],
+        "date_normalization": {
+          "date_is_proxy": false,
+          "continuous_date_eligible": true,
+          "observed_date_year": 1967,
+          "basis": "accepted_batch_18_onset_correction",
+          "exclusion_reasons": [],
+          "limit": "Nominal event-onset diagnostic only: neither exact-day certification nor measured movement/influx duration. A reporting cutoff is not a process endpoint."
+        },
+        "legacy_normalized_macroregion": "WEST_ASIA",
+        "region_normalization": "Main-approved exact-ID/explicit-alias inheritance."
+      },
+      "authority": {
+        "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md",
+        "sha256": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+        "locator": "Accepted findings 1 and 5; chronology adjudication"
+      }
+    }
+  ],
+  "corrected_nominal_date_eligible_count": 629,
+  "previous_nominal_date_eligible_count": 627,
+  "duration_eligible_count": 0,
+  "required_affected_branches": [
+    "equal-era weighting",
+    "era-specific median imputation",
+    "eligible nominal-onset diagnostics"
+  ],
+  "canonical_score_fit_policy": "Verify exact matrix identity and reuse saved fit; do not rerun the 565-scenario cycle.",
+  "old_inputs_preserved": true,
+  "old_run_relabelled": false,
+  "input_sha256": {
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/release_manifest.json": "1de488fead046484b7aebddd30eda0db4dbb544841f632c2a86b39db4c4bd492",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/PRIOR_METADATA_CARRY_FORWARD_CHECK.json": "01b50efe698fbbdc721309296d58763845cb443a0efbdece98cf38fea238936d",
+    "analysis/second_pass/v5/BATCH_18_RELEASE_METADATA_CORRECTIONS.json": "1e3e9f313097245e9fb5ee6b28d92919bbe04f39650de0061eabdeebd4ff68d8",
+    "analysis/second_pass/v5/MARSHALL_RELEASE_METADATA_CORRECTIONS.json": "81744a8777d4aca65ba5810160e213e780272b0a37a382a4a2c91cea88539ee6",
+    "analysis/second_pass/v5/CIRCASSIAN_RELEASE_METADATA_CORRECTIONS.json": "5acd66f7bf9022adf3346791d7d103c08128811432ae65bd527dd5102cb933c3",
+    "analysis/second_pass/v5/SAINT_PIERRE_RELEASE_METADATA_CORRECTIONS.json": "11da12870c9445c70b510cfddbd639641dec39a654146ff5665e7581614b65bb",
+    "analysis/second_pass/v5/CAPE_RELEASE_METADATA_CORRECTIONS.json": "16529acd61400a1b18616329ee88062d2614fc142b9b67ce167f4ee53670d82d",
+    "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+    "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_18_ADJUDICATION.md": "cc231941614bfadba37a6a38ef930fd9dc5e6324b25f50a82aa70df0b4252cc2",
+    "audit/v5_authored_atlas_cases.json": "7442b8695e10c6d2730b0759fd2346f19c663c92a297a2c370f9c19e4f54d7ff",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/events_enriched.json": "4f1ea3bb3755ea09f7cac628484d8ed90cd2cf148638eb0004f2aeb67dd638e8",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/atlas_profiles.json": "234dc8f8036fa3f54072c32a38ef63382fa7ed4700f43bbc75f75d8a51a3fdd0",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/corpus_v2.json": "daeda53679eccc1cf118c312b09a1e27510caabba1f99636f9f7797af6f8e25e",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/analysis_metadata.json": "7c127236226e28caefcb703e99e58944ff12e0b4b44ae6a4504ecb3069681750",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/F8_open_raw_followups.json": "50c5cb2274c38421e22b0e80a148f428b9aab590e0b920402780402bf8da39fa",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/editorial/publication_carry_through.json": "56aaed67caa3b9a97c7e947034271a2f86b9ab9cdb9d66e69184b61038a78f2f",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/scores_v2.csv": "0212984016e8aabd6feb46edfd13c8fdf2cb1160c2ff5e17a85fff91a232d6c3",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/publication_integration/prepared_release/second_pass_v7_676/data/na_types_v2.csv": "83884f2ca6d0e370df42d73561fb65ee74e92ecdd92c45258a696bfe139a9ef6"
+  }
+}

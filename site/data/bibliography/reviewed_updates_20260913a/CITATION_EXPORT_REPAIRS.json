@@ -1,0 +1,213 @@
+{
+  "build": "20260913a",
+  "author_repairs_in_atlas": [
+    {
+      "source_id": "b35_ee1748254b10f0",
+      "old_title": "Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits",
+      "new_title": "Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits",
+      "url_unchanged": "https://www.openstarts.units.it/bitstream/10077/6083/1/ChiabaRomaPriscaeLatinaeColonie.pdf",
+      "case_ids": [
+        "gr-roman-pomptine-division-settlement-383-358",
+        "gr-roman-satricum-countercapture-382",
+        "gr-roman-satricum-roman-conquest-colony-386-385"
+      ],
+      "basis": "Retained and currently byte-identical university PDF, physical pages 2–3, names Monica Chiabà.",
+      "targets": [
+        "audit/existing_atlas_sources.json",
+        "taking-the-land-atlas.html"
+      ],
+      "applied": false
+    },
+    {
+      "source_id": "b36_ee1748254b10f0",
+      "old_title": "Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 115-122, on Satricum and Setia",
+      "new_title": "Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 115-122, on Satricum and Setia",
+      "url_unchanged": "https://www.openstarts.units.it/bitstream/10077/6083/1/ChiabaRomaPriscaeLatinaeColonie.pdf",
+      "case_ids": [
+        "gr-roman-satricum-latin-burning-377"
+      ],
+      "basis": "Retained and currently byte-identical university PDF, physical pages 2–3, names Monica Chiabà.",
+      "targets": [
+        "audit/existing_atlas_sources.json",
+        "taking-the-land-atlas.html"
+      ],
+      "applied": false
+    },
+    {
+      "source_id": "b37_ee1748254b10f0",
+      "old_title": "Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 115-116, on the distinct 346 Satricum destruction",
+      "new_title": "Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 115-116, on the distinct 346 Satricum destruction",
+      "url_unchanged": "https://www.openstarts.units.it/bitstream/10077/6083/1/ChiabaRomaPriscaeLatinaeColonie.pdf",
+      "case_ids": [
+        "gr-roman-satricum-roman-destruction-enslavement-346"
+      ],
+      "basis": "Retained and currently byte-identical university PDF, physical pages 2–3, names Monica Chiabà.",
+      "targets": [
+        "audit/existing_atlas_sources.json",
+        "taking-the-land-atlas.html"
+      ],
+      "applied": false
+    }
+  ],
+  "being_maasai_link": {
+    "old_url": "https://history.wisc.edu/publications/being-maasai-ethnicity-and-identity-in-east-africa/",
+    "new_url": "https://www.ohioswallow.com/9780821410455/being-maasai/",
+    "case_ids": [
+      "maasai-expansion",
+      "nandi-uasin-gishu"
+    ]
+  },
+  "csv_repairs": {
+    "changed_cells": 24,
+    "affected_cases": 23,
+    "differences": [
+      {
+        "case_id": "western-sahara",
+        "column": "source_labels",
+        "before": "Padrón Hernández 2025 | Minority Rights Group, “Sahrawis” | United Nations, Western Sahara (NSGT)",
+        "after": "Padrón Hernández 2025 | Minority Rights Group, “Western Sahara” (updated November 2025) | United Nations, Western Sahara (NSGT)"
+      },
+      {
+        "case_id": "western-sahara",
+        "column": "source_urls",
+        "before": "https://doi.org/10.1080/2201473X.2025.2456386 | https://minorityrights.org/communities/saharawis/ | https://www.un.org/dppa/decolonization/en/node/703",
+        "after": "https://doi.org/10.1080/2201473X.2025.2456386 | https://minorityrights.org/country/western-sahara/ | https://www.un.org/dppa/decolonization/en/node/703"
+      },
+      {
+        "case_id": "maasai-expansion",
+        "column": "source_urls",
+        "before": "https://history.wisc.edu/publications/being-maasai-ethnicity-and-identity-in-east-africa/ | https://search.worldcat.org/search?q=Waller+Ecology+Migration+Expansion+East+Africa+African+Affairs+1985",
+        "after": "https://www.ohioswallow.com/9780821410455/being-maasai/ | https://search.worldcat.org/search?q=Waller+Ecology+Migration+Expansion+East+Africa+African+Affairs+1985"
+      },
+      {
+        "case_id": "nandi-uasin-gishu",
+        "column": "source_urls",
+        "before": "https://search.worldcat.org/search?q=Huntingford+The+Nandi+of+Kenya | https://history.wisc.edu/publications/being-maasai-ethnicity-and-identity-in-east-africa/",
+        "after": "https://search.worldcat.org/search?q=Huntingford+The+Nandi+of+Kenya | https://www.ohioswallow.com/9780821410455/being-maasai/"
+      },
+      {
+        "case_id": "eu-norman-conquest-settlement-wales",
+        "column": "source_labels",
+        "before": "R. R. Davies, The Normans in Welsh History | Oxford Scholarship Online, conquest and colonial settlement in medieval Wales",
+        "after": "Huw Pryce, The Normans in Welsh History (R. Allen Brown Memorial Lecture) | Oxford Scholarship Online, conquest and colonial settlement in medieval Wales"
+      },
+      {
+        "case_id": "asia-han-hexi-conquest-tuntian-121-bce-onward",
+        "column": "source_labels",
+        "before": "Heather Clydesdale, “Rethinking China’s Frontier: Archaeological Finds Show the Hexi Corridor’s Rapid Emergence as a Regional Power,” Humanities 7, no. 3 (2018) | Xin Wen, “Between the Great Walls: Northern Song Imaginations of the Northwest,” Journal of Chinese History (2025), p. 251",
+        "after": "Heather Clydesdale, “Rethinking China’s Frontier: Archaeological Finds Show the Hexi Corridor’s Rapid Emergence as a Regional Power,” Humanities 7, no. 3 (2018) | Xin Wen, “Between the Great Walls: Northern Song Imaginations of the Northwest,” Journal of Chinese History (2024), p. 251"
+      },
+      {
+        "case_id": "gr-roman-ariminum-integrated-colony",
+        "column": "source_labels",
+        "before": "Oxford History of the Archaic Greek World, Ariminum chapter | “The Early Colonisation of Cisalpine Gaul,” Papers of the British School at Rome",
+        "after": "Edward Togo Salmon, T W Potter, “Ariminum”, Oxford Classical Dictionary (2015) | “The Early Colonisation of Cisalpine Gaul,” Papers of the British School at Rome"
+      },
+      {
+        "case_id": "gr-roman-transalpine-gauls-aquileia",
+        "column": "source_labels",
+        "before": "Livy, History of Rome, book 39 | Oxford History of the Archaic Greek World, Aquileia chapter | Livius, “Aquileia”",
+        "after": "Livy, History of Rome, book 39 | Oxford History of the Archaic Greek World, Aquileia chapter | Jona Lendering, “Aquileia” (Livius; article stub)"
+      },
+      {
+        "case_id": "gr-roman-gracchan-ager-gallicus-picenum-allotment-132",
+        "column": "source_labels",
+        "before": "Brill study of Gracchan land distribution and boundary evidence",
+        "after": "Arianna Zapelloni Pavia, Continuity and Change in Ancient Umbrian Cult Places (Brill, 2025; ebook released 2024)."
+      },
+      {
+        "case_id": "gr-roman-antium-338-colony-integration",
+        "column": "source_labels",
+        "before": "Livy 8.13–14, Roman expansion source readings | Oxford History of the Archaic Greek World, Antium chapter",
+        "after": "Livy 8.13–14, Roman expansion source readings | Edward Togo Salmon, T W Potter, “Antium”, Oxford Classical Dictionary (2015)"
+      },
+      {
+        "case_id": "gr-roman-narnia-nequinum-capture-colony-300-299",
+        "column": "source_labels",
+        "before": "Attalus, ancient references for Nequinum and Narnia | Oxford History of the Archaic Greek World, Narnia chapter | UCL study of Roman colonization and Umbrian continuity",
+        "after": "Attalus, ancient references for Nequinum and Narnia | Edward Togo Salmon, T W Potter, “Narnia”, Oxford Classical Dictionary (2016) | UCL study of Roman colonization and Umbrian continuity"
+      },
+      {
+        "case_id": "gr-roman-brundisium-capture-colony-267-244",
+        "column": "source_labels",
+        "before": "Dictionary of Greek and Roman Geography, Brundisium | Oxford History of the Archaic Greek World, Brundisium chapter | Archaeological synthesis of Roman conquest and colonization in southern Italy",
+        "after": "Dictionary of Greek and Roman Geography, Brundisium | H Kathryn Lomas, “Brundisium”, Oxford Classical Dictionary (2015) | Archaeological synthesis of Roman conquest and colonization in southern Italy"
+      },
+      {
+        "case_id": "gr-roman-croton-greek-city-colony-194",
+        "column": "source_labels",
+        "before": "Livy, History of Rome, book 34 | Oxford History of the Archaic Greek World, Croton chapter",
+        "after": "Livy, History of Rome, book 34 | H Kathryn Lomas, “Croton”, Oxford Classical Dictionary (2015)"
+      },
+      {
+        "case_id": "gr-roman-buxentum-pyxus-colony-194-186",
+        "column": "source_labels",
+        "before": "Livy, History of Rome, book 34 | Livy, History of Rome, book 39, Buxentum supplement notice | Oxford History of the Archaic Greek World, Buxentum chapter | Archaeological study of Buxentum and Pyxus",
+        "after": "Livy, History of Rome, book 34 | Livy, History of Rome, book 39, Buxentum supplement notice | H Kathryn Lomas, “Buxentum”, Oxford Classical Dictionary (2015) | Archaeological study of Buxentum and Pyxus"
+      },
+      {
+        "case_id": "gr-roman-saturnia-caletran-land-colony-183",
+        "column": "source_urls",
+        "before": "https://www.perseus.tufts.edu/hopper/text?doc=Liv.%2039.55 | https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27Arte-Antica%29/ | https://central.bac-lac.gc.ca/.item?app=Library&id=TC-BVAU-2289&oclc_number=1033213695&op=pdf",
+        "after": "https://www.perseus.tufts.edu/hopper/text?doc=Liv.%2039.55 | https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27-Arte-Antica%29/ | https://central.bac-lac.gc.ca/.item?app=Library&id=TC-BVAU-2289&oclc_number=1033213695&op=pdf"
+      },
+      {
+        "case_id": "prospective-initial-neolithic-farmer-expansion-from-southern-china-into-mainland-southeast-asia",
+        "column": "source_labels",
+        "before": "Mark Lipson et al., ‘Ancient genomes document multiple waves of migration in Southeast Asian prehistory,’ journal pp. 92–94 | Hugh McColl et al., ‘The prehistoric peopling of Southeast Asia,’ journal pp. 90–91 and fig. 4 | ‘Exploring Genomic Population Structure and Admixture in Ancient Southeast Asians,’ genomic-formation section and fig. 5",
+        "after": "Mark Lipson et al., ‘Ancient genomes document multiple waves of migration in Southeast Asian prehistory,’ journal pp. 92–94 | Hugh McColl et al., ‘The prehistoric peopling of Southeast Asia,’ journal pp. 90–91 and fig. 4 | ‘Exploring the genomic population structure and history of Austroasiatic speakers in Mainland Southeast Asia’, genomic-formation section and fig. 5"
+      },
+      {
+        "case_id": "ancient-hittite-mursili-arzawa-deportation",
+        "column": "source_labels",
+        "before": "Contacts of Languages in the Hittite Empire, movement and deportation context | Trevor Bryce, The Kingdom of the Hittites, second edition | Hittite movement and resettlement synthesis",
+        "after": "Federico Giusfredi, Valerio Pisaniello and Alvise Matessi, Contacts of Languages and Peoples in the Hittite and Post-Hittite World, vol. 1: The Bronze Age and Hatti (Brill, 2023). | Trevor Bryce, The Kingdom of the Hittites, second edition | Hittite movement and resettlement synthesis"
+      },
+      {
+        "case_id": "gr-roman-satricum-roman-conquest-colony-386-385",
+        "column": "source_labels",
+        "before": "Livy, History of Rome, Book 6, especially 6.8.9-10, 6.16.6, 6.21.4, and 6.22.4, on Satricum and the Pomptine land commission | Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits",
+        "after": "Livy, History of Rome, Book 6, especially 6.8.9-10, 6.16.6, 6.21.4, and 6.22.4, on Satricum and the Pomptine land commission; the 6.16.6 passage is between the mirror’s 6.15 and 6.17 markers (its 6.16 heading is omitted) | Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits"
+      },
+      {
+        "case_id": "gr-roman-pomptine-division-settlement-383-358",
+        "column": "source_labels",
+        "before": "Livy, History of Rome, Book 6, especially 6.8.9-10, 6.16.6, 6.21.4, and 6.22.4, on Satricum and the Pomptine land commission | Livy, History of Rome 7.15.12, on the creation of the Pomptina and Publilia tribes in 358 BCE | Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits | James Broadhead, Internal migration and the transformation of Republican Italy, printed pages 12-14, on Roman settlement in the Pomptine region",
+        "after": "Livy, History of Rome, Book 6, especially 6.8.9-10, 6.16.6, 6.21.4, and 6.22.4, on Satricum and the Pomptine land commission; the 6.16.6 passage is between the mirror’s 6.15 and 6.17 markers (its 6.16 heading is omitted) | Livy, History of Rome 7.15.12, on the creation of the Pomptina and Publilia tribes in 358 BCE | Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits | William Broadhead, Internal migration and the transformation of Republican Italy, printed pages 12-14, on Roman settlement in the Pomptine region"
+      },
+      {
+        "case_id": "gr-roman-satricum-countercapture-382",
+        "column": "source_labels",
+        "before": "Livy, History of Rome, Book 6, especially 6.8.9-10, 6.16.6, 6.21.4, and 6.22.4, on Satricum and the Pomptine land commission | Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits",
+        "after": "Livy, History of Rome, Book 6, especially 6.8.9-10, 6.16.6, 6.21.4, and 6.22.4, on Satricum and the Pomptine land commission; the 6.16.6 passage is between the mirror’s 6.15 and 6.17 markers (its 6.16 heading is omitted) | Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 109-118, on Satricum, Pomptine land, and source-critical limits"
+      },
+      {
+        "case_id": "gr-roman-satricum-latin-burning-377",
+        "column": "source_labels",
+        "before": "Livy, History of Rome 6.33.4, on the Latin burning of Satricum and the Mater Matuta temple exception | Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 115-122, on Satricum and Setia",
+        "after": "Livy, History of Rome 6.33.4, on the Latin burning of Satricum and the Mater Matuta temple exception | Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 115-122, on Satricum and Setia"
+      },
+      {
+        "case_id": "gr-roman-satricum-roman-destruction-enslavement-346",
+        "column": "source_labels",
+        "before": "Livy, History of Rome 7.27, on Satricum's surrender, destruction, captive triumph, sale, and the conflicting prisoner-status tradition | Maria Chiara Chiaba, Roma e le priscae Latinae coloniae, printed pages 115-116, on the distinct 346 Satricum destruction",
+        "after": "Livy, History of Rome 7.27, on Satricum's surrender, destruction, captive triumph, sale, and the conflicting prisoner-status tradition | Monica Chiabà, Roma e le priscae Latinae coloniae, printed pages 115-116, on the distinct 346 Satricum destruction"
+      },
+      {
+        "case_id": "prospective-gr-roman-sulla-nola-veteran-allotment-81-78-bce",
+        "column": "source_labels",
+        "before": "Liber coloniarum I 236.4, for the late report that Nolan land had been assigned under Sullan limits | CIL X 1236 = CIL I² 3127 = ILLRP 116, as reproduced by Thierry Jacotot, for independent attestation of a colony and colonists at Nola | Granius Licinianus 36.9–10, for capitulation under fear of siege and the campaign chronology, not an allotment year | Livy, Periocha 89.11–12, for Sulla's recovery of Nola, not the land-assignment details | Alexander Thein, Sulla's Veteran Settlement Policy, for source criticism and the broader c. 81–78 BCE implementation window | Alexander Thein, 3 May 2026, for his disclosed revision after considering CIL X 1236 and Camodeca; the narrower 70s date remains his attribution | Giuseppe Camodeca, for early colonial interpretation and the accessible c. 80–70 BCE inscriptional date range | Federico Santangelo, printed pp. 148 and 167–168, for the Liber passage and source-critical reconstruction | Luca Moretti, for the military chronology and its limits | Fabrizio Ruffo, for the agricultural and survey interpretation, kept separate from proof of exact parcels or resident removal | Pleiades 432981, Nola, for the representative site point only",
+        "after": "Liber coloniarum I 236.4, for the late report that Nolan land had been assigned under Sullan limits | CIL X 1236 = CIL I² 3127 = ILLRP 116, as reproduced by Mathieu Jacotot, for independent attestation of a colony and colonists at Nola | Granius Licinianus 36.9–10, for capitulation under fear of siege and the campaign chronology, not an allotment year | Livy, Periocha 89.11–12, for Sulla's recovery of Nola, not the land-assignment details | Alexander Thein, Sulla's Veteran Settlement Policy, for source criticism and the broader c. 81–78 BCE implementation window | Alexander Thein, 3 May 2026, for his disclosed revision after considering CIL X 1236 and Camodeca; the narrower 70s date remains his attribution | Giuseppe Camodeca, “Le élites cittadine della Campania romana: dinamiche politiche e sociali dalla documentazione epigrafica,” in Epigrafia e politica (2017); Nola discussion, pp. 198–200 | Federico Santangelo, printed pp. 148 and 167–168, for the Liber passage and source-critical reconstruction | Luca Moretti, for the military chronology and its limits | Fabrizio Ruffo, for the agricultural and survey interpretation, kept separate from proof of exact parcels or resident removal | Pleiades 432981, Nola, for the representative site point only"
+      },
+      {
+        "case_id": "prospective-gr-hellenistic-tigranes-tigranokerta-forced-concentration",
+        "column": "source_urls",
+        "before": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/11N%2A.html | https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/12B%2A.html | https://classics.mit.edu/Plutarch/lucullus.html | https://www.ucpress.edu/books/the-hellenistic-settlements-in-the-east/hardcover | https://www.iranicaonline.org/articles/tigran-ii/ | https://pleiades.stoa.org/places/629035",
+        "after": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/11N%2A.html | https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/12B%2A.html | https://classics.mit.edu/Plutarch/lucullus.html | https://www.ucpress.edu/books/the-hellenistic-settlements-in-the-east-from-armenia-and-mesopotamia-to-bactria-and-india/hardcover | https://www.iranicaonline.org/articles/tigran-ii/ | https://pleiades.stoa.org/places/629035"
+      }
+    ]
+  },
+  "case_narrative_changes": 0,
+  "scientific_changes": 0,
+  "inventory_rule": "Downloadable cases, summary and CSV must match production extraction of the same staged atlas."
+}

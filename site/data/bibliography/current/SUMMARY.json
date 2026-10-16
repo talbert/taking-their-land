@@ -1,0 +1,60 @@
+{
+  "schema": "mascarene_public_selected_bibliography_summary_v1",
+  "counts": {
+    "works": 1483,
+    "occurrences": 6220,
+    "access_urls": 1515,
+    "public_cases": 540,
+    "playback_stops": 552,
+    "public_case_occurrences": 1334,
+    "case_linked_occurrence_records_including_prospective_scopes": 1335,
+    "native_public_case_source_links": 1334,
+    "source_registry_entries": 1378,
+    "new_occurrences": 6,
+    "old_occurrences_preserved": 6214,
+    "new_works": 4
+  },
+  "metadata_status_summary": {
+    "schema": "bibliography_exact_metadata_status_counts_v1",
+    "source": "bibliography/current/typed_metadata.json",
+    "source_sha256": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04",
+    "record_unit": "one typed work/access record; not an occurrence, passage or person",
+    "records": 1483,
+    "metadata_status_counts": {
+      "accepted_source_identity_locus_separate": 15,
+      "accepted_source_identity_no_publication_date": 1,
+      "container_identity_reconciled_chapter_link_corrected": 1,
+      "corrected_identifier_verified": 3,
+      "deposited_metadata_identity_screened": 114,
+      "metadata_identity_reconciled_locus_separate": 964,
+      "primary_identity_verified_from_frozen_source": 3,
+      "prior_pilot_review_preserved": 29,
+      "secondary_inventory_unresolved": 352,
+      "source_identity_reconciled_identifier_unresolved": 1
+    },
+    "status_semantics": {
+      "metadata_identity_reconciled_locus_separate": "Work identity is reconciled. Passage location remains a separate question; this status does not certify every metadata field.",
+      "secondary_inventory_unresolved": "The secondary-inventory work identity remains unresolved.",
+      "deposited_metadata_identity_screened": "Identity was screened against deposited metadata. This is not a claim of full source or passage review.",
+      "prior_pilot_review_preserved": "The prior pilot review is preserved. This status does not claim a new review or full field completion.",
+      "accepted_source_identity_locus_separate": "Source identity was accepted in the bounded source review. Passage location and other fields remain separate.",
+      "corrected_identifier_verified": "The identifier correction is verified. This does not certify all metadata or passage claims.",
+      "primary_identity_verified_from_frozen_source": "Identity was verified from the frozen primary source. Other metadata fields and passage claims retain their recorded limits.",
+      "container_identity_reconciled_chapter_link_corrected": "Container identity is reconciled and the chapter link corrected. This does not certify all fields or passages.",
+      "source_identity_reconciled_identifier_unresolved": "Source identity is reconciled; its identifier remains unresolved.",
+      "accepted_source_identity_no_publication_date": "Source identity was accepted. Its publication date remains unknown; passage limits and other metadata fields remain separate."
+    },
+    "completion_limit": "Identity review, passage location, source access and preferred-field completion are separate. No binary fully-reviewed or fully-unresolved total is inferred.",
+    "binary_counters_removed": [
+      "reviewed",
+      "unresolved"
+    ]
+  },
+  "identity_is_not_passage_completion": true,
+  "count_semantics": {
+    "access_urls": "Distinct URL strings in selected work inventory; not unique works or source witnesses.",
+    "public_case_occurrences": "Occurrence records whose case_id/source_id pair appears in actual current native case source lists; includes now-realized prospective scope labels, not independent witnesses.",
+    "case_linked_occurrence_records_including_prospective_scopes": "All records with case_id including one historical source link absent from actual current case source lists; not actual public uses.",
+    "source_registry_entries": "Actual native source registry key count."
+  }
+}

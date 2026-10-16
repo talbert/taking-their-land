@@ -1,0 +1,340 @@
+{
+  "status": "main_calibration_complete_with_explicit_field_limits",
+  "reviewed_document": "REVISED_IDENTITY_CANDIDATES.json",
+  "source_text_grounded": true,
+  "groups": [
+    {
+      "group_id": "L01",
+      "work_id": "access:17b27b2d4e7ffec12d58",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 0: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://www.livius.org/sources/content/livy/livy-periochae-86-90/",
+        "https://www.livius.org/articles/person/livy/livy-the-periochae/"
+      ],
+      "grounding_passages": [
+        "Livy, Periochae 86-90",
+        "translation was made by Jona Lendering.",
+        "created in 2009",
+        "11 July 2020"
+      ],
+      "source_locators": [
+        "heading; introduction at line 68; page dates at line 137; linked Periochae introduction, paragraphs 1–3 and translator credit",
+        "Linked Periochae introduction on summary/epitomator and translation credit"
+      ],
+      "source_licenses": "Named web component, online translation credit and page dates. The linked introduction describes a summary/epitomator rather than surviving full Livy books; it does not name that epitomator.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "053c915cac84cf93e364f2cbe2ae98c166c4e9f95b2cca60f2ff7431ec162f35",
+        "282d87b0b032b34f719fae7a699ca87dc544f72be34eb5b8fe5b0d0b93a221bb"
+      ]
+    },
+    {
+      "group_id": "L02",
+      "work_id": "access:8ad2780a89a28f0fd6b8",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 1: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-1/"
+      ],
+      "grounding_passages": [
+        "Appian, The Syrian Wars 1",
+        "Horace White; notes by Jona Lendering.",
+        "created in 2005",
+        "15 July 2020",
+        "[1]",
+        "[5]"
+      ],
+      "source_locators": [
+        "heading and credits lines 5–9; displayed sections 1–5; page dates line 36"
+      ],
+      "source_licenses": "Named Appian web part, credited translation and notes, displayed section range and web dates; no print-edition identity supplied.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "053c915cac84cf93e364f2cbe2ae98c166c4e9f95b2cca60f2ff7431ec162f35"
+      ]
+    },
+    {
+      "group_id": "L03",
+      "work_id": "access:aba3ea9960daf2f7a430",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 2: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-6/"
+      ],
+      "grounding_passages": [
+        "Appian, The Syrian Wars 6",
+        "Horace White; notes by Jona Lendering.",
+        "created in 2005",
+        "8 September 2020",
+        "[26]",
+        "[30]"
+      ],
+      "source_locators": [
+        "heading and credits lines 5–9; displayed sections 26–30; page dates line 43"
+      ],
+      "source_licenses": "Named Appian web part, credited translation and notes, displayed section range and web dates; no print-edition identity supplied.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "a36249bfdd2b54b7207102b05cdae6847fb7ac1bf79e5e1043877fb08ef3b72c"
+      ]
+    },
+    {
+      "group_id": "L04",
+      "work_id": "access:c4286a0ba275337d7552",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 3: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://test.livius.org/sources/content/livy/livy-periochae-86-90?level=4",
+        "https://www.livius.org/articles/person/livy/livy-the-periochae/"
+      ],
+      "grounding_passages": [
+        "Livy, Periochae 86-90",
+        "translation was made by Jona Lendering.",
+        "created in 2018",
+        "28 July, 2022",
+        "From Book 89",
+        "is a stub"
+      ],
+      "source_locators": [
+        "heading and translator credit lines 7–11; selected Book 89 view lines 53–67; dates line 68; stub notice line 70",
+        "Linked Periochae introduction on summary/epitomator and translation credit"
+      ],
+      "source_licenses": "Named Periochae translation in a test-site Book 89 view; distinct web dates, reordered sections and explicit stub status. No byte-equivalence or identity merge follows.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "a36249bfdd2b54b7207102b05cdae6847fb7ac1bf79e5e1043877fb08ef3b72c",
+        "282d87b0b032b34f719fae7a699ca87dc544f72be34eb5b8fe5b0d0b93a221bb"
+      ]
+    },
+    {
+      "group_id": "L05",
+      "work_id": "access:c756a7649b41e12c65a9",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 4: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-27/"
+      ],
+      "grounding_passages": [
+        "Appian, The Punic Wars 27",
+        "Horace White; notes by Jona Lendering.",
+        "not all editions",
+        "created in 2005",
+        "16 July 2020",
+        "[131]",
+        "[135]"
+      ],
+      "source_locators": [
+        "heading; numbering caution and credits lines 9–11; displayed sections 131–135; dates line 40"
+      ],
+      "source_licenses": "Named Punic Wars web part, credited translator and notes, numbered sections and web dates; edition-numbering caveat is explicit.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "5099f946dfa0b9cc3c1693806036f84f1de3859e17ff9d1b5c461eb2bcb6e586"
+      ]
+    },
+    {
+      "group_id": "L06",
+      "work_id": "url:livius.org/articles/place/aquileia",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 5: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://www.livius.org/articles/place/aquileia"
+      ],
+      "grounding_passages": [
+        "Aquileia",
+        "Jona Lendering",
+        "created in 2017",
+        "6 August 2020",
+        "is a stub"
+      ],
+      "source_locators": [
+        "heading line 14; page dates line 56; stub notice line 58; Author credit lines 67–69"
+      ],
+      "source_licenses": "Named reference article, Jona Lendering credit, web dates and explicit stub status. No full-article or historical-completeness claim.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "5099f946dfa0b9cc3c1693806036f84f1de3859e17ff9d1b5c461eb2bcb6e586"
+      ]
+    },
+    {
+      "group_id": "L07",
+      "work_id": "url:livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 6: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26/"
+      ],
+      "grounding_passages": [
+        "Appian, The Punic Wars 26",
+        "Horace White; notes by Jona Lendering.",
+        "not all editions",
+        "created in 2005",
+        "11 July 2020",
+        "[126]",
+        "[130]"
+      ],
+      "source_locators": [
+        "heading; numbering caution and credits lines 9–11; displayed sections 126–130; page dates line 39"
+      ],
+      "source_licenses": "Named Punic Wars web part, credited translator and notes, numbered sections and web dates; edition-numbering caveat is explicit.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "5099f946dfa0b9cc3c1693806036f84f1de3859e17ff9d1b5c461eb2bcb6e586"
+      ]
+    },
+    {
+      "group_id": "L08",
+      "work_id": "url:livius.org/sources/content/mesopotamian-chronicles-content/abc-9-artaxerxes-iii-chronicle",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 7: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-9-artaxerxes-iii-chronicle/"
+      ],
+      "grounding_passages": [
+        "ABC 9 (Artaxerxes III Chronicle)",
+        "adapted from",
+        "BM 31450 (71-11-17, 1177)",
+        "Ancient author",
+        "created in 2004",
+        "10 July 2020"
+      ],
+      "source_locators": [
+        "heading; adaptation statement line 10; tablet description line 13; translated lines 1–8; page dates line 33"
+      ],
+      "source_licenses": "Named chronicle, tablet identifier, source language, eight translated lines and web dates. Grayson and Glassner are named sources for an adapted translation, not ancient authors; the selected page does not name its adapter.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "a36249bfdd2b54b7207102b05cdae6847fb7ac1bf79e5e1043877fb08ef3b72c"
+      ]
+    },
+    {
+      "group_id": "L09",
+      "work_id": "url:livius.org/sources/content/zosimus/zosimus-new-history-1/zosimus-new-history-1.27",
+      "claim_location": "REVISED_IDENTITY_CANDIDATES.json record 8: named component, contributor roles, dates and stated metadata limits",
+      "load_bearing_terms": "as reported; as supplied; web page; anonymous/probably/stub where applicable",
+      "source_urls": [
+        "https://www.livius.org/sources/content/zosimus/zosimus-new-history-1/zosimus-new-history-1.27/",
+        "https://www.tertullian.org/fathers/zosimus01_book1.htm"
+      ],
+      "grounding_passages": [
+        "Zosimus, New History 1.27",
+        "translator is anonymous.",
+        "probably prepared by J. Davis",
+        "1814",
+        "W. Green",
+        "T. Chaplin",
+        "London",
+        "Jona Lendering",
+        "16 April 2020"
+      ],
+      "source_locators": [
+        "heading; edition, translator, notes and provenance credit line 8; displayed sections 1.27.1–2; page dates line 14; linked Tertullian transcription heading",
+        "Linked transcription heading and edition attribution"
+      ],
+      "source_licenses": "Zosimus web component with an anonymous translator, notes by Lendering and reported 1814 London imprint. The preparer attribution remains probable. The linked transcription corroborates the reported imprint, not a claim of inspecting a printed title page.",
+      "materiality": "detail",
+      "verdict": "Matched",
+      "proposed_wording": "Retain candidate fields and limits.",
+      "private_response_sha256": [
+        "a36249bfdd2b54b7207102b05cdae6847fb7ac1bf79e5e1043877fb08ef3b72c",
+        "282d87b0b032b34f719fae7a699ca87dc544f72be34eb5b8fe5b0d0b93a221bb"
+      ]
+    },
+    {
+      "group_id": "E01",
+      "work_id": "access:8ad2780a89a28f0fd6b8",
+      "claim_location": "underlying_print_edition",
+      "load_bearing_terms": "null / unresolved",
+      "source_urls": [
+        "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-1/"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Selected component introduction and page footer"
+      ],
+      "source_licenses": "The reachable page credits Horace White but does not identify the exact underlying print edition. No external edition evidence was supplied or inferred.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep null and the explicit FIELD_EXCEPTIONS entry; do not supply an edition from the translator name."
+    },
+    {
+      "group_id": "E02",
+      "work_id": "access:aba3ea9960daf2f7a430",
+      "claim_location": "underlying_print_edition",
+      "load_bearing_terms": "null / unresolved",
+      "source_urls": [
+        "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-6/"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Selected component introduction and page footer"
+      ],
+      "source_licenses": "The reachable page credits Horace White but does not identify the exact underlying print edition. No external edition evidence was supplied or inferred.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep null and the explicit FIELD_EXCEPTIONS entry; do not supply an edition from the translator name."
+    },
+    {
+      "group_id": "E04",
+      "work_id": "access:c756a7649b41e12c65a9",
+      "claim_location": "underlying_print_edition",
+      "load_bearing_terms": "null / unresolved",
+      "source_urls": [
+        "https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-27/"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Selected component introduction and page footer"
+      ],
+      "source_licenses": "The reachable page credits Horace White but does not identify the exact underlying print edition. No external edition evidence was supplied or inferred.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep null and the explicit FIELD_EXCEPTIONS entry; do not supply an edition from the translator name."
+    },
+    {
+      "group_id": "E06",
+      "work_id": "url:livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26",
+      "claim_location": "underlying_print_edition",
+      "load_bearing_terms": "null / unresolved",
+      "source_urls": [
+        "https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26/"
+      ],
+      "grounding_passages": [],
+      "source_locators": [
+        "Selected component introduction and page footer"
+      ],
+      "source_licenses": "The reachable page credits Horace White but does not identify the exact underlying print edition. No external edition evidence was supplied or inferred.",
+      "materiality": "detail",
+      "verdict": "Uncheckable",
+      "proposed_wording": "Keep null and the explicit FIELD_EXCEPTIONS entry; do not supply an edition from the translator name."
+    }
+  ],
+  "counts": {
+    "Matched": 9,
+    "Overclaimed": 0,
+    "Underclaimed": 0,
+    "Unsupported-but-sound": 0,
+    "Uncheckable": 4
+  },
+  "coverage": "All nine source-identity candidate groups, including reported roles, web dates, edition qualifiers and four unfilled print-edition fields. Metadata operation timestamps and computed preservation counts are covered by local validation; historical prose, source claims about event outcomes, independent source corroboration and public archive success are not newly certified.",
+  "reverse_check": "Actively checked for needless hedging of explicit source credits and dates; no Underclaimed group found. Anonymous/probable credits remain exactly qualified.",
+  "scope": "Main metadata calibration only, not independent historical review.",
+  "public_apparatus_note": "Private response paths omitted; source URLs, grounding passages and locators are unchanged. Candidate filenames refer to the retained review packet."
+}

@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "question": "How does the complete Boydell record credit contributors relative to that edition’s title page?",
+      "verdict": "Uncheckable",
+      "basis": "Only the indexed role display was read; current full response failed. Ohio explicitly credits both editors.",
+      "adopted_change": "None; retain two editors at the Ohio catalogue scope.",
+      "next_action": "Revisit only with an accessible full record or title page, not another unchanged failing request."
+    }
+  ],
+  "limits": "This question does not prevent identifying the book or accepting the selected Ohio-edition fields.",
+  "build": "20260913a",
+  "scope": "Additional source question; separate from the 133 previously selected preferred metadata fields."
+}

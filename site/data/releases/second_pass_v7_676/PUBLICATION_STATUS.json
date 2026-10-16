@@ -1,0 +1,25 @@
+{
+  "schema": "taking-land-publication-status-v1",
+  "release_id": "second_pass_v7_676",
+  "status": "active_statistical_release_with_explicit_qualifications",
+  "release_activated": true,
+  "numerical_run": "Completed original565-scenario diagnostic cycle plus separately accepted two-event date/era addendum; canonical fit unchanged.",
+  "family_and_metadata": "Five earlier public corrections and33 accepted metadata requests applied; derived metadata tables synchronized.",
+  "atlas": "370 existing cases/380 stops; accepted traits and corrected families joined to the active release",
+  "current_labels": "editorial/primary_family_labels.csv",
+  "current_mapped_display": "editorial/atlas_profiles.json",
+  "model_inputs": "data/ files are exact diagnostic inputs, not overwritten by publication metadata",
+  "historical_records": "Copied review/acceptance files describe their dated stages; pending/unauthorized wording there is historical, not a competing current status.",
+  "remaining": [
+    "Latrian deployment and live verification at activation; consult the dated deployment receipt",
+    "Six raw-F8 follow-ups, four family holds and separate authoring/backlog work remain open"
+  ],
+  "github_public": false,
+  "zenodo_published": false,
+  "archival_doi": null,
+  "current_nominal_date_eligible_events": 629,
+  "chronology": "Use data/date_metadata_addendum for amended calendar metadata and results/date_metadata_addendum for the explicit overlay; original data/inputs and565 results are immutable.",
+  "public_deployed_at_activation": false,
+  "prior_release": "second_pass_v6_675",
+  "deployment_state_authority": "The companion site PUBLICATION.json and dated deployment receipt identify the deployed build; activation is not a deployment claim."
+}

@@ -1,0 +1,757 @@
+{
+  "build": "20260913a",
+  "status": "verified_location_annotations",
+  "source_inventory": "source_occurrences.json",
+  "source_inventory_sha256": "61d054aa5a663dad9158784b593d8dcd5f14f860077c114eff58b27856d42965",
+  "research_input": "analysis/gapscan/gapscan_results.json",
+  "research_input_sha256": "fbf295240afb9bc34dd551c87ae745d1a243036deef2679f4f1e4b5ae941f72e",
+  "checked_occurrences": 115,
+  "corrected_occurrences": 78,
+  "unchanged_valid_occurrences": 37,
+  "corrections": [
+    {
+      "occurrence_id": "occ:864be00ebe3fafa26deb",
+      "work_id": "doi:10.1126/science.aav4040",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/0/sources/0",
+      "corrected_locator": "/confirmed/0/candidate/sources/0",
+      "url": "https://www.science.org/doi/10.1126/science.aav4040",
+      "title_as_recorded": "Olalde et al. 2019, 'The genomic history of the Iberian Peninsula over the past 8000 years', Science 363:1230-1234"
+    },
+    {
+      "occurrence_id": "occ:a2def645610e0174d13a",
+      "work_id": "title:olalde et al 2019 full text pdf reich lab harvard medical school",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/0/sources/1",
+      "corrected_locator": "/confirmed/0/candidate/sources/1",
+      "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2019_Olalde_Science_IberiaTransect.pdf",
+      "title_as_recorded": "Olalde et al. 2019 full text PDF (Reich Lab, Harvard Medical School)"
+    },
+    {
+      "occurrence_id": "occ:6044a4c0c50e91fa29f9",
+      "work_id": "title:allentoft et al 2024 100 ancient genomes show repeated population turnovers in neolithic denmark nature 625 329 337",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/1/sources/0",
+      "corrected_locator": "/confirmed/1/candidate/sources/0",
+      "url": "https://www.nature.com/articles/s41586-023-06862-3",
+      "title_as_recorded": "Allentoft et al. 2024, '100 ancient genomes show repeated population turnovers in Neolithic Denmark', Nature 625:329-337"
+    },
+    {
+      "occurrence_id": "occ:830ae6ca61ca6f551f2e",
+      "work_id": "title:allentoft et al 2024 population genomics of post glacial western eurasia nature 625 301 311",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/1/sources/1",
+      "corrected_locator": "/confirmed/1/candidate/sources/1",
+      "url": "https://www.nature.com/articles/s41586-023-06865-0",
+      "title_as_recorded": "Allentoft et al. 2024, 'Population genomics of post-glacial western Eurasia', Nature 625:301-311"
+    },
+    {
+      "occurrence_id": "occ:a1c5260ec160031eeec8",
+      "work_id": "doi:10.1126/science.aat3628",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/2/sources/0",
+      "corrected_locator": "/confirmed/2/candidate/sources/0",
+      "url": "https://www.science.org/doi/10.1126/science.aat3628",
+      "title_as_recorded": "McColl et al. 2018, 'The prehistoric peopling of Southeast Asia', Science 361:88-92"
+    },
+    {
+      "occurrence_id": "occ:c1e32412ae46b3c566c4",
+      "work_id": "doi:10.1126/science.aat3188",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/2/sources/1",
+      "corrected_locator": "/confirmed/2/candidate/sources/1",
+      "url": "https://www.science.org/doi/10.1126/science.aat3188",
+      "title_as_recorded": "Lipson et al. 2018, 'Ancient genomes document multiple waves of migration in Southeast Asian prehistory', Science 361:92-95"
+    },
+    {
+      "occurrence_id": "occ:62a49d9afe8d78477fc1",
+      "work_id": "title:posth et al 2018 language continuity despite population replacement in remote oceania nature ecology evolution 2 731 740",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/3/sources/0",
+      "corrected_locator": "/confirmed/3/candidate/sources/0",
+      "url": "https://link.springer.com/article/10.1038/s41559-018-0498-2",
+      "title_as_recorded": "Posth et al. 2018, 'Language continuity despite population replacement in Remote Oceania', Nature Ecology & Evolution 2:731-740"
+    },
+    {
+      "occurrence_id": "occ:1fc4989d88545bc4161d",
+      "work_id": "title:lipson et al 2018 population turnover in remote oceania shortly after initial settlement current biology 28 1157 1165",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/3/sources/1",
+      "corrected_locator": "/confirmed/3/candidate/sources/1",
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(18)30236-7",
+      "title_as_recorded": "Lipson et al. 2018, 'Population Turnover in Remote Oceania Shortly after Initial Settlement', Current Biology 28:1157-1165"
+    },
+    {
+      "occurrence_id": "occ:98c886a84582bfc661f2",
+      "work_id": "title:bustenay oded mass deportations and deportees in the neo assyrian empire reichert 1979",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/4/sources/0",
+      "corrected_locator": "/confirmed/4/candidate/sources/0",
+      "url": "https://www.semanticscholar.org/paper/Mass-deportations-and-deportees-in-the-Neo-Assyrian-Oded/74e1243d1914eb7ea81760e2b98dcb484d732f5b",
+      "title_as_recorded": "Bustenay Oded, Mass Deportations and Deportees in the Neo-Assyrian Empire (Reichert, 1979)"
+    },
+    {
+      "occurrence_id": "occ:80c15f58f69160c5d062",
+      "work_id": "url:oracc.museum.upenn.edu/saao/aebp/essentials/governors/massdeportation",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/4/sources/1",
+      "corrected_locator": "/confirmed/4/candidate/sources/1",
+      "url": "https://oracc.museum.upenn.edu/saao/aebp/essentials/governors/massdeportation/",
+      "title_as_recorded": "Karen Radner, 'Mass deportation: the Assyrian resettlement policy' (Assyrian Empire Builders, UCL, 2012)"
+    },
+    {
+      "occurrence_id": "occ:2ccd78166e551950f042",
+      "work_id": "title:oded lipschits and joseph blenkinsopp eds judah and the judeans in the neo babylonian period eisenbrauns 2003",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/5/sources/0",
+      "corrected_locator": "/confirmed/5/candidate/sources/0",
+      "url": "https://www.eisenbrauns.org/books/titles/978-1-57506-073-6.html",
+      "title_as_recorded": "Oded Lipschits and Joseph Blenkinsopp (eds.), Judah and the Judeans in the Neo-Babylonian Period (Eisenbrauns, 2003)"
+    },
+    {
+      "occurrence_id": "occ:abf13528053b25911cd5",
+      "work_id": "title:tero alstola judeans in babylonia a study of deportees in the sixth and fifth centuries bce brill 2020",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/5/sources/1",
+      "corrected_locator": "/confirmed/5/candidate/sources/1",
+      "url": "https://brill.com/display/book/9789004365421/BP000001.xml",
+      "title_as_recorded": "Tero Alstola, Judeans in Babylonia: A Study of Deportees in the Sixth and Fifth Centuries BCE (Brill, 2020)"
+    },
+    {
+      "occurrence_id": "occ:aee3eed6e0b8a8edd2a5",
+      "work_id": "title:halil inalcik ottoman methods of conquest studia islamica 2 1954 103 129",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/6/sources/0",
+      "corrected_locator": "/confirmed/6/candidate/sources/0",
+      "url": "https://www.semanticscholar.org/paper/Ottoman-methods-of-conquest-Inalc%C4%B1k/136b2029215bce52e5b32886311bc019fe2350e9",
+      "title_as_recorded": "Halil Inalcik, 'Ottoman Methods of Conquest', Studia Islamica 2 (1954), 103-129"
+    },
+    {
+      "occurrence_id": "occ:7bb78926172b64c71e4a",
+      "work_id": "title:g boykov et al the process of sedentarization of semi nomadic groups of the yoruks in parts of 16th century ottoman rumeli dergipark",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/6/sources/1",
+      "corrected_locator": "/confirmed/6/candidate/sources/1",
+      "url": "https://dergipark.org.tr/en/download/article-file/906330",
+      "title_as_recorded": "G. Boykov et al., 'The Process of Sedentarization of Semi-nomadic Groups of the Yoruks in Parts of 16th Century Ottoman Rumeli' (DergiPark)"
+    },
+    {
+      "occurrence_id": "occ:55919b002fad960637a7",
+      "work_id": "title:o j schmitt ed the ottoman conquest of the balkans austrian academy of sciences 2016",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/6/sources/2",
+      "corrected_locator": "/confirmed/6/candidate/sources/2",
+      "url": "https://www.academia.edu/53469331/THE_OTTOMAN_CONQUEST_OF_THE_BALKANS_AND_ITS_HISTORICAL_ARENAS_ON_THE_RELATIONSHIP_BETWEEN_REGIONAL_AND_SUPRAREGIONAL_HISTORY",
+      "title_as_recorded": "O. J. Schmitt (ed.), 'The Ottoman Conquest of the Balkans' (Austrian Academy of Sciences, 2016)"
+    },
+    {
+      "occurrence_id": "occ:519cbb3dbc0be38f2fbd",
+      "work_id": "title:karl f friday pushing beyond the pale the yamato conquest of the emishi and northern japan journal of japanese studies 23 1 1997",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/7/sources/0",
+      "corrected_locator": "/confirmed/7/candidate/sources/0",
+      "url": "https://religion-in-japan.univie.ac.at/k/img_auth.php/a/af/Friday_1997.pdf",
+      "title_as_recorded": "Karl F. Friday, 'Pushing beyond the Pale: The Yamato Conquest of the Emishi and Northern Japan', Journal of Japanese Studies 23:1 (1997)"
+    },
+    {
+      "occurrence_id": "occ:7956f2da5b609a90dd4d",
+      "work_id": "title:cognition of emishi in the eighth century and its change cinii research",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/7/sources/1",
+      "corrected_locator": "/confirmed/7/candidate/sources/1",
+      "url": "https://cir.nii.ac.jp/crid/1390290699066184832",
+      "title_as_recorded": "'Cognition of Emishi in the Eighth Century and its Change' (CiNii Research)"
+    },
+    {
+      "occurrence_id": "occ:93899e9cd9414bddbf07",
+      "work_id": "title:marcus meer william the conqueror s harrying of the north 1069 1070 in the cambridge world history of genocide vol 1 2023",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/8/sources/0",
+      "corrected_locator": "/confirmed/8/candidate/sources/0",
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-world-history-of-genocide/william-the-conquerors-harrying-of-the-north-10691070/5BE39C5AD40691CBA4D57F97B6D51ECB",
+      "title_as_recorded": "Marcus Meer, 'William the Conqueror's Harrying of the North, 1069-1070', in The Cambridge World History of Genocide, vol. 1 (2023)"
+    },
+    {
+      "occurrence_id": "occ:121611e270d7177761e8",
+      "work_id": "title:the harrying of the north history today",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/8/sources/1",
+      "corrected_locator": "/confirmed/8/candidate/sources/1",
+      "url": "https://www.historytoday.com/archive/history-matters/harrying-north",
+      "title_as_recorded": "'The Harrying of the North', History Today"
+    },
+    {
+      "occurrence_id": "occ:0cf9c858924e0d15a135",
+      "work_id": "title:roger collins the arab conquest of spain 710 797 blackwell 1989",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/9/sources/0",
+      "corrected_locator": "/confirmed/9/candidate/sources/0",
+      "url": "https://www.wiley.com/en-us/The+Arab+Conquest+of+Spain,+710+797-p-9780631194057",
+      "title_as_recorded": "Roger Collins, The Arab Conquest of Spain, 710-797 (Blackwell, 1989)"
+    },
+    {
+      "occurrence_id": "occ:5389e956d428c710aeb7",
+      "work_id": "title:hugh kennedy muslim spain and portugal a political history of al andalus routledge 1996",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/9/sources/1",
+      "corrected_locator": "/confirmed/9/candidate/sources/1",
+      "url": "https://www.taylorfrancis.com/books/mono/10.4324/9781315836287/muslim-spain-portugal-hugh-kennedy",
+      "title_as_recorded": "Hugh Kennedy, Muslim Spain and Portugal: A Political History of al-Andalus (Routledge, 1996)"
+    },
+    {
+      "occurrence_id": "occ:74f9bca632f05e6e45c0",
+      "work_id": "title:the danelaw reconsidered colonization and conflict in viking age england researchgate",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/10/sources/0",
+      "corrected_locator": "/confirmed/10/candidate/sources/0",
+      "url": "https://www.researchgate.net/publication/347728084_The_Danelaw_Reconsidered_Colonization_and_Conflict_in_Viking-Age_England",
+      "title_as_recorded": "'The Danelaw Reconsidered: Colonization and Conflict in Viking-Age England' (ResearchGate)"
+    },
+    {
+      "occurrence_id": "occ:f2c5ab2296d3535ea943",
+      "work_id": "title:gretzinger et al 2022 nature",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/10/sources/1",
+      "corrected_locator": "/confirmed/10/candidate/sources/1",
+      "url": "https://www.nature.com/articles/s41586-022-05247-2",
+      "title_as_recorded": "Gretzinger et al., 'The Anglo-Saxon migration and the formation of the early English gene pool', Nature 610 (2022)"
+    },
+    {
+      "occurrence_id": "occ:7e4c34053f6be0c350fd",
+      "work_id": "title:colson the social consequences of resettlement the impact of the kariba resettlement upon the gwembe tonga manchester up 1971 ehraf",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/11/sources/0",
+      "corrected_locator": "/confirmed/11/candidate/sources/0",
+      "url": "https://ehrafworldcultures.yale.edu/cultures/fq12/documents/004",
+      "title_as_recorded": "Colson, The Social Consequences of Resettlement: The Impact of the Kariba Resettlement upon the Gwembe Tonga (Manchester UP, 1971; eHRAF)"
+    },
+    {
+      "occurrence_id": "occ:6adf1d474e2ac50a4284",
+      "work_id": "title:chronic uncertainty and momentary opportunity a half century of adaptation among zambia s gwembe tonga human ecology 2007",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/11/sources/1",
+      "corrected_locator": "/confirmed/11/candidate/sources/1",
+      "url": "https://link.springer.com/article/10.1007/s10745-006-9080-7",
+      "title_as_recorded": "Chronic Uncertainty and Momentary Opportunity: A half century of adaptation among Zambia's Gwembe Tonga (Human Ecology, 2007)"
+    },
+    {
+      "occurrence_id": "occ:1e597e59d34830684729",
+      "work_id": "title:thayer scudder s four stage framework water resources dispossession and appropriation the kariba case int j water resources development 2021",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/11/sources/2",
+      "corrected_locator": "/confirmed/11/candidate/sources/2",
+      "url": "https://www.researchgate.net/publication/349071701_Thayer_Scudder's_Four_Stage_Framework_water_resources_dispossession_and_appropriation_the_Kariba_case",
+      "title_as_recorded": "Thayer Scudder's Four Stage Framework, water resources dispossession and appropriation: the Kariba case (Int. J. Water Resources Development, 2021)"
+    },
+    {
+      "occurrence_id": "occ:4fef28fa75bbd150b27f",
+      "work_id": "title:miescher a dam for africa akosombo stories from ghana indiana up 2022",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/12/sources/0",
+      "corrected_locator": "/confirmed/12/candidate/sources/0",
+      "url": "https://www.jstor.org/stable/j.ctv2q06gzt",
+      "title_as_recorded": "Miescher, A Dam for Africa: Akosombo Stories from Ghana (Indiana UP, 2022)"
+    },
+    {
+      "occurrence_id": "occ:ea87d4355dba0f3e99cd",
+      "work_id": "title:akosombo dam engineering facts and history institution of civil engineers",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/12/sources/1",
+      "corrected_locator": "/confirmed/12/candidate/sources/1",
+      "url": "https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/akosombo-dam",
+      "title_as_recorded": "Akosombo Dam: Engineering Facts and History (Institution of Civil Engineers)"
+    },
+    {
+      "occurrence_id": "occ:b25d12b11196b1c584b5",
+      "work_id": "title:lessons about housing from ghana s volta river project 50 years on the conversation",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/12/sources/2",
+      "corrected_locator": "/confirmed/12/candidate/sources/2",
+      "url": "https://theconversation.com/lessons-about-housing-from-ghanas-volta-river-project-50-years-on-123920",
+      "title_as_recorded": "Lessons about housing from Ghana's Volta River project 50 years on (The Conversation)"
+    },
+    {
+      "occurrence_id": "occ:5aad6d83268287c5267f",
+      "work_id": "title:are resettled oustees from the sardar sarovar dam project better off today nber working paper 24423",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/13/sources/0",
+      "corrected_locator": "/confirmed/13/candidate/sources/0",
+      "url": "https://www.nber.org/system/files/working_papers/w24423/w24423.pdf",
+      "title_as_recorded": "Are Resettled Oustees from the Sardar Sarovar Dam Project Better Off Today? (NBER Working Paper 24423)"
+    },
+    {
+      "occurrence_id": "occ:504d4c0e5b643eaa0036",
+      "work_id": "title:displacement and development construction of the sardar dam cultural survival quarterly",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/13/sources/1",
+      "corrected_locator": "/confirmed/13/candidate/sources/1",
+      "url": "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/displacement-and-development-construction-sardar-dam",
+      "title_as_recorded": "Displacement and Development: Construction of the Sardar Dam (Cultural Survival Quarterly)"
+    },
+    {
+      "occurrence_id": "occ:95b2037d685e5287b4c4",
+      "work_id": "title:re placing home displacement and resettlement in india s narmada valley dam project ucl thesis",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/13/sources/2",
+      "corrected_locator": "/confirmed/13/candidate/sources/2",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10100773/",
+      "title_as_recorded": "Re-placing home: Displacement and resettlement in India's Narmada Valley Dam Project (UCL thesis)"
+    },
+    {
+      "occurrence_id": "occ:b19441f6adcb86f094b2",
+      "work_id": "title:beyond just conservation a history of maasai dispossession minority rights group",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/14/sources/0",
+      "corrected_locator": "/confirmed/14/candidate/sources/0",
+      "url": "https://minorityrights.org/beyond-just-conservation-a-history-of-maasai-dispossession-2/",
+      "title_as_recorded": "Beyond just conservation: a history of Maasai dispossession (Minority Rights Group)"
+    },
+    {
+      "occurrence_id": "occ:1d959d98fdb5c79ea589",
+      "work_id": "title:it s like killing culture human rights impacts of relocating tanzania s maasai human rights watch 2024",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/14/sources/1",
+      "corrected_locator": "/confirmed/14/candidate/sources/1",
+      "url": "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai",
+      "title_as_recorded": "\"It's Like Killing Culture\": Human Rights Impacts of Relocating Tanzania's Maasai (Human Rights Watch, 2024)"
+    },
+    {
+      "occurrence_id": "occ:4b26a6e0c936976df0bd",
+      "work_id": "title:how german government funds are used to dispossess tanzania s maasai in serengeti land grab mongabay 2024",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/14/sources/2",
+      "corrected_locator": "/confirmed/14/candidate/sources/2",
+      "url": "https://news.mongabay.com/2024/11/how-german-government-funds-and-tanzanian-conservation-agencies-fuel-the-serengeti-land-grab/",
+      "title_as_recorded": "How German government funds are used to dispossess Tanzania's Maasai in Serengeti land grab (Mongabay, 2024)"
+    },
+    {
+      "occurrence_id": "occ:ad4cf66c4e8c479998fc",
+      "work_id": "title:batwa indigenous peoples forced eviction for conservation a qualitative examination on community impacts plos global public health 2023",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/15/sources/0",
+      "corrected_locator": "/confirmed/15/candidate/sources/0",
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0002129",
+      "title_as_recorded": "Batwa Indigenous Peoples forced eviction for \"Conservation\": A qualitative examination on community impacts (PLOS Global Public Health, 2023)"
+    },
+    {
+      "occurrence_id": "occ:643f21c97e27e90590c3",
+      "work_id": "title:the batwa indigenous people in uganda and their detachment from forest livelihood land eviction and social plight deusto journal of human rights",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/15/sources/1",
+      "corrected_locator": "/confirmed/15/candidate/sources/1",
+      "url": "https://djhr.revistas.deusto.es/article/view/1000",
+      "title_as_recorded": "The Batwa Indigenous People in Uganda and their Detachment from Forest Livelihood: Land Eviction and Social Plight (Deusto Journal of Human Rights)"
+    },
+    {
+      "occurrence_id": "occ:c949d2dd20d3cf310012",
+      "work_id": "title:court ruling brings hope to a displaced people global press journal",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/15/sources/2",
+      "corrected_locator": "/confirmed/15/candidate/sources/2",
+      "url": "https://globalpressjournal.com/africa/uganda/court-ruling-brings-hope-displaced-people/",
+      "title_as_recorded": "Court Ruling Brings Hope to a Displaced People (Global Press Journal)"
+    },
+    {
+      "occurrence_id": "occ:ed42729407124e545a80",
+      "work_id": "title:ayala from sugar plantations to military bases the u s navy s expropriations in vieques puerto rico 1940 45 centro journal",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/16/sources/0",
+      "corrected_locator": "/confirmed/16/candidate/sources/0",
+      "url": "https://www.redalyc.org/pdf/377/37711309002.pdf",
+      "title_as_recorded": "Ayala, From Sugar Plantations to Military Bases: The U.S. Navy's Expropriations in Vieques, Puerto Rico, 1940-45 (Centro Journal)"
+    },
+    {
+      "occurrence_id": "occ:e7c1c73d7846e880c1ff",
+      "work_id": "title:1999 vieques island protests library of congress latinx resource guide",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/16/sources/1",
+      "corrected_locator": "/confirmed/16/candidate/sources/1",
+      "url": "https://guides.loc.gov/latinx-civil-rights/vieques-island-protests",
+      "title_as_recorded": "1999: Vieques Island Protests (Library of Congress Latinx Resource Guide)"
+    },
+    {
+      "occurrence_id": "occ:c1002db95726f8db22c0",
+      "work_id": "title:clearing out without cleaning up the u s and vieques island council on hemispheric affairs",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/16/sources/2",
+      "corrected_locator": "/confirmed/16/candidate/sources/2",
+      "url": "https://coha.org/clearing-out-without-cleaning-up-the-u-s-and-vieques-island/",
+      "title_as_recorded": "Clearing Out without Cleaning Up: The U.S. and Vieques Island (Council on Hemispheric Affairs)"
+    },
+    {
+      "occurrence_id": "occ:31a32a106d1edae7d4c7",
+      "work_id": "title:the kaptai dam a story of disenfranchisement displacement and destruction international rivers",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/17/sources/0",
+      "corrected_locator": "/confirmed/17/candidate/sources/0",
+      "url": "https://www.internationalrivers.org/news/the-kaptai-dam-a-story-of-disenfranchisement-displacement-and-destruction/",
+      "title_as_recorded": "The Kaptai Dam: A Story of Disenfranchisement, Displacement, and Destruction (International Rivers)"
+    },
+    {
+      "occurrence_id": "occ:d7ecc6160eb52fc66673",
+      "work_id": "title:people versus power the geopolitics of kaptai dam in bangladesh asia dialogue university of nottingham",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/17/sources/1",
+      "corrected_locator": "/confirmed/17/candidate/sources/1",
+      "url": "https://theasiadialogue.com/wp-content/uploads/2018/03/People-versus-Power_-The-Geopolitics-of-Kaptai-Dam-in-Bangladesh.pdf",
+      "title_as_recorded": "People versus Power: The Geopolitics of Kaptai Dam in Bangladesh (Asia Dialogue / University of Nottingham)"
+    },
+    {
+      "occurrence_id": "occ:c52220b941ebc39ff999",
+      "work_id": "title:kaptai dam parbatya chattagram jana samhati samiti documentation",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/17/sources/2",
+      "corrected_locator": "/confirmed/17/candidate/sources/2",
+      "url": "https://www.pcjss.org/kaptai-dam/",
+      "title_as_recorded": "Kaptai Dam (Parbatya Chattagram Jana Samhati Samiti documentation)"
+    },
+    {
+      "occurrence_id": "occ:195a15cf4538e8cfc7cc",
+      "work_id": "title:guchinova deportation of the kalmyks 19431956 stigmatized ethnicity slavic research center hokkaido",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/18/sources/0",
+      "corrected_locator": "/confirmed/18/candidate/sources/0",
+      "url": "https://src-h.slav.hokudai.ac.jp/coe21/publish/no14_ses/07_guchinova.pdf",
+      "title_as_recorded": "Guchinova, 'Deportation of the Kalmyks (1943–1956): Stigmatized Ethnicity' (Slavic Research Center, Hokkaido)"
+    },
+    {
+      "occurrence_id": "occ:1ae866ce6964c53c49af",
+      "work_id": "title:j otto pohl ethnic cleansing in the ussr 19371949 greenwood 1999",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/18/sources/1",
+      "corrected_locator": "/confirmed/18/candidate/sources/1",
+      "url": "https://apsuara.org/wp-content/uploads/2024/11/J._Otto_Pohl_Ethnic_Cleansing_in_the_USSR_1937.pdf",
+      "title_as_recorded": "J. Otto Pohl, Ethnic Cleansing in the USSR, 1937–1949 (Greenwood, 1999)"
+    },
+    {
+      "occurrence_id": "occ:a922289af3950ee4bbf9",
+      "work_id": "title:norwegian helsinki committee 80 years since the mass deportation of the kalmyks",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/18/sources/2",
+      "corrected_locator": "/confirmed/18/candidate/sources/2",
+      "url": "https://nhc.no/en/28-december-1943-mass-deportation-of-the-kalmyks/",
+      "title_as_recorded": "Norwegian Helsinki Committee, '80 years since the mass deportation of the Kalmyks'"
+    },
+    {
+      "occurrence_id": "occ:66c44c582efe60c037b1",
+      "work_id": "title:j otto pohl stalin s genocide against the repressed peoples journal of genocide research 2 2 2000",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/19/sources/0",
+      "corrected_locator": "/confirmed/19/candidate/sources/0",
+      "url": "https://gwern.net/doc/history/2000-pohl.pdf",
+      "title_as_recorded": "J. Otto Pohl, 'Stalin's genocide against the Repressed Peoples', Journal of Genocide Research 2(2), 2000"
+    },
+    {
+      "occurrence_id": "occ:6f78ff1d193cf8ba6cfe",
+      "work_id": "title:sciences po mass violence encyclopedia the soviet massive deportations a chronology",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/19/sources/1",
+      "corrected_locator": "/confirmed/19/candidate/sources/1",
+      "url": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/fr/document/soviet-massive-deportations-chronology.html",
+      "title_as_recorded": "Sciences Po Mass Violence encyclopedia, 'The Soviet Massive Deportations - A Chronology'"
+    },
+    {
+      "occurrence_id": "occ:ffb4eaf2793d2e460eb3",
+      "work_id": "title:human rights watch helsinki punished peoples of the soviet union 1991",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/19/sources/2",
+      "corrected_locator": "/confirmed/19/candidate/sources/2",
+      "url": "https://www.hrw.org/reports/pdfs/u/ussr/ussr.919/usssr919full.pdf",
+      "title_as_recorded": "Human Rights Watch/Helsinki, 'Punished Peoples of the Soviet Union' (1991)"
+    },
+    {
+      "occurrence_id": "occ:322a65b834224b9c6253",
+      "work_id": "title:human rights watch helsinki the ingush ossetian conflict in the prigorodnyi region 1996",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/20/sources/0",
+      "corrected_locator": "/confirmed/20/candidate/sources/0",
+      "url": "https://www.hrw.org/report/1996/04/01/ingush-ossetian-conflict-prigorodnyi-regions",
+      "title_as_recorded": "Human Rights Watch/Helsinki, 'The Ingush-Ossetian Conflict in the Prigorodnyi Region' (1996)"
+    },
+    {
+      "occurrence_id": "occ:3e55eaa2bf14a53a18d3",
+      "work_id": "title:o loughlin o tuathail et al the localized geopolitics of displacement and return in eastern prigorodnyy rayon 2008",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/20/sources/1",
+      "corrected_locator": "/confirmed/20/candidate/sources/1",
+      "url": "https://ibs.colorado.edu/waroutcomes/docs/oloughlin_etal_prigorodnyy_2008.pdf",
+      "title_as_recorded": "O'Loughlin, Ó Tuathail et al., 'The Localized Geopolitics of Displacement and Return in Eastern Prigorodnyy Rayon' (2008)"
+    },
+    {
+      "occurrence_id": "occ:0acdd08766b489779f26",
+      "work_id": "title:speros vryonis jr the mechanism of catastrophe the turkish pogrom of september 6 7 1955 2005",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/21/sources/0",
+      "corrected_locator": "/confirmed/21/candidate/sources/0",
+      "url": "https://archive.org/details/isbn_9780974766034",
+      "title_as_recorded": "Speros Vryonis Jr., The Mechanism of Catastrophe: The Turkish Pogrom of September 6-7, 1955 (2005)"
+    },
+    {
+      "occurrence_id": "occ:5d8a2695eb2992a41043",
+      "work_id": "doi:10.1080/21520844.2020.1830606",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/21/sources/1",
+      "corrected_locator": "/confirmed/21/candidate/sources/1",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/21520844.2020.1830606",
+      "title_as_recorded": "'The 1964 Expulsion of Greek Citizens from Turkey', Journal of the Middle East and Africa 11(4), 2020"
+    },
+    {
+      "occurrence_id": "occ:06f8cfb9f20836d5c919",
+      "work_id": "title:helsinki watch denying human rights and ethnic identity the greeks of turkey 1992",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/21/sources/2",
+      "corrected_locator": "/confirmed/21/candidate/sources/2",
+      "url": "https://www.hrw.org/sites/default/files/reports/TURKEY923.PDF",
+      "title_as_recorded": "Helsinki Watch, 'Denying Human Rights and Ethnic Identity: The Greeks of Turkey' (1992)"
+    },
+    {
+      "occurrence_id": "occ:ef9071a36039551a3bc1",
+      "work_id": "title:amnesty international as if hell fell on me the human rights crisis in northwest pakistan 2010",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/22/sources/0",
+      "corrected_locator": "/confirmed/22/candidate/sources/0",
+      "url": "https://www.amnesty.org/es/wp-content/uploads/2021/06/asa330042010en.pdf",
+      "title_as_recorded": "Amnesty International, 'As if Hell Fell on Me: The Human Rights Crisis in Northwest Pakistan' (2010)"
+    },
+    {
+      "occurrence_id": "occ:ea32890e311816fb6d12",
+      "work_id": "title:international crisis group pakistan the worsening idp crisis 2010",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/22/sources/1",
+      "corrected_locator": "/confirmed/22/candidate/sources/1",
+      "url": "https://www.ecoi.net/en/file/local/1279235/1226_1284978139_b111-pakistan-the-worsening-idp-crisis.pdf",
+      "title_as_recorded": "International Crisis Group, 'Pakistan: The Worsening IDP Crisis' (2010)"
+    },
+    {
+      "occurrence_id": "occ:a340f12bedd6c1dcda1e",
+      "work_id": "title:idmc pakistan millions of idps and returnees face continuing crisis reliefweb",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/22/sources/2",
+      "corrected_locator": "/confirmed/22/candidate/sources/2",
+      "url": "https://reliefweb.int/report/pakistan/pakistan-millions-idps-and-returnees-face-continuing-crisis-profile-internal",
+      "title_as_recorded": "IDMC, 'Pakistan: Millions of IDPs and returnees face continuing crisis' (ReliefWeb)"
+    },
+    {
+      "occurrence_id": "occ:564c2b122b901749b421",
+      "work_id": "title:human rights watch pakistan widespread abuses force afghans to leave nov 2023",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/23/sources/0",
+      "corrected_locator": "/confirmed/23/candidate/sources/0",
+      "url": "https://www.hrw.org/news/2023/11/28/pakistan-widespread-abuses-force-afghans-leave",
+      "title_as_recorded": "Human Rights Watch, 'Pakistan: Widespread Abuses Force Afghans to Leave' (Nov 2023)"
+    },
+    {
+      "occurrence_id": "occ:17b65e3fae8bda594750",
+      "work_id": "title:human rights watch pakistan surge in forced returns of afghan refugees apr 2026",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/23/sources/1",
+      "corrected_locator": "/confirmed/23/candidate/sources/1",
+      "url": "https://www.hrw.org/news/2026/04/21/pakistan-surge-in-forced-returns-of-afghan-refugees",
+      "title_as_recorded": "Human Rights Watch, 'Pakistan: Surge in Forced Returns of Afghan Refugees' (Apr 2026)"
+    },
+    {
+      "occurrence_id": "occ:bf2380d623dab5dfa33c",
+      "work_id": "title:ohchr un experts call for protection of afghan nationals in pakistan dec 2023",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/23/sources/2",
+      "corrected_locator": "/confirmed/23/candidate/sources/2",
+      "url": "https://www.ohchr.org/en/press-releases/2023/12/un-experts-call-protection-afghan-nationals-pakistan",
+      "title_as_recorded": "OHCHR, 'UN experts call for protection of Afghan nationals in Pakistan' (Dec 2023)"
+    },
+    {
+      "occurrence_id": "occ:7d7cceccd298af4df0a5",
+      "work_id": "title:unhcr operational data portal ukraine refugee situation",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/24/sources/0",
+      "corrected_locator": "/confirmed/24/candidate/sources/0",
+      "url": "https://data.unhcr.org/en/situations/ukraine",
+      "title_as_recorded": "UNHCR Operational Data Portal, Ukraine Refugee Situation"
+    },
+    {
+      "occurrence_id": "occ:fa9e5c0a7968e3b09f88",
+      "work_id": "title:iom migration data portal ukraine crisis movements refugee and idp tracking incl dtm",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/24/sources/1",
+      "corrected_locator": "/confirmed/24/candidate/sources/1",
+      "url": "https://www.migrationdataportal.org/ukraine/crisis-movements",
+      "title_as_recorded": "IOM/Migration Data Portal, 'Ukraine crisis movements' (refugee and IDP tracking incl. DTM)"
+    },
+    {
+      "occurrence_id": "occ:2e8095b5ba32baf4db6e",
+      "work_id": "title:musket wars te ara encyclopedia of new zealand based on ballara taua and crosby the musket wars",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/25/sources/0",
+      "corrected_locator": "/confirmed/25/candidate/sources/0",
+      "url": "https://teara.govt.nz/en/musket-wars",
+      "title_as_recorded": "Musket wars — Te Ara Encyclopedia of New Zealand (based on Ballara, Taua, and Crosby, The Musket Wars)"
+    },
+    {
+      "occurrence_id": "occ:6ec68ef5c5937a80bd6b",
+      "work_id": "title:musket wars overview nzhistory ministry for culture and heritage",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/25/sources/1",
+      "corrected_locator": "/confirmed/25/candidate/sources/1",
+      "url": "https://nzhistory.govt.nz/war/musket-wars/overview",
+      "title_as_recorded": "Musket Wars overview — NZHistory (Ministry for Culture and Heritage)"
+    },
+    {
+      "occurrence_id": "occ:9ba534f2d0f26a7981c0",
+      "work_id": "title:musket wars wikipedia with full ballara crosby bibliography",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/25/sources/2",
+      "corrected_locator": "/confirmed/25/candidate/sources/2",
+      "url": "https://en.wikipedia.org/wiki/Musket_Wars",
+      "title_as_recorded": "Musket Wars — Wikipedia (with full Ballara/Crosby bibliography)"
+    },
+    {
+      "occurrence_id": "occ:e3865c57b5695d5722c8",
+      "work_id": "title:nat museum of australia islander labourers",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/26/sources/0",
+      "corrected_locator": "/confirmed/26/candidate/sources/0",
+      "url": "https://www.nma.gov.au/defining-moments/resources/islander-labourers",
+      "title_as_recorded": "Islander labourers — National Museum of Australia, Defining Moments"
+    },
+    {
+      "occurrence_id": "occ:b76d55d3ee59b90985b2",
+      "work_id": "title:sugar slaves state library of queensland",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/26/sources/1",
+      "corrected_locator": "/confirmed/26/candidate/sources/1",
+      "url": "https://www.slq.qld.gov.au/blog/sugar-slaves",
+      "title_as_recorded": "Sugar slaves — State Library of Queensland"
+    },
+    {
+      "occurrence_id": "occ:791c0947a9d790aca5e9",
+      "work_id": "title:blackbirding encyclopaedia britannica",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/26/sources/2",
+      "corrected_locator": "/confirmed/26/candidate/sources/2",
+      "url": "https://www.britannica.com/topic/blackbirding",
+      "title_as_recorded": "Blackbirding — Encyclopaedia Britannica"
+    },
+    {
+      "occurrence_id": "occ:ddd6969c6b7ce616f429",
+      "work_id": "title:abdul sheriff slaves spices and ivory in zanzibar integration of an east african commercial empire into the world economy 17701873",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/27/sources/0",
+      "corrected_locator": "/confirmed/27/candidate/sources/0",
+      "url": "https://www.goodreads.com/book/show/2573877-slaves-spices-and-ivory-in-zanzibar",
+      "title_as_recorded": "Abdul Sheriff, Slaves, Spices and Ivory in Zanzibar: Integration of an East African Commercial Empire into the World Economy, 1770–1873"
+    },
+    {
+      "occurrence_id": "occ:7d3d9a597cdba6789282",
+      "work_id": "title:cloves slaves and british imperialism the rise and fall of omani plantation slavery in nineteenth century zanzibar",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/27/sources/1",
+      "corrected_locator": "/confirmed/27/candidate/sources/1",
+      "url": "https://www.academia.edu/43421333/Cloves_Slaves_and_British_Imperialism_The_Rise_and_Fall_of_Omani_Plantation_Slavery_in_Nineteenth_Century_Zanzibar",
+      "title_as_recorded": "Cloves, Slaves, and British Imperialism: The Rise and Fall of Omani Plantation Slavery in Nineteenth-Century Zanzibar"
+    },
+    {
+      "occurrence_id": "occ:c903886a14a80dbbe01d",
+      "work_id": "title:slavery in zanzibar wikipedia synthesizing cooper plantation slavery on the east coast of africa and sheriff",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/27/sources/2",
+      "corrected_locator": "/confirmed/27/candidate/sources/2",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_Zanzibar",
+      "title_as_recorded": "Slavery in Zanzibar — Wikipedia (synthesizing Cooper, Plantation Slavery on the East Coast of Africa, and Sheriff)"
+    },
+    {
+      "occurrence_id": "occ:8095cc5f528f747f439c",
+      "work_id": "title:eric flint trade and politics in barotseland during the kololo period journal of african history",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/28/sources/0",
+      "corrected_locator": "/confirmed/28/candidate/sources/0",
+      "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/trade-and-politics-in-barotseland-during-the-kololo-period1/E1BD18C5A3AAC46DC07CA5365827ECD4",
+      "title_as_recorded": "Eric Flint, 'Trade and Politics in Barotseland during the Kololo Period', Journal of African History"
+    },
+    {
+      "occurrence_id": "occ:02e80253167d8426d3a9",
+      "work_id": "title:kololo encyclopaedia britannica",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/28/sources/1",
+      "corrected_locator": "/confirmed/28/candidate/sources/1",
+      "url": "https://www.britannica.com/topic/Kololo",
+      "title_as_recorded": "Kololo — Encyclopaedia Britannica"
+    },
+    {
+      "occurrence_id": "occ:894aaba8f163ccb20c0c",
+      "work_id": "title:the kololo kingdom in the upper zambezi drawing on mutumba mainga bulozi under the luyana kings",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/28/sources/2",
+      "corrected_locator": "/confirmed/28/candidate/sources/2",
+      "url": "https://www.researchgate.net/publication/374807297_The_Kololo_Kingdom_in_the_Upper_Zambezi",
+      "title_as_recorded": "The Kololo Kingdom in the Upper Zambezi (drawing on Mutumba Mainga, Bulozi under the Luyana Kings)"
+    },
+    {
+      "occurrence_id": "occ:202a5d38ed0b14da43b4",
+      "work_id": "title:john ralph willis al zubayr pasha and the zariba based slave trade in the bahr al ghazal 18551879 taylor francis",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/29/sources/0",
+      "corrected_locator": "/confirmed/29/candidate/sources/0",
+      "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780203988176-12/al-zubayr-pasha-zariba-based-slave-trade-bahr-al-ghazal-1855%E2%80%931879-john-ralph-willis",
+      "title_as_recorded": "John Ralph Willis, 'Al-Zubayr Pasha and the Zariba Based Slave Trade in the Bahr al-Ghazal 1855–1879' (Taylor & Francis)"
+    },
+    {
+      "occurrence_id": "occ:1b4a19924e34cf220336",
+      "work_id": "title:zubair pasha oxford research encyclopedia of african history",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/29/sources/1",
+      "corrected_locator": "/confirmed/29/candidate/sources/1",
+      "url": "https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-969",
+      "title_as_recorded": "Zubair Pasha — Oxford Research Encyclopedia of African History"
+    },
+    {
+      "occurrence_id": "occ:e4cb38576bcd63afc70d",
+      "work_id": "title:al zubayr rahma mansur wikipedia with richard gray a history of the southern sudan 18391889 in bibliography",
+      "input": "analysis/gapscan/gapscan_results.json",
+      "original_locator": "/confirmed/29/sources/2",
+      "corrected_locator": "/confirmed/29/candidate/sources/2",
+      "url": "https://en.wikipedia.org/wiki/Rahman_Mansur_az_Zubayr",
+      "title_as_recorded": "Al-Zubayr Rahma Mansur — Wikipedia (with Richard Gray, A History of the Southern Sudan 1839–1889 in bibliography)"
+    }
+  ],
+  "unchanged_valid_occurrence_ids": [
+    "occ:f0b795be108a4320ee60",
+    "occ:4531f036de7775f3d434",
+    "occ:4297da27fdc00c7355fa",
+    "occ:4d283da3c20a47b246ce",
+    "occ:b8f3e533aee6076cec90",
+    "occ:255ade5cc6bcc98ebb34",
+    "occ:f6e3071d4bd1789b48cd",
+    "occ:a69cf248591bf8bdbab6",
+    "occ:b9c5be31487e2bcb6199",
+    "occ:97f4165d0ebb1e3ed028",
+    "occ:1c6c2ae6abb65bfc3a00",
+    "occ:708cd101bd914a02eb2c",
+    "occ:dba4437b45623b882234",
+    "occ:e023618f3dbb44821e81",
+    "occ:eb61d7d8997cfa364eb8",
+    "occ:ef0a3b3b4545d25eddfd",
+    "occ:159cfa519b5932b6df21",
+    "occ:f0fe9f1ad23a7bb18eb0",
+    "occ:06298a309e351f53dd7d",
+    "occ:ff332bf283176b3e0bdc",
+    "occ:91e89b34cb6ee28ed07e",
+    "occ:94116317ca32125faa77",
+    "occ:e553fdb3b061fb27153e",
+    "occ:283523ff8c1c074997a9",
+    "occ:d47b3da34af0f311c259",
+    "occ:bb26fe693ab353e25088",
+    "occ:08d5103b525e83d32e37",
+    "occ:0d7fff0b528ba028f816",
+    "occ:2994e45bb43c1fdec795",
+    "occ:29caed19987fb8cfb75f",
+    "occ:9820b659b3c74afdde7b",
+    "occ:1fbff55e7b35e572e4e4",
+    "occ:1b3e6194bc211dd080f0",
+    "occ:ca6e452b7c30609ef030",
+    "occ:8504dc403cc970f22cc4",
+    "occ:f2afada23b823eafb877",
+    "occ:55c6a8790f53649886ff"
+  ],
+  "application_rule": "Use corrected_locator for these IDs (resolved_locator in future generated inventories), otherwise the original locator. No source text or historical verdict is changed.",
+  "scope": "The original 5,875 occurrence records retain their order and values; one separate Habsburg citation is appended. All 78 locator corrections and 37 already valid IDs are inherited unchanged. Apply annotations by occurrence_id.",
+  "original_source_inventory_sha256": "b816aa396e74a79773d70df9f90433481f358f9fae8e1d44cc53ad8af43e5278"
+}

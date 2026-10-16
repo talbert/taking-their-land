@@ -1,0 +1,28 @@
+{
+  "ids_merged": 0,
+  "new_ids_created": 0,
+  "relations": [
+    {
+      "id": "R1",
+      "work_ids": [
+        "access:d53338a9c21fe12efa10",
+        "title:unhcr lao hmong refugee history after 1975"
+      ],
+      "relation": "same_displayed_article_title_and_date_on_distinct_regional_access_routes",
+      "merged": false,
+      "limit": "US route lacks a named spokesperson; global route names Andrej Mahecic. No collapse of IDs or occurrences."
+    },
+    {
+      "id": "R2",
+      "work_ids": [
+        "access:8486e1a92ddee7d3aca5",
+        "access:acc902a02ef0e5c44c3a",
+        "title:unhcr state of the world s refugees decolonization in south asia",
+        "title:unhcr the rwandan genocide and its aftermath"
+      ],
+      "relation": "distinct_chapters_of_shared_book_container",
+      "merged": false,
+      "limit": "Four distinct chapters remain four work/access records. No original imprint or first-publication day inferred."
+    }
+  ]
+}

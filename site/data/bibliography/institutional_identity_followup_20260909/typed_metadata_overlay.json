@@ -1,0 +1,701 @@
+[
+  {
+    "work_id": "access:1501c94dccf4fd603d4b",
+    "recorded_title": "South African History Online, Political changes from 1750 to 1820",
+    "scope": [
+      "active_release",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://sahistory.org.za/article/political-changes-1750-1820"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Political changes from 1750 to 1820",
+      "publisher": "South African History Online",
+      "year": 2017,
+      "year_basis": "Publisher displayed publication date and matching Article.datePublished",
+      "published": "2017-11-14",
+      "modified": "2026-07-20",
+      "publisher_record_id": "A-0124425",
+      "publisher_dates_as_supplied": {
+        "datePublished": "2017-11-14T10:20:01+02:00",
+        "dateModified": "2026-07-20T17:11:30+02:00"
+      },
+      "recommended_citation_author": "South African History Online",
+      "authors": [
+        {
+          "literal": "South African History Online",
+          "role": "publisher_recommended_corporate_citation"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://sahistory.org.za/article/political-changes-1750-1820"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Page heading, displayed Published/Updated dates, matching Article JSON-LD and publisher-recommended citation were read. Institutional citation attribution is distinguished from personal bylines and image credits.",
+      "metadata_limits": "No personal author is inferred from absent or unrecorded credit. Source body claims and underlying sources were not newly verified; publication/update dates do not date the historical events."
+    }
+  },
+  {
+    "work_id": "access:53d0aaebe6f889c233c3",
+    "recorded_title": "South African History Online, “Cape Town the Segregated City”",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://sahistory.org.za/article/cape-town-segregated-city"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Cape Town the Segregated city",
+      "publisher": "South African History Online",
+      "year": 2011,
+      "year_basis": "Publisher displayed publication date and matching Article.datePublished",
+      "published": "2011-03-30",
+      "modified": "2026-07-20",
+      "publisher_record_id": "A-0059205",
+      "publisher_dates_as_supplied": {
+        "datePublished": "2011-03-30T12:30:49+02:00",
+        "dateModified": "2026-07-20T17:11:30+02:00"
+      },
+      "recommended_citation_author": "South African History Online",
+      "authors": [
+        {
+          "literal": "South African History Online",
+          "role": "publisher_recommended_corporate_citation"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://sahistory.org.za/article/cape-town-segregated-city"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Page heading, displayed Published/Updated dates, matching Article JSON-LD and publisher-recommended citation were read. Institutional citation attribution is distinguished from personal bylines and image credits.",
+      "metadata_limits": "No personal author is inferred from absent or unrecorded credit. Source body claims and underlying sources were not newly verified; publication/update dates do not date the historical events."
+    }
+  },
+  {
+    "work_id": "access:5a66c8fd4501e72a183e",
+    "recorded_title": "South African History Online, General South African History Timeline: 1970s; South African History Online, Forced Removals in South Africa",
+    "scope": [
+      "active_release",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://sahistory.org.za/article/general-south-african-history-timeline-1970s"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "General South African History Timeline: 1970s",
+      "publisher": "South African History Online",
+      "year": 2011,
+      "year_basis": "Publisher displayed publication date and matching Article.datePublished",
+      "published": "2011-04-03",
+      "modified": "2026-07-20",
+      "publisher_record_id": "A-0062943",
+      "publisher_dates_as_supplied": {
+        "datePublished": "2011-04-03T19:16:32+02:00",
+        "dateModified": "2026-07-20T17:11:30+02:00"
+      },
+      "recommended_citation_author": "South African History Online",
+      "authors": [
+        {
+          "literal": "South African History Online",
+          "role": "publisher_recommended_corporate_citation"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://sahistory.org.za/article/general-south-african-history-timeline-1970s"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Page heading, displayed Published/Updated dates, matching Article JSON-LD and publisher-recommended citation were read. Institutional citation attribution is distinguished from personal bylines and image credits.",
+      "metadata_limits": "No personal author is inferred from absent or unrecorded credit. Source body claims and underlying sources were not newly verified; publication/update dates do not date the historical events. The inherited combined label also names the separate forced-removals page; this URL identifies the timeline only. Neither ID is merged."
+    }
+  },
+  {
+    "work_id": "access:7f9434155c56f1e8d123",
+    "recorded_title": "South African History Online, “Apartheid Legislation 1850s–1970s”",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://sahistory.org.za/article/apartheid-legislation-1850s-1970s"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Apartheid Legislation 1850's-1970's",
+      "publisher": "South African History Online",
+      "year": 2011,
+      "year_basis": "Publisher displayed publication date and matching Article.datePublished",
+      "published": "2011-03-21",
+      "modified": "2026-07-20",
+      "publisher_record_id": "A-0016552",
+      "publisher_dates_as_supplied": {
+        "datePublished": "2011-03-21T00:46:22+02:00",
+        "dateModified": "2026-07-20T17:11:30+02:00"
+      },
+      "recommended_citation_author": "South African History Online",
+      "creator_metadata_as_supplied": {
+        "editor": {
+          "@type": "Person",
+          "name": "Kim Moodley"
+        }
+      },
+      "displayed_credit": "Unrecorded",
+      "authors": [
+        {
+          "literal": "South African History Online",
+          "role": "publisher_recommended_corporate_citation"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://sahistory.org.za/article/apartheid-legislation-1850s-1970s"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Page heading, displayed Published/Updated dates, matching Article JSON-LD and publisher-recommended citation were read. Institutional citation attribution is distinguished from personal bylines and image credits.",
+      "metadata_limits": "No personal author is inferred from absent or unrecorded credit. Source body claims and underlying sources were not newly verified; publication/update dates do not date the historical events. Kim Moodley is retained only in the explicitly supplied editor field, not promoted to author. The displayed personal credit remains Unrecorded."
+    }
+  },
+  {
+    "work_id": "access:fcd7d61cceb805cd2c07",
+    "recorded_title": "South African History Online, General South African History Timeline: 1970s; South African History Online, Forced Removals in South Africa",
+    "scope": [
+      "active_release",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://sahistory.org.za/article/forced-removals-south-africa"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Forced Removals in South Africa",
+      "publisher": "South African History Online",
+      "year": 2016,
+      "year_basis": "Publisher displayed publication date and matching Article.datePublished",
+      "published": "2016-05-25",
+      "modified": "2026-08-14",
+      "publisher_record_id": "A-0121027",
+      "publisher_dates_as_supplied": {
+        "datePublished": "2016-05-25T10:28:40+02:00",
+        "dateModified": "2026-08-14T17:19:18+02:00"
+      },
+      "recommended_citation_author": "South African History Online",
+      "creator_metadata_as_supplied": {
+        "author": {
+          "@type": "Person",
+          "name": "Rob Frost"
+        },
+        "editor": {
+          "@type": "Person",
+          "name": "Stuart Ferguson Yoline Young"
+        }
+      },
+      "displayed_credit": "Unrecorded",
+      "attribution_status": "Personal author and editor attribution unresolved across displayed credit, citation recommendation and supplied creator metadata"
+    },
+    "verification_urls": [
+      "https://sahistory.org.za/article/forced-removals-south-africa"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Page heading, displayed Published/Updated dates, matching Article JSON-LD and publisher-recommended citation were read. Institutional citation attribution is distinguished from personal bylines and image credits.",
+      "metadata_limits": "Displayed credit is Unrecorded, the suggested citation uses SAHO, and JSON-LD/citation data name Rob Frost as author. Preserve these as distinct supplied fields, without choosing a personal byline. The supplied editor string Stuart Ferguson Yoline Young is not split into presumed people. Paul Weinberg/South Photos is an image credit, not the article byline. The inherited combined title also names the separate timeline; this URL identifies the forced-removals page only."
+    }
+  },
+  {
+    "work_id": "title:library of congress colonization",
+    "recorded_title": "Library of Congress, “Colonization”",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.loc.gov/exhibits/african/afam002.html"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Colonization",
+      "container_title": [
+        "The African-American Mosaic"
+      ],
+      "publisher": "Library of Congress",
+      "source_date_metadata": [
+        {
+          "field": "dc.date",
+          "value": "2010-07-23",
+          "role": "unspecified"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://www.loc.gov/exhibits/african/afam002.html",
+      "https://www.loc.gov/exhibits/african/afam016.html"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Section heading, exhibition breadcrumb/title and publisher identity on the downloaded page. Linked exhibit acknowledgments were read through browser-source text; direct acknowledgment HTML fetch returned 403.",
+      "metadata_limits": "The dc.date role remains unspecified and is not adopted as publication/modification year. The acknowledgment page reports an online-exhibit update in June 1997, not the current section’s first/latest publication. Debra Newman Ham is identified as editor of the separate resource guide and exhibit advisor; no sole section authorship is inferred. Exhibition staff, photographed document creators and web staff retain their distinct roles."
+    }
+  },
+  {
+    "work_id": "title:national park service gran quivira and the antiquities act",
+    "recorded_title": "National Park Service, Gran Quivira and the Antiquities Act",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.nps.gov/articles/000/gran-quivira-and-the-antiquities-act.htm"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Gran Quivira and the Antiquities Act",
+      "publisher": "U.S. National Park Service",
+      "modified": "2023-03-06"
+    },
+    "verification_urls": [
+      "https://www.nps.gov/articles/000/gran-quivira-and-the-antiquities-act.htm"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Displayed article/page title, park or itinerary context and the explicit Last updated line on the downloaded NPS page.",
+      "metadata_limits": "Only modification is dated; first publication and a personal byline are not established. Historical people, photo creators and footnoted writers are not page authors. The navigation word Lock is omitted from the bibliographic title."
+    }
+  },
+  {
+    "work_id": "title:national park service ignacio pfefferkorn",
+    "recorded_title": "National Park Service, Ignacio Pfefferkorn",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://home.nps.gov/tuma/learn/historyculture/ignacio-pfefferkorn.htm"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Ignacio Pfefferkorn",
+      "publisher": "U.S. National Park Service",
+      "modified": "2025-05-06",
+      "container_title": [
+        "Tumacácori National Historical Park"
+      ]
+    },
+    "verification_urls": [
+      "https://home.nps.gov/tuma/learn/historyculture/ignacio-pfefferkorn.htm"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Displayed article/page title, park or itinerary context and the explicit Last updated line on the downloaded NPS page.",
+      "metadata_limits": "Only modification is dated; first publication and a personal byline are not established. Historical people, photo creators and footnoted writers are not page authors. The navigation word Lock is omitted from the bibliographic title."
+    }
+  },
+  {
+    "work_id": "title:national park service quarai mission nuestra senora de la purisima concepcion",
+    "recorded_title": "National Park Service, Quarai, Mission Nuestra Señora de la Purísima Concepción",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.nps.gov/subjects/travelspanishmissions/quarai.htm"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Quarai, Mission Nuestra Señora de la Purísima Concepción de Quarai",
+      "publisher": "U.S. National Park Service",
+      "modified": "2016-04-15",
+      "container_title": [
+        "Spanish Colonial Missions of the Southwest Travel Itinerary"
+      ]
+    },
+    "verification_urls": [
+      "https://www.nps.gov/subjects/travelspanishmissions/quarai.htm"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Displayed article/page title, park or itinerary context and the explicit Last updated line on the downloaded NPS page.",
+      "metadata_limits": "Only modification is dated; first publication and a personal byline are not established. Historical people, photo creators and footnoted writers are not page authors. The navigation word Lock is omitted from the bibliographic title."
+    }
+  },
+  {
+    "work_id": "title:nzhistory maori land 18602000",
+    "recorded_title": "NZHistory, “Māori land 1860–2000”",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://nzhistory.govt.nz/media/interactive/maori-land-1860-2000"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Māori land loss, 1860-2000",
+      "container_title": [
+        "NZHistory"
+      ],
+      "publisher": "Manatū Taonga — Ministry for Culture and Heritage",
+      "modified": "2021-04-21"
+    },
+    "verification_urls": [
+      "https://nzhistory.govt.nz/media/interactive/maori-land-1860-2000"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Publisher browser-source text at the displayed heading and How to cite this page line. The direct HTML download returned 403; no direct page file or image inspection is claimed.",
+      "metadata_limits": "The date is explicitly an update, not first publication. The map credit refers to Claudia Orange’s Illustrated History of the Treaty of Waitangi and a prior Waitangi Tribunal source; these are dependencies, not a web-page personal byline or newly read underlying works."
+    }
+  },
+  {
+    "work_id": "title:saho natives land act 1913",
+    "recorded_title": "SAHO, “Natives Land Act 1913”",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://sahistory.org.za/article/natives-land-act-1913"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "The Natives Land Act of 1913",
+      "publisher": "South African History Online",
+      "year": 2013,
+      "year_basis": "Publisher displayed publication date and matching Article.datePublished",
+      "published": "2013-03-06",
+      "modified": "2026-07-21",
+      "publisher_record_id": "A-0095237",
+      "publisher_dates_as_supplied": {
+        "datePublished": "2013-03-06T12:18:22+02:00",
+        "dateModified": "2026-07-21T21:18:29+02:00"
+      },
+      "recommended_citation_author": "South African History Online",
+      "displayed_credit": "Unrecorded",
+      "authors": [
+        {
+          "literal": "South African History Online",
+          "role": "publisher_recommended_corporate_citation"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://sahistory.org.za/article/natives-land-act-1913"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Page heading, displayed Published/Updated dates, matching Article JSON-LD and publisher-recommended citation were read. Institutional citation attribution is distinguished from personal bylines and image credits.",
+      "metadata_limits": "No personal author is inferred from absent or unrecorded credit. Source body claims and underlying sources were not newly verified; publication/update dates do not date the historical events."
+    }
+  },
+  {
+    "work_id": "title:united states holocaust memorial museum axis invasion of yugoslavia",
+    "recorded_title": "United States Holocaust Memorial Museum, Axis Invasion of Yugoslavia",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/axis-invasion-of-yugoslavia"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Axis Invasion of Yugoslavia",
+      "publisher": "United States Holocaust Memorial Museum",
+      "container_title": [
+        "Holocaust Encyclopedia"
+      ],
+      "authors": [
+        {
+          "literal": "United States Holocaust Memorial Museum, Washington, DC"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/axis-invasion-of-yugoslavia"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Downloaded museum page heading and publisher context; displayed Author(s) line and any explicit Last Edited line were read.",
+      "metadata_limits": "No first-publication year is inferred from the historical period in the title, site copyright or absence of a date. Underlying historical claims and bibliographic dependencies were not reverified."
+    }
+  },
+  {
+    "work_id": "title:united states holocaust memorial museum cambodia 19751979",
+    "recorded_title": "United States Holocaust Memorial Museum, Cambodia 1975–1979",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://main.ushmm.org/information/exhibitions/museum-exhibitions/cambodia-1975"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Cambodia: 1975–1979",
+      "publisher": "United States Holocaust Memorial Museum"
+    },
+    "verification_urls": [
+      "https://main.ushmm.org/information/exhibitions/museum-exhibitions/cambodia-1975"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Downloaded museum page heading and publisher context; the exhibition/country-page identity was distinguished from article or report titles.",
+      "metadata_limits": "No first-publication year is inferred from the historical period in the title, site copyright or absence of a date. Underlying historical claims and bibliographic dependencies were not reverified. No personal byline or publication/modification date was established on this page."
+    }
+  },
+  {
+    "work_id": "title:united states holocaust memorial museum genocide of european roma 19391945",
+    "recorded_title": "United States Holocaust Memorial Museum, Genocide of European Roma, 1939–1945",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/genocide-of-european-roma-gypsies-1939-1945"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Genocide of European Roma (Gypsies), 1939–1945",
+      "publisher": "United States Holocaust Memorial Museum",
+      "container_title": [
+        "Holocaust Encyclopedia"
+      ],
+      "authors": [
+        {
+          "literal": "United States Holocaust Memorial Museum, Washington, DC"
+        }
+      ],
+      "modified": "2023-07-24"
+    },
+    "verification_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/genocide-of-european-roma-gypsies-1939-1945"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Downloaded museum page heading and publisher context; displayed Author(s) line and any explicit Last Edited line were read.",
+      "metadata_limits": "No first-publication year is inferred from the historical period in the title, site copyright or absence of a date. Underlying historical claims and bibliographic dependencies were not reverified."
+    }
+  },
+  {
+    "work_id": "title:united states holocaust memorial museum iraq mass atrocities against minorities",
+    "recorded_title": "United States Holocaust Memorial Museum, Iraq: mass atrocities against minorities",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://main.ushmm.org/genocide-prevention/countries/iraq"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "Iraq",
+      "publisher": "United States Holocaust Memorial Museum"
+    },
+    "verification_urls": [
+      "https://main.ushmm.org/genocide-prevention/countries/iraq"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Downloaded museum page heading and publisher context; the exhibition/country-page identity was distinguished from article or report titles.",
+      "metadata_limits": "No first-publication year is inferred from the historical period in the title, site copyright or absence of a date. Underlying historical claims and bibliographic dependencies were not reverified. The current page title is Iraq; the inherited explanatory phrase remains in the original recorded title and is not asserted as an exact title. No standalone report is substituted. No personal byline or publication/modification date was established on this page."
+    }
+  },
+  {
+    "work_id": "title:united states holocaust memorial museum ss and the holocaust",
+    "recorded_title": "United States Holocaust Memorial Museum, SS and the Holocaust",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/ss-and-the-holocaust"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "SS and the Holocaust",
+      "publisher": "United States Holocaust Memorial Museum",
+      "container_title": [
+        "Holocaust Encyclopedia"
+      ],
+      "authors": [
+        {
+          "literal": "United States Holocaust Memorial Museum, Washington, DC"
+        }
+      ],
+      "modified": "2020-12-08"
+    },
+    "verification_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/ss-and-the-holocaust"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Downloaded museum page heading and publisher context; displayed Author(s) line and any explicit Last Edited line were read.",
+      "metadata_limits": "No first-publication year is inferred from the historical period in the title, site copyright or absence of a date. Underlying historical claims and bibliographic dependencies were not reverified."
+    }
+  },
+  {
+    "work_id": "title:united states holocaust memorial museum the armenian genocide 191516 overview",
+    "recorded_title": "United States Holocaust Memorial Museum, The Armenian Genocide (1915–16): Overview",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "webpage",
+      "title": "The Armenian Genocide (1915-16): Overview",
+      "publisher": "United States Holocaust Memorial Museum",
+      "container_title": [
+        "Holocaust Encyclopedia"
+      ],
+      "authors": [
+        {
+          "literal": "United States Holocaust Memorial Museum, Washington, DC"
+        }
+      ],
+      "modified": "2024-11-07"
+    },
+    "verification_urls": [
+      "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_and_identified_edition_only",
+      "decision": "Identify the existing page using publisher-displayed identity and preserve its original work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Page identity, attribution/date roles and explicit field gaps only. This metadata review does not accept every inherited historical claim, locator or underlying source.",
+      "metadata_basis": "Downloaded museum page heading and publisher context; displayed Author(s) line and any explicit Last Edited line were read.",
+      "metadata_limits": "No first-publication year is inferred from the historical period in the title, site copyright or absence of a date. Underlying historical claims and bibliographic dependencies were not reverified."
+    }
+  }
+]

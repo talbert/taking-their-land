@@ -1,0 +1,109 @@
+{
+  "build": "20260912b",
+  "metadata_scope_notes": [
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "HATRA-POINT-ONLY",
+      "work_id": "access:cf836821477d7ce20a6b",
+      "note": "The geographical table identifies Hatra (277rev) in Iraq. Its site point supports the existing archaeological-site cue only. The 1985 proposed-boundary plan and 2025 adopted clarification are separate map entries; neither dates this web page nor establishes ancient extent, resident removal or a destination. The atlas retains its other historical sources."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "CAIRO-COMPONENT-AND-MAP-LABEL",
+      "work_id": "access:fa6306d6fcb5d3dead56",
+      "note": "The linked page is Historic Cairo, with five components. The saved Egypt note uses Al-Fustat component 89-001 as a point, not the extent of the first settlement. One 2008 map listing headed Al-Fustat describes components 089-003 and 089-004; that apparent label/description mismatch remains unresolved. The map images were not inspected."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "ABO-IDENTITY-AND-SCOPE",
+      "work_id": "title:national park service mission san gregorio de abo",
+      "note": "The English NPS itinerary page is accessible at its official www address, while the original home address is preserved. Its 2016 value is explicitly a last-updated date. The page separates the Tompiro pueblo, Spanish mission and subsequent movements, with several causes and qualified destinations. It remains an unassigned registry source; no new event, motive or flight-origin flag follows from this identity pass."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "ALEUT-PART-VOLUME-DATES",
+      "work_id": "title:us national park service world war ii aleut relocation camps in southeast alaska drawing on the cwric report personal justice denied 1982",
+      "note": "The selected URL is the Introduction web part of Mobley’s volume. The linked NPS PDF prints 2015 on page iv (file page 5), while the web part was updated in February 2021 and the volume landing page in November 2021. LCCN 2012936031 is an identifier, not a substitute publication year. The old reference’s commission-report parenthesis is separate from the identity of this page and book; the commission report was not newly verified."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "ALEUT-METHOD-AND-POPULATION-LIMITS",
+      "work_id": "title:us national park service world war ii aleut relocation camps in southeast alaska drawing on the cwric report personal justice denied 1982",
+      "note": "Mobley’s introduction describes six Southeast Alaska properties, distinguishes Attu detention in Japan, and states that comprehensive archival and oral histories were beyond this investigation’s scope. Site reconnaissance, selected archives and interviews serve its place-history and landmark-evaluation purpose. Historical testimony and current site observations are different evidence. The dropped gap-scan candidate remains dropped; no new admission, classification or score is made."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "PIONEERS-DATES-AND-CONTENTS",
+      "work_id": "title:james reardon anderson reluctant pioneers china s expansion northward 16441937 stanford university press 2005",
+      "note": "The platform cites the book as 2005 and separately dates its electronic publication to January 2022. Its contents identify a Refugees chapter starting on p. 147; that unread chapter is only a future source lead. The old Chuang Guandong candidate remains dropped."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "SALEH-DATE-AND-COLUMN-BOUNDARIES",
+      "work_id": "title:saleh political undesirables citizenship denaturalization and reclamation in iraq",
+      "note": "The publisher catalogue’s right-hand entry gives Saleh 200 pages and a December 2025 schedule. The adjacent November date, 272 pages and three different ISBNs belong to Smuggling Law. Haverford and Crossref disagree on the exact print day; reported dates remain separate, and the original print-release day is unknown."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "SALEH-HISTORICAL-SCOPE",
+      "work_id": "title:saleh political undesirables citizenship denaturalization and reclamation in iraq",
+      "note": "The institutional description presents citizenship-making and denaturalization across two distinct Iraqi populations and periods. It is descriptive metadata, not a newly inspected passage verifying all of the current case’s laws, property consequences or competing causal explanations. The existing case’s qualifications and other sources remain necessary."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "STEPHAN-ROLE-DATES-AND-COUNTS",
+      "work_id": "title:stephan 1994 the russian far east",
+      "note": "Crossref’s edited-book type is retained as a deposited category, while its contributor is explicitly an author. The 1994 print date and 2022 electronic date are separate. No fresh passage reading verifies the atlas’s 250,000 arrivals, Ukrainian proportion or 172,000 deportees; annexation, settlement and later deportation remain distinct event questions."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "UCHIDA-COPY-AND-CATALOGUE",
+      "work_id": "title:uchida 2011 brokers of empire",
+      "note": "The actual catalogue cover says Spring–Summer 2014 despite a 2013 filename. Its printed p. 67 lists December 2011 cloth and March paperback; the selected URL’s ISBN matches that paperback. The 2011 work citation is retained, with the linked format made explicit. Harvard University Asia Center appears in the imprint section, within distributed books in the HUP catalogue."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "UCHIDA-SYNOPSIS-NOT-DEMOGRAPHIC-PROOF",
+      "work_id": "title:uchida 2011 brokers of empire",
+      "note": "The catalogue summary distinguishes settler leaders and civilian interests from official state organs. It does not by itself verify the atlas’s settler counts, cadastral chronology or repatriation total. No changed historical, moral or flight-origin judgment is made from this synopsis."
+    }
+  ],
+  "source_disclosures_as_reviewed": [
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "UNESCO",
+      "summary": "The two page disclaimers assign nomination-file content responsibility to the relevant State Party and distinguish hosting from UNESCO endorsement of historical or boundary claims. No linked map image or nomination file was inspected. The direct requests returned 403; the saved web-tool page text supplies the observed tables and disclaimer."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "ABO",
+      "summary": "This is an NPS heritage interpretation page with no personal text byline observed. Photo credits separately name NPS, Francis Gott and HJPD/Wikimedia; those are not authorship of the prose. No dedicated funding or competing-interest statement was found in the retrieved body; that is not a no-conflict declaration."
+    },
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "MOBLEY",
+      "summary": "Printed page iv credits NPS Affiliated Areas Program funding and cooperation with the Aleutian Pribilof Heritage Group. The introduction identifies cooperative agreement H9922030015 and distinct technical-guidance, contracting and research roles. Production, map and proofreading credits remain distinct from Mobley’s authorship. No independent funding or conflict audit is claimed."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "PIONEERS-DISCLOSURE",
+      "summary": "The indexed platform record includes a promotional description and historical author biography. Acknowledgments are listed but were not read; funding and interests are not verified. No body or complete book was obtained."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "SALEH-DISCLOSURE",
+      "summary": "The author’s institutional repository and publisher catalogue identify her and describe archival, ethnographic and literary/autobiographical materials. They are not the book’s methods, acknowledgments or conflict declaration. No absence of conflicts is inferred."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "STEPHAN-DISCLOSURE",
+      "summary": "The platform provides an author-attributed synopsis and the registry names an author. No acknowledgments, funding statement, full historical passage or fresh author-affiliation verification was available."
+    },
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "id": "UCHIDA-DISCLOSURE",
+      "summary": "The catalogue credits Uchida and places the book under Harvard University Asia Center distributed titles. Its Stanford appointment is a historical catalogue credit, not a claim of present affiliation. No book acknowledgments, funding or interests were read."
+    }
+  ],
+  "reading_rule": "These are accepted, dated metadata-review snapshots with limited source reading. Original publication-pending language remains historical provenance. No full-book, independent historical or map-content acceptance is implied."
+}

@@ -1,0 +1,35 @@
+{
+  "build": "20260912e",
+  "records": [
+    {
+      "work_id": "title:reynolds 2006 the other side of the frontier",
+      "case_ids": [
+        "australia-new-south-wales-frontier",
+        "australia-port-phillip-southeast-pastoral-frontier",
+        "australia-queensland-northern-frontier",
+        "australia-van-diemens-land-frontier",
+        "australia-western-australia-frontiers"
+      ],
+      "status": "open",
+      "question": "Locate passages in the identified edition supporting the existing case-specific assertions; publisher metadata and synopsis do not close this question."
+    },
+    {
+      "work_id": "title:richmond 2013 the circassian genocide",
+      "case_ids": [
+        "circassia"
+      ],
+      "status": "open",
+      "question": "Locate passages in the identified edition supporting the existing case-specific assertions; publisher metadata and synopsis do not close this question."
+    },
+    {
+      "work_id": "title:thompson 2014 a history of south africa",
+      "case_ids": [
+        "south-africa-great-trek-interior-settlement",
+        "south-africa-xhosa-frontier-wars-settlement"
+      ],
+      "status": "open",
+      "question": "Locate passages in the identified edition supporting the existing case-specific assertions; publisher metadata and synopsis do not close this question."
+    }
+  ],
+  "rule": "Bibliographic identity acceptance does not verify the source passages supporting case assertions."
+}

@@ -1,0 +1,37 @@
+{
+  "status": "shared_registry_work_identifiers_access_records_unmerged",
+  "ids_merged": 0,
+  "new_ids_created": 0,
+  "relations": [
+    {
+      "relation": "same_exact_registered_work_identifier",
+      "doi_as_reported": "10.1017/jch.2019.1",
+      "work_ids": [
+        "access:4361c65cdc4e4205c54a",
+        "title:barbieri low coerced migration and resettlement in qin imperial expansion"
+      ],
+      "merged": false,
+      "limit": "Registry title/identifier and publisher fields agree. Original IDs, URLs, scopes and occurrences remain separate; identical full text, access edition or physical copy is not inferred.",
+      "registry_source_binding": {
+        "url": "https://api.crossref.org/works/10.1017%2Fjch.2019.1",
+        "private_file": "tmp/cambridge-metadata-20260909/registry-resume-7b4e67402135e124cb72.json",
+        "sha256": "3aadd21f93374e11b662082b40587aea797f5d55d3b2b5a479404fc461a12138"
+      }
+    },
+    {
+      "relation": "same_exact_registered_work_identifier",
+      "doi_as_reported": "10.1017/jch.2020.45",
+      "work_ids": [
+        "access:65305add3693717210c3",
+        "title:korolkov and hein state induced migration"
+      ],
+      "merged": false,
+      "limit": "Registry title/identifier and publisher fields agree. Original IDs, URLs, scopes and occurrences remain separate; identical full text, access edition or physical copy is not inferred.",
+      "registry_source_binding": {
+        "url": "https://api.crossref.org/works/10.1017%2Fjch.2020.45",
+        "private_file": "tmp/cambridge-metadata-20260909/registry-resume-eb706fdb70fc440f84f6.json",
+        "sha256": "e0bea92b08a60750d8b275ff9b4678486b06e367ca224f55d98e369d0b749ea8"
+      }
+    }
+  ]
+}

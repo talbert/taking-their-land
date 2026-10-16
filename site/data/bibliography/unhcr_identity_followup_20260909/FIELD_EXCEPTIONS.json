@@ -1,0 +1,61 @@
+{
+  "exceptions": [
+    {
+      "id": "UNHCR-F01",
+      "work_id": "access:3a6fa9c47b4ce24ab9e2",
+      "selection_index": 2,
+      "field": "attachment_publication_date",
+      "status": "unresolved",
+      "reason": "The requested field is not established by the inspected source evidence. Exact attachment title explicitly named in original recorded_title and same terminal attachment slug. This is an accessible matching component, not a demonstrated redirect or byte-identical recovery of the missing 2022/02 route. Parent-feature date, parent byline and image upload path are not assigned to the attachment as its own publication date or caption author.",
+      "action": "Keep the field unfilled; require a source that explicitly supplies it before adoption."
+    },
+    {
+      "id": "UNHCR-F02",
+      "work_id": "access:3a6fa9c47b4ce24ab9e2",
+      "selection_index": 2,
+      "field": "caption_author",
+      "status": "unresolved",
+      "reason": "The requested field is not established by the inspected source evidence. Exact attachment title explicitly named in original recorded_title and same terminal attachment slug. This is an accessible matching component, not a demonstrated redirect or byte-identical recovery of the missing 2022/02 route. Parent-feature date, parent byline and image upload path are not assigned to the attachment as its own publication date or caption author.",
+      "action": "Keep the field unfilled; require a source that explicitly supplies it before adoption."
+    },
+    {
+      "id": "UNHCR-F03",
+      "work_id": "title:unhcr chronology of syria s displacement crisis",
+      "selection_index": 18,
+      "field": "publication_date",
+      "status": "unresolved",
+      "reason": "The requested field is not established by the inspected source evidence. The source's chronology extends to September 2013. That is subject coverage, not a verified publication date. Neither the two-page PDF nor the inspected landing header supplies a publication date.",
+      "action": "Keep the field unfilled; require a source that explicitly supplies it before adoption."
+    },
+    {
+      "id": "UNHCR-F04",
+      "work_id": "title:unhcr historical account of the 1991 palestinian displacement from kuwait",
+      "selection_index": 27,
+      "field": "publication_date",
+      "status": "unresolved",
+      "reason": "The requested field is not established by the inspected source evidence. Printed author credit is Nicholas Morris. Embedded /Author is Françoise Jaccoud and /Title is UNHCR; those file properties are not substituted for printed authorship/title. The introduction says the views are the author's and not necessarily those of the United Nations or UNHCR. It dates preparation of the first six accounts to 2016/2017 and the final two to 2023/2024; those are composition dates, not a formal publication date. The hosting path and file-creation timestamp are not used as publication dates. The inherited Kuwait topic label is retained separately from this whole memoir's title.",
+      "action": "Keep the field unfilled; require a source that explicitly supplies it before adoption."
+    },
+    {
+      "id": "UNHCR-F05",
+      "work_id": "title:unhcr somali refugee displacements in the near region",
+      "selection_index": 39,
+      "field": "publication_date",
+      "status": "unresolved",
+      "reason": "The requested field is not established by the inspected source evidence. The purpose paragraph says the paper was prepared for a regional meeting to be convened in August 2014. That contextual date is not treated as a publication date. An earlier indexed bibliographic reference supplied 2013, but the inspected PDF discusses a forthcoming August 2014 meeting and cites 2014 material. The provisional 2013 date is not accepted. The landing page supplies no visible publication date.",
+      "action": "Keep the field unfilled; require a source that explicitly supplies it before adoption."
+    },
+    {
+      "id": "UNHCR-F06",
+      "work_id": "title:unhcr sudan situation appeal 2026",
+      "selection_index": 42,
+      "field": "exact_publication_date",
+      "status": "unresolved",
+      "reason": "The requested field is not established by the inspected source evidence. The extracted text of PDF page 2 contains an unrelated COVID-19 report header and January 2022 date that are absent from the rendered contents page. They are not metadata for this appeal. The appeal year 2026 is explicit. Earlier indexed portal publication/upload dates of 19 February 2026 remain provisional because this browser visit exposed the portal title but no date fields.",
+      "action": "Keep the field unfilled; require a source that explicitly supplies it before adoption."
+    }
+  ],
+  "prior_open_fields_preserved": 12,
+  "new_open_fields": 6,
+  "total_open_fields_after_publication": 18
+}

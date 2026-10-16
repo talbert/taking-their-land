@@ -1,0 +1,60 @@
+{
+  "build": "20260912c",
+  "required": 1,
+  "offered": 4,
+  "registry_changes": 2,
+  "records": [
+    {
+      "review_id": "bibliography_ubc_20260912",
+      "id": "EYFORD-FULLER-CITATION",
+      "work_id": "title:eyford 2016 white settler reserve",
+      "proposed_label": "Ryan Eyford, White Settler Reserve: New Iceland and the Colonization of the Canadian West (UBC Press, 2016).",
+      "url": "https://www.ubcpress.ca/white-settler-reserve",
+      "disposition": "Optional fuller author/title form; the original abbreviated author/year labels are not shown false.",
+      "role": "offered",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_ubc_20260912",
+      "id": "HARRIS-FULLER-CITATION",
+      "work_id": "title:harris 2020 a bounded land",
+      "proposed_label": "Cole Harris, A Bounded Land: Reflections on Settler Colonialism in Canada (UBC Press, 2020).",
+      "url": "https://www.ubcpress.ca/a-bounded-land",
+      "disposition": "Optional fuller author/title form; the original abbreviated author/year labels are not shown false.",
+      "role": "offered",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_ubc_20260912",
+      "id": "RUCK-FULLER-CITATION",
+      "work_id": "title:ruck 2021 the laws and the land",
+      "proposed_label": "Daniel Rück, The Laws and the Land: The Settler Colonial Invasion of Kahnawà:ke in Nineteenth-Century Canada (UBC Press, 2021).",
+      "url": "https://www.ubcpress.ca/the-laws-and-the-land",
+      "disposition": "Optional fuller author/title form; the original abbreviated author/year labels are not shown false.",
+      "role": "offered",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "id": "HITTITE-EXACT-BOOK-TITLE",
+      "work_id": "title:contacts of languages in the hittite empire",
+      "citation_id": "b23_b93b26b8be5a7c",
+      "proposed_label": "Federico Giusfredi, Valerio Pisaniello and Alvise Matessi, Contacts of Languages and Peoples in the Hittite and Post-Hittite World, vol. 1: The Bronze Age and Hatti (Brill, 2023).",
+      "url": "https://brill.com/downloadpdf/display/title/65056.pdf",
+      "reason": "Current source title is not the resolved book title. Author sequence follows the labeled registry record; other publisher/author lists differ.",
+      "role": "required",
+      "application": "applied_to_current_atlas_source_label"
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "id": "UMBRIA-FULLER-IDENTITY",
+      "work_id": "url:brill.com/downloadpdf/display/title/64787.pdf",
+      "citation_id": "v5_roman_gracchan_brill",
+      "proposed_label": "Arianna Zapelloni Pavia, Continuity and Change in Ancient Umbrian Cult Places (Brill, 2025; ebook released 2024).",
+      "url": "https://brill.com/downloadpdf/display/title/64787.pdf",
+      "reason": "Replace a descriptive source label with its exact identity; the prior label is not asserted to be the book’s title.",
+      "role": "offered",
+      "application": "applied_to_current_atlas_source_label"
+    }
+  ]
+}

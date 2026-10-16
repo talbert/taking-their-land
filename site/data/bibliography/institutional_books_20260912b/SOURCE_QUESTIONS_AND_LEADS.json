@@ -1,0 +1,28 @@
+{
+  "build": "20260912b",
+  "source_questions": [
+    {
+      "review_id": "bibliography_unesco_nps_20260912",
+      "id": "CAIRO-MAP-LABEL-COMPONENT-MISMATCH",
+      "work_id": "access:fa6306d6fcb5d3dead56",
+      "status": "open",
+      "question": "Which components are actually drawn in the 2008 linked map whose heading is Al-Fustat but whose description names 089-003 and 089-004?",
+      "basis": "The listing text is internally inconsistent on its face. No map image has been inspected, and no catalogue correction is asserted.",
+      "current_use": "The existing 89-001 point locator comes from the separate geographical table. No atlas footprint is inferred from the linked map.",
+      "scope": "Separate source/map-content question; not counted as an original-publication-date field or an atlas evidence hold."
+    }
+  ],
+  "unverified_passage_leads": [
+    {
+      "review_id": "bibliography_stanford_harvard_20260912",
+      "work": "James Reardon-Anderson, Reluctant Pioneers",
+      "source": "https://www.degruyterbrill.com/document/doi/10.1515/9781503625235/html",
+      "observed_contents_locator": "Chapter 6, Refugees, starts on page 147; following Analysis starts on page 160.",
+      "possible_use": "A bounded future reading lead for the user's incoming-flight/refugee-origin question in migration into Manchuria.",
+      "reading_status": "Contents only. No chapter text was available or read; title alone does not establish colonizer flight origin.",
+      "admission_limit": "The prior Chuang Guandong gap-scan candidate remains dropped. This lead does not reopen it, assign a score, or change any current case.",
+      "next_step": "Obtain an authorized readable copy of the specified chapter before assessing people, chronology, migration pressures and destination role."
+    }
+  ],
+  "rule": "Open source questions and unread leads do not change atlas holds or assign incoming-flight status. Only the accepted earlier Cairo review is included; a later provisional observation has no accepted amendment."
+}

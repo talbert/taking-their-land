@@ -1,0 +1,140 @@
+{
+  "status": "tiered_inventory_followup_applied_not_all_entries_publication_ready",
+  "counts": {
+    "secondary_inventory_unresolved": 491,
+    "metadata_identity_reconciled_locus_separate": 724,
+    "deposited_metadata_identity_screened": 116,
+    "corrected_identifier_verified": 3,
+    "prior_pilot_review_preserved": 30,
+    "container_identity_reconciled_chapter_link_corrected": 1,
+    "source_identity_reconciled_identifier_unresolved": 1
+  },
+  "anchor_use": {
+    "cited": 27,
+    "background": 14
+  },
+  "work_access_records": 1366,
+  "overlay_records": 7,
+  "base_build": "20260912b",
+  "base_typed_metadata_sha256": "612b95e23878e219afb5e0d7316f25f8c639b4c7ed223396a6fdc5fe6da2865d",
+  "composite_sha256": "0e0c608476b91a8714ab82661ee3f0238d22cc5ea64132e40e85d846d719e8c7",
+  "identifier_exceptions": [
+    {
+      "work_id": "doi:10.4067/s0717-71942012000200001",
+      "status": "known_article_both_doi_forms_unregistered",
+      "preferred_url": "https://revistahistoria.uc.cl/index.php/rhis/article/view/10102"
+    }
+  ],
+  "remaining": "491 secondary identities remain unresolved; 132 selected preferred metadata fields remain open. Historical passage questions, authoring holds and statistical decisions remain separate.",
+  "identity_followup_source_passages_newly_verified": 0,
+  "passage_review": {
+    "records": 5,
+    "passages_located_with_limits": 3,
+    "partial_opening_only": 1,
+    "abstract_only": 1,
+    "file": "PASSAGE_NOTES.json",
+    "sha256": "67709e9035ed3eaf9fb4ed2fb69732220ea44e3790623a2d0fa6b66298616fd9",
+    "independent_historical_review": false
+  },
+  "prior_overlay_records": 719,
+  "reviewed_overlay_records_total": 726,
+  "latest_identity_review": {
+    "records": 7,
+    "accepted_packets": 2,
+    "directory": "../ubc_brill_20260912c/",
+    "required_repairs": 1,
+    "registry_changes": 2,
+    "optional_citation_refinements_retained": 3,
+    "original_occurrences_changed": 0,
+    "locator_errata": 1,
+    "historical_scores_changed": 0
+  },
+  "field_exceptions": {
+    "open": 132,
+    "status": "unresolved_bibliographic_fields_not_case_holds",
+    "files": [
+      {
+        "open": 3,
+        "file": "../institutional_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "6128605408f61ff1095c5263d610df6dfe5d8d3d10ee465a6bc5a7a90d188664"
+      },
+      {
+        "open": 3,
+        "file": "../iranica_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "5b4787c881efc4e7b31b106ba89361177a8f67e2c038145700b32ba633762aae"
+      },
+      {
+        "open": 2,
+        "file": "../pleiades_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "402ac4a9bb2fac3754e415c76857859111751e1a58a1cdcc22791e357fc3e958"
+      },
+      {
+        "open": 4,
+        "file": "../cambridge_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "947e485dec6f64899251e82bd5844421e1e02e2e054e49c1d5ac5befbcf01a19"
+      },
+      {
+        "open": 6,
+        "file": "../unhcr_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "efd4f2887cd531dd0d845bf71bac40c2bab2479e34e85f243de5b26c6616f3b5"
+      },
+      {
+        "open": 4,
+        "file": "../livius_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "5fa53e84fa2457fdace0ccd0563ed32439e0d4347c16f6968b7a03160e74091b"
+      },
+      {
+        "open": 5,
+        "file": "../attalus_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "33f091f50c519dfaad063a8c75b2218437d8049ee3d475778cefee154f089cb0"
+      },
+      {
+        "open": 3,
+        "file": "../oxford_identity_followup_20260909/FIELD_EXCEPTIONS.json",
+        "sha256": "66aba2309296f037500fa062b7fdf702a9f15a8634fee6f820a828b5903d0d17"
+      },
+      {
+        "open": 94,
+        "file": "../consolidated_reviews_20260912/FIELD_QUESTIONS.json",
+        "sha256": "e3d37c3e2bec16ba2b86193d983d5cd5ef285c78e6713aeff209c2daa57bb0bb",
+        "note": "95 newly recorded fields minus one later resolved Criniti edition question."
+      },
+      {
+        "open": 5,
+        "file": "../institutional_books_20260912b/FIELD_QUESTIONS.json",
+        "sha256": "aeaf27ce0b85e8a45d8f190485d29091524c14bffc608559eb5bd10d92c42b74",
+        "note": "Four unknown original web dates and one unresolved exact print-release day."
+      },
+      {
+        "open": 3,
+        "file": "../source_resolutions_20260912d/FIELD_QUESTIONS.json",
+        "sha256": "09db5de94caaf386ef13a83466262d459724ea1118e7f89d4bfc2c8dade29cce",
+        "note": "Three preferred dates remain open after resolving the Umbrian hardback day. The prior four-question register is preserved with an explicit later resolution."
+      }
+    ]
+  },
+  "additional_passage_followups": {
+    "records": 1,
+    "file": "../unhcr_identity_followup_20260909/PASSAGE_FOLLOWUPS.json",
+    "status": "unresolved_not_a_new_historical_decision"
+  },
+  "additional_source_reviews": {
+    "records": 6,
+    "resolved_bounded_source_questions": 3,
+    "file": "../consolidated_reviews_20260912/SOURCE_NOTES.json",
+    "independent_historical_review": false,
+    "rule": "Livy, Nola and Puntland resolutions are bounded. Batwa comparison, Echuya dates and Three Gorges follow-ups remain open."
+  },
+  "separate_replacement_identity_register": {
+    "records": 1,
+    "file": "../consolidated_reviews_20260912/RELATED_REPLACEMENT_IDENTITIES.json",
+    "original_inventory_records": 1366
+  },
+  "latest_source_resolutions": {
+    "directory": "../source_resolutions_20260912d/",
+    "metadata_dates_closed": 1,
+    "map_content_questions_closed": 1,
+    "historical_changes": 0,
+    "validation_sha256": "7314eff66b66e77dbda755c10484a8cf3e3566e8a2a7e80bd570f3220d62e618"
+  }
+}

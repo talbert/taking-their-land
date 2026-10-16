@@ -1,0 +1,45 @@
+{
+  "schema": "current-public-eight-trait-inheritance-summary-v1",
+  "status": "CONSTRUCT_PROJECTION_COMPLETE_SIX_RAW_FOLLOWUPS_OPEN_NOT_ACTIVATED",
+  "events": 676,
+  "traits": 8,
+  "event_trait_pairs": 5408,
+  "F1_F7_trait_fields_per_row_preserved": 56,
+  "all_non_F8_fields_per_row_preserved": 65,
+  "serialized_F1_F7_and_metadata_parity_exact": true,
+  "raw_conflict_count": 8,
+  "raw_conflict_ids": [
+    "eu-holocaust",
+    "modern-equatorial-guinea-macias-exile",
+    "modern-japanese-american-forced-removal",
+    "prospective-algeria-harki-reprisal-flight-resettlement-1961-1965",
+    "mena-persian-gulf-east-african-slave-trafficking-labor",
+    "mena-safavid-armenian-deportation-aras-new-julfa-1604-1605",
+    "prospective-isle-of-man-enemy-alien-internment-1914-1919",
+    "prospective-isle-of-man-enemy-alien-internment-1940-1945"
+  ],
+  "adjudicated_count": 8,
+  "new_unadjudicated_conflicts": [],
+  "nonconflicting_legacy_adjudications": [],
+  "public_display_corrections_count": 3,
+  "public_display_correction_ids": [
+    "south-africa-cape-khoekhoe-land-labor-dispossession-1652-1806",
+    "prospective-aydin-lower-maeander-umur-tract",
+    "ancient-egypt-thutmose-iii-megiddo-captive-communities"
+  ],
+  "F8_status_counts": {
+    "insufficient_evidence_do_not_show_solid_point": 101,
+    "structural_not_applicable": 55,
+    "supported_point": 520
+  },
+  "open_raw_followup_count": 6,
+  "open_followup_unchanged_two_cell_rows": 6,
+  "raw_cells_changed_by_this_projection": 0,
+  "model_fits": 0,
+  "finite_intensity_pairs": 522,
+  "finite_intensity_changed_at_least_5": 482,
+  "other_public_case_overrides_applied": false,
+  "all_public_frozen_differences_resolved": false,
+  "activation_authorized": false,
+  "publication_authorized": false
+}

@@ -1,0 +1,99 @@
+{
+  "build": "20260912g",
+  "records": [
+    {
+      "work_id": "access:08671715f4d2243910fd",
+      "title": "The Writings of the Roman Land Surveyors",
+      "limits": [
+        "Original recorded title, work ID, URL and source-use description remain.",
+        "No new historical passage, score, geometry or incoming-flight assignment is accepted.",
+        "No new public archive snapshot or source-independence certification is claimed.",
+        "Current PDF matches retained copy. Brian Campbell supplies the modern introduction, text, translation and commentary; ancient texts and later commentary retain their separate evidential roles."
+      ]
+    },
+    {
+      "work_id": "access:0ead9047bd55d3a44c23",
+      "title": "Ancient genomes document multiple waves of migration in Southeast Asian prehistory",
+      "limits": [
+        "Original combined source-use descriptions are retained as provenance, not treated as the title of one file.",
+        "Identity acceptance does not admit a source as new historical evidence or close the independent-review gates.",
+        "The PDF contains Lipson’s four article pages plus a publisher cover, not the full McColl study. Existing pp. 92–94 passage locator remains accurate."
+      ]
+    },
+    {
+      "work_id": "access:288a75dfe01f72b2af11",
+      "title": "The Anatomy of a South African Genocide",
+      "limits": [
+        "Identity review does not change historical claims, scores, evidence holds or incoming-flight assignments.",
+        "2014 WebPDF, 2010 parent print and 2022 repository publication date remain separate. No complete new book reading claimed.",
+        "The Cape project-versus-victim scope question remains in the independent raw-F8 review."
+      ]
+    },
+    {
+      "work_id": "access:ab13c4e552d0620efd92",
+      "title": "The (Un)making of Soviet Kirovabad: Pogroms and the End of the “Friendship of Peoples” in Azerbaijan",
+      "limits": [
+        "Original combined source-use descriptions are retained as provenance, not treated as the title of one file.",
+        "Identity acceptance does not admit a source as new historical evidence or close the independent-review gates.",
+        "CEU indexed catalogue and title-page metadata only; current direct routes did not yield thesis body. King differs from the original adopted HRW/ECHR bundle."
+      ]
+    },
+    {
+      "work_id": "access:cef5ec83f452351eb4c4",
+      "title": "A total extinction confidently hoped for: the destruction of Cape San society under Dutch colonial rule, 1700–1795",
+      "limits": [
+        "Identity review does not change historical claims, scores, evidence holds or incoming-flight assignments.",
+        "The article is distinct from the book. Current PDF matches retained copy; no new historical passage or scoring decision accepted."
+      ]
+    },
+    {
+      "work_id": "access:d55d9d5dddefeef1696e",
+      "title": "Circassian Refugees and the Making of Amman, 1878–1914",
+      "limits": [
+        "Original combined source-use descriptions are retained as provenance, not treated as the title of one file.",
+        "Identity acceptance does not admit a source as new historical evidence or close the independent-review gates.",
+        "Earlier Wadi al-Sir flight passage acceptance retained; no new flight-origin assignment."
+      ]
+    },
+    {
+      "work_id": "access:ee1748254b10f0446513",
+      "title": "Roma e le priscae Latinae coloniae",
+      "limits": [
+        "Original recorded title, work ID, URL and source-use description remain.",
+        "No new historical passage, score, geometry or incoming-flight assignment is accepted.",
+        "No new public archive snapshot or source-independence certification is claimed.",
+        "Current PDF matches retained copy. The main review identified three source labels requiring the name Monica Chiabà. The publication citation dispositions record the applied correction; original recorded descriptions remain preserved."
+      ]
+    },
+    {
+      "work_id": "title:gorman milesian decrees of isopoliteia and the refoundation of the city",
+      "title": "Milesian Decrees of Isopoliteia and the Refoundation of the City, ca. 479 BCE",
+      "limits": [
+        "Original combined source-use descriptions are retained as provenance, not treated as the title of one file.",
+        "Identity acceptance does not admit a source as new historical evidence or close the independent-review gates.",
+        "UNL catalogue identifies the chapter; full chapter body and equality to original UMD bytes are unverified. Version month is a repository label."
+      ]
+    },
+    {
+      "work_id": "title:katsuji sano the expansion of the assyrian empire under ashurnasirpal ii 2015",
+      "title": "Die Expansion des assyrischen Reiches unter Aššurnaṣirpal II.",
+      "limits": [
+        "Original recorded title, work ID, URL and source-use description remain.",
+        "No new historical passage, score, geometry or incoming-flight assignment is accepted.",
+        "No new public archive snapshot or source-independence certification is claimed.",
+        "German title is identified; the English descriptive source label remains. Received and accepted strings are not publication dates. Current direct URL returns university temporary-unavailability HTML; retained PDF supplies metadata."
+      ]
+    },
+    {
+      "work_id": "title:lipson et al 2018 population turnover in remote oceania shortly after initial settlement current biology 28 1157 1165",
+      "title": "Population Turnover in Remote Oceania Shortly after Initial Settlement",
+      "limits": [
+        "Identity review does not change historical claims, scores, evidence holds or incoming-flight assignments.",
+        "Final pagination is deposited metadata; typeset publication/issue dates belong to the retained in-press copy. Current Cell body retrieval failed.",
+        "The separate PMC copy-version question and Vanuatu authoring evidence hold remain."
+      ]
+    }
+  ],
+  "scope": "Bibliographic identities and access roles. Original source-use descriptions are retained; identifying an access target does not establish adoption of that work as historical evidence.",
+  "disclosure": "Main 21/13/6 reviews. The two Adhikari downloads match retained copies. Lipson typeset and repository versions remain distinguished. CEU thesis identity uses indexed official metadata; no current thesis body was obtained. UNL chapter metadata does not establish original UMD bytes. No new historical, statistical or incoming-flight decision. Chiabà, Campbell and Sano add 29 title/imprint metadata values. Current Chiabà and Campbell PDFs match retained copies; the current direct Sano route returns university temporary-unavailability HTML. Three incorrect Chiabà given-name labels are corrected in this build."
+}

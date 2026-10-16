@@ -1,0 +1,26 @@
+{
+  "status": "open_bibliographic_field_limits_not_identity_holds",
+  "exceptions": [
+    {
+      "work_id": "access:5c1c12426e61b9b3d97d",
+      "place_id": "256155",
+      "field": "normalized_creator_name_sequence",
+      "status": "unresolved",
+      "evidence": "The pinned JSON supplies separate creator labels Jr., F.H. Stanley and R.C. Knapp. Official changelog excerpts show variant formatting, but no record-specific normalization is established.",
+      "source_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/6/1/256155.json",
+      "next_action": "Confirm the normalized creator sequence from a record-specific authoritative citation or creator record; preserve the raw array until then."
+    },
+    {
+      "work_id": "access:d4df0f615a5b288c5eab",
+      "place_id": "256128",
+      "field": "normalized_creator_name_sequence",
+      "status": "unresolved",
+      "evidence": "The pinned JSON supplies separate creator labels Jr., F.H. Stanley and R.C. Knapp. Official changelog excerpts show variant formatting, but no record-specific normalization is established.",
+      "source_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/6/1/256128.json",
+      "next_action": "Confirm the normalized creator sequence from a record-specific authoritative citation or creator record; preserve the raw array until then."
+    }
+  ],
+  "prior_open_fields_preserved": 6,
+  "total_open_fields_after_publication": 8,
+  "other_limits": "Formal person-name expansion and canonical live suggested citations are not asserted. Joe User and jfu are literal contributor labels. Creation/publication-history roles are distinct; there is no inferred first-publication year. Pinned snapshot identity does not verify geometry or historical claims."
+}

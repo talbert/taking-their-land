@@ -1,0 +1,31 @@
+{
+  "status": "explicit_metadata_fields_unresolved_not_case_holds",
+  "open": 3,
+  "records": [
+    {
+      "record_index": 3,
+      "field": "container_editor_names_as_supplied",
+      "status": "unconfirmed_platform_credit",
+      "observed_platform_credit": "John Connelly (ed.)",
+      "counterpart_scope": "UC Press paperback listing, a different format, names Gary Forsythe as author and supplies no such editor credit. This does not prove the role false.",
+      "work_id": "access:c212687d080c15e094dd"
+    },
+    {
+      "record_index": 13,
+      "field": "pages_as_reported",
+      "status": "not_displayed_registry_check_rate_limited",
+      "value": null,
+      "work_id": "title:pueblos perdidos displacement at the panama canal"
+    },
+    {
+      "record_index": 8,
+      "field": "preferred_page_range",
+      "status": "conflicting_publisher_and_registry_endpoints",
+      "publisher_display": "82–108",
+      "registered_range": "82-107",
+      "preferred_value": null,
+      "work_id": "title:oxford scholarship online conquest and colonial settlement in medieval wales"
+    }
+  ],
+  "scope": "Three explicit preferred fields; not an exhaustive inventory of every omitted imprint or date role."
+}

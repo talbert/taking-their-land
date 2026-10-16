@@ -1,0 +1,28 @@
+{
+  "build": "20260912e",
+  "records": [
+    {
+      "work_id": "title:reynolds 2006 the other side of the frontier",
+      "note": "The original 1981 publication and the August 2006 paperback are distinct. A separate related 2026 product is not substituted. The exact 2006 print day remains unknown."
+    },
+    {
+      "work_id": "title:richmond 2013 the circassian genocide",
+      "note": "The catalogue explicitly identifies Rutgers University Press as publisher and imprint despite the older bucknell URL route. Only the identified paperback metadata is selected. Promotional historical and causal claims are not adopted."
+    },
+    {
+      "work_id": "title:thompson 2014 a history of south africa",
+      "note": "The fourth edition credits Leonard Thompson as author and Lynn Berat as reviser. Paperback and ebook share the listed 29 April 2014 date but retain distinct ISBNs."
+    }
+  ],
+  "disclosure": "Three direct publisher catalogue pages and their bibliographic sections were consulted. Publisher synopses and endorsements were read as catalogue context. No complete book, source PDF, funding disclosure, author conflict audit or new historical passage verification was completed. Catalogue extent is not an inspected-page count.",
+  "deferred_identities": [
+    {
+      "work_id": "title:peattie 1988 nanyo",
+      "reason": "Publisher route returns title only; linked title leads to same incomplete page. No full identity acceptance."
+    },
+    {
+      "work_id": "title:quinn 2018 in search of the phoenicians",
+      "reason": "Web tool reports restricted URL; no alternate tool attempted against this destination."
+    }
+  ]
+}

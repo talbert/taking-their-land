@@ -1,0 +1,1898 @@
+{
+  "status": "applied_to_local_publication_inputs_live_acceptance_separate",
+  "records": [
+    {
+      "review_id": "bibliography_attalus_access_20260910",
+      "correction_id": "ATTALUS-GRANIUS-TELAMON-ANCHOR",
+      "requirement": "required",
+      "source_file_sha256": "dd9c53afe50fb1b5076edd9acacf7f1bc2f0e831bc15fa1d72519f86e8416079",
+      "reviewed_proposal": {
+        "id": "ATTALUS-GRANIUS-TELAMON-ANCHOR",
+        "record_index": 3,
+        "work_id": "access:cbe9ad754079f540c268",
+        "occurrence_ids": [
+          "occ:77f6a8f6c9e85df91adf"
+        ],
+        "field": "source-note URL and page locator",
+        "current_url": "https://www.attalus.org/translate/granius.html#35",
+        "proposed_url": "https://www.attalus.org/translate/granius.html#16",
+        "proposed_locator": "Book 35, Flemisch pages 16–17",
+        "reason": "Flemisch page 35 in Book 36, not Book 35",
+        "scope": "One authoring source-note occurrence; no current atlas citation or case.",
+        "status": "main_fact_checked_calibration_pending",
+        "main_disposition": "Concede the wrong target: HTML anchor 35 lies in Book 36 at Faesulae. The bound Telamon text begins after anchor 16 and spans page 17 in Book 35. Use #16 as the preceding navigation point and describe pages 16–17; retain the original occurrence and historical hold.",
+        "historical_acceptance_changed": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_attalus_access_20260910",
+      "correction_id": "ATTALUS-CHRONOLOGY-GENRE",
+      "requirement": "required",
+      "source_file_sha256": "dd9c53afe50fb1b5076edd9acacf7f1bc2f0e831bc15fa1d72519f86e8416079",
+      "reviewed_proposal": {
+        "id": "ATTALUS-CHRONOLOGY-GENRE",
+        "record_index": 5,
+        "work_id": "url:attalus.org/bc1/year89.html",
+        "occurrence_ids": [
+          "occ:e54e0022ce93fe8ac648",
+          "occ:59f6eab70c7070a5d8d9"
+        ],
+        "field": "source identity and genre",
+        "current_label": "Primary source 1: attalus.org",
+        "proposed_label": "Attalus: 89 B.C. — events and references (modern chronology)",
+        "reason": "A modern chronology citing Pliny is labeled as a primary source. Preserve Pliny as a separate ancient source and do not double-count the chronology as independent attestation.",
+        "scope": "Two historical/inactive occurrences; no current case or registry citation.",
+        "status": "main_fact_checked_calibration_pending",
+        "main_disposition": "Concede the genre error: this page compiles events and source references. Identify the chronology as modern, keep its two historical/inactive occurrence bindings, and do not count it as an independent ancient witness beside Pliny.",
+        "historical_acceptance_changed": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "correction_id": "CA-HUGUENOTS-URL",
+      "requirement": "required",
+      "source_file_sha256": "1589da89620d90fa9582ce196c0eedb127b6bab89773d646922d599642be7f43",
+      "reviewed_proposal": {
+        "id": "CA-HUGUENOTS-URL",
+        "work_id": "title:the huguenots history and memory in transnational context",
+        "original_label": "The Huguenots: History and Memory in Transnational Context",
+        "original_url": "https://assets.cambridge.org/97811070/76259/excerpt/9781107076259_excerpt.pdf",
+        "proposed_label": "David J.B. Trim (ed.), The Huguenots: History and Memory in Transnational Context: Essays in Honour and Memory of Walter C. Utt (Brill, 2011)",
+        "proposed_url": "https://www.degruyterbrill.com/de/document/isbn/9789004209695/html",
+        "reason": "Original Cambridge ISBN denotes Orchard’s distinct 2014 book. Replace the displayed link with the publisher identity matching the recorded title; preserve original access provenance.",
+        "current_registry_replacement_required": true,
+        "historical_acceptance_changed": false,
+        "publication_applied": false,
+        "link_access_limit": "Publisher-indexed identity verified; direct platform open returned HTTP405, so current successful landing-page access is not claimed.",
+        "status": "required_main_fact_checked_calibration_pending",
+        "main_disposition": "David J.B. Trim (ed.), The Huguenots: History and Memory in Transnational Context: Essays in Honour and Memory of Walter C. Utt (Brill, 2011)"
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "modern_huguenot_exile",
+          "before": {
+            "title": "The Huguenots: History and Memory in Transnational Context",
+            "url": "https://assets.cambridge.org/97811070/76259/excerpt/9781107076259_excerpt.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "David J.B. Trim (ed.), The Huguenots: History and Memory in Transnational Context: Essays in Honour and Memory of Walter C. Utt (Brill, 2011)",
+            "url": "https://www.degruyterbrill.com/de/document/isbn/9789004209695/html",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "title:the huguenots history and memory in transnational context"
+          ],
+          "correction_id": "CA-HUGUENOTS-URL",
+          "review_id": "bibliography_cambridge_assets_20260910"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "correction_id": "CA-HUGUENOTS-TYPE",
+      "requirement": "required",
+      "source_file_sha256": "1589da89620d90fa9582ce196c0eedb127b6bab89773d646922d599642be7f43",
+      "reviewed_proposal": {
+        "id": "CA-HUGUENOTS-TYPE",
+        "work_id": "title:the huguenots history and memory in transnational context",
+        "original_label": "scholarly monograph",
+        "proposed_label": "edited scholarly volume",
+        "reason": "Publisher explicitly identifies an editor and multiple chapter contributors.",
+        "current_registry_replacement_required": false,
+        "historical_acceptance_changed": false,
+        "publication_applied": false,
+        "status": "required_main_fact_checked_calibration_pending",
+        "main_disposition": "edited scholarly volume"
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "correction_id": "CA-FULL-CITATION-0",
+      "requirement": "offered",
+      "source_file_sha256": "1589da89620d90fa9582ce196c0eedb127b6bab89773d646922d599642be7f43",
+      "reviewed_proposal": {
+        "id": "CA-FULL-CITATION-0",
+        "work_id": "access:99f919554a7e7a6bff9b",
+        "proposed_label": "Charles W. Fornara (ed. and trans.), Archaic Times to the End of the Peloponnesian War, 2nd ed. (1983); recorded locus pp.25–26, not checked in this pass",
+        "reason": "Make author/editor, full title and edition/year explicit; preserve existing citation IDs and source locators.",
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Charles W. Fornara (ed. and trans.), Archaic Times to the End of the Peloponnesian War, 2nd ed. (1983); recorded locus pp.25–26, not checked in this pass"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "correction_id": "CA-FULL-CITATION-1",
+      "requirement": "offered",
+      "source_file_sha256": "1589da89620d90fa9582ce196c0eedb127b6bab89773d646922d599642be7f43",
+      "reviewed_proposal": {
+        "id": "CA-FULL-CITATION-1",
+        "work_id": "title:campbell an economic history of imperial madagascar 17501895",
+        "proposed_label": "Gwyn Campbell, An Economic History of Imperial Madagascar, 1750–1895: The Rise and Fall of an Island Empire (2005)",
+        "reason": "Make author/editor, full title and edition/year explicit; preserve existing citation IDs and source locators.",
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Gwyn Campbell, An Economic History of Imperial Madagascar, 1750–1895: The Rise and Fall of an Island Empire (2005)"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "correction_id": "CA-FULL-CITATION-2",
+      "requirement": "offered",
+      "source_file_sha256": "1589da89620d90fa9582ce196c0eedb127b6bab89773d646922d599642be7f43",
+      "reviewed_proposal": {
+        "id": "CA-FULL-CITATION-2",
+        "work_id": "title:kenneth perkins a history of modern tunisia",
+        "proposed_label": "Kenneth Perkins, A History of Modern Tunisia, 1st ed. (2004)",
+        "reason": "Make author/editor, full title and edition/year explicit; preserve existing citation IDs and source locators.",
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Kenneth Perkins, A History of Modern Tunisia, 1st ed. (2004)"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_cambridge_assets_20260910",
+      "correction_id": "CA-FULL-CITATION-3",
+      "requirement": "offered",
+      "source_file_sha256": "1589da89620d90fa9582ce196c0eedb127b6bab89773d646922d599642be7f43",
+      "reviewed_proposal": {
+        "id": "CA-FULL-CITATION-3",
+        "work_id": "title:ostler 2004 the plains sioux",
+        "proposed_label": "Jeffrey Ostler, The Plains Sioux and U.S. Colonialism from Lewis and Clark to Wounded Knee (2004)",
+        "reason": "Make author/editor, full title and edition/year explicit; preserve existing citation IDs and source locators.",
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Jeffrey Ostler, The Plains Sioux and U.S. Colonialism from Lewis and Clark to Wounded Knee (2004)"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_dergipark_20260910",
+      "correction_id": "DERGIPARK-PETKOVA-BYLINE",
+      "requirement": "required",
+      "source_file_sha256": "71673511f94d1aac420bdfc22c7bc8ecc99dcee3d6c9e2dbcb78e024c7f2949f",
+      "reviewed_proposal": {
+        "id": "DERGIPARK-PETKOVA-BYLINE",
+        "work_id": "title:g boykov et al the process of sedentarization of semi nomadic groups of the yoruks in parts of 16th century ottoman rumeli dergipark",
+        "existing_label": "G. Boykov et al., 'The Process of Sedentarization of Semi-nomadic Groups of the Yoruks in Parts of 16th Century Ottoman Rumeli' (DergiPark)",
+        "original_url": "https://dergipark.org.tr/en/download/article-file/906330",
+        "proposed_label": "Milena Petkova, “The Process of Sedentarization of Semi-nomadic Groups of the Yörüks in Parts of 16th Century Ottoman Rumeli: Migration Control or Tax Control?”, Journal of Balkan and Black Sea Studies (2019), pp. 25–43",
+        "proposed_url": "https://dergipark.org.tr/en/download/article-file/906330",
+        "basis": "Original PDF and publisher name Milena Petkova; the historical gapscan explicitly requested this correction before ingestion.",
+        "action": "Correct the display label at later integration; retain stable work ID, original recorded label, URL and occurrence provenance.",
+        "historical_acceptance_changed": false,
+        "status": "required_main_fact_checked_calibration_pending",
+        "main_disposition": "Use Milena Petkova and the full printed title in derived citation displays. The PDF and publisher agree, and the historical gapscan already warned of the wrong credit. Retain the original work ID and provenance.",
+        "application_scope": "Later derived bibliography/citation displays only. Never rewrite frozen source records or historical occurrence provenance.",
+        "current_registry_replacement_required": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_dergipark_20260910",
+      "correction_id": "DERGIPARK-TURGUT-BUNDLE-LABEL",
+      "requirement": "required",
+      "source_file_sha256": "71673511f94d1aac420bdfc22c7bc8ecc99dcee3d6c9e2dbcb78e024c7f2949f",
+      "reviewed_proposal": {
+        "id": "DERGIPARK-TURGUT-BUNDLE-LABEL",
+        "work_id": "access:ac0614e0a0b5276d9058",
+        "existing_label": "Opened the cited Alasdair C. Grant thesis at printed page 66 and pages 198-200; A. C. S. Peacock, Islam, Literature and Society in Mongol Anatolia, section The Formation of Islamic Anatolia, opening three paragraphs; Lazaridis et al., Medieval migrations into Anatolia and the Balkans and the Figure 4 discussion; and the Beihammer preview at pages 1 and 5-6 as a chronology boundary control. Three additional authoritative works were opened: Vedat Turgut on the Menteşe principality, especially printed pages 25-27 and 38-42; Raif Kaplanoğlu and Yusuf Kılıç on the non-Muslim population of Bursa and Bithynian settlement, especially printed pages 27-29 and the Bursa/Mudanya/Iznik/Izmit locality discussion; and Alasdair C. Grant, Byzantine Slavery and the Mediterranean World, especially printed pages 31-35 and 166-180. No fourth additional work was needed.",
+        "original_url": "https://dergipark.org.tr/tr/download/article-file/759937",
+        "proposed_label": "Vedat Turgut, “Menteşe Bey’in İsmi, Menşe’i ve Menteşeoğulları’nın Vakıflarına Dair”, Osmanlı Araştırmaları / The Journal of Ottoman Studies (2017), pp. 25–55",
+        "proposed_url": "https://dergipark.org.tr/tr/download/article-file/759937",
+        "basis": "The original title is a multi-work reading log, not this article’s bibliographic title. Preserve it as provenance while identifying this specific PDF.",
+        "action": "Correct the display label at later integration; retain stable work ID, original recorded label, URL and occurrence provenance.",
+        "historical_acceptance_changed": false,
+        "status": "required_main_fact_checked_calibration_pending",
+        "main_disposition": "Use Turgut’s actual article identity for the derived bibliography entry whose recorded title is a multi-work reading log. Preserve that log as provenance. The existing registry’s English title already identifies the article accurately and does not require a forced replacement.",
+        "application_scope": "Later derived bibliography/citation displays only. Never rewrite frozen source records or historical occurrence provenance.",
+        "current_registry_replacement_required": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "correction_id": "EM-CITATION-0",
+      "requirement": "required",
+      "source_file_sha256": "1e1e820db3549af54a88daa824b131c27e241668094b257797b3ba6b6d4c4cb8",
+      "reviewed_proposal": {
+        "id": "EM-CITATION-0",
+        "work_id": "access:14f5aa6d9726ba21b4cc",
+        "proposed_label": "TSUSHIMA Tomohiro, Changes in Ancient Emishi Society around Morioka as Revealed by Excavations at the Ooshima Site, The 21st Special Exhibition Explanation (copyright 2023; exhibition 7 October 2023–21 January 2024).",
+        "url": "https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/046/147/The21stSpecialExhibitionExplanation_Eng.pdf",
+        "historical_locator_changed": false,
+        "disposition": "required_year_correction",
+        "reason": "Use source-supported metadata at its typed role; retain original labels, URLs and occurrences.",
+        "original_year_line": 126
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "correction_id": "EM-CITATION-1",
+      "requirement": "offered",
+      "source_file_sha256": "1e1e820db3549af54a88daa824b131c27e241668094b257797b3ba6b6d4c4cb8",
+      "reviewed_proposal": {
+        "id": "EM-CITATION-1",
+        "work_id": "access:22ccce72987bbe57530f",
+        "proposed_label": "Takeshi ITO, Results of Excavations at the Akita Castle Site, Nihon Kokogaku(Journal of the Japanese Archaeological Association) 7(10), 2000-10-04, 127–137. DOI 10.11215/nihonkokogaku1994.7.10_127.",
+        "url": "https://www.jstage.jst.go.jp/article/nihonkokogaku1994/7/10/7_10_127/_article/-char/en",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use source-supported metadata at its typed role; retain original labels, URLs and occurrences."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "correction_id": "EM-CITATION-2",
+      "requirement": "offered",
+      "source_file_sha256": "1e1e820db3549af54a88daa824b131c27e241668094b257797b3ba6b6d4c4cb8",
+      "reviewed_proposal": {
+        "id": "EM-CITATION-2",
+        "work_id": "access:3add8330036837f18b14",
+        "proposed_label": "Ide Yasuo, The Emishi society and the trade system in the northern Tohoku district, Nihon Kokogaku(Journal of the Japanese Archaeological Association) 11(18), 2004-11-01, 111–130. DOI 10.11215/nihonkokogaku1994.11.18_111.",
+        "url": "https://www.jstage.jst.go.jp/article/nihonkokogaku1994/11/18/11_18_111/_article/-char/en",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use source-supported metadata at its typed role; retain original labels, URLs and occurrences."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "correction_id": "EM-CITATION-3",
+      "requirement": "offered",
+      "source_file_sha256": "1e1e820db3549af54a88daa824b131c27e241668094b257797b3ba6b6d4c4cb8",
+      "reviewed_proposal": {
+        "id": "EM-CITATION-3",
+        "work_id": "access:654f591ab791c847abcc",
+        "proposed_label": "徳丹城跡",
+        "url": "https://online.bunka.go.jp/heritages/detail/209480",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use source-supported metadata at its typed role; retain original labels, URLs and occurrences."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "correction_id": "EM-CITATION-4",
+      "requirement": "offered",
+      "source_file_sha256": "1e1e820db3549af54a88daa824b131c27e241668094b257797b3ba6b6d4c4cb8",
+      "reviewed_proposal": {
+        "id": "EM-CITATION-4",
+        "work_id": "access:663c94b574f728149cde",
+        "proposed_label": "Archeological study on forced emigration of Fushu or Ifu in the Japanese ancient times",
+        "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15K02987/",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use source-supported metadata at its typed role; retain original labels, URLs and occurrences."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "correction_id": "EM-CITATION-5",
+      "requirement": "offered",
+      "source_file_sha256": "1e1e820db3549af54a88daa824b131c27e241668094b257797b3ba6b6d4c4cb8",
+      "reviewed_proposal": {
+        "id": "EM-CITATION-5",
+        "work_id": "access:86329afc194ce715310b",
+        "proposed_label": "徳丹城跡 [030000108800] | 『日本歴史地名大系』施設・地点項目データセット",
+        "url": "https://geoshape.ex.nii.ac.jp/nrct-poi/resource/03/030000108800.html",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use source-supported metadata at its typed role; retain original labels, URLs and occurrences."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "correction_id": "EM-CITATION-6",
+      "requirement": "offered",
+      "source_file_sha256": "1e1e820db3549af54a88daa824b131c27e241668094b257797b3ba6b6d4c4cb8",
+      "reviewed_proposal": {
+        "id": "EM-CITATION-6",
+        "work_id": "access:e6d8c5aec86a86ebd1c6",
+        "proposed_label": "伊治城跡 [040000169200] | 『日本歴史地名大系』施設・地点項目データセット",
+        "url": "https://geoshape.ex.nii.ac.jp/nrct-poi/resource/04/040000169200.html",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use source-supported metadata at its typed role; retain original labels, URLs and occurrences."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_emishi_remaining_20260911",
+      "correction_id": "EM-CITATION-7",
+      "requirement": "offered",
+      "source_file_sha256": "1e1e820db3549af54a88daa824b131c27e241668094b257797b3ba6b6d4c4cb8",
+      "reviewed_proposal": {
+        "id": "EM-CITATION-7",
+        "work_id": "title:karl f friday pushing beyond the pale the yamato conquest of the emishi and northern japan journal of japanese studies 23 1 1997",
+        "proposed_label": "Karl F. Friday, Pushing beyond the Pale: The Yamato Conquest of the Emishi and Northern Japan, Journal of Japanese Studies 23(1), Winter 1997, 1–24. Society for Japanese Studies.",
+        "url": "https://religion-in-japan.univie.ac.at/k/img_auth.php/a/af/Friday_1997.pdf",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use source-supported metadata at its typed role; retain original labels, URLs and occurrences.",
+        "working_access_url": "https://religion-in-japan.univie.ac.at/k/images/a/af/Friday_1997.pdf"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_fordham_20260910",
+      "correction_id": "FD-EINHARD-SECTION-7",
+      "requirement": "offered",
+      "source_file_sha256": "e654bef2a54ca64e2108ca8246124b2783ddb424bf44fc9609abe4f52460f3b8",
+      "reviewed_proposal": {
+        "id": "FD-EINHARD-SECTION-7",
+        "work_id": "title:einhard life of charlemagne",
+        "proposed_label": "Einhard, The Life of Charlemagne, §7 (Saxon War), trans. Samuel Epes Turner (1880); Elbe removal passage",
+        "proposed_url": "https://sourcebooks.web.fordham.edu/basis/einhard.asp#Saxon%20War",
+        "reason": "Add an exact native section anchor to the existing work, preserving attribution and limits on the larger 804–c.811 event.",
+        "native_anchor_confirmed": "Saxon War",
+        "historical_acceptance_changed": false,
+        "current_registry_replacement_required": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Einhard, The Life of Charlemagne, §7 (Saxon War), trans. Samuel Epes Turner (1880); Elbe removal passage"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_fordham_20260910",
+      "correction_id": "FD-APPIAN-ANTHOLOGY-CREDIT",
+      "requirement": "offered",
+      "source_file_sha256": "e654bef2a54ca64e2108ca8246124b2783ddb424bf44fc9609abe4f52460f3b8",
+      "reviewed_proposal": {
+        "id": "FD-APPIAN-ANTHOLOGY-CREDIT",
+        "work_id": "url:sourcebooks.web.fordham.edu/ancient/appian-civwars1.asp",
+        "proposed_label": "Appian, Civil Wars 1.24, in The Civil Wars — On the Gracchi; excerpt from Oliver J. Thatcher (ed.), The Library of Original Sources, vol. III: The Roman World (1907), pp.77–89, hosted by the Internet Ancient History Sourcebook",
+        "proposed_url": "https://sourcebooks.web.fordham.edu/ancient/appian-civwars1.asp",
+        "reason": "Optional expanded access/anthology credit; the current Junonia label already identifies the correct locus and remains valid.",
+        "historical_acceptance_changed": false,
+        "current_registry_replacement_required": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Appian, Civil Wars 1.24, in The Civil Wars — On the Gracchi; excerpt from Oliver J. Thatcher (ed.), The Library of Original Sources, vol. III: The Roman World (1907), pp.77–89, hosted by the Internet Ancient History Sourcebook"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_global_press_batwa_20260910",
+      "correction_id": "GP-FULL-ARTICLE-CREDIT",
+      "requirement": "offered",
+      "source_file_sha256": "ffac851be94e526880d68bad2c82692bc30ae9fbfce41796ae69cbeefef83493",
+      "reviewed_proposal": {
+        "id": "GP-FULL-ARTICLE-CREDIT",
+        "work_ids": [
+          "title:court ruling brings hope to a displaced people global press journal"
+        ],
+        "proposed_label": "Edna Namara, “Court Ruling Brings Hope to a Displaced People,” Global Press Journal, 21 March 2022.",
+        "proposed_url": "https://globalpressjournal.com/africa/uganda/court-ruling-brings-hope-displaced-people/",
+        "source_locators": {
+          "ruling_and_appeal": "Paragraph beginning “Eight years after…” and following counsel/authority statements; derived lines 76–78.",
+          "implementation_limit": "Minority Rights Group warning; derived lines 81–82.",
+          "echuya_and_access_wishes": "Serutokyi’s attributed account and closing wishes; derived lines 89, 95–96.",
+          "translation": "Closing translation note; derived lines 98–99."
+        },
+        "reason": "Add verified author and publication date while preserving the news-reporting layer and recorded source history."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_hrw_20260909",
+      "correction_id": "bibliography_hrw_20260909:offered_refinements:0",
+      "requirement": "offered",
+      "source_file_sha256": "7aa814efa510e3340cb8bf85b1a7d6c00b358a217f9ffa4b2042d30cf5b01460",
+      "reviewed_proposal": {
+        "work_id": "title:human rights watch 2004 n iraq",
+        "kind": "optional_bibliographic_precision",
+        "proposal": "The current generic HRW 2004 (N. Iraq) label may be expanded to the full report title and both credited writers.",
+        "required": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_hrw_20260909",
+      "correction_id": "bibliography_hrw_20260909:offered_refinements:1",
+      "requirement": "offered",
+      "source_file_sha256": "7aa814efa510e3340cb8bf85b1a7d6c00b358a217f9ffa4b2042d30cf5b01460",
+      "reviewed_proposal": {
+        "work_id": "title:human rights watch 2009 syria",
+        "kind": "optional_bibliographic_precision",
+        "proposal": "The current generic HRW 2009 Syria label may be expanded to the full report title; do not select a preferred named writer.",
+        "required": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_hrw_20260909",
+      "correction_id": "bibliography_hrw_20260909:offered_refinements:2",
+      "requirement": "offered",
+      "source_file_sha256": "7aa814efa510e3340cb8bf85b1a7d6c00b358a217f9ffa4b2042d30cf5b01460",
+      "reviewed_proposal": {
+        "work_id": "title:human rights watch playing the communal card in sri lanka",
+        "kind": "optional_bibliographic_precision",
+        "proposal": "The case-specific Sri Lanka label may use the full global report title followed by Sri Lanka section.",
+        "required": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_iberia_journals_20260910",
+      "correction_id": "IJ-ACIEN-FULL-CREDIT",
+      "requirement": "offered",
+      "source_file_sha256": "5a33175001ecc8f3d78a6da554308d63ae375417f67a7fa33ee029915417a017",
+      "reviewed_proposal": {
+        "id": "IJ-ACIEN-FULL-CREDIT",
+        "work_ids": [
+          "access:1c2625ab0d475e3b178a",
+          "access:918f5e1f2a77b99c594a"
+        ],
+        "proposed_label": "Manuel Acién Almansa, “Poblamiento indígena en al-Andalus e indicios del primer poblamiento andalusí,” Al-Qanṭara 20(1) (1999), 47–64, doi:10.3989/alqantara.1999.v20.i1.451.",
+        "proposed_url": "https://al-qantara.revistas.csic.es/index.php/al-qantara/article/download/451/446/446",
+        "reason": "Full article identity across two retained access records; existing source-note citation is already substantially correct.",
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Manuel Acién Almansa, “Poblamiento indígena en al-Andalus e indicios del primer poblamiento andalusí,” Al-Qanṭara 20(1) (1999), 47–64, doi:10.3989/alqantara.1999.v20.i1.451."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_iberia_journals_20260910",
+      "correction_id": "IJ-KONIG-FULL-CREDIT",
+      "requirement": "offered",
+      "source_file_sha256": "5a33175001ecc8f3d78a6da554308d63ae375417f67a7fa33ee029915417a017",
+      "reviewed_proposal": {
+        "id": "IJ-KONIG-FULL-CREDIT",
+        "work_ids": [
+          "access:f1b23c42563afe922bf1"
+        ],
+        "proposed_label": "Daniel G. König, “713: The Treaty of Tudmīr as a Testimony to the Muslim Subjection of the Iberian Peninsula,” Transmediterranean History 2(1) (2020), 1–11, doi:10.18148/tmh/2020.2.1.24. Treaty translation at pp.1–2; Arabic source edition cited there remains mediated.",
+        "proposed_url": "https://ojs.ub.uni-konstanz.de/transmed/index.php/tmh/article/download/24/73/83",
+        "reason": "Add complete article page range and distinguish the translated source from its cited Arabic edition. Retain existing passage and transmission limits.",
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Daniel G. König, “713: The Treaty of Tudmīr as a Testimony to the Muslim Subjection of the Iberian Peninsula,” Transmediterranean History 2(1) (2020), 1–11, doi:10.18148/tmh/2020.2.1.24. Treaty translation at pp.1–2; Arabic source edition cited there remains mediated."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "correction_id": "JP-CITATION-1",
+      "requirement": "required",
+      "source_file_sha256": "f964b929ac836e6b9075dc6574fbda45dc96acc0673c38a64dc43751a2ed9554",
+      "reviewed_proposal": {
+        "id": "JP-CITATION-1",
+        "work_id": "access:317ff3c2e5b3b740b930",
+        "proposed_label": "Takehiro, Ryohei, Cognition of “Emishi” in the Eighth Century and its Change, Bulletin of the National Museum of Japanese History 84 (2000), 91–115. DOI 10.15024/00000932.",
+        "url": "https://rekihaku.repo.nii.ac.jp/record/949/files/kenkyuhokoku_084_05.pdf",
+        "historical_locator_changed": false,
+        "disposition": "required_title_correction",
+        "reason": "Use the document’s actual title and known metadata; keep original labels and URLs as provenance."
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "correction_id": "JP-CITATION-0",
+      "requirement": "offered",
+      "source_file_sha256": "f964b929ac836e6b9075dc6574fbda45dc96acc0673c38a64dc43751a2ed9554",
+      "reviewed_proposal": {
+        "id": "JP-CITATION-0",
+        "work_id": "access:20477f6d7ca402ed50a0",
+        "proposed_label": "100712-胆沢城跡; archaeological site record 100712. Date not stated.",
+        "url": "https://heritagemap.nabunken.go.jp/statistic/100712-%E8%83%86%E6%B2%A2%E5%9F%8E%E8%B7%A1/index.html",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the document’s actual title and known metadata; keep original labels and URLs as provenance."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "correction_id": "JP-CITATION-2",
+      "requirement": "offered",
+      "source_file_sha256": "f964b929ac836e6b9075dc6574fbda45dc96acc0673c38a64dc43751a2ed9554",
+      "reviewed_proposal": {
+        "id": "JP-CITATION-2",
+        "work_id": "access:50ae2a3a60bfb463e9a6",
+        "proposed_label": "Takehiro, Ryohei, Cognition of “Emishi” in the Eighth Century and its Change, Bulletin of the National Museum of Japanese History 84 (2000), 91–115. DOI 10.15024/00000932.",
+        "url": "https://rekihaku.repo.nii.ac.jp/records/949",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the document’s actual title and known metadata; keep original labels and URLs as provenance."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "correction_id": "JP-CITATION-3",
+      "requirement": "offered",
+      "source_file_sha256": "f964b929ac836e6b9075dc6574fbda45dc96acc0673c38a64dc43751a2ed9554",
+      "reviewed_proposal": {
+        "id": "JP-CITATION-3",
+        "work_id": "access:90effe518ca5ba0549e2",
+        "proposed_label": "Kumagai, Kimio, On the Emishi Riot in 720 and the Foundation of Taga Fort, Bulletin of the National Museum of Japanese History 84 (2000), 61–90. DOI 10.15024/00000931.",
+        "url": "https://rekihaku.repo.nii.ac.jp/records/948",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the document’s actual title and known metadata; keep original labels and URLs as provenance."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "correction_id": "JP-CITATION-4",
+      "requirement": "offered",
+      "source_file_sha256": "f964b929ac836e6b9075dc6574fbda45dc96acc0673c38a64dc43751a2ed9554",
+      "reviewed_proposal": {
+        "id": "JP-CITATION-4",
+        "work_id": "access:96683d0d748d6002fb18",
+        "proposed_label": "59040-志波城跡; archaeological site record 59040. Date not stated.",
+        "url": "https://heritagemap.nabunken.go.jp/statistic/59040-%E5%BF%97%E6%B3%A2%E5%9F%8E%E8%B7%A1.html",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the document’s actual title and known metadata; keep original labels and URLs as provenance."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "correction_id": "JP-CITATION-5",
+      "requirement": "offered",
+      "source_file_sha256": "f964b929ac836e6b9075dc6574fbda45dc96acc0673c38a64dc43751a2ed9554",
+      "reviewed_proposal": {
+        "id": "JP-CITATION-5",
+        "work_id": "access:9ba3c7903ca7561faf2e",
+        "proposed_label": "Kumagai, Kimio, On the Emishi Riot in 720 and the Foundation of Taga Fort, Bulletin of the National Museum of Japanese History 84 (2000), 61–90. DOI 10.15024/00000931.",
+        "url": "https://rekihaku.repo.nii.ac.jp/record/948/files/kenkyuhokoku_084_04.pdf",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the document’s actual title and known metadata; keep original labels and URLs as provenance."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "correction_id": "JP-CITATION-6",
+      "requirement": "offered",
+      "source_file_sha256": "f964b929ac836e6b9075dc6574fbda45dc96acc0673c38a64dc43751a2ed9554",
+      "reviewed_proposal": {
+        "id": "JP-CITATION-6",
+        "work_id": "access:b891bd4e70d1164ce187",
+        "proposed_label": "167927-秋田城跡第122次調査; archaeological site record 167927. Date not stated.",
+        "url": "https://heritagemap.nabunken.go.jp/statistic/167927-%E7%A7%8B%E7%94%B0%E5%9F%8E%E8%B7%A1%E7%AC%AC122%E6%AC%A1%E8%AA%BF%E6%9F%BB.html",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the document’s actual title and known metadata; keep original labels and URLs as provenance."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_japan_institutions_20260911",
+      "correction_id": "JP-CITATION-7",
+      "requirement": "offered",
+      "source_file_sha256": "f964b929ac836e6b9075dc6574fbda45dc96acc0673c38a64dc43751a2ed9554",
+      "reviewed_proposal": {
+        "id": "JP-CITATION-7",
+        "work_id": "access:fa5d0cd67bdf6802769d",
+        "proposed_label": "137986-多賀城跡; archaeological site record 137986. Date not stated.",
+        "url": "https://heritagemap.nabunken.go.jp/statistic/137986-%E5%A4%9A%E8%B3%80%E5%9F%8E%E8%B7%A1.html",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the document’s actual title and known metadata; keep original labels and URLs as provenance."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_jstor_20260910",
+      "correction_id": "b23_079e12b629f834",
+      "requirement": "offered",
+      "source_file_sha256": "11b1930d8a6be61955d691a1c512376884caeef7aaefefd6cf38a2183608c62a",
+      "reviewed_proposal": {
+        "citation_id": "b23_079e12b629f834",
+        "work_id": "title:hittite movement and resettlement synthesis",
+        "old_title": "Hittite movement and resettlement synthesis",
+        "proposed_title": "Fred C. Woudhuizen, The Luwians of Western Anatolia: Their Neighbours and Predecessors (2018), chapter 5, “Western Anatolia under Hittite Rule,” pp. 74–87",
+        "classification": "offered_identity_expansion",
+        "reason": "The current generic label is not false. Container author, chapter title, year and page range are visible in book metadata; full chapter has not been newly checked.",
+        "url_unchanged": true,
+        "applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_landry_20260910",
+      "correction_id": "LD-FULL-ARTICLE-CREDIT",
+      "requirement": "offered",
+      "source_file_sha256": "2936af796ada2dc451bd1e494134e217785ed844265153de6c6dca1a089f438f",
+      "reviewed_proposal": {
+        "id": "LD-FULL-ARTICLE-CREDIT",
+        "work_ids": [
+          "access:e55141b13c3a93cacce5",
+          "title:material culture review the acadian refugee settlement of saint pierre and miquelon"
+        ],
+        "proposed_label": "Nicolas Landry, “Les dossiers personnels des réfugiés de l’île-Royale et de Saint-Pierre-et-Miquelon au Ministère de la Marine et des Colonies, 1763–1815,” Material Culture Review / Revue de la culture matérielle 86 (Fall 2017), 48–64; online publication displayed 22 July 2019; doi:10.7202/1062474ar.",
+        "proposed_url": "https://journals.lib.unb.ca/index.php/MCR/article/download/29272/1882524451/1882524154",
+        "case_locators": {
+          "prospective-saint-pierre-miquelon-british-deportation-1778": "Printed p.57 and p.61 n.23: removal to France and particular 1783 re-establishment intentions, not a return census.",
+          "prospective-saint-pierre-miquelon-british-deportation-1793-1815": "Printed p.48: disclosed 1791 conflict; current 1793 decision depends on the case’s other sources."
+        },
+        "reason": "Full article identification and precise case-specific locators for later integration. No changed historical decision or required current-source replacement is identified.",
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Nicolas Landry, “Les dossiers personnels des réfugiés de l’île-Royale et de Saint-Pierre-et-Miquelon au Ministère de la Marine et des Colonies, 1763–1815,” Material Culture Review / Revue de la culture matérielle 86 (Fall 2017), 48–64; online publication displayed 22 July 2019; doi:10.7202/1062474ar."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_livius_20260910",
+      "correction_id": "LIVIUS-PERIOCHAE-SALASSIAN-LOCATOR",
+      "requirement": "offered",
+      "source_file_sha256": "259d192e5cb1adec8a2aeae912472838267719c9ff62812e320478f02d540758",
+      "reviewed_proposal": {
+        "id": "LIVIUS-PERIOCHAE-SALASSIAN-LOCATOR",
+        "work_id": "url:livius.org/sources/content/livy/livy-periochae-51-55",
+        "existing_label": "Primary source 1: livius.org",
+        "proposed_label": "Livy, Periochae 53.1 (Jona Lendering translation)",
+        "original_url": "https://www.livius.org/sources/content/livy/livy-periochae-51-55/",
+        "proposed_url": "https://www.livius.org/sources/content/livy/livy-periochae-51-55/#53.1",
+        "html_source_sha256": "ca494070e25e05900a01f053a2d62b4dfa54577d367cffc578385cee8da0e81c",
+        "basis": "The existing page is appropriate; the explicit label and observed section ID improve navigation. The fragment has not been tested in a browser.",
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Retain the existing appropriate source; offer the explicit Periochae 53.1 label and observed HTML fragment for navigation. The original occurrence is preserved and browser jump behavior is untested."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_loc_20260910",
+      "correction_id": "LOC-CAMODECA-CITATION-LABEL",
+      "requirement": "required",
+      "source_file_sha256": "0888c2e295b077f13dca0e205a5cffeba35705a3a228465b1bc68bb9c7a0e3f0",
+      "reviewed_proposal": {
+        "id": "LOC-CAMODECA-CITATION-LABEL",
+        "work_id": "access:ea18db86947acb8335c6",
+        "original_label": "Giuseppe Camodeca, for early colonial interpretation and the accessible c. 80–70 BCE inscriptional date range",
+        "proposed_label": "Giuseppe Camodeca, “Le élites cittadine della Campania romana: dinamiche politiche e sociali dalla documentazione epigrafica,” in Epigrafia e politica (2017); Nola discussion, pp. 198–200",
+        "original_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/78/35/2020717835/2020717835.pdf",
+        "proposed_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/78/35/2020717835/2020717835.pdf",
+        "current_registry_replacement_required": true,
+        "reason": "Replace a description that assigns an unlocated precise inscriptional range to this chapter with its actual identity and located scope. The narrative range remains a separate source question.",
+        "application_scope": "Later derived bibliography and registry display; preserve original frozen provenance.",
+        "historical_acceptance_changed": false,
+        "status": "required_main_fact_checked_calibration_pending",
+        "main_disposition": "Giuseppe Camodeca, “Le élites cittadine della Campania romana: dinamiche politiche e sociali dalla documentazione epigrafica,” in Epigrafia e politica (2017); Nola discussion, pp. 198–200"
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "b47_nola_camodeca_a3369fa58c",
+          "before": {
+            "title": "Giuseppe Camodeca, for early colonial interpretation and the accessible c. 80–70 BCE inscriptional date range",
+            "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/78/35/2020717835/2020717835.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "Giuseppe Camodeca, “Le élites cittadine della Campania romana: dinamiche politiche e sociali dalla documentazione epigrafica,” in Epigrafia e politica (2017); Nola discussion, pp. 198–200",
+            "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/78/35/2020717835/2020717835.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "access:ea18db86947acb8335c6"
+          ],
+          "correction_id": "LOC-CAMODECA-CITATION-LABEL",
+          "review_id": "bibliography_loc_20260910"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_loc_20260910",
+      "correction_id": "LOC-THEIN-PDF-OFFSET",
+      "requirement": "required",
+      "source_file_sha256": "0888c2e295b077f13dca0e205a5cffeba35705a3a228465b1bc68bb9c7a0e3f0",
+      "reviewed_proposal": {
+        "id": "LOC-THEIN-PDF-OFFSET",
+        "work_id": "access:a18b14a44f3e9cac4fc2",
+        "original_label": "Nola PDF pp. 94–96; Volaterrae PDF pp. 92–95",
+        "proposed_label": "For this LOC PDF: Nola printed pp. 87–89 = physical pp. 95–97; Volaterrae printed pp. 85–88 = physical pp. 93–96",
+        "original_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/86/62/2020718662/2020718662.pdf",
+        "proposed_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/86/62/2020718662/2020718662.pdf",
+        "current_registry_replacement_required": false,
+        "reason": "The notes give one-page-low physical offsets; preserve their correct printed page references.",
+        "application_scope": "Later annotated source-note locator correction for this specific PDF. No frozen source-note rewrite.",
+        "historical_acceptance_changed": false,
+        "status": "required_main_fact_checked_calibration_pending",
+        "main_disposition": "For this LOC PDF: Nola printed pp. 87–89 = physical pp. 95–97; Volaterrae printed pp. 85–88 = physical pp. 93–96"
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_loc_20260910",
+      "correction_id": "LOC-MIGRATION-CHAPTER-LOCATOR",
+      "requirement": "offered",
+      "source_file_sha256": "0888c2e295b077f13dca0e205a5cffeba35705a3a228465b1bc68bb9c7a0e3f0",
+      "reviewed_proposal": {
+        "id": "LOC-MIGRATION-CHAPTER-LOCATOR",
+        "work_id": "title:migration histories of the medieval afroeurasian transition zone",
+        "proposed_label": "Yannis Stouraitis, “Migrating in the Medieval East Roman World, ca. 600–1204,” pp. 154–155 (physical PDF 169–170), in Migration Histories (2020)",
+        "chapter_doi": "10.1163/9789004425613_006",
+        "reason": "Add an exact chapter and locus to the retained whole-volume identity; no new event decision.",
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Yannis Stouraitis, “Migrating in the Medieval East Roman World, ca. 600–1204,” pp. 154–155 (physical PDF 169–170), in Migration Histories (2020)"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "correction_id": "MRG-SAHARAWIS-BROKEN-LINK",
+      "requirement": "required",
+      "source_file_sha256": "5db865da108b69f321c5d0c60a4c2e7835cddafbdf3b81692ed3b8501221f278",
+      "reviewed_proposal": {
+        "id": "MRG-SAHARAWIS-BROKEN-LINK",
+        "work_id": "title:minority rights group sahrawis",
+        "existing_label": "Minority Rights Group, “Sahrawis”",
+        "original_url": "https://minorityrights.org/communities/saharawis/",
+        "proposed_label": "Minority Rights Group, “Western Sahara” (updated November 2025)",
+        "proposed_url": "https://minorityrights.org/country/western-sahara/",
+        "action": "Repair unavailable public access by explicitly replacing this citation with the separately identified country profile, subject to main review and later publication integration. Retain the original historical work record and occurrences; assign/reconcile the replacement identity during integration.",
+        "basis": "Direct HTTP 404 and browser error; separately titled live country page covers the cited broad settlement/flight background and historical registration list. It is not an unchanged mirror.",
+        "historical_acceptance_changed": false,
+        "status": "required_main_fact_checked_calibration_pending",
+        "main_disposition": "The public citation needs a working access route. Accept the separately titled Western Sahara country profile as a proposed replacement at the specified date and scope, with explicit replacement identity reconciliation during integration. Preserve the old work record and historical occurrences; do not transplant the country update date or change historical claims silently."
+      },
+      "integration_disposition": "include_required_repair",
+      "replacement_identity": "replacement:minorityrights.org/country/western-sahara/",
+      "registry_changes": [
+        {
+          "citation_id": "mrg_sahrawis",
+          "before": {
+            "title": "Minority Rights Group, “Sahrawis”",
+            "url": "https://minorityrights.org/communities/saharawis/",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "Minority Rights Group, “Western Sahara” (updated November 2025)",
+            "url": "https://minorityrights.org/country/western-sahara/",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "title:minority rights group sahrawis"
+          ],
+          "correction_id": "MRG-SAHARAWIS-BROKEN-LINK",
+          "review_id": "bibliography_minority_rights_20260910"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "correction_id": "MRG-BALUCHIS-EXACT-TITLE",
+      "requirement": "offered",
+      "source_file_sha256": "5db865da108b69f321c5d0c60a4c2e7835cddafbdf3b81692ed3b8501221f278",
+      "reviewed_proposal": {
+        "id": "MRG-BALUCHIS-EXACT-TITLE",
+        "work_id": "title:minority rights group baluchis in afghanistan and the cross border region",
+        "existing_label": "Minority Rights Group, Baluchis in Afghanistan and the cross-border region",
+        "proposed_label": "Minority Rights Group, “Baluchis in Afghanistan”",
+        "original_url": "https://minorityrights.org/communities/baluchis/",
+        "proposed_url": "https://minorityrights.org/communities/baluchis/",
+        "basis": "Make the exact profile title explicit; the existing broad label is recognizable and is not a wrong-document finding.",
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Offer the exact displayed profile title. Retain the original URL and historical occurrence; this is a clarity refinement, not a wrong-source finding."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_minority_rights_20260910",
+      "correction_id": "MRG-MONGOLS-EXACT-TITLE",
+      "requirement": "offered",
+      "source_file_sha256": "5db865da108b69f321c5d0c60a4c2e7835cddafbdf3b81692ed3b8501221f278",
+      "reviewed_proposal": {
+        "id": "MRG-MONGOLS-EXACT-TITLE",
+        "work_id": "title:minority rights group mongols",
+        "existing_label": "Minority Rights Group, “Mongols”",
+        "proposed_label": "Minority Rights Group, “Mongols in China” (updated November 2017)",
+        "original_url": "https://minorityrights.org/communities/mongols/",
+        "proposed_url": "https://minorityrights.org/communities/mongols/",
+        "basis": "Make the exact profile title and displayed content update explicit; the existing broad label is recognizable and is not a wrong-document finding.",
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Offer the exact displayed profile title and November 2017 content date. Retain the original URL and historical occurrence; this is a clarity refinement, not a wrong-source finding."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_mozarabic_chronicle_20260910",
+      "correction_id": "MC-TRANSLATION-CREDIT",
+      "requirement": "offered",
+      "source_file_sha256": "d2b7a1b3a9f2f3c6e9c5d4761390c7b8f0c79ff86ddb9fac2683379479f86902",
+      "reviewed_proposal": {
+        "id": "MC-TRANSLATION-CREDIT",
+        "work_id": "access:9e7a4f7ce287d8533fec",
+        "kind": "offered_translation_version_and_locator_precision",
+        "proposed_url": "https://www.aymennjawad.org/23270/the-mozarabic-chronicle-full-translation",
+        "proposed_label": "Anonymous, Chronicle of 754 (Mozarabic Chronicle), English translation and analysis by Aymenn Jawad Al-Tamimi, published 22 September 2019; translation revised 28 June 2024. For the 711–c.716 event, use the Muze/Taric/Rudericus through Abdellazis-death notices; Gil §§45–51 remain a mediated, unverified bridge.",
+        "reason": "Add distinct translator/version credit and a stable named-notice locator during later integration. Current source/register scope is already qualified.",
+        "publication_applied": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Anonymous, Chronicle of 754 (Mozarabic Chronicle), English translation and analysis by Aymenn Jawad Al-Tamimi, published 22 September 2019; translation revised 28 June 2024. For the 711–c.716 event, use the Muze/Taric/Rudericus through Abdellazis-death notices; Gil §§45–51 remain a mediated, unverified bridge."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_mukasa_deusto_20260910",
+      "correction_id": "MD-FULL-ARTICLE-CREDIT",
+      "requirement": "offered",
+      "source_file_sha256": "8716abab39b1f55434ba535587f8c3dbd42f1899a9e29e21ff8ef7aadaaa5584",
+      "reviewed_proposal": {
+        "id": "MD-FULL-ARTICLE-CREDIT",
+        "work_ids": [
+          "title:the batwa indigenous people in uganda and their detachment from forest livelihood land eviction and social plight deusto journal of human rights"
+        ],
+        "proposed_label": "Norman Mukasa, “The Batwa Indigenous People in Uganda and their Detachment from Forest Livehood: Land Eviction and Social Plight.” Anuario de Acción Humanitaria y Derechos Humanos / Yearbook on Humanitarian Action and Human Rights 10 (2012), 71–84. Online publication displayed 11 December 2017 at Deusto Journal of Human Rights. doi:10.18543/aahdh-0-2012pp71-84.",
+        "proposed_url": "https://djhr.revistas.deusto.es/article/view/1000",
+        "source_locators": {
+          "method": "Printed pp.71–73: abstract and section 1.2 literature-review method.",
+          "geography": "Printed p.73, Figure 1: regional location context, not shared event proof.",
+          "park_dates": "Printed p.78, Table 1; section 1.5 starts p.77. Source-reported May and 13 August 1991 resolutions, not all-household eviction dates.",
+          "aftermath": "Printed pp.78–79 distinguish the 1991 removal from later funding and selective compensation."
+        },
+        "reason": "Exact printed title, original issue/journal and distinct online date, with precise locators for later citation integration. No immutable source-history rewrite or new historical decision.",
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Norman Mukasa, “The Batwa Indigenous People in Uganda and their Detachment from Forest Livehood: Land Eviction and Social Plight.” Anuario de Acción Humanitaria y Derechos Humanos / Yearbook on Humanitarian Action and Human Rights 10 (2012), 71–84. Online publication displayed 11 December 2017 at Deusto Journal of Human Rights. doi:10.18543/aahdh-0-2012pp71-84."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_myanmar_un_20260911",
+      "correction_id": "MM-CITATION-0",
+      "requirement": "required",
+      "source_file_sha256": "b5a17ae912fcf8bb3fbd7f528bd28282a117cd4fbbd6d5d7601aaffd64bf075c",
+      "reviewed_proposal": {
+        "id": "MM-CITATION-0",
+        "work_id": "access:6b2d0f832e3ef0883b3d",
+        "proposed_label": "Reuben Lim Wende and Yin Yin Myint, Displaced families in crisis-hit Myanmar struggle for survival (UNHCR, 21 February 2022).",
+        "url": "https://myanmar.un.org/en/172847-displaced-families-crisis-hit-myanmar-struggle-survival",
+        "reason": "Identify the actual linked work; retain the original multi-work label and separate works as provenance.",
+        "historical_locator_changed": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_myanmar_un_20260911",
+      "correction_id": "MM-CITATION-1",
+      "requirement": "required",
+      "source_file_sha256": "b5a17ae912fcf8bb3fbd7f528bd28282a117cd4fbbd6d5d7601aaffd64bf075c",
+      "reviewed_proposal": {
+        "id": "MM-CITATION-1",
+        "work_id": "access:8840015091528104460a",
+        "proposed_label": "OCHA Myanmar, Myanmar Humanitarian Update No. 45 (28 March 2025).",
+        "url": "https://myanmar.un.org/en/291781-myanmar-humanitarian-update-no-45",
+        "reason": "Identify the actual linked work; retain the original multi-work label and separate works as provenance.",
+        "historical_locator_changed": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_myanmar_un_20260911",
+      "correction_id": "MM-CITATION-2",
+      "requirement": "required",
+      "source_file_sha256": "b5a17ae912fcf8bb3fbd7f528bd28282a117cd4fbbd6d5d7601aaffd64bf075c",
+      "reviewed_proposal": {
+        "id": "MM-CITATION-2",
+        "work_id": "access:924fdbd44d2840f80551",
+        "proposed_label": "OCHA, Myanmar: Escalation of clashes in northern Shan and the Northwest, Flash Update 3 (as of 9 November 2023; posted 10 November 2023).",
+        "url": "https://myanmar.un.org/en/252437-myanmar-escalation-clashes-northern-shan-and-northwest-flash-update-3",
+        "reason": "Identify the actual linked work; retain the original multi-work label and separate works as provenance.",
+        "historical_locator_changed": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_myanmar_un_20260911",
+      "correction_id": "MM-CITATION-3",
+      "requirement": "required",
+      "source_file_sha256": "b5a17ae912fcf8bb3fbd7f528bd28282a117cd4fbbd6d5d7601aaffd64bf075c",
+      "reviewed_proposal": {
+        "id": "MM-CITATION-3",
+        "work_id": "access:9959e2592f39f5c3da71",
+        "proposed_label": "OCHA Myanmar, Myanmar Humanitarian Update No. 42 (27 November 2024), p. 3.",
+        "url": "https://myanmar.un.org/sites/default/files/2024-11/OCHA%20Myanmar%20-%20Humanitarian%20Update%20No.%2042_%20final.pdf",
+        "reason": "Identify the actual linked work; retain the original multi-work label and separate works as provenance.",
+        "historical_locator_changed": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_nature_20260909",
+      "correction_id": "b19_5258a144510b03",
+      "requirement": "required",
+      "source_file_sha256": "f5fd4db29da33ff2def211fd86f4af97d843493d9b71038975f8115fe9074d94",
+      "reviewed_proposal": {
+        "citation_id": "b19_5258a144510b03",
+        "work_id": "access:a62ecae8e1b52b7db889",
+        "before": "‘Exploring Genomic Population Structure and Admixture in Ancient Southeast Asians,’ genomic-formation section and fig. 5",
+        "after": "‘Exploring the genomic population structure and history of Austroasiatic speakers in Mainland Southeast Asia’, genomic-formation section and fig. 5",
+        "url": "https://www.nature.com/articles/s42003-025-09471-0",
+        "kind": "required_exact_title_correction",
+        "reason": "Recorded title differs from the exact title on the linked publisher article; the original locator remains separately unverified provenance.",
+        "source": "SOURCE_OBSERVATIONS.json record 0; publisher citation_title and About this article",
+        "historical_passage_acceptance": false,
+        "application_status": "proposed_not_applied"
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "b19_5258a144510b03",
+          "before": {
+            "title": "‘Exploring Genomic Population Structure and Admixture in Ancient Southeast Asians,’ genomic-formation section and fig. 5",
+            "url": "https://www.nature.com/articles/s42003-025-09471-0",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "‘Exploring the genomic population structure and history of Austroasiatic speakers in Mainland Southeast Asia’, genomic-formation section and fig. 5",
+            "url": "https://www.nature.com/articles/s42003-025-09471-0",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "access:a62ecae8e1b52b7db889"
+          ],
+          "correction_id": "b19_5258a144510b03",
+          "review_id": "bibliography_nature_20260909"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_ohchr_20260911",
+      "correction_id": "OH-CITATION-0",
+      "requirement": "offered",
+      "source_file_sha256": "2142f17f98506e92362cec0bcd43fca6276a58931c38a5c2996c0dd817b8a91d",
+      "reviewed_proposal": {
+        "id": "OH-CITATION-0",
+        "work_id": "title:ohchr forced displacement from ukrainian territory occupied by the russian federation 20222025",
+        "proposed_label": "Office of the United Nations High Commissioner for Human Rights, Forced displacement from territory of Ukraine occupied by the Russian Federation: forcible transfer and deportation, barriers to return, and the rights of internally displaced persons, 20 March 2026 (coverage 24 February 2022–31 December 2025).",
+        "url": "https://ukraine.ohchr.org/en/Forced-displacement-from-territory-of-Ukraine-occupied-by-the-Russian-Federation",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the exact document identity/date and retain the original access identity and descriptive subject separately."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_ohchr_20260911",
+      "correction_id": "OH-CITATION-1",
+      "requirement": "offered",
+      "source_file_sha256": "2142f17f98506e92362cec0bcd43fca6276a58931c38a5c2996c0dd817b8a91d",
+      "reviewed_proposal": {
+        "id": "OH-CITATION-1",
+        "work_id": "title:ohchr special procedures communication on executions of baluch people in iran",
+        "proposed_label": "UN Special Procedures, UA IRN 6/2021, 2021-02-22 (urgent appeal).",
+        "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=26041",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the exact document identity/date and retain the original access identity and descriptive subject separately."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_ohchr_20260911",
+      "correction_id": "OH-CITATION-2",
+      "requirement": "offered",
+      "source_file_sha256": "2142f17f98506e92362cec0bcd43fca6276a58931c38a5c2996c0dd817b8a91d",
+      "reviewed_proposal": {
+        "id": "OH-CITATION-2",
+        "work_id": "title:un committee on economic social and cultural rights operation wuambushu in mayotte",
+        "proposed_label": "Committee on Economic, Social and Cultural Rights, Concluding observations on the fifth periodic report of France, E/C.12/FRA/CO/5, 30 October 2023, paragraphs 44–45 (Operation Wuambushu).",
+        "url": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=Dw%2FT%2B56ChzrNf3eawJB3qMS4BdxMyi%2FVIM7FHpszZRmMtV6dZYdsY4DT7KwtoVlUMp2jehy%2B9v8h39BaP16FTQ%3D%3D",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the exact document identity/date and retain the original access identity and descriptive subject separately."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_ohchr_20260911",
+      "correction_id": "OH-CITATION-3",
+      "requirement": "offered",
+      "source_file_sha256": "2142f17f98506e92362cec0bcd43fca6276a58931c38a5c2996c0dd817b8a91d",
+      "reviewed_proposal": {
+        "id": "OH-CITATION-3",
+        "work_id": "title:un human rights 2024 crimea",
+        "proposed_label": "United Nations Human Rights Monitoring Mission in Ukraine, Russian Federation’s decade-long occupation of Crimea marked by widespread violations, 28 February 2024 (press release).",
+        "url": "https://ukraine.ohchr.org/en/Russian-Federation%E2%80%99s-decade-long-occupation-of-Crimea-marked-by-widespread-violations",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the exact document identity/date and retain the original access identity and descriptive subject separately."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_ohchr_20260911",
+      "correction_id": "OH-CITATION-4",
+      "requirement": "offered",
+      "source_file_sha256": "2142f17f98506e92362cec0bcd43fca6276a58931c38a5c2996c0dd817b8a91d",
+      "reviewed_proposal": {
+        "id": "OH-CITATION-4",
+        "work_id": "title:un special procedures communication on bedouin displacement in the negev naqab",
+        "proposed_label": "UN Special Procedures, AL ISR 23/2024, 2024-12-17 (allegation letter).",
+        "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=29575",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the exact document identity/date and retain the original access identity and descriptive subject separately."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_ohchr_20260911",
+      "correction_id": "OH-CITATION-5",
+      "requirement": "offered",
+      "source_file_sha256": "2142f17f98506e92362cec0bcd43fca6276a58931c38a5c2996c0dd817b8a91d",
+      "reviewed_proposal": {
+        "id": "OH-CITATION-5",
+        "work_id": "title:un special procedures communication on tibetan residential schools",
+        "proposed_label": "UN Special Procedures, AL CHN 6/2022, 2022-11-11 (allegation letter).",
+        "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=27444",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Use the exact document identity/date and retain the original access identity and descriptive subject separately."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_openedition_20260910",
+      "correction_id": "b47_nola_cil_fe7f15fa3f",
+      "requirement": "required",
+      "source_file_sha256": "4541663eb2aa20f60cd047feeafb2f75a2eaad636be557e0c06ec255906f5311",
+      "reviewed_proposal": {
+        "citation_id": "b47_nola_cil_fe7f15fa3f",
+        "work_id": "access:d21fd8295b70f2423e38",
+        "old_title": "CIL X 1236 = CIL I² 3127 = ILLRP 116, as reproduced by Thierry Jacotot, for independent attestation of a colony and colonists at Nola",
+        "proposed_title": "CIL X 1236 = CIL I² 3127 = ILLRP 116, as reproduced by Mathieu Jacotot, for independent attestation of a colony and colonists at Nola",
+        "classification": "required_author_name_correction",
+        "reason": "The generated chapter/book citations and PDF cover name Mathieu Jacotot; the existing source note already uses Mathieu. Correct only the mistaken given name; retain historical qualifications and inscription aliases at prior status.",
+        "url_unchanged": true,
+        "applied": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "b47_nola_cil_fe7f15fa3f",
+          "before": {
+            "title": "CIL X 1236 = CIL I² 3127 = ILLRP 116, as reproduced by Thierry Jacotot, for independent attestation of a colony and colonists at Nola",
+            "url": "https://books.openedition.org/efr/5500?lang=fr",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "CIL X 1236 = CIL I² 3127 = ILLRP 116, as reproduced by Mathieu Jacotot, for independent attestation of a colony and colonists at Nola",
+            "url": "https://books.openedition.org/efr/5500?lang=fr",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "access:d21fd8295b70f2423e38"
+          ],
+          "correction_id": "b47_nola_cil_fe7f15fa3f",
+          "review_id": "bibliography_openedition_20260910"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_openedition_20260910",
+      "correction_id": "b47_nola_cil_fe7f15fa3f",
+      "requirement": "offered",
+      "source_file_sha256": "4541663eb2aa20f60cd047feeafb2f75a2eaad636be557e0c06ec255906f5311",
+      "reviewed_proposal": {
+        "citation_id": "b47_nola_cil_fe7f15fa3f",
+        "work_id": "access:d21fd8295b70f2423e38",
+        "old_url": "https://books.openedition.org/efr/5500?lang=fr",
+        "proposed_url": "https://books.openedition.org/efr/5494",
+        "classification": "offered_direct_reproduction_locator",
+        "reason": "The existing chapter 8 link correctly points to the work and note 95 cites CIL X 1236 = ILLRP I 116. Chapter 5 paragraph 20 contains the actual inscription and translation, also cited as a PDF in the existing source note; offer a more direct reading link without labelling the existing reference false.",
+        "applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_openedition_20260910",
+      "correction_id": "v5_roman_salassi_openedition",
+      "requirement": "offered",
+      "source_file_sha256": "4541663eb2aa20f60cd047feeafb2f75a2eaad636be557e0c06ec255906f5311",
+      "reviewed_proposal": {
+        "citation_id": "v5_roman_salassi_openedition",
+        "work_id": "url:books.openedition.org/pccj/120?format=embed",
+        "old_title": "OpenEdition archaeological and historical study of the Salassi and Eporedia",
+        "proposed_title": "Maxence Segard, Chapitre II. Les villes alpines : centres des changements socio-économiques des populations alpines (2009), pp. 34–91",
+        "classification": "offered_identity_expansion",
+        "reason": "Existing short subject label is not contradicted. Exact chapter identity improves discovery; historical passage acceptance remains unchanged.",
+        "url_unchanged": true,
+        "applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_openedition_20260910",
+      "correction_id": "b17_d6613b8ac288d5",
+      "requirement": "offered",
+      "source_file_sha256": "4541663eb2aa20f60cd047feeafb2f75a2eaad636be557e0c06ec255906f5311",
+      "reviewed_proposal": {
+        "citation_id": "b17_d6613b8ac288d5",
+        "work_id": "url:books.openedition.org/psorbonne/23968?lang=fr",
+        "old_title": "OpenEdition study of Narbo Martius and its colonial territory",
+        "proposed_title": "André Chastagnol, Les cités de la gaule narbonnaise les statuts (1997), pp. 51–73",
+        "classification": "offered_identity_expansion",
+        "reason": "Existing short subject label is not contradicted. Exact chapter identity improves discovery; historical passage acceptance remains unchanged.",
+        "url_unchanged": true,
+        "applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_openedition_20260910",
+      "correction_id": "b17_f26e3e46f8b3c7",
+      "requirement": "offered",
+      "source_file_sha256": "4541663eb2aa20f60cd047feeafb2f75a2eaad636be557e0c06ec255906f5311",
+      "reviewed_proposal": {
+        "citation_id": "b17_f26e3e46f8b3c7",
+        "work_id": "url:books.openedition.org/psorbonne/23968?lang=fr",
+        "old_title": "OpenEdition study of Narbo Martius and its colonial territory",
+        "proposed_title": "André Chastagnol, Les cités de la gaule narbonnaise les statuts (1997), pp. 51–73",
+        "classification": "offered_identity_expansion",
+        "reason": "Existing short subject label is not contradicted. Exact chapter identity improves discovery; historical passage acceptance remains unchanged.",
+        "url_unchanged": true,
+        "applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_openedition_20260910",
+      "correction_id": "b15_venusia_openedition",
+      "requirement": "offered",
+      "source_file_sha256": "4541663eb2aa20f60cd047feeafb2f75a2eaad636be557e0c06ec255906f5311",
+      "reviewed_proposal": {
+        "citation_id": "b15_venusia_openedition",
+        "work_id": "url:books.openedition.org/pur/199839",
+        "old_title": "OpenEdition, Venusia and its colonial territory",
+        "proposed_title": "Ella Hermon, Des communautés distinctes sur le même territoire : quelle fut la réalité des incolae ? (2007), pp. 25–42",
+        "classification": "offered_identity_expansion",
+        "reason": "Existing short subject label is not contradicted. Exact chapter identity improves discovery; historical passage acceptance remains unchanged.",
+        "url_unchanged": true,
+        "applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_oup_academic_20260910",
+      "correction_id": "modern_algeria_exodus",
+      "requirement": "offered",
+      "source_file_sha256": "b28cd45a91c7a72e1e6aa2e0d523b02abebdd3e5440351d5a9a37fb3fa4aafba",
+      "reviewed_proposal": {
+        "citation_id": "modern_algeria_exodus",
+        "work_id": "title:from empire to exile pied noir and harki communities 19622012",
+        "old_title": "From Empire to Exile: Pied-Noir and Harki Communities, 1962–2012",
+        "proposed_title": "Claire Eldridge, From Empire to Exile: History and Memory Within the Pied-Noir and Harki Communities, 1962-2012 (2016)",
+        "classification": "offered_identity_expansion",
+        "reason": "Existing shortened subject/title label identifies the intended book; the full subtitle and author improve discovery without treating that label as false. The record remains inactive/unassigned, with no new atlas admission.",
+        "url_unchanged": true,
+        "applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_phi_latin_20260910",
+      "correction_id": "PHI-VOLATERRAE-WEB-PAGINATION",
+      "requirement": "offered",
+      "source_file_sha256": "3f828c4e3a258184256c337db5665ae5d5d84f29e0e4525e612029f92c8896e4",
+      "reviewed_proposal": {
+        "id": "PHI-VOLATERRAE-WEB-PAGINATION",
+        "work_id": "access:978988fc46ccb575dc9e",
+        "source_file": "analysis/second_pass/v6/ATLAS_AUTHORING_BATCH_47_VOLATERRAE_SOURCE_NOTES.md",
+        "source_sha256": "9f6371d0d13f2cfc6c57362fbe8cd5a108391f8384a5c77ec95b5229cb946bf1",
+        "existing_text": "Granius Licinianus, Book 36, Criniti p. 32, lines 8–10:",
+        "proposed_text": "Granius Licinianus, Book 36.8–10; Attalus red page 32 (Flemisch pagination):",
+        "basis": "The cited web display assigns its red pagination to Flemisch. The physical Criniti page has not been inspected; this is an offered web-locator clarification, not a claim that its printing has been disproved.",
+        "current_cases": [],
+        "historical_acceptance_changed": false,
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Offer the explicit web-pagination description; do not call the uninspected physical Criniti page false. Retain the historical note and its present wording until application is separately prepared."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_plos_batwa_20260910",
+      "correction_id": "PB-FULL-ARTICLE-CREDIT",
+      "requirement": "offered",
+      "source_file_sha256": "67af6a78d62f41f9a7b314912ff5b599d22e79a6057ad3413dcb16d88a5267ce",
+      "reviewed_proposal": {
+        "id": "PB-FULL-ARTICLE-CREDIT",
+        "work_ids": [
+          "access:8d34742c3b70fdcabc3a",
+          "title:batwa indigenous peoples forced eviction for conservation a qualitative examination on community impacts plos global public health 2023"
+        ],
+        "proposed_label": "Sylvia Kokunda, Haven Nahabwe, Jeremiah Nahamya, Samari Niwamanya, Ronald Mazirwe, Samrawit Gougsa, Elizabeth Kemigisha and Nicole Redvers, “Batwa Indigenous Peoples forced eviction for “Conservation”: A qualitative examination on community impacts.” PLOS Global Public Health 3(8) (16 August 2023), e0002129. doi:10.1371/journal.pgph.0002129. Title capitalization corrected by republication on 21 August 2023; correction notice published 14 September 2023, doi:10.1371/journal.pgph.0002413.",
+        "proposed_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002129",
+        "source_locators": {
+          "abstract": "1991 national-park establishment and eviction as article context.",
+          "Materials and methods / Results": "2022 purposive qualitative interview sample and thematic analysis, not a deportee count.",
+          "What eviction from the Forest did to us as Batwa peoples": "Attributed memories/stories of removal and continuing exclusion.",
+          "Batwa peoples Landback and returning to the Forest (‘Ihamba)": "Desire for return, not a completed reversal.",
+          "Limitations": "Explicit representativeness and transferability limits."
+        },
+        "reason": "Full PLOS article identity and version notice, with exact current headings. The separate Mukasa and agency-plan contributions in the combined source label remain distinct; no immutable release rewrite or new historical decision.",
+        "status": "offered_main_fact_checked_calibration_pending",
+        "main_disposition": "Sylvia Kokunda, Haven Nahabwe, Jeremiah Nahamya, Samari Niwamanya, Ronald Mazirwe, Samrawit Gougsa, Elizabeth Kemigisha and Nicole Redvers, “Batwa Indigenous Peoples forced eviction for “Conservation”: A qualitative examination on community impacts.” PLOS Global Public Health 3(8) (16 August 2023), e0002129. doi:10.1371/journal.pgph.0002129. Title capitalization corrected by republication on 21 August 2023; correction notice published 14 September 2023, doi:10.1371/journal.pgph.0002413."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_pmc_remaining_20260911",
+      "correction_id": "NORBA-FULLER-CITATION",
+      "requirement": "offered",
+      "source_file_sha256": "1c17430578eddb5a06ebbe555c813fc19231840f60f5c73a7ff8da554157eace",
+      "reviewed_proposal": {
+        "id": "NORBA-FULLER-CITATION",
+        "work_id": "access:67192f6d6e81206c85e4",
+        "proposed_label": "Barbara Borgers et al., “Roman Republican coarse ware from Norba, Southern Lazio (Italy): a multi-analytical study of production technology and trade”, Archaeological and Anthropological Sciences 15, article 180 (2023).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10625971/",
+        "disposition": "offered_exact_title_in_place_of_descriptive_label",
+        "historical_scope_changed": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_springer_20260909",
+      "correction_id": "b15_venusia_springer",
+      "requirement": "offered",
+      "source_file_sha256": "e395d98a92ab47fa065d20036d231372dd5bd3b66589e284fae63fac47358a16",
+      "reviewed_proposal": {
+        "citation_id": "b15_venusia_springer",
+        "work_id": "url:link.springer.com/article/10.1007/s12520-017-0561-y",
+        "before": "Archaeological and Anthropological Sciences study of Venusia",
+        "after": "Anita Casarotto, Jeremia Pelgrom and Tesse D. Stek, ‘A systematic GIS-based analysis of settlement developments in the landscape of Venusia in the Hellenistic-Roman period’ (2019)",
+        "url": "https://link.springer.com/article/10.1007/s12520-017-0561-y",
+        "kind": "offered_metadata_label_refinement",
+        "reason": "The current generic access descriptor is supported. Replacing it with the observed authors, exact title and issue citation year would make the bibliography easier to identify; this is an offered refinement, not a factual correction.",
+        "source": "SOURCE_OBSERVATIONS.json record 8; publisher-08.meta.json citation_title/citation_author and About this article",
+        "historical_passage_acceptance": false,
+        "application_status": "proposed_not_applied"
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "correction_id": "b31_2fd7f29a0826e9",
+      "requirement": "offered",
+      "source_file_sha256": "e91a9f8fe51d339b4bfb83de326023b794bedf95fb1cebe1624be8bf67db74e2",
+      "reviewed_proposal": {
+        "citation_id": "b31_2fd7f29a0826e9",
+        "old_source": {
+          "title": "ToposText, representative ancient urban location and island context for Melos",
+          "url": "https://topostext.org/place/367244BMel",
+          "provenance": "existing atlas citation registry"
+        },
+        "proposed_source": {
+          "title": "ToposText, Theatre of Melos (367244BMel), used as a representative ancient urban-area anchor and island context for Melos",
+          "url": "https://topostext.org/place/367244BMel",
+          "provenance": "existing atlas citation registry"
+        },
+        "classification": "offered_scope_refinement_original_adequate",
+        "basis": "Names the exact record while retaining the original representative urban/island role. Source bodies describe the theatre and surrounding ancient remains; case geometry is explicitly representative.",
+        "historical_scope_changed": false,
+        "coordinate_change": false,
+        "publication_applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_topostext_20260910",
+      "correction_id": "b33_2fd7f29a0826e9",
+      "requirement": "offered",
+      "source_file_sha256": "e91a9f8fe51d339b4bfb83de326023b794bedf95fb1cebe1624be8bf67db74e2",
+      "reviewed_proposal": {
+        "citation_id": "b33_2fd7f29a0826e9",
+        "old_source": {
+          "title": "ToposText, representative ancient urban location and island context for Melos",
+          "url": "https://topostext.org/place/367244BMel",
+          "provenance": "existing atlas citation registry"
+        },
+        "proposed_source": {
+          "title": "ToposText, Theatre of Melos (367244BMel), used as a representative ancient urban-area anchor and island context for Melos",
+          "url": "https://topostext.org/place/367244BMel",
+          "provenance": "existing atlas citation registry"
+        },
+        "classification": "offered_scope_refinement_original_adequate",
+        "basis": "Names the exact record while retaining the original representative urban/island role. Source bodies describe the theatre and surrounding ancient remains; case geometry is explicitly representative.",
+        "historical_scope_changed": false,
+        "coordinate_change": false,
+        "publication_applied": false
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_treccani_20260909",
+      "correction_id": "b17_c6ed28d1e02a78",
+      "requirement": "required",
+      "source_file_sha256": "dcb809ec01e172656b3a9f4af1013fa4e0e670e3795f1281896e46be5b9e4c0a",
+      "reviewed_proposal": {
+        "citation_id": "b17_c6ed28d1e02a78",
+        "work_id": "url:treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28enciclopedia-dell%27arte-antica%29",
+        "unchanged_title": "Treccani, Saturnia archaeological synthesis",
+        "before": "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27Arte-Antica%29/",
+        "after": "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27-Arte-Antica%29/",
+        "kind": "required_url_repair",
+        "reason": "Current URL redirects to the homepage. The publisher’s same-resource-UUID counterpart reaches the named 1966 Saturnia entry.",
+        "source": "DIRECT_RETRIEVAL.json result 8; FOLLOWUP_RETRIEVAL.json result 0; entry-header-08.json",
+        "historical_passage_acceptance": false,
+        "application_status": "proposed_not_applied"
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "b17_c6ed28d1e02a78",
+          "before": {
+            "title": "Treccani, Saturnia archaeological synthesis",
+            "url": "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27Arte-Antica%29/",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "Treccani, Saturnia archaeological synthesis",
+            "url": "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27-Arte-Antica%29/",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "url:treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28enciclopedia-dell%27arte-antica%29"
+          ],
+          "correction_id": "b17_c6ed28d1e02a78",
+          "review_id": "bibliography_treccani_20260909"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_treccani_20260909",
+      "correction_id": "b17_1ffc91b708c53a",
+      "requirement": "required",
+      "source_file_sha256": "dcb809ec01e172656b3a9f4af1013fa4e0e670e3795f1281896e46be5b9e4c0a",
+      "reviewed_proposal": {
+        "citation_id": "b17_1ffc91b708c53a",
+        "work_id": "url:treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28enciclopedia-dell%27arte-antica%29",
+        "unchanged_title": "Treccani, Saturnia archaeological synthesis",
+        "before": "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27Arte-Antica%29/",
+        "after": "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27-Arte-Antica%29/",
+        "kind": "required_url_repair",
+        "reason": "Current URL redirects to the homepage. The publisher’s same-resource-UUID counterpart reaches the named 1966 Saturnia entry.",
+        "source": "DIRECT_RETRIEVAL.json result 8; FOLLOWUP_RETRIEVAL.json result 0; entry-header-08.json",
+        "historical_passage_acceptance": false,
+        "application_status": "proposed_not_applied"
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "b17_1ffc91b708c53a",
+          "before": {
+            "title": "Treccani, Saturnia archaeological synthesis",
+            "url": "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27Arte-Antica%29/",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "Treccani, Saturnia archaeological synthesis",
+            "url": "https://www.treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28Enciclopedia-dell%27-Arte-Antica%29/",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "url:treccani.it/enciclopedia/saturnia_res-67ff8e97-8c61-11dc-8e9d-0016357eee51_%28enciclopedia-dell%27arte-antica%29"
+          ],
+          "correction_id": "b17_1ffc91b708c53a",
+          "review_id": "bibliography_treccani_20260909"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_ucl_20260910",
+      "correction_id": "b35_69ae694cc5228e",
+      "requirement": "required",
+      "source_file_sha256": "d833a7e6341e62faf44f3787f940cfdb97fc9d8bbbc004d5fcd2fe62b39ef969",
+      "reviewed_proposal": {
+        "citation_id": "b35_69ae694cc5228e",
+        "old_source": {
+          "title": "James Broadhead, Internal migration and the transformation of Republican Italy, printed pages 12-14, on Roman settlement in the Pomptine region",
+          "url": "https://discovery.ucl.ac.uk/id/eprint/1317574/1/251994.pdf",
+          "provenance": "existing atlas citation registry"
+        },
+        "proposed_source": {
+          "title": "William Broadhead, Internal migration and the transformation of Republican Italy, printed pages 12-14, on Roman settlement in the Pomptine region",
+          "url": "https://discovery.ucl.ac.uk/id/eprint/1317574/1/251994.pdf",
+          "provenance": "existing atlas citation registry"
+        },
+        "basis": "Title-page image names William Broadhead; UCL record 1317574 credits Broadhead, W.M. The exact contemporary PDF matches the earlier local file; its 2007 filename is not a thesis date. UCL records thesis year 2002.",
+        "historical_scope_changed": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "b35_69ae694cc5228e",
+          "before": {
+            "title": "James Broadhead, Internal migration and the transformation of Republican Italy, printed pages 12-14, on Roman settlement in the Pomptine region",
+            "url": "https://discovery.ucl.ac.uk/id/eprint/1317574/1/251994.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "William Broadhead, Internal migration and the transformation of Republican Italy, printed pages 12-14, on Roman settlement in the Pomptine region",
+            "url": "https://discovery.ucl.ac.uk/id/eprint/1317574/1/251994.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [],
+          "correction_id": "b35_69ae694cc5228e",
+          "review_id": "bibliography_ucl_20260910"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_ucpress_20260910",
+      "correction_id": "b48_tig_cohen_5152f4aad7",
+      "requirement": "required",
+      "source_file_sha256": "256d7bcc5ea303b4019be2de73115036d66cb9143efab14dce456c2102855b2e",
+      "reviewed_proposal": {
+        "citation_id": "b48_tig_cohen_5152f4aad7",
+        "old_source": {
+          "title": "Getzel M. Cohen, The Hellenistic Settlements in the East, pp. 73–74, for source consolidation, Appian's attributed figure, and the unresolved location of Tigranokerta",
+          "url": "https://www.ucpress.edu/books/the-hellenistic-settlements-in-the-east/hardcover",
+          "provenance": "existing atlas citation registry"
+        },
+        "proposed_source": {
+          "title": "Getzel M. Cohen, The Hellenistic Settlements in the East, pp. 73–74, for source consolidation, Appian's attributed figure, and the unresolved location of Tigranokerta",
+          "url": "https://www.ucpress.edu/books/the-hellenistic-settlements-in-the-east-from-armenia-and-mesopotamia-to-bactria-and-india/hardcover",
+          "provenance": "existing atlas citation registry"
+        },
+        "classification": "required_access_url_repair",
+        "basis": "Original URL displays Page Not Found in an ordinary browser. The full-title publisher record matches author, title and the cloth ISBN printed in the existing local East volume.",
+        "historical_scope_changed": false,
+        "coordinate_change": false,
+        "publication_applied": false
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "b48_tig_cohen_5152f4aad7",
+          "before": {
+            "title": "Getzel M. Cohen, The Hellenistic Settlements in the East, pp. 73–74, for source consolidation, Appian's attributed figure, and the unresolved location of Tigranokerta",
+            "url": "https://www.ucpress.edu/books/the-hellenistic-settlements-in-the-east/hardcover",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "Getzel M. Cohen, The Hellenistic Settlements in the East, pp. 73–74, for source consolidation, Appian's attributed figure, and the unresolved location of Tigranokerta",
+            "url": "https://www.ucpress.edu/books/the-hellenistic-settlements-in-the-east-from-armenia-and-mesopotamia-to-bactria-and-india/hardcover",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [],
+          "correction_id": "b48_tig_cohen_5152f4aad7",
+          "review_id": "bibliography_ucpress_20260910"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_un_portals_20260910",
+      "correction_id": "UN-PORTALS-BOUGAINVILLE-ATTRIBUTION",
+      "requirement": "required",
+      "source_file_sha256": "d2dadd9bead7ec81eba09c51152c6a266b632a9edeeb1cd211f0a914b80a62b3",
+      "reviewed_proposal": {
+        "id": "UN-PORTALS-BOUGAINVILLE-ATTRIBUTION",
+        "record_index": 1,
+        "work_id": "title:ohchr bougainville conflict evictions and displacement",
+        "citation_ids": [
+          "modern_bougainville_displacement"
+        ],
+        "current_cases": [],
+        "current_title": "OHCHR, Bougainville conflict evictions and displacement",
+        "proposed_title": "Taloi Havini (on behalf of Sister Lorraine Garasu), Bougainville testimony in Pacific housing and land consultation proceedings, pp. 141–153",
+        "unchanged_url": "https://www.ohchr.org/sites/default/files/english/issues/housing/docs/fiji_report.pdf",
+        "reason": "The linked proceedings credit Alison G. Aggarwal as author, HIC-HLRN as publisher, and Havini as the Bougainville presenter on behalf of Garasu. OHCHR hosting, cooperation and support do not establish authorship.",
+        "historical_judgment_changed": false,
+        "status": "main_fact_checked_calibration_pending",
+        "recorded_type_defect": "UN human-rights report",
+        "reviewed_source_type": "conference proceedings",
+        "recorded_type_occurrences": [
+          "occ:c28d217aaf9e1831a4c3",
+          "occ:b0ed913c84ba81d48f10"
+        ],
+        "main_disposition": "Concede the underlying attribution/type defect. The two preserved historical/audit occurrences explicitly classify the work as a UN human-rights report; the inspected imprint instead identifies HIC-HLRN proceedings and named testimony. The required correction concerns that misleading identification, not a general requirement to replace adequate subject labels with full titles. Retain all original occurrence records and immutable release inputs; apply reviewed display metadata only in a later authorized publication change."
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "modern_bougainville_displacement",
+          "before": {
+            "title": "OHCHR, Bougainville conflict evictions and displacement",
+            "url": "https://www.ohchr.org/sites/default/files/english/issues/housing/docs/fiji_report.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "Taloi Havini (on behalf of Sister Lorraine Garasu), Bougainville testimony in Pacific housing and land consultation proceedings, pp. 141–153",
+            "url": "https://www.ohchr.org/sites/default/files/english/issues/housing/docs/fiji_report.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "title:ohchr bougainville conflict evictions and displacement"
+          ],
+          "correction_id": "UN-PORTALS-BOUGAINVILLE-ATTRIBUTION",
+          "review_id": "bibliography_un_portals_20260910"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_unhcr_refworld_20260910",
+      "correction_id": "UNHCR-REFWORLD-BUNDLE-01",
+      "requirement": "required",
+      "source_file_sha256": "c4ab7df32cbe77550f1593648fb9d10288a00af8a74f1c4a5278536855f8e4c7",
+      "reviewed_proposal": {
+        "id": "UNHCR-REFWORLD-BUNDLE-01",
+        "work_id": "access:7bf460e13164c146ae0e",
+        "current_title": "Human Rights Watch/Helsinki, Azerbaijan: Seven Years of Conflict in Nagorno-Karabakh (1994), opened report pp. 1-2, 97-99, and 102-103; European Court of Human Rights, Chiragov and Others v. Armenia [GC], opened paragraphs 20-25, 137-150, and 196-207; European Court of Human Rights, Sargsyan v. Azerbaijan [GC], opened paragraphs 34-40, 193-205, and 237-241. No additional work was used.",
+        "proposed_title": "Background Note on Ethnic Armenian refugees from Azerbaijan",
+        "citation_ids": [],
+        "current_cases": [],
+        "event_ids": [
+          "prospective-nk-baku-anti-armenian-pogrom-1990"
+        ],
+        "occurrence_ids": [
+          "occ:83d373fa2cd95505a6de",
+          "occ:a5d3751101dc5a3a6895"
+        ],
+        "unchanged_url": "https://www.refworld.org/sites/default/files/legacy-pdf/en/2003-12/42c92d2d4.pdf",
+        "problem": "The URL resolves to a different work from the named 1994 HRW/ECHR bundle. Preserve the original record and identify this linked work accurately; do not treat it as evidence for the bundled works or inherit their page/paragraph locators.",
+        "required_disposition": "Main metadata review must assess the identity correction. Any decision to replace an intended source or recertify the historical event requires its own source-level review; no such acceptance is claimed.",
+        "status": "main_fact_checked_calibration_pending",
+        "historical_source_support_review_required": true,
+        "main_disposition": "Concede the wrong-work citation mapping: the preserved URL points to the independently identified work, whereas the recorded label names a 1994 HRW report and two ECHR judgments. Correct identity metadata and retain the original bundle/history. No historical passage acceptance, source replacement or recoding follows from this metadata finding."
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_unhcr_refworld_20260910",
+      "correction_id": "UNHCR-REFWORLD-BUNDLE-02",
+      "requirement": "required",
+      "source_file_sha256": "c4ab7df32cbe77550f1593648fb9d10288a00af8a74f1c4a5278536855f8e4c7",
+      "reviewed_proposal": {
+        "id": "UNHCR-REFWORLD-BUNDLE-02",
+        "work_id": "access:a6ac7c71e1b415301a54",
+        "current_title": "Human Rights Watch/Helsinki, Azerbaijan: Seven Years of Conflict in Nagorno-Karabakh (1994), opened report pp. 1-2, 97-99, and 102-103; European Court of Human Rights, Chiragov and Others v. Armenia [GC], opened paragraphs 20-25, 137-150, and 196-207; European Court of Human Rights, Sargsyan v. Azerbaijan [GC], opened paragraphs 34-40, 193-205, and 237-241. No additional work was used.",
+        "proposed_title": "The Commonwealth of Independent States: Refugees and internally displaced persons in Armenia, Azerbaijan, Georgia, the Russian Federation, and Tajikistan",
+        "citation_ids": [],
+        "current_cases": [],
+        "event_ids": [
+          "prospective-nk-baku-anti-armenian-pogrom-1990",
+          "prospective-nk-sumgait-anti-armenian-pogrom-1988"
+        ],
+        "occurrence_ids": [
+          "occ:c1d15df5910299673577",
+          "occ:15c06c51df47ca4e474c",
+          "occ:800fec0b565cfef7e663",
+          "occ:35b8da229ffa9a949fe2"
+        ],
+        "unchanged_url": "https://www.refworld.org/reference/countryrep/hrw/1996/22218",
+        "problem": "The URL resolves to a different work from the named 1994 HRW/ECHR bundle. Preserve the original record and identify this linked work accurately; do not treat it as evidence for the bundled works or inherit their page/paragraph locators.",
+        "required_disposition": "Main metadata review must assess the identity correction. Any decision to replace an intended source or recertify the historical event requires its own source-level review; no such acceptance is claimed.",
+        "status": "main_fact_checked_calibration_pending",
+        "historical_source_support_review_required": true,
+        "main_disposition": "Concede the wrong-work citation mapping: the preserved URL points to the independently identified work, whereas the recorded label names a 1994 HRW report and two ECHR judgments. Correct identity metadata and retain the original bundle/history. No historical passage acceptance, source replacement or recoding follows from this metadata finding."
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_unhcr_refworld_20260910",
+      "correction_id": "UNHCR-ANGOLA-DASHBOARD-SCOPE",
+      "requirement": "required",
+      "source_file_sha256": "c4ab7df32cbe77550f1593648fb9d10288a00af8a74f1c4a5278536855f8e4c7",
+      "reviewed_proposal": {
+        "id": "UNHCR-ANGOLA-DASHBOARD-SCOPE",
+        "work_id": "title:unhcr angola repatriation after the long civil war",
+        "citation_ids": [
+          "modern_angola_unhcr"
+        ],
+        "current_cases": [],
+        "current_title": "UNHCR Angola: repatriation after the long civil war",
+        "proposed_title": "UNHCR Operational Data Portal: Angola country dashboard",
+        "unchanged_url": "https://data.unhcr.org/en/country/ago",
+        "problem": "Two preserved audit/inventory occurrences classify this dynamic country portal as UN agency country history, while the current label claims repatriation after the long civil war. The inspected page describes current refugees/asylum seekers in Angola; it is not the named historical work.",
+        "required_disposition": "Correct the source identity/type after main review and retain a separate passage-support question for the civil-war/repatriation claim. No current case or historical disposition changed.",
+        "status": "main_fact_checked_calibration_pending",
+        "historical_source_support_review_required": true,
+        "recorded_type_occurrences": [
+          "occ:195be162d936321efb85",
+          "occ:8c56d95e5f46f8bdfa4f"
+        ],
+        "main_disposition": "Concede the explicit source-type/scope defect: two original records say country history, while the linked page is a current country dashboard. The precise identity correction is justified; an appropriate historical source or passage remains to be established separately. Do not infer that the historical claim itself is false."
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "modern_angola_unhcr",
+          "before": {
+            "title": "UNHCR Angola: repatriation after the long civil war",
+            "url": "https://data.unhcr.org/en/country/ago",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "UNHCR Operational Data Portal: Angola country dashboard",
+            "url": "https://data.unhcr.org/en/country/ago",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "title:unhcr angola repatriation after the long civil war"
+          ],
+          "correction_id": "UNHCR-ANGOLA-DASHBOARD-SCOPE",
+          "review_id": "bibliography_unhcr_refworld_20260910"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_unhcr_remaining_20260911",
+      "correction_id": "UNHCR-CITATION-0",
+      "requirement": "offered",
+      "source_file_sha256": "0d4267e399b4d2eab5831175882cdc5f324b7958f6d57b619cdf61d2ca980422",
+      "reviewed_proposal": {
+        "id": "UNHCR-CITATION-0",
+        "work_id": "title:unhcr ethiopia situation tigray conflict displacement",
+        "proposed_label": "UNHCR, Ethiopia situation - Global Report 2021 (reporting year 2021; publication date unverified).",
+        "url": "https://reporting.unhcr.org/ethiopia-situation-global-report-2021",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Exact indexed title and reporting year; preserve the failed original access URL and explicit access limit."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_unhcr_remaining_20260911",
+      "correction_id": "UNHCR-CITATION-1",
+      "requirement": "offered",
+      "source_file_sha256": "0d4267e399b4d2eab5831175882cdc5f324b7958f6d57b619cdf61d2ca980422",
+      "reviewed_proposal": {
+        "id": "UNHCR-CITATION-1",
+        "work_id": "title:unhcr protracted displacement in myanmar s ethnic conflicts",
+        "proposed_label": "UNHCR, Myanmar - Communities affected by displacement (nationwide) (reporting year 2020; publication date unverified).",
+        "url": "https://reporting.unhcr.org/myanmar-communities-affected-displacement-nationwide-18",
+        "historical_locator_changed": false,
+        "disposition": "offered_fuller_display_citation",
+        "reason": "Exact indexed title and reporting year; preserve the failed original access URL and explicit access limit."
+      },
+      "integration_disposition": "retain_available_refinement_existing_display_adequate",
+      "application": "available_refinement_existing_display_retained"
+    },
+    {
+      "review_id": "bibliography_worldbank_20260911",
+      "correction_id": "WB-SOM-CITATION",
+      "requirement": "required",
+      "source_file_sha256": "1a737109ce908eb4a2c84062893eb093f73892a64c7601c3f4526af99b36cab6",
+      "reviewed_proposal": {
+        "id": "WB-SOM-CITATION",
+        "work_ids": [
+          "access:ea331da1ecb7a28815b0"
+        ],
+        "proposed_label": "Erik Bryld, Christine Kamau and Dina Sinigallia, Analysis of Displacement in Somalia (World Bank Group, 2014), report 93238.",
+        "reason": "Replace the display-only reading-log label with the identified work; preserve the entire original bundle text and all occurrence identities as provenance. Do not merge the separate UNHCR works.",
+        "url": "https://documents1.worldbank.org/curated/en/889591468321538763/pdf/932380WP0P12640t0DC0edits009012014.pdf",
+        "source_locators": {
+          "1991_1995": "PDF 13–16 / printed 10–13, sections 2.1–2.2.2",
+          "mogadishu_2005_2009": "PDF 14–15 and 20 / printed 11–12 and 17",
+          "northern_front": "PDF 14 and 22 / printed 11 and 19",
+          "urban_evictions": "PDF 17 and 21 / printed 14 and 18"
+        }
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [],
+      "application_scope": "derived_metadata_or_locator_apparatus_only",
+      "application": "required_repair_in_this_publication"
+    },
+    {
+      "review_id": "bibliography_worldbank_20260911",
+      "correction_id": "WB-CERNEA-CITATION",
+      "requirement": "required",
+      "source_file_sha256": "1a737109ce908eb4a2c84062893eb093f73892a64c7601c3f4526af99b36cab6",
+      "reviewed_proposal": {
+        "id": "WB-CERNEA-CITATION",
+        "work_ids": [
+          "title:world bank technical assessment of three gorges resettlement"
+        ],
+        "proposed_label": "Michael M. Cernea, Hydropower Dams and Social Impacts: A Sociological Perspective, Environment Department Papers, Social Assessment Series 044 (World Bank, January 1997).",
+        "reason": "Correct a wrong-real-source label. Preserve stable identity and occurrence history; use the printed series and treat this as a broader working paper.",
+        "url": "https://documents1.worldbank.org/curated/en/446311468761673943/pdf/multi-page.pdf",
+        "source_locators": {
+          "Three_Gorges": "Table 1, printed 6/PDF 12; Annex 1 methodology printed 21/PDF 27 and Three Gorges row printed 22/PDF 28."
+        }
+      },
+      "integration_disposition": "include_required_repair",
+      "registry_changes": [
+        {
+          "citation_id": "modern_three_gorges",
+          "before": {
+            "title": "World Bank technical assessment of Three Gorges resettlement",
+            "url": "https://documents1.worldbank.org/curated/en/446311468761673943/pdf/multi-page.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "after": {
+            "title": "Michael M. Cernea, Hydropower Dams and Social Impacts: A Sociological Perspective, Environment Department Papers, Social Assessment Series 044 (World Bank, January 1997).",
+            "url": "https://documents1.worldbank.org/curated/en/446311468761673943/pdf/multi-page.pdf",
+            "provenance": "existing atlas citation registry"
+          },
+          "atlas_occurrences": 1,
+          "work_ids": [
+            "title:world bank technical assessment of three gorges resettlement"
+          ],
+          "correction_id": "WB-CERNEA-CITATION",
+          "review_id": "bibliography_worldbank_20260911"
+        }
+      ],
+      "application_scope": "registry_and_any_current_atlas_uses",
+      "application": "required_repair_in_this_publication"
+    }
+  ],
+  "original_occurrences_changed": 0,
+  "rule": "Apply required identity/access/locator repairs at their recorded scope. Fuller optional citations remain available here; adequate existing contextual labels are retained.",
+  "build": "20260912a",
+  "selected_additional_locator_changes": {
+    "livy_citation_id": "b35_204f330763b38d",
+    "nola_supplements": {
+      "b47_nola_camodeca_a3369fa58c": [
+        {
+          "id": "nola-camodeca-2011-inscription",
+          "title": "Giuseppe Camodeca, “Porcii Catones e Tullii a Nola in una iscrizione tardorepubblicana erroneamente ritenuta falsa (CIL X 181*),” Oebalus 6 (2011), pp.105–117, especially p.111 n.22; dates the inscription, not land assignment",
+          "url": "https://www.academia.edu/2512620/Porcii_Catones_e_Tullii_a_Nola_in_una_iscrizione_tardorepubblicana_erroneamente_ritenuta_falsa_CIL_X_181_",
+          "source_review": "source_locator_nola_inscription_20260910"
+        }
+      ]
+    }
+  }
+}

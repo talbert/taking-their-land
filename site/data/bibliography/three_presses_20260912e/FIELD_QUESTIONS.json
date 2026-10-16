@@ -1,0 +1,16 @@
+{
+  "build": "20260912e",
+  "prior_open_fields": 132,
+  "additional_open_fields": 1,
+  "total_open_fields": 133,
+  "records": [
+    {
+      "id": "REYNOLDS-2006-PRINT-DAY",
+      "work_id": "title:reynolds 2006 the other side of the frontier",
+      "field": "preferred_exact_print_day",
+      "status": "unknown",
+      "basis": "Only August 2006 printed in publisher catalogue."
+    }
+  ],
+  "scope": "Selected preferred metadata fields; historical source gaps and evidence holds remain separate."
+}

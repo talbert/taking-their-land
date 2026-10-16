@@ -1,0 +1,482 @@
+{
+  "schema": "current-public-eight-trait-inheritance-v1",
+  "status": "PRIVATE_PROJECTION_OF_ACCEPTED_PUBLIC_CONSTRUCT_NOT_ACTIVATED",
+  "model_name": "frozen_v6_F1_F7_plus_accepted_public_F8_v2",
+  "historical_model_ref": {
+    "path": "analysis/second_pass/v6/post_v6_correction_application_v1/editorial_projection_v1/traits/eight_trait_card_model.json",
+    "sha256": "6b97b895c0de48d82aa1ed3a127e9095288ad9fa6e88ea850a5a4f59ad9daa9c"
+  },
+  "F1_F7_score_rule": {
+    "intensity": "Weighted mean of known applicable oriented 0-4 anchor judgments, rescaled to 0-100.",
+    "evidence_coverage": "Known anchor weight divided by known-plus-unknown applicable anchor weight; structural-N/A anchors leave the denominator.",
+    "unknown_bounds": "All unknown applicable anchors set jointly to 0 for the low bound and to 4 for the high bound.",
+    "display_rounding": "nearest five points",
+    "intensity_bands": {
+      "minimal": "0–20",
+      "low": ">20–40",
+      "moderate": ">40–60",
+      "high": ">60–80",
+      "very_high": ">80–100"
+    },
+    "display_status": {
+      "supported_point": "coverage at least 0.80",
+      "partial_evidence_show_range": "coverage 0.60 to below 0.80",
+      "insufficient_evidence_do_not_show_solid_point": "coverage below 0.60",
+      "structural_not_applicable": "no population exists to which the trait applies"
+    }
+  },
+  "traits": {
+    "F1": {
+      "id": "state_orchestration",
+      "label": "Government direction",
+      "high_means": "More centralized, explicit, and continuously state-directed organization.",
+      "anchors": [
+        {
+          "dimension": "pel_organizing_agent_locus",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.8428549708990223,
+          "baseline_407_loading": 0.7847045741450699,
+          "weight": 0.8137797725220461
+        },
+        {
+          "dimension": "ssi_carrier_centralization",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.8400430541612817,
+          "baseline_407_loading": 0.7839609511525079,
+          "weight": 0.8120020026568948
+        },
+        {
+          "dimension": "gfm_perpetrator_state_centrality",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.7621638109778874,
+          "baseline_407_loading": 0.7390927631961346,
+          "weight": 0.750628287087011
+        },
+        {
+          "dimension": "scs_metropole_anchorage",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.7711582270497271,
+          "baseline_407_loading": 0.6849931350053421,
+          "weight": 0.7280756810275346
+        },
+        {
+          "dimension": "gfm_intent_legibility",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.7122084260439311,
+          "baseline_407_loading": 0.6697760163046017,
+          "weight": 0.6909922211742664
+        },
+        {
+          "dimension": "scs_settler_agency_locus",
+          "direction": "higher_raw_decreases_trait",
+          "active_490_loading": -0.695596109446369,
+          "baseline_407_loading": -0.6837509416765483,
+          "weight": 0.6896735255614586
+        },
+        {
+          "dimension": "ssi_settler_polity_autonomy",
+          "direction": "higher_raw_decreases_trait",
+          "active_490_loading": -0.686222951816147,
+          "baseline_407_loading": -0.6776852647255937,
+          "weight": 0.6819541082708703
+        },
+        {
+          "dimension": "pel_strategic_position_weight",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.5656914170134565,
+          "baseline_407_loading": 0.6787996941178374,
+          "weight": 0.622245555565647
+        },
+        {
+          "dimension": "gfm_displacement_tempo",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.4350103563926007,
+          "baseline_407_loading": 0.4123569972945192,
+          "weight": 0.42368367684355995
+        },
+        {
+          "dimension": "ssi_legibility_engineering",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.3599061505184458,
+          "baseline_407_loading": 0.4434556941840019,
+          "weight": 0.4016809223512239
+        }
+      ]
+    },
+    "F2": {
+      "id": "legal_proprietary_machinery",
+      "label": "Legal and property machinery",
+      "high_means": "More formal title transfer, expropriation, surveying, registration, and legal instrumentation.",
+      "anchors": [
+        {
+          "dimension": "pel_title_transfer_formalization",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.8372360803998726,
+          "baseline_407_loading": 0.8604254523899829,
+          "weight": 0.8488307663949277
+        },
+        {
+          "dimension": "gfm_expropriation_formalization",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.801278233269134,
+          "baseline_407_loading": 0.8434649820474324,
+          "weight": 0.8223716076582832
+        },
+        {
+          "dimension": "ssi_legal_instrumentation_depth",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.776144014437726,
+          "baseline_407_loading": 0.7360840536952197,
+          "weight": 0.7561140340664728
+        },
+        {
+          "dimension": "pel_land_commodification",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.7384459034904777,
+          "baseline_407_loading": 0.7424766720163208,
+          "weight": 0.7404612877533993
+        },
+        {
+          "dimension": "scs_land_tenure_extinguishment",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.6842171658495669,
+          "baseline_407_loading": 0.6243180259480361,
+          "weight": 0.6542675958988016
+        },
+        {
+          "dimension": "ssi_legibility_engineering",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.6259148358644063,
+          "baseline_407_loading": 0.5377434078399396,
+          "weight": 0.581829121852173
+        },
+        {
+          "dimension": "pel_fixed_capital_intensity",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.5314084814615639,
+          "baseline_407_loading": 0.4776469492006419,
+          "weight": 0.504527715331103
+        },
+        {
+          "dimension": "ssi_legitimating_doctrine_codification",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.5286281430093788,
+          "baseline_407_loading": 0.4266983343428,
+          "weight": 0.4776632386760894
+        },
+        {
+          "dimension": "pel_export_orientation",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.4232242784813302,
+          "baseline_407_loading": 0.5068472684398024,
+          "weight": 0.46503577346056635
+        },
+        {
+          "dimension": "scs_transfer_mode_multiplicity",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.4362276766930035,
+          "baseline_407_loading": 0.4172692901208744,
+          "weight": 0.42674848340693894
+        }
+      ]
+    },
+    "F3": {
+      "id": "settler_implantation",
+      "label": "Settler implantation",
+      "high_means": "A larger, more family-complete, self-reproducing, and durable incoming resident population.",
+      "anchors": [
+        {
+          "dimension": "hdem_migrant_stream_family_completeness",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.95596421310756,
+          "baseline_407_loading": 0.9525301311227652,
+          "weight": 0.9542471721151626
+        },
+        {
+          "dimension": "scs_settler_permanence_orientation",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.8704913362911365,
+          "baseline_407_loading": 0.9080194939166298,
+          "weight": 0.8892554151038832
+        },
+        {
+          "dimension": "hdem_stream_coordination",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.7509535049335194,
+          "baseline_407_loading": 0.7680840393729272,
+          "weight": 0.7595187721532233
+        },
+        {
+          "dimension": "hdem_settler_reproduction_engine",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.7433265784665258,
+          "baseline_407_loading": 0.7422459289581401,
+          "weight": 0.742786253712333
+        },
+        {
+          "dimension": "hdem_incomer_share_at_consolidation",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.617514400854859,
+          "baseline_407_loading": 0.6009584722064149,
+          "weight": 0.6092364365306369
+        },
+        {
+          "dimension": "scs_demographic_saturation",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.5620162928725613,
+          "baseline_407_loading": 0.570772768643677,
+          "weight": 0.5663945307581191
+        },
+        {
+          "dimension": "pel_frontier_land_labor_ratio",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.3916657959054755,
+          "baseline_407_loading": 0.3888328521585984,
+          "weight": 0.39024932403203694
+        },
+        {
+          "dimension": "scs_settler_agency_locus",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.3220088901645615,
+          "baseline_407_loading": 0.3581023685654655,
+          "weight": 0.34005562936501355
+        }
+      ]
+    },
+    "F4": {
+      "id": "elimination_vs_incorporation",
+      "label": "Elimination over incorporation",
+      "high_means": "More removal and demographic replacement, with less incorporation of the prior population.",
+      "anchors": [
+        {
+          "dimension": "hdem_prior_ancestry_in_successor_population",
+          "direction": "higher_raw_decreases_trait",
+          "active_490_loading": -0.7236372704069578,
+          "baseline_407_loading": -0.681570507671281,
+          "weight": 0.7026038890391194
+        },
+        {
+          "dimension": "pel_native_labor_incorporation",
+          "direction": "higher_raw_decreases_trait",
+          "active_490_loading": -0.6041650520111471,
+          "baseline_407_loading": -0.771717163252078,
+          "weight": 0.6879411076316125
+        },
+        {
+          "dimension": "hdem_prior_population_removal",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.6598514719257726,
+          "baseline_407_loading": 0.6139346364670064,
+          "weight": 0.6368930541963895
+        },
+        {
+          "dimension": "scs_native_labor_articulation",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.4855652221241837,
+          "baseline_407_loading": 0.6951929317141735,
+          "weight": 0.5903790769191786
+        },
+        {
+          "dimension": "gfm_displacement_tempo",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.3725931699718841,
+          "baseline_407_loading": 0.4615792934476772,
+          "weight": 0.41708623170978065
+        },
+        {
+          "dimension": "hdem_transformation_tempo",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.3597609053498946,
+          "baseline_407_loading": 0.4522054882794665,
+          "weight": 0.40598319681468054
+        },
+        {
+          "dimension": "scs_demographic_saturation",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.3525780145125496,
+          "baseline_407_loading": 0.3717630620246961,
+          "weight": 0.3621705382686229
+        }
+      ]
+    },
+    "F5": {
+      "id": "lethal_coercion",
+      "label": "Lethal coercion",
+      "high_means": "More killing, life-threatening coercion, confinement, and destruction of subsistence.",
+      "anchors": [
+        {
+          "dimension": "gfm_lethality_of_process",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.8150319501796303,
+          "baseline_407_loading": 0.7972476012457304,
+          "weight": 0.8061397757126803
+        },
+        {
+          "dimension": "hdem_mortality_share_of_prior_decline",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.696536216826538,
+          "baseline_407_loading": 0.6484896970025115,
+          "weight": 0.6725129569145247
+        },
+        {
+          "dimension": "gfm_subsistence_destruction",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.6069897034000191,
+          "baseline_407_loading": 0.5647236298707567,
+          "weight": 0.5858566666353879
+        },
+        {
+          "dimension": "gfm_coercion_apex",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.5178155521195643,
+          "baseline_407_loading": 0.6107591618177154,
+          "weight": 0.5642873569686399
+        },
+        {
+          "dimension": "gfm_survivor_confinement",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.5149480296444262,
+          "baseline_407_loading": 0.5519511507945478,
+          "weight": 0.533449590219487
+        },
+        {
+          "dimension": "scs_transfer_mode_multiplicity",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.4855832075150925,
+          "baseline_407_loading": 0.5201600801665189,
+          "weight": 0.5028716438408057
+        },
+        {
+          "dimension": "gfm_sex_differential_targeting",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.4593337878455711,
+          "baseline_407_loading": 0.4983527415496607,
+          "weight": 0.4788432646976159
+        }
+      ]
+    },
+    "F6": {
+      "id": "durability_of_outcome",
+      "label": "Durability of outcome",
+      "high_means": "A more persistent territorial, sovereign, and demographic result with less reversal or return.",
+      "anchors": [
+        {
+          "dimension": "ssi_sovereignty_outcome_durability",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.7973252364192637,
+          "baseline_407_loading": 0.9021977179075864,
+          "weight": 0.849761477163425
+        },
+        {
+          "dimension": "scs_structural_persistence",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.7650353843791046,
+          "baseline_407_loading": 0.8040214047905776,
+          "weight": 0.7845283945848411
+        },
+        {
+          "dimension": "hdem_present_day_endpoint",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.6443721515493288,
+          "baseline_407_loading": 0.6108662815248482,
+          "weight": 0.6276192165370885
+        },
+        {
+          "dimension": "gfm_return_foreclosure",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.444611207936739,
+          "baseline_407_loading": 0.5273766433438268,
+          "weight": 0.4859939256402829
+        },
+        {
+          "dimension": "hdem_transformation_tempo",
+          "direction": "higher_raw_decreases_trait",
+          "active_490_loading": -0.4782721630624911,
+          "baseline_407_loading": -0.3294551312594632,
+          "weight": 0.4038636471609771
+        },
+        {
+          "dimension": "pel_incomer_influx_tempo",
+          "direction": "higher_raw_decreases_trait",
+          "active_490_loading": -0.415053420371356,
+          "baseline_407_loading": -0.3348064063307902,
+          "weight": 0.37492991335107306
+        },
+        {
+          "dimension": "scs_settler_sovereignty_capture",
+          "direction": "higher_raw_increases_trait",
+          "active_490_loading": 0.4019634598117312,
+          "baseline_407_loading": 0.3448210914123656,
+          "weight": 0.3733922756120484
+        }
+      ]
+    },
+    "F7": {
+      "id": "separation_from_homeland",
+      "label": "Separation from homeland",
+      "high_means": "Displaced people were carried farther from home and return remained more completely blocked.",
+      "anchors": [
+        {
+          "dimension": "hdem_displaced_relocation_distance",
+          "direction": "higher_raw_increases_trait",
+          "weight": 1.0,
+          "selection_basis": "direct_codebook_public_override"
+        },
+        {
+          "dimension": "gfm_return_foreclosure",
+          "direction": "higher_raw_increases_trait",
+          "weight": 1.0,
+          "selection_basis": "direct_codebook_public_override"
+        }
+      ]
+    },
+    "F8": {
+      "id": "imported_unfree_labor",
+      "label": "Imported unfree labor",
+      "high_means": "A larger distinct population was brought from elsewhere as enslaved, indentured, or otherwise unfree labor.",
+      "anchors": [
+        {
+          "dimension": "scs_exogenous_labor_triad",
+          "weight": 1.0,
+          "direction": "higher_raw_increases_trait"
+        },
+        {
+          "dimension": "pel_unfree_incomer_share",
+          "weight": 1.0,
+          "direction": "higher_raw_increases_trait"
+        }
+      ],
+      "applicability_gate": "scs_exogenous_labor_triad",
+      "secondary_scale_dimension": "pel_unfree_incomer_share",
+      "gate_rules": {
+        "triad_zero": "display zero; coerced settlers or detainees are a different construct",
+        "triad_positive": "combine with known unfree-incomer share; preserve U as uncertainty",
+        "triad_unknown": "suppress solid point and show full uncertainty",
+        "triad_structural_na": "suppress as N/A unless a positive or unresolved unfree score creates a coding-review conflict"
+      },
+      "bounded_exception": "A source-bounded event whose defining mechanism is imported unfree labor may be adjudicated applicable even when the statistical triad is structurally N/A because no settler population exists.",
+      "public_display_correction_policy": "A known frozen score may be source-corrected for public display when its positive cells concern the local affected population rather than a distinct population imported from elsewhere. The frozen score remains unchanged and the referent error is queued for the next release.",
+      "implementation": {
+        "path": "analysis/second_pass/v5/eight_trait_card_f8_review/build_f8_imported_unfree_review_v2.py",
+        "sha256": "123daf050646ee1430311d944c8d1358ad039428c8dadef5a51ce8676194b476",
+        "ordered_functions": [
+          "direct_trait",
+          "adjudicated_trait",
+          "public_corrected_trait"
+        ]
+      },
+      "equal_weight_combination_only_after_gate": true,
+      "adjudication_table": {
+        "path": "analysis/second_pass/v5/eight_trait_card_f8_review/f8_imported_unfree_coding_review_adjudications_v2.csv",
+        "sha256": "8fec7b6faa11fbf398537d4e054f8e9895374382521f648d4815ad09707ee601"
+      },
+      "public_correction_table": {
+        "path": "analysis/second_pass/v5/eight_trait_card_f8_review/f8_imported_unfree_public_display_corrections_v2.csv",
+        "sha256": "da96e02dea70534fb4a924af30c948b42e554e7d5308bc5e7d6d45504a15c055"
+      }
+    }
+  },
+  "activation_authorized": false,
+  "publication_authorized": false,
+  "model_fits": 0
+}

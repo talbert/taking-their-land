@@ -1,0 +1,500 @@
+[
+  {
+    "work_id": "access:17b27b2d4e7ffec12d58",
+    "recorded_title": "Livy, Periocha 89.13, for the siege context, not a completed distribution",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.livius.org/sources/content/livy/livy-periochae-86-90/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Livy, Periochae 86-90",
+      "web_page_created_year": 2009,
+      "web_page_last_modified": "2020-07-11",
+      "work_type": "ancient_epitome_translation_webpage",
+      "underlying_work_author_as_reported": "Livy",
+      "epitomator_named_in_consulted_introduction": false,
+      "translator_names_as_supplied": [
+        "Jona Lendering"
+      ],
+      "source_language_as_reported": "Latin",
+      "edition_note": "Online translation of the Periochae, a summary of Livy; not the surviving full text of Livy book 89. The linked introduction distinguishes the epitomator from Livy.",
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://www.livius.org/sources/content/livy/livy-periochae-86-90/",
+      "https://www.livius.org/articles/person/livy/livy-the-periochae/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:8ad2780a89a28f0fd6b8",
+    "recorded_title": "Appian, Syrian Wars 1, for return of refugees, redemption of enslaved residents, additional settlers, material provisioning, and the royal stronghold purpose",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-1/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Appian, The Syrian Wars 1",
+      "web_page_created_year": 2005,
+      "web_page_last_modified": "2020-07-15",
+      "work_type": "ancient_history_translation_web_component",
+      "author_names_as_supplied": [
+        "Appian of Alexandria"
+      ],
+      "translator_names_as_supplied": [
+        "Horace White"
+      ],
+      "notes_by_as_supplied": [
+        "Jona Lendering"
+      ],
+      "source_language_as_reported": "Greek",
+      "web_part_number": 1,
+      "section_range_as_displayed": "1–5",
+      "underlying_print_edition": null,
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-1/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only.",
+        "Exact printed edition underlying the Horace White translation remains an explicit unresolved metadata field."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "underlying_print_edition"
+      ]
+    }
+  },
+  {
+    "work_id": "access:aba3ea9960daf2f7a430",
+    "recorded_title": "Appian, Syrian Wars 6.28, for Antiochos's 190 BCE withdrawal and Lysimacheians accompanying his flight with wives and children",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-6/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Appian, The Syrian Wars 6",
+      "web_page_created_year": 2005,
+      "web_page_last_modified": "2020-09-08",
+      "work_type": "ancient_history_translation_web_component",
+      "author_names_as_supplied": [
+        "Appian of Alexandria"
+      ],
+      "translator_names_as_supplied": [
+        "Horace White"
+      ],
+      "notes_by_as_supplied": [
+        "Jona Lendering"
+      ],
+      "source_language_as_reported": "Greek",
+      "web_part_number": 6,
+      "section_range_as_displayed": "26–30",
+      "underlying_print_edition": null,
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://www.livius.org/sources/content/appian/appian-the-syrian-wars/appian-the-syrian-wars-6/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only.",
+        "Exact printed edition underlying the Horace White translation remains an explicit unresolved metadata field."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "underlying_print_edition"
+      ]
+    }
+  },
+  {
+    "work_id": "access:c4286a0ba275337d7552",
+    "recorded_title": "Livy, Periocha 89.11–12, for Sulla's recovery of Nola, not the land-assignment details",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://test.livius.org/sources/content/livy/livy-periochae-86-90?level=4"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Livy, Periochae 86-90",
+      "web_page_created_year": 2018,
+      "web_page_last_modified": "2022-07-28",
+      "work_type": "ancient_epitome_translation_web_view",
+      "underlying_work_author_as_reported": "Livy",
+      "epitomator_named_in_consulted_introduction": false,
+      "translator_names_as_supplied": [
+        "Jona Lendering"
+      ],
+      "source_language_as_reported": "Latin",
+      "page_is_marked_stub": true,
+      "selected_view_query": "level=4",
+      "selected_view_description": "The requested test-site view displays Book 89 sections in a reordered presentation; the page title names books 86–90.",
+      "edition_note": "Same named translation as the main-site page; distinct original access record and presentation retained.",
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://test.livius.org/sources/content/livy/livy-periochae-86-90?level=4",
+      "https://www.livius.org/articles/person/livy/livy-the-periochae/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "access:c756a7649b41e12c65a9",
+    "recorded_title": "Appian, Punic Wars 131–135, accessed 2026-08-30, for destruction, residence and rebuilding restrictions, allied-town destruction, land assignment, taxation, and provincial administration",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-27/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Appian, The Punic Wars 27",
+      "web_page_created_year": 2005,
+      "web_page_last_modified": "2020-07-16",
+      "work_type": "ancient_history_translation_web_component",
+      "author_names_as_supplied": [
+        "Appian of Alexandria"
+      ],
+      "translator_names_as_supplied": [
+        "Horace White"
+      ],
+      "notes_by_as_supplied": [
+        "Jona Lendering"
+      ],
+      "source_language_as_reported": "Greek",
+      "web_part_number": 27,
+      "section_range_as_displayed": "131–135",
+      "underlying_print_edition": null,
+      "numbering_limit": "The site warns that editions number reconstructed units differently; page part 27 is not an ancient section number.",
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-27/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only.",
+        "Exact printed edition underlying the Horace White translation remains an explicit unresolved metadata field."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "underlying_print_edition"
+      ]
+    }
+  },
+  {
+    "work_id": "url:livius.org/articles/place/aquileia",
+    "recorded_title": "Modern cross-check source 2: livius.org",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.livius.org/articles/place/aquileia"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Aquileia",
+      "web_page_created_year": 2017,
+      "web_page_last_modified": "2020-08-06",
+      "work_type": "reference_web_article_stub",
+      "author_names_as_supplied": [
+        "Jona Lendering"
+      ],
+      "page_is_marked_stub": true,
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://www.livius.org/articles/place/aquileia"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26",
+    "recorded_title": "Primary source 1: livius.org",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Appian, The Punic Wars 26",
+      "web_page_created_year": 2005,
+      "web_page_last_modified": "2020-07-11",
+      "work_type": "ancient_history_translation_web_component",
+      "author_names_as_supplied": [
+        "Appian of Alexandria"
+      ],
+      "translator_names_as_supplied": [
+        "Horace White"
+      ],
+      "notes_by_as_supplied": [
+        "Jona Lendering"
+      ],
+      "source_language_as_reported": "Greek",
+      "web_part_number": 26,
+      "section_range_as_displayed": "126–130",
+      "underlying_print_edition": null,
+      "numbering_limit": "The site warns that editions number reconstructed units differently; page part 26 is not an ancient section number.",
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only.",
+        "Exact printed edition underlying the Horace White translation remains an explicit unresolved metadata field."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": [
+        "underlying_print_edition"
+      ]
+    }
+  },
+  {
+    "work_id": "url:livius.org/sources/content/mesopotamian-chronicles-content/abc-9-artaxerxes-iii-chronicle",
+    "recorded_title": "ABC 9: Artaxerxes III Chronicle",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-9-artaxerxes-iii-chronicle/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "ABC 9 (Artaxerxes III Chronicle)",
+      "web_page_created_year": 2004,
+      "web_page_last_modified": "2020-07-10",
+      "work_type": "ancient_chronicle_adapted_translation_webpage",
+      "ancient_author_credit_as_supplied": "Ancient author",
+      "named_ancient_author": null,
+      "source_language_as_reported": "Akkadian",
+      "document_identifier_as_reported": "BM 31450 (71-11-17, 1177)",
+      "translated_line_range": "1–8",
+      "translation_adapted_from_as_reported": [
+        {
+          "author": "A.K. Grayson",
+          "title": "Assyrian and Babylonian Chronicles",
+          "year": 1975
+        },
+        {
+          "author": "Jean-Jacques Glassner",
+          "title": "Mesopotamian Chronicles",
+          "place": "Atlanta",
+          "year": 2004
+        }
+      ],
+      "adaptation_credit_note": "The page names two source editions for its adapted translation; neither modern scholar is the ancient chronicle author. The selected page does not name the adapter.",
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-9-artaxerxes-iii-chronicle/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  },
+  {
+    "work_id": "url:livius.org/sources/content/zosimus/zosimus-new-history-1/zosimus-new-history-1.27",
+    "recorded_title": "Zosimus, New History 1.27",
+    "scope": [
+      "active_release",
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.livius.org/sources/content/zosimus/zosimus-new-history-1/zosimus-new-history-1.27/"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Zosimus, New History 1.27",
+      "web_page_created_year": 2018,
+      "web_page_last_modified": "2020-04-16",
+      "work_type": "ancient_history_translation_web_component",
+      "author_names_as_supplied": [
+        "Zosimus"
+      ],
+      "translator_credit_as_reported": "anonymous",
+      "notes_by_as_supplied": [
+        "Jona Lendering"
+      ],
+      "source_language_as_reported": "Greek",
+      "section_range_as_displayed": "1.27.1–1.27.2",
+      "print_edition_as_reported": {
+        "year": 1814,
+        "publishers": [
+          "W. Green",
+          "T. Chaplin"
+        ],
+        "place": "London"
+      },
+      "possible_preparer_as_reported": {
+        "name": "J. Davis",
+        "qualification": "probably",
+        "organization": "Military Chronicle and Military Classics Office"
+      },
+      "provenance_url": "https://www.tertullian.org/fathers/zosimus01_book1.htm",
+      "edition_limit": "Livius reports the 1814 imprint and anonymous translator; the linked Tertullian transcription corroborates London, Green and Chaplin, 1814. No printed title-page image was inspected. J. Davis is not promoted to a certain translator.",
+      "hosting_platform": "Livius.org",
+      "metadata_accessed": "2026-09-09",
+      "date_scope": "Displayed creation and modification of the web page, not date of ancient composition or first printed publication"
+    },
+    "verification_urls": [
+      "https://www.livius.org/sources/content/zosimus/zosimus-new-history-1/zosimus-new-history-1.27/",
+      "https://www.tertullian.org/fathers/zosimus01_book1.htm"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "review_scope": "web_work_component_identity_only",
+      "decision": "metadata_identity_reconciled_with_explicit_limits",
+      "metadata_basis": "Session-fetched source headings, explicit credits, page dates and named component/section limits.",
+      "metadata_limits": [
+        "Web page dates are distinct from ancient composition and printed-edition dates.",
+        "Original claim-specific labels, URLs, cited locators and occurrences are retained.",
+        "No historical support decision or score change follows from metadata identity.",
+        "No public archive URL was confirmed; the first Save Page Now request timed out. Private tool-response captures preserve the consulted text. Source availability is verified for this access date only."
+      ],
+      "source_passages_newly_verified": false,
+      "historical_acceptance_changed": false,
+      "unresolved_fields": []
+    }
+  }
+]

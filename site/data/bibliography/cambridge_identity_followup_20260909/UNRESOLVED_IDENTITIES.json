@@ -1,0 +1,38 @@
+{
+  "status": "unresolved_not_a_case_hold",
+  "records": [
+    {
+      "work_id": "url:cambridge.org/core/books/cambridge-ancient-history/capua-after-211-bc",
+      "recorded_title": "Primary source 2: cambridge.org",
+      "original_access_urls": [
+        "https://www.cambridge.org/core/books/cambridge-ancient-history/capua-after-211-bc/"
+      ],
+      "scope": [
+        "active_release",
+        "historical_august_inventory",
+        "public_authored_case"
+      ],
+      "status": "unresolved_original_identity",
+      "source_bindings": [
+        {
+          "requested_url": "https://www.cambridge.org/core/books/cambridge-ancient-history/capua-after-211-bc/",
+          "capture": "tmp/cambridge-metadata-20260909/a9d2d8c3d0e792b6b066.html",
+          "sha256": "7a70bd3e2421420c25a9ba61bc8be275dbadb63f5022cdc0e63157d4808a827e"
+        }
+      ],
+      "historical_acceptance_changed": false,
+      "source_occurrences_modified": false,
+      "candidate_typed_fields": null,
+      "related_candidate": {
+        "title": "Rome and Italy in the second century B.C.",
+        "source": {
+          "requested_url": "https://www.cambridge.org/core/books/abs/cambridge-ancient-history/rome-and-italy-in-the-second-century-bc/C25A047D872A0133D85EA8B372C5FAF8",
+          "capture": "tmp/cambridge-metadata-20260909/0f96bcc4bd2c6395830d.html",
+          "sha256": "22d8d459af980dd2fb3f12b36bf3a65388e11936998ff4546559924dd83127c1"
+        }
+      },
+      "remaining": "Original URL returns 404. Related Gabba chapter is not demonstrated to be the intended original source; do not replace the identity based on topical similarity."
+    }
+  ],
+  "global_authoring_or_family_holds_changed": false
+}

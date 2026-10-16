@@ -1,0 +1,21 @@
+{
+  "schema": "bibliography_identity_relations_v1",
+  "relations": [
+    {
+      "from_work_id": "access:0e26ce6ec03bc765bd1f",
+      "to_work_id": "title:encyclopaedia iranica shapur i",
+      "relation": "same_author_and_publication_label_at_distinct_shapur_urls",
+      "merged": false,
+      "basis": "Both publisher pages identify the Shapur I history article by Alireza Shapur Shahbazi and Published July 20, 2002, with different title spellings and update dates. No exact body/version equivalence is claimed."
+    },
+    {
+      "from_work_id": "title:encyclopaedia iranica bamian ii history and monuments",
+      "to_url": "https://www.iranicaonline.org/articles/bamian-town-in-central-afghanistan/",
+      "relation": "section_of_separately_described_parent_entry",
+      "merged": false,
+      "basis": "The section has its own heading and pp. 658-660; the parent entry has pp. 657-661 and its own dates."
+    }
+  ],
+  "ids_merged": 0,
+  "new_ids_created": 0
+}

@@ -1,0 +1,2964 @@
+[
+  {
+    "work_id": "doi:10.1002/9781444338386.wbeah30481",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1002/9781444338386.wbeah30481",
+      "https://onlinelibrary.wiley.com/doi/10.1002/9781444338386.wbeah30481"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "other",
+      "authors": [
+        {
+          "given": "Alexander",
+          "family": "Thein",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Proscriptions",
+      "subtitle": [],
+      "container_title": [
+        "The Encyclopedia of Ancient History"
+      ],
+      "publisher_as_deposited": "Wiley",
+      "year": 2018,
+      "year_basis": "issued",
+      "all_deposited_dates": {
+        "published-online": [
+          [
+            2018,
+            6,
+            22
+          ]
+        ],
+        "issued": [
+          [
+            2018,
+            6,
+            22
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "1-2",
+      "elocator": "",
+      "doi": "10.1002/9781444338386.wbeah30481",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "type": "print",
+          "value": "9781405179355"
+        },
+        {
+          "type": "electronic",
+          "value": "9781444338386"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1002%2F9781444338386.wbeah30481"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The blank extracted title is recoverable from the local Thein citation; author, title and 2018 date match the Wiley deposit.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:6b0d215a0b397223844f",
+        "occ:6d665f45bae1dc53082b"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1017/9781009170031.001",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1017/9781009170031.001"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "given": "Jelle",
+          "family": "Bruning",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Janneke H. M.",
+          "family": "de Jong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Petra M.",
+          "family": "Sijpesteijn",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Introduction",
+      "subtitle": [],
+      "container_title": [
+        "Egypt and the Eastern Mediterranean World"
+      ],
+      "publisher_as_deposited": "Cambridge University Press",
+      "year": 2022,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2022,
+            12,
+            15
+          ]
+        ],
+        "issued": [
+          [
+            2022,
+            12,
+            15
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "1-16",
+      "elocator": "",
+      "doi": "10.1017/9781009170031.001",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "value": "9781009170031",
+          "type": "electronic"
+        },
+        {
+          "value": "9781009170017",
+          "type": "print"
+        },
+        {
+          "value": "9781009170024",
+          "type": "print"
+        }
+      ],
+      "publisher_container_title": [
+        "Egypt and the Eastern Mediterranean World: From Constantinople to Baghdad, 500-1000 CE"
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1017%2F9781009170031.001",
+      "https://www.cambridge.org/core/books/egypt-and-the-eastern-mediterranean-world/introduction/593717907FC8E5B3876D7288DA0F974C"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Egypt note identifies Bruning, de Jong and Sijpesteijn, the introduction and pp. 1–16. Publisher chapter title, container, DOI and extent agree with the deposit.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:ef230d7f845fba535e6d"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1017/9781009170031.015",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1017/9781009170031.015"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "given": "Peter",
+          "family": "Sheehan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Alison L.",
+          "family": "Gascoigne",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Babylon/Qaṣr al-Shamʿ: Continuity and Change at the Heart of the New Metropolis of Fusṭāṭ",
+      "subtitle": [],
+      "container_title": [
+        "Egypt and the Eastern Mediterranean World"
+      ],
+      "publisher_as_deposited": "Cambridge University Press",
+      "year": 2022,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2022,
+            12,
+            15
+          ]
+        ],
+        "issued": [
+          [
+            2022,
+            12,
+            15
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "446-464",
+      "elocator": "",
+      "doi": "10.1017/9781009170031.015",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "value": "9781009170031",
+          "type": "electronic"
+        },
+        {
+          "value": "9781009170017",
+          "type": "print"
+        },
+        {
+          "value": "9781009170024",
+          "type": "print"
+        }
+      ],
+      "publisher_container_title": [
+        "Egypt and the Eastern Mediterranean World: From Constantinople to Baghdad, 500-1000 CE"
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1017%2F9781009170031.015",
+      "https://www.cambridge.org/core/books/abs/egypt-and-the-eastern-mediterranean-world/babylonqasr-alsham-continuity-and-change-at-the-heart-of-the-new-metropolis-of-fustat/5D9D1C86FF288F38EC673C76A7C7A5E9"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local note names Sheehan and Gascoigne and pp. 446–464. Publisher chapter identity and extent match.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:c5551d1d68f30ed41064"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1017/9781009175166.012",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1017/9781009175166.012"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "given": "Sobhi",
+          "family": "Bouderbala",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Imperial Power, Tribal Settlement and Fiscal Revolts in the Early Islamic Delta (Seventh to Ninth Century CE)",
+      "subtitle": [],
+      "container_title": [
+        "The Nile Delta"
+      ],
+      "publisher_as_deposited": "Cambridge University Press",
+      "year": 2024,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ],
+        "issued": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "397-420",
+      "elocator": "",
+      "doi": "10.1017/9781009175166.012",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "value": "9781009175166",
+          "type": "electronic"
+        },
+        {
+          "value": "9781009175142",
+          "type": "print"
+        },
+        {
+          "value": "9781009175159",
+          "type": "print"
+        }
+      ],
+      "publisher_container_title": [
+        "The Nile Delta: Histories from Antiquity to the Modern Period"
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1017%2F9781009175166.012",
+      "https://www.cambridge.org/core/books/abs/nile-delta/imperial-power-tribal-settlement-and-fiscal-revolts-in-the-early-islamic-delta-seventh-to-ninth-century-ce/BE589997C8F78CC094D1FDFE9C919E4E"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The shortened local Bouderbala title identifies the same chapter. Publisher supplies the full title, book subtitle and pp. 397–420.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:7781ada8450226f910c2"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1017/cbo9780511975882.004",
+    "recorded_title": "Laurence, Cleary & Sears 2011",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1017/CBO9780511975882.004"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "literal": "Ray Laurence"
+        },
+        {
+          "literal": "Simon Esmonde Cleary"
+        },
+        {
+          "literal": "Gareth Sears"
+        }
+      ],
+      "editors": [],
+      "title": "Colonisation and the development of Roman urbanism",
+      "subtitle": [],
+      "container_title": [
+        "The City in the Roman West, c.250 BC–c.AD 250"
+      ],
+      "publisher_as_deposited": "Cambridge University Press",
+      "year": 2011,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2011,
+            7,
+            14
+          ]
+        ],
+        "issued": [
+          [
+            2011,
+            7,
+            14
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "37-63",
+      "elocator": "",
+      "doi": "10.1017/cbo9780511975882.004",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "type": "print",
+          "value": "9780521877503"
+        },
+        {
+          "type": "print",
+          "value": "9780521701402"
+        },
+        {
+          "type": "electronic",
+          "value": "9780511975882"
+        }
+      ],
+      "publisher_authors_as_displayed": [
+        "Ray Laurence",
+        "Simon Esmonde Cleary",
+        "Gareth Sears"
+      ],
+      "publisher_container_title": [
+        "The City in the Roman West, c.250 BC–c.AD 250"
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1017%2Fcbo9780511975882.004",
+      "https://www.cambridge.org/core/books/abs/city-in-the-roman-west-c250-bccad-250/colonisation-and-the-development-of-roman-urbanism/1BAA66C9B26DF4F61E9152ED53691319"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The inherited author-only citation matches the publisher byline. Recover Ray Laurence, Simon Esmonde Cleary and Gareth Sears; do not treat Cleary as a different author.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:f0b1d7f5402755af0247",
+        "occ:d4e3e4c98f5fc9f79efc",
+        "occ:5b1484ac8b4315ff4f1c",
+        "occ:e2fb1f53e2684cae28f5",
+        "occ:34e1ecfd15c4cbc75136",
+        "occ:9dd6eaae8fbeac151ca3"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1017/cbo9781139047746.008",
+    "recorded_title": "Jeremy Smith, Deportations, in Red Nations",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "inactive_model_input_record",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1017/CBO9781139047746.008"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "literal": "Jeremy Smith"
+        }
+      ],
+      "editors": [],
+      "title": "Deportations",
+      "subtitle": [],
+      "container_title": [
+        "Red Nations"
+      ],
+      "publisher_as_deposited": "Cambridge University Press",
+      "year": 2013,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2013,
+            9,
+            12
+          ]
+        ],
+        "issued": [
+          [
+            2013,
+            9,
+            12
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "147-162",
+      "elocator": "",
+      "doi": "10.1017/cbo9781139047746.008",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "type": "print",
+          "value": "9780521111317"
+        },
+        {
+          "type": "print",
+          "value": "9780521128704"
+        },
+        {
+          "type": "electronic",
+          "value": "9781139047746"
+        }
+      ],
+      "publisher_authors_as_displayed": [
+        "Jeremy Smith"
+      ],
+      "publisher_container_title": [
+        "Red Nations: The Nationalities Experience in and after the USSR"
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1017%2Fcbo9781139047746.008",
+      "https://www.cambridge.org/core/books/abs/red-nations/deportations/9D3740851AE7241E52AECEFC8FC4FA80"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The inherited Smith citation matches the publisher chapter. Jeremy Smith is present on the chapter page although omitted from this Crossref deposit.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:ffb428c2e77d13bdc314",
+        "occ:adf3b5b40c70ee4f05b3",
+        "occ:90dc3e172690e004b472",
+        "occ:c62fd295c68052768548",
+        "occ:58fb9f6e5c794add563a",
+        "occ:3e8dbf4bec792d9bee6d",
+        "occ:1bbc0bea12196d4fcaa0",
+        "occ:73ff7cc8f39cd1e63e40",
+        "occ:9ecbd2e5b6362727b1dd",
+        "occ:16c7b763fe55c62c4adb",
+        "occ:2462cf787a1aeaacc281",
+        "occ:b4a4c7d134a54f141b65"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1017/chol9780521471374.004",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1017/CHOL9780521471374.004"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "given": "Hugh",
+          "family": "Kennedy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Egypt as a province in the Islamic caliphate, 641–868",
+      "subtitle": [],
+      "container_title": [
+        "Islamic Egypt 640-1517"
+      ],
+      "publisher_as_deposited": "Cambridge University Press",
+      "year": 1998,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            1998,
+            12,
+            10
+          ]
+        ],
+        "issued": [
+          [
+            1998,
+            12,
+            10
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "62-85",
+      "elocator": "",
+      "doi": "10.1017/chol9780521471374.004",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "value": "9781139053372",
+          "type": "electronic"
+        }
+      ],
+      "publisher_container_title": [
+        "The Cambridge History of Egypt"
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1017%2Fchol9780521471374.004",
+      "https://www.cambridge.org/core/books/abs/cambridge-history-of-egypt/egypt-as-a-province-in-the-islamic-caliphate-641868/FF5C416D97BB2C72F30F2E435B6AD7F4"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Kennedy citation and pp. 62–85 match. The publisher identifies The Cambridge History of Egypt; the deposit uses the volume subtitle Islamic Egypt 640–1517. Preserve both representations.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:5ad66f59687e3a00fe7c"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1017/ssh.2021.47",
+    "recorded_title": "Socioeconomic Status and Group Belonging in Colonial Sierra Leone",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1017/ssh.2021.47"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5273-0617",
+          "authenticated-orcid": false,
+          "given": "Stefania",
+          "family": "Galli",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Socioeconomic Status and Group Belonging: Evidence from Early-Nineteenth-Century Colonial West Africa",
+      "subtitle": [],
+      "container_title": [
+        "Social Science History"
+      ],
+      "publisher_as_deposited": "Cambridge University Press (CUP)",
+      "year": 2022,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2022
+          ]
+        ],
+        "published-online": [
+          [
+            2022,
+            1,
+            13
+          ]
+        ],
+        "issued": [
+          [
+            2022
+          ]
+        ]
+      },
+      "volume": "46",
+      "issue": "2",
+      "pages": "349-372",
+      "elocator": "",
+      "doi": "10.1017/ssh.2021.47",
+      "edition": "",
+      "isbn_as_deposited": [],
+      "publisher_authors_as_displayed": [
+        "Stefania Galli"
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1017%2Fssh.2021.47",
+      "https://www.cambridge.org/core/journals/social-science-history/article/socioeconomic-status-and-group-belonging-evidence-from-earlynineteenthcentury-colonial-west-africa/A58ACF8614CA073966E40DF313470D64"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "Replace the generic Sierra Leone access label in the typed view with Galli’s exact article metadata. Identity follows the exact DOI and publisher record; historical relevance is not re-verified here.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:0efb22326b7c0ca08594",
+        "occ:66a6285d31aac5620d88",
+        "occ:d3b7d78b9325ba1e3d42",
+        "occ:e93eca386c5deb2c9e48",
+        "occ:7461f785de7d3cd17cf1"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.10520/ejc128643",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://journals.co.za/doi/10.10520/EJC128643"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "Sea vs. land: the second Arab conquest of Alexandria (ca AH 25/AD 645–646)",
+      "authors": [
+        {
+          "literal": "V. Christides"
+        }
+      ],
+      "year": 2012,
+      "year_basis": "Sabinet publisher record",
+      "work_type": "journal-article",
+      "container_title": [
+        "Ekklesiastikos Pharos"
+      ],
+      "volume": "94",
+      "issue": "1",
+      "doi": "",
+      "handle": "10520/EJC128643"
+    },
+    "verification_urls": [
+      "https://doi.org/ra/10.10520/ejc128643",
+      "https://journals.co.za/doi/10.10520/EJC128643"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The source is Christides’s 2012 Alexandria article. Sabinet displays the persistent Handle 10520/EJC128643. The /doi/ path led the inventory to classify it as a DOI; DOI.org reports no registered DOI. Retain the legacy work ID and original access URL, but type the persistent identifier as a Handle.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:e637eeb680b926d55f31"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json",
+        "REGISTRATION_AGENCY_CHECKS.json"
+      ]
+    },
+    "preferred_access_url": "https://journals.co.za/doi/10.10520/EJC128643"
+  },
+  {
+    "work_id": "doi:10.1068/d348t",
+    "recorded_title": "Environment and Planning D, Spanish reducciones and Andean spatial reorganization",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://journals.sagepub.com/doi/10.1068/d348t"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "given": "Heidi V",
+          "family": "Scott",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Geography, University of Cambridge, Downing Place, Cambridge CB2 3EN, England;"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "A Mirage of Colonial Consensus: Resettlement Schemes in Early Spanish Peru",
+      "subtitle": [],
+      "container_title": [
+        "Environment and Planning D: Society and Space"
+      ],
+      "publisher_as_deposited": "SAGE Publications",
+      "year": 2004,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2004,
+            12
+          ]
+        ],
+        "published-online": [
+          [
+            2004,
+            12,
+            1
+          ]
+        ],
+        "issued": [
+          [
+            2004,
+            12
+          ]
+        ]
+      },
+      "volume": "22",
+      "issue": "6",
+      "pages": "885-899",
+      "elocator": "",
+      "doi": "10.1068/d348t",
+      "edition": "",
+      "isbn_as_deposited": []
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1068%2Fd348t"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "Identify the generic early Spanish Peru/reducciones label as Heidi V. Scott’s article through the exact DOI deposit. Publisher access failed; no claim passage is newly verified.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:d71475570dc24025aa50",
+        "occ:e21194dc5626bd052e37",
+        "occ:894e09b083e3219d672d",
+        "occ:951e280aa0c19dd7a850",
+        "occ:28df63312d28a3fd5c95"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1080/08039410.2021.1984305",
+    "recorded_title": "Nordic Journal of Human Rights, conquest, land alienation, and dispossession in southern Ethiopia",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/08039410.2021.1984305"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3308-2263",
+          "authenticated-orcid": false,
+          "given": "Yonas",
+          "family": "Tesema",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Social Anthropology, Norwegian University of Science and Technology, Trondheim, Norway"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Interrogating Dispossession for Development in Ethiopia",
+      "subtitle": [],
+      "container_title": [
+        "Forum for Development Studies"
+      ],
+      "publisher_as_deposited": "Informa UK Limited",
+      "year": 2022,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2022,
+            1,
+            2
+          ]
+        ],
+        "published-online": [
+          [
+            2021,
+            10,
+            8
+          ]
+        ],
+        "issued": [
+          [
+            2021,
+            10,
+            8
+          ]
+        ]
+      },
+      "volume": "49",
+      "issue": "1",
+      "pages": "53-76",
+      "elocator": "",
+      "doi": "10.1080/08039410.2021.1984305",
+      "edition": "",
+      "isbn_as_deposited": []
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1080%2F08039410.2021.1984305",
+      "https://www.tandfonline.com/toc/sfds20/49/1"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "Correct the inherited journal label Nordic Journal of Human Rights to Forum for Development Studies. Crossref and the publisher’s issue listing identify Yonas Tesema’s article, 49(1), 53–76. The historical southern-conquest claim still requires an exact passage; this metadata correction does not adjudicate that claim.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:f113427f489d6e90f992",
+        "occ:6634bb7087d2708b2a38",
+        "occ:dd736da8b16c627b8cee",
+        "occ:15583c3302df9985c574",
+        "occ:9e0bb4b572fce8272752"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ],
+      "claim_linkage_followup": "Locate the southern-conquest passage in the identified Tesema article before using it to reassess event claims."
+    }
+  },
+  {
+    "work_id": "doi:10.1080/21520844.2020.1830606",
+    "recorded_title": "'The 1964 Expulsion of Greek Citizens from Turkey', Journal of the Middle East and Africa 11(4), 2020",
+    "scope": [
+      "historical_august_inventory",
+      "historical_gapscan_confirmed",
+      "inactive_model_input_record"
+    ],
+    "access_urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/21520844.2020.1830606"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "given": "Banu",
+          "family": "Eligür",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Başkent University"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "The 1964 Expulsion of Greek Citizens from Turkey: Economic and Demographic Turkification Under Ethnocultural Nationalism",
+      "subtitle": [],
+      "container_title": [
+        "The Journal of the Middle East and Africa"
+      ],
+      "publisher_as_deposited": "Informa UK Limited",
+      "year": 2020,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ],
+        "published-online": [
+          [
+            2020,
+            11,
+            17
+          ]
+        ],
+        "issued": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ]
+      },
+      "volume": "11",
+      "issue": "4",
+      "pages": "319-340",
+      "elocator": "",
+      "doi": "10.1080/21520844.2020.1830606",
+      "edition": "",
+      "isbn_as_deposited": []
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1080%2F21520844.2020.1830606"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The inherited shortened 1964-expulsion title and journal match Banu Eligür’s exact DOI record. Preserve the separate online and issue dates.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:123af150e1663efe7aab",
+        "occ:906fdb9afec0392db285",
+        "occ:5d8a2695eb2992a41043"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1093/acrefore/9780199381135.013.4454",
+    "recorded_title": "Oxford Classical Dictionary, Norba, accessed 2026-08-30, as a modern synthesis for destruction and nonrecovery of the ancient city; not a second ancient witness or population census",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1093/acrefore/9780199381135.013.4454"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "reference-entry",
+      "authors": [
+        {
+          "given": "T W",
+          "family": "Potter",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Norba",
+      "subtitle": [],
+      "container_title": [
+        "Oxford Classical Dictionary"
+      ],
+      "publisher_as_deposited": "Oxford University PressNew York, NY",
+      "year": 2016,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2016,
+            3,
+            7
+          ]
+        ],
+        "issued": [
+          [
+            2016,
+            3,
+            7
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "elocator": "",
+      "doi": "10.1093/acrefore/9780199381135.013.4454",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "value": "9780197851371",
+          "type": "electronic"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1093%2Facrefore%2F9780199381135.013.4454"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The long Norba source note contains the exact entry title and container. Recover T. W. Potter from the deposit. Do not turn the modern synthesis into an independent ancient witness.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:65f18bae99082e1ab861",
+        "occ:216c32571669fae4f26e"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1093/acrefore/9780199381135.013.5377",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1093/acrefore/9780199381135.013.5377"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "reference-entry",
+      "authors": [
+        {
+          "given": "Theodore John",
+          "family": "Cadoux",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Robin",
+          "family": "Seager",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "proscription",
+      "subtitle": [],
+      "container_title": [
+        "Oxford Classical Dictionary"
+      ],
+      "publisher_as_deposited": "Oxford University PressNew York, NY",
+      "year": 2016,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2016,
+            3,
+            7
+          ]
+        ],
+        "issued": [
+          [
+            2016,
+            3,
+            7
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "elocator": "",
+      "doi": "10.1093/acrefore/9780199381135.013.5377",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "value": "9780197851371",
+          "type": "electronic"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1093%2Facrefore%2F9780199381135.013.5377"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The blank extracted title is recoverable from the local Cadoux and Seager citation; it matches the Oxford deposit.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:50e72501319a2be65b59"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1093/oxfordhb/9780190858155.013.45",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1093/oxfordhb/9780190858155.013.45"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "given": "Pierre",
+          "family": "Leriche",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Laboratory Archaeology of the Near East Nanterre, Centre National de la Recherche Scientifique"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Europos-Dura (ca. 300 bc–ad 256)",
+      "subtitle": [],
+      "container_title": [
+        "The Oxford Handbook of the Hellenistic and Roman Near East"
+      ],
+      "publisher_as_deposited": "Oxford University Press",
+      "year": 2025,
+      "year_basis": "issued",
+      "all_deposited_dates": {
+        "published-online": [
+          [
+            2025,
+            4,
+            22
+          ]
+        ],
+        "issued": [
+          [
+            2025,
+            4,
+            22
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "519-536",
+      "elocator": "",
+      "doi": "10.1093/oxfordhb/9780190858155.013.45",
+      "edition": "1",
+      "isbn_as_deposited": [
+        {
+          "value": "9780190858155",
+          "type": "print"
+        },
+        {
+          "value": "9780190858186",
+          "type": "electronic"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1093%2Foxfordhb%2F9780190858155.013.45"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Leriche citation matches the Oxford chapter metadata. Deposited pp. 519–536 are an extent, not proof that all chapter pages were read.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:148885ef0237be1d107d"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1111/arcm.12873",
+    "recorded_title": "Modern cross-check source 2: onlinelibrary.wiley.com",
+    "scope": [
+      "active_release",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://onlinelibrary.wiley.com/doi/abs/10.1111/arcm.12873"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1661-2613",
+          "authenticated-orcid": false,
+          "given": "Maria",
+          "family": "Verde",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Dipartimento di Scienze della Terra, dell'Ambiente e delle Risorse Università degli Studi di Napoli Federico II  Naples Italy"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8088-9481",
+          "authenticated-orcid": false,
+          "given": "Alberto",
+          "family": "De Bonis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Dipartimento di Scienze della Terra, dell'Ambiente e delle Risorse Università degli Studi di Napoli Federico II  Naples Italy"
+            },
+            {
+              "name": "CRACS, Center for Research on Archaeometry and Conservation Science  Naples Italy"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Virginie",
+          "family": "Renson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Reactor Center University of Missouri  Columbia MO USA"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0912-0503",
+          "authenticated-orcid": false,
+          "given": "Chiara",
+          "family": "Germinario",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "CRACS, Center for Research on Archaeometry and Conservation Science  Naples Italy"
+            },
+            {
+              "name": "Dipartimento di Scienze e Tecnologie Università degli Studi del Sannio  Benevento Italy"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Concetta",
+          "family": "Rispoli",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Dipartimento di Scienze della Terra, dell'Ambiente e delle Risorse Università degli Studi di Napoli Federico II  Naples Italy"
+            },
+            {
+              "name": "CRACS, Center for Research on Archaeometry and Conservation Science  Naples Italy"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Francesco",
+          "family": "D'Uva",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Dipartimento di Scienze della Terra, dell'Ambiente e delle Risorse Università degli Studi di Napoli Federico II  Naples Italy"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Antonella",
+          "family": "Tomeo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Soprintendenza Archeologia belle arti e paesaggio per le province di Caserta e Benevento  Caserta Italy"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Vincenzo",
+          "family": "Morra",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Dipartimento di Scienze della Terra, dell'Ambiente e delle Risorse Università degli Studi di Napoli Federico II  Naples Italy"
+            },
+            {
+              "name": "CRACS, Center for Research on Archaeometry and Conservation Science  Naples Italy"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Minero‐petrographic characterization of fine ware from Cales (South Italy)",
+      "subtitle": [],
+      "container_title": [
+        "Archaeometry"
+      ],
+      "publisher_as_deposited": "Wiley",
+      "year": 2023,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2023,
+            12
+          ]
+        ],
+        "published-online": [
+          [
+            2023,
+            5,
+            6
+          ]
+        ],
+        "issued": [
+          [
+            2023,
+            5,
+            6
+          ]
+        ]
+      },
+      "volume": "65",
+      "issue": "6",
+      "pages": "1145-1184",
+      "elocator": "",
+      "doi": "10.1111/arcm.12873",
+      "edition": "",
+      "isbn_as_deposited": []
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1111%2Farcm.12873",
+      "https://www.iris.unina.it/handle/11588/922725"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "Replace the generic Wiley host label with Verde and colleagues’ exact Cales pottery article. Author institutional metadata confirms the title, eight authors, 2023 and pp. 1145–1184. Its relevance to the historical colony claim needs a passage review.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:3e7f265d839402c5fff6",
+        "occ:366b8dc377ce7588ff94",
+        "occ:f614ab36d1a70dda1b21",
+        "occ:71a9b01639bb53351c57"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ],
+      "claim_linkage_followup": "Distinguish evidence for pottery production from evidence for colonial land and population outcomes."
+    }
+  },
+  {
+    "work_id": "doi:10.1111/j.1468-2281.2006.00394.x",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1111/j.1468-2281.2006.00394.x",
+      "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-2281.2006.00394.x"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "given": "Romila",
+          "family": "Thapar",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "The Mauryan empire in early India*",
+      "subtitle": [],
+      "container_title": [
+        "Historical Research"
+      ],
+      "publisher_as_deposited": "Oxford University Press (OUP)",
+      "year": 2006,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2006,
+            8
+          ]
+        ],
+        "issued": [
+          [
+            2006,
+            8
+          ]
+        ]
+      },
+      "volume": "79",
+      "issue": "205",
+      "pages": "287-305",
+      "elocator": "",
+      "doi": "10.1111/j.1468-2281.2006.00394.x",
+      "edition": "",
+      "isbn_as_deposited": []
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1111%2Fj.1468-2281.2006.00394.x"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Thapar citation matches the article metadata. Keep the local p. 299 locator as inherited; do not infer that it was re-read during this metadata pass.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:217dfcc820059d566f5b",
+        "occ:4e12b4bff2bb78c9ad21"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1163/9789004386549_013",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1163/9789004386549_013"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "given": "Marie",
+          "family": "Legendre",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Landowners, Caliphs and State Policy over Landholdings in the Egyptian Countryside",
+      "subtitle": [
+        "Theory and Practice"
+      ],
+      "container_title": [
+        "Authority and Control in the Countryside"
+      ],
+      "publisher_as_deposited": "BRILL",
+      "year": 2018,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2018,
+            10,
+            18
+          ]
+        ],
+        "issued": [
+          [
+            2018,
+            10,
+            18
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "392-419",
+      "elocator": "",
+      "doi": "10.1163/9789004386549_013",
+      "edition": "",
+      "isbn_as_deposited": [
+        {
+          "value": "9789004386358",
+          "type": "print"
+        },
+        {
+          "value": "9789004386549",
+          "type": "electronic"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1163%2F9789004386549_013"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Legendre chapter citation matches the Brill deposit. Retain the inherited pp. 399–401 claim locator separately from the chapter extent.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:bb5d33fc9c23a06b6bfe"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1285/i22402772a15p309",
+    "recorded_title": "Nicolò Spadavecchia, Testimonianze di interventi sillani nel Liber coloniarum primus, pp. 315–317, for the modern interpretation of the three notices as informal military occupation rather than formal colonial allotment",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1285/i22402772a15p309"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "publisher_authors_as_displayed": [
+        "Nicolò Spadavecchia"
+      ],
+      "authors": [
+        {
+          "given": "Nicolò",
+          "family": "Spadavecchia",
+          "literal": "Spadavecchia, Nicolò"
+        }
+      ],
+      "title": "Testimonianze di interventi sillani nel Liber coloniarum primus",
+      "publisher_as_deposited": "University of Salento",
+      "year": 2025,
+      "year_basis": "DataCite publicationYear",
+      "work_type": "journal-article",
+      "doi": "10.1285/i22402772a15p309",
+      "related_identifiers": [],
+      "deposited_work_type": "DataCite: Dataset",
+      "type_basis": "publisher dc.type and article page",
+      "container_title": [
+        "Quaderni Lupiensi di Storia e Diritto"
+      ],
+      "pages": "309–318",
+      "issn": [
+        "2240-2772"
+      ]
+    },
+    "verification_urls": [
+      "https://ese-journals.unisalento.it/index.php/quadernilupiensi/article/view/32630",
+      "https://doi.org/ra/10.1285/i22402772a15p309",
+      "https://api.datacite.org/dois/10.1285/i22402772a15p309"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The DOI belongs to DataCite, not Crossref. DataCite calls it a Dataset, but the publisher identifies a journal article by Nicolò Spadavecchia in Quaderni Lupiensi di Storia e Diritto, 2025, pp. 309–318. Use the publisher’s work type and page extent, retaining the deposited type discrepancy.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:190eeeec3f5f2b6dfc83"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json",
+        "REGISTRATION_AGENCY_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1353/fch.2007.0003",
+    "recorded_title": "French Colonial History, European settlers and land in colonial Tunisia",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1353/fch.2007.0003"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "given": "Mark I",
+          "family": "Choate",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Identity Politics and Political Perception in the European Settlement of Tunisia: The French Colony versus the Italian Colony",
+      "subtitle": [],
+      "container_title": [
+        "French Colonial History"
+      ],
+      "publisher_as_deposited": "Project MUSE",
+      "year": 2007,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2007
+          ]
+        ],
+        "issued": [
+          [
+            2007
+          ]
+        ]
+      },
+      "volume": "8",
+      "issue": "1",
+      "pages": "97-109",
+      "elocator": "",
+      "doi": "10.1353/fch.2007.0003",
+      "edition": "",
+      "isbn_as_deposited": []
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1353%2Ffch.2007.0003"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "Identify the generic Tunisia label as Mark I. Choate’s exact article through its DOI deposit. Project MUSE returned a verification page, which supplies no passage evidence.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:a1f9d1a575282bb579cc",
+        "occ:1ce5291be89a1a00ed8b",
+        "occ:896188a3523dcd3aff1a",
+        "occ:0d67466bc4de73b8742f",
+        "occ:431bc1ac3a1e98f0a31e"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.1515/opar-2022-0342",
+    "recorded_title": "Open Archaeology, Arab migration and population change in medieval North Africa",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.1515/OPAR-2022-0342"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "given": "Hagit",
+          "family": "Nol",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institut für Archäologische Wissenschaften, Goethe-Universität , Frankfurt am Main , Germany"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Arab Migration During Early Islam: The Seventh to Eighth Century AD from an Archaeological Perspective",
+      "subtitle": [],
+      "container_title": [
+        "Open Archaeology"
+      ],
+      "publisher_as_deposited": "Walter de Gruyter GmbH",
+      "year": 2023,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2023,
+            12,
+            29
+          ]
+        ],
+        "published-online": [
+          [
+            2023,
+            12,
+            29
+          ]
+        ],
+        "issued": [
+          [
+            2023,
+            1,
+            1
+          ]
+        ]
+      },
+      "volume": "9",
+      "issue": "1",
+      "pages": "",
+      "elocator": "20220342",
+      "doi": "10.1515/opar-2022-0342",
+      "edition": "",
+      "isbn_as_deposited": []
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.1515%2Fopar-2022-0342"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "Identify the generic Arab migration label as Hagit Nol’s article through its exact DOI deposit. The inherited North Africa description is not the article title and is not adopted as verified geographic coverage.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:15dc16ef7ddd892f3eb0",
+        "occ:96a3e0c5825d6d14b476",
+        "occ:7e2dc6f88148b5e22ed1",
+        "occ:db2c5f329403c88d8f8f",
+        "occ:f5e0efcaa00af4bde5a4"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.2307/133122",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.2307/133122"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "given": "Karl F.",
+          "family": "Friday",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Pushing beyond the Pale: The Yamato Conquest of the Emishi and Northern Japan",
+      "subtitle": [],
+      "container_title": [
+        "Journal of Japanese Studies"
+      ],
+      "publisher_as_deposited": "University of California Press",
+      "year": 1997,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            1997
+          ]
+        ],
+        "issued": [
+          [
+            1997
+          ]
+        ]
+      },
+      "volume": "23",
+      "issue": "1",
+      "pages": "1",
+      "elocator": "",
+      "doi": "10.2307/133122",
+      "edition": "",
+      "isbn_as_deposited": []
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.2307%2F133122"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Friday citation matches author, title, year and journal in the deposit. Crossref supplies first page 1 only; retain the inherited 1–24 extent as a source-note claim, not a newly verified complete extent.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:af8ee247eb01ee7a4683"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.2307/jj.8306314",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.2307/jj.8306314"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "monograph",
+      "authors": [
+        {
+          "given": "PATRICK",
+          "family": "OLIVELLE",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Ashoka",
+      "subtitle": [
+        "Portrait of a Philosopher King"
+      ],
+      "container_title": [],
+      "publisher_as_deposited": "Yale University Press",
+      "year": 2024,
+      "year_basis": "Yale publication date and Crossref deposit",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2024,
+            1,
+            9
+          ]
+        ],
+        "issued": [
+          [
+            2024,
+            1,
+            9
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "elocator": "",
+      "doi": "10.2307/jj.8306314",
+      "edition": "",
+      "isbn_as_deposited": [
+        {
+          "value": "9780300274905",
+          "type": "electronic"
+        },
+        {
+          "value": "9780300270006",
+          "type": "print"
+        }
+      ],
+      "publisher_verified_formats": [
+        {
+          "format": "hardcover",
+          "isbn": "9780300270006",
+          "published": "2024-01-09"
+        },
+        {
+          "format": "ebook",
+          "isbn": "9780300274905",
+          "published": "2024-01-09"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.2307%2Fjj.8306314",
+      "https://yalebooks.yale.edu/book/9780300270006/ashoka/"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Olivelle citation identifies the same book. Yale confirms the subtitle and 9 January 2024 publication of hardback 9780300270006 and ebook 9780300274905. The local 2023 citation is preserved as an edition/year exception pending comparison with the actual cited copy; do not change its passage locators.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:8fbfcef9c950190af07b"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ],
+      "edition_followup": "The source note cites 2023. Compare its actual copy and page numbering; do not silently assign the Yale 2024 formats to the prior reading."
+    }
+  },
+  {
+    "work_id": "doi:10.2436/15.1000.02.14",
+    "recorded_title": "Giuseppina Renda and Pierfrancesco Izzo, The Calore River, pages 159-172, especially 161-164, Local archaeological evidence blocking literal disappearance at Telesia and cautioning against undated centuriation as Sullan proof.",
+    "scope": [
+      "authoring_source_note_link",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://doi.org/10.2436/15.1000.02.14"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "title": "The Calore River: settlements and roads in Roman times",
+      "authors": [
+        {
+          "literal": "Giuseppina Renda"
+        },
+        {
+          "literal": "Pierfrancesco Izzo"
+        }
+      ],
+      "work_type": "book-chapter",
+      "container_title": [
+        "Proceedings of the 1st TIR-FOR Symposium: from territory studies to digital cartography"
+      ],
+      "editors": [
+        {
+          "literal": "Marta Prevosti"
+        },
+        {
+          "literal": "Josep Guitart i Duran"
+        }
+      ],
+      "year": 2021,
+      "year_basis": "IEC catalogue",
+      "pages": "159–172",
+      "doi": "10.2436/15.1000.02.14",
+      "isbn_as_catalogued": [
+        "9788499656403",
+        "9788494974700"
+      ]
+    },
+    "verification_urls": [
+      "https://doi.org/ra/10.2436/15.1000.02.14",
+      "https://publicacions.iec.cat/PopulaFitxa.do?idCatalogacio=37468&moduleName=cataleg&subModuleName=",
+      "https://publicacions.iec.cat/repository/pdf/00000314/00000033.pdf"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The DOI is registered through mEDRA. The IEC catalogue and chapter PDF identify Renda and Izzo, the 2021 proceedings, and pp. 159–172. Recover the containing volume, editors and ISBNs from the catalogue.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:28ed6c3b719c28adc956",
+        "occ:8632cf949f4f320fb00f"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json",
+        "REGISTRATION_AGENCY_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.3406/rebyz.2013.4989",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.3406/rebyz.2013.4989"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "journal-article",
+      "authors": [
+        {
+          "given": "Frank R.",
+          "family": "Trombley",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "Fiscal documents from the Muslim conquest of Egypt: military supplies and administrative dislocation, ca 639-644",
+      "subtitle": [],
+      "container_title": [
+        "Revue des études byzantines"
+      ],
+      "publisher_as_deposited": "PERSEE Program",
+      "year": 2013,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2013
+          ]
+        ],
+        "issued": [
+          [
+            2013
+          ]
+        ]
+      },
+      "volume": "71",
+      "issue": "1",
+      "pages": "5-38",
+      "elocator": "",
+      "doi": "10.3406/rebyz.2013.4989",
+      "edition": "",
+      "isbn_as_deposited": [],
+      "publisher_authors_as_displayed": [
+        "Trombley, Frank R."
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.3406%2Frebyz.2013.4989",
+      "https://www.persee.fr/doc/rebyz_0766-5598_2013_num_71_1_4989"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Trombley citation, DOI deposit and Persée page agree on article, author, 2013 and pp. 5–38.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:b8eda2fbbb14c784e723"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.4000/14unm",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.4000/14unm"
+    ],
+    "metadata_status": "container_identity_reconciled_chapter_link_corrected",
+    "typed_fields": {
+      "work_type": "edited-book",
+      "authors": [],
+      "editors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7346-3925",
+          "authenticated-orcid": false,
+          "given": "Olivier",
+          "family": "Henry",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "editor"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2556-4270",
+          "authenticated-orcid": false,
+          "given": "Koray",
+          "family": "Konuk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "editor"
+            }
+          ]
+        }
+      ],
+      "title": "Karia Arkhaia. La Carie, des origines à la période pré-hékatomnide",
+      "subtitle": [
+        "4e Rencontres d'archéologie de l'IFEA, Istanbul 14-16 novembre 2013"
+      ],
+      "container_title": [],
+      "publisher_as_deposited": "Institut français d’études anatoliennes",
+      "year": 2019,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2019
+          ]
+        ],
+        "issued": [
+          [
+            2019
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "elocator": "",
+      "doi": "10.4000/14unm",
+      "edition": "",
+      "isbn_as_deposited": [
+        {
+          "value": "9786256212459",
+          "type": "electronic"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.4000%2F14unm",
+      "https://api.crossref.org/works/10.4000%2F14unk",
+      "https://books.openedition.org/ifeagd/6753"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "This DOI is the containing Karia Arkhaia volume: both registry title and DOI redirect identify the book. The local notes use it for Bresson’s chapter. DOI 10.4000/14unk instead has the chapter’s exact title/author in Crossref and redirects to /ifeagd/6673. That chapter page incorrectly emits the book DOI in citation_doi. Preserve the book record and link the two existing chapter access records; never merge book and chapter.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:9e403b7c3585f5f88db5",
+        "occ:95620970318f64610907"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json",
+        "REGISTRY_TITLE_SEARCHES.json",
+        "TARGETED_METADATA_CHECKS.json",
+        "SUPPLEMENTAL_METADATA_CHECKS.json"
+      ],
+      "chapter_doi": "10.4000/14unk"
+    },
+    "preferred_access_url": "https://books.openedition.org/ifeagd/6753"
+  },
+  {
+    "work_id": "doi:10.4067/s0717-71942012000200001",
+    "recorded_title": "Antonio Espino López, ‘Granada, Canarias, América: el uso de prácticas aterrorizantes en la praxis de tres conquistas, 1482–1557’",
+    "scope": [
+      "active_release",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.4067/S0717-71942012000200001"
+    ],
+    "metadata_status": "source_identity_reconciled_identifier_unresolved",
+    "typed_fields": {
+      "title": "Granada, Canarias, América. El uso de prácticas aterrorizantes en la praxis de tres conquistas, 1482–1557",
+      "authors": [
+        {
+          "literal": "Antonio Espino López"
+        }
+      ],
+      "work_type": "journal-article",
+      "container_title": [
+        "Historia (Santiago)"
+      ],
+      "year": 2012,
+      "year_basis": "publisher citation",
+      "volume": "45",
+      "issue": "II",
+      "pages": "369–398",
+      "doi": "",
+      "unverified_doi_forms": [
+        "10.4067/S0717-71942012000200001",
+        "10.4067/0717-71942012000200001"
+      ]
+    },
+    "verification_urls": [
+      "https://doi.org/ra/10.4067/s0717-71942012000200001",
+      "https://revistahistoria.uc.cl/index.php/rhis/article/view/10102"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The publisher identifies Espino López’s article, Historia (Santiago) 45(II), 2012, pp. 369–398. Its displayed DOI omits the initial S, but DOI.org reports BOTH forms unregistered. Use the publisher article URL as the working access link; keep the identifier discrepancy open rather than claiming a corrected DOI.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:43eed02f24648451d9ca",
+        "occ:60228d3af67bc6d5e26a"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json",
+        "REGISTRATION_AGENCY_CHECKS.json",
+        "REGISTRY_TITLE_SEARCHES.json"
+      ]
+    },
+    "preferred_access_url": "https://revistahistoria.uc.cl/index.php/rhis/article/view/10102"
+  },
+  {
+    "work_id": "doi:10.5281/zenodo.18185162",
+    "recorded_title": "Camporeale et al., Acropolis of Populonia, 2023–2025, FOLD&R 610 (2025), pp. 1–23, for a mid-first-century BCE fire and active reassessment of the causes of acropolis abandonment; not proof of a named replacement event",
+    "scope": [
+      "authoring_source_note_link",
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://doi.org/10.5281/zenodo.18185162"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "publisher_authors_as_displayed": [
+        "Camporeale, Stefano",
+        "Mugnai, Niccolò",
+        "Barbafiera, Cleo",
+        "Fronteddu, Marco",
+        "Sgromo, Maria Teresa"
+      ],
+      "authors": [
+        {
+          "given": "Stefano",
+          "family": "Camporeale",
+          "literal": "Camporeale, Stefano"
+        },
+        {
+          "given": "Niccolò",
+          "family": "Mugnai",
+          "literal": "Mugnai, Niccolò"
+        },
+        {
+          "given": "Cleo",
+          "family": "Barbafiera",
+          "literal": "Barbafiera, Cleo"
+        },
+        {
+          "given": "Marco",
+          "family": "Fronteddu",
+          "literal": "Fronteddu, Marco"
+        },
+        {
+          "given": "Maria Teresa",
+          "family": "Sgromo",
+          "literal": "Sgromo, Maria Teresa"
+        }
+      ],
+      "title": "Acropolis of Populonia (Piombino, LI):  Report on the excavations in the domus and on the street front of Le Logge, 2023–2025",
+      "publisher_as_deposited": "Associazione Internazionale di Archeologia Classica",
+      "year": 2025,
+      "year_basis": "DataCite publicationYear",
+      "work_type": "journal-article",
+      "doi": "10.5281/zenodo.18185162",
+      "related_identifiers": [
+        {
+          "relationType": "IsVersionOf",
+          "relatedIdentifier": "10.5281/zenodo.18185161",
+          "relatedIdentifierType": "DOI"
+        },
+        {
+          "relationType": "IsPartOf",
+          "relatedIdentifier": "1828-3179",
+          "resourceTypeGeneral": "Collection",
+          "relatedIdentifierType": "ISSN"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://zenodo.org/records/18185162",
+      "https://doi.org/ra/10.5281/zenodo.18185162",
+      "https://api.datacite.org/dois/10.5281/zenodo.18185162"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "Recover the exact Populonia report title, five authors, 2025 and journal-article type from DataCite and the Zenodo metadata page. Retain the version DOI and its IsVersionOf relation to 10.5281/zenodo.18185161. This is a source hosted on Zenodo, not the project’s unpublished deposit.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:20e03e449a34fa0a57a9",
+        "occ:9d38b10d53b02cd129b0"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json",
+        "REGISTRATION_AGENCY_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.5871/bacad/9780197263907.003.0011",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://doi.org/10.5871/bacad/9780197263907.003.0011"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "given": "Petra M.",
+          "family": "Sijpesteijn",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editors": [],
+      "title": "New Rule over Old Structures: Egypt after the Muslim Conquest",
+      "subtitle": [],
+      "container_title": [
+        "Regime Change in the Ancient Near East and Egypt"
+      ],
+      "publisher_as_deposited": "British Academy",
+      "year": 2007,
+      "year_basis": "published-print",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            2007,
+            4,
+            12
+          ]
+        ],
+        "published-online": [
+          [
+            2012,
+            1,
+            31
+          ]
+        ],
+        "issued": [
+          [
+            2007,
+            4,
+            12
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "elocator": "",
+      "doi": "10.5871/bacad/9780197263907.003.0011",
+      "edition": "",
+      "isbn_as_deposited": [
+        {
+          "value": "9780197263907",
+          "type": "print"
+        },
+        {
+          "value": "9780191734687",
+          "type": "electronic"
+        }
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.5871%2Fbacad%2F9780197263907.003.0011"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "The local Sijpesteijn title and 2007 date match the British Academy deposit. Keep the 2012 online date distinct from the print year.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:0aaea36b815572bf12e8"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "doi:10.5949/upo9781846317262.001",
+    "recorded_title": "Gold, A Stone in Spain's Shoe: Introduction",
+    "scope": [
+      "active_release",
+      "audit_registry_unassigned",
+      "historical_august_inventory",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://doi.org/10.5949/UPO9781846317262.001"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "authors": [
+        {
+          "literal": "Peter Gold"
+        }
+      ],
+      "editors": [],
+      "title": "Introduction",
+      "subtitle": [],
+      "container_title": [
+        "A Stone in Spain's Shoe"
+      ],
+      "publisher_as_deposited": "Liverpool University Press",
+      "year": 1994,
+      "year_basis": "1994 agreed by publisher platforms and deposit; exact month differs",
+      "all_deposited_dates": {
+        "published-print": [
+          [
+            1994,
+            12,
+            1
+          ]
+        ],
+        "issued": [
+          [
+            1994,
+            12,
+            1
+          ]
+        ]
+      },
+      "volume": "",
+      "issue": "",
+      "pages": "1-6",
+      "elocator": "",
+      "doi": "10.5949/upo9781846317262.001",
+      "edition": "",
+      "isbn_as_deposited": [
+        {
+          "type": "print",
+          "value": "9780853232094"
+        }
+      ],
+      "publisher_container_title": [
+        "A Stone in Spain's Shoe: The Search for a Solution to the Problem of Gibraltar"
+      ]
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.5949%2Fupo9781846317262.001",
+      "https://www.cambridge.org/core/books/abs/stone-in-spains-shoe/introduction/7E61887C5B2267F48F86544D293F86FC"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "decision": "Recover Peter Gold as chapter author from Cambridge’s page. Title, containing book and pp. 1–6 match. Cambridge and Oxford/Crossref differ on the month; retain 1994 as the unambiguous citation year and preserve both deposited dates.",
+      "source_passages_newly_verified": false,
+      "occurrence_ids": [
+        "occ:9b426c66c093b7ca3b43",
+        "occ:804b0af1a574b3594ba2",
+        "occ:4b481956709ac3512230",
+        "occ:9ab374cd1509f9db68eb",
+        "occ:0645509d4726d5cc037a"
+      ],
+      "evidence_files": [
+        "SELECTED_EXCEPTIONS.json",
+        "BOUND_OCCURRENCES.json",
+        "PUBLISHER_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "access:74aa08736bbe3da65af9",
+    "recorded_title": "Bresson, Pidasa, Miletos, and the disputed highland population-transfer interpretation",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://books.openedition.org/ifeagd/6673"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "title": "Pidasa, Miletos, and the Karian revolt",
+      "authors": [
+        {
+          "given": "Alain",
+          "family": "Bresson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "The University of Chicago, abresson@uchicago.edu"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7346-3925",
+          "authenticated-orcid": false,
+          "given": "Olivier",
+          "family": "Henry",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "editor"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2556-4270",
+          "authenticated-orcid": false,
+          "given": "Koray",
+          "family": "Konuk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "editor"
+            }
+          ]
+        }
+      ],
+      "container_title": [
+        "Karia Arkhaia. La Carie, des origines à la période pré-hékatomnide"
+      ],
+      "publisher_as_deposited": "Institut français d’études anatoliennes",
+      "year": 2019,
+      "year_basis": "Crossref published-print and publisher chapter metadata",
+      "pages": "227–246",
+      "page_basis": "deduplicated repeated identical Crossref extent; also matches inherited locator",
+      "doi": "10.4000/14unk"
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.4000%2F14unk",
+      "https://books.openedition.org/ifeagd/6673"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "preferred_access_url": "https://books.openedition.org/ifeagd/6673",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "source_passages_newly_verified": false,
+      "decision": "Existing access identity matches Bresson’s chapter. Retain this ID and link its book separately. The publisher chapter page’s citation_doi incorrectly names the containing book; the registry and DOI redirect identify the chapter DOI.",
+      "evidence_files": [
+        "TARGETED_METADATA_CHECKS.json",
+        "SUPPLEMENTAL_METADATA_CHECKS.json"
+      ]
+    }
+  },
+  {
+    "work_id": "title:bresson pidasa miletos and the karian revolt",
+    "recorded_title": "Bresson: Pidasa, Miletos, and the Karian revolt",
+    "scope": [
+      "authoring_source_note_link",
+      "historical_august_inventory",
+      "inactive_model_input_record"
+    ],
+    "access_urls": [
+      "https://books.openedition.org/ifeagd/6828"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "book-chapter",
+      "title": "Pidasa, Miletos, and the Karian revolt",
+      "authors": [
+        {
+          "given": "Alain",
+          "family": "Bresson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "The University of Chicago, abresson@uchicago.edu"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7346-3925",
+          "authenticated-orcid": false,
+          "given": "Olivier",
+          "family": "Henry",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "editor"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2556-4270",
+          "authenticated-orcid": false,
+          "given": "Koray",
+          "family": "Konuk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "editor"
+            }
+          ]
+        }
+      ],
+      "container_title": [
+        "Karia Arkhaia. La Carie, des origines à la période pré-hékatomnide"
+      ],
+      "publisher_as_deposited": "Institut français d’études anatoliennes",
+      "year": 2019,
+      "year_basis": "Crossref published-print and publisher chapter metadata",
+      "pages": "227–246",
+      "page_basis": "deduplicated repeated identical Crossref extent; also matches inherited locator",
+      "doi": "10.4000/14unk"
+    },
+    "verification_urls": [
+      "https://api.crossref.org/works/10.4000%2F14unk",
+      "https://books.openedition.org/ifeagd/6673"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "preferred_access_url": "https://books.openedition.org/ifeagd/6673",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "bibliographic_identity_only",
+      "source_passages_newly_verified": false,
+      "decision": "Existing access identity matches Bresson’s chapter. Retain this ID and link its book separately. The publisher chapter page’s citation_doi incorrectly names the containing book; the registry and DOI redirect identify the chapter DOI.",
+      "evidence_files": [
+        "TARGETED_METADATA_CHECKS.json",
+        "SUPPLEMENTAL_METADATA_CHECKS.json"
+      ]
+    }
+  }
+]

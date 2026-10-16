@@ -1,0 +1,173 @@
+{
+  "schema": "publication-carry-through-v1",
+  "release_id": "second_pass_v7_676",
+  "status": "MAIN_ACCEPTED_PRIOR_DECISIONS_APPLIED_NOT_ACTIVATED",
+  "decisions": [
+    {
+      "id": "publication-01",
+      "event_id": "prospective-egyptian-jewish-wartime-detention-and-compelled-departure-1967-1971",
+      "field": "primary_family",
+      "before": "state_directed_demographic_remaking",
+      "after": "expulsion_or_flight_without_replacement",
+      "rationale": "Detention followed by citizenship-tiered, release-linked departure is documented, without a successor-settlement project or an event-wide exchange, resettlement or demographic-rebalancing program. State coercion remains measured in mechanisms and traits.",
+      "adjudicator": "Main",
+      "decision": "carry_prior_accepted_source_review_into_publication_metadata",
+      "authorities": [
+        {
+          "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_02_REVIEW.md",
+          "sha256": "38796fdc3c5b88de203f6157036efc68af8d113e9df49f410dbdc76b883a43f1",
+          "locator": "Primary-family adjudication; Stop rule"
+        }
+      ]
+    },
+    {
+      "id": "publication-02",
+      "event_id": "asia-han-hexi-conquest-tuntian-121-bce-onward",
+      "field": "primary_family",
+      "before": "settler_replacement",
+      "after": "conquest_and_incorporation",
+      "rationale": "Conquest, commandery control and durable soldier-farmer settlement are established; resident removal or demographic replacement remains unresolved.",
+      "adjudicator": "Main",
+      "decision": "carry_prior_accepted_source_review_into_publication_metadata",
+      "authorities": [
+        {
+          "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_08_REVIEW.md",
+          "sha256": "fb3d8e9e34335a564f2c02dc87c56841a4eb4fc7b61bc764f1a171d87e1f6483",
+          "locator": "Successor 1 — Hexi Corridor"
+        },
+        {
+          "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_08_INDEPENDENT_REVIEW.md",
+          "sha256": "21ae9c1fbee859c56283c71370b6b4728d73c3296e11cb61e3288de6c35d10f4",
+          "locator": "Finding 1"
+        },
+        {
+          "path": "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json",
+          "sha256": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+          "locator": "corrections[0]"
+        }
+      ]
+    },
+    {
+      "id": "publication-03",
+      "event_id": "asia-han-hexi-conquest-tuntian-121-bce-onward",
+      "field": "sources",
+      "before": [
+        {
+          "id": "asia-han-hexi-conquest-tuntian-121-bce-onward::SRC-01",
+          "title": "Anthony J. Barbieri-Low, Coerced Migration and Resettlement in the Qin Imperial Expansion; Heather Clydesdale, Rethinking China's Frontier: Archaeological Finds Show the Hexi Corridor's Rapid Emergence as a Regional Power; Xin Wen, Between the Great Walls: Northern Song Imaginations of the Northwest",
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E214AF16C3C74EB05C19C60537FCD38F/S2059163224000446a.pdf/between-the-great-walls-northern-song-imaginations-of-the-northwest.pdf",
+          "locator": "The Cambridge PDF opened and printed page 251 contained the recorded paragraph dating Emperor Wu's conquest of the Hexi Corridor to 121 BCE, administrative seats in the following decade, and Han defensive construction."
+        }
+      ],
+      "after": [
+        {
+          "id": "asia-han-hexi-conquest-tuntian-121-bce-onward::SRC-CLYDESDALE-2018",
+          "title": "Heather Clydesdale, “Rethinking China’s Frontier: Archaeological Finds Show the Hexi Corridor’s Rapid Emergence as a Regional Power,” Humanities 7, no. 3 (2018)",
+          "url": "https://www.mdpi.com/2076-0787/7/3/63",
+          "locator": "Sections 3, 4.1 and 5: Wuwei/Jiuquan/Zhangye chronology, Wuwei-area soldier-farmer burials, tuntian defense and colonization, and the 220 CE institutional transition."
+        },
+        {
+          "id": "asia-han-hexi-conquest-tuntian-121-bce-onward::SRC-WEN-2025",
+          "title": "Xin Wen, “Between the Great Walls: Northern Song Imaginations of the Northwest,” Journal of Chinese History (2025), p. 251",
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E214AF16C3C74EB05C19C60537FCD38F/S2059163224000446a.pdf/between-the-great-walls-northern-song-imaginations-of-the-northwest.pdf",
+          "locator": "Printed p. 251: 121 BCE Han conquest, administrative seats in the following decade, and defensive construction."
+        }
+      ],
+      "rationale": "Separate the two probative Han sources and their locators; remove the non-probative Qin article. New IDs avoid silently redefining the old conflated source ID, which remains in the historical inputs and this ledger.",
+      "adjudicator": "Main",
+      "decision": "carry_prior_accepted_source_review_into_publication_metadata",
+      "authorities": [
+        {
+          "path": "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json",
+          "sha256": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+          "locator": "corrections[1]"
+        },
+        {
+          "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_08_REVIEW.md",
+          "sha256": "fb3d8e9e34335a564f2c02dc87c56841a4eb4fc7b61bc764f1a171d87e1f6483",
+          "locator": "Source record and limits"
+        }
+      ]
+    },
+    {
+      "id": "publication-04",
+      "event_id": "asia-han-hexi-conquest-tuntian-121-bce-onward",
+      "field": "agents",
+      "before": [
+        "Emperor Wu and the Han army; the Han government and commandery administrations; soldiers, soldier-farmers, conscripts, pioneers, and some immediate family members; the Xiongnu as the rival power conquered in the corridor"
+      ],
+      "after": [
+        "Han armies and commandery administrations",
+        "Military-farming colonists along the corridor; Wuwei-area burials include newly arrived soldier-farmers and some immediate family members"
+      ],
+      "rationale": "Use the already approved public actor field: Han military/administrative and colonist actors only, with the family-member evidence localized to Wuwei. Conquered Xiongnu control remains on the affected side; its field is unchanged.",
+      "adjudicator": "Main",
+      "decision": "carry_prior_accepted_source_review_into_publication_metadata",
+      "authorities": [
+        {
+          "path": "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json",
+          "sha256": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+          "locator": "corrections[2]"
+        },
+        {
+          "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_08_INDEPENDENT_REVIEW.md",
+          "sha256": "21ae9c1fbee859c56283c71370b6b4728d73c3296e11cb61e3288de6c35d10f4",
+          "locator": "Findings 2–3"
+        }
+      ]
+    },
+    {
+      "id": "publication-05",
+      "event_id": "asia-han-western-regions-oasis-garrisons-tuntian",
+      "field": "agents",
+      "before": [
+        "Emperor Wu and the Han state; thousands of ordered migrants from the North China Plain; military-garrison personnel and Han migrants at western outposts; local agro-pastoralist peoples"
+      ],
+      "after": [
+        "Emperor Wu and the Han state",
+        "Military-garrison personnel and state-directed migrants at western outposts"
+      ],
+      "rationale": "Use the already approved public actor field without local agro-pastoralists. State-directed migrants remain incoming garrison personnel and also compelled affected people; the affected field is unchanged.",
+      "adjudicator": "Main",
+      "decision": "carry_prior_accepted_source_review_into_publication_metadata",
+      "authorities": [
+        {
+          "path": "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json",
+          "sha256": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7",
+          "locator": "corrections[3]"
+        },
+        {
+          "path": "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_08_REVIEW.md",
+          "sha256": "fb3d8e9e34335a564f2c02dc87c56841a4eb4fc7b61bc764f1a171d87e1f6483",
+          "locator": "Successor 2 — Western Regions"
+        }
+      ]
+    }
+  ],
+  "substantive_corrections": 5,
+  "events_affected": 3,
+  "new_historical_review": false,
+  "raw_inputs_changed": false,
+  "model_rerun": false,
+  "family_hold_count": 4,
+  "input_sha256": {
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/release_manifest.json": "8008ddaa64829d5ac58e216f21e171a9741203b48494a421890d25582930c715",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/events_enriched.json": "b5f142a8a38343f80091a00c4a4e0077392f60678f35aa0119c8d36fa7e354ef",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/editorial/primary_family_labels.csv": "05da803414feaceda07956da7bda0be6934df7a585fcaaa9739fe4fab8ef6fa6",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/editorial/family_decision_ledger.json": "795c39e63337b00054f2c4b2c0f01038dc2c1afff582a5f5a38457967be0b211",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/editorial/primary_family_summary.json": "4c4a3d14a4bdc313e6556ff80c381a4b5fa772bffc1775cbc84a006e1eb7b050",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/data/corpus_v2.json": "daeda53679eccc1cf118c312b09a1e27510caabba1f99636f9f7797af6f8e25e",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/data/scores_v2.csv": "0212984016e8aabd6feb46edfd13c8fdf2cb1160c2ff5e17a85fff91a232d6c3",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/data/na_types_v2.csv": "83884f2ca6d0e370df42d73561fb65ee74e92ecdd92c45258a696bfe139a9ef6",
+    "analysis/second_pass/v6/post_v6_correction_application_v1/release_assembly/staged/second_pass_v7_676/data/analysis_metadata.json": "7c127236226e28caefcb703e99e58944ff12e0b4b44ae6a4504ecb3069681750"
+  },
+  "authority_sha256": {
+    "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_02_REVIEW.md": "38796fdc3c5b88de203f6157036efc68af8d113e9df49f410dbdc76b883a43f1",
+    "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_08_REVIEW.md": "fb3d8e9e34335a564f2c02dc87c56841a4eb4fc7b61bc764f1a171d87e1f6483",
+    "analysis/second_pass/v5/ATLAS_AUTHORING_BATCH_08_INDEPENDENT_REVIEW.md": "21ae9c1fbee859c56283c71370b6b4728d73c3296e11cb61e3288de6c35d10f4",
+    "analysis/second_pass/v5/HAN_RELEASE_METADATA_CORRECTIONS.json": "3b5213341fabfe95bfa9e0fb507e3a8f8a6ea11eee928f6a5519cf4f6989dee7"
+  },
+  "baseline_commit": "e3de5f2c740d27e826c2e36810cedfaa2471497b",
+  "model_input_policy": "data/corpus_v2.json, scores_v2.csv, na_types_v2.csv and analysis_metadata.json remain the exact diagnostic inputs. Corrected publication metadata is events_enriched.json, not a replacement numerical input.",
+  "earlier_F8_raw_followups_closed": false
+}

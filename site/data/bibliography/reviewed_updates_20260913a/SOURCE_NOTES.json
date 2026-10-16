@@ -1,0 +1,407 @@
+{
+  "build": "20260913a",
+  "scope": "Accepted metadata and source-scope limits. Original source-use descriptions remain in the inventory. Metadata identities do not establish passage adequacy.",
+  "records": [
+    {
+      "work_id": "access:08671715f4d2243910fd",
+      "title": "The Writings of the Roman Land Surveyors",
+      "verification_urls": [
+        "https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-3297-1/dissemination/jrs_9/Journal_of_Roman_Studies_Monographs_No-_9_-_The_Writings_of_the_Roman_Land_Surveyors.pdf"
+      ],
+      "limits": [
+        "Original recorded title, work ID, URL and source-use description remain.",
+        "No new historical passage, score, geometry or incoming-flight assignment is accepted.",
+        "No new public archive snapshot or source-independence certification is claimed.",
+        "Current PDF matches retained copy. Brian Campbell supplies the modern introduction, text, translation and commentary; ancient texts and later commentary retain their separate evidential roles."
+      ]
+    },
+    {
+      "work_id": "access:0ead9047bd55d3a44c23",
+      "title": "Ancient genomes document multiple waves of migration in Southeast Asian prehistory",
+      "verification_urls": [
+        "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/SEA_published_0.pdf"
+      ],
+      "limits": [
+        "Original combined source-use descriptions are retained as provenance, not treated as the title of one file.",
+        "Identity acceptance does not admit a source as new historical evidence or close the independent-review gates.",
+        "The PDF contains Lipson’s four article pages plus a publisher cover, not the full McColl study. Existing pp. 92–94 passage locator remains accurate."
+      ]
+    },
+    {
+      "work_id": "access:1f967d1b35ca6228208a",
+      "title": "Greenland in Figures 2025",
+      "verification_urls": [
+        "https://stat.gl/publ/en/GF/2025/pdf/Greenland%20in%20Figures%202025.pdf"
+      ],
+      "limits": [
+        "Original IDs, access URLs and source-use descriptions remain unchanged. Canonical URL is supplementary.",
+        "Trap original-publication dates and Danmarkshistorien last-change dates retain separate roles.",
+        "Statistics Greenland edition and deadline come from the imprint; statistical tables are not newly verified.",
+        "Source scope includes partial reading and container-level disclosures; no independence or new public-archive claim.",
+        "No historical passage verdict, source label, flight note, score, map or event admission changes."
+      ]
+    },
+    {
+      "work_id": "access:288a75dfe01f72b2af11",
+      "title": "The Anatomy of a South African Genocide",
+      "verification_urls": [
+        "https://openuctpress.uct.ac.za/uctpress/catalog/download/30/50/135?inline=1",
+        "https://openuctpress.uct.ac.za/uctpress/catalog/book/30"
+      ],
+      "limits": [
+        "Identity review does not change historical claims, scores, evidence holds or incoming-flight assignments.",
+        "2014 WebPDF, 2010 parent print and 2022 repository publication date remain separate. No complete new book reading claimed.",
+        "The Cape project-versus-victim scope question remains in the independent raw-F8 review."
+      ]
+    },
+    {
+      "work_id": "access:2c02f3f82d319762d359",
+      "title": "Kolonitiden frem til krigsårene i Grønland",
+      "verification_urls": [
+        "https://trap-groenland.lex.dk/Kolonitiden_frem_til_krigs%C3%A5rene_i_Gr%C3%B8nland"
+      ],
+      "limits": [
+        "Original IDs, access URLs and source-use descriptions remain unchanged. Canonical URL is supplementary.",
+        "Trap original-publication dates and Danmarkshistorien last-change dates retain separate roles.",
+        "Statistics Greenland edition and deadline come from the imprint; statistical tables are not newly verified.",
+        "Source scope includes partial reading and container-level disclosures; no independence or new public-archive claim.",
+        "No historical passage verdict, source label, flight note, score, map or event admission changes."
+      ]
+    },
+    {
+      "work_id": "access:345311ad5e193fc9b56d",
+      "title": "The Roman Port and Fishery of Cosa",
+      "verification_urls": [
+        "https://api.pageplace.de/preview/DT0400.9781400886685_A29559549/preview-9781400886685_A29559549.pdf"
+      ],
+      "limits": [
+        "All original work IDs, source-use titles and occurrences are preserved. Metadata does not verify historical passages or assign an incoming-flight note.",
+        "Source copies are partial previews. Selected reading and disclosure scope is in SOURCE_SCOPE.json.",
+        "Printed DOI observations do not claim successful destination verification; failed resolver routes were not retried or bypassed.",
+        "No full publication day or whole-volume extent is inferred where only a year or conflicting extent is inspected. Existing preferred-field questions remain."
+      ]
+    },
+    {
+      "work_id": "access:3dd4dbf3d5611e0055e9",
+      "title": "Hans Egede, 1686-1758",
+      "verification_urls": [
+        "https://danmarkshistorien.lex.dk/Hans_Egede%2C_1686-1758",
+        "https://danmarkshistorien.lex.dk/Hans_Egede,_1686-1758"
+      ],
+      "limits": [
+        "Original IDs, access URLs and source-use descriptions remain unchanged. Canonical URL is supplementary.",
+        "Trap original-publication dates and Danmarkshistorien last-change dates retain separate roles.",
+        "Statistics Greenland edition and deadline come from the imprint; statistical tables are not newly verified.",
+        "Source scope includes partial reading and container-level disclosures; no independence or new public-archive claim.",
+        "No historical passage verdict, source label, flight note, score, map or event admission changes."
+      ]
+    },
+    {
+      "work_id": "access:92f3f5a8633edc4a8dc0",
+      "title": "The Destruction of Cities in the Ancient Greek World",
+      "verification_urls": [
+        "https://api.pageplace.de/preview/DT0400.9781108851992_A45555924/preview-9781108851992_A45555924.pdf"
+      ],
+      "limits": [
+        "All original work IDs, source-use titles and occurrences are preserved. Metadata does not verify historical passages or assign an incoming-flight note.",
+        "Source copies are partial previews. Selected reading and disclosure scope is in SOURCE_SCOPE.json.",
+        "Printed DOI observations do not claim successful destination verification; failed resolver routes were not retried or bypassed.",
+        "No full publication day or whole-volume extent is inferred where only a year or conflicting extent is inspected. Existing preferred-field questions remain."
+      ]
+    },
+    {
+      "work_id": "access:a5e82ecf626ef3f60e3a",
+      "title": "Pushing beyond the Pale: The Yamato Conquest of the Emishi and Northern Japan",
+      "verification_urls": [
+        "https://religion-in-japan.univie.ac.at/k/img_auth.php/a/af/Friday_1997.pdf",
+        "https://religion-in-japan.univie.ac.at/k/images/a/af/Friday_1997.pdf"
+      ],
+      "limits": [
+        "Original IDs, recorded titles, access URLs and occurrences remain. The linked prior record is not merged.",
+        "Identity reuse does not carry the prior record’s historical passage acceptance to a new event. No current case, source label, note or score changes.",
+        "Friday uses a byte-identical retained PDF and preserves its 2026-09-11 metadata observation date. The current identity check is separately dated.",
+        "Calore is a chapter, not the entire proceedings. ISBNs retain catalogue institutional labels. No new DOI-resolver call or whole-volume reading is claimed.",
+        "Disclosures and historical reading limits are in SOURCE_SCOPE.json; no new public archive capture succeeded."
+      ]
+    },
+    {
+      "work_id": "access:a684eb9ff53417ba3fa5",
+      "title": "Hans Egede og missionstjenesten",
+      "verification_urls": [
+        "https://trap-groenland.lex.dk/Hans_Egede_og_missionstjenesten"
+      ],
+      "limits": [
+        "Original IDs, access URLs and source-use descriptions remain unchanged. Canonical URL is supplementary.",
+        "Trap original-publication dates and Danmarkshistorien last-change dates retain separate roles.",
+        "Statistics Greenland edition and deadline come from the imprint; statistical tables are not newly verified.",
+        "Source scope includes partial reading and container-level disclosures; no independence or new public-archive claim.",
+        "No historical passage verdict, source label, flight note, score, map or event admission changes."
+      ]
+    },
+    {
+      "work_id": "access:a8a122714694766f092a",
+      "title": "Grønlands afkolonisering, 1945-1954",
+      "verification_urls": [
+        "https://danmarkshistorien.lex.dk/Gr%C3%B8nlands_afkolonisering%2C_1945-1954",
+        "https://danmarkshistorien.lex.dk/Gr%C3%B8nlands_afkolonisering,_1945-1954"
+      ],
+      "limits": [
+        "Original IDs, access URLs and source-use descriptions remain unchanged. Canonical URL is supplementary.",
+        "Trap original-publication dates and Danmarkshistorien last-change dates retain separate roles.",
+        "Statistics Greenland edition and deadline come from the imprint; statistical tables are not newly verified.",
+        "Source scope includes partial reading and container-level disclosures; no independence or new public-archive claim.",
+        "No historical passage verdict, source label, flight note, score, map or event admission changes."
+      ]
+    },
+    {
+      "work_id": "access:ab13c4e552d0620efd92",
+      "title": "The (Un)making of Soviet Kirovabad: Pogroms and the End of the “Friendship of Peoples” in Azerbaijan",
+      "verification_urls": [
+        "https://www.etd.ceu.edu/2015/king_harrison.pdf",
+        "https://www.etd.ceu.edu/2015/king_harrison.htm"
+      ],
+      "limits": [
+        "Original combined source-use descriptions are retained as provenance, not treated as the title of one file.",
+        "Identity acceptance does not admit a source as new historical evidence or close the independent-review gates.",
+        "CEU indexed catalogue and title-page metadata only; current direct routes did not yield thesis body. King differs from the original adopted HRW/ECHR bundle."
+      ]
+    },
+    {
+      "work_id": "access:cef5ec83f452351eb4c4",
+      "title": "A total extinction confidently hoped for: the destruction of Cape San society under Dutch colonial rule, 1700–1795",
+      "verification_urls": [
+        "https://sahistory.org.za/sites/default/files/archive-files/genocide_mohammed_adhikari.pdf"
+      ],
+      "limits": [
+        "Identity review does not change historical claims, scores, evidence holds or incoming-flight assignments.",
+        "The article is distinct from the book. Current PDF matches retained copy; no new historical passage or scoring decision accepted."
+      ]
+    },
+    {
+      "work_id": "access:d55d9d5dddefeef1696e",
+      "title": "Circassian Refugees and the Making of Amman, 1878–1914",
+      "verification_urls": [
+        "https://www.global.ucsb.edu/sites/default/files/sitefiles/people/Hamed-Troyansky%202017.pdf",
+        "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/circassian-refugees-and-the-making-of-amman-18781914/B690DDB10A2E125B92C9E75C1485C1CB"
+      ],
+      "limits": [
+        "Original combined source-use descriptions are retained as provenance, not treated as the title of one file.",
+        "Identity acceptance does not admit a source as new historical evidence or close the independent-review gates.",
+        "Earlier Wadi al-Sir flight passage acceptance retained; no new flight-origin assignment."
+      ]
+    },
+    {
+      "work_id": "access:d6c817fad32bd7e40ac0",
+      "title": "The Calore River: settlements and roads in Roman times",
+      "verification_urls": [
+        "https://doi.org/ra/10.2436/15.1000.02.14",
+        "https://publicacions.iec.cat/PopulaFitxa.do?idCatalogacio=37468&moduleName=cataleg&subModuleName=",
+        "https://publicacions.iec.cat/repository/pdf/00000314/00000033.pdf"
+      ],
+      "limits": [
+        "Original IDs, recorded titles, access URLs and occurrences remain. The linked prior record is not merged.",
+        "Identity reuse does not carry the prior record’s historical passage acceptance to a new event. No current case, source label, note or score changes.",
+        "Friday uses a byte-identical retained PDF and preserves its 2026-09-11 metadata observation date. The current identity check is separately dated.",
+        "Calore is a chapter, not the entire proceedings. ISBNs retain catalogue institutional labels. No new DOI-resolver call or whole-volume reading is claimed.",
+        "Disclosures and historical reading limits are in SOURCE_SCOPE.json; no new public archive capture succeeded."
+      ]
+    },
+    {
+      "work_id": "access:e8cc12f0a51631bd59f8",
+      "title": "A History of Malawi",
+      "verification_urls": [
+        "https://api.pageplace.de/preview/DT0400.9781782040286_A42901684/preview-9781782040286_A42901684.pdf"
+      ],
+      "limits": [
+        "All original work IDs, source-use titles and occurrences are preserved. Metadata does not verify historical passages or assign an incoming-flight note.",
+        "Source copies are partial previews. Selected reading and disclosure scope is in SOURCE_SCOPE.json.",
+        "Printed DOI observations do not claim successful destination verification; failed resolver routes were not retried or bypassed.",
+        "No full publication day or whole-volume extent is inferred where only a year or conflicting extent is inspected. Existing preferred-field questions remain."
+      ]
+    },
+    {
+      "work_id": "access:ee1748254b10f0446513",
+      "title": "Roma e le priscae Latinae coloniae",
+      "verification_urls": [
+        "https://www.openstarts.units.it/bitstream/10077/6083/1/ChiabaRomaPriscaeLatinaeColonie.pdf"
+      ],
+      "limits": [
+        "Original recorded title, work ID, URL and source-use description remain.",
+        "No new historical passage, score, geometry or incoming-flight assignment is accepted.",
+        "No new public archive snapshot or source-independence certification is claimed.",
+        "Current PDF matches retained copy. The main review identified three source labels requiring the name Monica Chiabà. The publication citation dispositions record the applied correction; original recorded descriptions remain preserved."
+      ]
+    },
+    {
+      "work_id": "access:ee1e23360aec49f0be7c",
+      "title": "Hverdagslivet i de dansk-norske kolonier i Grønland, 1721-1750",
+      "verification_urls": [
+        "https://danmarkshistorien.lex.dk/Hverdagslivet_i_de_dansk-norske_kolonier_i_Gr%C3%B8nland%2C_1721-1750",
+        "https://danmarkshistorien.lex.dk/Hverdagslivet_i_de_dansk-norske_kolonier_i_Gr%C3%B8nland,_1721-1750"
+      ],
+      "limits": [
+        "Original IDs, access URLs and source-use descriptions remain unchanged. Canonical URL is supplementary.",
+        "Trap original-publication dates and Danmarkshistorien last-change dates retain separate roles.",
+        "Statistics Greenland edition and deadline come from the imprint; statistical tables are not newly verified.",
+        "Source scope includes partial reading and container-level disclosures; no independence or new public-archive claim.",
+        "No historical passage verdict, source label, flight note, score, map or event admission changes."
+      ]
+    },
+    {
+      "work_id": "title:garfield 2001",
+      "title": "Indigenous Struggle at the Heart of Brazil",
+      "verification_urls": [
+        "https://www.dukeupress.edu/indigenous-struggle-at-the-heart-of-brazil"
+      ],
+      "limits": [
+        "All original IDs, access URLs and source-use descriptions remain. Alternate records supplement work identity.",
+        "Laskier format/date pairs and Quinn catalogue/copyright years retain separate roles; catalogue ebook dates are not independent digital-release verification.",
+        "Being Maasai fields identify the Ohio paperback; the Wisconsin URL remains missing. No specific edition is inferred for that page.",
+        "Boydell full-record contributor role remains Uncheckable; selected editors are explicitly credited by Ohio.",
+        "Book bodies and acknowledgments remain unread; source-listed DOI strings are not newly resolved."
+      ]
+    },
+    {
+      "work_id": "title:gorman milesian decrees of isopoliteia and the refoundation of the city",
+      "title": "Milesian Decrees of Isopoliteia and the Refoundation of the City, ca. 479 BCE",
+      "verification_urls": [
+        "https://digitalcommons.unl.edu/historyfacpub/15/"
+      ],
+      "limits": [
+        "Original combined source-use descriptions are retained as provenance, not treated as the title of one file.",
+        "Identity acceptance does not admit a source as new historical evidence or close the independent-review gates.",
+        "UNL catalogue identifies the chapter; full chapter body and equality to original UMD bytes are unverified. Version month is a repository label."
+      ]
+    },
+    {
+      "work_id": "title:katsuji sano the expansion of the assyrian empire under ashurnasirpal ii 2015",
+      "title": "Die Expansion des assyrischen Reiches unter Aššurnaṣirpal II.",
+      "verification_urls": [
+        "https://www.ub.edu/ipoa/wp-content/uploads/2021/08/20152AuOrSano.pdf"
+      ],
+      "limits": [
+        "Original recorded title, work ID, URL and source-use description remain.",
+        "No new historical passage, score, geometry or incoming-flight assignment is accepted.",
+        "No new public archive snapshot or source-independence certification is claimed.",
+        "German title is identified; the English descriptive source label remains. Received and accepted strings are not publication dates. Current direct URL returns university temporary-unavailability HTML; retained PDF supplies metadata."
+      ]
+    },
+    {
+      "work_id": "title:laskier north african jewry in the twentieth century",
+      "title": "North African Jewry in the Twentieth Century",
+      "verification_urls": [
+        "https://nyupress.org/9780814751299/north-african-jewry-in-the-twentieth-century/"
+      ],
+      "limits": [
+        "All original IDs, access URLs and source-use descriptions remain. Alternate records supplement work identity.",
+        "Laskier format/date pairs and Quinn catalogue/copyright years retain separate roles; catalogue ebook dates are not independent digital-release verification.",
+        "Being Maasai fields identify the Ohio paperback; the Wisconsin URL remains missing. No specific edition is inferred for that page.",
+        "Boydell full-record contributor role remains Uncheckable; selected editors are explicitly credited by Ohio.",
+        "Book bodies and acknowledgments remain unread; source-listed DOI strings are not newly resolved."
+      ]
+    },
+    {
+      "work_id": "title:lipson et al 2018 population turnover in remote oceania shortly after initial settlement current biology 28 1157 1165",
+      "title": "Population Turnover in Remote Oceania Shortly after Initial Settlement",
+      "verification_urls": [
+        "https://www.cell.com/current-biology/fulltext/S0960-9822(18)30236-7",
+        "https://doi.org/10.1016/j.cub.2018.02.051",
+        "https://api.crossref.org/works/10.1016/j.cub.2018.02.051"
+      ],
+      "limits": [
+        "Identity review does not change historical claims, scores, evidence holds or incoming-flight assignments.",
+        "Final pagination is deposited metadata; typeset publication/issue dates belong to the retained in-press copy. Current Cell body retrieval failed.",
+        "The separate PMC copy-version question and Vanuatu authoring evidence hold remain."
+      ]
+    },
+    {
+      "work_id": "title:quinn 2018 in search of the phoenicians",
+      "title": "In Search of the Phoenicians",
+      "verification_urls": [
+        "https://press.princeton.edu/books/hardcover/9780691175270/in-search-of-the-phoenicians",
+        "https://assets.press.princeton.edu/catalogs/ancient18.pdf",
+        "https://www.jstor.org/stable/j.ctvc77kkd"
+      ],
+      "limits": [
+        "All original IDs, access URLs and source-use descriptions remain. Alternate records supplement work identity.",
+        "Laskier format/date pairs and Quinn catalogue/copyright years retain separate roles; catalogue ebook dates are not independent digital-release verification.",
+        "Being Maasai fields identify the Ohio paperback; the Wisconsin URL remains missing. No specific edition is inferred for that page.",
+        "Boydell full-record contributor role remains Uncheckable; selected editors are explicitly credited by Ohio.",
+        "Book bodies and acknowledgments remain unread; source-listed DOI strings are not newly resolved."
+      ]
+    },
+    {
+      "work_id": "title:ryan et al colonial frontier massacres",
+      "title": "Colonial Frontier Massacres in Australia 1788-1930",
+      "verification_urls": [
+        "https://c21ch.newcastle.edu.au/colonialmassacres/",
+        "https://c21ch.newcastle.edu.au/colonialmassacres/about.php",
+        "https://c21ch.newcastle.edu.au/colonialmassacres/termsofuse.php"
+      ],
+      "limits": [
+        "Original recorded title, work ID, access URL and source-use descriptions remain.",
+        "No new historical passage verdict, score, map boundary or incoming-flight assignment.",
+        "No new public archive capture or independent funding assessment is claimed.",
+        "Authors follow the recommended citation order. Stage 5.0 (2024), the first release in July 2017, and the About (2017-2025) and Terms (2017-2024) citation ranges are distinct source roles.",
+        "The Australian Data Archive DOI is an observed link only; its rejected response supplies no verified archive metadata or files."
+      ]
+    },
+    {
+      "work_id": "title:spear waller eds 1993 being maasai",
+      "title": "Being Maasai",
+      "verification_urls": [
+        "https://history.wisc.edu/publications/being-maasai-ethnicity-and-identity-in-east-africa/",
+        "https://www.ohioswallow.com/9780821410455/being-maasai/"
+      ],
+      "limits": [
+        "All original IDs, access URLs and source-use descriptions remain. Alternate records supplement work identity.",
+        "Laskier format/date pairs and Quinn catalogue/copyright years retain separate roles; catalogue ebook dates are not independent digital-release verification.",
+        "Being Maasai fields identify the Ohio paperback; the Wisconsin URL remains missing. No specific edition is inferred for that page.",
+        "Boydell full-record contributor role remains Uncheckable; selected editors are explicitly credited by Ohio.",
+        "Book bodies and acknowledgments remain unread; source-listed DOI strings are not newly resolved."
+      ]
+    },
+    {
+      "work_id": "title:survival international 2013 figueiredo report",
+      "title": "'Lost' report exposes Brazilian Indian genocide",
+      "verification_urls": [
+        "https://www.survivalinternational.org/news/9191"
+      ],
+      "limits": [
+        "Original recorded title, work ID, access URL and source-use descriptions remain.",
+        "No new historical passage verdict, score, map boundary or incoming-flight assignment.",
+        "No new public archive capture or independent funding assessment is claimed.",
+        "Survival International is the explicit organization author. The article covers the Figueiredo report; it is not the report body.",
+        "The visible date and structured publication date agree on 2013-04-25. A structured modification timestamp precedes publication; no subsequent update date is inferred."
+      ]
+    },
+    {
+      "work_id": "url:api.pageplace.de/preview/dt0400.9781003860709_a47807039/preview-9781003860709_a47807039.pdf",
+      "title": "The Routledge Handbook of the Archaeology of Urbanism in Italy in the Age of Roman Expansion",
+      "verification_urls": [
+        "https://api.pageplace.de/preview/DT0400.9781003860709_A47807039/preview-9781003860709_A47807039.pdf"
+      ],
+      "limits": [
+        "All original work IDs, source-use titles and occurrences are preserved. Metadata does not verify historical passages or assign an incoming-flight note.",
+        "Source copies are partial previews. Selected reading and disclosure scope is in SOURCE_SCOPE.json.",
+        "Printed DOI observations do not claim successful destination verification; failed resolver routes were not retried or bypassed.",
+        "No full publication day or whole-volume extent is inferred where only a year or conflicting extent is inspected. Existing preferred-field questions remain."
+      ]
+    },
+    {
+      "work_id": "doi:10.3326/pse.44.1.4",
+      "title": "History matters: development and institutional persistence of the Habsburg Military Frontier in Croatia",
+      "verification_urls": [
+        "https://www.pse-journal.hr/en/archive/history-matters-development-and-institutional-persistence-of-the-habsburg-military-frontier-in-croatia_5302/",
+        "https://www.pse-journal.hr/download_pdf.php?articleId=5302"
+      ],
+      "limits": [
+        "The article’s original empirical work concerns modern institutions, using 2006/2010/2016 LiTS and geographic RDD; the incoming-refugee account is historical background, not a result newly estimated from migration records.",
+        "Read and preserve geographic scope: the study restricts analysis to modern Croatia, excluding Eastern Syrmium. A note must not claim equal refugee proportions in every frontier district or century.",
+        "The note need not adopt the article’s approximate ethnic proportions, long-run causal claims, or generalization to modern conflict.",
+        "The Popescu book and chapter body remain unread. This is an additional, explicitly named source, not a surrogate consultation of the registered work.",
+        "Citation-publication metadata says March 1, 2020; visible online-publication date says March 3. No exact print date is inferred."
+      ]
+    }
+  ]
+}

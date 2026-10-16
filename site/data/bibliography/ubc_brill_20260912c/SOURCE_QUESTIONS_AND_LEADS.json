@@ -1,0 +1,89 @@
+{
+  "build": "20260912c",
+  "source_questions": [
+    {
+      "review_id": "bibliography_ubc_20260912",
+      "id": "EYFORD-REGIONAL-CITATION-COVERAGE",
+      "work_id": "title:eyford 2016 white settler reserve",
+      "current_cases": [
+        "canada-red-river-metis-dispossession",
+        "canada-prairie-treaties-railway-settlement",
+        "canada-british-columbia-land-settlement",
+        "canada-northern-state-settlement"
+      ],
+      "status": "open",
+      "question": "Locate support for the broader Red River/Prairie, British Columbia and northern case uses; distinguish regional context from evidence for each mechanism. No whole-book absence is inferred from sample limits."
+    },
+    {
+      "review_id": "bibliography_ubc_20260912",
+      "id": "RUCK-REGIONAL-CITATION-COVERAGE",
+      "work_id": "title:ruck 2021 the laws and the land",
+      "current_cases": [
+        "atlantic-loyalist-maritimes-settlement",
+        "atlantic-loyalist-upper-canada-settlement",
+        "atlantic-british-mass-immigration-canadas"
+      ],
+      "status": "open",
+      "question": "Locate event-specific support for the three broader eastern Canadian cases. A Kahnawà:ke study is not automatically a Maritimes or all-Canada historical account."
+    },
+    {
+      "review_id": "bibliography_ubc_20260912",
+      "id": "HARRIS-CASE-LOCATORS",
+      "work_id": "title:harris 2020 a bounded land",
+      "current_cases": [
+        "atlantic-new-france-acadian-settlement",
+        "atlantic-new-france-st-lawrence-settlement",
+        "atlantic-loyalist-maritimes-settlement",
+        "atlantic-loyalist-upper-canada-settlement",
+        "atlantic-british-mass-immigration-canadas",
+        "canada-red-river-metis-dispossession",
+        "canada-prairie-treaties-railway-settlement",
+        "canada-british-columbia-land-settlement",
+        "canada-northern-state-settlement"
+      ],
+      "status": "open",
+      "question": "Use the recorded contents and sample to locate precise support for each case; preserve partial reading and avoid treating a general synthesis as complete verification."
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "id": "BOWIE-P74",
+      "work_id": "access:d9e3a18069a93cd5730d",
+      "question": "Recover and inspect the already recorded p.74 Astakos passage when full text is accessible; do not redate the case from its summary.",
+      "status": "open"
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "id": "HITTITE-MURSILI-LOCATOR",
+      "work_id": "title:contacts of languages in the hittite empire",
+      "question": "Locate the current capture-aggregate passage and its royal-establishment qualification in the exact volume. Bibliographic repair does not change the event.",
+      "status": "open"
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "id": "ALSTOLA-INTRODUCTION-SCOPE",
+      "work_id": "title:tero alstola judeans in babylonia a study of deportees in the sixth and fifth centuries bce brill 2020",
+      "question": "Read the selected Introduction for bounded historical use only if the inactive candidate becomes an authorized authoring task; preserve its current status.",
+      "status": "inactive_candidate_context_only"
+    },
+    {
+      "review_id": "bibliography_brill_20260912",
+      "id": "UMBRIA-CIL719-LOCATOR",
+      "work_id": "url:brill.com/downloadpdf/display/title/64787.pdf",
+      "question": "Recover the precise CIL I²719 discussion and distinguish 132 BCE allotment evidence from its later boundary restoration.",
+      "status": "open"
+    }
+  ],
+  "unverified_passage_leads": [
+    {
+      "review_id": "bibliography_ubc_20260912",
+      "status": "passage_located_cohort_and_review_pending",
+      "work_id": "title:eyford 2016 white settler reserve",
+      "source_id": "canada_eyford",
+      "locator": "Introduction, printed p. 7 (sample PDF page 9)",
+      "basis": "The paragraph describes environmental/demographic pressures in Iceland, transport subsidies and hardship in earlier Ontario settlements. These distinguish multiple reasons and stages of movement; they do not by themselves establish forced flight or a legal refugee status.",
+      "next_action": "Assess whether a bounded incoming cohort and pressure qualify under the existing flight-note rule before proposing a note. Do not label all Prairie settlers or a whole modern population.",
+      "public_assignment": false
+    }
+  ],
+  "rule": "Questions and the Iceland migration-pressure lead do not change evidence holds, admit inactive candidates or assign flight status."
+}

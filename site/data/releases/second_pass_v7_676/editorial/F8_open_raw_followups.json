@@ -1,0 +1,215 @@
+{
+  "open_count": 6,
+  "obligations": [
+    {
+      "event_id": "eu-holocaust",
+      "status": "OPEN_RAW_FOLLOWUP_NOT_CLOSED_BY_PUBLIC_F8",
+      "cutoff_relation": "Earlier obligation outside the Batch24–50 fixed17 coding-package cutoff.",
+      "record_path": "analysis/second_pass/v5/eight_trait_card_f8_review/f8_imported_unfree_coding_review_adjudications_v2.csv",
+      "reason": "The bounded Holocaust event concerns persecution, deportation, genocide, expropriation, and forced labor imposed on the affected population; it does not introduce a distinct third labor population into a settler-native field. Showing imported labor would collapse victim deportation and labor exploitation into the separate exogenous-labor construct.",
+      "evidence_locator": "United States Holocaust Memorial Museum, Introduction to the Holocaust; frozen event scope and source record in second_pass_v5_676/events_enriched.json",
+      "underlying_recode_followup": "Review frozen triad=2 in the next statistical release; do not mutate v5.",
+      "baseline_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "2.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "",
+          "na_type": "NA"
+        }
+      },
+      "successor_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "2.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "",
+          "na_type": "NA"
+        }
+      },
+      "cell_token_and_type_equal": {
+        "scs_exogenous_labor_triad": true,
+        "pel_unfree_incomer_share": true
+      },
+      "both_cells_unchanged": true,
+      "closure_inferred": false
+    },
+    {
+      "event_id": "modern-equatorial-guinea-macias-exile",
+      "status": "OPEN_RAW_FOLLOWUP_NOT_CLOSED_BY_PUBLIC_F8",
+      "cutoff_relation": "Earlier obligation outside the Batch24–50 fixed17 coding-package cutoff.",
+      "record_path": "analysis/second_pass/v5/eight_trait_card_f8_review/f8_imported_unfree_coding_review_adjudications_v2.csv",
+      "reason": "Nigerian contract cocoa workers predated the bounded Macías exile and were themselves expelled in 1976. They were not an imported unfree labor population introduced by this event, so the public trait is inapplicable rather than positive.",
+      "evidence_locator": "Frozen production-journal note for scs_exogenous_labor_triad; CODESRIA source recorded in second_pass_v5_676/events_enriched.json",
+      "underlying_recode_followup": "Review frozen triad=2 in the next statistical release; do not mutate v5.",
+      "baseline_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "2.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "",
+          "na_type": "NA"
+        }
+      },
+      "successor_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "2.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "",
+          "na_type": "NA"
+        }
+      },
+      "cell_token_and_type_equal": {
+        "scs_exogenous_labor_triad": true,
+        "pel_unfree_incomer_share": true
+      },
+      "both_cells_unchanged": true,
+      "closure_inferred": false
+    },
+    {
+      "event_id": "modern-japanese-american-forced-removal",
+      "status": "OPEN_RAW_FOLLOWUP_NOT_CLOSED_BY_PUBLIC_F8",
+      "cutoff_relation": "Earlier obligation outside the Batch24–50 fixed17 coding-package cutoff.",
+      "record_path": "analysis/second_pass/v5/eight_trait_card_f8_review/f8_imported_unfree_coding_review_adjudications_v2.csv",
+      "reason": "Bracero recruitment partly filled a labor shortage after Japanese-American removal, but it is a separate labor program rather than an imported unfree population inside the bounded removal-and-incarceration event. The public trait therefore does not apply to this case.",
+      "evidence_locator": "Frozen production-journal note for scs_exogenous_labor_triad; USHMM and Commission on Wartime Relocation sources recorded by the production coder",
+      "underlying_recode_followup": "Review frozen triad=1 in the next statistical release; do not mutate v5.",
+      "baseline_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "1.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "",
+          "na_type": "NA"
+        }
+      },
+      "successor_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "1.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "",
+          "na_type": "NA"
+        }
+      },
+      "cell_token_and_type_equal": {
+        "scs_exogenous_labor_triad": true,
+        "pel_unfree_incomer_share": true
+      },
+      "both_cells_unchanged": true,
+      "closure_inferred": false
+    },
+    {
+      "event_id": "south-africa-cape-khoekhoe-land-labor-dispossession-1652-1806",
+      "status": "OPEN_RAW_FOLLOWUP_NOT_CLOSED_BY_PUBLIC_F8",
+      "cutoff_relation": "Earlier obligation outside the Batch24–50 fixed17 coding-package cutoff.",
+      "record_path": "analysis/second_pass/v5/eight_trait_card_f8_review/f8_imported_unfree_public_display_corrections_v2.csv",
+      "reason": "The positive frozen cells describe dispossessed Khoikhoi incorporated as servants within their own homeland. They do not establish a distinct population brought from elsewhere as unfree labor. Imported African and Asian slave labor existed at the Cape but is outside this Khoikhoi-bounded successor and cannot be borrowed into its public trait.",
+      "evidence_locator": "Guelke and Shell, ‘Landscape of Conquest,’ pp. 803–824, especially the loss of watered Khoikhoi land and survivor incorporation as settler clients and laborers; Adhikari, The Anatomy of a South African Genocide, chapter 1; frozen successor boundary in second_pass_v5_676/events_enriched.json",
+      "underlying_recode_followup": "Review scs_exogenous_labor_triad=4 and pel_unfree_incomer_share=3 against the successor boundary in the next statistical release; the current positive referents are local affected people, not imported incomers. Do not mutate v5.",
+      "baseline_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "4.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "3.000",
+          "na_type": ""
+        }
+      },
+      "successor_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "4.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "3.000",
+          "na_type": ""
+        }
+      },
+      "cell_token_and_type_equal": {
+        "scs_exogenous_labor_triad": true,
+        "pel_unfree_incomer_share": true
+      },
+      "both_cells_unchanged": true,
+      "closure_inferred": false
+    },
+    {
+      "event_id": "prospective-aydin-lower-maeander-umur-tract",
+      "status": "OPEN_RAW_FOLLOWUP_NOT_CLOSED_BY_PUBLIC_F8",
+      "cutoff_relation": "Earlier obligation outside the Batch24–50 fixed17 coding-package cutoff.",
+      "record_path": "analysis/second_pass/v5/eight_trait_card_f8_review/f8_imported_unfree_public_display_corrections_v2.csv",
+      "reason": "The proposed public certain-zero value is contradicted by evidence of trafficked Christians at Ephesus and enslaved people acquired, held, or used within Aydınid centers. Those passages establish that zero is not supportable but do not establish a tract-level intensity.",
+      "evidence_locator": "Grant, Byzantine Slavery and the Mediterranean World, printed p. 169 and pp. 175–176; ATLAS_AUTHORING_BATCH_10_INDEPENDENT_REVIEW.md findings B10-B2 and B10-M1.",
+      "underlying_recode_followup": "Re-review scs_exogenous_labor_triad=0 and pel_unfree_incomer_share=U in the next statistical release; preserve the frozen v5 row and do not render a certain public point.",
+      "baseline_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "0.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "",
+          "na_type": "U"
+        }
+      },
+      "successor_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "0.000",
+          "na_type": ""
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "",
+          "na_type": "U"
+        }
+      },
+      "cell_token_and_type_equal": {
+        "scs_exogenous_labor_triad": true,
+        "pel_unfree_incomer_share": true
+      },
+      "both_cells_unchanged": true,
+      "closure_inferred": false
+    },
+    {
+      "event_id": "ancient-egypt-thutmose-iii-megiddo-captive-communities",
+      "status": "OPEN_RAW_FOLLOWUP_NOT_CLOSED_BY_PUBLIC_F8",
+      "cutoff_relation": "Earlier obligation outside the Batch24–50 fixed17 coding-package cutoff.",
+      "record_path": "analysis/second_pass/v5/eight_trait_card_f8_review/f8_imported_unfree_public_display_corrections_v2.csv",
+      "reason": "The Year 23 annals directly establish military capture and transport into Egyptian custody, but the reviewed cohort-specific sources do not establish assignment to a temple, estate, household, or labor institution. The frozen applicability-gate zero therefore cannot support a public zero for imported unfree labor: applicability and intensity remain unknown for this cohort.",
+      "evidence_locator": "Breasted, Ancient Records of Egypt, vol. 2, §§435–437; Langer, ‘Forced Labour and Deportations in Ancient Egypt,’ printed pp. 10–13; ATLAS_AUTHORING_BATCH_20_INDEPENDENT_SOURCE_REVIEW.md, section 2.",
+      "underlying_recode_followup": "Re-review scs_exogenous_labor_triad=0 and the cohort-versus-system labor referent in the next statistical release; preserve frozen v5 and display full uncertainty publicly.",
+      "baseline_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "",
+          "na_type": "U"
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "4.000",
+          "na_type": ""
+        }
+      },
+      "successor_cells": {
+        "scs_exogenous_labor_triad": {
+          "score_token": "",
+          "na_type": "U"
+        },
+        "pel_unfree_incomer_share": {
+          "score_token": "4.000",
+          "na_type": ""
+        }
+      },
+      "cell_token_and_type_equal": {
+        "scs_exogenous_labor_triad": true,
+        "pel_unfree_incomer_share": true
+      },
+      "both_cells_unchanged": true,
+      "closure_inferred": false
+    }
+  ]
+}

@@ -11,19 +11,23 @@ public is a separate owner decision.
 ## What is here
 
 - `site/index.html`: the self-contained atlas application and embedded content.
-- `site/monograph/`: the working paper in HTML, Markdown, and PDF.
+- `site/monograph/`: the working paper in HTML, Markdown, and PDF (v2).
 - `site/data/`: frozen statistical data, results, selected evidence and decision
   ledgers, bibliography inventories, manifests, and the complete data ZIP.
 - `site/reuse/`: component licensing and third-party notices.
 - `EXPORT_MANIFEST.json`: the exact snapshot identifiers and per-file checksums.
 
-This first export is atlas build **20260906a** (370 cases, 380 playback stops)
-and statistical release **second_pass_v6_675** (675 active statistical events).
-Those are different products and counts. Later reviewed atlas corrections do
-not silently change the frozen model inputs. A successor correction/model
-cycle remains in progress. Bibliography metadata is an explicitly unfinished
-inventory; the monograph is a working paper, not a final validated conclusion
-about complete historical coverage or unbiased event boundaries.
+This export is atlas build **20261006e** (540 cases, 552 playback stops) and
+statistical release **second_pass_v7_676** (676 active statistical events).
+Those are different products and counts: the atlas keeps adding reviewed cases
+between statistical releases, and later atlas corrections do not silently
+change the frozen model inputs. The first export (September 2026) was build
+20260906a with release second_pass_v6_675. Bibliography metadata is an
+explicitly unfinished inventory; the monograph is a working paper, not a final
+validated conclusion about complete historical coverage or unbiased event
+boundaries. The site also publishes a dated discovery-status report
+(`site/discovery/`) describing where the search for missing histories stands
+and its limits.
 
 ## Run locally
 

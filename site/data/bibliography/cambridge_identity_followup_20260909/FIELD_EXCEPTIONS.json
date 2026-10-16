@@ -1,0 +1,40 @@
+{
+  "status": "explicit_unresolved_fields_identity_review_separate",
+  "exceptions": [
+    {
+      "id": "CAM-F01",
+      "work_id": "title:kanogo 1987",
+      "field": "original_imprint",
+      "status": "unresolved",
+      "reason": "The linked frontmatter PDF route returned HTML. Current platform publisher metadata does not establish the original imprint or the physical copy used by older citations."
+    },
+    {
+      "id": "CAM-F02",
+      "work_id": "title:elmslie 2017 asia pacific journal",
+      "field": "journal_issue",
+      "status": "unresolved",
+      "conflict_id": "CAM-J01",
+      "reason": "Retain Cambridge issue 2 as its reported value, supported by the original journal’s indexed volume/issue header. Preserve Crossref issue 17 as a conflicting deposit. The Cambridge e4 locator is separate from original article Number 1; do not treat it as a printed page."
+    },
+    {
+      "id": "CAM-F03",
+      "work_id": "title:how chinese migrant workers resisted coconut colonialism in samoa",
+      "field": "journal_issue",
+      "status": "unresolved",
+      "conflict_id": "CAM-J02",
+      "reason": "Retain Cambridge issue 17 as its reported value, supported by the original journal’s indexed volume/issue header. Preserve Crossref issue 16 as a conflicting deposit; electronic locator e9 is not a printed page."
+    },
+    {
+      "id": "CAM-F04",
+      "work_id": "title:how chinese migrant workers resisted coconut colonialism in samoa",
+      "field": "original_publication_day",
+      "status": "unresolved",
+      "conflict_id": "CAM-J03",
+      "reason": "Retain both indexed dates as source reports. Direct page/PDF access is blocked and no PDF was visually inspected. Do not assign a canonical original day; retain October 2022 at month precision and Cambridge’s separately labeled 2025 platform-online date."
+    }
+  ],
+  "new_open_fields": 4,
+  "prior_open_fields_preserved": 8,
+  "total_open_fields_after_publication": 12,
+  "public_application_pending": true
+}

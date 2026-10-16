@@ -1,0 +1,2092 @@
+[
+  {
+    "work_id": "access:03b23b00f5208c9626b9",
+    "recorded_title": "Pleiades 511337, Nikomedeia, for the representative target point at modern İzmit",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/511337"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Nicomedia",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/511337",
+      "place_id": "511337",
+      "creator_names_as_supplied": [
+        "C. Foss"
+      ],
+      "contributor_names_as_supplied": [
+        "Enes Yılandiloğlu",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "W. Röllig",
+        "Tom Elliott",
+        "H. Kopp",
+        "DARMC",
+        "R. Talbert",
+        "R. Scott Smith",
+        "B. Siewert-Mayer",
+        "Greta Hawes",
+        "Francis Deblauwe",
+        "Eric Kansa"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-06T23:24:45Z",
+      "latest_history_timestamp_as_supplied": "2026-01-30T03:13:28Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2009-10-15T16:59:30Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 52 F3 Nicomedia",
+      "rights_as_supplied": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/5/1/1/3/511337.json",
+        "sha256": "d6239ff4a03e2ed1b4a139315d3c9c020b6d503f25e5c810aad530969a3d7a9a"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/5/1/1/3/511337.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:1ae5c6fa2eaf7e58117b",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/727070"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Alexandria",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/727070",
+      "place_id": "727070",
+      "creator_names_as_supplied": [
+        "A. Bernand"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Jen Thum",
+        "Jeffrey Becker",
+        "Iris Fernandez",
+        "H. Kopp",
+        "Herbert Verreth",
+        "Elizabeth Platte",
+        "Andy Meadows",
+        "René Voorburg",
+        "Paola Buzi",
+        "B. Siewert-Mayer",
+        "Mark Depauw",
+        "R. Talbert",
+        "Adam Prins",
+        "Ethan Gruber",
+        "W. Röllig",
+        "Tom Elliott",
+        "DARMC",
+        "Sebastian Heath",
+        "Angelo Colonna",
+        "Roko Rumora",
+        "Ilaria Rossetti",
+        "Eric Kansa",
+        "Francis Deblauwe",
+        "Enes Yılandiloğlu"
+      ],
+      "creation_timestamp_as_supplied": "2026-08-05T20:30:37Z",
+      "latest_history_timestamp_as_supplied": "2026-08-05T20:54:58Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2009-09-09T17:26:56Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 74 B2 Alexandria",
+      "rights_as_supplied": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/7/2/7/0/727070.json",
+        "sha256": "979f4a818822922bef4b1e25143145912e17e9cf752585ee3a74e03e844247e1"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/7/2/7/0/727070.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:2246f8ab0ad428f522a8",
+    "recorded_title": "Pleiades 422852, Bovillae, accessed 2026-08-30, for a representative site cue, not an exact parcel or population centroid",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/422852"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Bovillae",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/422852",
+      "place_id": "422852",
+      "creator_names_as_supplied": [
+        "L. Quilici",
+        "S. Quilici Gigli"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-08T00:26:47Z",
+      "latest_history_timestamp_as_supplied": "2026-07-22T13:54:36Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-11T05:12:39Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 43 C2 Bovillae",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/2/8/422852.json",
+        "sha256": "44a05ba395d7e7821d4a926256612bdd0ac684bc4542ee6cc57df7feabd9c98c"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/2/8/422852.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:2306a8790bb22ffa50b4",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/254082752/json"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Temple of Talamonaccio",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/254082752",
+      "place_id": "254082752",
+      "creator_names_as_supplied": [
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "contributor_names_as_supplied": [
+        "John Muccigrosso"
+      ],
+      "creation_timestamp_as_supplied": "2019-08-27T18:10:11Z",
+      "latest_history_timestamp_as_supplied": "2026-02-28T15:55:41Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2019-08-27T18:22:23Z"
+        }
+      ],
+      "provenance_as_supplied": "Pleiades",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/4/0/8/2/7/254082752.json",
+        "sha256": "0308f6c34c423728438b9324baecd5fbb583a69a2fcf34e7e098b46bf7d82dfc"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/4/0/8/2/7/254082752.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:23a2a2590fdfdff0c6c9",
+    "recorded_title": "Pleiades 422886, Castrimoenium, accessed 2026-08-30, for an approximate representative site cue, not an exact parcel or population centroid",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/422886"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Castrimoenium",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/422886",
+      "place_id": "422886",
+      "creator_names_as_supplied": [
+        "L. Quilici",
+        "S. Quilici Gigli"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Sean Gillies",
+        "Tom Elliott",
+        "Jeffrey Becker"
+      ],
+      "creation_timestamp_as_supplied": "2010-11-10T22:31:23Z",
+      "latest_history_timestamp_as_supplied": "2026-07-22T02:56:17Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-11T05:12:44Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 43 C2 Castrimoenium",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/2/8/422886.json",
+        "sha256": "ce71cd6a94046dfdb7303848d0ff4da68a45b8b40f8a8b73a5740c026f4c22dc"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/2/8/422886.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:2b96508ee13dc81729ac",
+    "recorded_title": "Pleiades 422987, Norba, accessed 2026-08-30, for a representative city cue, not a gate, fire perimeter, victim location, municipal boundary, or population centroid",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/422987"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Norba",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/422987",
+      "place_id": "422987",
+      "creator_names_as_supplied": [
+        "L. Quilici",
+        "S. Quilici Gigli"
+      ],
+      "contributor_names_as_supplied": [
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Jeffrey Becker",
+        "Adam Rabinowitz",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-08T10:11:40Z",
+      "latest_history_timestamp_as_supplied": "2023-12-31T22:46:21Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-11T05:12:59Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 43 D3 Norba",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/2/9/422987.json",
+        "sha256": "cd4b07d57ee68b564e51855c06b973556dc04665849aca0aec569c9bfac65737"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/2/9/422987.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:2c6e074fa207bd931c46",
+    "recorded_title": "Pleiades 433133, Suessula, for the representative site point only",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/433133"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Suessula",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/433133",
+      "place_id": "433133",
+      "creator_names_as_supplied": [
+        "N. Purcell"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T20:39:54Z",
+      "latest_history_timestamp_as_supplied": "2026-06-27T19:25:39Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-14T13:59:23Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 44 F4 Suessula",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/3/1/433133.json",
+        "sha256": "bfae19a53ab7d0f7f12a7dad58fc9a52491353bbfca273e895e46226d494cac7"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/3/1/433133.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:3c10b57623af2901b487",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/433133/json"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Suessula",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/433133",
+      "place_id": "433133",
+      "creator_names_as_supplied": [
+        "N. Purcell"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T20:39:54Z",
+      "latest_history_timestamp_as_supplied": "2026-06-27T19:25:39Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-14T13:59:23Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 44 F4 Suessula",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/3/1/433133.json",
+        "sha256": "bfae19a53ab7d0f7f12a7dad58fc9a52491353bbfca273e895e46226d494cac7"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/3/1/433133.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:469c54510b631cde309a",
+    "recorded_title": "Pleiades 893990, Dura-Europos, for a representative site cue only",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/893990"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "D(o)ura/Europos",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/893990",
+      "place_id": "893990",
+      "creator_names_as_supplied": [
+        "M. Roaf",
+        "St J. Simpson"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Rajas Pradhan",
+        "Jeffrey Becker",
+        "Faith Lubeck",
+        "Kali Kocian",
+        "Richard Talbert",
+        "Rune Rattenborg",
+        "R. Talbert",
+        "Anne Chen",
+        "Carolin Johansson",
+        "Adam Rabinowitz",
+        "Tom Elliott",
+        "DARMC",
+        "R. Scott Smith",
+        "Greta Hawes",
+        "Jeffery Mayfield"
+      ],
+      "creation_timestamp_as_supplied": "2010-10-05T20:34:38Z",
+      "latest_history_timestamp_as_supplied": "2026-07-16T02:18:05Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-10-05T20:51:51Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 91 B3 Dura/Europus",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/8/9/3/9/893990.json",
+        "sha256": "0dac0bfb9b291fc243135aefcc14ef85434d25dc36842dabdf18ea91c7ac9131"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/8/9/3/9/893990.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:49f03fa7c6b9866b2221",
+    "recorded_title": "Pleiades 511169, Astakos, for the approximate representative site point; the marker is not an ancient civic boundary",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/511169"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Astakos",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/511169",
+      "place_id": "511169",
+      "creator_names_as_supplied": [
+        "C. Foss"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Jeffrey Becker",
+        "R. Talbert",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T23:01:07Z",
+      "latest_history_timestamp_as_supplied": "2024-04-15T04:25:06Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2009-10-15T16:58:56Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 52 F3 Astakos",
+      "rights_as_supplied": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/5/1/1/1/511169.json",
+        "sha256": "d451c4f1bdb43df0ff6eb5987b8034af145d1ccfa9f155e7c63092d09bda061a"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/5/1/1/1/511169.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:57ee40dbaf9ca0e3a1fc",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/403280"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Telamon",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/403280",
+      "place_id": "403280",
+      "creator_names_as_supplied": [
+        "W.V. Harris"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "R. Talbert",
+        "Sean Gillies",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Scott Smith",
+        "Greta Hawes"
+      ],
+      "creation_timestamp_as_supplied": "2010-11-15T18:58:27Z",
+      "latest_history_timestamp_as_supplied": "2026-06-21T23:03:04Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-15T19:06:23Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 41 E4 Telamon",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/0/3/2/403280.json",
+        "sha256": "ca500014ed23a2981e00d08722c2c55eb8fcee5e1a54ad4ca5e34a9d22f6bafc"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/0/3/2/403280.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:5c1c12426e61b9b3d97d",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/256155"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Emerita Augusta",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/256155",
+      "place_id": "256155",
+      "creator_names_as_supplied": [
+        "Jr.",
+        "F.H. Stanley",
+        "R.C. Knapp"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "R. Talbert",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Warner",
+        "Sean Gillies",
+        "Perry Scalfano",
+        "David Mimno",
+        "jfu",
+        "Enes Yılandiloğlu"
+      ],
+      "creation_timestamp_as_supplied": "2020-06-19T16:16:54Z",
+      "latest_history_timestamp_as_supplied": "2026-07-30T13:40:11Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-10T17:52:19Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 26 D3 Emerita Augusta",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/6/1/256155.json",
+        "sha256": "4c59bd61330e7d331cf5a2be527f6487608a1838d3ab896afe75eecf21bab815"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/6/1/256155.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted. The creator array contains a detached Jr. entry; its normalized parsing remains unresolved, with no name recombination. Contributor label jfu is retained literally; no person-name expansion or formal author attribution is asserted."
+    }
+  },
+  {
+    "work_id": "access:5f023b3e4086f3cc4c19",
+    "recorded_title": "Pleiades 423013, Praeneste, accessed 2026-08-30, for a representative city cue, not the surrender plain, killing site, confiscated territory, allotment grid, or ownership boundary",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/423013"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Praeneste",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/423013",
+      "place_id": "423013",
+      "creator_names_as_supplied": [
+        "L. Quilici",
+        "S. Quilici Gigli"
+      ],
+      "contributor_names_as_supplied": [
+        "Eleftheria Konstantinidou",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Talbert",
+        "R. Scott Smith",
+        "Greta Hawes"
+      ],
+      "creation_timestamp_as_supplied": "2026-09-01T10:53:03Z",
+      "latest_history_timestamp_as_supplied": "2026-09-01T14:56:36Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-11T05:13:03Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 43 D2 Praeneste",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/3/0/423013.json",
+        "sha256": "e7076451d8f22eb9c868b54df9783739a3b4e108eaca8a32a682d9b971152785"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/3/0/423013.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:60819c508d8139537e73",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/275736"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Tingi",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/275736",
+      "place_id": "275736",
+      "creator_names_as_supplied": [
+        "M. Euzennat"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Talbert",
+        "R. Warner",
+        "R. Scott Smith",
+        "Greta Hawes",
+        "Ingrid Luo",
+        "Enes Yılandiloğlu"
+      ],
+      "creation_timestamp_as_supplied": "2021-11-11T21:27:07Z",
+      "latest_history_timestamp_as_supplied": "2026-04-01T02:11:36Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-09-24T20:35:50Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 28 C2 Tingi",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/7/5/7/275736.json",
+        "sha256": "e764c48d50dde236bcdd89fd90c6720120f28ba6dcbef52bac9ed815b486947a"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/7/5/7/275736.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:657c1aee04b1b02d023d",
+    "recorded_title": "Pleiades 629035, Mazaka/Eusebeia/Caesarea, for the representative source-city point only",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/629035"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Mazaka/Eusebeia/Caesarea",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/629035",
+      "place_id": "629035",
+      "creator_names_as_supplied": [
+        "T.B. Mitford"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Carolin Johansson",
+        "H. Kopp",
+        "B. Siewert-Mayer",
+        "Rune Rattenborg",
+        "R. Talbert",
+        "Enes Yılandiloğlu",
+        "W. Röllig",
+        "Tom Elliott",
+        "DARMC",
+        "Jeffrey Becker",
+        "R. Scott Smith",
+        "Greta Hawes",
+        "Sarah Bond",
+        "Francis Deblauwe",
+        "Eric Kansa"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T20:38:22Z",
+      "latest_history_timestamp_as_supplied": "2026-02-27T15:32:12Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2009-10-19T13:38:42Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 64 A3 Mazaka/Eusebeia/Caesarea",
+      "rights_as_supplied": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/6/2/9/0/629035.json",
+        "sha256": "8356b7216b91f4de5b9e3b75033fb72e2f58579a67fd276a4f56a43ede14716c"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/6/2/9/0/629035.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:6b846a62f52899dbc302",
+    "recorded_title": "Pleiades 403212, Fufluna/Populonium, accessed 2026-08-30, for orientation retained only in the source-event hold; not a siege perimeter, domus, port, territory, or movement route",
+    "scope": [
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/403212"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Fufluna/Populonium",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/403212",
+      "place_id": "403212",
+      "creator_names_as_supplied": [
+        "W.V. Harris"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T20:33:42Z",
+      "latest_history_timestamp_as_supplied": "2026-02-02T17:26:36Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-15T19:06:15Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 41 C4 Fufluna/Populonium",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/0/3/2/403212.json",
+        "sha256": "67ac9221b192e21299f8191e066061a771a353d1df669ad699b885651e868fbd"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/0/3/2/403212.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:78a392a53425b96f71d6",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/403280/json"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Telamon",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/403280",
+      "place_id": "403280",
+      "creator_names_as_supplied": [
+        "W.V. Harris"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "R. Talbert",
+        "Sean Gillies",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Scott Smith",
+        "Greta Hawes"
+      ],
+      "creation_timestamp_as_supplied": "2010-11-15T18:58:27Z",
+      "latest_history_timestamp_as_supplied": "2026-06-21T23:03:04Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-15T19:06:23Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 41 E4 Telamon",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/0/3/2/403280.json",
+        "sha256": "ca500014ed23a2981e00d08722c2c55eb8fcee5e1a54ad4ca5e34a9d22f6bafc"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/0/3/2/403280.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:7d5872d8177ce12bbe4d",
+    "recorded_title": "Pleiades 433014, Parthenope/Neapolis, accessed 2026-08-30, for a representative city cue, not an assault route, massacre footprint, fleet position, or city boundary",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/433014"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Parthenope/Neapolis",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/433014",
+      "place_id": "433014",
+      "creator_names_as_supplied": [
+        "N. Purcell"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Talbert",
+        "David Mimno",
+        "Ingrid Luo"
+      ],
+      "creation_timestamp_as_supplied": "2021-11-14T23:19:06Z",
+      "latest_history_timestamp_as_supplied": "2026-06-04T15:35:37Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-14T13:59:04Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 44 F4 Parthenope/Neapolis",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/3/0/433014.json",
+        "sha256": "8c83792c5eb9ef8838535f9c3f67947905c4114f5c899d6501a3b6175d647b6d"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/3/0/433014.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:8901c6a39ab4303bc0c6",
+    "recorded_title": "Pleiades 314921, Carthage, accessed 2026-08-30, for the representative ancient-city cue; not a city boundary or population centroid",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/314921"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Carthago",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/314921",
+      "place_id": "314921",
+      "creator_names_as_supplied": [
+        "R.B. Hitchner"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "Greta Hawes",
+        "Jonathan Prag",
+        "R. Scott Smith",
+        "R. Warner",
+        "R. Talbert",
+        "Ingrid Luo",
+        "Enes Yılandiloğlu"
+      ],
+      "creation_timestamp_as_supplied": "2021-11-12T19:20:44Z",
+      "latest_history_timestamp_as_supplied": "2026-05-18T21:13:04Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-09-29T10:30:04Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 32 F3 Carthago",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/3/1/4/9/314921.json",
+        "sha256": "e8531934f1ac09dfd47b9d018582b2f88c20063bc4211a3b554c867b26557c60"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/3/1/4/9/314921.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:89bf8d12b99e73b0c0f2",
+    "recorded_title": "Pleiades 413124, Faesulae, accessed 2026-08-30, for geographic orientation retained only in the family hold; not a castella or recovery-boundary map",
+    "scope": [
+      "unassigned_atlas_registry"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/413124"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Faesulae",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/413124",
+      "place_id": "413124",
+      "creator_names_as_supplied": [
+        "W.V. Harris"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T19:42:25Z",
+      "latest_history_timestamp_as_supplied": "2025-06-27T15:18:33Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-14T14:02:55Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 42 A1 Faesulae",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/1/3/1/413124.json",
+        "sha256": "0ccf13e084a02c6e1407fef00d1e13b48e6188d429fdf0e33a7181a501741a22"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/1/3/1/413124.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:8a9c3eddea6dc39bf75e",
+    "recorded_title": "Pleiades 432981, Nola, for the representative site point only",
+    "scope": [
+      "authoring_source_note_link",
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/432981"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Nola",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/432981",
+      "place_id": "432981",
+      "creator_names_as_supplied": [
+        "N. Purcell"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Talbert",
+        "R. Scott Smith",
+        "Greta Hawes"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T23:22:14Z",
+      "latest_history_timestamp_as_supplied": "2026-02-21T02:10:58Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-14T13:59:00Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 44 G4 Nola",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/2/9/432981.json",
+        "sha256": "cbef0533fbd149dc212ba96a27ce648cf91ca7867de15dd49a4331c40fec1897"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/2/9/432981.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:8aec8c6afd73596e32c4",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/254082752"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Temple of Talamonaccio",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/254082752",
+      "place_id": "254082752",
+      "creator_names_as_supplied": [
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "contributor_names_as_supplied": [
+        "John Muccigrosso"
+      ],
+      "creation_timestamp_as_supplied": "2019-08-27T18:10:11Z",
+      "latest_history_timestamp_as_supplied": "2026-02-28T15:55:41Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2019-08-27T18:22:23Z"
+        }
+      ],
+      "provenance_as_supplied": "Pleiades",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/4/0/8/2/7/254082752.json",
+        "sha256": "0308f6c34c423728438b9324baecd5fbb583a69a2fcf34e7e098b46bf7d82dfc"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/4/0/8/2/7/254082752.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:949a9f8d71666a925853",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/432981/json"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Nola",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/432981",
+      "place_id": "432981",
+      "creator_names_as_supplied": [
+        "N. Purcell"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Talbert",
+        "R. Scott Smith",
+        "Greta Hawes"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T23:22:14Z",
+      "latest_history_timestamp_as_supplied": "2026-02-21T02:10:58Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-14T13:59:00Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 44 G4 Nola",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/2/9/432981.json",
+        "sha256": "cbef0533fbd149dc212ba96a27ce648cf91ca7867de15dd49a4331c40fec1897"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/3/2/9/432981.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:97f85519f1f6ede0c977",
+    "recorded_title": "Pleiades 413032, Arretium, accessed 2026-08-30, for a representative city cue, not a municipal boundary, parcel, or population centroid",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/413032"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Arretium",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/413032",
+      "place_id": "413032",
+      "creator_names_as_supplied": [
+        "W.V. Harris"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-08T11:40:50Z",
+      "latest_history_timestamp_as_supplied": "2025-01-03T03:40:06Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-14T14:02:36Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 42 B2 Arretium",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/1/3/0/413032.json",
+        "sha256": "ecde75d0682295b60cd4d8d0c679754fce6c0d85522b4ecaa272df416614db48"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/1/3/0/413032.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:a754a79353599ff2a43d",
+    "recorded_title": "Pleiades 413012, Ameria, for an illustrative property-dispossession evidence point, not a national sample, estate inventory, or cadastral boundary",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/413012"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Ameria (Umbria)",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/413012",
+      "place_id": "413012",
+      "creator_names_as_supplied": [
+        "W.V. Harris"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2025-09-05T00:17:45Z",
+      "latest_history_timestamp_as_supplied": "2025-09-05T02:01:57Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-14T14:02:33Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 42 C3 Ameria",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/1/3/0/413012.json",
+        "sha256": "0b506a13f333924a23dab3654f501ecfa2d083a7a4d5995503d7840d8080b1bf"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/1/3/0/413012.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:aae29ebf6399615aa8cf",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/266066"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Toletum",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/266066",
+      "place_id": "266066",
+      "creator_names_as_supplied": [
+        "P.O. Spann"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "Javier Martínez Jiménez",
+        "DARMC",
+        "R. Warner",
+        "R. Talbert",
+        "Enes Yılandiloğlu",
+        "María Jesús Redondo"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-08T00:54:33Z",
+      "latest_history_timestamp_as_supplied": "2025-10-06T13:57:32Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2016-10-24T12:10:46Z"
+        },
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-09-24T19:34:44Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 27 A2 Toletum",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/6/6/0/266066.json",
+        "sha256": "6453065b56608f6c48d397c4372b8609a614e6a738b2efccba8eb386fcc226dd"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/6/6/0/266066.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:af4752f2966fd59b11f3",
+    "recorded_title": "Pleiades 658381, Antiochia/Theoupolis, for the representative Antioch point only",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/658381"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Antiochia/Theoupolis",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/658381",
+      "place_id": "658381",
+      "creator_names_as_supplied": [
+        "T. Sinclair",
+        "P.-L. Gatier"
+      ],
+      "contributor_names_as_supplied": [
+        "M. Ballance",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Jeffrey Becker",
+        "H. Kopp",
+        "B. Siewert-Mayer",
+        "R. Talbert",
+        "Johan Åhlfeldt",
+        "Enes Yılandiloğlu",
+        "W. Röllig",
+        "Tom Elliott",
+        "DARMC",
+        "Francis Deblauwe",
+        "R. Warner",
+        "R. Scott Smith",
+        "Greta Hawes",
+        "Ryan Horne",
+        "Eric Kansa"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-07T21:39:09Z",
+      "latest_history_timestamp_as_supplied": "2026-03-30T15:28:12Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2009-10-19T13:55:32Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 67 C4 Antiochia/Theoupolis",
+      "rights_as_supplied": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/6/5/8/3/658381.json",
+        "sha256": "d42b45ba314a345c22ea86a37322dc4f2b9ec45a9b91a37ed83df1dbdf50d0e3"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/6/5/8/3/658381.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:b7ecc43034d8c51c0abc",
+    "recorded_title": "Pleiades 423025, Roma, for a representative policy and public-list context point, not a boundary, victim location, or measure of national extent",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/423025"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Roma",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/423025",
+      "place_id": "423025",
+      "creator_names_as_supplied": [
+        "L. Quilici",
+        "S. Quilici Gigli"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Rosemary Selth",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Talbert",
+        "Sebastian Heath",
+        "Joe User",
+        "Maxime Guénette",
+        "R. Scott Smith",
+        "Greta Hawes",
+        "Enes Yılandiloğlu"
+      ],
+      "creation_timestamp_as_supplied": "2025-03-19T13:40:12Z",
+      "latest_history_timestamp_as_supplied": "2026-08-01T20:01:14Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-11T05:13:04Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 43 B2 Roma",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/3/0/423025.json",
+        "sha256": "09a9bdb6309bfafe57b19fb3e2c4b402d0f77c7eefaf57c8539f2ca815d81fa5"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/3/0/423025.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted. Contributor label Joe User is retained literally; no person-name expansion or formal author attribution is asserted."
+    }
+  },
+  {
+    "work_id": "access:d4df0f615a5b288c5eab",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/256128"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Corduba/Col. Patricia",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/256128",
+      "place_id": "256128",
+      "creator_names_as_supplied": [
+        "Jr.",
+        "F.H. Stanley",
+        "R.C. Knapp"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Warner",
+        "R. Talbert",
+        "Enes Yılandiloğlu",
+        "María Jesús Redondo"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-08T00:16:19Z",
+      "latest_history_timestamp_as_supplied": "2026-03-02T21:16:22Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-10T17:52:15Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 26 F4 Corduba/Col. Patricia",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/6/1/256128.json",
+        "sha256": "fdfb92234552dc15852657d9b497403624088f3fd78b1a0e79c1ef83d065d0bc"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/5/6/1/256128.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted. The creator array contains a detached Jr. entry; its normalized parsing remains unresolved, with no name recombination."
+    }
+  },
+  {
+    "work_id": "access:d831b0a6653746cdf2cc",
+    "recorded_title": "Pleiades 422932, Gabii, accessed 2026-08-30, for a representative site cue, not an exact parcel or population centroid",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/422932"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Gabii",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/422932",
+      "place_id": "422932",
+      "creator_names_as_supplied": [
+        "L. Quilici",
+        "S. Quilici Gigli"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Talbert",
+        "R. Scott Smith",
+        "Greta Hawes"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-08T00:27:25Z",
+      "latest_history_timestamp_as_supplied": "2026-04-28T21:39:24Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-11T05:12:51Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 43 C2 Gabii",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/2/9/422932.json",
+        "sha256": "82244294c6f5c87c85c69a63877eeedd8fccaac827d1a32a3e26ed67584327dc"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/2/2/9/422932.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:e2914aa20a1af16d759d",
+    "recorded_title": "Pleiades 403292, Volaterrae, for the representative site point only",
+    "scope": [
+      "public_authored_case"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/403292"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Velathri/Volaterrae",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/403292",
+      "place_id": "403292",
+      "creator_names_as_supplied": [
+        "W.V. Harris"
+      ],
+      "contributor_names_as_supplied": [
+        "DARMC",
+        "R. Talbert",
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott"
+      ],
+      "creation_timestamp_as_supplied": "2018-06-08T11:52:37Z",
+      "latest_history_timestamp_as_supplied": "2026-06-08T01:51:49Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-15T19:06:24Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 41 D3 Velathri/Volaterrae",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/0/3/2/403292.json",
+        "sha256": "309e479a0d499eb6de8821717ccc0da7c88d8ee08bae5c606ccd585165f389a4"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/4/0/3/2/403292.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  },
+  {
+    "work_id": "access:e95b86b530ed524aa411",
+    "recorded_title": "",
+    "scope": [
+      "authoring_source_note_link"
+    ],
+    "access_urls": [
+      "https://pleiades.stoa.org/places/246344"
+    ],
+    "metadata_status": "metadata_identity_reconciled_locus_separate",
+    "typed_fields": {
+      "work_type": "gazetteer_place_resource",
+      "title": "Col. Caesaraugusta",
+      "container_title": "Pleiades: A Gazetteer of Past Places",
+      "publisher": "Pleiades",
+      "canonical_uri_as_supplied": "https://pleiades.stoa.org/places/246344",
+      "place_id": "246344",
+      "creator_names_as_supplied": [
+        "H.S. Sivan",
+        "S.J. Keay",
+        "R.W. Mathisen"
+      ],
+      "contributor_names_as_supplied": [
+        "Brady Kiesling",
+        "Sean Gillies",
+        "Johan Åhlfeldt",
+        "Jeffrey Becker",
+        "Tom Elliott",
+        "DARMC",
+        "R. Talbert",
+        "Ryan Horne",
+        "Enes Yılandiloğlu"
+      ],
+      "creation_timestamp_as_supplied": "2010-11-09T18:57:30Z",
+      "latest_history_timestamp_as_supplied": "2026-01-09T15:35:07Z",
+      "publication_history_actions_as_supplied": [
+        {
+          "action": "Publish externally",
+          "timestamp": "2010-11-10T17:48:04Z"
+        }
+      ],
+      "provenance_as_supplied": "Barrington Atlas: BAtlas 25 E4 Col. Caesaraugusta",
+      "rights_as_supplied": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+      "metadata_accessed": "2026-09-09",
+      "repository_snapshot": {
+        "repository": "https://github.com/isawnyu/pleiades.datasets",
+        "commit": "d3005b18e2583b74bed0937ce759e606d329545e",
+        "commit_date": "2026-09-08T23:19:56Z",
+        "data_url": "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/4/6/3/246344.json",
+        "sha256": "10de0285c5aa104be60f81726d3aca18b40ca79b7cf249b22e2090723d22b796"
+      }
+    },
+    "verification_urls": [
+      "https://raw.githubusercontent.com/isawnyu/pleiades.datasets/d3005b18e2583b74bed0937ce759e606d329545e/data/json/2/4/6/3/246344.json"
+    ],
+    "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name.",
+    "identity_review": {
+      "reviewed_by": "main_agent",
+      "scope": "pinned_gazetteer_metadata_identity_only",
+      "decision": "Identify the existing Pleiades place/resource and preserve its distinct work/access ID.",
+      "source_passages_newly_verified": false,
+      "passage_limit": "Pinned place identity and literal metadata roles only. Historical claims, geometry, formal person identities and canonical live citation/version are outside this metadata acceptance.",
+      "metadata_basis": "The source JSON supplies the place identifier, canonical URI, title, separate creator/contributor lists, creation timestamp, modification/publication history, provenance and rights. Repository version and file hash bind the inspected snapshot.",
+      "metadata_limits": "Metadata is read from the named official repository commit; the canonical live page and its suggested citation were not inspected. This main snapshot is not numbered release 4.1. Creators and contributors remain separate literal source labels, not a normalized formal coauthor list. Creation and history timestamps retain their source roles; no first-publication date or publication year is inferred. The original recorded title, URL, geometry context and source occurrences are preserved. No historical passage, original atlas location/version, source independence or underlying reference is newly accepted."
+    }
+  }
+]

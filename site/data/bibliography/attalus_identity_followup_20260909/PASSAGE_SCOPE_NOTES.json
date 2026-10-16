@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "work_id": "access:2fe8966bffe0af4d3e7b",
+      "status": "existing_chronology_scope_preserved",
+      "observation": "The inscription page dates it soon after 321 BCE; the current restoration case already displays 322/1 BCE. This metadata check does not add a new chronology hold or change either case's historical argument."
+    },
+    {
+      "work_ids": [
+        "url:attalus.org/names/d/dentatus.html",
+        "url:attalus.org/names/n/nequinum.html"
+      ],
+      "status": "access_type_clarified_without_new_historical_finding",
+      "observation": "The retained inventory labels say Primary source, but the actual URLs are modern name indexes. Current displayed labels already describe them as ancient references. Their linked primary-text locators remain separate questions."
+    }
+  ],
+  "new_historical_acceptances": 0,
+  "new_case_holds": 0
+}

@@ -1,0 +1,55 @@
+{
+  "build": "20260912g",
+  "unresolved_access_questions": [
+    {
+      "work_id": "access:ad375c4c71041903bbc0",
+      "question": "What exact document bytes did the original UMD bitstream contain?",
+      "status": "Uncheckable",
+      "reason": "Original route 404; purported local PDF is HTML. UNL metadata identifies the named chapter but cannot establish byte equality."
+    },
+    {
+      "work_id": "access:ab13c4e552d0620efd92",
+      "question": "Recover thesis body and adjudicate its relation to the original evidence-use bundle before any substantive reuse.",
+      "status": "body_access_and_adoption_open",
+      "reason": "Only indexed official metadata/title page read; direct routes no longer supplied the thesis."
+    },
+    {
+      "work_id": "title:gorman milesian decrees of isopoliteia and the refoundation of the city",
+      "question": "Recover an inspectable chapter body for any new passage verification.",
+      "status": "passage_access_open",
+      "reason": "Official catalogue and abstract read; existing local .pdf is HTML."
+    }
+  ],
+  "historical_limits": [
+    {
+      "work_id": "access:288a75dfe01f72b2af11",
+      "status": "historical_review_unchanged",
+      "case_ids": [
+        "south-africa-cape-khoekhoe-land-labor-dispossession-1652-1806",
+        "south-africa-cape-san-commando-clearance-1700s-1806"
+      ],
+      "limit": "Book identity does not answer the independent Cape project-versus-victim scope question in the six raw-F8 follow-ups."
+    },
+    {
+      "work_id": "access:cef5ec83f452351eb4c4",
+      "status": "historical_review_unchanged",
+      "case_ids": [
+        "south-africa-cape-san-commando-clearance-1700s-1806"
+      ],
+      "limit": "No new claim-level acceptance, scoring decision or quoted passage is added."
+    },
+    {
+      "work_id": "title:lipson et al 2018 population turnover in remote oceania shortly after initial settlement current biology 28 1157 1165",
+      "status": "authoring_evidence_hold_unchanged",
+      "event_id": "prehistory-post-lapita-papuan-replacement-vanuatu",
+      "limit": "Publication identity and genetic ancestry evidence do not adjudicate colonization, violence, actor agency or incoming flight."
+    }
+  ],
+  "prior_flight_acceptance": "The existing Hamed-Troyansky Wadi al-Sir passage remains accepted; this metadata update assigns no additional flight-origin case.",
+  "rule": "Source identity, body access and historical passage acceptance are separate. Existing independent-review gates remain.",
+  "scholarly_source_limits": {
+    "current_case_uses": 19,
+    "historical_claims_newly_accepted": 0,
+    "rule": "Monica Chiabà author attribution, Campbell modern/ancient contributor roles and Sano printed date labels are bibliographic findings. Historical passage adequacy is not newly adjudicated."
+  }
+}
