@@ -42,44 +42,45 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "98d30da9683ddf23378db2cbe79602874aeffcdc486212faa722c93e9305da59",
+  "tree_sha256": "5bf91946633987ca2f1b873dfd4a1ea6268c7a12192ff1623435893f93cd7be5",
   "site_updates": {
-    "schema": "taking-land-site-updates-v1",
-    "version": "20261016-assam-baikal-source233-r10-rss45",
-    "entries": 45,
-    "source": "updates/entries.json",
-    "source_sha256": "e2ee6570dae8863c13ab307195dbe4a3ade7693a56feb472ac3439b7b47567ae",
-    "feed": "updates/feed.xml",
-    "feed_sha256": "4f6147727b860e22cea9d56d9041856c602c81ec77b93259ce60c2f6bf2bf240",
-    "discovery_list": {
-      "schema": "discovery-list-binding-v1",
-      "version": "20261016-assam-baikal-source233-r10-rss45",
-      "reviewed_on": "2026-10-14",
-      "ledger_sha256": "08e65994828600a8a96bda02a3c1f0eae0271d07907cee1327976146526c7269",
-      "editorial_sha256": "169713d35c2b1e1478225a1b63277a4ab9c709707320bce4211aa62bd009bda0",
-      "page": "discovery/known/index.html",
-      "page_sha256": "f33e9b1a5f5c572ad572a6d84db57a9b6b2b8f300961a9cb2e6365a0e25304bc",
-      "data": "discovery/known/entries.json",
-      "data_sha256": "d60887b0cacd34fdaf2406453f965ff4d5c9f2f911c22d72a7eb11e5b01b36bd",
-      "updated_on": "2026-10-16",
-      "update_scope": "Nine new source notes cover Assam and the Baikal area. Two Alaska notes have new source limits. These changes add no atlas case."
-    },
-    "discovery_report": {
-      "version": "p7-r10-current-source-snapshot",
-      "index": "discovery/index.html",
-      "index_sha256": "2f3d7c510c47765602f054ab8befdeff236b7488e278ea166bb4911a4db63ddc",
-      "data": "discovery/report.json",
-      "data_sha256": "7650140e80ed107b2af43a42bb8629e4e5af40ae9173824c3dbfc70a60d6cddb",
-      "runtime_scope": "Dated current source report; local566 data are not public atlas/runtime acceptance"
-    },
-    "citation_scope": {
-      "concept_DOI": "10.5281/zenodo.23410511",
-      "issued_version_DOI": "10.5281/zenodo.23410512",
-      "repository": "https://github.com/talbert/taking-their-land",
-      "archive_is_older_snapshot": true,
-      "component_licenses_unchanged": true
-    }
+  "schema": "taking-land-site-updates-v1",
+  "version": "20261016-pushkalavati-alaska-source234-r11-rss46",
+  "entries": 46,
+  "source": "updates/entries.json",
+  "source_sha256": "c6aa4a5e4ae76f9a76f7b36442d3dbd6a2549b4af17969770dc63320465d087a",
+  "feed": "updates/feed.xml",
+  "feed_sha256": "6f2c2749cf0980a6a93c705173d978f466d836054b6d4495a5d724cf42b142bc",
+  "discovery_list": {
+    "schema": "discovery-list-binding-v1",
+    "version": "20261016-pushkalavati-alaska-source234-r11-rss46",
+    "reviewed_on": "2026-10-14",
+    "ledger_sha256": "d713b286ea0b3bb16b6993bef95cfcbd05fd84142ed1047e21efe6c7af29a49d",
+    "editorial_sha256": "9f794e835f380853f9ed878f3f9a4a3d3548322272e6d2134086998a48074c93",
+    "page": "discovery/known/index.html",
+    "page_sha256": "b0f00c6a6a4c559f2d9d86eadf3c19938ae827e05adb1fc912937ccf0fef31d5",
+    "data": "discovery/known/entries.json",
+    "data_sha256": "dfbc578cdac63789bb30078af7baeb15cba157a45514921eaf08f3db5fc47901",
+    "updated_on": "2026-10-16",
+    "update_scope": "One new source note covers a report of lost rule at Pushkalavati. Two Alaska notes have more site context. These changes add no atlas case.",
+    "entries": 234
   },
+  "discovery_report": {
+    "version": "p7-r11-current-source-snapshot",
+    "index": "discovery/index.html",
+    "index_sha256": "ab5549ea3a439e416f67a88dc33dd3759306e151aa516309e4e242465dfd0026",
+    "data": "discovery/report.json",
+    "data_sha256": "bc7ae163d057a5658fe48b6b1490e6f6126bd330dba83032d2e2da8a57962c7a",
+    "runtime_scope": "Dated current source report; local566 data are not public atlas/runtime acceptance"
+  },
+  "citation_scope": {
+    "concept_DOI": "10.5281/zenodo.23410511",
+    "issued_version_DOI": "10.5281/zenodo.23410512",
+    "repository": "https://github.com/talbert/taking-their-land",
+    "archive_is_older_snapshot": true,
+    "component_licenses_unchanged": true
+  }
+},
   "discovery_status": {
     "schema": "taking-land-public-discovery-status-delivery-v1",
     "version": "p7-r3",

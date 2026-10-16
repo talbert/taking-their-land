@@ -1,9 +1,9 @@
 {
   "schema": "taking-land-public-discovery-status-v1",
-  "version": "p7-r10-current-source-snapshot",
+  "version": "p7-r11-current-source-snapshot",
   "status": "BOUNDED_DATED_SEARCH_SNAPSHOT",
   "publication": null,
-  "as_of_utc": "2026-10-16T13:06:43.838959+00:00",
+  "as_of_utc": "2026-10-16T16:15:16.855753+00:00",
   "known_roster": {
   "cases": 540,
   "stops": 552,
@@ -16477,16 +16477,16 @@
   ],
   "report_date_local": "2026-10-16",
   "timezone": "America/Denver",
-  "bound_checkpoint": 1453,
+  "bound_checkpoint": 1503,
   "external_ledger": {
-  "records": 239,
+  "records": 240,
   "types": {
-    "candidate": 137,
+    "candidate": 138,
     "control": 2,
     "source_located_lead": 96,
     "search_lead": 4
   },
-  "workflow_admissions": 77,
+  "workflow_admissions": 78,
   "workflow_unit": "source-only inactive archive record; not established execution or public admission",
   "scientific_activations": 0,
   "unique_history_count": "UNASSESSED",
@@ -16494,7 +16494,7 @@
   "unique_candidates_outside_frozen_roster": "UNASSESSED"
 },
   "population_index": {
-  "version": 110,
+  "version": 113,
   "current_inventory_counts": {
     "population_records": 195,
     "population_event_edges": 369,
@@ -16504,10 +16504,10 @@
     "intake_name_leads_fully_dispositioned": 409,
     "intake_name_leads_partially_dispositioned": 38,
     "intake_name_leads_not_yet_processed": 1911,
-    "external_ledger_records": 239,
-    "isolated_admission_workflow": 77,
+    "external_ledger_records": 240,
+    "isolated_admission_workflow": 78,
     "scientific_activations": 0,
-    "external_per_record_question_envelopes_unresolved": 350,
+    "external_per_record_question_envelopes_unresolved": 352,
     "standalone_cohort_history_questions_unresolved": 28,
     "external_name_leads_v40_tranche": 2,
     "external_name_question_views_v40_tranche": 4,
@@ -16526,19 +16526,19 @@
   "intake_is_discovery_denominator": false,
   "name_leads_are_populations": false,
   "workflow_resolves_history": false,
-  "event_questions_unresolved": 350,
+  "event_questions_unresolved": 352,
   "cohort_questions_unresolved": 28,
   "source_phase_question_views": 24,
   "question_views_independent_or_additive": false
 },
   "isolated_d10": {
-  "accepted_admissions": 77,
+  "accepted_admissions": 78,
   "accepted_admissions_unit": "inactive source-only archival profile; not independently established historical event",
   "active_statistical_admissions": 0,
   "registered_report_at": 90,
-  "remaining_to_report": 13,
-  "score_rows": 753,
-  "corpus_objects": 848,
+  "remaining_to_report": 12,
+  "score_rows": 754,
+  "corpus_objects": 849,
   "atlas_rendered_admissions": null,
   "pending_separate_atlas_authoring_or_application": null,
   "public_archive_crosswalk": "NOT_CURRENTLY_RECONCILED",
@@ -16557,22 +16557,22 @@
   },
   "prose_fields": {
   "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The local data has 566 cases and 580 stops. Its queue has 59 known ordinary cases and 64 holds. These local data are not live.",
-  "p02": "The dated public atlas has 22 flight notes. This release has 45 update posts. The atlas itself does not change.",
+  "p02": "The dated public atlas has 22 flight notes. This release has 46 update posts. The atlas itself does not change.",
   "p03": "The search matrix has 1,280 records in five states. Each state describes a bounded search.",
   "p04": "A found record has a located result. Some found records still need more source searches.",
   "p05": "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
   "p06": "A searched-empty record has no result within its checked scope. None now has that state. An empty search cannot prove that no such history took place.",
   "p07": "There are 1,229 not-yet-searched cells. Some have partial work but still need a full scope search. There are 20 cells with source or access limits. None is not-applicable.",
-  "p08": "The source ledger has 239 records. It has 137 candidates, 96 located leads, four search leads and two controls.",
+  "p08": "The source ledger has 240 records. It has 138 candidates, 96 located leads, four search leads and two controls.",
   "p09": "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
   "p10": "The current external frame has 365 entries and 730 open question views. No entry has a completed historical review in its block. This frame does not steer searches.",
-  "p11": "This release lists 233 source notes and 151 map notes. These notes do not add atlas cases or model scores.",
-  "p12": "The local bibliography has 1,500 works and 6,265 source uses. It has 316 open identity gaps and 41 recorded identity fixes. Passage checks are separate. These data are not live.",
-  "p13": "The archive series has 77 inactive records. These records do not establish 77 historical events. Its next report is at 90. Another 13 records reach that report.",
-  "p14": "The series has 753 profile rows and 848 corpus objects. None of its added records is in the active statistical roster.",
+  "p11": "This release lists 234 source notes and 151 map notes. These notes do not add atlas cases or model scores.",
+  "p12": "The local bibliography has 1,501 works and 6,266 source uses. It has 316 open identity gaps and 41 recorded identity fixes. Passage checks are separate. These data are not live.",
+  "p13": "The archive series has 78 inactive records. These records do not establish 78 historical events. Its next report is at 90. Another 12 records reach that report.",
+  "p14": "The series has 754 profile rows and 849 corpus objects. None of its added records is in the active statistical roster.",
   "p15": "The current match between archive records and public cases is unknown. The report at 90 is never an admission gate.",
-  "p16": "The index is version 110. It has 195 population records. There are 369 event links and five population links.",
-  "p17": "The index keeps 220 open records. Its 350 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
+  "p16": "The index is version 113. It has 195 population records. There are 369 event links and five population links.",
+  "p17": "The index keeps 220 open records. Its 352 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
   "p18": "The intake has 2,358 name leads. It has 409 full reviews, 38 partial reviews, and 1,911 untouched leads.",
   "p19": "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
   "p20": "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
@@ -16613,8 +16613,8 @@
     "prior_public_report": "2026-10-05T20:00:38.656033+00:00"
   },
   "source_version_labels": {
-  "current_source_ledger": "239records/workflow77",
-  "current_population_index": "v110",
+  "current_source_ledger": "240records/workflow78",
+  "current_population_index": "v113",
   "current_exposure_ledger": "52partial attempts; no new exposure from control repair",
   "matrix": "1280cells;31found/1229not-yet/20limited;no full-era two-channel flags",
   "priority_pilot": "Dated2026-10-04 diagnostic147entries; distinct current external intake365"
@@ -16648,11 +16648,11 @@
     "Early North America and South Asia are priorities. Search work still spans all regions and eras. Population frames, recall checks and reviews of empty cells have gaps. Case drafts, bibliography, flight origins, impact and world population work remain open. Audio is last."
   ],
   "current_acceptance_dates": {
-  "Source ledger and population": "2026-10-16T12:20:10.335684+00:00",
+  "Source ledger and population": "2026-10-16T16:01:09.255355+00:00",
   "Current external frame": "2026-10-14T16:05:59.759639+00:00",
-  "Inactive archive": "2026-10-16T05:59:51.316365+00:00",
+  "Inactive archive": "2026-10-16T15:10:18.460237+00:00",
   "Selected local data": "2026-10-16T12:43:56.261386+00:00",
-  "Latest public source notes": "2026-10-16T13:06:43.838959+00:00",
+  "Latest public source notes": "2026-10-16T16:15:16.855753+00:00",
   "Matrix scope control repair": "2026-10-16T00:23:55.553627+00:00",
   "Current bounded exposure": "2026-10-15T18:25:00.281241+00:00"
 },
@@ -18329,6 +18329,13 @@
     "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
     "admitted": false,
     "active": false
+  },
+  {
+    "ledger_id": "candidate-pushkalavati-beal-reported-city-capture-control",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
   }
 ],
   "source_status_note": "Saved source status text can predate a later workflow step. Saved admission flags describe archive workflow. They do not certify that a reported event took place.",
@@ -18340,23 +18347,23 @@
   "UI_release": false
 },
   "bibliography": {
-  "works": 1500,
-  "source_uses": 6265,
+  "works": 1501,
+  "source_uses": 6266,
   "open_identity_gaps": 316,
   "recorded_identity_fixes": 41,
   "passage_verification_separate": true,
   "public": false,
-  "aliases": 1413
+  "aliases": 1414
 },
   "public_source_list": {
-  "source_notes": 233,
+  "source_notes": 234,
   "map_notes": 151,
-  "RSS_posts": 45,
-  "scope": "Dated R10 source list and report; local native data are not live.",
+  "RSS_posts": 46,
+  "scope": "Dated R11 source list and report; local native data are not live.",
   "before_this_release": {
-    "source_notes": 224,
+    "source_notes": 233,
     "map_notes": 151,
-    "RSS_posts": 44
+    "RSS_posts": 45
   }
 },
   "current_external_frame": {
@@ -18565,7 +18572,8 @@
 "native_qualification_status": {
   "Ahom_local_installed": true,
   "Ahom_public_installed": false,
-  "Buryat_local_installed": false
+  "Buryat_local_installed": true,
+  "Buryat_public_installed": false
 },
 "r10_lineage_and_public_boundary": {
   "prior_report": {
@@ -18615,5 +18623,52 @@
   "P2_steering": false,
   "full_era_complete": 0,
   "scope_note": "This is a dated source update. The earlier R9 report remains a dated snapshot. The local atlas data are not live. Region and era work is incomplete. Priority inputs do not direct searches."
+}
+,
+"r11_lineage_and_public_boundary": {
+  "prior_report": {
+    "path": "maintenance/public_discovery_assam_baikal_r10_20261016_v1/stage/discovery/report.json",
+    "bytes": 524084,
+    "sha256": "7650140e80ed107b2af43a42bb8629e4e5af40ae9173824c3dbfc70a60d6cddb"
+  },
+  "prior_counts": [
+    239,
+    77,
+    110,
+    350,
+    233,
+    151,
+    45
+  ],
+  "current_source": [
+    240,
+    78,
+    113,
+    352
+  ],
+  "public_counts": [
+    234,
+    151,
+    46
+  ],
+  "local_counts": [
+    566,
+    580,
+    59,
+    64
+  ],
+  "bibliography": [
+    1501,
+    6266,
+    1414,
+    316,
+    41
+  ],
+  "source_adoption": {
+    "path": "maintenance/work_loop_progress_20261006_1498/ALASKA_SOURCE_ADOPTION.json",
+    "bytes": 1827,
+    "sha256": "1bb07e4f6ee9df5dd216bfc2fdcfbe0dee3bfcba177e1d41b04c197578d1a1cc"
+  },
+  "scope": "This is a dated source update. The earlier R10 report remains a dated snapshot. The local atlas data are not live. Region and era work is incomplete. Priority inputs do not direct searches."
 }
 }
