@@ -1,16 +1,16 @@
 {
   "schema": "taking-land-public-discovery-status-v1",
-  "version": "p7-r9-current-source-snapshot",
+  "version": "p7-r10-current-source-snapshot",
   "status": "BOUNDED_DATED_SEARCH_SNAPSHOT",
   "publication": null,
-  "as_of_utc": "2026-10-16T06:08:51.861242+00:00",
+  "as_of_utc": "2026-10-16T13:06:43.838959+00:00",
   "known_roster": {
   "cases": 540,
   "stops": 552,
   "known_ordinary_remaining": 74,
   "holds": 64,
   "flight_notes": 22,
-  "rss_entries": 44,
+  "rss_entries": 45,
   "flight_note_scope": "Dated public atlas20261006e;22 flight notes."
 },
   "local_and_live_same_at_preparation": false,
@@ -16477,13 +16477,13 @@
   ],
   "report_date_local": "2026-10-16",
   "timezone": "America/Denver",
-  "bound_checkpoint": 1383,
+  "bound_checkpoint": 1453,
   "external_ledger": {
-  "records": 230,
+  "records": 239,
   "types": {
-    "candidate": 129,
+    "candidate": 137,
     "control": 2,
-    "source_located_lead": 95,
+    "source_located_lead": 96,
     "search_lead": 4
   },
   "workflow_admissions": 77,
@@ -16494,7 +16494,7 @@
   "unique_candidates_outside_frozen_roster": "UNASSESSED"
 },
   "population_index": {
-  "version": 107,
+  "version": 110,
   "current_inventory_counts": {
     "population_records": 195,
     "population_event_edges": 369,
@@ -16504,10 +16504,10 @@
     "intake_name_leads_fully_dispositioned": 409,
     "intake_name_leads_partially_dispositioned": 38,
     "intake_name_leads_not_yet_processed": 1911,
-    "external_ledger_records": 230,
+    "external_ledger_records": 239,
     "isolated_admission_workflow": 77,
     "scientific_activations": 0,
-    "external_per_record_question_envelopes_unresolved": 332,
+    "external_per_record_question_envelopes_unresolved": 350,
     "standalone_cohort_history_questions_unresolved": 28,
     "external_name_leads_v40_tranche": 2,
     "external_name_question_views_v40_tranche": 4,
@@ -16526,7 +16526,7 @@
   "intake_is_discovery_denominator": false,
   "name_leads_are_populations": false,
   "workflow_resolves_history": false,
-  "event_questions_unresolved": 332,
+  "event_questions_unresolved": 350,
   "cohort_questions_unresolved": 28,
   "source_phase_question_views": 24,
   "question_views_independent_or_additive": false
@@ -16556,23 +16556,23 @@
     "open_numerical_bound_reconciliations": 3
   },
   "prose_fields": {
-  "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The local data has 565 cases and 579 stops. Its queue has 60 known ordinary cases and 64 holds.",
-  "p02": "The dated public atlas has 22 flight notes. This release has 44 update posts. The atlas itself does not change.",
+  "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The local data has 566 cases and 580 stops. Its queue has 59 known ordinary cases and 64 holds. These local data are not live.",
+  "p02": "The dated public atlas has 22 flight notes. This release has 45 update posts. The atlas itself does not change.",
   "p03": "The search matrix has 1,280 records in five states. Each state describes a bounded search.",
   "p04": "A found record has a located result. Some found records still need more source searches.",
   "p05": "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
   "p06": "A searched-empty record has no result within its checked scope. None now has that state. An empty search cannot prove that no such history took place.",
   "p07": "There are 1,229 not-yet-searched cells. Some have partial work but still need a full scope search. There are 20 cells with source or access limits. None is not-applicable.",
-  "p08": "The source ledger has 230 records. It has 129 candidates, 95 located leads, four search leads and two controls.",
+  "p08": "The source ledger has 239 records. It has 137 candidates, 96 located leads, four search leads and two controls.",
   "p09": "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
   "p10": "The current external frame has 365 entries and 730 open question views. No entry has a completed historical review in its block. This frame does not steer searches.",
-  "p11": "This release lists 224 source notes and 151 map notes. These notes do not add atlas cases or model scores.",
-  "p12": "The local bibliography has 1,498 works and 6,262 source uses. It has 317 open identity gaps and 40 recorded identity fixes. Passage checks are separate. These data are not live.",
+  "p11": "This release lists 233 source notes and 151 map notes. These notes do not add atlas cases or model scores.",
+  "p12": "The local bibliography has 1,500 works and 6,265 source uses. It has 316 open identity gaps and 41 recorded identity fixes. Passage checks are separate. These data are not live.",
   "p13": "The archive series has 77 inactive records. These records do not establish 77 historical events. Its next report is at 90. Another 13 records reach that report.",
   "p14": "The series has 753 profile rows and 848 corpus objects. None of its added records is in the active statistical roster.",
   "p15": "The current match between archive records and public cases is unknown. The report at 90 is never an admission gate.",
-  "p16": "The index is version 107. It has 195 population records. There are 369 event links and five population links.",
-  "p17": "The index keeps 220 open records. Its 332 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
+  "p16": "The index is version 110. It has 195 population records. There are 369 event links and five population links.",
+  "p17": "The index keeps 220 open records. Its 350 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
   "p18": "The intake has 2,358 name leads. It has 409 full reviews, 38 partial reviews, and 1,911 untouched leads.",
   "p19": "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
   "p20": "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
@@ -16595,12 +16595,12 @@
   "p37": "Each found cell still needs scope, source and overlap checks. A limited cell needs its source or access gap resolved. A not-yet-searched cell needs a full scope search. An empty claim needs checked sources and clear bounds. A not-applicable claim needs evidence for that choice."
 },
   "pending_changes_not_counted": [
-    "Full regional and era exposure, frame dispositions, recall and exclusion inventories",
-    "Local565 UI/runtime/release review",
-    "Source history and passage questions, ordinary authoring and separate holds",
-    "Six statistical followups and four routed reviews",
-    "Flight origins, impact/world population, UI work and audio last"
-  ],
+  "Full regional and era exposure, frame dispositions, recall and exclusion inventories",
+  "Local566 UI/runtime/release review",
+  "Source history and passage questions, ordinary authoring and separate holds",
+  "Six statistical followups and four routed reviews",
+  "Flight origins, impact/world population, UI work and audio last"
+],
   "channel_completion_meaning": "A bounded source search may cover only part of an era. Full era closure needs source scope, method, recall and exclusion checks.",
   "historical_source_dates": {
     "local_and_live_538": "2026-10-06T08:13:18.343003+00:00",
@@ -16613,8 +16613,8 @@
     "prior_public_report": "2026-10-05T20:00:38.656033+00:00"
   },
   "source_version_labels": {
-  "current_source_ledger": "230records/workflow77",
-  "current_population_index": "v107",
+  "current_source_ledger": "239records/workflow77",
+  "current_population_index": "v110",
   "current_exposure_ledger": "52partial attempts; no new exposure from control repair",
   "matrix": "1280cells;31found/1229not-yet/20limited;no full-era two-channel flags",
   "priority_pilot": "Dated2026-10-04 diagnostic147entries; distinct current external intake365"
@@ -16648,11 +16648,11 @@
     "Early North America and South Asia are priorities. Search work still spans all regions and eras. Population frames, recall checks and reviews of empty cells have gaps. Case drafts, bibliography, flight origins, impact and world population work remain open. Audio is last."
   ],
   "current_acceptance_dates": {
-  "Source ledger and population": "2026-10-16T05:59:51.316365+00:00",
+  "Source ledger and population": "2026-10-16T12:20:10.335684+00:00",
   "Current external frame": "2026-10-14T16:05:59.759639+00:00",
   "Inactive archive": "2026-10-16T05:59:51.316365+00:00",
-  "Selected local data": "2026-10-15T22:39:55.731972+00:00",
-  "Latest public source notes": "2026-10-16T06:08:51.861242+00:00",
+  "Selected local data": "2026-10-16T12:43:56.261386+00:00",
+  "Latest public source notes": "2026-10-16T13:06:43.838959+00:00",
   "Matrix scope control repair": "2026-10-16T00:23:55.553627+00:00",
   "Current bounded exposure": "2026-10-15T18:25:00.281241+00:00"
 },
@@ -18266,33 +18266,97 @@
     "saved_status": "SOURCE_LOCATED_GENRE_QUALIFIED_QUESTION_UNRESOLVED",
     "admitted": false,
     "active": false
+  },
+  {
+    "ledger_id": "candidate-ahom-early-brahmaputra-conquest-existing-case-facet",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-ahom-later-kachari-chutiya-conquest-sequence",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-ahom-1662-rule-loss-and-recovery",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-buryat-baikal-military-threat-flight",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-buryat-kudara-barguzin-receiving-land-disputes",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_LEAD_RECEIVING_ACCESS_NOT_HOST_EXPULSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-khachinov-failed-escape-forced-return",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-khongodor-pursuit-herd-loss-residence",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-tunka-host-arrival-land-pressure-onward-move",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-khori-agin-ordered-move-land-release",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
   }
 ],
   "source_status_note": "Saved source status text can predate a later workflow step. Saved admission flags describe archive workflow. They do not certify that a reported event took place.",
   "selected_local_roster": {
-    "cases": 565,
-    "stops": 579,
-    "known_ordinary_remaining": 60,
-    "holds": 64,
-    "UI_release": false
-  },
+  "cases": 566,
+  "stops": 580,
+  "known_ordinary_remaining": 59,
+  "holds": 64,
+  "UI_release": false
+},
   "bibliography": {
-    "works": 1498,
-    "source_uses": 6262,
-    "open_identity_gaps": 317,
-    "recorded_identity_fixes": 40,
-    "passage_verification_separate": true,
-    "public": false
-  },
+  "works": 1500,
+  "source_uses": 6265,
+  "open_identity_gaps": 316,
+  "recorded_identity_fixes": 41,
+  "passage_verification_separate": true,
+  "public": false,
+  "aliases": 1413
+},
   "public_source_list": {
-  "source_notes": 224,
+  "source_notes": 233,
   "map_notes": 151,
-  "RSS_posts": 44,
-  "scope": "Same grouped static release as this R9 snapshot; prepared local atlas is not live.",
+  "RSS_posts": 45,
+  "scope": "Dated R10 source list and report; local native data are not live.",
   "before_this_release": {
-    "source_notes": 220,
+    "source_notes": 224,
     "map_notes": 151,
-    "RSS_posts": 43
+    "RSS_posts": 44
   }
 },
   "current_external_frame": {
@@ -18496,5 +18560,60 @@
   "P2_steering": false,
   "controlled_macroregion_coverage": "INCOMPLETE_NOT_GLOBAL_CLOSURE",
   "scope_note": "This is a dated source update. R8 remains the prior dated snapshot. Source and archive workflow progress does not establish all events or complete a region. The prepared local atlas is not live."
+}
+,
+"native_qualification_status": {
+  "Ahom_local_installed": true,
+  "Ahom_public_installed": false,
+  "Buryat_local_installed": false
+},
+"r10_lineage_and_public_boundary": {
+  "prior_report": {
+    "path": "maintenance/public_discovery_lower_indus_r9_20261016_v1/stage/discovery/report.json",
+    "bytes": 520726,
+    "sha256": "2f4bd81f369e70d4903ecb70ae708ba094061e6c708778dbcecb50839abd1a94"
+  },
+  "prior_version": "p7-r9-current-source-snapshot",
+  "prior_as_of_utc": "2026-10-16T06:08:51.861242+00:00",
+  "prior_counts": [
+    230,
+    77,
+    107,
+    332,
+    224,
+    151,
+    44
+  ],
+  "current_source_adoption": {
+    "path": "maintenance/work_loop_progress_20261006_1435/BURYAT_SOURCE_ADOPTION.json",
+    "bytes": 2047,
+    "sha256": "ea0912a6b5b7cb27ef8c11fe9a386c5b29186fca1981b61f57e99b27b10ffcc7"
+  },
+  "current_source": [
+    239,
+    77,
+    110,
+    350
+  ],
+  "live_atlas": [
+    540,
+    552
+  ],
+  "local_atlas": [
+    566,
+    580,
+    59,
+    64
+  ],
+  "local_bibliography": [
+    1500,
+    6265,
+    1413,
+    316,
+    41
+  ],
+  "P2_steering": false,
+  "full_era_complete": 0,
+  "scope_note": "This is a dated source update. The earlier R9 report remains a dated snapshot. The local atlas data are not live. Region and era work is incomplete. Priority inputs do not direct searches."
 }
 }

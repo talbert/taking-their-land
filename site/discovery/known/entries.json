@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-lower-indus-source224-r9-rss44",
+  "version": "20261016-assam-baikal-source233-r10-rss45",
   "reviewed_on": "2026-10-14",
   "entries": [
     {
@@ -138,6 +138,18 @@
         "https://undocs.org/A/HRC/55/64",
         "https://www.kurdishpeace.org/research/human-rights/hlp-violations-and-involuntary-repatriations-facilitate-demographic-change-in-afrin/",
         "https://www.justsecurity.org/93745/confronting-forced-demographic-change-in-northern-syria-inclusive-justice-for-sustainable-peace/"
+      ]
+    },
+    {
+      "id": "ledger-50451b5df918e5c6db2e",
+      "name": "Ahom loss and return of rule",
+      "place_and_era": "The later Ahom realm. The account reports defeat in 1662 and a return to rule a few years later.",
+      "attested": "Terwiel reports an Ahom defeat in 1662. Muslim invaders defeated them. Ahom rule resumed a few years later.",
+      "unknown": "The exact tract, resident groups and interval remain unknown. The account does not establish a forced move. Later recovery does not erase the earlier loss of control.",
+      "next_step": "Define the loss and return of rule as a later sequence. Keep the early conquests separate.",
+      "sources": [
+        "https://thesiamsociety.org/wp-content/uploads/1983/03/JSS_071_0g_Terwiel_AhomAndStudyOfEarlyTaiSociety.pdf",
+        "https://latrian.dyndns.org/takingtheirland/#case=tai-ahom-assam"
       ]
     },
     {
@@ -342,6 +354,17 @@
       "sources": []
     },
     {
+      "id": "ledger-ab215cb051294b712ab2",
+      "name": "Buryat flight from Baikal",
+      "place_and_era": "The author places this flight near Baikal in the 1650s to 1670s.",
+      "attested": "Rubtsova reports flight from troops, loss of goods and homes, and later refuge.",
+      "unknown": "The student essay retells stories with few source details. A separate event from the broad case remains unproved.",
+      "next_step": "Define the flight account and its link to the current Baikal case.",
+      "sources": [
+        "https://pureportal.spbu.ru/files/102590710/sb_gumnauki_2022_3.pdf"
+      ]
+    },
+    {
       "id": "ledger-2c06587f1ef32dcd5f64",
       "name": "Camp moves in response to raids",
       "place_and_era": "Northeast North America. Dye sets the camp moves in the late 1500s and early 1600s. The local bounds remain open.",
@@ -506,11 +529,12 @@
       "id": "ledger-2e2e05a226803d2d31f1",
       "name": "Denbigh change: did people have to leave?",
       "place_and_era": "Alaska, near the Bering Sea and Arctic coasts. The source gives broad age ranges, not a firm event date.",
-      "attested": "A 2018 state report says a migration with Denbigh culture displaced or replaced earlier people. It leaves that choice open. It also describes later continuity with Choris.",
-      "unknown": "The report does not identify an act of force or one group that lost homes or land. Its broad age ranges are not event dates.",
-      "next_step": "Find the original evidence for this claim. Ask if people had to leave or if the population changed in another way.",
+      "attested": "A 2018 state report says a migration with Denbigh culture displaced or replaced earlier people. It leaves that choice open. It also describes later continuity with Choris.\n\nThe Raghavan study supports continuity among some sampled groups in Canada and Greenland. Its results do not resolve this Denbigh claim.",
+      "unknown": "The report does not link a human act to a loss of homes or land. Changes in tools or DNA do not prove that people had to leave.",
+      "next_step": "The Cape report is partly read. Its context does not settle the claim. Seek site evidence that links a human act to loss of homes or land.",
       "sources": [
-        "https://dnr.alaska.gov/parks/oha/publications/oha173overviewofalaskaprehistory.pdf"
+        "https://dnr.alaska.gov/parks/oha/publications/oha173overviewofalaskaprehistory.pdf",
+        "https://escholarship.org/content/qt3197t6wz/qt3197t6wz.pdf"
       ]
     },
     {
@@ -622,6 +646,18 @@
       ]
     },
     {
+      "id": "ledger-2d429cd16b8cf36de0eb",
+      "name": "Early Ahom conquest in the valley",
+      "place_and_era": "A small part of the Brahmaputra Valley. The account places this act at the start of the thirteenth century.",
+      "attested": "Terwiel reports an early Ahom conquest. Newcomers who spoke Tai took control of a small part of the valley.",
+      "unknown": "The earlier residents and exact bounds remain unknown. The account does not establish a forced move. A separate event from the broad Ahom account is not established.",
+      "next_step": "Add the early control report to the current Ahom case. Define how this conquest relates to the longer account. Keep later conquests separate.",
+      "sources": [
+        "https://thesiamsociety.org/wp-content/uploads/1983/03/JSS_071_0g_Terwiel_AhomAndStudyOfEarlyTaiSociety.pdf",
+        "https://latrian.dyndns.org/takingtheirland/#case=tai-ahom-assam"
+      ]
+    },
+    {
       "id": "ledger-345b67cad5df34458bd6",
       "name": "Early settlement in the Hadley and McCraney valleys",
       "place_and_era": "Western Illinois; occupation context about 600 to 1000 CE, event dates unknown",
@@ -682,6 +718,17 @@
       "unknown": "The modern town sites and all resident fates remain unclear.",
       "next_step": "Review the open source questions before any further atlas change.",
       "sources": []
+    },
+    {
+      "id": "ledger-4dd448058b05babf0162",
+      "name": "Failed escape near Kyakhta",
+      "place_and_era": "The story concerns flight from Mongolia and pursuit near Kyakhta, with no clear date.",
+      "attested": "Rubtsova reports that a force defeated the group led by Khachinov and sent it back.",
+      "unknown": "The student essay gives no clear source for this story. Its link to other flight stories remains unknown.",
+      "next_step": "Define the forced return and its relation to the other accounts.",
+      "sources": [
+        "https://pureportal.spbu.ru/files/102590710/sb_gumnauki_2022_3.pdf"
+      ]
     },
     {
       "id": "ledger-95ad6805adb4e1206488",
@@ -958,6 +1005,28 @@
       ]
     },
     {
+      "id": "ledger-6f07139a0408c640a780",
+      "name": "Khongodor flight and new homes",
+      "place_and_era": "The accounts name Mongolia. They also name the Irkut, Kitoy and Alar valleys.",
+      "attested": "Rubtsova reports flight, pursuit, loss of herds and later homes in these valleys.",
+      "unknown": "The student essay gives varied stories, with no clear date, single route or separate event.",
+      "next_step": "Define each account and its links to the broad Baikal case.",
+      "sources": [
+        "https://pureportal.spbu.ru/files/102590710/sb_gumnauki_2022_3.pdf"
+      ]
+    },
+    {
+      "id": "ledger-7f81935d65b65afe4d1b",
+      "name": "Khori moves and land release",
+      "place_and_era": "The account places moves to the Agin steppes in the eighteenth century.",
+      "attested": "Rubtsova reports state orders for guard duty and land release, with moves by some Khori.",
+      "unknown": "The student essay does not match each move to its stated purpose. Exact dates remain unknown.",
+      "next_step": "Define the ordered moves and their link to land release in the broad Baikal case.",
+      "sources": [
+        "https://pureportal.spbu.ru/files/102590710/sb_gumnauki_2022_3.pdf"
+      ]
+    },
+    {
       "id": "ledger-bf6081827c43a9e9abef",
       "name": "Kibse smith settlement by command",
       "place_and_era": "Yatenga; date unknown",
@@ -1062,6 +1131,17 @@
       ]
     },
     {
+      "id": "ledger-581dc5789d1929e4a650",
+      "name": "Land disputes near Baikal",
+      "place_and_era": "The account concerns Kudara and the Barguzin valley, but its dates remain broad.",
+      "attested": "Rubtsova reports land disputes, official help and new homes for some arrivals.",
+      "unknown": "The student essay gives few source details. It does not establish the expulsion of prior residents.",
+      "next_step": "Define the dispute, access to land and the link to the earlier flight.",
+      "sources": [
+        "https://pureportal.spbu.ru/files/102590710/sb_gumnauki_2022_3.pdf"
+      ]
+    },
+    {
       "id": "ledger-36377910f01279b412f0",
       "name": "Land gift from Ayasia Kamuia to the monk Budhila",
       "place_and_era": "Mathura. The grant has no adopted event date.",
@@ -1070,6 +1150,17 @@
       "next_step": "Assess what the land gift changed in use or control. Keep prior rights, force and actual residence open.",
       "sources": [
         "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
+      ]
+    },
+    {
+      "id": "ledger-50ffc59d186a87df450d",
+      "name": "Land pressure and departure from Tunka",
+      "place_and_era": "The account concerns the Tunka valley and later moves toward Predbaikal, with no clear date.",
+      "attested": "Rubtsova links new arrivals to land pressure. Prior residents and some arrivals then left.",
+      "unknown": "The student essay gives few source details and does not prove a total expulsion or attack.",
+      "next_step": "Define the land pressure and keep it distinct from the flight into Tunka.",
+      "sources": [
+        "https://pureportal.spbu.ru/files/102590710/sb_gumnauki_2022_3.pdf"
       ]
     },
     {
@@ -1093,6 +1184,18 @@
       "sources": [
         "https://www.persee.fr/doc/jafr_0399-0346_1986_num_56_1_2107?pageId=T1_9",
         "https://www.researchgate.net/publication/232873688_Dhar_Nema_from_early_agriculture_to_metallurgy_in_southeastern_Mauritania"
+      ]
+    },
+    {
+      "id": "ledger-3c7bc2124bc89f1f8ba0",
+      "name": "Later Ahom conquests in the east",
+      "place_and_era": "The eastern Brahmaputra Valley. Terwiel places these conquests at the start of the sixteenth century.",
+      "attested": "Terwiel reports Ahom conquests of the Kachari and Chutiya. They extended Ahom control in the eastern valley.",
+      "unknown": "The account does not map each tract or name all resident groups. It does not establish one separate event for each name. A forced move is not established.",
+      "next_step": "Define the later control sequence and its tracts. Keep it separate from the first conquest and the 1662 loss of rule.",
+      "sources": [
+        "https://thesiamsociety.org/wp-content/uploads/1983/03/JSS_071_0g_Terwiel_AhomAndStudyOfEarlyTaiSociety.pdf",
+        "https://latrian.dyndns.org/takingtheirland/#case=tai-ahom-assam"
       ]
     },
     {
@@ -2267,10 +2370,11 @@
       "name": "What links Ipiutak warfare and later change?",
       "place_and_era": "Northern and western Alaska. The source gives broad age ranges, not a firm event date.",
       "attested": "The 2018 report describes violent injuries. It also reports later population replacement. It does not link those injuries to one forced loss of homes or land.",
-      "unknown": "The report also notes trade and some intermarriage. Ipiutak is an archaeological label, not proof of one modern people. Dates and the causes of change remain unclear.",
-      "next_step": "Find original evidence that links a human act to loss of homes or land. Keep injury, later replacement and other phases distinct.",
+      "unknown": "The report also notes trade and some intermarriage. Ipiutak is an archaeological label, not proof of one modern people. Dates and the causes of change remain unclear.\n\nRaghavan discusses Dorset and Thule farther east. That text reports no massacre evidence. It does not rule out the Ipiutak injuries.",
+      "next_step": "Find the original site reports for the injuries and the later change. Ask whether they show a human act that caused loss of homes or land.",
       "sources": [
-        "https://dnr.alaska.gov/parks/oha/publications/oha173overviewofalaskaprehistory.pdf"
+        "https://dnr.alaska.gov/parks/oha/publications/oha173overviewofalaskaprehistory.pdf",
+        "https://escholarship.org/content/qt3197t6wz/qt3197t6wz.pdf"
       ]
     },
     {
@@ -3949,5 +4053,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "Four new source notes and a revised Saka note. The Minnagara record remains inactive. These changes add no atlas case."
+  "update_scope": "Nine new source notes cover Assam and the Baikal area. Two Alaska notes have new source limits. These changes add no atlas case."
 }
