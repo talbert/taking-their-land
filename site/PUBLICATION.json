@@ -6,17 +6,17 @@
   "release_id": "second_pass_v7_676",
   "release_manifest_sha256": "8969d87d62a84887f37046eb97189c16b1fc686c92fd17021cc6163b71c076cd",
   "license_scope": "Original structured research fields: CC-BY-4.0; original narrative prose and graphics: CC-BY-SA-4.0; original software: MIT. Third-party quotations, code, and map data retain their own terms. See LICENSE.md and THIRD_PARTY_NOTICES.md; file format alone does not determine all rights.",
-  "license_notice_sha256": "4cc5e22ed25e9870fe7ad7c5d71d154e29f21041b84e46d70d07ae4857286c9e",
+  "license_notice_sha256": "da166ddd45cb04d081738d733678418506c9cd4d347e710f35bdad0883e13abb",
   "atlas_source_sha256": "d2bbe34151bb75cc658e31d6f8f4a4a4bd347f22838415b93f8482ec37bbea1e",
   "data_file_count": 266,
   "data_archive": "data/taking-their-land-data-second_pass_v7_676.zip",
   "data_archive_bytes": 64688898,
   "data_archive_sha256": "dc1db20e3952e7fbc1186e895e8320c103d9c92b2e602a140b66c14d409b198b",
-  "monograph_source_sha256": "c3068013eff8e9a2366840ba00799be9bc5994d06b7287a2010fca3d166ef3b4",
+  "monograph_source_sha256": "2b3e5ceb15bccb3ce890f14b5b09b261fa873c9ea7c9ef4a008bea37e418465b",
   "monograph_source": "monograph/MONOGRAPH_DRAFT_v2.md",
   "monograph_pdf": "monograph/MONOGRAPH_DRAFT_v2.pdf",
-  "monograph_pdf_bytes": 444232,
-  "monograph_pdf_sha256": "0e020b0c9d3b04d40cd8e699f04897ef1cb02d391f1bce0cc69a925fa48834c8",
+  "monograph_pdf_bytes": 448648,
+  "monograph_pdf_sha256": "3f529f9afa05a56d624549e16d52502edf7c7b86bd0fe65d2f269e22ce595626",
   "authoring_preparation_only": false,
   "active_release": "second_pass_v7_676",
   "current_atlas_cases": 540,
@@ -42,35 +42,42 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "5080b1a0f5f89031203db20db180316f98e1693de263191071b826bf8540011b",
+  "tree_sha256": "121c1f8707c66003fc1531deebd0be22bfcf74137a7c883639281303cdc16cd7",
   "site_updates": {
     "schema": "taking-land-site-updates-v1",
-    "version": "20261016-northeast-sirkap-source220-r8-rss43",
-    "entries": 43,
+    "version": "20261016-lower-indus-source224-r9-rss44",
+    "entries": 44,
     "source": "updates/entries.json",
-    "source_sha256": "5ced1b610b1c5b834b36a405ed50bfbf6304107e92d871a32b5ecf78dd039d97",
+    "source_sha256": "3f6b79f5a5751a2d00cafd8c7a9575621dbae1307fc41c6d4fa1d3a6f93c40ea",
     "feed": "updates/feed.xml",
-    "feed_sha256": "8946ae3a0c51436cc37ee72365712cb77f6230b245d86e00fde3669a6cb1ab5d",
+    "feed_sha256": "60221b837b0d1da16679e8d9a0e89401fe2266bb793c8be65a3f40bcce519189",
     "discovery_list": {
       "schema": "discovery-list-binding-v1",
-      "version": "20261016-northeast-sirkap-source220-r8-rss43",
+      "version": "20261016-lower-indus-source224-r9-rss44",
       "reviewed_on": "2026-10-14",
-      "ledger_sha256": "fb6b839635c28c8478f5018a1cfb398f26633a17157bc6dc98c68abd1ca6603b",
-      "editorial_sha256": "73ff6f9d0e6beb890b642721b0d174e29d140e3eca6c4b17ae0221cf8b983d14",
+      "ledger_sha256": "09adb2d1f94b9db25c2ecea20d31a3922d22c96f64042208ce16561bde496487",
+      "editorial_sha256": "b25f05ab5222e096c300cb28533943cda6556276fd1d081e93abc1f24c25e1a0",
       "page": "discovery/known/index.html",
-      "page_sha256": "1ccb164520b69e7b153274103c76cba0770d7607398f4f09002caaed0168008a",
+      "page_sha256": "244fcbb36370b7327ff09b3321ca35bb8236a96cbd2c93166a432fd250eb3783",
       "data": "discovery/known/entries.json",
-      "data_sha256": "e263ba73fb8b0c7821e9c47f8b30d78b177b684fd2d28fcafb3b18caa2a463f0",
+      "data_sha256": "e1615b9938cda8263b92c50c42e559cf33a3863d9b71249d2633f55f9af9e6df",
       "updated_on": "2026-10-16",
-      "update_scope": "This update adds seven source notes. It also updates the Sirkap source note. All other earlier notes are unchanged."
+      "update_scope": "Four new source notes and a revised Saka note. The Minnagara record remains inactive. These changes add no atlas case."
     },
     "discovery_report": {
-      "version": "p7-r8-current-source-snapshot",
+      "version": "p7-r9-current-source-snapshot",
       "index": "discovery/index.html",
-      "index_sha256": "61dd2dc3b4c1ee91e78a5758c856887f177fbd4e436a2f652aecee027b307cba",
+      "index_sha256": "2d423a059918b394c3da7ff4f5bb990a6028e4f822b4ea84c75bd5d5350d28c4",
       "data": "discovery/report.json",
-      "data_sha256": "5c5f54899e93b4fee793f2c79ab6f2184e4742a93924af548b4d1c3da1749b04",
-      "runtime_scope": "Current source note/report static package; full565atlas UI/runtime unverified"
+      "data_sha256": "2f4bd81f369e70d4903ecb70ae708ba094061e6c708778dbcecb50839abd1a94",
+      "runtime_scope": "Dated current source list/report only; prepared565atlas UI/runtime not certified"
+    },
+    "citation_scope": {
+      "concept_DOI": "10.5281/zenodo.23410511",
+      "issued_version_DOI": "10.5281/zenodo.23410512",
+      "repository": "https://github.com/talbert/taking-their-land",
+      "archive_is_older_snapshot": true,
+      "component_licenses_unchanged": true
     }
   },
   "discovery_status": {
@@ -134,5 +141,13 @@
     "native_partition_isolated_summary": "Dated9 nativecheckpoint retained exact, current11 separately accepted",
     "graphical_share_feature": "unresolved separate UI proposal",
     "geometry": "Only two accepted dated voyage proxies; no new origin/track geometry or four-case UI permission implied"
+  },
+  "license_notice_source": "reuse/LICENSE.md",
+  "preserved_download_notice": {
+    "path": "data/LICENSE.md",
+    "sha256": "4cc5e22ed25e9870fe7ad7c5d71d154e29f21041b84e46d70d07ae4857286c9e",
+    "scope": "Dated data-download notice bound by the unchanged data manifest and frozen archive; current archive citation is in reuse notice/README/monograph.",
+    "current_reuse_notice_sha256": "da166ddd45cb04d081738d733678418506c9cd4d347e710f35bdad0883e13abb",
+    "component_license_terms_unchanged": true
   }
 }

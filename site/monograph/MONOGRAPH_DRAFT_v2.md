@@ -31,6 +31,12 @@ Third-party quotations and reproduced material retain their own rights.
 Structured research data are separately CC BY 4.0 and original software MIT.
 See the [reuse guidance and exceptions](../reuse/).
 
+**Citation and archive.** Craig Talbert. 2026. *The Shape of Taking*.
+Working paper v2.19. Cite this version, the site build and the date you used it.
+Archived site snapshots: [DOI 10.5281/zenodo.23410511](https://doi.org/10.5281/zenodo.23410511).
+Current public snapshot: [github.com/talbert/taking-their-land](https://github.com/talbert/taking-their-land).
+Later site updates do not change an archived version.
+
 ## Abstract
 
 Land-taking and forced removal recur across widely separated historical

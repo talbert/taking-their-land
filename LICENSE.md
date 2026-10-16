@@ -62,6 +62,12 @@ and displacement*. Cite the atlas build or statistical release identifier
 shown with the material and the access date.
 [Project](https://latrian.dyndns.org/takingtheirland/).
 
+Archived site snapshots: [DOI 10.5281/zenodo.23410511](https://doi.org/10.5281/zenodo.23410511).
+The [GitHub repository](https://github.com/talbert/taking-their-land) has the
+current public snapshot. The first archived version is build `20261006e`,
+release `second_pass_v7_676`: [DOI 10.5281/zenodo.23410512](https://doi.org/10.5281/zenodo.23410512).
+Later site updates do not change that archived version.
+
 For the monograph, cite Craig Talbert, *The Shape of Taking*, the displayed
 working-draft version and publication build. For data, cite the release ID
 and, when practical, the downloaded file or bundle checksum. These citation
@@ -75,5 +81,5 @@ The publication builder carries these notices into each new HTML/data build
 and the monograph PDF. The downloadable bundle includes this file, the license
 texts, third-party notices, and per-file component guidance in its manifest.
 Existing frozen statistical files are not rewritten to add headers: these
-licenses accompany their unchanged bytes. No archival DOI is claimed until
-one is actually issued.
+licenses accompany their unchanged bytes. Archive links identify issued DOIs;
+they do not change the licenses of the files.

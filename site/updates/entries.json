@@ -877,6 +877,39 @@
   ],
   "occurred_at": "2026-10-16T03:42:20.038081Z",
   "published_at": "2026-10-16T03:50:44.682649Z"
+},
+{
+  "id": "2026-10-16-lower-indus-source-notes",
+  "title": "New source notes on the lower Indus",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added four source notes and revised the Saka note. Puri reports a forced Saka move toward the lower Indus. The new notes also cover two tales and a land gift.",
+    "The Minnagara note concerns princes who repeatedly lost rule. The translated report does not show physical removal of princes or residents. The record stays inactive.",
+    "The tales do not establish that each reported act took place. We still need to assess the effects of the land gift. The fate of prior residents remains unknown.",
+    "These notes add no atlas case or model score. The atlas still has 540 cases and 552 stops.",
+    "An archive of the earlier site is now available. The concept DOI links the archived versions. The GitHub repository has the current public snapshot. New site notes do not alter the earlier archive."
+  ],
+  "links": [
+    {
+      "label": "Read the source notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the dated search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    },
+    {
+      "label": "Archived site snapshots",
+      "url": "https://doi.org/10.5281/zenodo.23410511"
+    },
+    {
+      "label": "Public GitHub repository",
+      "url": "https://github.com/talbert/taking-their-land"
+    }
+  ],
+  "occurred_at": "2026-10-16T05:59:51.316365Z",
+  "published_at": "2026-10-16T06:08:51.861242Z"
 }
   ]
 }

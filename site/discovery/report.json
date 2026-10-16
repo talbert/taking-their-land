@@ -1,18 +1,18 @@
 {
   "schema": "taking-land-public-discovery-status-v1",
-  "version": "p7-r8-current-source-snapshot",
+  "version": "p7-r9-current-source-snapshot",
   "status": "BOUNDED_DATED_SEARCH_SNAPSHOT",
   "publication": null,
-  "as_of_utc": "2026-10-16T03:48:33.911355+00:00",
+  "as_of_utc": "2026-10-16T06:08:51.861242+00:00",
   "known_roster": {
-    "cases": 540,
-    "stops": 552,
-    "known_ordinary_remaining": 74,
-    "holds": 64,
-    "flight_notes": 22,
-    "rss_entries": 43,
-    "flight_note_scope": "Dated public atlas20261006e;22 flight notes."
-  },
+  "cases": 540,
+  "stops": 552,
+  "known_ordinary_remaining": 74,
+  "holds": 64,
+  "flight_notes": 22,
+  "rss_entries": 44,
+  "flight_note_scope": "Dated public atlas20261006e;22 flight notes."
+},
   "local_and_live_same_at_preparation": false,
   "matrix": {
     "records": 1280,
@@ -16475,75 +16475,75 @@
     "https://raw.githubusercontent.com/glottolog/glottolog-cldf/072ca0d0410039fb8b779be8fc165bac575d2cda/cldf/languages.csv",
     "https://raw.githubusercontent.com/glottolog/glottolog-cldf/072ca0d0410039fb8b779be8fc165bac575d2cda/cldf/values.csv"
   ],
-  "report_date_local": "2026-10-15",
+  "report_date_local": "2026-10-16",
   "timezone": "America/Denver",
-  "bound_checkpoint": 1371,
+  "bound_checkpoint": 1383,
   "external_ledger": {
-    "records": 226,
-    "types": {
-      "candidate": 127,
-      "control": 2,
-      "source_located_lead": 93,
-      "search_lead": 4
-    },
-    "workflow_admissions": 76,
-    "workflow_unit": "source-only inactive archive record; not established execution or public admission",
-    "scientific_activations": 0,
-    "unique_history_count": "UNASSESSED",
-    "confirmed_omission_count": "UNASSESSED",
-    "unique_candidates_outside_frozen_roster": "UNASSESSED"
+  "records": 230,
+  "types": {
+    "candidate": 129,
+    "control": 2,
+    "source_located_lead": 95,
+    "search_lead": 4
   },
+  "workflow_admissions": 77,
+  "workflow_unit": "source-only inactive archive record; not established execution or public admission",
+  "scientific_activations": 0,
+  "unique_history_count": "UNASSESSED",
+  "confirmed_omission_count": "UNASSESSED",
+  "unique_candidates_outside_frozen_roster": "UNASSESSED"
+},
   "population_index": {
-    "version": 105,
-    "current_inventory_counts": {
-      "population_records": 195,
-      "population_event_edges": 369,
-      "population_population_edges": 5,
-      "canonical_unresolved_records": 220,
-      "intake_name_leads_total": 2358,
-      "intake_name_leads_fully_dispositioned": 409,
-      "intake_name_leads_partially_dispositioned": 38,
-      "intake_name_leads_not_yet_processed": 1911,
-      "external_ledger_records": 226,
-      "isolated_admission_workflow": 76,
-      "scientific_activations": 0,
-      "external_per_record_question_envelopes_unresolved": 324,
-      "standalone_cohort_history_questions_unresolved": 28,
-      "external_name_leads_v40_tranche": 2,
-      "external_name_question_views_v40_tranche": 4,
-      "source_phase_open_questions": 24,
-      "external_name_leads_v41_tranche": 1,
-      "external_name_question_views_v41_tranche": 2,
-      "external_name_leads_cumulative": 4,
-      "external_name_question_views_cumulative": 8,
-      "external_name_leads_v42_tranche": 1,
-      "external_name_question_views_v42_tranche": 2,
-      "little_muck_provisional_workflow_entries": 1,
-      "little_muck_accepted_source_question_forms": 2,
-      "little_muck_generic_history_inquiries_unassessed": 2,
-      "additional_independent_generic_history_questions_v42": 0
-    },
-    "intake_is_discovery_denominator": false,
-    "name_leads_are_populations": false,
-    "workflow_resolves_history": false,
-    "event_questions_unresolved": 324,
-    "cohort_questions_unresolved": 28,
-    "source_phase_question_views": 24,
-    "question_views_independent_or_additive": false
+  "version": 107,
+  "current_inventory_counts": {
+    "population_records": 195,
+    "population_event_edges": 369,
+    "population_population_edges": 5,
+    "canonical_unresolved_records": 220,
+    "intake_name_leads_total": 2358,
+    "intake_name_leads_fully_dispositioned": 409,
+    "intake_name_leads_partially_dispositioned": 38,
+    "intake_name_leads_not_yet_processed": 1911,
+    "external_ledger_records": 230,
+    "isolated_admission_workflow": 77,
+    "scientific_activations": 0,
+    "external_per_record_question_envelopes_unresolved": 332,
+    "standalone_cohort_history_questions_unresolved": 28,
+    "external_name_leads_v40_tranche": 2,
+    "external_name_question_views_v40_tranche": 4,
+    "source_phase_open_questions": 24,
+    "external_name_leads_v41_tranche": 1,
+    "external_name_question_views_v41_tranche": 2,
+    "external_name_leads_cumulative": 4,
+    "external_name_question_views_cumulative": 8,
+    "external_name_leads_v42_tranche": 1,
+    "external_name_question_views_v42_tranche": 2,
+    "little_muck_provisional_workflow_entries": 1,
+    "little_muck_accepted_source_question_forms": 2,
+    "little_muck_generic_history_inquiries_unassessed": 2,
+    "additional_independent_generic_history_questions_v42": 0
   },
+  "intake_is_discovery_denominator": false,
+  "name_leads_are_populations": false,
+  "workflow_resolves_history": false,
+  "event_questions_unresolved": 332,
+  "cohort_questions_unresolved": 28,
+  "source_phase_question_views": 24,
+  "question_views_independent_or_additive": false
+},
   "isolated_d10": {
-    "accepted_admissions": 76,
-    "accepted_admissions_unit": "inactive source-only archival profile; not independently established historical event",
-    "active_statistical_admissions": 0,
-    "registered_report_at": 90,
-    "remaining_to_report": 14,
-    "score_rows": 752,
-    "corpus_objects": 847,
-    "atlas_rendered_admissions": null,
-    "pending_separate_atlas_authoring_or_application": null,
-    "public_archive_crosswalk": "NOT_CURRENTLY_RECONCILED",
-    "report_is_never_an_admission_gate": true
-  },
+  "accepted_admissions": 77,
+  "accepted_admissions_unit": "inactive source-only archival profile; not independently established historical event",
+  "active_statistical_admissions": 0,
+  "registered_report_at": 90,
+  "remaining_to_report": 13,
+  "score_rows": 753,
+  "corpus_objects": 848,
+  "atlas_rendered_admissions": null,
+  "pending_separate_atlas_authoring_or_application": null,
+  "public_archive_crosswalk": "NOT_CURRENTLY_RECONCILED",
+  "report_is_never_an_admission_gate": true
+},
   "exposure": {
     "version": null,
     "source_label": "Accepted partial-source exposure record; unchanged by scope repair",
@@ -16556,44 +16556,44 @@
     "open_numerical_bound_reconciliations": 3
   },
   "prose_fields": {
-    "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The local data has 565 cases and 579 stops. Its queue has 60 known ordinary cases and 64 holds.",
-    "p02": "The dated public atlas has 22 flight notes. This release has 43 update posts. The atlas itself does not change.",
-    "p03": "The search matrix has 1,280 records in five states. Each state describes a bounded search.",
-    "p04": "A found record has a located result. Some found records still need more source searches.",
-    "p05": "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
-    "p06": "A searched-empty record has no result within its checked scope. None now has that state. An empty search cannot prove that no such history took place.",
-    "p07": "There are 1,229 not-yet-searched cells. Some have partial work but still need a full scope search. There are 20 cells with source or access limits. None is not-applicable.",
-    "p08": "The source ledger has 226 records. It has 127 candidates, 93 located leads, four search leads and two controls.",
-    "p09": "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
-    "p10": "The current external frame has 365 entries and 730 open question views. No entry has a completed historical review in its block. This frame does not steer searches.",
-    "p11": "This release lists 220 source notes and 151 map notes. These notes do not add atlas cases or model scores.",
-    "p12": "The local bibliography has 1,498 works and 6,262 source uses. It has 317 open identity gaps and 40 recorded identity fixes. Passage checks are separate. These data are not live.",
-    "p13": "The archive series has 76 inactive records. These records do not establish 76 historical events. Its next report is at 90. Another 14 records reach that report.",
-    "p14": "The series has 752 profile rows and 847 corpus objects. None of its added records is in the active statistical roster.",
-    "p15": "The current match between archive records and public cases is unknown. The report at 90 is never an admission gate.",
-    "p16": "The index is version 105. It has 195 population records. There are 369 event links and five population links.",
-    "p17": "The index keeps 220 open records. Its 324 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
-    "p18": "The intake has 2,358 name leads. It has 409 full reviews, 38 partial reviews, and 1,911 untouched leads.",
-    "p19": "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
-    "p20": "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
-    "p21": "The current record has 52 partial search efforts. They cover 29 dated blocks in eight eras.",
-    "p22": "No search floor or cycle reached its end. All eight eras still need full source, place, recall and exclusion checks.",
-    "p23": "The original recall test recovered zero of three eligible pairs. Three other pairs fell outside the source scope. Five blocks lacked test results. This is a dated result, not current global recall.",
-    "p24": "The seven later repair records in that test get no original recall credit. The recorded causes remain limited to that test.",
-    "p25": "The priority table says where the project can look next. It is incomplete and does not steer searches.",
-    "p26": "The older pilot uses 147 frame entries in two regions. Its 128 block inputs and four paired checks are dated. The current external frame is separate.",
-    "p27": "The paired tables retain the results with and without people and trace inputs. Unknown inputs remain unassessed.",
-    "p28": "The pilot uses source catalogs and frozen roster counts. Catalog entries and traces do not establish forced removal or date harm.",
-    "p29": "Population size, casualties, displaced headcounts, and page counts do not steer priority. Internal mechanism terms are search prompts only.",
-    "p30": "Channel yield counts record references within a search. Unknown yields and overlap remain unassessed. Do not add references as unique histories.",
-    "p31": "The public tables retain opaque search IDs. Their source dates differ from this report date. Old pilot counts remain dated.",
-    "p32": "The 64 separate holds stay open. The full local UI still needs review and release work. Six saved statistics tasks and four routed reviews are open.",
-    "p33": "AI tools helped draft this report. Craig set the project direction. The report lists bounded searches and open limits.",
-    "p34": "The era at issue spans 500 to 1499. Some checked source scopes start in 1100 and end in 1499. One ends in 1500. Other bounds remain unknown. None proves a full era search.",
-    "p35": "The scope check found 16 errors in empty search claims. Those cells now need a full scope search. Three West Africa cells have scope or approval limits. These are search control changes, not new historical omissions.",
-    "p36": "Old source results and partial work remain saved. This repair adds no search, case, history answer or recall credit. Overlap within a cell is a limited check. It cannot mark a search complete.",
-    "p37": "Each found cell still needs scope, source and overlap checks. A limited cell needs its source or access gap resolved. A not-yet-searched cell needs a full scope search. An empty claim needs checked sources and clear bounds. A not-applicable claim needs evidence for that choice."
-  },
+  "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The local data has 565 cases and 579 stops. Its queue has 60 known ordinary cases and 64 holds.",
+  "p02": "The dated public atlas has 22 flight notes. This release has 44 update posts. The atlas itself does not change.",
+  "p03": "The search matrix has 1,280 records in five states. Each state describes a bounded search.",
+  "p04": "A found record has a located result. Some found records still need more source searches.",
+  "p05": "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
+  "p06": "A searched-empty record has no result within its checked scope. None now has that state. An empty search cannot prove that no such history took place.",
+  "p07": "There are 1,229 not-yet-searched cells. Some have partial work but still need a full scope search. There are 20 cells with source or access limits. None is not-applicable.",
+  "p08": "The source ledger has 230 records. It has 129 candidates, 95 located leads, four search leads and two controls.",
+  "p09": "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
+  "p10": "The current external frame has 365 entries and 730 open question views. No entry has a completed historical review in its block. This frame does not steer searches.",
+  "p11": "This release lists 224 source notes and 151 map notes. These notes do not add atlas cases or model scores.",
+  "p12": "The local bibliography has 1,498 works and 6,262 source uses. It has 317 open identity gaps and 40 recorded identity fixes. Passage checks are separate. These data are not live.",
+  "p13": "The archive series has 77 inactive records. These records do not establish 77 historical events. Its next report is at 90. Another 13 records reach that report.",
+  "p14": "The series has 753 profile rows and 848 corpus objects. None of its added records is in the active statistical roster.",
+  "p15": "The current match between archive records and public cases is unknown. The report at 90 is never an admission gate.",
+  "p16": "The index is version 107. It has 195 population records. There are 369 event links and five population links.",
+  "p17": "The index keeps 220 open records. Its 332 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
+  "p18": "The intake has 2,358 name leads. It has 409 full reviews, 38 partial reviews, and 1,911 untouched leads.",
+  "p19": "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
+  "p20": "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
+  "p21": "The current record has 52 partial search efforts. They cover 29 dated blocks in eight eras.",
+  "p22": "No search floor or cycle reached its end. All eight eras still need full source, place, recall and exclusion checks.",
+  "p23": "The original recall test recovered zero of three eligible pairs. Three other pairs fell outside the source scope. Five blocks lacked test results. This is a dated result, not current global recall.",
+  "p24": "The seven later repair records in that test get no original recall credit. The recorded causes remain limited to that test.",
+  "p25": "The priority table says where the project can look next. It is incomplete and does not steer searches.",
+  "p26": "The older pilot uses 147 frame entries in two regions. Its 128 block inputs and four paired checks are dated. The current external frame is separate.",
+  "p27": "The paired tables retain the results with and without people and trace inputs. Unknown inputs remain unassessed.",
+  "p28": "The pilot uses source catalogs and frozen roster counts. Catalog entries and traces do not establish forced removal or date harm.",
+  "p29": "Population size, casualties, displaced headcounts, and page counts do not steer priority. Internal mechanism terms are search prompts only.",
+  "p30": "Channel yield counts record references within a search. Unknown yields and overlap remain unassessed. Do not add references as unique histories.",
+  "p31": "The public tables retain opaque search IDs. Their source dates differ from this report date. Old pilot counts remain dated.",
+  "p32": "The 64 separate holds stay open. The full local UI still needs review and release work. Other source and statistics tasks remain open.",
+  "p33": "AI tools helped draft this report. Craig set the project direction. The report lists bounded searches and open limits.",
+  "p34": "The era at issue spans 500 to 1499. Some checked source scopes start in 1100 and end in 1499. One ends in 1500. Other bounds remain unknown. None proves a full era search.",
+  "p35": "The scope check found 16 errors in empty search claims. Those cells now need a full scope search. Three West Africa cells have scope or approval limits. These are search control changes, not new historical omissions.",
+  "p36": "Old source results and partial work remain saved. This repair adds no search, case, history answer or recall credit. Overlap within a cell is a limited check. It cannot mark a search complete.",
+  "p37": "Each found cell still needs scope, source and overlap checks. A limited cell needs its source or access gap resolved. A not-yet-searched cell needs a full scope search. An empty claim needs checked sources and clear bounds. A not-applicable claim needs evidence for that choice."
+},
   "pending_changes_not_counted": [
     "Full regional and era exposure, frame dispositions, recall and exclusion inventories",
     "Local565 UI/runtime/release review",
@@ -16613,12 +16613,12 @@
     "prior_public_report": "2026-10-05T20:00:38.656033+00:00"
   },
   "source_version_labels": {
-    "current_source_ledger": "226records/workflow76",
-    "current_population_index": "v105",
-    "current_exposure_ledger": "52partial attempts; no new exposure from control repair",
-    "matrix": "1280cells;31found/1229not-yet/20limited;no full-era two-channel flags",
-    "priority_pilot": "Dated2026-10-04 diagnostic147entries; distinct current external intake365"
-  },
+  "current_source_ledger": "230records/workflow77",
+  "current_population_index": "v107",
+  "current_exposure_ledger": "52partial attempts; no new exposure from control repair",
+  "matrix": "1280cells;31found/1229not-yet/20limited;no full-era two-channel flags",
+  "priority_pilot": "Dated2026-10-04 diagnostic147entries; distinct current external intake365"
+},
   "limits": [
     "A found record has a located result. Some found records still need more source searches.",
     "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
@@ -16648,1598 +16648,1626 @@
     "Early North America and South Asia are priorities. Search work still spans all regions and eras. Population frames, recall checks and reviews of empty cells have gaps. Case drafts, bibliography, flight origins, impact and world population work remain open. Audio is last."
   ],
   "current_acceptance_dates": {
-    "Source ledger and population": "2026-10-16T03:40:49.886232+00:00",
-    "Current external frame": "2026-10-14T16:05:59.759639+00:00",
-    "Inactive archive": "2026-10-15T12:56:18.141943+00:00",
-    "Selected local data": "2026-10-15T22:39:55.731972+00:00",
-    "Latest public source notes": "2026-10-16T03:48:33.911355+00:00",
-    "Matrix scope control repair": "2026-10-16T00:23:55.553627+00:00",
-    "Current bounded exposure": "2026-10-15T18:25:00.281241+00:00"
-  },
+  "Source ledger and population": "2026-10-16T05:59:51.316365+00:00",
+  "Current external frame": "2026-10-14T16:05:59.759639+00:00",
+  "Inactive archive": "2026-10-16T05:59:51.316365+00:00",
+  "Selected local data": "2026-10-15T22:39:55.731972+00:00",
+  "Latest public source notes": "2026-10-16T06:08:51.861242+00:00",
+  "Matrix scope control repair": "2026-10-16T00:23:55.553627+00:00",
+  "Current bounded exposure": "2026-10-15T18:25:00.281241+00:00"
+},
   "source_record_dispositions": [
-    {
-      "ledger_id": "medieval-almoravid-mozarab-deportation-1126",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_3_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "medieval-almoravid-christian-removal-1138",
-      "record_type": "candidate",
-      "saved_status": "separate_event_evidence_incomplete",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-kwajalein-missile-range-displacement",
-      "record_type": "control",
-      "saved_status": "four_successors_preserved",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-kwajalein-island-labor-camp-clearance-1951",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_5_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-roi-namur-base-expansion-removal-1960",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_6_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-lib-island-missile-range-removal-1961-1966",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_7_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-mid-atoll-corridor-clearance-1964-1965",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_8_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "mena-turkish-occupation-afrin-northern-syria",
-      "record_type": "candidate",
-      "saved_status": "confirmed_absent_in_august_not_admitted",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-tongan-conquest-lau-fiji",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_1_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-fiji-post-coup-indo-fijian-displacement",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "ca-virgin-lands-settlement-kazakhstan",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "us-aleut-wwii-removal-internment",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-florida-mission-destruction-1702-1704",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_2_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-seminole-formation-settlement-1700-1820",
-      "record_type": "source_located_lead",
-      "saved_status": "source_located_formation_refuge_search_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-banda-1621",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_20_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-vientiane-1828",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_22_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-manipur-1819-1826",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_23_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-ryukyu",
-      "record_type": "search_lead",
-      "saved_status": "named_in_root_cause_without_locally_verified_claim_locator",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-tahiti",
-      "record_type": "search_lead",
-      "saved_status": "named_in_root_cause_without_locally_verified_claim_locator",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-songhai",
-      "record_type": "search_lead",
-      "saved_status": "named_in_root_cause_without_locally_verified_claim_locator",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-kanem",
-      "record_type": "search_lead",
-      "saved_status": "named_in_root_cause_without_locally_verified_claim_locator",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "micronesia-pohnpei-spanish-santiago-land-fort-labor-1887",
-      "record_type": "candidate",
-      "saved_status": "source_located_event_unit_and_land_outcome_review_required",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "polynesia-tahiti-french-wartime-land-confiscations-1844-1847",
-      "record_type": "candidate",
-      "saved_status": "source_located_phase_tract_and_owner_review_required",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "polynesia-marquesas-valley-to-coast-colonial-relocation-post-1842",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_27_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "melanesia-solomon-preprotectorate-land-alienation-1881-1900",
-      "record_type": "candidate",
-      "saved_status": "source_located_qualifying_process_and_event_unit_review_required",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "melanesia-vanuatu-epi-ccnh-land-alienation-from-1882",
-      "record_type": "candidate",
-      "saved_status": "source_located_parent_child_adjudication_not_new_omission",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "micronesia-marshall-bikar-bokak-terra-nullius-control",
-      "record_type": "control",
-      "saved_status": "below_threshold_no_affected_resident_population_established",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "central-africa-kongo-foundation-mbanza-kongo-conquest-c14",
-      "record_type": "candidate",
-      "saved_status": "retained_strengthened_specialist_source_supports_conquest_and_replacement_event_unit_review_required",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "central-africa-ngbandi-bakkara-forced-migration-c1300",
-      "record_type": "source_located_lead",
-      "saved_status": "flight_supported_destination_land_outcome_not_established",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-songhay-macina-fulbe-sonni-ali-c1464-1492",
-      "record_type": "candidate",
-      "saved_status": "inactive_candidate_on_main_accepted_specific_evidence_and_event_unit_hold",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-bulala-sefuwa-kanem-borno-c1382-1400",
-      "record_type": "candidate",
-      "saved_status": "inactive_candidate_on_main_accepted_evidence_limited_event_unit_hold",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-naaba-rawa-dogon-yatenga-bandiagara",
-      "record_type": "candidate",
-      "saved_status": "source_located_admission_gates_open",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-tuareg-air-hausa-gobir-c14-c15",
-      "record_type": "candidate",
-      "saved_status": "source_located_admission_gates_open",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-koly-wolof-futa-river-valleys-c1500",
-      "record_type": "candidate",
-      "saved_status": "source_located_admission_gates_open",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-idris-alawoma-sao-ancestral-homes-1564-1596",
-      "record_type": "candidate",
-      "saved_status": "source_located_admission_gates_open",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-dogon-tellem-bandiagara-yatenga-c14",
-      "record_type": "source_located_lead",
-      "saved_status": "movement_and_land_outcome_reported_but_direct_coercive_process_not_established",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-songhay-niani-twenty-four-slave-clans",
-      "record_type": "source_located_lead",
-      "saved_status": "coerced_movement_reported_but_date_origin_population_and_land_outcome_unbounded",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-songhay-war-captive-farming-settlements",
-      "record_type": "source_located_lead",
-      "saved_status": "institutional_pattern_located_but_no_bounded_population_tract_or_transfer_event",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-yatenga-kibse-smiths-established-by-command",
-      "record_type": "source_located_lead",
-      "saved_status": "below_candidate_gate",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-mago-repeated-deportation-1865-1866",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_MAIN_SOURCE_QUALIFIED_MAGO_BOUNDED_CANDIDATE_NOT_LEDGER_ADOPTED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "pacific-munia-yanuyanu-removal-dispersal-1867",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_ONLY_DESCRIPTIVE_ASSESSED_CANDIDATE_INACTIVE_UNADMITTED_NOT_MODEL_READY",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "medieval-champa-viet-captive-transfer-drang-lai-c42",
-      "record_type": "candidate",
-      "saved_status": "main_accepted_inactive_source_located_candidate_with_critical_edition_event_unit_hold",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "central-africa-northwest-angola-bakongo-forced-exile-1961",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_SOURCE_DESCRIPTIVE_FRAME_AND_ADOPTED_INACTIVE_ARCHIVAL40_WORKFLOW",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "central-africa-bas-zaire-non-originating-family-expulsion-1994",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_4_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "central-africa-bamum-bamileke-village-expulsion-precolonial",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_SOURCE_BOUND_CANDIDATE_OVERLAP_AND_DATES_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "central-africa-tikar-tumu-alliance-dominance-bamenda",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_RETAINED_SOURCE_LOCATED_LEAD_LAND_OR_RESIDENCE_OUTCOME_UNMET",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "central-africa-nchare-bamum-founding-conquest-land-allocation",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_33_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-taranaki-1820s-pressure-southward-residence",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_APPEND_MAIN_ACCEPTED_LOCATED_LEAD_UNIT_OVERLAP_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "new-zealand-taranaki-niho-puta-origin-flight-circa-1824",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_9_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-west-africa-bedde-komadugu-yobe-residence-retreat",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_RESIDENCE_RETREAT_LEAD_NOT_ADMITTED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lake-chad-sew-ghafata-coercive-residence-loss-and-dispersal-idris-reign",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_11_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "ancient-linyi-capital-attack-burning-plunder-446",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_10_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "ancient-tuong-lam-rebellion-suppression-garrison-early-second-century-ce",
-      "record_type": "source_located_lead",
-      "saved_status": "source_located_lead_operative_land_residence_outcome_and_wrapper_overlap_unresolved",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lake-chad-tatala-military-pressure-flight-and-residence-loss-idris-context",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_12_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "north-asia-ivolga-final-military-destruction-residence-loss",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_13_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "ancient-ezana-noba-campaign-flight-capture-town-destruction",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_14_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-africa-qasr-ibrim-ayyubid-capture-occupation-1172",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_15_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-africa-mamluk-mukurra-captive-transfer-1276",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_16_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-africa-dunkula-seizure-royal-flight-1365-1366",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_17_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-africa-soba-capture-inhabitant-dispersal-traditions",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_18_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-africa-alwa-soba-arab-pasture-control-c15",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_ACCEPTED_LOCATED_LEAD_NOT_CANDIDATE",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "west-africa-bornu-djudham-slave-raiding-1391-letter",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_ACCEPTED_LOCATED_LEAD_NOT_CANDIDATE",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "brunei-dayak-roads-worker-government-deportation-postwar-book18",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_MAIN_SOURCE_ACCEPTED_CANDIDATE_NOT_LEDGER_ADOPTED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "sarawak-contract-worker-pass-confinement-escape-capture-pre1900",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_19_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "brooke-sea-dayak-chinese-settlement-baram-limbang-late19c",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_MAIN_SOURCE_ACCEPTED_LOCATED_LEAD_NOT_LEDGER_ADOPTED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "sarawak-brooke-iban-occupied-district-annexations-1850s-1860s",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_32_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "sarawak-pre-brooke-makhota-antimony-compulsion-early19c",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_MAIN_SOURCE_ACCEPTED_LOCATED_LEAD_NOT_LEDGER_ADOPTED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "hoamoal-west-seram-voc-war-end-forced-residential-relocation-1651-1656-context",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_21_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "sibe-soldier-family-relocation-ili-settlement-1764",
-      "record_type": "source_located_lead",
-      "saved_status": "source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-manipur-alaungpaya-deportation-resettlement",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_REVIEWED_QUALITATIVE_CANDIDATE_PROPOSED_APPEND_NOT_ADOPTED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-manipur-sinbyuyin-1763-1764-captive-removal",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_REVIEWED_QUALITATIVE_CANDIDATE_PROPOSED_APPEND_NOT_ADOPTED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "medieval-yunnan-gao-liangcheng-refugee-estate-local-displacement",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_26_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-maghrawa-northern-sanhaja-pasture-control",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_24_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-almoravid-awdighust-zanata-conquest-killing",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_25_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "oceania-rarotonga-pokoinu-land-taking-puri-subordination",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_28_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "oceania-rarotonga-avaavaroa-tama-expulsion-land-division",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_29_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "north-asia-daur-qing-amur-nonni-removal-1653-1654",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_30_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-west-africa-tichitt-late-coercion-question",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-west-africa-djiganyai-bou-khzama-succession-question",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-west-africa-lower-casamance-settlement-change-question",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-west-africa-akjoujt-decline-question",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-west-africa-saharan-southern-raiding-question",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "oceania-samoa-safotu-tongan-occupants-war-caused-departure",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_31_NOT_ACTIVE_OR_PUBLIC",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "north-africa-balbus-garamantian-oasis-town-capture",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "north-asia-yuan-yenisei-population-removal-replacement-1293",
-      "record_type": "candidate",
-      "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-asia-yuan-jinshan-qirghis-shandong-relocation-1295",
-      "record_type": "candidate",
-      "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-africa-amda-seyon-hadiya-captive-removal",
-      "record_type": "candidate",
-      "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-africa-amda-seyon-earlier-ifat-retaliation-source-lead",
-      "record_type": "candidate",
-      "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "east-africa-amda-seyon-sabr-ad-din-city-captive-removal-source-lead",
-      "record_type": "candidate",
-      "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "houailou-valley-flight-and-bourail-refuge-1867-1868",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_QUALIFIED_LINKED_HISTORICAL_CHILD_DESCRIPTIVELY_ASSESSED_NONADDITIVE_OVERLAP_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "houailou-auxiliary-captive-women-departure-and-assignment-1878",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_QUALIFIED_INACTIVE_CANDIDATE_UNCODED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "dao-nindien-reservation-tract-seizure-1899-decree",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_QUALIFIED_INACTIVE_CANDIDATE_UNCODED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-tumat-darkhan-middle-lena-vilyuy-movement",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_LOCATED_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-ulu-horo-muryu-family-destruction",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_LOCATED_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "central-africa-kahuzi-biega-batwa-park-evictions-1970-1975",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_DESCRIPTIVE_PARTIAL_ASSESSMENT_AND_INACTIVE_ARCHIVAL39",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "lead-southern-africa-little-muck-site-user-history-question",
-      "record_type": "source_located_lead",
-      "saved_status": "PROVISIONAL_UNRESOLVED_SITE_USER_QUESTIONS_NOT_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "north-asia-tavatoma-koryak-village-burning",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-imatkha-koryak-herd-loss-residence-change",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "north-asia-pallan-koryak-village-destruction-1720",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "southern-africa-ngalama-breakaway-luyana-tract-reconquest",
-      "record_type": "candidate",
-      "saved_status": "PENDING_SOURCE_ATTRIBUTED_TRACT_RECONQUEST_WITH_UNRESOLVED_UNITS",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-africa-early-modern-maghrib-state-restructuring",
-      "record_type": "source_located_lead",
-      "saved_status": "source_located_chapter_level_search_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "early-modern-ottoman-tlemcen-capital-taking",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival48_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "early-modern-ottoman-tripoli-taking-1551",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival49_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "early-modern-ottoman-kayrawan-taking-1557",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival50_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "early-modern-ottoman-djerba-taking-source1558",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival51_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "early-modern-ottoman-tunis-taking-1569",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival52_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "early-modern-spanish-tunis-recapture-1573",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival53_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "early-modern-ottoman-tunis-recapture-1574",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival54_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "early-modern-ali-burghul-tripoli-control-ouster-1793",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival55_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-maghrib-rural-pastoral-land-change",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-maghrib-spanish-presidios-fortresses",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-maghrib-kulughli-formation-political-exclusion",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-maghrib-mountain-community-refuge",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-tunis-murad-hinterland-conquest",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-maghrib-privateering-capture-ransom",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-ottoman-tripoli-direct-control-1835",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival56_administrative_projection",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "ancient-maues-taxila-tract-capture",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_already_adopted_inactive_archival47_administrative_projection",
-      "admitted": true,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-saka-pressure-movement-lower-indus",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-central-asia-kuropatkin-appropriation-support-1916",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead_pending_registration",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "central-asia-kyrgyz-kazakh-china-flight-land-left-behind-1916",
-      "record_type": "candidate",
-      "saved_status": "Main_accepted_qualified_candidate_unit_pending_registration",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-central-asia-naryn-pre-reprisal-flight-1916",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead_pending_registration",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-central-asia-gradual-return-first-half-1917",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead_pending_registration",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-central-asia-zhalanash-local-violence-return-context",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead_pending_registration",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-central-asia-issyk-kul-pishpek-return-exclusion-decision",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead_pending_registration",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-wintuan-maiduan-southward-movement-question",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_MAIN_ACCEPTED_LOCATED_LEAD_PENDING_LEDGER_ADOPTION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-north-america-crow-creek-attack-residence-question",
-      "record_type": "candidate",
-      "saved_status": "ROOT_SOURCE_ACCEPTED_REGISTRATION_READY_PENDING_LEDGER_ADOPTION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-central-plains-middle-missouri-displacement",
-      "record_type": "source_located_lead",
-      "saved_status": "ROOT_SOURCE_ACCEPTED_LOCATED_LEAD_PENDING_LEDGER_ADOPTION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-whistling-elk-burned-lodges-departure",
-      "record_type": "source_located_lead",
-      "saved_status": "ROOT_SOURCE_ACCEPTED_LOCATED_LEAD_PENDING_LEDGER_ADOPTION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-sacred-ridge-qualified-archaeological-episode",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-cave7-qualified-archaeological-comparison",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-cottonwood-wash-qualified-archaeological-comparison",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-ram-mesa-pithouse-qualified-archaeological-comparison",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-roberts-small-house-qualified-archaeological-comparison",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-awatovi-qualified-archaeological-comparison",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-castle-rock-pueblo-qualified-archaeological-comparison",
-      "record_type": "source_located_lead",
-      "saved_status": "Main_accepted_source_located_lead",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-gandhara-mahirakula-killings-captive-allocation",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-tapu-te-ranga-1827-defending-force-departure",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-sirkap-kushana-residential-city-destruction",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-kluiyu-resident-dispersal-temlaxam-retaliation",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-velvikudi-kalabhra-land-grant-resumption",
-      "record_type": "candidate",
-      "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-midsouth-hostile-abandonment-buffer-zones-regional-pattern",
-      "record_type": "source_located_lead",
-      "saved_status": "ROOT_ACCEPTED_QUALIFIED_REGIONAL_SOURCE_LEAD_NOT_CANDIDATE_PENDING_GUARDED_LEDGER_APPLICATION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-sri-lanka-vijaya-kuvanna-chronicle-population-transition",
-      "record_type": "source_located_lead",
-      "saved_status": "ROOT_ACCEPTED_QUALIFIED_CHRONICLE_SOURCE_LOCATED_LEAD_NOT_CANDIDATE_PENDING_GUARDED_REGISTRATION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-south-asia-kasakudi-kodukolli-prior-owner-rights-grant",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE64",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-wilson-late-woodland-violence-settlement-pattern",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_QUALIFIED_REGIONAL_SOURCE_LOCATED_LEAD_PENDING_GUARDED_REGISTRATION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-conner-hadley-mccraney-sny-habitation",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_QUALIFIED_REGIONAL_SOURCE_LOCATED_LEAD_PENDING_GUARDED_REGISTRATION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-rock-island-qualified-defensive-refuge",
-      "record_type": "source_located_lead",
-      "saved_status": "MAIN_ACCEPTED_QUALIFIED_ROCK_ISLAND_SOURCE_LOCATED_LEAD_PENDING_GUARDED_REGISTRATION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-nepal-manadeva-malla-city-reported-conquest",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE65",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-udayendiram-no74-expropriative-village-rights-grant",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE66",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-udayendiram-no74-reported-vishnuraja-district-subjection",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE67",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-jebel-sahaba-recurrent-violence-land-outcome-question",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_VIOLENT_INJURY_LEAD_LAND_OUTCOME_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-duckfoot-burned-homes-departure",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_DUCKFOOT_RESIDENCE_LOSS_CAUSE_AND_CONTROL_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-chilula-wiyot-lower-mad-river-encroachment",
-      "record_type": "source_located_lead",
-      "saved_status": "ROOT_SOURCE_ACCEPTED_DISTINCT_LOCATED_LEAD_PROPOSED_FOR_REGISTRATION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-tlingit-reported-reciprocal-war-camp-access-question",
-      "record_type": "source_located_lead",
-      "saved_status": "ROOT_SOURCE_ACCEPTED_LOCATED_REPORTED_WAR_CAMP_ACCESS_QUESTION_PROPOSED_FOR_REGISTRATION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-hathigumpha-pithumda-reported-town-ploughing",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE68",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-sena-guttaka-reported-kingdom-takeover",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE69",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-elara-reported-kingdom-takeover",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE70",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-mahanaga-reported-household-flight",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE71",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-north-america-cushing-mountain-town-war-incorporation-departure",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE72",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-north-america-cushing-winter-clan-armed-valley-settlement",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE73",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-north-america-cushing-hanhlipinkya-evacuation-origin-lead",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_ORIGIN_LEAD_NOT_CANDIDATE",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-alaska-denbigh-displacement-or-replacement",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_QUALIFIED_TRACE_QUESTION_NOT_CANDIDATE",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-alaska-ipiutak-replacement-warfare-link",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_QUALIFIED_TRACE_QUESTION_NOT_CANDIDATE",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-lotuho-overrun-tekidi",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-luo-forays-baar",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-proto-dodo-toposa",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-korwakol-jie-rengen-poet",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-proto-karimojong-okii-iteso-iworopom",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-paluoland-integration-persecution-exodus",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-mawanda-new-territories",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-junju-buddu-annexation",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-junju-kooki-tribute",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-kamanya-buwekula",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-bunyoro-grazing-land-to-buganda",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-gisaka-buganza-bwanacyambwe",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-ruganzu-ndori-reoccupation-expansion",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-rwanda-eighteenth-century-western-expansion",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-bugesera-partition",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-baganwa-bugesera-royal-flight",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-bukerebe-capital-island-refuge",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-rwanda-gikingi-clientship-control",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-cyirima-rugwe-bongera-lands",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-nyoro-two-rwandan-royal-flights",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-pakwac-pawir-refuge-influx-and-control-dispute",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-daca-abok-koc-political-fragmentation",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-jaki-extension-and-terego-acceptance",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-padhola-south-east-land-gains",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-busoga-ruling-clans-and-shrine-takeovers",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-paluo-and-related-incorporation-of-small-units",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-older-clan-principality-absorption",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-koten-magos-broad-merger-or-retreat",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-buzinza-succession-war-territorial-separation",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-younger-men-emigration-under-gerontocracy",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-east-africa-great-lakes-buganda-centralization-exile",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-middle-ganges-agrarian-territorial-transition",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-brahman-settlement-agrarian-incorporation",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-pala-territorial-expansion",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE74",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-sena-varman-vikrampur-rule-change",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE75",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-court-connected-agricultural-grants",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-lakshmana-sena-great-gift-land-grant",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-seventh-century-sylhet-grant",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-chandra-sylhet-grant-settlement",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-bhagirathi-hooghly-grants-tax-redirection",
-      "record_type": "source_located_lead",
-      "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-south-asia-bengal-eaton-ch1-nudiya-capture-lakshmana-retainer-flight",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE76",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-driftless-villages-departure-coalescence",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_REGIONAL_RESEARCH_LEAD_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-north-america-hochunk-wisconsin-reported-removal-1840s",
-      "record_type": "candidate",
-      "saved_status": "PROPOSED_SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-south-asia-bengal-khalaji-lakhnauti-reported-transport-residence-order",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-south-asia-bengal-habashi-reported-recruitment-importation-service",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-south-asia-bengal-afghan-refugee-reported-land-town-endowments",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-south-asia-bengal-husain-shah-reported-kamata-kamrup-annexation",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-south-asia-bengal-deva-coin-inferred-control-question",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_REGIONAL_QUESTION_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-south-asia-bengal-firuz-reported-temporary-pandua-control",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-mulberry-creek-contested-use",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-american-bottom-settlement-relocation",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "candidate-north-america-1pi61-attributed-captivity",
-      "record_type": "candidate",
-      "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-windover-injury-raid-process",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-cherry-injury-massacre-process",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-peter-enclosure-use",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-north-america-middle-woodland-settlement-concentration",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-    {
-      "ledger_id": "source-lead-south-asia-chola-temple-village-staff-watchman-orders",
-      "record_type": "source_located_lead",
-      "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-      "admitted": false,
-      "active": false
-    },
-{
-  "ledger_id": "source-lead-north-america-owasco-defensive-relocation-coalescence",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-north-america-algonquian-seasonal-camp-relocation-under-raids",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "candidate-north-america-susquehannock-reported-pennsylvania-maryland-forced-departure",
-  "record_type": "candidate",
-  "saved_status": "CANDIDATE_UNADMITTED_SOURCE_REPORTED_HYPOTHESIS",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-north-america-huron-petun-defeat-residence-incorporation",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-north-america-neutral-defeat-land-residence-control",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-north-america-erie-defeat-land-residence-control",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-north-america-point-peninsula-incoming-displacement-model",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_DISPUTED_MODEL_QUESTION_UNRESOLVED",
-  "admitted": false,
-  "active": false
-}
-  ],
+  {
+    "ledger_id": "medieval-almoravid-mozarab-deportation-1126",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_3_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "medieval-almoravid-christian-removal-1138",
+    "record_type": "candidate",
+    "saved_status": "separate_event_evidence_incomplete",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-kwajalein-missile-range-displacement",
+    "record_type": "control",
+    "saved_status": "four_successors_preserved",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-kwajalein-island-labor-camp-clearance-1951",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_5_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-roi-namur-base-expansion-removal-1960",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_6_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-lib-island-missile-range-removal-1961-1966",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_7_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-mid-atoll-corridor-clearance-1964-1965",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_8_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "mena-turkish-occupation-afrin-northern-syria",
+    "record_type": "candidate",
+    "saved_status": "confirmed_absent_in_august_not_admitted",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-tongan-conquest-lau-fiji",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_1_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-fiji-post-coup-indo-fijian-displacement",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "ca-virgin-lands-settlement-kazakhstan",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "us-aleut-wwii-removal-internment",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-florida-mission-destruction-1702-1704",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_2_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-seminole-formation-settlement-1700-1820",
+    "record_type": "source_located_lead",
+    "saved_status": "source_located_formation_refuge_search_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-banda-1621",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_20_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-vientiane-1828",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_22_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-manipur-1819-1826",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_23_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-ryukyu",
+    "record_type": "search_lead",
+    "saved_status": "named_in_root_cause_without_locally_verified_claim_locator",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-tahiti",
+    "record_type": "search_lead",
+    "saved_status": "named_in_root_cause_without_locally_verified_claim_locator",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-songhai",
+    "record_type": "search_lead",
+    "saved_status": "named_in_root_cause_without_locally_verified_claim_locator",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-kanem",
+    "record_type": "search_lead",
+    "saved_status": "named_in_root_cause_without_locally_verified_claim_locator",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "micronesia-pohnpei-spanish-santiago-land-fort-labor-1887",
+    "record_type": "candidate",
+    "saved_status": "source_located_event_unit_and_land_outcome_review_required",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "polynesia-tahiti-french-wartime-land-confiscations-1844-1847",
+    "record_type": "candidate",
+    "saved_status": "source_located_phase_tract_and_owner_review_required",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "polynesia-marquesas-valley-to-coast-colonial-relocation-post-1842",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_27_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "melanesia-solomon-preprotectorate-land-alienation-1881-1900",
+    "record_type": "candidate",
+    "saved_status": "source_located_qualifying_process_and_event_unit_review_required",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "melanesia-vanuatu-epi-ccnh-land-alienation-from-1882",
+    "record_type": "candidate",
+    "saved_status": "source_located_parent_child_adjudication_not_new_omission",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "micronesia-marshall-bikar-bokak-terra-nullius-control",
+    "record_type": "control",
+    "saved_status": "below_threshold_no_affected_resident_population_established",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "central-africa-kongo-foundation-mbanza-kongo-conquest-c14",
+    "record_type": "candidate",
+    "saved_status": "retained_strengthened_specialist_source_supports_conquest_and_replacement_event_unit_review_required",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "central-africa-ngbandi-bakkara-forced-migration-c1300",
+    "record_type": "source_located_lead",
+    "saved_status": "flight_supported_destination_land_outcome_not_established",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-songhay-macina-fulbe-sonni-ali-c1464-1492",
+    "record_type": "candidate",
+    "saved_status": "inactive_candidate_on_main_accepted_specific_evidence_and_event_unit_hold",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-bulala-sefuwa-kanem-borno-c1382-1400",
+    "record_type": "candidate",
+    "saved_status": "inactive_candidate_on_main_accepted_evidence_limited_event_unit_hold",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-naaba-rawa-dogon-yatenga-bandiagara",
+    "record_type": "candidate",
+    "saved_status": "source_located_admission_gates_open",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-tuareg-air-hausa-gobir-c14-c15",
+    "record_type": "candidate",
+    "saved_status": "source_located_admission_gates_open",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-koly-wolof-futa-river-valleys-c1500",
+    "record_type": "candidate",
+    "saved_status": "source_located_admission_gates_open",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-idris-alawoma-sao-ancestral-homes-1564-1596",
+    "record_type": "candidate",
+    "saved_status": "source_located_admission_gates_open",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-dogon-tellem-bandiagara-yatenga-c14",
+    "record_type": "source_located_lead",
+    "saved_status": "movement_and_land_outcome_reported_but_direct_coercive_process_not_established",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-songhay-niani-twenty-four-slave-clans",
+    "record_type": "source_located_lead",
+    "saved_status": "coerced_movement_reported_but_date_origin_population_and_land_outcome_unbounded",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-songhay-war-captive-farming-settlements",
+    "record_type": "source_located_lead",
+    "saved_status": "institutional_pattern_located_but_no_bounded_population_tract_or_transfer_event",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-yatenga-kibse-smiths-established-by-command",
+    "record_type": "source_located_lead",
+    "saved_status": "below_candidate_gate",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-mago-repeated-deportation-1865-1866",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_MAIN_SOURCE_QUALIFIED_MAGO_BOUNDED_CANDIDATE_NOT_LEDGER_ADOPTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "pacific-munia-yanuyanu-removal-dispersal-1867",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_ONLY_DESCRIPTIVE_ASSESSED_CANDIDATE_INACTIVE_UNADMITTED_NOT_MODEL_READY",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "medieval-champa-viet-captive-transfer-drang-lai-c42",
+    "record_type": "candidate",
+    "saved_status": "main_accepted_inactive_source_located_candidate_with_critical_edition_event_unit_hold",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "central-africa-northwest-angola-bakongo-forced-exile-1961",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_SOURCE_DESCRIPTIVE_FRAME_AND_ADOPTED_INACTIVE_ARCHIVAL40_WORKFLOW",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "central-africa-bas-zaire-non-originating-family-expulsion-1994",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_D10_ADMISSION_4_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "central-africa-bamum-bamileke-village-expulsion-precolonial",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_SOURCE_BOUND_CANDIDATE_OVERLAP_AND_DATES_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "central-africa-tikar-tumu-alliance-dominance-bamenda",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_RETAINED_SOURCE_LOCATED_LEAD_LAND_OR_RESIDENCE_OUTCOME_UNMET",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "central-africa-nchare-bamum-founding-conquest-land-allocation",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_33_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-taranaki-1820s-pressure-southward-residence",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_APPEND_MAIN_ACCEPTED_LOCATED_LEAD_UNIT_OVERLAP_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "new-zealand-taranaki-niho-puta-origin-flight-circa-1824",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_9_NOT_ACTIVE_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-west-africa-bedde-komadugu-yobe-residence-retreat",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_RESIDENCE_RETREAT_LEAD_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lake-chad-sew-ghafata-coercive-residence-loss-and-dispersal-idris-reign",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_11_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "ancient-linyi-capital-attack-burning-plunder-446",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ADMISSION_10_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "ancient-tuong-lam-rebellion-suppression-garrison-early-second-century-ce",
+    "record_type": "source_located_lead",
+    "saved_status": "source_located_lead_operative_land_residence_outcome_and_wrapper_overlap_unresolved",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lake-chad-tatala-military-pressure-flight-and-residence-loss-idris-context",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_12_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "north-asia-ivolga-final-military-destruction-residence-loss",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_13_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "ancient-ezana-noba-campaign-flight-capture-town-destruction",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_14_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-africa-qasr-ibrim-ayyubid-capture-occupation-1172",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_15_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-africa-mamluk-mukurra-captive-transfer-1276",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_16_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-africa-dunkula-seizure-royal-flight-1365-1366",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_17_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-africa-soba-capture-inhabitant-dispersal-traditions",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_18_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-africa-alwa-soba-arab-pasture-control-c15",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_ACCEPTED_LOCATED_LEAD_NOT_CANDIDATE",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "west-africa-bornu-djudham-slave-raiding-1391-letter",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_ACCEPTED_LOCATED_LEAD_NOT_CANDIDATE",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "brunei-dayak-roads-worker-government-deportation-postwar-book18",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_MAIN_SOURCE_ACCEPTED_CANDIDATE_NOT_LEDGER_ADOPTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "sarawak-contract-worker-pass-confinement-escape-capture-pre1900",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_19_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "brooke-sea-dayak-chinese-settlement-baram-limbang-late19c",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_MAIN_SOURCE_ACCEPTED_LOCATED_LEAD_NOT_LEDGER_ADOPTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "sarawak-brooke-iban-occupied-district-annexations-1850s-1860s",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_32_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "sarawak-pre-brooke-makhota-antimony-compulsion-early19c",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_MAIN_SOURCE_ACCEPTED_LOCATED_LEAD_NOT_LEDGER_ADOPTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "hoamoal-west-seram-voc-war-end-forced-residential-relocation-1651-1656-context",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ISOLATED_OUT_OF_FRAME_ARCHIVAL_ADMISSION_21_NOT_ACTIVE_STATISTICAL_RELEASE_NOT_ATLAS_PUBLISHED",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "sibe-soldier-family-relocation-ili-settlement-1764",
+    "record_type": "source_located_lead",
+    "saved_status": "source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-manipur-alaungpaya-deportation-resettlement",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_REVIEWED_QUALITATIVE_CANDIDATE_PROPOSED_APPEND_NOT_ADOPTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-manipur-sinbyuyin-1763-1764-captive-removal",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_REVIEWED_QUALITATIVE_CANDIDATE_PROPOSED_APPEND_NOT_ADOPTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "medieval-yunnan-gao-liangcheng-refugee-estate-local-displacement",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_26_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-maghrawa-northern-sanhaja-pasture-control",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_24_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-almoravid-awdighust-zanata-conquest-killing",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_25_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "oceania-rarotonga-pokoinu-land-taking-puri-subordination",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_28_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "oceania-rarotonga-avaavaroa-tama-expulsion-land-division",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_29_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "north-asia-daur-qing-amur-nonni-removal-1653-1654",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_30_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-west-africa-tichitt-late-coercion-question",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-west-africa-djiganyai-bou-khzama-succession-question",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-west-africa-lower-casamance-settlement-change-question",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-west-africa-akjoujt-decline-question",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-west-africa-saharan-southern-raiding-question",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_FINITE_SOURCE_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "oceania-samoa-safotu-tongan-occupants-war-caused-departure",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_INACTIVE_ARCHIVAL_ADMISSION_31_NOT_ACTIVE_OR_PUBLIC",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "north-africa-balbus-garamantian-oasis-town-capture",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "north-asia-yuan-yenisei-population-removal-replacement-1293",
+    "record_type": "candidate",
+    "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-asia-yuan-jinshan-qirghis-shandong-relocation-1295",
+    "record_type": "candidate",
+    "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-africa-amda-seyon-hadiya-captive-removal",
+    "record_type": "candidate",
+    "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-africa-amda-seyon-earlier-ifat-retaliation-source-lead",
+    "record_type": "candidate",
+    "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "east-africa-amda-seyon-sabr-ad-din-city-captive-removal-source-lead",
+    "record_type": "candidate",
+    "saved_status": "ADOPTED_QUALIFIED_INACTIVE_ARCHIVAL_SOURCE_UNIT",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "houailou-valley-flight-and-bourail-refuge-1867-1868",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_LINKED_HISTORICAL_CHILD_DESCRIPTIVELY_ASSESSED_NONADDITIVE_OVERLAP_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "houailou-auxiliary-captive-women-departure-and-assignment-1878",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_INACTIVE_CANDIDATE_UNCODED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "dao-nindien-reservation-tract-seizure-1899-decree",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_INACTIVE_CANDIDATE_UNCODED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-tumat-darkhan-middle-lena-vilyuy-movement",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_LOCATED_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-ulu-horo-muryu-family-destruction",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_LOCATED_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "central-africa-kahuzi-biega-batwa-park-evictions-1970-1975",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_DESCRIPTIVE_PARTIAL_ASSESSMENT_AND_INACTIVE_ARCHIVAL39",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "lead-southern-africa-little-muck-site-user-history-question",
+    "record_type": "source_located_lead",
+    "saved_status": "PROVISIONAL_UNRESOLVED_SITE_USER_QUESTIONS_NOT_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "north-asia-tavatoma-koryak-village-burning",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-imatkha-koryak-herd-loss-residence-change",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_SEARCH_LEAD_NOT_CANDIDATE_EVENT",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "north-asia-pallan-koryak-village-destruction-1720",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_ADMINISTRATIVE_PROJECTION",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "southern-africa-ngalama-breakaway-luyana-tract-reconquest",
+    "record_type": "candidate",
+    "saved_status": "PENDING_SOURCE_ATTRIBUTED_TRACT_RECONQUEST_WITH_UNRESOLVED_UNITS",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-africa-early-modern-maghrib-state-restructuring",
+    "record_type": "source_located_lead",
+    "saved_status": "source_located_chapter_level_search_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "early-modern-ottoman-tlemcen-capital-taking",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival48_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "early-modern-ottoman-tripoli-taking-1551",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival49_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "early-modern-ottoman-kayrawan-taking-1557",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival50_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "early-modern-ottoman-djerba-taking-source1558",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival51_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "early-modern-ottoman-tunis-taking-1569",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival52_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "early-modern-spanish-tunis-recapture-1573",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival53_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "early-modern-ottoman-tunis-recapture-1574",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival54_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "early-modern-ali-burghul-tripoli-control-ouster-1793",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival55_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-maghrib-rural-pastoral-land-change",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-maghrib-spanish-presidios-fortresses",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-maghrib-kulughli-formation-political-exclusion",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-maghrib-mountain-community-refuge",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-tunis-murad-hinterland-conquest",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-maghrib-privateering-capture-ransom",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-ottoman-tripoli-direct-control-1835",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival56_administrative_projection",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "ancient-maues-taxila-tract-capture",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_already_adopted_inactive_archival47_administrative_projection",
+    "admitted": true,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-saka-pressure-movement-lower-indus",
+    "record_type": "candidate",
+    "saved_status": "BOUNDED_REPORTED_CONSTRAINED_MOVEMENT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-central-asia-kuropatkin-appropriation-support-1916",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead_pending_registration",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "central-asia-kyrgyz-kazakh-china-flight-land-left-behind-1916",
+    "record_type": "candidate",
+    "saved_status": "Main_accepted_qualified_candidate_unit_pending_registration",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-central-asia-naryn-pre-reprisal-flight-1916",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead_pending_registration",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-central-asia-gradual-return-first-half-1917",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead_pending_registration",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-central-asia-zhalanash-local-violence-return-context",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead_pending_registration",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-central-asia-issyk-kul-pishpek-return-exclusion-decision",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead_pending_registration",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-wintuan-maiduan-southward-movement-question",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_MAIN_ACCEPTED_LOCATED_LEAD_PENDING_LEDGER_ADOPTION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-crow-creek-attack-residence-question",
+    "record_type": "candidate",
+    "saved_status": "ROOT_SOURCE_ACCEPTED_REGISTRATION_READY_PENDING_LEDGER_ADOPTION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-central-plains-middle-missouri-displacement",
+    "record_type": "source_located_lead",
+    "saved_status": "ROOT_SOURCE_ACCEPTED_LOCATED_LEAD_PENDING_LEDGER_ADOPTION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-whistling-elk-burned-lodges-departure",
+    "record_type": "source_located_lead",
+    "saved_status": "ROOT_SOURCE_ACCEPTED_LOCATED_LEAD_PENDING_LEDGER_ADOPTION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-sacred-ridge-qualified-archaeological-episode",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-cave7-qualified-archaeological-comparison",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-cottonwood-wash-qualified-archaeological-comparison",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-ram-mesa-pithouse-qualified-archaeological-comparison",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-roberts-small-house-qualified-archaeological-comparison",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-awatovi-qualified-archaeological-comparison",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-castle-rock-pueblo-qualified-archaeological-comparison",
+    "record_type": "source_located_lead",
+    "saved_status": "Main_accepted_source_located_lead",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-gandhara-mahirakula-killings-captive-allocation",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-tapu-te-ranga-1827-defending-force-departure",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-sirkap-kushana-residential-city-destruction",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-kluiyu-resident-dispersal-temlaxam-retaliation",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-velvikudi-kalabhra-land-grant-resumption",
+    "record_type": "candidate",
+    "saved_status": "MAIN_ACCEPTED_ALREADY_ADOPTED_INACTIVE_ARCHIVAL_WORKFLOW",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-midsouth-hostile-abandonment-buffer-zones-regional-pattern",
+    "record_type": "source_located_lead",
+    "saved_status": "ROOT_ACCEPTED_QUALIFIED_REGIONAL_SOURCE_LEAD_NOT_CANDIDATE_PENDING_GUARDED_LEDGER_APPLICATION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-sri-lanka-vijaya-kuvanna-chronicle-population-transition",
+    "record_type": "source_located_lead",
+    "saved_status": "ROOT_ACCEPTED_QUALIFIED_CHRONICLE_SOURCE_LOCATED_LEAD_NOT_CANDIDATE_PENDING_GUARDED_REGISTRATION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-kasakudi-kodukolli-prior-owner-rights-grant",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE64",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-wilson-late-woodland-violence-settlement-pattern",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_QUALIFIED_REGIONAL_SOURCE_LOCATED_LEAD_PENDING_GUARDED_REGISTRATION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-conner-hadley-mccraney-sny-habitation",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_QUALIFIED_REGIONAL_SOURCE_LOCATED_LEAD_PENDING_GUARDED_REGISTRATION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-rock-island-qualified-defensive-refuge",
+    "record_type": "source_located_lead",
+    "saved_status": "MAIN_ACCEPTED_QUALIFIED_ROCK_ISLAND_SOURCE_LOCATED_LEAD_PENDING_GUARDED_REGISTRATION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-nepal-manadeva-malla-city-reported-conquest",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE65",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-udayendiram-no74-expropriative-village-rights-grant",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE66",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-udayendiram-no74-reported-vishnuraja-district-subjection",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE67",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-jebel-sahaba-recurrent-violence-land-outcome-question",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_VIOLENT_INJURY_LEAD_LAND_OUTCOME_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-duckfoot-burned-homes-departure",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_DUCKFOOT_RESIDENCE_LOSS_CAUSE_AND_CONTROL_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-chilula-wiyot-lower-mad-river-encroachment",
+    "record_type": "source_located_lead",
+    "saved_status": "ROOT_SOURCE_ACCEPTED_DISTINCT_LOCATED_LEAD_PROPOSED_FOR_REGISTRATION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-tlingit-reported-reciprocal-war-camp-access-question",
+    "record_type": "source_located_lead",
+    "saved_status": "ROOT_SOURCE_ACCEPTED_LOCATED_REPORTED_WAR_CAMP_ACCESS_QUESTION_PROPOSED_FOR_REGISTRATION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-hathigumpha-pithumda-reported-town-ploughing",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE68",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-sena-guttaka-reported-kingdom-takeover",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE69",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-elara-reported-kingdom-takeover",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE70",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-mahanaga-reported-household-flight",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_ARCHIVE71",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-north-america-cushing-mountain-town-war-incorporation-departure",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE72",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-north-america-cushing-winter-clan-armed-valley-settlement",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE73",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-north-america-cushing-hanhlipinkya-evacuation-origin-lead",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_ORIGIN_LEAD_NOT_CANDIDATE",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-alaska-denbigh-displacement-or-replacement",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_QUALIFIED_TRACE_QUESTION_NOT_CANDIDATE",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-alaska-ipiutak-replacement-warfare-link",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_QUALIFIED_TRACE_QUESTION_NOT_CANDIDATE",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-lotuho-overrun-tekidi",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-luo-forays-baar",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-proto-dodo-toposa",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-korwakol-jie-rengen-poet",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-proto-karimojong-okii-iteso-iworopom",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-paluoland-integration-persecution-exodus",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-mawanda-new-territories",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-junju-buddu-annexation",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-junju-kooki-tribute",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-kamanya-buwekula",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-bunyoro-grazing-land-to-buganda",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-gisaka-buganza-bwanacyambwe",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-ruganzu-ndori-reoccupation-expansion",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-rwanda-eighteenth-century-western-expansion",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-bugesera-partition",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-baganwa-bugesera-royal-flight",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-bukerebe-capital-island-refuge",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-rwanda-gikingi-clientship-control",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-cyirima-rugwe-bongera-lands",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-nyoro-two-rwandan-royal-flights",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-pakwac-pawir-refuge-influx-and-control-dispute",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-daca-abok-koc-political-fragmentation",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-jaki-extension-and-terego-acceptance",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-padhola-south-east-land-gains",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-busoga-ruling-clans-and-shrine-takeovers",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-paluo-and-related-incorporation-of-small-units",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-older-clan-principality-absorption",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-koten-magos-broad-merger-or-retreat",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-buzinza-succession-war-territorial-separation",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_CANDIDATE_HYPOTHESIS_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-younger-men-emigration-under-gerontocracy",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-great-lakes-buganda-centralization-exile",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-middle-ganges-agrarian-territorial-transition",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-brahman-settlement-agrarian-incorporation",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-pala-territorial-expansion",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE74",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-sena-varman-vikrampur-rule-change",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE75",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-court-connected-agricultural-grants",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-lakshmana-sena-great-gift-land-grant",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-seventh-century-sylhet-grant",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-chandra-sylhet-grant-settlement",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-bhagirathi-hooghly-grants-tax-redirection",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_LEAD_NOT_ADMISSION",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-eaton-ch1-nudiya-capture-lakshmana-retainer-flight",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACTUAL_INACTIVE_SOURCE_ONLY_ARCHIVE76",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-driftless-villages-departure-coalescence",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_REGIONAL_RESEARCH_LEAD_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-hochunk-wisconsin-reported-removal-1840s",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-khalaji-lakhnauti-reported-transport-residence-order",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-habashi-reported-recruitment-importation-service",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-afghan-refugee-reported-land-town-endowments",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-husain-shah-reported-kamata-kamrup-annexation",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-south-asia-bengal-deva-coin-inferred-control-question",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_REGIONAL_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-firuz-reported-temporary-pandua-control",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-mulberry-creek-contested-use",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-american-bottom-settlement-relocation",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-1pi61-attributed-captivity",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_REPORTED_CANDIDATE_HYPOTHESIS_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-windover-injury-raid-process",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-cherry-injury-massacre-process",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-peter-enclosure-use",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-middle-woodland-settlement-concentration",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-south-asia-chola-temple-village-staff-watchman-orders",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-owasco-defensive-relocation-coalescence",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-algonquian-seasonal-camp-relocation-under-raids",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-susquehannock-reported-pennsylvania-maryland-forced-departure",
+    "record_type": "candidate",
+    "saved_status": "CANDIDATE_UNADMITTED_SOURCE_REPORTED_HYPOTHESIS",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-huron-petun-defeat-residence-incorporation",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-neutral-defeat-land-residence-control",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-erie-defeat-land-residence-control",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-point-peninsula-incoming-displacement-model",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_DISPUTED_MODEL_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-south-asia-kalaka-narrative-captivity-rule",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_GENRE_QUALIFIED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-south-asia-thomas-narrative-forced-residence",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_GENRE_QUALIFIED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-lower-indus-ruler-expulsion-sequence",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_ADMIN_LINK_TO_ACCEPTED_INACTIVE_SOURCE_ONLY_ARCHIVE77",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-south-asia-ayasia-kamuia-land-grant-budhila",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_GENRE_QUALIFIED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  }
+],
   "source_status_note": "Saved source status text can predate a later workflow step. Saved admission flags describe archive workflow. They do not certify that a reported event took place.",
   "selected_local_roster": {
     "cases": 565,
@@ -18257,17 +18285,16 @@
     "public": false
   },
   "public_source_list": {
+  "source_notes": 224,
+  "map_notes": 151,
+  "RSS_posts": 44,
+  "scope": "Same grouped static release as this R9 snapshot; prepared local atlas is not live.",
+  "before_this_release": {
     "source_notes": 220,
     "map_notes": 151,
-    "RSS_posts": 43,
-    "scope": "Same consolidated release as this R8 snapshot.",
-    "before_this_release": {
-      "source_notes": 213,
-      "map_notes": 151,
-      "RSS_posts": 42,
-      "source_note_publication_date": "2026-10-16T01:06:05.358994+00:00"
-    }
-  },
+    "RSS_posts": 43
+  }
+},
   "current_external_frame": {
     "workflow_objects": 365,
     "OPEN_question_views": 730,
@@ -18428,4 +18455,46 @@
       }
     ]
   }
+,
+"r9_lineage_and_public_boundary": {
+  "prior_version": "p7-r8-current-source-snapshot",
+  "prior_report_date": "2026-10-15",
+  "prior_bound_UTC": "2026-10-16T03:48:33.911355+00:00",
+  "prior_report": {
+    "path": "maintenance/public_discovery_northeast_sirkap_r8_20261016_v1/stage/discovery/report.json",
+    "bytes": 521841,
+    "sha256": "5c5f54899e93b4fee793f2c79ab6f2184e4742a93924af548b4d1c3da1749b04"
+  },
+  "prior_counts": [
+    226,
+    76,
+    105,
+    324,
+    220,
+    151,
+    43
+  ],
+  "current_source_adoption": {
+    "path": "maintenance/work_loop_progress_20261006_1377/COMBINED_ADOPTION.json",
+    "bytes": 2046,
+    "sha256": "380ee0ab2add58235e6ddac9d55aa4fab8ca169ef172d55629a70094712b7674"
+  },
+  "current_source": [
+    230,
+    77,
+    107,
+    332
+  ],
+  "live_atlas": [
+    540,
+    552
+  ],
+  "prepared_local_atlas": [
+    565,
+    579
+  ],
+  "P2_steering": false,
+  "controlled_macroregion_coverage": "INCOMPLETE_NOT_GLOBAL_CLOSURE",
+  "scope_note": "This is a dated source update. R8 remains the prior dated snapshot. Source and archive workflow progress does not establish all events or complete a region. The prepared local atlas is not live."
+}
 }

@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-northeast-sirkap-source220-r8-rss43",
+  "version": "20261016-lower-indus-source224-r9-rss44",
   "reviewed_on": "2026-10-14",
   "entries": [
     {
@@ -925,6 +925,17 @@
       ]
     },
     {
+      "id": "ledger-570071662c3b6822a8d6",
+      "name": "Kalaka tale of capture and rule",
+      "place_and_era": "Ujjain and Malwa. The tale has no known date.",
+      "attested": "Puri relates a Jaina tale. A king abducts the sister of Kalaka. Saka forces then attack and capture the king. The tale also describes later changes in rule.",
+      "unknown": "This is a tale with several acts. The chapter does not establish that each act took place. It does not trace one group through all the acts.",
+      "next_step": "Assess the distinct acts in the tale and their land or residence effects. Keep its genre and unknown date clear.",
+      "sources": [
+        "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
+      ]
+    },
+    {
       "id": "ledger-f6e92810000e36401439",
       "name": "Kasakudi village grant",
       "place_and_era": "Kodukolli, southern India; regnal year stated, calendar date unknown",
@@ -1048,6 +1059,17 @@
       "next_step": "Find which rights the gift changed in practice. A rights loss does not require eviction.",
       "sources": [
         "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#s1.1.2"
+      ]
+    },
+    {
+      "id": "ledger-36377910f01279b412f0",
+      "name": "Land gift from Ayasia Kamuia to the monk Budhila",
+      "place_and_era": "Mathura. The grant has no adopted event date.",
+      "attested": "Puri reports a land gift by Ayasia Kamuia to the monk Budhila. He also describes a stupa and a monastery.",
+      "unknown": "The source does not show a loss of prior rights or a forced move. A named origin for Budhila does not prove that he arrived.",
+      "next_step": "Assess what the land gift changed in use or control. Keep prior rights, force and actual residence open.",
+      "sources": [
+        "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
       ]
     },
     {
@@ -1569,6 +1591,18 @@
       ]
     },
     {
+      "id": "ledger-7eee3a57cb718671a448",
+      "name": "Princes who lost control at Minnagara",
+      "place_and_era": "Minnagara, an inland city in the report. Its modern site and the dates of the acts are unknown.",
+      "attested": "Schoff translates a report in the Periplus. It says Parthian princes at Minnagara drove one another out. This describes a repeated loss of rule.",
+      "unknown": "The text does not name each prince or date each act. It does not show physical removal of princes or residents. Schoff proposes dates and sites in later notes.",
+      "next_step": "The source review and first assessment are complete. Keep this record inactive. The fate of the residents remains unknown.",
+      "sources": [
+        "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf",
+        "https://en.wikisource.org/wiki/Page:The_Periplus_of_the_Erythr%C3%A6an_Sea.djvu/47"
+      ]
+    },
+    {
       "id": "ledger-747d2ecc2a7e9cbe4c59",
       "name": "Qasr Ibrim capture and occupation",
       "place_and_era": "Qasr Ibrim, Egypt; 1172",
@@ -1724,10 +1758,12 @@
       "id": "ledger-57d68a3a88a4a14923b0",
       "name": "Saka pressure and lower Indus movement",
       "place_and_era": "Lower Indus; ancient source context",
-      "attested": "Puri describes pressure, movement, and Saka entry into the lower Indus.",
-      "unknown": "The account does not show a specific forced process or outcome for an occupied tract.",
-      "next_step": "Separate the moves and test each for a defined land or residence outcome.",
-      "sources": []
+      "attested": "Puri reports that a Parthian barrier forced Saka groups toward the lower Indus. He describes other routes and later arrivals too.",
+      "unknown": "The account does not show that residents lost their land. It does not prove one group followed each route or stayed there permanently.",
+      "next_step": "Assess the reported forced move as a bounded claim. Keep the other routes and the fate of prior residents open.",
+      "sources": [
+        "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
+      ]
     },
     {
       "id": "ledger-bb3f5be8a3b0fe992d9e",
@@ -1962,6 +1998,17 @@
       "next_step": "This is a candidate for study. Resolve the unit and its limits before any case assessment.",
       "sources": [
         "https://www.maktaba.org/download/file/1154/General_history_of_africa_-_volume_5_-_africa_from_the_sixteenth_to_the_eighteenth_century_Bethwell_allan_ogot_editor.pdf"
+      ]
+    },
+    {
+      "id": "ledger-787004bfa3ccba71a2be",
+      "name": "Thomas tale of sale and forced court stay",
+      "place_and_era": "Syria and the court of Gondophares. The precise court site is unknown.",
+      "attested": "Puri relates a tale in which a merchant buys Thomas in Syria and takes him to a royal court. He also reports a forced stay.",
+      "unknown": "Puri calls these accounts legends. A match with the dates of a ruler does not prove that the sale, trip or forced stay took place.",
+      "next_step": "Assess the claims in the source about sale, travel and court residence. Do not infer a precise court site from the tale.",
+      "sources": [
+        "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
       ]
     },
     {
@@ -3902,5 +3949,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "This update adds seven source notes. It also updates the Sirkap source note. All other earlier notes are unchanged."
+  "update_scope": "Four new source notes and a revised Saka note. The Minnagara record remains inactive. These changes add no atlas case."
 }

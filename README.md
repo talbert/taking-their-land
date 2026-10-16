@@ -1,14 +1,10 @@
 # Taking their land
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23410512.svg)](https://doi.org/10.5281/zenodo.23410512)
-
 A chronological atlas of documented land-taking and forced removal, with a
 working monograph and versioned research data. By Craig Talbert.
 
-This repository is initially private while preparation continues. It contains
-a clean snapshot of the material already distributed on the project website,
-not the private research repository or its history. Making this repository
-public is a separate owner decision.
+This public repository holds a clean snapshot of the project website.
+It does not include the private research repository or its history.
 
 ## What is here
 
@@ -69,10 +65,13 @@ credentials, and scratch files are excluded. The monograph PDF is the
 project's own licensed document, not a copied research source.
 
 Suggested citation: Craig Talbert. 2026. *Taking their land: A chronological
-atlas of settlement and displacement*. Snapshot 20261006e, statistical release
-second_pass_v7_676. Zenodo. https://doi.org/10.5281/zenodo.23410512 (this snapshot);
-https://doi.org/10.5281/zenodo.23410511 (all archived snapshots). Identify the atlas build or
-statistical release used, and the access date.
+atlas of settlement and displacement*. Identify the atlas build or statistical
+release used, and the access date. Archived site snapshots use
+[DOI 10.5281/zenodo.23410511](https://doi.org/10.5281/zenodo.23410511).
+The first archived version is build `20261006e`, release `second_pass_v7_676`:
+[DOI 10.5281/zenodo.23410512](https://doi.org/10.5281/zenodo.23410512).
+The [repository](https://github.com/talbert/taking-their-land) has the current
+public snapshot. Later commits do not change the archived version.
 
 [Project website](https://latrian.dyndns.org/takingtheirland/)
 
@@ -80,7 +79,7 @@ statistical release used, and the access date.
 
 Each export must come from a verified publication bundle and retain its
 snapshot identifiers. Do not overwrite a frozen statistical release with
-unpromoted corrections. Review the full export, history and licenses before
-changing visibility. Each GitHub release of this repository is archived automatically by Zenodo
-and receives a version DOI; tag a release only for a frozen statistical
-release.
+unpromoted corrections. Each refresh is a new commit after live checks pass.
+The snapshot export omits the private research history and source captures.
+Zenodo archives published GitHub releases. Create a release only for a frozen
+statistical release. Ordinary site updates get no release tag or new DOI.
