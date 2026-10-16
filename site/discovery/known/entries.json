@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-tlingit-bhir-source237-r13-rss48",
+  "version": "20261016-sonpur-north-america-source241-r14-rss49",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -504,16 +504,17 @@
     ]
   },
   {
-    "id": "ledger-026750d0c4180cf51c29",
-    "name": "Crow Creek attack and residence loss",
-    "place_and_era": "Crow Creek; fourteenth-century occupation context, attack date unknown",
-    "attested": "A state site guide describes an attack on residents and separately reports burned lodges.",
-    "unknown": "The guide does not link those fires to the attack or show a defined loss of home.",
-    "next_step": "Resolve the attack, fire, and site-use links before residence loss becomes an atlas case.",
-    "sources": [
-      "https://history.sd.gov/docs/Educational%20Series%208.pdf"
-    ]
-  },
+      "id": "ledger-026750d0c4180cf51c29",
+      "name": "Crow Creek attack and residence loss",
+      "place_and_era": "Crow Creek. The source places village life in the 1300s. The date of the attack remains unknown.",
+      "attested": "Dye describes an attack on people at Crow Creek. Some people apparently fled. Bodies remained exposed before survivors or neighbors buried them.",
+      "unknown": "The link between the fires and the attack remains unclear. The later use of the village and the burial party remain uncertain.",
+      "next_step": "Assess the attack and its effects on home use. Keep the fire dates and final fate of the village unresolved.",
+      "sources": [
+        "https://history.sd.gov/docs/Educational%20Series%208.pdf",
+        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
+      ]
+    },
   {
     "id": "ledger-51cb6252a7af835bf828",
     "name": "Daur removal from the Amur",
@@ -2586,6 +2587,50 @@
       "sources": [
         "https://www.gutenberg.org/cache/epub/78871/pg78871-images.html#story_29"
       ]
+    },
+{
+    "id": "ledger-d1c681dd4f95a13692bc",
+    "name": "Reported loss of village rights in Sonpur",
+    "place_and_era": "12 villages in Sonpur. The date of the loss remains unknown. The 1831 grievances give context, not an exact date.",
+    "attested": "Dalton reports that a royal grant holder gave the 12 villages to Sikh farmers. Singrai Manki lost his village rights and control.",
+    "unknown": "The source does not establish that all residents left. The full village list, land title and duration of the loss remain unknown. The original deposition remains unread.",
+    "next_step": "Keep this reported loss of village rights as one research record. Seek evidence about the date and effects on residents.",
+    "sources": [
+      "https://archive.org/details/EthnologyOfBengal"
+    ]
+  },
+{
+      "id": "ledger-91875473edb31181d9e7",
+      "name": "Reported loss of homes in eastern Wisconsin",
+      "place_and_era": "Eastern Wisconsin. The source gives regional dates up to AD 1300. Dates for each act remain unknown.",
+      "attested": "Dye reports that Oneota groups drove local groups out or absorbed them. He reports later Oneota control of eastern Wisconsin.",
+      "unknown": "The cause of the Aztalan departure remains uncertain. The account does not establish the fate of each group.",
+      "next_step": "Assess the reported loss of homes or control as one event. Keep the earlier Cahokia-linked settlement at Aztalan separate.",
+      "sources": [
+        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
+      ]
+    },
+{
+      "id": "ledger-1afc4ed029b55df8e03c",
+      "name": "Flight and return at Norris Farms",
+      "place_and_era": "Norris Farms 36 in the Illinois River valley. The source places village life around AD 1300. Dates of each attack remain unknown.",
+      "attested": "Dye reports repeated attacks on the village. People who escaped left and returned later. The attacks interrupted their use of the village.",
+      "unknown": "The place of each attack and the attackers remain unknown. Dye leaves the burial party unclear. He does not establish permanent loss of the village.",
+      "next_step": "Assess this attack-linked flight and return as one event. Do not infer permanent removal or a new owner.",
+      "sources": [
+        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
+      ]
+    },
+{
+      "id": "ledger-57cd72cbd1ca7c911ba8",
+      "name": "People left Etowah. An attack is one possible cause.",
+      "place_and_era": "Etowah center, North America. Dye places its abandonment by the end of the fourteenth century. This does not date an attack.",
+      "attested": "Dye reports that people abandoned Etowah. He gives a severe attack as one possible cause.",
+      "unknown": "The cause remains unclear. Who left, where they went and who later held the site remain unknown.",
+      "next_step": "Examine the proposed attack link. Compare other causes for why people left.",
+      "sources": [
+        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
+      ]
     }
 ],
   "cases_awaiting_map_locations": [
@@ -4101,5 +4146,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "One Tlingit fort note covers a reported attack and capture. The date and modern site remain unknown. The broad war note stays separate. The Bhir sack and fire link remains uncertain."
+  "update_scope": "Four new research notes cover Sonpur, eastern Wisconsin, Norris Farms and Etowah. The Crow Creek note keeps the fire link and later village use uncertain."
 }

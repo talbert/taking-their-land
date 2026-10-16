@@ -1,9 +1,9 @@
 {
   "schema": "taking-land-public-discovery-status-v1",
-  "version": "p7-r13-current-source-snapshot",
+  "version": "p7-r14-current-source-snapshot",
   "status": "BOUNDED_DATED_SEARCH_SNAPSHOT",
   "publication": null,
-  "as_of_utc": "2026-10-16T20:13:47.660351+00:00",
+  "as_of_utc": "2026-10-16T22:59:51.403716+00:00",
   "known_roster": {
   "cases": 540,
   "stops": 552,
@@ -16477,16 +16477,16 @@
   ],
   "report_date_local": "2026-10-16",
   "timezone": "America/Denver",
-  "bound_checkpoint": 1543,
+  "bound_checkpoint": 1565,
   "external_ledger": {
-  "records": 243,
+  "records": 247,
   "types": {
-    "candidate": 140,
+    "candidate": 144,
     "control": 2,
     "source_located_lead": 97,
     "search_lead": 4
   },
-  "workflow_admissions": 79,
+  "workflow_admissions": 80,
   "workflow_unit": "source-only inactive archive record; not established execution or public admission",
   "scientific_activations": 0,
   "unique_history_count": "UNASSESSED",
@@ -16494,7 +16494,7 @@
   "unique_candidates_outside_frozen_roster": "UNASSESSED"
 },
   "population_index": {
-  "version": 116,
+  "version": 120,
   "current_inventory_counts": {
     "population_records": 195,
     "population_event_edges": 369,
@@ -16504,10 +16504,10 @@
     "intake_name_leads_fully_dispositioned": 409,
     "intake_name_leads_partially_dispositioned": 38,
     "intake_name_leads_not_yet_processed": 1911,
-    "external_ledger_records": 243,
+    "external_ledger_records": 247,
     "isolated_admission_workflow": 78,
     "scientific_activations": 0,
-    "external_per_record_question_envelopes_unresolved": 358,
+    "external_per_record_question_envelopes_unresolved": 366,
     "standalone_cohort_history_questions_unresolved": 28,
     "external_name_leads_v40_tranche": 2,
     "external_name_question_views_v40_tranche": 4,
@@ -16526,70 +16526,65 @@
   "intake_is_discovery_denominator": false,
   "name_leads_are_populations": false,
   "workflow_resolves_history": false,
-  "event_questions_unresolved": 358,
+  "event_questions_unresolved": 366,
   "cohort_questions_unresolved": 28,
   "source_phase_question_views": 24,
   "question_views_independent_or_additive": false,
   "current_selector_workflow": [
-    243,
-    79
+    247,
+    80
   ],
   "dated_body_workflow_count": 78,
   "ancestral_workflow_binding": {
-    "path": "maintenance/discovery_repair_20261003/scientific_admissions/bhir_reported_sack_archival79_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
-    "bytes": 5533,
-    "sha256": "b57aaf3a539783da00122a578c2d5e78d4f35b8fff7d1107890c90d0af7390d4"
+    "path": "maintenance/discovery_repair_20261003/scientific_admissions/sonpur_singrai_rights_loss_archival80_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
+    "bytes": 5639,
+    "sha256": "2b466a897a79e75c3c69371260ab57343bcfeabad06150900e24c397f8b1611f"
   },
   "current_root_binding": {
     "artifact": {
-      "path": "maintenance/discovery_repair_20261003/ledger_successors/tlingit_murrelet_reported_fort_loss_v116_20261016_v1/outputs/first/candidate_ledger.json",
-      "bytes": 7628311,
-      "sha256": "5770803f6dbf1450149b0103d82b9e0c214206877bde4a65df0bfcfe28de5478"
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/etowah_midsouth_context_v120_20261016_v1/outputs/first/candidate_ledger.json",
+      "bytes": 7676575,
+      "sha256": "0b0b4ef6f4006d3d0ff1be48eb73deeac0b9bcf7aa96dc4f6222a2f711234508"
     },
-    "ledger_records": 243,
-    "current_workflow_count": 79,
-    "selector_version": 116,
-    "unresolved_external_question_envelopes": 358,
+    "ledger_records": 247,
+    "current_workflow_count": 80,
+    "selector_version": 120,
+    "unresolved_external_question_envelopes": 366,
     "base_body_workflow_snapshot": 78,
     "base_body_selector": 114,
-    "parent_selected_selector": 115,
+    "parent_selected_selector": 119,
     "base_archival_workflow_binding": {
-      "path": "maintenance/discovery_repair_20261003/scientific_admissions/bhir_reported_sack_archival79_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
-      "bytes": 5533,
-      "sha256": "b57aaf3a539783da00122a578c2d5e78d4f35b8fff7d1107890c90d0af7390d4"
-    },
-    "actual_archival_adoption": {
-      "path": "maintenance/work_loop_progress_20261006_1540/bhir79_application/COMBINED_ADOPTION.json",
-      "bytes": 2415,
-      "sha256": "0eed6939e5265c75a7570eaea6dac8f6bdbda81303857f14b2038f721cff03b1"
+      "path": "maintenance/discovery_repair_20261003/scientific_admissions/sonpur_singrai_rights_loss_archival80_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
+      "bytes": 5639,
+      "sha256": "2b466a897a79e75c3c69371260ab57343bcfeabad06150900e24c397f8b1611f"
     },
     "parent_ledger": {
-      "path": "maintenance/discovery_repair_20261003/scientific_admissions/bhir_reported_sack_archival79_combined_20261016_v1/outputs/first/source/candidate_ledger.json",
-      "bytes": 7616566,
-      "sha256": "07d2bdae1b82ace2ae5eac100c41fc7531531484b54a13b84b0a161cee021fa2"
+      "path": "maintenance/discovery_repair_20261003/scientific_admissions/sonpur_singrai_rights_loss_archival80_combined_20261016_v1/outputs/first/source/candidate_ledger.json",
+      "bytes": 7665978,
+      "sha256": "5cd0102d1cb7c9374f3efe0a68f6d7029b9734b8090531eba99d9a15d47eb05c"
     },
     "parent_index": {
-      "path": "maintenance/discovery_repair_20261003/ledger_successors/bhir_two_source_questions_v114_20261016_v1/outputs/first/CONSOLIDATED_POPULATION_INDEX.json",
-      "bytes": 42320080,
-      "sha256": "6b30063e6dd92768520ab3f6e4c02d6cdb84da225da421b7887df77596d8f9ae"
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/upper_midwest_two_candidates_crow_creek_v118_20261016_v1/outputs/first/CONSOLIDATED_POPULATION_INDEX.json",
+      "bytes": 42334755,
+      "sha256": "de4298789eb4fba6f4e2dead3b99ac5e90f8016dedd1f65f1ababe7e8f5c5939"
     },
     "Root_Main": {
-      "path": "maintenance/work_loop_progress_20261006_1539/TLINGIT_UNIT_AND_OVERLAP_MAIN_ACCEPTANCE.json",
-      "bytes": 5685,
-      "sha256": "3bde1cb849072cef7469da6bbb4d63c154de03b8f044e9d831fcc92c00178927"
+      "path": "maintenance/work_loop_progress_20261006_1561/CH9_FINITE_UNIT_MAIN_ACCEPTANCE.json",
+      "bytes": 4705,
+      "sha256": "24bc0eed7c2b0c210164fc06d34930920f8a45b9199d5e8179811ab1548c7829"
     },
     "research_only": true
   },
-  "qualification": "Selector 116 binds 243 source records and 79 inactive records. The body still lists 78 from an earlier date. Version 115 lists 79 as an earlier count, not a current source census."
+  "qualification": "Selector 120 binds 247 source records and 80 inactive records. The body still lists 78 from an earlier date. The current archive count is 80. These counts do not describe active model cases."
 },
   "isolated_d10": {
-  "accepted_admissions": 79,
+  "accepted_admissions": 80,
   "accepted_admissions_unit": "inactive source-only archival profile; not independently established historical event",
   "active_statistical_admissions": 0,
   "registered_report_at": 90,
-  "remaining_to_report": 11,
-  "score_rows": 755,
-  "corpus_objects": 850,
+  "remaining_to_report": 10,
+  "score_rows": 756,
+  "corpus_objects": 851,
   "atlas_rendered_admissions": null,
   "pending_separate_atlas_authoring_or_application": null,
   "public_archive_crosswalk": "NOT_CURRENTLY_RECONCILED",
@@ -16608,22 +16603,22 @@
   },
   "prose_fields": {
   "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The local data has 566 cases and 580 stops. Its queue has 59 known ordinary cases and 64 holds. These local data are not live.",
-  "p02": "The dated public atlas has 22 flight notes. This release has 48 update posts. The atlas itself does not change.",
+  "p02": "The dated public atlas has 22 flight notes. This release has 49 update posts. The atlas itself does not change.",
   "p03": "The search matrix has 1,280 records in five states. Each state describes a bounded search.",
   "p04": "A found record has a located result. Some found records still need more source searches.",
   "p05": "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
   "p06": "A searched-empty record has no result within its checked scope. None now has that state. An empty search cannot prove that no such history took place.",
   "p07": "There are 1,229 not-yet-searched cells. Some have partial work but still need a full scope search. There are 20 cells with source or access limits. None is not-applicable.",
-  "p08": "The source ledger has 243 records. It has 140 candidates, 97 located leads, four search leads and two controls.",
+  "p08": "The source ledger has 247 records. It has 144 candidates, 97 located leads, four search leads and two controls.",
   "p09": "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
   "p10": "The current external frame has 365 entries and 730 open question views. No entry has a completed historical review in its block. This frame does not steer searches.",
-  "p11": "This release lists 237 source notes and 151 map notes. These notes do not add atlas cases or model scores.",
+  "p11": "This release lists 241 source notes and 151 map notes. These notes do not add atlas cases or model scores.",
   "p12": "The local bibliography has 1,501 works and 6,266 source uses. It has 316 open identity gaps and 41 recorded identity fixes. Passage checks are separate. These data are not live.",
-  "p13": "The archive series has 79 inactive records. These records do not establish 79 historical events. Its next report is at 90. Another 11 records reach that report.",
-  "p14": "The series has 755 profile rows and 850 corpus objects. None of its added records is in the active statistical roster.",
+  "p13": "The archive series has 80 inactive records. These records do not establish 80 historical events. Its next report is at 90. Another 10 records reach that report.",
+  "p14": "The series has 756 profile rows and 851 corpus objects. None of its added records is in the active statistical roster.",
   "p15": "The current match between archive records and public cases is unknown. The report at 90 is never an admission gate.",
-  "p16": "The index is version 116. It has 195 population records. There are 369 event links and five population links.",
-  "p17": "The index keeps 220 open records. Its 358 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
+  "p16": "The index is version 120. It has 195 population records. There are 369 event links and five population links.",
+  "p17": "The index keeps 220 open records. Its 366 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
   "p18": "The intake has 2,358 name leads. It has 409 full reviews, 38 partial reviews, and 1,911 untouched leads.",
   "p19": "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
   "p20": "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
@@ -16644,7 +16639,8 @@
   "p35": "The scope check found 16 errors in empty search claims. Those cells now need a full scope search. Three West Africa cells have scope or approval limits. These are search control changes, not new historical omissions.",
   "p36": "Old source results and partial work remain saved. This repair adds no search, case, history answer or recall credit. Overlap within a cell is a limited check. It cannot mark a search complete.",
   "p37": "Each found cell still needs scope, source and overlap checks. A limited cell needs its source or access gap resolved. A not-yet-searched cell needs a full scope search. An empty claim needs checked sources and clear bounds. A not-applicable claim needs evidence for that choice.",
-  "p38": "Selector 116 binds 243 source records and 79 inactive records. The body still lists 78 from an earlier date. Version 115 lists 79 as an earlier count, not a current source census."
+  "p38": "Selector 120 binds 247 source records and 80 inactive records. The body still lists 78 from an earlier date. The current archive count is 80. These counts do not describe active model cases.",
+  "p39": "The active model still uses 676 rows. The 80 archive records stay out of that model."
 },
   "pending_changes_not_counted": [
   "Full regional and era exposure, frame dispositions, recall and exclusion inventories",
@@ -16665,8 +16661,8 @@
     "prior_public_report": "2026-10-05T20:00:38.656033+00:00"
   },
   "source_version_labels": {
-  "current_source_ledger": "243records/workflow79",
-  "current_population_index": "v116",
+  "current_source_ledger": "247records/workflow80",
+  "current_population_index": "v120",
   "current_exposure_ledger": "52partial attempts; no new exposure from control repair",
   "matrix": "1280cells;31found/1229not-yet/20limited;no full-era two-channel flags",
   "priority_pilot": "Dated2026-10-04 diagnostic147entries; distinct current external intake365"
@@ -16700,11 +16696,11 @@
     "Early North America and South Asia are priorities. Search work still spans all regions and eras. Population frames, recall checks and reviews of empty cells have gaps. Case drafts, bibliography, flight origins, impact and world population work remain open. Audio is last."
   ],
   "current_acceptance_dates": {
-  "Source ledger and population": "2026-10-16T20:04:19.414360+00:00",
+  "Source ledger and population": "2026-10-16T22:46:11.404145+00:00",
   "Current external frame": "2026-10-14T16:05:59.759639+00:00",
-  "Inactive archive": "2026-10-16T19:43:40.109719+00:00",
+  "Inactive archive": "2026-10-16T22:11:04.678733+00:00",
   "Selected local data": "2026-10-16T12:43:56.261386+00:00",
-  "Latest public source notes": "2026-10-16T20:13:47.660351+00:00",
+  "Latest public source notes": "2026-10-16T22:59:51.403716+00:00",
   "Matrix scope control repair": "2026-10-16T00:23:55.553627+00:00",
   "Current bounded exposure": "2026-10-15T18:25:00.281241+00:00"
 },
@@ -18409,6 +18405,34 @@
     "saved_status": "CANDIDATE_REPORTED_FORT_LOSS_NOT_ADMITTED",
     "admitted": false,
     "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-norris-farms36-reported-attack-flight-return",
+    "record_type": "candidate",
+    "saved_status": "CANDIDATE_SOURCE_REPORTED_PROCESS_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-etowah-possible-attack-linked-abandonment",
+    "record_type": "candidate",
+    "saved_status": "CANDIDATE_SOURCE_OFFERED_POSSIBLE_ATTACK_ABANDONMENT_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-eastern-wisconsin-reported-oneota-departure-absorption",
+    "record_type": "candidate",
+    "saved_status": "CANDIDATE_SOURCE_REPORTED_PROCESS_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-sonpur-singrai-manki-reported-village-deprivation",
+    "record_type": "candidate",
+    "saved_status": "CANDIDATE_REPORTED_VILLAGE_RIGHTS_CONTROL_LOSS_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
   }
 ],
   "source_status_note": "Saved source status text can predate a later workflow step. Saved admission flags describe archive workflow. They do not certify that a reported event took place.",
@@ -18429,14 +18453,14 @@
   "aliases": 1414
 },
   "public_source_list": {
-  "source_notes": 237,
+  "source_notes": 241,
   "map_notes": 151,
-  "RSS_posts": 48,
-  "scope": "Dated R13 source list and report; local native data are not live.",
+  "RSS_posts": 49,
+  "scope": "Dated R14 source list and report; local native data are not live.",
   "before_this_release": {
-    "source_notes": 236,
+    "source_notes": 237,
     "map_notes": 151,
-    "RSS_posts": 47
+    "RSS_posts": 48
   }
 },
   "current_external_frame": {
@@ -18906,5 +18930,135 @@
   "archive_relations_not_current243_census": true,
   "P2_steering": false,
   "scope": "This is a dated source update. The earlier R12 report remains a dated snapshot. The local atlas data are not live. Region and era work is incomplete. Priority inputs do not direct searches."
+},
+"r14_lineage_and_public_boundary": {
+  "prior_report": {
+    "path": "maintenance/public_discovery_tlingit_bhir_r13_20261016_v1/stage/discovery/report.json",
+    "bytes": 533884,
+    "sha256": "89c989bd4fe1f31001fdf54276469127c1ea6df8ca5cba4119b4425572960876"
+  },
+  "prior_counts": [
+    243,
+    79,
+    116,
+    358,
+    237,
+    151,
+    48
+  ],
+  "current_source": [
+    247,
+    80,
+    120,
+    366
+  ],
+  "public_counts": [
+    241,
+    151,
+    49
+  ],
+  "local_counts": [
+    566,
+    580,
+    59,
+    64
+  ],
+  "public_atlas": [
+    540,
+    552,
+    74,
+    64
+  ],
+  "bibliography": [
+    1501,
+    6266,
+    1414,
+    316,
+    41
+  ],
+  "source_adoption": {
+    "path": "maintenance/work_loop_progress_20261006_1563/etowah120_application/SOURCE_ADOPTION.json",
+    "bytes": 2550,
+    "sha256": "e7996435835a2722eaa3b578f40c934e3b8f38c0b8faa9f83b930f62d97080fd"
+  },
+  "Sonpur_Main": {
+    "path": "maintenance/work_loop_progress_20261006_1557/MAIN_ACCEPTANCE.json",
+    "bytes": 5960,
+    "sha256": "756cda07e1a60af02a159d821860842a3aa325b5f62ef056f3f4b547f2fa94b8"
+  },
+  "UpperMidwest_Main": {
+    "path": "maintenance/work_loop_progress_20261006_1553/MAIN_ACCEPTANCE.json",
+    "bytes": 4439,
+    "sha256": "c9644a5fb278c8e30a303b9e1fa7802842ce0ea514be0a980766676ae34efaf2"
+  },
+  "P5_dated_body_workflow": 78,
+  "current80_workflow_binding": {
+    "path": "maintenance/discovery_repair_20261003/scientific_admissions/sonpur_singrai_rights_loss_archival80_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
+    "bytes": 5639,
+    "sha256": "2b466a897a79e75c3c69371260ab57343bcfeabad06150900e24c397f8b1611f"
+  },
+  "P5_current_root_binding": {
+    "artifact": {
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/etowah_midsouth_context_v120_20261016_v1/outputs/first/candidate_ledger.json",
+      "bytes": 7676575,
+      "sha256": "0b0b4ef6f4006d3d0ff1be48eb73deeac0b9bcf7aa96dc4f6222a2f711234508"
+    },
+    "ledger_records": 247,
+    "current_workflow_count": 80,
+    "selector_version": 120,
+    "unresolved_external_question_envelopes": 366,
+    "base_body_workflow_snapshot": 78,
+    "base_body_selector": 114,
+    "parent_selected_selector": 119,
+    "base_archival_workflow_binding": {
+      "path": "maintenance/discovery_repair_20261003/scientific_admissions/sonpur_singrai_rights_loss_archival80_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
+      "bytes": 5639,
+      "sha256": "2b466a897a79e75c3c69371260ab57343bcfeabad06150900e24c397f8b1611f"
+    },
+    "parent_ledger": {
+      "path": "maintenance/discovery_repair_20261003/scientific_admissions/sonpur_singrai_rights_loss_archival80_combined_20261016_v1/outputs/first/source/candidate_ledger.json",
+      "bytes": 7665978,
+      "sha256": "5cd0102d1cb7c9374f3efe0a68f6d7029b9734b8090531eba99d9a15d47eb05c"
+    },
+    "parent_index": {
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/upper_midwest_two_candidates_crow_creek_v118_20261016_v1/outputs/first/CONSOLIDATED_POPULATION_INDEX.json",
+      "bytes": 42334755,
+      "sha256": "de4298789eb4fba6f4e2dead3b99ac5e90f8016dedd1f65f1ababe7e8f5c5939"
+    },
+    "Root_Main": {
+      "path": "maintenance/work_loop_progress_20261006_1561/CH9_FINITE_UNIT_MAIN_ACCEPTANCE.json",
+      "bytes": 4705,
+      "sha256": "24bc0eed7c2b0c210164fc06d34930920f8a45b9199d5e8179811ab1548c7829"
+    },
+    "research_only": true
+  },
+  "archive_relations_not_current247_census": true,
+  "active_model_rows": 676,
+  "active_regional_rows": 676,
+  "active_date_rows": 627,
+  "P2_steering": false,
+  "new_channels": 0,
+  "local_only_Ahom_Buryat": {
+    "Ahom": {
+      "accepted_local_installed": true,
+      "public_installed": false,
+      "adoption": {
+        "path": "maintenance/work_loop_progress_20261006_1428/ahom_native_application/NATIVE_ADOPTION.json",
+        "bytes": 3064,
+        "sha256": "a7682480171c893739138faa8a4f35d0043061f5bee5a5bb2a6bed9da3b5d39a"
+      }
+    },
+    "Buryat": {
+      "accepted_local_installed": true,
+      "public_installed": false,
+      "status": "ACCEPTED_LOCAL_NOT_PUBLIC",
+      "adoption": {
+        "path": "maintenance/work_loop_progress_20261006_1469/buryat_native_application/NATIVE_ADOPTION.json",
+        "bytes": 3281,
+        "sha256": "6e1ffa3ec90a3e7535bd8ab1579aa398ab61297e521f8a11b8d91a0c133e144c"
+      }
+    }
+  },
+  "scope": "This is a dated source update. The earlier R13 report remains a dated snapshot. The local atlas data are not live. Region and era work is incomplete. Priority inputs do not direct searches."
 }
 }
