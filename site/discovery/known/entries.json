@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-pushkalavati-alaska-source234-r11-rss46",
+  "version": "20261016-bhir-source236-r12-rss47",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2551,7 +2551,31 @@
     "sources": [
       "https://archive.org/download/siyukibuddhistre01hsuoft/siyukibuddhistre01hsuoft_bw.pdf#page=243"
     ]
-  }
+  },
+{
+      "id": "ledger-88343299699785d4e1a2",
+      "name": "Bhir lane walls and public access",
+      "place_and_era": "Small lanes at Bhir Mound, Taxila, with the west end of Lane 2 as an example. The date remains unknown.",
+      "attested": "Marshall says cross-walls closed some small lanes and stopped public shortcuts. He thought those lanes seemed to belong to the houses beside them.",
+      "unknown": "The prior public right and any change in that right remain unknown. The account does not name who put up the walls or establish force, conflict or loss of homes.",
+      "next_step": "Assess whether the lane barrier took a prior right of public access. Keep the described barrier distinct from a proved loss of rights. The cause of the closure remains unknown.",
+      "sources": [
+        "https://archive.org/details/dli.ministry.27295",
+        "https://archive.org/details/dli.pahar.2954"
+      ]
+    },
+{
+      "id": "ledger-6d6fe65ac58294e8036c",
+      "name": "Bhir sack and possible loss of use",
+      "place_and_era": "The West Group at Bhir Mound, Taxila. Marshall places the sack in the early second century BCE. The date remains unassigned here.",
+      "attested": "Marshall reports that Bactrian Greeks sacked the city. He thinks the West Group buildings probably burnt at that time. He saw no sign of later buildings there.",
+      "unknown": "The link between the sack and fire remains uncertain. Fire alone does not show who caused it or what happened to residents. The end of use does not prove permanent loss.",
+      "next_step": "Assess the reported sack and possible end of use of this tract. Keep the cause of the fire uncertain. Compare the scope with the related Taxila records.",
+      "sources": [
+        "https://archive.org/details/dli.ministry.27295",
+        "https://archive.org/details/dli.pahar.2954"
+      ]
+    }
 ],
   "cases_awaiting_map_locations": [
     {
@@ -4066,5 +4090,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "One new source note covers a report of lost rule at Pushkalavati. Two Alaska notes have more site context. These changes add no atlas case."
+  "update_scope": "Two Bhir notes cover a reported sack and walls that blocked lanes. The fire link and loss of prior public rights remain uncertain. These research notes add no atlas case."
 }
