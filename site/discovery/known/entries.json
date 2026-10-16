@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-bhir-source236-r12-rss47",
+  "version": "20261016-tlingit-bhir-source237-r13-rss48",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -1771,16 +1771,16 @@
     ]
   },
   {
-    "id": "ledger-e7b29a2d5ccff72ed28a",
-    "name": "Reported war and camp access on the Alaska coast",
-    "place_and_era": "The Alaska coast. The date of the reported events is unknown.",
-    "attested": "A published oral account reports raids, forced capture, and destroyed camps and property. It also reports freer use of places to camp.",
-    "unknown": "The account includes spirit stories. It does not fix a date or show a land title change. The event to assess remains unresolved.",
-    "next_step": "Use the accepted account to define one reported event. Keep the acts of each side distinct, along with what changed for people or camps.",
-    "sources": [
-      "https://www.gutenberg.org/cache/epub/78871/pg78871-images.html#story_29"
-    ]
-  },
+      "id": "ledger-e7b29a2d5ccff72ed28a",
+      "name": "Reported war and camp access on the Alaska coast",
+      "place_and_era": "The Alaska coast. The date of the reported events is unknown.",
+      "attested": "A published oral account reports raids, forced capture, and destroyed camps and property. It also reports freer use of places to camp.",
+      "unknown": "The account includes spirit stories. It does not fix a date or show a land title change. The event to assess remains unresolved.",
+      "next_step": "The Murrelet-point fort attack has a separate child record. The other war events still need review. Keep each side and its acts distinct.",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/78871/pg78871-images.html#story_29"
+      ]
+    },
   {
     "id": "ledger-2d63e04513169c7c99a7",
     "name": "Return-exclusion decision",
@@ -2565,15 +2565,26 @@
       ]
     },
 {
-      "id": "ledger-6d6fe65ac58294e8036c",
-      "name": "Bhir sack and possible loss of use",
-      "place_and_era": "The West Group at Bhir Mound, Taxila. Marshall places the sack in the early second century BCE. The date remains unassigned here.",
-      "attested": "Marshall reports that Bactrian Greeks sacked the city. He thinks the West Group buildings probably burnt at that time. He saw no sign of later buildings there.",
-      "unknown": "The link between the sack and fire remains uncertain. Fire alone does not show who caused it or what happened to residents. The end of use does not prove permanent loss.",
-      "next_step": "Assess the reported sack and possible end of use of this tract. Keep the cause of the fire uncertain. Compare the scope with the related Taxila records.",
+    "id": "ledger-6d6fe65ac58294e8036c",
+    "name": "Bhir sack and possible loss of use",
+    "place_and_era": "The West Group at Bhir Mound, Taxila. Marshall places the sack in the early second century BCE. The date remains unassigned here.",
+    "attested": "Marshall reports that Bactrian Greeks sacked the city. He thinks the West Group buildings probably burnt at that time. He saw no sign of later buildings there.",
+    "unknown": "The link between the sack and fire remains uncertain. Fire alone does not show who caused it or what happened to residents. The end of use does not prove permanent loss.",
+    "next_step": "Keep this reported sack and probable end of use as a separate research record. Seek evidence about the date and residents.",
+    "sources": [
+      "https://archive.org/details/dli.ministry.27295",
+      "https://archive.org/details/dli.pahar.2954"
+    ]
+  },
+{
+      "id": "ledger-43973b3098dfa0944355",
+      "name": "Reported loss of Murrelet-point fort",
+      "place_and_era": "Murrelet-point fort in a Tlingit oral account. Its modern site and the date of the attack remain unknown.",
+      "attested": "The account says a southern war party destroyed the fort and captured women there. A captive woman then named another town. That next attack is a separate event.",
+      "unknown": "The account includes spirit stories. The modern groups and the number of captives remain unknown. It does not show a permanent loss of land or a change in title.",
+      "next_step": "Assess this reported fort loss as one event. Keep the other war events separate. Preserve the unknown date and the limits of the oral account.",
       "sources": [
-        "https://archive.org/details/dli.ministry.27295",
-        "https://archive.org/details/dli.pahar.2954"
+        "https://www.gutenberg.org/cache/epub/78871/pg78871-images.html#story_29"
       ]
     }
 ],
@@ -4090,5 +4101,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "Two Bhir notes cover a reported sack and walls that blocked lanes. The fire link and loss of prior public rights remain uncertain. These research notes add no atlas case."
+  "update_scope": "One Tlingit fort note covers a reported attack and capture. The date and modern site remain unknown. The broad war note stays separate. The Bhir sack and fire link remains uncertain."
 }

@@ -981,6 +981,29 @@
   ],
   "occurred_at": "2026-10-16T17:55:57.196635Z",
   "published_at": "2026-10-16T18:01:38.390195Z"
+},
+{
+  "id": "2026-10-16-tlingit-fort-research-note",
+  "title": "A reported Tlingit fort loss",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "A published Tlingit oral account reports an attack on Murrelet-point fort and the capture of women there. This fort loss now has a separate research note. The broad war account stays separate.",
+    "The date, modern site and modern groups remain unknown. The account does not set a date before 1000. This note does not confirm the event through an independent source.",
+    "The Bhir note still treats the reported sack and probable fire link as uncertain. These research notes add no atlas case or model score."
+  ],
+  "links": [
+    {
+      "label": "Read the source notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the dated search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-16T20:04:19.414360Z",
+  "published_at": "2026-10-16T20:13:47.660351Z"
 }
   ]
 }
