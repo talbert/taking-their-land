@@ -1,5 +1,7 @@
 # Taking their land
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23410512.svg)](https://doi.org/10.5281/zenodo.23410512)
+
 A chronological atlas of documented land-taking and forced removal, with a
 working monograph and versioned research data. By Craig Talbert.
 
@@ -67,9 +69,10 @@ credentials, and scratch files are excluded. The monograph PDF is the
 project's own licensed document, not a copied research source.
 
 Suggested citation: Craig Talbert. 2026. *Taking their land: A chronological
-atlas of settlement and displacement*. Identify the atlas build or statistical
-release used, and the access date. No archival DOI has been issued for this
-snapshot yet.
+atlas of settlement and displacement*. Snapshot 20261006e, statistical release
+second_pass_v7_676. Zenodo. https://doi.org/10.5281/zenodo.23410512 (this snapshot);
+https://doi.org/10.5281/zenodo.23410511 (all archived snapshots). Identify the atlas build or
+statistical release used, and the access date.
 
 [Project website](https://latrian.dyndns.org/takingtheirland/)
 
@@ -78,5 +81,6 @@ snapshot yet.
 Each export must come from a verified publication bundle and retain its
 snapshot identifiers. Do not overwrite a frozen statistical release with
 unpromoted corrections. Review the full export, history and licenses before
-changing visibility. GitHub Pages and automatic Zenodo publication are not
-enabled as part of this private preparation.
+changing visibility. Each GitHub release of this repository is archived automatically by Zenodo
+and receives a version DOI; tag a release only for a frozen statistical
+release.
