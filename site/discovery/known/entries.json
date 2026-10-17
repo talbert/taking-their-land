@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-talagunda-owens-source252-r18-rss53",
+  "version": "20261017-crow-creek-source252-r19-rss54",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -504,17 +504,18 @@
     ]
   },
   {
-        "id": "ledger-026750d0c4180cf51c29",
-        "name": "Crow Creek attack and residence loss",
-        "place_and_era": "Crow Creek. The source places village life in the 1300s. The date of the attack remains unknown.",
-        "attested": "Dye describes an attack on people at Crow Creek. Some people apparently fled. Bodies remained exposed before survivors or neighbors buried them.",
-        "unknown": "The link between the fires and the attack remains unclear. The later use of the village and the burial party remain uncertain.",
-        "next_step": "Keep this qualified account as one research record. The fire dates and later use of the village remain unknown.",
-        "sources": [
-          "https://history.sd.gov/docs/Educational%20Series%208.pdf",
-          "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-        ]
-      },
+      "id": "ledger-026750d0c4180cf51c29",
+      "name": "Crow Creek attack and residence loss",
+      "place_and_era": "Crow Creek. The source places village life in the 1300s. The date of the attack remains unknown.",
+      "attested": "Willey describes an attack at Crow Creek. He links burned lodges to the loss of village life, homes and defense. He considers that some people escaped. He proposes that escaped villagers returned, or people with ties to them came, to bury the dead. He also reports later ceremonies at the site.",
+      "unknown": "The attackers and the fates of all survivors remain unknown. Willey does not fix the dates of each fire or prove later village residence. He gives two possible causes for the upper bone layer. The detailed methods behind his summaries remain unread.",
+      "next_step": "Keep this source account with the same Crow Creek record. Retain the unknown fire dates, later village use and survivor destinations.",
+      "sources": [
+        "https://history.sd.gov/docs/Educational%20Series%208.pdf",
+        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf",
+        "https://trace.tennessee.edu/server/api/core/bitstreams/48095d4b-ae65-4731-b3c2-94b10a78cf79/content"
+      ]
+    },
   {
     "id": "ledger-51cb6252a7af835bf828",
     "name": "Daur removal from the Amur",
@@ -4266,6 +4267,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-16",
-  "update_scope": "Three Talagunda research notes join the source list. One is a candidate. Two remain located questions. The Owens Valley note has a new next step."
+  "updated_on": "2026-10-17",
+  "update_scope": "The Crow Creek note now includes the original source account by Willey. It keeps possible escapes and later ceremonies. The fire dates and later village use remain uncertain."
 }

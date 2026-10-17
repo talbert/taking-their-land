@@ -1,16 +1,16 @@
 {
   "schema": "taking-land-public-discovery-status-v1",
-  "version": "p7-r18-current-source-snapshot",
+  "version": "p7-r19-current-source-snapshot",
   "status": "BOUNDED_DATED_SEARCH_SNAPSHOT",
   "publication": null,
-  "as_of_utc": "2026-10-17T05:33:31.663181+00:00",
+  "as_of_utc": "2026-10-17T06:22:06.637156+00:00",
   "known_roster": {
   "cases": 540,
   "stops": 552,
   "known_ordinary_remaining": 74,
   "holds": 64,
   "flight_notes": 22,
-  "rss_entries": 53,
+  "rss_entries": 54,
   "flight_note_scope": "Dated public atlas20261006e;22 flight notes."
 },
   "local_and_live_same_at_preparation": false,
@@ -16477,7 +16477,7 @@
   ],
   "report_date_local": "2026-10-16",
   "timezone": "America/Denver",
-  "bound_checkpoint": 1613,
+  "bound_checkpoint": 1618,
   "external_ledger": {
   "records": 258,
   "types": {
@@ -16494,7 +16494,7 @@
   "unique_candidates_outside_frozen_roster": "UNASSESSED"
 },
   "population_index": {
-  "version": 127,
+  "version": 128,
   "current_inventory_counts": {
     "population_records": 195,
     "population_event_edges": 369,
@@ -16542,13 +16542,13 @@
   },
   "current_root_binding": {
     "artifact": {
-      "path": "maintenance/discovery_repair_20261003/scientific_admissions/owens_fort_tejon_removal_return_archival85_combined_20261016_v1/outputs/first/source/candidate_ledger.json",
-      "bytes": 7925554,
-      "sha256": "fa3971cf7d99f73b8a47290291b30f4e49b7afde05b82cc674558f096426e7a5"
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/crow_creek_willey_original_qualification_v128_20261016_v1/outputs/first/candidate_ledger.json",
+      "bytes": 7933771,
+      "sha256": "56dcc7769adc453b52df668f5a1fde7a000572a9fec468b4662bb8537561bf65"
     },
     "ledger_records": 258,
     "current_workflow_count": 85,
-    "selector_version": 127,
+    "selector_version": 128,
     "unresolved_external_question_envelopes": 388,
     "base_body_workflow_snapshot": 78,
     "selected_P5_artifact": {
@@ -16664,22 +16664,32 @@
       "sha256": "33df5a0c4ad3f82f8c33af7a06c89fade9e8b8d2a1a891be38cf4929dd8582b4"
     },
     "actual_source_adoption": {
-      "path": "maintenance/work_loop_progress_20261006_1611/owens85_application/COMBINED_ADOPTION.json",
-      "bytes": 2556,
-      "sha256": "30e4cadfbf547ed7b6c12a39c972c696660370ce809ddaced8509bbddb6f2789"
+      "path": "maintenance/work_loop_progress_20261006_1616/v128_application/SOURCE_ADOPTION.json",
+      "bytes": 2224,
+      "sha256": "de497af3904103a8ec40e1a804b9369dcf97c90365ebeaf61b36a85825e3bbcc"
     },
     "Root_Main": {
-      "path": "maintenance/work_loop_progress_20261006_1611/MAIN_ACCEPTANCE.json",
-      "bytes": 6446,
-      "sha256": "79c0d588ca0e9d0eea3da51944e4870ef41508bb608f4b17eb6e4feddf46abcb"
+      "path": "maintenance/work_loop_progress_20261006_1616/MAIN_ACCEPTANCE.json",
+      "bytes": 5201,
+      "sha256": "505ea52093dd48f08d480767ea799c5968d7c5362c82905864b045b84d32e62f"
     },
-    "research_only": true
+    "research_only": true,
+    "source_annotation_binding_v128": {
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/crow_creek_willey_original_qualification_v128_20261016_v1/outputs/first/SOURCE_ANNOTATION_BINDING_V128.json",
+      "bytes": 4794,
+      "sha256": "bc080abfa624c3f2ac906b7e50c57e5a8c8cdba614ba63800f1f8ad355b81b60"
+    }
   },
-  "qualification": "Selector 127 binds 258 source records and 85 inactive records. The body still lists 78 from an earlier date. Its version 126 link lists 84. The current archive link lists 85. These counts do not describe active model cases.",
+  "qualification": "Selector 128 binds 258 source records and 85 inactive records. The body still lists 78 from an earlier date. Its version 126 link lists 84. The current archive link lists 85. These counts do not describe active model cases.",
   "current_workflow_binding": {
     "path": "maintenance/discovery_repair_20261003/scientific_admissions/owens_fort_tejon_removal_return_archival85_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
     "bytes": 9074,
     "sha256": "33df5a0c4ad3f82f8c33af7a06c89fade9e8b8d2a1a891be38cf4929dd8582b4"
+  },
+  "source_annotation_binding_v128": {
+    "path": "maintenance/discovery_repair_20261003/ledger_successors/crow_creek_willey_original_qualification_v128_20261016_v1/outputs/first/SOURCE_ANNOTATION_BINDING_V128.json",
+    "bytes": 4794,
+    "sha256": "bc080abfa624c3f2ac906b7e50c57e5a8c8cdba614ba63800f1f8ad355b81b60"
   }
 },
   "isolated_d10": {
@@ -16708,7 +16718,7 @@
   },
   "prose_fields": {
   "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The local data has 566 cases and 580 stops. Its queue has 59 known ordinary cases and 64 holds. These local data are not live.",
-  "p02": "The dated public atlas has 22 flight notes. This release has 53 update posts. The atlas itself does not change.",
+  "p02": "The dated public atlas has 22 flight notes. This release has 54 update posts. The atlas itself does not change.",
   "p03": "The search matrix has 1,280 records in five states. Each state describes a bounded search.",
   "p04": "A found record has a located result. Some found records still need more source searches.",
   "p05": "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
@@ -16722,7 +16732,7 @@
   "p13": "The archive series has 85 inactive records. These records do not establish 85 historical events. Its next report is at 90. Another five records reach that report.",
   "p14": "The series has 761 profile rows and 856 corpus objects. None of its added records is in the active statistical roster.",
   "p15": "The current match between archive records and public cases is unknown. The report at 90 is never an admission gate.",
-  "p16": "The index is version 127. It has 195 population records. There are 369 event links and five population links.",
+  "p16": "The index is version 128. It has 195 population records. There are 369 event links and five population links.",
   "p17": "The index keeps 220 open records. Its 388 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
   "p18": "The intake has 2,358 name leads. It has 409 full reviews, 38 partial reviews, and 1,911 untouched leads.",
   "p19": "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
@@ -16744,7 +16754,7 @@
   "p35": "The scope check found 16 errors in empty search claims. Those cells now need a full scope search. Three West Africa cells have scope or approval limits. These are search control changes, not new historical omissions.",
   "p36": "Old source results and partial work remain saved. This repair adds no search, case, history answer or recall credit. Overlap within a cell is a limited check. It cannot mark a search complete.",
   "p37": "Each found cell still needs scope, source and overlap checks. A limited cell needs its source or access gap resolved. A not-yet-searched cell needs a full scope search. An empty claim needs checked sources and clear bounds. A not-applicable claim needs evidence for that choice.",
-  "p38": "Selector 127 binds 258 source records and 85 inactive records. The body still lists 78 from an earlier date. Its version 126 link lists 84. The current archive link lists 85. These counts do not describe active model cases.",
+  "p38": "Selector 128 binds 258 source records and 85 inactive records. The body still lists 78 from an earlier date. Its version 126 link lists 84. The current archive link lists 85. These counts do not describe active model cases.",
   "p39": "The active model still uses 676 rows. The 85 archive records stay out of that model."
 },
   "pending_changes_not_counted": [
@@ -16767,7 +16777,7 @@
   },
   "source_version_labels": {
   "current_source_ledger": "258records/workflow85",
-  "current_population_index": "v127",
+  "current_population_index": "v128",
   "current_exposure_ledger": "52partial attempts; no new exposure from control repair",
   "matrix": "1280cells;31found/1229not-yet/20limited;no full-era two-channel flags",
   "priority_pilot": "Dated2026-10-04 diagnostic147entries; distinct current external intake365"
@@ -16801,11 +16811,11 @@
     "Early North America and South Asia are priorities. Search work still spans all regions and eras. Population frames, recall checks and reviews of empty cells have gaps. Case drafts, bibliography, flight origins, impact and world population work remain open. Audio is last."
   ],
   "current_acceptance_dates": {
-  "Source ledger and population": "2026-10-17T05:18:26.417758+00:00",
+  "Source ledger and population": "2026-10-17T06:08:06.780532+00:00",
   "Current external frame": "2026-10-14T16:05:59.759639+00:00",
   "Inactive archive": "2026-10-17T05:18:26.417758+00:00",
   "Selected local data": "2026-10-16T12:43:56.261386+00:00",
-  "Latest public source notes": "2026-10-17T05:33:31.663181+00:00",
+  "Latest public source notes": "2026-10-17T06:22:06.637156+00:00",
   "Matrix scope control repair": "2026-10-16T00:23:55.553627+00:00",
   "Current bounded exposure": "2026-10-15T18:25:00.281241+00:00"
 },
@@ -18637,12 +18647,12 @@
   "public_source_list": {
   "source_notes": 252,
   "map_notes": 151,
-  "RSS_posts": 53,
-  "scope": "Dated R18 source list and report; local atlas and bibliography data are not live.",
+  "RSS_posts": 54,
+  "scope": "Dated R19 source list and report; local atlas and bibliography data are not live.",
   "before_this_release": {
-    "source_notes": 249,
+    "source_notes": 252,
     "map_notes": 151,
-    "RSS_posts": 52
+    "RSS_posts": 53
   }
 },
   "current_external_frame": {
@@ -19988,5 +19998,212 @@
   "P2_steering": false,
   "new_channels": 0,
   "scope": "This is a dated source update. The earlier R17 report remains a dated snapshot. The local atlas data are not live. Region and era work is incomplete. Priority inputs do not direct searches."
+},
+"r19_lineage_and_public_boundary": {
+  "prior_report": {
+    "path": "maintenance/public_discovery_talagunda_owens_four_notes_r18_20261016_v1/stage/discovery/report.json",
+    "bytes": 576048,
+    "sha256": "c25f572a1734c02a782da822ac8fae891bdce1d0d2e69c6d4b914f325891e2e6"
+  },
+  "prior_counts": [
+    258,
+    85,
+    127,
+    388,
+    252,
+    151,
+    53
+  ],
+  "current_source": [
+    258,
+    85,
+    128,
+    388
+  ],
+  "public_counts": [
+    252,
+    151,
+    54
+  ],
+  "local_counts": [
+    566,
+    580,
+    59,
+    64
+  ],
+  "public_atlas": [
+    540,
+    552,
+    74,
+    64
+  ],
+  "public_flight_notes_dated": 22,
+  "bibliography_current_local": [
+    1501,
+    6266,
+    1414,
+    315,
+    42
+  ],
+  "source_adoption": {
+    "path": "maintenance/work_loop_progress_20261006_1616/v128_application/SOURCE_ADOPTION.json",
+    "bytes": 2224,
+    "sha256": "de497af3904103a8ec40e1a804b9369dcf97c90365ebeaf61b36a85825e3bbcc"
+  },
+  "Root_Main": {
+    "path": "maintenance/work_loop_progress_20261006_1616/MAIN_ACCEPTANCE.json",
+    "bytes": 5201,
+    "sha256": "505ea52093dd48f08d480767ea799c5968d7c5362c82905864b045b84d32e62f"
+  },
+  "P5_dated_body_workflow": 78,
+  "P5_current_root_binding": {
+    "artifact": {
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/crow_creek_willey_original_qualification_v128_20261016_v1/outputs/first/candidate_ledger.json",
+      "bytes": 7933771,
+      "sha256": "56dcc7769adc453b52df668f5a1fde7a000572a9fec468b4662bb8537561bf65"
+    },
+    "ledger_records": 258,
+    "current_workflow_count": 85,
+    "selector_version": 128,
+    "unresolved_external_question_envelopes": 388,
+    "base_body_workflow_snapshot": 78,
+    "selected_P5_artifact": {
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/talagunda_three_source_questions_v126_20261016_v1/outputs/first/CONSOLIDATED_POPULATION_INDEX.json",
+      "bytes": 42386380,
+      "sha256": "47dec542ae566f63936f4bd1047d38fd308a64cc280172b011767929dcd6a806"
+    },
+    "selected_P5_current_binding_node": "/external_ledger_binding_v126",
+    "selected_P5_dated_binding": {
+      "artifact": {
+        "path": "maintenance/discovery_repair_20261003/ledger_successors/talagunda_three_source_questions_v126_20261016_v1/outputs/first/candidate_ledger.json",
+        "bytes": 7919835,
+        "sha256": "c56060717cc98cbeb5a17050ec03be512cc43b03fea59d1608fd7e9793492c5c"
+      },
+      "ledger_records": 258,
+      "current_workflow_count": 84,
+      "selector_version": 126,
+      "unresolved_external_question_envelopes": 388,
+      "base_body_workflow_snapshot": 78,
+      "base_body_selector": 120,
+      "parent_selected_selector": 125,
+      "parent_ledger": {
+        "path": "maintenance/discovery_repair_20261003/ledger_successors/great_basin_four_source_questions_v125_20261016_v1/outputs/first/candidate_ledger.json",
+        "bytes": 7875350,
+        "sha256": "fd710164e5246e86acc2d3b7d9004bb402e35707cd761d325649c85ef3dfc3e3"
+      },
+      "parent_index": {
+        "path": "maintenance/discovery_repair_20261003/ledger_successors/great_basin_four_source_questions_v125_20261016_v1/outputs/first/CONSOLIDATED_POPULATION_INDEX.json",
+        "bytes": 42373937,
+        "sha256": "f481c56130d0e1f00665b8f04e92336c6b095d7f81f69f03c2599972b896cd1b"
+      },
+      "current_archival_workflow_binding": {
+        "path": "maintenance/discovery_repair_20261003/scientific_admissions/saka_lower_indus_constrained_movement_archival84_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
+        "bytes": 6506,
+        "sha256": "5e66bb4d6b064b04c69dd1fa2a4b2b5bc1ef90cc1b3bd947d26f4611cbef2d15"
+      },
+      "retained_current84_selector_binding": {
+        "artifact": {
+          "path": "maintenance/discovery_repair_20261003/ledger_successors/great_basin_four_source_questions_v125_20261016_v1/outputs/first/CONSOLIDATED_POPULATION_INDEX.json",
+          "bytes": 42373937,
+          "sha256": "f481c56130d0e1f00665b8f04e92336c6b095d7f81f69f03c2599972b896cd1b"
+        },
+        "version": 125,
+        "canonical_counts": [
+          195,
+          369,
+          5,
+          220
+        ],
+        "intake": [
+          2358,
+          409,
+          38,
+          1911
+        ],
+        "external_ledger_workflow": [
+          255,
+          84
+        ],
+        "unresolved_external_question_envelopes": 382,
+        "unresolved_cohort_questions": 28,
+        "source_phase_open_questions": 24,
+        "Main": {
+          "path": "maintenance/work_loop_progress_20261006_1606/MAIN_ACCEPTANCE.json",
+          "bytes": 5746,
+          "sha256": "07c2afc0fcfde7b486ba95a5058bc61f4a5c5f173cb71ab7f750dba85a980db2"
+        },
+        "separate_external_frame_intake": {
+          "objects": 365,
+          "questions_OPEN": 730,
+          "target_objects": 321,
+          "outside_target_retained": 44,
+          "historical_entries_examined": 0,
+          "steering_enabled": false,
+          "node": "/external_frame_intake_v78",
+          "not_core_intake_or_graph_or_coverage": true
+        },
+        "preservation": {
+          "path": "maintenance/work_loop_progress_20261006_1606/PRESERVATION_ACCEPTED_RECEIPT.json",
+          "bytes": 43433,
+          "sha256": "c27f53c0a11a6760a18485997090859ae670215d64c60c05ac5968f805153308"
+        },
+        "private_push": "65a8b34c45ae2f16eaff4d04fc33576fd1caa7bf",
+        "status": "ACTUAL_SOURCE255_WORK84_SELECTOR125_382OPEN_DATED_BODY78_BOUND_CURRENT84",
+        "adoption": {
+          "path": "maintenance/work_loop_progress_20261006_1606/v125_application/SOURCE_ADOPTION.json",
+          "bytes": 2567,
+          "sha256": "f8bc7b3d01e1ce6e3316dae97c455f48490e534632c625e0c4d4244afdafaddb"
+        },
+        "administrative_source_qualification_binding": {
+          "path": "maintenance/discovery_repair_20261003/ledger_successors/alaska_two_ch7_qualified_context_v113_20261016_v1/ALASKA_QUALIFICATION_BINDING.json",
+          "bytes": 2031,
+          "sha256": "ef9928fd9fbb74d1ec8093769f811958977c318ac7de99f8cdf9102658dbd3a9"
+        },
+        "archival_workflow_binding": {
+          "path": "maintenance/discovery_repair_20261003/scientific_admissions/saka_lower_indus_constrained_movement_archival84_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
+          "bytes": 6506,
+          "sha256": "5e66bb4d6b064b04c69dd1fa2a4b2b5bc1ef90cc1b3bd947d26f4611cbef2d15"
+        }
+      },
+      "legacy_source_phase_open_questions": 24,
+      "legacy_source_phase_field_is_not_external_envelope_total": true,
+      "Root_GO": {
+        "path": "maintenance/work_loop_progress_20261006_1609/TALAGUNDA_THREE_LITERAL_SOURCE_GO.json",
+        "bytes": 9041,
+        "sha256": "14bbda023c10e53f482115b3d3b2c23052f06ace9d5d21f9e8bab52b3e25be43"
+      },
+      "research_only": true
+    },
+    "current85_workflow_binding": {
+      "path": "maintenance/discovery_repair_20261003/scientific_admissions/owens_fort_tejon_removal_return_archival85_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
+      "bytes": 9074,
+      "sha256": "33df5a0c4ad3f82f8c33af7a06c89fade9e8b8d2a1a891be38cf4929dd8582b4"
+    },
+    "actual_source_adoption": {
+      "path": "maintenance/work_loop_progress_20261006_1616/v128_application/SOURCE_ADOPTION.json",
+      "bytes": 2224,
+      "sha256": "de497af3904103a8ec40e1a804b9369dcf97c90365ebeaf61b36a85825e3bbcc"
+    },
+    "Root_Main": {
+      "path": "maintenance/work_loop_progress_20261006_1616/MAIN_ACCEPTANCE.json",
+      "bytes": 5201,
+      "sha256": "505ea52093dd48f08d480767ea799c5968d7c5362c82905864b045b84d32e62f"
+    },
+    "research_only": true,
+    "source_annotation_binding_v128": {
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/crow_creek_willey_original_qualification_v128_20261016_v1/outputs/first/SOURCE_ANNOTATION_BINDING_V128.json",
+      "bytes": 4794,
+      "sha256": "bc080abfa624c3f2ac906b7e50c57e5a8c8cdba614ba63800f1f8ad355b81b60"
+    }
+  },
+  "legacy_source_phase24_not_external_total": true,
+  "known_roster_RSS_before53_after54": true,
+  "dated_R18_lineage_preserved": true,
+  "active_model_rows": 676,
+  "active_regional_rows": 676,
+  "active_date_rows": 627,
+  "P2_steering": false,
+  "new_channels": 0,
+  "scope": "This is a dated source update. The earlier R18 report remains a dated snapshot. The local atlas data are not live. Region and era work is incomplete. Priority inputs do not direct searches."
 }
 }
