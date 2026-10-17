@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261017-three-research-notes252-r21-rss56",
+  "version": "20261017-four-research-notes256-r22-rss57",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -141,17 +141,17 @@
     ]
   },
   {
-    "id": "ledger-50451b5df918e5c6db2e",
-    "name": "Ahom loss and return of rule",
-    "place_and_era": "The later Ahom realm. The account reports defeat in 1662 and a return to rule a few years later.",
-    "attested": "Terwiel reports an Ahom defeat in 1662. Muslim invaders defeated them. Ahom rule resumed a few years later.",
-    "unknown": "The exact tract, resident groups and interval remain unknown. The account does not establish a forced move. Later recovery does not erase the earlier loss of control.",
-    "next_step": "Define the loss and return of rule as a later sequence. Keep the early conquests separate.",
-    "sources": [
-      "https://thesiamsociety.org/wp-content/uploads/1983/03/JSS_071_0g_Terwiel_AhomAndStudyOfEarlyTaiSociety.pdf",
-      "https://latrian.dyndns.org/takingtheirland/#case=tai-ahom-assam"
-    ]
-  },
+  "id": "ledger-50451b5df918e5c6db2e",
+  "name": "Ahom loss and return of rule",
+  "place_and_era": "The later Ahom realm. The account reports defeat in 1662 and a return to rule a few years later.",
+  "attested": "Terwiel reports an Ahom defeat in 1662. Muslim invaders defeated them. Ahom rule resumed a few years later.",
+  "unknown": "The exact tract, resident groups and interval remain unknown. The account does not establish a forced move. Later recovery does not erase the earlier loss of control.",
+  "next_step": "Trace effects on residents and the extent of the changed rule. Keep this later sequence distinct from early conquests.",
+  "sources": [
+    "https://thesiamsociety.org/wp-content/uploads/1983/03/JSS_071_0g_Terwiel_AhomAndStudyOfEarlyTaiSociety.pdf",
+    "https://latrian.dyndns.org/takingtheirland/#case=tai-ahom-assam"
+  ]
+},
   {
     "id": "ledger-583ade4b45cae4f13f23",
     "name": "Akjoujt copper-centre decline",
@@ -2754,7 +2754,51 @@
       "sources": [
         "https://library.bjp.org/jspui/bitstream/123456789/1910/37/epigraphia-indica-vol-08-1905-1906.pdf"
       ]
-    }
+    },
+{
+  "id": "ledger-c64b17b0c5b90e05e663",
+  "name": "Burned sites and violent deaths in Gallina",
+  "place_and_era": "Gallina, New Mexico; medieval source context. Dates for each event remain unknown.",
+  "attested": "Authors report burned structures at home sites, often with food stores. Some contexts include unburied people who died from violence.",
+  "unknown": "Fire causes and the loss of specific homes remain unresolved. Captivity is a theory. The source does not prove one forced regional departure.",
+  "next_step": "Review the reported sites to define each process and its effect on homes or stores. Keep other fire causes in view.",
+  "sources": [
+    "https://www.archaeologysouthwest.org/wp-content/uploads/arch-sw-v29-no1.pdf"
+  ]
+},
+{
+  "id": "ledger-d074b6fd997454ff4251",
+  "name": "A field grant at Nasik",
+  "place_and_era": "Near Nasik in western India; ancient period.",
+  "attested": "A royal order grants a named field to monks. It names a man who held the field before.",
+  "unknown": "The text does not explain the fate of people who used the field.",
+  "next_step": "Check whether the grant took away earlier rights to the field.",
+  "sources": [
+    "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/senart.html"
+  ]
+},
+{
+  "id": "ledger-4e4f6cce57979934a826",
+  "name": "Home loss in Embobut Forest",
+  "place_and_era": "Kenya, from late 2017. The report dates to 2018.",
+  "attested": "The rights commission reports forced evictions and burned homes. Its account uses interviews and site visits.",
+  "unknown": "The report gives no end date for the forced moves. It does not state where all affected people went.",
+  "next_step": "Prepare this reviewed case for the atlas. Keep its unknown scale and later outcome clear.",
+  "sources": [
+    "https://www.knchr.org/portals/0/grouprightsreports/KNCHR-Fact_Finding_Mission_to_Embobut_Forest.pdf"
+  ]
+},
+{
+  "id": "ledger-36850b9ff3f90d1cac19",
+  "name": "Changes at coastal shell rings",
+  "place_and_era": "The report covers the southeast coast of North America. It concerns sites before written records.",
+  "attested": "The report reviews ring sites and changes in their use. It weighs sea rise, resource shifts and possible conflict.",
+  "unknown": "Possible conflict is a theory in this report. That theory does not establish a forced move or loss of land.",
+  "next_step": "Trace the claims to site studies. Look for human acts that caused loss of homes or land use.",
+  "sources": [
+    "https://irma.nps.gov/DataStore/DownloadFile/731776"
+  ]
+}
 ],
   "cases_awaiting_map_locations": [
     {
@@ -4269,5 +4313,5 @@
     }
   ],
   "updated_on": "2026-10-17",
-  "update_scope": "The same three research notes now state their source limits. The Peter place conflict stays open. The two South Asian accounts leave land use and resident outcomes unknown."
+  "update_scope": "Four research notes are new. The Ahom note also has an update. These notes add no atlas case or model score."
 }

@@ -1228,6 +1228,41 @@
   ],
   "occurred_at": "2026-10-17T09:10:51.771999Z",
   "published_at": "2026-10-17T09:10:51.771999Z"
+},
+{
+  "id": "2026-10-17-four-research-notes",
+  "title": "Four new research notes",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "New notes cover Gallina, Nasik and Embobut Forest. One more asks about the coastal shell rings of North America.",
+    "Each note states what the source supports and what is unknown. The Ahom entry also changed after review.",
+    "These are research notes, not new atlas cases. The case count and model results stay the same."
+  ],
+  "links": [
+    {
+      "label": "Read the Gallina note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-c64b17b0c5b90e05e663"
+    },
+    {
+      "label": "Read the Nasik note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-d074b6fd997454ff4251"
+    },
+    {
+      "label": "Read the Embobut note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-4e4f6cce57979934a826"
+    },
+    {
+      "label": "Read the coastal ring note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-36850b9ff3f90d1cac19"
+    },
+    {
+      "label": "Read the Ahom note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-50451b5df918e5c6db2e"
+    }
+  ],
+  "occurred_at": "2026-10-17T15:46:34.909426Z",
+  "published_at": "2026-10-17T15:46:34.909426Z"
 }
   ]
 }
