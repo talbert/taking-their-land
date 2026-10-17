@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-great-basin-source249-r17-rss52",
+  "version": "20261016-talagunda-owens-source252-r18-rss53",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2699,16 +2699,16 @@
       ]
     },
 {
-      "id": "ledger-84caa3de4598f2ec85ac",
-      "name": "Owens Valley Paiute removal to Fort Tejon and return",
-      "place_and_era": "Owens Valley and Fort Tejon in California. Settler entry dates to the 1800s in this account. Removal and return dates remain unknown.",
-      "attested": "The Owens Valley Indian Water Commission describes forced removal to Fort Tejon after conflict and massacres. Ancestors returned. They faced loss of land access and few choices beyond ranch labor.",
-      "unknown": "The number removed, return routes and full land loss remain unknown. The people continued to live in the valley. This question overlaps the broad California settler case.",
-      "next_step": "Define the removed and returned groups and their home lands. Resolve the overlap with the California case before any new case decision.",
-      "sources": [
-        "https://www.oviwc.org/owens-valley"
-      ]
-    },
+        "id": "ledger-84caa3de4598f2ec85ac",
+        "name": "Owens Valley Paiute removal to Fort Tejon and return",
+        "place_and_era": "Owens Valley and Fort Tejon in California. Settler entry dates to the 1800s in this account. Removal and return dates remain unknown.",
+        "attested": "The Owens Valley Indian Water Commission describes forced removal to Fort Tejon after conflict and massacres. Ancestors returned. They faced loss of land access and few choices beyond ranch labor.",
+        "unknown": "The number removed, return routes and full land loss remain unknown. The people continued to live in the valley. This question overlaps the broad California settler case.",
+        "next_step": "Keep this forced removal and return as one research record. The death toll and terms of labor remain unknown.",
+        "sources": [
+          "https://www.oviwc.org/owens-valley"
+        ]
+      },
 {
       "id": "ledger-f371ec701b7e212d9c4e",
       "name": "Western Mono settlement inferred from shared speech",
@@ -2718,6 +2718,39 @@
       "next_step": "Define the people and land in this question. Compare it with the broad Numic spread case; do not assign its dates or victims.",
       "sources": [
         "https://www.yosemite.ca.us/library/kroeber/paiute_mono_koso.html"
+      ]
+    },
+{
+      "id": "ledger-143c1b0b31c4a2576d76",
+      "name": "Mayurasarman: a reported grant of land",
+      "place_and_era": "The poem names land from the western sea to Prehara. The Prehara boundary and the dates of the acts remain unknown.",
+      "attested": "The translated praise poem says Pallava rulers made Mayurasarman a friend. He served them, then received land under a pact against entry by others.",
+      "unknown": "This grant does not establish that people lost their homes. The prior rights, scope of control, and length of the grant remain unknown.",
+      "next_step": "Assess the reported grant and its effect on land rights. Keep service to the rulers distinct from a claim of full sovereignty.",
+      "sources": [
+        "https://library.bjp.org/jspui/bitstream/123456789/1910/37/epigraphia-indica-vol-08-1905-1906.pdf"
+      ]
+    },
+{
+      "id": "ledger-cdf25823653bea64d71b",
+      "name": "Mayurasarman and the base he made in a forest",
+      "place_and_era": "The poem names a forest near Sriparvata. Kielhorn links that place to Srisaila. The dates and the bounds remain unknown.",
+      "attested": "The translated praise poem says Mayurasarman defeated Pallava frontier guards and made a base in the forest. It also praises his raids.",
+      "unknown": "A base alone does not establish a loss of land or access. The forest is not known to match the later grant.",
+      "next_step": "Determine whether the forest base caused loss of land or access. Keep that question separate from the later grant.",
+      "sources": [
+        "https://library.bjp.org/jspui/bitstream/123456789/1910/37/epigraphia-indica-vol-08-1905-1906.pdf"
+      ]
+    },
+{
+      "id": "ledger-3501a454b52f8cbd2cae",
+      "name": "Kakustha and kin who sought a place of refuge",
+      "place_and_era": "The poem places refuge in Kakustha territory. The dates, the home tracts, and the bounds remain unknown.",
+      "attested": "The translated praise poem says stronger parties harassed relatives. The relatives entered his land with their belongings and found shelter.",
+      "unknown": "Shelter does not establish a forced move or the loss of a home. It does not establish a loss for earlier residents.",
+      "next_step": "Trace the pressure at the place of origin and any loss of homes. Assess any loss of land at the place of shelter on its own.",
+      "sources": [
+        "https://library.bjp.org/jspui/bitstream/123456789/1910/37/epigraphia-indica-vol-08-1905-1906.pdf"
       ]
     }
 ],
@@ -4234,5 +4267,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "Four Great Basin research notes join the source list. Two remain located questions. Two are candidates for further review."
+  "update_scope": "Three Talagunda research notes join the source list. One is a candidate. Two remain located questions. The Owens Valley note has a new next step."
 }
