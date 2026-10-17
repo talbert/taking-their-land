@@ -1310,6 +1310,46 @@
   ],
   "occurred_at": "2026-10-17T18:32:35.100908Z",
   "published_at": "2026-10-17T18:43:15.469064Z"
+},
+{
+  "id": "2026-10-17-six-bengal-research-notes",
+  "title": "Six Bengal research notes",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "Six research notes are new. Four ask about reported conquests in Bengal and nearby lands. Two ask about rules for noble homes and property.",
+    "The conquest notes concern Kaikaus, Fakhr al-Din, Sikandar and Jalal al-Din. The source reports changes in control. It does not establish every local effect.",
+    "The source also reports rules for nobles who had to live in the capital and property that passed back to the ruler. Their dates remain unknown.",
+    "These are source questions, not six new atlas cases. The live atlas still has 540 cases and 552 stops."
+  ],
+  "links": [
+    {
+      "label": "Read conquest note one",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-833c7314ebdddbdd7580"
+    },
+    {
+      "label": "Read conquest note two",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-d400fb5ed3cd4c21d810"
+    },
+    {
+      "label": "Read conquest note three",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-ec8d14a751a53edbca3e"
+    },
+    {
+      "label": "Read conquest note four",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-e12ae72a6822e4f0287a"
+    },
+    {
+      "label": "Read the noble residence note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-ea9fb758c57a80f27e52"
+    },
+    {
+      "label": "Read the property rule note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-cd6fa120352329192847"
+    }
+  ],
+  "occurred_at": "2026-10-17T19:46:54.574998Z",
+  "published_at": "2026-10-17T20:01:41.416916Z"
 }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261017-eight-research-notes264-r23-rss58",
+  "version": "20261017-six-bengal-research-notes270-r24-rss59",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2886,6 +2886,72 @@
   "sources": [
     "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch03"
   ]
+},
+{
+  "id": "ledger-833c7314ebdddbdd7580",
+  "name": "Kaikaus and southeast Bengal",
+  "place_and_era": "Southeast Bengal. The report dates the conquest to 1291.",
+  "attested": "Eaton reports a conquest under Kaikaus and a change in rule.",
+  "unknown": "The local rights and the fate of the people remain unknown.",
+  "next_step": "Define the tract and the change in control.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch04"
+  ]
+},
+{
+  "id": "ledger-d400fb5ed3cd4c21d810",
+  "name": "A conquest at Sonargaon",
+  "place_and_era": "Sonargaon in Bengal. The report concerns a medieval reign.",
+  "attested": "Eaton reports that Fakhr al-Din took control of Sonargaon.",
+  "unknown": "The date of the act and its effect on local people remain unknown.",
+  "next_step": "Define the tract and the change in control.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch04"
+  ]
+},
+{
+  "id": "ledger-ec8d14a751a53edbca3e",
+  "name": "A conquest in Kamrup",
+  "place_and_era": "Kamrup. The report dates the conquest to 1358.",
+  "attested": "Eaton reports that Sikandar took control of Kamrup.",
+  "unknown": "The local rights and the fate of the people remain unknown.",
+  "next_step": "Keep this conquest apart from the later report under Husain Shah.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch04"
+  ]
+},
+{
+  "id": "ledger-e12ae72a6822e4f0287a",
+  "name": "New rule in east Bengal",
+  "place_and_era": "East Bengal. The report dates the new conquest to 1420.",
+  "attested": "Eaton reports a new conquest after a revolt. He names Jalal al-Din Muhammad as the ruler.",
+  "unknown": "The tract and its link to the Deva revolt remain unclear.",
+  "next_step": "Define the tract and the change in control. Keep the two reports apart.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch04"
+  ]
+},
+{
+  "id": "ledger-ea9fb758c57a80f27e52",
+  "name": "Nobles and homes in the capital",
+  "place_and_era": "Bengal. The date of the residence rule is unknown.",
+  "attested": "Eaton states that nobles had to keep homes in the capital.",
+  "unknown": "The report does not state how this rule changed their other homes.",
+  "next_step": "Define the residence rule and its effect on homes.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch04"
+  ]
+},
+{
+  "id": "ledger-cd6fa120352329192847",
+  "name": "Property after a noble died",
+  "place_and_era": "Bengal. The date of the property rule is unknown.",
+  "attested": "Eaton describes a rule that gave half the property to the crown when a noble died.",
+  "unknown": "The report does not state which rights or land this rule affected.",
+  "next_step": "Define the property rights and the effect of the rule.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch04"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4401,5 +4467,5 @@
     }
   ],
   "updated_on": "2026-10-17",
-  "update_scope": "Eight research notes are new. Seven concern Bengal. One concerns the northern Kurils. These notes add no atlas case or active model score."
+  "update_scope": "Six Bengal research notes are new. Four concern reported conquests. Two concern rules for noble homes and property. These notes add no atlas case or active model score."
 }
