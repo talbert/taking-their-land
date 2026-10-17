@@ -5,7 +5,7 @@ licensing,LICENSES/CC-BY-SA-4.0.txt,LICENSES/CC-BY-SA-4.0.txt,20137,23ee78c8bae4
 licensing,LICENSES/MIT.txt,LICENSES/MIT.txt,1070,9f073e0d2c33e33de5a10f5699795c15a8a332837495c391b4d05535a34059b4,text/plain,License text; see file,LICENSE.md
 licensing,LICENSES/d3-geo-LICENSE.txt,LICENSES/d3-geo-LICENSE.txt,1857,3e3edc1224eec9c39cd26491a21304a62883c1e5b6a65c5283ccc7a6cc94baee,text/plain,License text; see file,LICENSE.md
 licensing,LICENSES/d3-interpolate-LICENSE.txt,LICENSES/d3-interpolate-LICENSE.txt,731,e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee,text/plain,License text; see file,LICENSE.md
-reference,PUBLICATION_STATUS.json,data/PUBLICATION_STATUS.json,5025,e30912367f8cc9a734dee7c772291b1e9d767aaff0c43106a388a7fbbe42b67e,application/json,CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose),LICENSE.md
+reference,PUBLICATION_STATUS.json,data/PUBLICATION_STATUS.json,5025,da562efc1195871894bd4c30808f944126e54bf5220a2e12d6b31442425e789d,application/json,CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose),LICENSE.md
 licensing,THIRD_PARTY_NOTICES.md,THIRD_PARTY_NOTICES.md,3436,8dc0cdf57c1613c36d0e59791f98f12d9e53b89e16aabf2c5d2b6c6852499b63,text/markdown,CC-BY-SA-4.0 (original prose only),LICENSE.md
 atlas,atlas/ATLAS_AUTHORING_PARTITION.json,data/atlas/ATLAS_AUTHORING_PARTITION.json,46185,748037157cfb73d9998ecacd26a091c6440020294238a1820e8a68aa7b58dad6,application/json,CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose),LICENSE.md
 atlas,atlas/atlas_profiles.json,data/atlas/atlas_profiles.json,2482396,7184d9d470bdf38ede1fefb70504c48c7448a543fd237ba89741168458eb0689,application/json,CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose),LICENSE.md

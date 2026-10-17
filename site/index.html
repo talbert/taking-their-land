@@ -421,6 +421,7 @@ body.is-traveling .dwell-bar { visibility: hidden; }
 .mk-contextual { fill: var(--paper-2); stroke: var(--contextual); }
 .mk-attempted { fill: none; stroke: var(--core); stroke-dasharray: 3 2.4; }
 .mk-excluded { fill: none; stroke: var(--ink-3); stroke-dasharray: 1.5 2.5; }
+.mk-unassessed { fill: var(--paper-2); stroke: var(--ink-3); }
 .mk-future { opacity: 0; pointer-events: none; }
 .mk-past { opacity: 0.5; }
 .mk-ongoing { opacity: 0.82; }
@@ -587,6 +588,7 @@ body.is-title #btn-play { visibility: visible; }
 .sw-contextual { background: var(--paper-2); border: 1.6px solid var(--contextual); }
 .sw-attempted { background: none; border: 1.6px dashed var(--core); }
 .sw-excluded { background: none; border: 1.6px dotted var(--ink-3); }
+.sw-unassessed { background: var(--paper-2); border: 1.6px solid var(--ink-3); }
 .sw-origin { background: var(--slate); border-radius: 0; transform: rotate(45deg); width: 8px; height: 8px; }
 
 /* ----- timeline ----- */
@@ -753,6 +755,7 @@ body.feedback-open { overflow: hidden; }
   font-family: var(--sans); font-size: 12px; line-height: 1.4; color: var(--ink-2);
 }
 .reading-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.reading-legend .legend-break { flex-basis: 100%; height: 0; }
 .route-swatch { width: 24px; border-top: 2px solid var(--core); }
 .route-swatch.forced { border-top: 2px dashed var(--strong); }
 .route-swatch.operational { border-top: 2px dotted var(--slate); }
@@ -993,6 +996,14 @@ body.caption-on #year-hud.is-extended-date { font-size: 18px; }
   <span><i class="route-swatch forced" aria-hidden="true"></i>Forced movement</span>
   <span><i class="route-swatch operational" aria-hidden="true"></i>Military, state, or project direction</span>
   <span><i class="sw sw-origin" aria-hidden="true"></i>Movement origin</span>
+  <span class="legend-break" aria-hidden="true"></span>
+  <span><i class="sw sw-core" aria-hidden="true"></i>Core case</span>
+  <span><i class="sw sw-strong" aria-hidden="true"></i>Strong case</span>
+  <span><i class="sw sw-partial" aria-hidden="true"></i>Partial case</span>
+  <span><i class="sw sw-analogue" aria-hidden="true"></i>Case as an analogue</span>
+  <span><i class="sw sw-contextual" aria-hidden="true"></i>Context only</span>
+  <span><i class="sw sw-attempted" aria-hidden="true"></i>Attempted case</span>
+  <span><i class="sw sw-unassessed" aria-hidden="true"></i>Group not set</span>
 </div>
 <p class="mapnote">Marker colors retain legacy display groupings; they do not encode the six reviewed families or statistical scores. Read the case profile for the current family. The final map overlays authored connections across all dates, not current territorial control; route density is not event incidence, population volume, or severity.</p>
 
@@ -1012,7 +1023,7 @@ body.caption-on #year-hud.is-extended-date { font-size: 18px; }
   </details>
   <nav id="site-links" aria-label="About this atlas">
     <a href="monograph/" target="_blank" rel="noopener">Research + data</a>
-    <a href="discovery/">Discovery status</a>
+    <a href="discovery/">Discovery</a>
     <a href="updates/">Updates</a>
     <button id="btn-map-credits" type="button" class="linklike" aria-haspopup="dialog">Map credits</button>
     <button id="btn-feedback" type="button" class="linklike">Submit feedback</button>
@@ -5791,7 +5802,7 @@ function buildMarkers() {
       const [x, y] = project(t.lon, t.lat);
       const n = document.createElementNS("http://www.w3.org/2000/svg", "circle");
       n.setAttribute("cx", x); n.setAttribute("cy", y);
-      n.setAttribute("class", `mk mk-${c.fit}`);
+      n.setAttribute("class", `mk mk-${fitClass(c.fit)}`);
       n.dataset.caseId = c.id;
       const ref = sourcedReferences.get(c.id);
       if (ref) n.setAttribute("clip-path", `url(#${ref.clipId})`);
@@ -5825,6 +5836,8 @@ function buildMarkers() {
   g.addEventListener("mouseleave", () => { tooltip.hidden = true; });
 }
 
+const FIT_CLASS = {"core":"core","strong":"strong","partial":"partial","analogue":"analogue","contextual":"contextual","attempted":"attempted","excluded":"excluded","unassessed":"unassessed","expansion analogue":"analogue","source-supported bounded case":"unassessed","unassessed_pending_separate_admission_and_taxonomy_review":"unassessed"};
+function fitClass(fit) { return Object.prototype.hasOwnProperty.call(FIT_CLASS, fit) ? FIT_CLASS[fit] : "unassessed"; }
 function updateMarkers() {
   const k = VW / camera[2];
   const rBase = 4.6 / k, rCur = 7.2 / k, rDot = 3.4 / k;
@@ -5835,7 +5848,7 @@ function updateMarkers() {
     const filterHidden = !caseVisible(m.c);
     const referenceClip = sourceReferenceClipId(m.c,m.t);
     if (referenceClip) m.n.setAttribute("clip-path", `url(#${referenceClip})`);
-    let cls = `mk mk-${m.c.fit}`;
+    let cls = `mk mk-${fitClass(m.c.fit)}`;
     if (!started || filterHidden) cls += " mk-future";
     else if (current) cls += " mk-current";
     else if (ongoing) cls += " mk-ongoing";

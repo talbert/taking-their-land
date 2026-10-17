@@ -1163,6 +1163,34 @@
   ],
   "occurred_at": "2026-10-17T06:22:06.637156Z",
   "published_at": "2026-10-17T06:22:06.637156Z"
+},
+{
+  "id": "2026-10-17-known-but-not-yet-placeable",
+  "title": "Known but not yet placeable: a guide to the research list",
+  "kind": "project",
+  "backfilled": false,
+  "paragraphs": [
+    "Known but not yet placeable is the public list of research questions. It draws from the project ledger. Each entry names a place and a time span.",
+    "Each source entry states what the evidence supports, what remains unknown and the next step. It links to the sources. Some entries are leads. Others have a reviewed source account.",
+    "A place on this list is not admission to the atlas roster. It is not a conclusion of forced removal or a model score. A record can stay open or leave the candidate queue after review.",
+    "Unknown evidence does not mean no harm. The list is not a census of harm or proof that the project found every case.",
+    "The page also lists cases that await map locations in a separate section. Those cases already belong to the atlas. Their place limits differ from the open research questions.",
+    "The Discovery link in the atlas opens the search report. That report links to this list. The link below opens the list.",
+    "This update also repairs marker colors and adds a key. The map keeps the same cases and data.",
+    "This work took place on October 17 in Denver time. This post dates to October 17 in UTC."
+  ],
+  "links": [
+    {
+      "label": "Read Known but not yet placeable",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the dated search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-17T07:02:28.153517Z",
+  "published_at": "2026-10-17T07:02:28.153517Z"
 }
   ]
 }

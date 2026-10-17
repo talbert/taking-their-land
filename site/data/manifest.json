@@ -77,15 +77,15 @@
       "rights_notice": "LICENSE.md"
     },
     {
-      "category": "reference",
-      "public_path": "PUBLICATION_STATUS.json",
-      "source_path": "data/PUBLICATION_STATUS.json",
-      "bytes": 5025,
-      "sha256": "e30912367f8cc9a734dee7c772291b1e9d767aaff0c43106a388a7fbbe42b67e",
-      "media_type": "application/json",
-      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
-      "rights_notice": "LICENSE.md"
-    },
+  "category": "reference",
+  "public_path": "PUBLICATION_STATUS.json",
+  "source_path": "data/PUBLICATION_STATUS.json",
+  "bytes": 5025,
+  "sha256": "da562efc1195871894bd4c30808f944126e54bf5220a2e12d6b31442425e789d",
+  "media_type": "application/json",
+  "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+  "rights_notice": "LICENSE.md"
+},
     {
       "category": "licensing",
       "public_path": "THIRD_PARTY_NOTICES.md",

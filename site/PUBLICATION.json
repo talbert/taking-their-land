@@ -7,11 +7,11 @@
   "release_manifest_sha256": "8969d87d62a84887f37046eb97189c16b1fc686c92fd17021cc6163b71c076cd",
   "license_scope": "Original structured research fields: CC-BY-4.0; original narrative prose and graphics: CC-BY-SA-4.0; original software: MIT. Third-party quotations, code, and map data retain their own terms. See LICENSE.md and THIRD_PARTY_NOTICES.md; file format alone does not determine all rights.",
   "license_notice_sha256": "da166ddd45cb04d081738d733678418506c9cd4d347e710f35bdad0883e13abb",
-  "atlas_source_sha256": "d2bbe34151bb75cc658e31d6f8f4a4a4bd347f22838415b93f8482ec37bbea1e",
+  "atlas_source_sha256": "7b25419dd09cbf46fcb865f1705cd5f0d50cd04bdf797f777c8e8395a2014bf6",
   "data_file_count": 266,
   "data_archive": "data/taking-their-land-data-second_pass_v7_676.zip",
-  "data_archive_bytes": 64688898,
-  "data_archive_sha256": "dc1db20e3952e7fbc1186e895e8320c103d9c92b2e602a140b66c14d409b198b",
+  "data_archive_bytes": 64688937,
+  "data_archive_sha256": "f18f30e12d6f7fc5d819509b9dbbe14815cf15af23e618d82868a6250fc384a5",
   "monograph_source_sha256": "2b3e5ceb15bccb3ce890f14b5b09b261fa873c9ea7c9ef4a008bea37e418465b",
   "monograph_source": "monograph/MONOGRAPH_DRAFT_v2.md",
   "monograph_pdf": "monograph/MONOGRAPH_DRAFT_v2.pdf",
@@ -42,15 +42,15 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "6642b63f10c9116257593a5413f97e89e1adf7a3f1743f8d0f5ff749c0edbae2",
+  "tree_sha256": "edba78663ec99d182fcbf2d4ff3624ac554c98be7aebfd7114c4f07658cc730b",
   "site_updates": {
   "schema": "taking-land-site-updates-v1",
-  "version": "20261017-crow-creek-source252-r19-rss54",
-  "entries": 54,
+  "version": "20261017-known-list-marker-r20-rss55",
+  "entries": 55,
   "source": "updates/entries.json",
-  "source_sha256": "203b7c4f8e0ea8dcbc37543c46a08f8e692d8b1394156422eb7a410621be31bd",
+  "source_sha256": "98dddf9b7341e58b84535fc0e8726e6cd1a02ba53fa43f785830b7867988c3dd",
   "feed": "updates/feed.xml",
-  "feed_sha256": "09988f56c0a087cd29507b4bc761e99706b70f7bbbb877b57aeddae31f350e3e",
+  "feed_sha256": "bb1accc619a9a36a22d014ab344694e8146cd6e44a0d3eeffef08118aad4b54f",
   "discovery_list": {
     "schema": "discovery-list-binding-v1",
     "version": "20261017-crow-creek-source252-r19-rss54",
@@ -58,7 +58,7 @@
     "ledger_sha256": "56dcc7769adc453b52df668f5a1fde7a000572a9fec468b4662bb8537561bf65",
     "editorial_sha256": "d37c4a60d543a691b3626002231c033e13dd16042c54e6aa7eb5b08fbb787e4e",
     "page": "discovery/known/index.html",
-    "page_sha256": "8245747d0d747a85b16b75502f97c5de0c0927b6d2b35c3f0a8ce4ac71335787",
+    "page_sha256": "134d8343d4b15370884be2debf9e1142c1a57c17dfe4d6f7df95df81f9257214",
     "data": "discovery/known/entries.json",
     "data_sha256": "d722d0a717cfafdef427777f9ca1316ff8ca9deb08deb509edb9edff14533e90",
     "updated_on": "2026-10-17",
@@ -79,6 +79,11 @@
     "repository": "https://github.com/talbert/taking-their-land",
     "archive_is_older_snapshot": true,
     "component_licenses_unchanged": true
+  },
+  "base_atlas_sha256": "d2bbe34151bb75cc658e31d6f8f4a4a4bd347f22838415b93f8482ec37bbea1e",
+  "indexnow_key": {
+    "path": "9d38f0690a5308f1472afcd8a741c27d.txt",
+    "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
   }
 },
   "discovery_status": {
