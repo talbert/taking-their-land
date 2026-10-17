@@ -1030,6 +1030,32 @@
   ],
   "occurred_at": "2026-10-16T22:46:11.404145Z",
   "published_at": "2026-10-16T22:59:51.403716Z"
+},
+{
+  "id": "2026-10-16-four-research-note-status-updates",
+  "title": "New next steps for four research notes",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "Four research notes now keep each reported account as one research record. Their next steps retain the open questions.",
+    "Puri reports a forced Saka move toward the lower Indus. Other routes and the fate of prior residents remain open. His account does not show that residents lost their land.",
+    "Dye reports that Oneota groups drove local groups out or absorbed them in eastern Wisconsin. The cause of the Aztalan departure remains uncertain.",
+    "At Norris Farms, Dye reports attacks, flight and a later return. He does not establish permanent loss of the village.",
+    "At Crow Creek, Dye describes an attack and apparent flight. The fire link and later village use remain uncertain.",
+    "The three North America notes share one Dye source family. The Saka note uses one Puri synthesis. These status changes add no atlas case or model score. They do not complete a region or era."
+  ],
+  "links": [
+    {
+      "label": "Read the source notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the dated search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-16T00:00:00Z",
+  "published_at": "2026-10-17T00:40:08.176620Z"
 }
   ]
 }

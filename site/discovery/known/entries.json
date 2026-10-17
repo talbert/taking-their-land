@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-sonpur-north-america-source241-r14-rss49",
+  "version": "20261016-four-research-statuses-source241-r15-rss50",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -504,17 +504,17 @@
     ]
   },
   {
-      "id": "ledger-026750d0c4180cf51c29",
-      "name": "Crow Creek attack and residence loss",
-      "place_and_era": "Crow Creek. The source places village life in the 1300s. The date of the attack remains unknown.",
-      "attested": "Dye describes an attack on people at Crow Creek. Some people apparently fled. Bodies remained exposed before survivors or neighbors buried them.",
-      "unknown": "The link between the fires and the attack remains unclear. The later use of the village and the burial party remain uncertain.",
-      "next_step": "Assess the attack and its effects on home use. Keep the fire dates and final fate of the village unresolved.",
-      "sources": [
-        "https://history.sd.gov/docs/Educational%20Series%208.pdf",
-        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-      ]
-    },
+        "id": "ledger-026750d0c4180cf51c29",
+        "name": "Crow Creek attack and residence loss",
+        "place_and_era": "Crow Creek. The source places village life in the 1300s. The date of the attack remains unknown.",
+        "attested": "Dye describes an attack on people at Crow Creek. Some people apparently fled. Bodies remained exposed before survivors or neighbors buried them.",
+        "unknown": "The link between the fires and the attack remains unclear. The later use of the village and the burial party remain uncertain.",
+        "next_step": "Keep this qualified account as one research record. The fire dates and later use of the village remain unknown.",
+        "sources": [
+          "https://history.sd.gov/docs/Educational%20Series%208.pdf",
+          "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
+        ]
+      },
   {
     "id": "ledger-51cb6252a7af835bf828",
     "name": "Daur removal from the Amur",
@@ -1860,16 +1860,16 @@
     ]
   },
   {
-    "id": "ledger-57d68a3a88a4a14923b0",
-    "name": "Saka pressure and lower Indus movement",
-    "place_and_era": "Lower Indus; ancient source context",
-    "attested": "Puri reports that a Parthian barrier forced Saka groups toward the lower Indus. He describes other routes and later arrivals too.",
-    "unknown": "The account does not show that residents lost their land. It does not prove one group followed each route or stayed there permanently.",
-    "next_step": "Assess the reported forced move as a bounded claim. Keep the other routes and the fate of prior residents open.",
-    "sources": [
-      "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
-    ]
-  },
+        "id": "ledger-57d68a3a88a4a14923b0",
+        "name": "Saka pressure and lower Indus movement",
+        "place_and_era": "Lower Indus; ancient source context",
+        "attested": "Puri reports that a Parthian barrier forced Saka groups toward the lower Indus. He describes other routes and later arrivals too.",
+        "unknown": "The account does not show that residents lost their land. It does not prove one group followed each route or stayed there permanently.",
+        "next_step": "Keep this reported forced move as one research record. The other routes and the fate of prior residents remain open.",
+        "sources": [
+          "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
+        ]
+      },
   {
     "id": "ledger-bb3f5be8a3b0fe992d9e",
     "name": "Sanqare Fulbe violence in Massina",
@@ -2600,27 +2600,27 @@
     ]
   },
 {
-      "id": "ledger-91875473edb31181d9e7",
-      "name": "Reported loss of homes in eastern Wisconsin",
-      "place_and_era": "Eastern Wisconsin. The source gives regional dates up to AD 1300. Dates for each act remain unknown.",
-      "attested": "Dye reports that Oneota groups drove local groups out or absorbed them. He reports later Oneota control of eastern Wisconsin.",
-      "unknown": "The cause of the Aztalan departure remains uncertain. The account does not establish the fate of each group.",
-      "next_step": "Assess the reported loss of homes or control as one event. Keep the earlier Cahokia-linked settlement at Aztalan separate.",
-      "sources": [
-        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-      ]
-    },
+        "id": "ledger-91875473edb31181d9e7",
+        "name": "Reported loss of homes in eastern Wisconsin",
+        "place_and_era": "Eastern Wisconsin. The source gives regional dates up to AD 1300. Dates for each act remain unknown.",
+        "attested": "Dye reports that Oneota groups drove local groups out or absorbed them. He reports later Oneota control of eastern Wisconsin.",
+        "unknown": "The cause of the Aztalan departure remains uncertain. The account does not establish the fate of each group.",
+        "next_step": "Keep the reported loss of homes or control as one research record. Seek evidence about the dates and each group's fate.",
+        "sources": [
+          "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
+        ]
+      },
 {
-      "id": "ledger-1afc4ed029b55df8e03c",
-      "name": "Flight and return at Norris Farms",
-      "place_and_era": "Norris Farms 36 in the Illinois River valley. The source places village life around AD 1300. Dates of each attack remain unknown.",
-      "attested": "Dye reports repeated attacks on the village. People who escaped left and returned later. The attacks interrupted their use of the village.",
-      "unknown": "The place of each attack and the attackers remain unknown. Dye leaves the burial party unclear. He does not establish permanent loss of the village.",
-      "next_step": "Assess this attack-linked flight and return as one event. Do not infer permanent removal or a new owner.",
-      "sources": [
-        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-      ]
-    },
+        "id": "ledger-1afc4ed029b55df8e03c",
+        "name": "Flight and return at Norris Farms",
+        "place_and_era": "Norris Farms 36 in the Illinois River valley. The source places village life around AD 1300. Dates of each attack remain unknown.",
+        "attested": "Dye reports repeated attacks on the village. People who escaped left and returned later. The attacks interrupted their use of the village.",
+        "unknown": "The place of each attack and the attackers remain unknown. Dye leaves the burial party unclear. He does not establish permanent loss of the village.",
+        "next_step": "Keep this reported flight and return as one research record. Seek evidence about the attacks and their effects on village use.",
+        "sources": [
+          "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
+        ]
+      },
 {
       "id": "ledger-57cd72cbd1ca7c911ba8",
       "name": "People left Etowah. An attack is one possible cause.",
@@ -4146,5 +4146,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "Four new research notes cover Sonpur, eastern Wisconsin, Norris Farms and Etowah. The Crow Creek note keeps the fire link and later village use uncertain."
+  "update_scope": "Four research notes have new next steps. They keep the reported accounts and their open questions in view."
 }
