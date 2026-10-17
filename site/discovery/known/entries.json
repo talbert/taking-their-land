@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-sri-lanka-source245-r16-rss51",
+  "version": "20261016-great-basin-source249-r17-rss52",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2675,6 +2675,50 @@
       "sources": [
         "https://archive.org/details/mahavamsagreatch00geigrich"
       ]
+    },
+{
+      "id": "ledger-a2122d94e6657dd8bef8",
+      "name": "Los Angeles land and water purchases in Owens Valley",
+      "place_and_era": "Owens Valley, California, in the early twentieth century and the 1920s. Exact process dates remain unknown.",
+      "attested": "The Commission describes City land and water purchases, water export and groundwater use. It says settlers lost land and Paiute people lost ranch jobs.",
+      "unknown": "The account does not define which Native land uses or homes these purchases displaced. Job loss alone does not prove land seizure. The later land exchange is a separate process.",
+      "next_step": "Trace Native land and water use through the purchases. Distinguish forced loss from ordinary sales and the later exchange.",
+      "sources": [
+        "https://www.oviwc.org/owens-valley"
+      ]
+    },
+{
+      "id": "ledger-d1bb437815d35c78f0c9",
+      "name": "Owens Valley Paiute land exchange in the 1930s",
+      "place_and_era": "Bishop, Big Pine and Lone Pine, Owens Valley, California. The source gives both 1937 and 1939 for the exchange.",
+      "attested": "The Commission describes a federal and City land exchange. It reports a smaller occupied land base afterward. A plan named three valley reservations. Water export was one of several motives.",
+      "unknown": "Reports proposed moves outside the valley; a later plan named sites within it. The extent of actual moves remains unknown. Consent and force remain unresolved. Acreages and current water rights remain unverified.",
+      "next_step": "Define the affected people, former tracts and land loss. Keep proposals distinct from actual land change. Resolve dates without an exact date rule.",
+      "sources": [
+        "https://www.oviwc.org/owens-valley"
+      ]
+    },
+{
+      "id": "ledger-84caa3de4598f2ec85ac",
+      "name": "Owens Valley Paiute removal to Fort Tejon and return",
+      "place_and_era": "Owens Valley and Fort Tejon in California. Settler entry dates to the 1800s in this account. Removal and return dates remain unknown.",
+      "attested": "The Owens Valley Indian Water Commission describes forced removal to Fort Tejon after conflict and massacres. Ancestors returned. They faced loss of land access and few choices beyond ranch labor.",
+      "unknown": "The number removed, return routes and full land loss remain unknown. The people continued to live in the valley. This question overlaps the broad California settler case.",
+      "next_step": "Define the removed and returned groups and their home lands. Resolve the overlap with the California case before any new case decision.",
+      "sources": [
+        "https://www.oviwc.org/owens-valley"
+      ]
+    },
+{
+      "id": "ledger-f371ec701b7e212d9c4e",
+      "name": "Western Mono settlement inferred from shared speech",
+      "place_and_era": "Western Sierra Nevada, near the upper San Joaquin, Kings and Kaweah rivers. The date is unknown.",
+      "attested": "Kroeber infers a recent western Mono settlement from similar speech across the Sierra. He names western groups and their neighbors.",
+      "unknown": "The account gives no arrival date or land seizure. Earlier residents and land outcomes remain unknown. Kroeber leaves group ties and boundaries unclear. His account includes colonial bias and continued Mono presence.",
+      "next_step": "Define the people and land in this question. Compare it with the broad Numic spread case; do not assign its dates or victims.",
+      "sources": [
+        "https://www.yosemite.ca.us/library/kroeber/paiute_mono_koso.html"
+      ]
     }
 ],
   "cases_awaiting_map_locations": [
@@ -4190,5 +4234,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "Four Sri Lanka research notes join the source list. They keep two study questions and two chronicle questions open."
+  "update_scope": "Four Great Basin research notes join the source list. Two remain located questions. Two are candidates for further review."
 }
