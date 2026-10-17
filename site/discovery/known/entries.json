@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261017-crow-creek-source252-r19-rss54",
+  "version": "20261017-three-research-notes252-r21-rss56",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2251,16 +2251,17 @@
     ]
   },
   {
-    "id": "ledger-977eb7d0aad00d26ca3e",
-    "name": "Use of the Peter enclosure",
-    "place_and_era": "Peter enclosure in northwest Ohio. Dye places it in the Early Woodland period. Exact dates for any change in control remain unknown.",
-    "attested": "Dye describes the Peter enclosure. He links it to competition for resources.",
-    "unknown": "Defense and other uses remain possible. The enclosure does not establish an attack or a loss of land use.",
-    "next_step": "Define the uses of this site and any change in access or control.",
-    "sources": [
-      "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-    ]
-  },
+      "id": "ledger-977eb7d0aad00d26ca3e",
+      "name": "Use of the Peter enclosure",
+      "place_and_era": "Clay places Peter Village in Fayette County, Kentucky, in the Early Woodland period. Dye places the Peter enclosure in northwestern Ohio. This place conflict remains unresolved. Early Woodland is context, not a date for forced removal.",
+      "attested": "Clay reports post holes, burned wood, a ditch, and an inner bank. He interprets a stockade before the ditch. He reports unfinished mineral weights and small human skull fragments. Defense and sacred use remain possible. His small sample does not establish the uses of the whole site.",
+      "unknown": "The cause of the fire and the later use of the site remain unknown. Clay also considers decay or post removal. The skull fragments do not establish a violent death. No forced departure or loss of access follows from these traces alone.",
+      "next_step": "Keep both place accounts explicit. Seek evidence about site use and any imposed change in access or control.",
+      "sources": [
+        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf",
+        "https://heritage.ky.gov/Documents/Woodland%20Period%20Research%20in%20KY.pdf"
+      ]
+    },
   {
     "id": "ledger-9a1c3216c5c12c01aefa",
     "name": "Velvikudi grant-rights loss",
@@ -2667,16 +2668,16 @@
       ]
     },
 {
-      "id": "ledger-98c7f0e7b50d8a9ff097",
-      "name": "Vijitanagara: the text says the king took the city in a siege",
-      "place_and_era": "Sri Lanka. The chronicle places this siege in its ancient past. The date and exact site remain unknown.",
-      "attested": "The Mahavamsa reports that Dutthagamani took the fortified city after a siege. It describes deaths at the gates and in the streets. The narrator says he destroyed the city.",
-      "unknown": "The scope of the damage and the fate of residents remain unknown. The account does not establish total loss of life or a new resident group. Religious speech devalues the dead. The chapter also gives grief, restraint and rites for Elara. Its last verse condemns deaths from greed. Its large totals lack a verified count.",
-      "next_step": "Assess the reported loss of this city as one case. Keep the source claims and unknown effects on residents in view.",
-      "sources": [
-        "https://archive.org/details/mahavamsagreatch00geigrich"
-      ]
-    },
+        "id": "ledger-98c7f0e7b50d8a9ff097",
+        "name": "Vijitanagara: the text says the king took the city in a siege",
+        "place_and_era": "Sri Lanka. The chronicle places this siege in its ancient past. The date and exact site remain unknown.",
+        "attested": "The Mahavamsa reports that Dutthagamani took the fortified city after a siege. It describes deaths at the gates and in the streets. The narrator says he destroyed the city.",
+        "unknown": "The scope of the damage and the fate of residents remain unknown. The account does not establish total loss of life or a new resident group. Religious speech devalues the dead. The chapter also gives grief, restraint and rites for Elara. Its last verse condemns deaths from greed. Its large totals lack a verified count.",
+        "next_step": "Keep the reported siege as one research record. Its effects on residents remain unknown.",
+        "sources": [
+          "https://archive.org/details/mahavamsagreatch00geigrich"
+        ]
+      },
 {
       "id": "ledger-a2122d94e6657dd8bef8",
       "name": "Los Angeles land and water purchases in Owens Valley",
@@ -2722,16 +2723,16 @@
       ]
     },
 {
-      "id": "ledger-143c1b0b31c4a2576d76",
-      "name": "Mayurasarman: a reported grant of land",
-      "place_and_era": "The poem names land from the western sea to Prehara. The Prehara boundary and the dates of the acts remain unknown.",
-      "attested": "The translated praise poem says Pallava rulers made Mayurasarman a friend. He served them, then received land under a pact against entry by others.",
-      "unknown": "This grant does not establish that people lost their homes. The prior rights, scope of control, and length of the grant remain unknown.",
-      "next_step": "Assess the reported grant and its effect on land rights. Keep service to the rulers distinct from a claim of full sovereignty.",
-      "sources": [
-        "https://library.bjp.org/jspui/bitstream/123456789/1910/37/epigraphia-indica-vol-08-1905-1906.pdf"
-      ]
-    },
+        "id": "ledger-143c1b0b31c4a2576d76",
+        "name": "Mayurasarman: a reported grant of land",
+        "place_and_era": "The poem names land from the western sea to Prehara. The Prehara boundary and the dates of the acts remain unknown.",
+        "attested": "The translated praise poem says Pallava rulers made Mayurasarman a friend. He served them, then received land under a pact against entry by others.",
+        "unknown": "This grant does not establish that people lost their homes. The prior rights, scope of control, and length of the grant remain unknown.",
+        "next_step": "Keep the reported land grant as one research record. Its use on the ground and effects on prior users remain unknown.",
+        "sources": [
+          "https://library.bjp.org/jspui/bitstream/123456789/1910/37/epigraphia-indica-vol-08-1905-1906.pdf"
+        ]
+      },
 {
       "id": "ledger-cdf25823653bea64d71b",
       "name": "Mayurasarman and the base he made in a forest",
@@ -4268,5 +4269,5 @@
     }
   ],
   "updated_on": "2026-10-17",
-  "update_scope": "The Crow Creek note now includes the original source account by Willey. It keeps possible escapes and later ceremonies. The fire dates and later village use remain uncertain."
+  "update_scope": "The same three research notes now state their source limits. The Peter place conflict stays open. The two South Asian accounts leave land use and resident outcomes unknown."
 }
