@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261016-four-research-statuses-source241-r15-rss50",
+  "version": "20261016-sri-lanka-source245-r16-rss51",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2631,6 +2631,50 @@
       "sources": [
         "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
       ]
+    },
+{
+      "id": "ledger-cb210339d45bd995b888",
+      "name": "Sri Lanka: proposed Naga arrival in the Iron Age",
+      "place_and_era": "Sri Lanka. The Iron Age is source context. The time and place of any land loss remain unknown.",
+      "attested": "Deraniyagala proposes that people he links to the Nagas moved into land used by Yakka hunter-gatherers. This is a model.",
+      "unknown": "The people, route and land effects remain unresolved. The source also allows diffusion, local descent, shared ancestry, gene flow and drift.",
+      "next_step": "Assess who moved and what happened to prior land use. Keep the source model and its alternatives open.",
+      "sources": [
+        "https://www.archaeology.lk/wp-content/uploads/2018/04/Prehistory_and_protohistory_of_Sri_Lanka.pdf"
+      ]
+    },
+{
+      "id": "ledger-ada44584fd21b5e38d9c",
+      "name": "Sri Lanka: wet-rice growth and pressure on Yakka/Vadda life",
+      "place_and_era": "Sri Lanka. The early rice and town context gives no date or mapped area for this process.",
+      "attested": "Deraniyagala offers a model of Sinhalese wet-rice town growth. In his model, this growth forced Yakka/Vadda groups into a relict state. He also describes partial symbiosis. The groups kept their identity.",
+      "unknown": "The bounded people, place and land-use effects remain unresolved. This claim of pressure is a model, not an observed expulsion.",
+      "next_step": "Assess the claimed pressure and its land-use effects. Keep partial symbiosis and retained identity in view.",
+      "sources": [
+        "https://www.archaeology.lk/wp-content/uploads/2018/04/Prehistory_and_protohistory_of_Sri_Lanka.pdf"
+      ]
+    },
+{
+      "id": "ledger-ec4d3902274ca9336e6e",
+      "name": "Vijitanagara: the text says people fled from the river bank to this city",
+      "place_and_era": "Sri Lanka. The chronicle places this refuge in its ancient past. The date and exact route remain unknown.",
+      "attested": "The Mahavamsa says people on the river bank escaped death and sought protection in Vijitanagara. It calls them Damilas. This is a source term, with no fixed modern ethnic match.",
+      "unknown": "The people were soldiers, other residents, or both. Their mix remains unknown. Their number, homes and later fate also remain unknown. The later siege does not settle their fate. The chapter joins religious claims that devalue the dead with grief and a final adverse view of deaths from greed.",
+      "next_step": "Assess who moved and what happened to their homes or land. Keep refuge and military retreat open as possible parts of this movement.",
+      "sources": [
+        "https://archive.org/details/mahavamsagreatch00geigrich"
+      ]
+    },
+{
+      "id": "ledger-98c7f0e7b50d8a9ff097",
+      "name": "Vijitanagara: the text says the king took the city in a siege",
+      "place_and_era": "Sri Lanka. The chronicle places this siege in its ancient past. The date and exact site remain unknown.",
+      "attested": "The Mahavamsa reports that Dutthagamani took the fortified city after a siege. It describes deaths at the gates and in the streets. The narrator says he destroyed the city.",
+      "unknown": "The scope of the damage and the fate of residents remain unknown. The account does not establish total loss of life or a new resident group. Religious speech devalues the dead. The chapter also gives grief, restraint and rites for Elara. Its last verse condemns deaths from greed. Its large totals lack a verified count.",
+      "next_step": "Assess the reported loss of this city as one case. Keep the source claims and unknown effects on residents in view.",
+      "sources": [
+        "https://archive.org/details/mahavamsagreatch00geigrich"
+      ]
     }
 ],
   "cases_awaiting_map_locations": [
@@ -4146,5 +4190,5 @@
     }
   ],
   "updated_on": "2026-10-16",
-  "update_scope": "Four research notes have new next steps. They keep the reported accounts and their open questions in view."
+  "update_scope": "Four Sri Lanka research notes join the source list. They keep two study questions and two chronicle questions open."
 }
