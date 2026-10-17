@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261017-four-research-notes256-r22-rss57",
+  "version": "20261017-eight-research-notes264-r23-rss58",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2798,6 +2798,94 @@
   "sources": [
     "https://irma.nps.gov/DataStore/DownloadFile/731776"
   ]
+},
+{
+  "id": "ledger-651853183e4322b43ae4",
+  "name": "Forced move from the northern Kurils",
+  "place_and_era": "The move was from the northern Kurils to Shikotan. It took place in 1884.",
+  "attested": "A university page reports a forced move in 1884. The government of Japan forced the move. The page names northern Kuril Ainu as the people moved. It names Shikotan as their new home.",
+  "unknown": "This is a later summary, not an account from 1884. The route, length of stay and terms of return are unknown. Later population decline does not show a death count or its cause.",
+  "next_step": "Prepare this reviewed case for the atlas. Keep its scale and later history unknown.",
+  "sources": [
+    "https://hokudai-koko.sakura.ne.jp/kaap/objectives/"
+  ]
+},
+{
+  "id": "ledger-9a0686d68a5c9886270d",
+  "name": "The exile of Anwar",
+  "place_and_era": "Sonargaon in Bengal. The year is not known.",
+  "attested": "Eaton reports an exile. Raja Ganesh sent Anwar to Sonargaon.",
+  "unknown": "The source names Anwar. It does not name people who went with him. Whether this claim fits a case stays open.",
+  "next_step": "Review the named exile under the case rule. Keep any wider group unknown.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch03"
+  ]
+},
+{
+  "id": "ledger-2f9948ca7ed3034851f1",
+  "name": "The exile and return of Ala al-Haq",
+  "place_and_era": "From the capital to Sonargaon. The year is not known.",
+  "attested": "Eaton reports that Sultan Sikandar sent Ala al-Haq into exile. He states that the exile ended after several years. Ala al-Haq was then free to return.",
+  "unknown": "Eaton cites a Sufi text for this claim. The exile names one man. Whether this claim fits a case stays open.",
+  "next_step": "Review the exile and return as one claim. Keep the later return in view.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch03"
+  ]
+},
+{
+  "id": "ledger-2da57c7ac359c04eb6b8",
+  "name": "The forced move of Tawwama",
+  "place_and_era": "From Delhi to Sonargaon. The year is not known.",
+  "attested": "A note in Eaton reports an exile. The Delhi court sent Tawwama to Sonargaon.",
+  "unknown": "The note names Tawwama, not his followers. It gives no year for the exile or return. Whether this claim fits a case stays open.",
+  "next_step": "Review the named exile under the case rule. Keep the earlier move from Bukhara separate.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch03"
+  ]
+},
+{
+  "id": "ledger-9720246c7258e29a6118",
+  "name": "The capture of Sylhet",
+  "place_and_era": "Sylhet town in Bengal.",
+  "attested": "Eaton cites a stone text for this claim. It names Sikandar Khan Ghazi as the conqueror. It puts the capture in 1303 or 1304.",
+  "unknown": "Ibn Battuta saw Shah Jalal much later. This visit does not attest to the earlier capture. The first site of the stone is not clear.",
+  "next_step": "Review the town control claim on its own. Keep the saint and the conqueror separate.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch03"
+  ]
+},
+{
+  "id": "ledger-c1e91896e52fdf15658b",
+  "name": "A temple site in Deva Mahal",
+  "place_and_era": "Deva Mahal, a port in Bengal.",
+  "attested": "A late account names Jalal al-Din Tabrizi. It says that he pulled down a temple. It says that a Sufi rest house took its place.",
+  "unknown": "Eaton sees a later model of conquest in this account. The exact year is not known. Land bought for a kitchen is a separate claim.",
+  "next_step": "Review the claim and its source limits. Keep the temple site and bought land separate.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch03"
+  ]
+},
+{
+  "id": "ledger-2a5dcc027f5fec577747",
+  "name": "A question about Shah Jalal and his followers",
+  "place_and_era": "Sylhet and the Bengal frontier.",
+  "attested": "Eaton cites a later account of Shah Jalal and his followers. It reports shares and leave to marry. Eaton links these to homes and local ties.",
+  "unknown": "The people and their rights remain unclear. Marriage or a new home does not prove forced removal. The town capture is a related but separate claim.",
+  "next_step": "Trace the people and the rights in the account. Keep any link to the town capture open.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch03"
+  ]
+},
+{
+  "id": "ledger-185e249f21e1d35a4d62",
+  "name": "A crop levy near Habiganj",
+  "place_and_era": "Near Habiganj in Bengal.",
+  "attested": "Eaton cites a report by Ibn Battuta. It describes local people who grew crops. The report calls them non-Muslims under protection. A levy took a share of their crop.",
+  "unknown": "This is a tax report. It does not state a loss of land or homes. Any change in local rights stays open.",
+  "next_step": "Review the local rights and the levy. Keep a tax claim apart from land loss.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch03"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4313,5 +4401,5 @@
     }
   ],
   "updated_on": "2026-10-17",
-  "update_scope": "Four research notes are new. The Ahom note also has an update. These notes add no atlas case or model score."
+  "update_scope": "Eight research notes are new. Seven concern Bengal. One concerns the northern Kurils. These notes add no atlas case or active model score."
 }
