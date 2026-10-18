@@ -1446,6 +1446,27 @@
   ],
   "occurred_at": "2026-10-18T07:32:36.356387Z",
   "published_at": "2026-10-18T08:02:02.271742Z"
+},
+{
+  "id": "2026-10-18-north-america-research-notes",
+  "title": "North America: new research notes",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added 13 research notes and revised three earlier notes. They cover reported attacks, village loss and land recovery in North America. Each note states what the source records and what still needs proof. These notes do not add cases to the atlas."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Source report",
+      "url": "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+    }
+  ],
+  "occurred_at": "2026-10-18T08:56:48.015316Z",
+  "published_at": "2026-10-18T10:26:05.846837Z"
 }
   ]
 }

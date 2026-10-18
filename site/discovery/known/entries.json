@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r28-sirsukh-fiji-source277-rss63",
+  "version": "r29-keener-source290-rss64",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -703,16 +703,17 @@
     ]
   },
   {
-    "id": "ledger-b4f74d9fd59a33f27859",
-    "name": "Erie defeat and effects on homes",
-    "place_and_era": "Northeast North America. Dye places this defeat by 1656. This is source context, not a fixed event date.",
-    "attested": "Dye reports defeat of the Erie people. The chapter also describes claims to land and captives. The effects for this group need separate study.",
-    "unknown": "Defeat does not prove that a people died out. The effects on homes, land and rule remain open. The captive passage does not define the whole people. Dye cites work that we did not read.",
-    "next_step": "Keep this question distinct from the Huron, Petun and Neutral questions. Trace the effects on homes, land use and rule.",
-    "sources": [
-      "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-    ]
-  },
+  "id": "ledger-b4f74d9fd59a33f27859",
+  "name": "Erie village and fort losses",
+  "place_and_era": "The source reports an Erie village lost in 1654. It reports a fort lost in 1655 in a separate entry. The body gives a wider context from 1654 to 1656.",
+  "attested": "Keener reports a village and a fort destroyed in separate entries. The figure is a dramatization of the fort assault.",
+  "unknown": "The village and fort are not proved to be one event. Later use and the fate of all Erie people remain open.",
+  "next_step": "Keep the village and fort legs separate in later work.",
+  "sources": [
+    "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf",
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
   {
     "id": "ledger-232e8ee950f48d00d82b",
     "name": "Ezana’s reported Noba campaign",
@@ -900,16 +901,17 @@
     ]
   },
   {
-    "id": "ledger-4e10ef512e4e8e4f0943",
-    "name": "Huron and Petun defeat and effects on homes",
-    "place_and_era": "Northeast North America. Dye places these defeats by 1651. This is source context, not one fixed event date.",
-    "attested": "Dye groups Huron and Petun in a report of defeat. The chapter also describes claims to land and captives. The links to each group need care.",
-    "unknown": "Defeat does not mean that a people died out. The land, home and captive effects for each group remain open. Dye cites work that we did not read.",
-    "next_step": "Keep Huron and Petun distinct within this source question. Trace effects on homes, land use or control for each group. Keep later refuge and captive roles distinct.",
-    "sources": [
-      "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-    ]
-  },
+  "id": "ledger-4e10ef512e4e8e4f0943",
+  "name": "Huron and Petun losses at separate towns",
+  "place_and_era": "The source reports Huron town losses in 1648 and 1649. It reports a separate Tobacco village loss. That entry dates the loss to 1651.",
+  "attested": "Keener reports that Huron towns were taken or destroyed. A separate entry reports a Tobacco village destroyed and people captured.",
+  "unknown": "These acts do not fix the fate of all Huron and Petun people. The town losses and later captive roles remain distinct.",
+  "next_step": "Keep each Huron and Petun leg separate. Trace later homes and land use for each leg.",
+  "sources": [
+    "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf",
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
   {
     "id": "ledger-f6bb8bcd374c0660256c",
     "name": "Imatkha herd loss and settlement",
@@ -1495,16 +1497,17 @@
     ]
   },
   {
-    "id": "ledger-db02fcb657e284f5fa0c",
-    "name": "Neutral defeat and effects on homes",
-    "place_and_era": "Northeast North America. Dye places this defeat by 1653. This is source context, not a fixed event date.",
-    "attested": "Dye reports defeat of the Neutral people. He also describes wider claims to land and captives. Those wider reports do not fix the fate of each group.",
-    "unknown": "Defeat does not prove that a people died out. The effects on homes, land and rule remain open. The captive passage does not define the whole people. Dye cites work that we did not read.",
-    "next_step": "Keep this question distinct from the Huron, Petun and Erie questions. Check which people or tracts lost homes, use or control.",
-    "sources": [
-      "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-    ]
-  },
+  "id": "ledger-db02fcb657e284f5fa0c",
+  "name": "Neutral people lost homes in attacks on their villages",
+  "place_and_era": "Neutral villages in the southern Ontario area. The source reports one village lost in 1650. It reports two more lost in 1651.",
+  "attested": "Keener reports that one Neutral village was destroyed in 1650. He reports that two villages were destroyed in 1651.",
+  "unknown": "The reports do not fix all village sites, later use or the fate of every resident. Defeat does not mean that a people died out.",
+  "next_step": "Keep the reported losses separate. Trace later homes and land use for each loss.",
+  "sources": [
+    "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf",
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
   {
     "id": "ledger-4958965b94d6bad18f0e",
     "name": "New homes and moves in the American Bottom",
@@ -3027,6 +3030,149 @@
   "sources": [
     "https://doi.org/10.22459/TA31.12.2009.05"
   ]
+},
+{
+  "id": "ledger-b932393011156fca42c5",
+  "name": "Huron villages forced to move",
+  "place_and_era": "Huron villages in northeast North America. A report from 1615 describes a retreat before that year.",
+  "attested": "Keener reports that Onondaga attacks forced Huron villages to move. The former sites are not known.",
+  "unknown": "The move year, routes and later fate of all those who moved remain unknown.",
+  "next_step": "Keep this retreat apart from the later Huron and Petun defeats.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-b2a10934de5273f29845",
+  "name": "A fort burned at Stadocona",
+  "place_and_era": "Stadocona, in the St. Lawrence area. The source dates the attack to 1533.",
+  "attested": "Keener reports that Toudamans attacked and burned a fort. People were driven from it and killed as they came out.",
+  "unknown": "This attack does not fix the later fate of all St. Lawrence peoples. The source uses more than one way to state the losses.",
+  "next_step": "Keep this fort attack apart from the wider loss of St. Lawrence towns.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-7fb6c2d5d126d1cb7bce",
+  "name": "Loss of a Mohawk village",
+  "place_and_era": "A Mohawk village. Keener dates its loss to 1626 but does not name the site.",
+  "attested": "Keener reports that Mahican forces destroyed this village.",
+  "unknown": "The source does not fix where all its people went, or when a return was possible.",
+  "next_step": "Trace later use of the village site. Do not assume that all Mohawk people left.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-4cfcb7e9f0d4f563ea0c",
+  "name": "Capture of a Fire Nation village",
+  "place_and_era": "A walled Fire Nation village. The source dates the siege to 1642.",
+  "attested": "Keener reports that Neutral forces took the village after a siege. The account reports deaths and captives.",
+  "unknown": "The exact site and later fate of all captives remain unknown. Fire Nation is the source name.",
+  "next_step": "Keep the capture apart from later attacks on Neutral villages.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-dcc766e1b0cabcd92975",
+  "name": "A lost village of the Susquehannock people",
+  "place_and_era": "A Susquehannock village. The source dates its loss to July 1652 and marks the place as uncertain.",
+  "attested": "Keener lists the village as destroyed. The entry also reports captives and Iroquois deaths.",
+  "unknown": "The exact site, later use and fate of all residents remain unknown.",
+  "next_step": "Keep this loss apart from the reported move into Maryland in 1675.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-e4225f206ee3fe1e5b53",
+  "name": "Loss of a Seneca village",
+  "place_and_era": "A Seneca village. The source dates this loss to June 1654.",
+  "attested": "Keener reports its destruction in a clash between Iroquois and Erie forces. The entry says Seneca warriors lost.",
+  "unknown": "The order of the group names does not fix who attacked. Later use of the site remains unknown.",
+  "next_step": "Keep this loss apart from later attacks on Erie places.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-ba57dafa68341ee3f0c5",
+  "name": "Assault on a defended place in 1660",
+  "place_and_era": "A place held by a French force. Keener dates the assault to 1660 but does not name the site here.",
+  "attested": "Keener reports that attackers used shields and broke into the walled place. Its defenders were killed or captured.",
+  "unknown": "This does not prove that a whole town was forced out. A table entry has a possible link to this clash. That link is not settled.",
+  "next_step": "Keep the place use and the possible table link distinct.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-94b1990642ea9d9900ef",
+  "name": "A lost village of the Abenaki people",
+  "place_and_era": "An Abenaki village in New England. The source dates its loss to late 1661.",
+  "attested": "Keener lists the village as destroyed.",
+  "unknown": "The exact site, later use and fate of all residents remain unknown.",
+  "next_step": "Trace this village loss. Do not treat it as the fate of all Abenaki people.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-964bcbbc711f51ff15dc",
+  "name": "Mohawk villages destroyed after people left",
+  "place_and_era": "Mohawk villages in Iroquoia. The source dates the French attack to 1666.",
+  "attested": "Keener reports that French forces destroyed villages after their people left. His table lists four villages.",
+  "unknown": "The attack does not explain why people first left. Whether a return was possible remains open.",
+  "next_step": "Keep the destruction and the cause of the earlier departure separate.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-f3d6d8a91e48b250a0d3",
+  "name": "A Fox village destroyed",
+  "place_and_era": "A Fox village in the Great Lakes area. The source dates its loss to March 1670.",
+  "attested": "Keener reports that Seneca forces destroyed the village. He also reports captives and deaths.",
+  "unknown": "The exact site, later use and fate of all residents remain unknown.",
+  "next_step": "Keep this village loss apart from later settler expansion in the region.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-7f8ced998311466d1837",
+  "name": "Damage to property held by the French",
+  "place_and_era": "The source dates this clash to July 1688. It does not give a full account of the French property.",
+  "attested": "Keener reports extensive damage to French property in a clash.",
+  "unknown": "The account does not say which homes, land or other property were harmed. The link to loss of place use remains open.",
+  "next_step": "Find what property was harmed and what use of a place was lost.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-12fef6c1b7afe3caf5c8",
+  "name": "French settlements burned near Montreal",
+  "place_and_era": "French settlements near Montreal. The source dates this attack to November 1689.",
+  "attested": "Keener reports that settlements were burned.",
+  "unknown": "The exact bounds, later use and fate of all residents remain unknown. This is not the same claim as French farm expansion.",
+  "next_step": "Trace later use of these places. Do not assume that all residents left.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
+},
+{
+  "id": "ledger-9515a43d25dc85fa755d",
+  "name": "Recovery of lands in the 1680s",
+  "place_and_era": "Some lands once taken by Iroquois forces. Keener describes their recovery by the 1680s.",
+  "attested": "Keener reports that their opponents won back some lands.",
+  "unknown": "He does not name the tracts or set out a full return of former residents.",
+  "next_step": "Find which lands and changes in control this report describes.",
+  "sources": [
+    "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4542,5 +4688,5 @@
     }
   ],
   "updated_on": "2026-10-18",
-  "update_scope": "Three Sirsukh and Fiji research notes"
+  "update_scope": "Thirteen new and three updated North America research notes"
 }
