@@ -1606,6 +1606,39 @@
   ],
   "occurred_at": "2026-10-18T19:24:29.111184Z",
   "published_at": "2026-10-18T19:50:41.513537Z"
+},
+{
+  "id": "2026-10-18-moundville-homes-and-war-notes",
+  "title": "Three notes on homes and war",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added three notes on Moundville and the Black Warrior River valley. They draw on one chapter by Knight and Steponaitis. These are research questions, not new atlas cases or active model scores.",
+    "The first note describes a new town with walls and a planned layout. Builders cleared earlier structures for it. People moved inside the walls. The account does not establish forced moves or the expulsion of prior users.",
+    "The next note covers homes that became grave sites after about 1300. The authors propose three possible causes for the move from the center. Leaders sought a more sacred center, local soils and wood ran short, or the threat of attack fell. The authors do not choose one cause. The causes can act together.",
+    "The last note covers the loss of valley residents about 1650. The authors link that loss to war pressure across the region. The account does not show what happened to all residents. It establishes neither a death toll nor new settlers.",
+    "The dated report lists 307 source notes and 151 map notes. The feed has 69 posts. The live atlas remains at 540 cases and 552 stops."
+  ],
+  "links": [
+    {
+      "label": "Read the town and walls note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-8445369b89d4e3e8dacd"
+    },
+    {
+      "label": "Read the homes and graves note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-6ecef61d840fa7b22041"
+    },
+    {
+      "label": "Read the valley population loss note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-d9f52ae9fe7b60a2feb9"
+    },
+    {
+      "label": "Read the dated report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-18T21:47:11.435820Z",
+  "published_at": "2026-10-18T22:07:30.365740Z"
 }
   ]
 }

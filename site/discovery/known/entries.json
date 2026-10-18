@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r33-nine-source-notes304-rss68",
+  "version": "r34-moundville-source307-rss69",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3311,6 +3311,33 @@
   "sources": [
     "https://www.nps.gov/alfl/learn/historyculture/antelope-creek-culture.htm"
   ]
+},
+{
+  "id": "ledger-8445369b89d4e3e8dacd",
+  "name": "Homes within the walls at Moundville",
+  "place_and_era": "Moundville is on the Black Warrior River in Alabama. The source dates this change to about 1200 to 1300.",
+  "attested": "The authors describe a new town with walls and a planned layout. Builders cleared earlier structures for it. They took Mound X out of use to clear a path for the wall. People moved inside the walls. The authors link this move to a need for defense.",
+  "unknown": "The account does not establish forced moves or the expulsion of prior users. The builders' authority and the residents' choices remain unclear.",
+  "next_step": "Examine who chose the new layout and the moves. Ask how those choices changed prior use of the site.",
+  "sources": []
+},
+{
+  "id": "ledger-6ecef61d840fa7b22041",
+  "name": "Homes and graves at Moundville",
+  "place_and_era": "Moundville is on the Black Warrior River in Alabama. The authors date the move to after about 1300.",
+  "attested": "The authors say most residents left the center, probably for farms in the valley. Former home areas became grave sites. Some people stayed at the center, and farms remained in use. One possible cause is a choice by leaders to empty the center. The authors also propose soil depletion and a lack of wood, or less threat of attack. These causes can act together.",
+  "unknown": "The authors do not choose one cause. They do not establish that leaders forced people out. Exact routes and household choices remain unknown.",
+  "next_step": "Examine the three proposed causes together. Ask how they changed where people lived and used the site.",
+  "sources": []
+},
+{
+  "id": "ledger-d9f52ae9fe7b60a2feb9",
+  "name": "War and the loss of valley residents",
+  "place_and_era": "The Black Warrior River valley is in Alabama. The authors date this loss to about 1650.",
+  "attested": "The authors say people lived in valley villages until about 1650. They link the loss of residents to war pressure across the region. They describe the valley as a buffer between proto-Creeks to the east and Choctaws to the west.",
+  "unknown": "The account does not show what happened to all residents. Exact moves, routes and later control remain unknown. The account does not establish a death toll or new settlers. The source does not name attackers for specific villages.",
+  "next_step": "Examine how war pressure changed homes and use of the valley. Keep this loss separate from the earlier moves at Moundville.",
+  "sources": []
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4826,5 +4853,5 @@
     }
   ],
   "updated_on": "2026-10-18",
-  "update_scope": "Nine research notes and a dated report refresh"
+  "update_scope": "Three research notes and a dated report refresh"
 }
