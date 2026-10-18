@@ -1521,6 +1521,36 @@
   ],
   "occurred_at": "2026-10-18T14:37:08.362557Z",
   "published_at": "2026-10-18T15:37:37.434573Z"
+},
+{
+  "id": "2026-10-18-later-homes-near-cahokia",
+  "title": "Later homes near Cahokia",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added two research notes on later Indigenous homes near Cahokia. One concerns renewed use near Horseshoe Lake. The other concerns a reported move in 1735 under pressure from French colonists.",
+    "The study also reports later forced moves to Oklahoma. A possible later departure and the forced moves remain separate research questions. Atlas case totals stay the same."
+  ],
+  "links": [
+    {
+      "label": "Read the later homes note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-cc5c7fae5b54cf51b033"
+    },
+    {
+      "label": "Read the pressured move note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-41ab35522d4c20e48ec4"
+    },
+    {
+      "label": "Read the dated report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    },
+    {
+      "label": "Source study",
+      "url": "https://doi.org/10.1017/aaq.2019.103"
+    }
+  ],
+  "occurred_at": "2026-10-18T17:15:15.153599Z",
+  "published_at": "2026-10-18T17:40:45.270783Z"
 }
   ]
 }

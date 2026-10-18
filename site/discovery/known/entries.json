@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r31-sanganakallu-source293-rss66",
+  "version": "r32-white2020-source295-rss67",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3206,6 +3206,28 @@
   "sources": [
     "https://doi.org/10.1007/s12520-015-0240-9"
   ]
+},
+{
+  "id": "ledger-cc5c7fae5b54cf51b033",
+  "name": "Later homes near Horseshoe Lake",
+  "place_and_era": "This study concerns Horseshoe Lake in Illinois. The lake is near Cahokia. It traces later use from about 1400 to 1700.",
+  "attested": "The study finds renewed Indigenous use by about 1500. It points to growth toward about 1650. In the authors' view, hunts are one possible use.",
+  "unknown": "The lake evidence does not name each group or explain each move. The roles of climate, disease and human movement remain unclear. It does not by itself show forced removal.",
+  "next_step": "Study changes in local homes and land use. Keep earlier lake users distinct from later named groups.",
+  "sources": [
+    "https://doi.org/10.1017/aaq.2019.103"
+  ]
+},
+{
+  "id": "ledger-41ab35522d4c20e48ec4",
+  "name": "A pressured move to Horseshoe Lake",
+  "place_and_era": "This question concerns a reported move in 1735 from a mission near Cahokia to Horseshoe Lake. Later questions concern 1752 and the first half of the 1800s.",
+  "attested": "White and colleagues report a move by Cahokia group members in 1735. They link it to tensions with French colonists. They also report forced moves to Oklahoma in the first half of the 1800s. This later account concerns former local residents and their descendants.",
+  "unknown": "The source leaves the pressure on each household and terms of land use unclear. A possible departure in 1752 and later land uses remain separate questions. The Oklahoma report is not yet matched to one removal episode.",
+  "next_step": "Trace the pressured move and changes in home and land use. Keep later departure and forced removal questions open and distinct.",
+  "sources": [
+    "https://doi.org/10.1017/aaq.2019.103"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4721,5 +4743,5 @@
     }
   ],
   "updated_on": "2026-10-18",
-  "update_scope": "Two southern India research notes and dated discovery report refresh"
+  "update_scope": "Two Cahokia research notes and a dated report refresh"
 }
