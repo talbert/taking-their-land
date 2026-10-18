@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r29-keener-source290-rss64",
+  "version": "r30-barrie-report-source291-rss65",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3173,6 +3173,17 @@
   "sources": [
     "https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu148795159550333"
   ]
+},
+{
+  "id": "ledger-f6402fd8d16df74512ab",
+  "name": "Barrie village formation and earlier land use",
+  "place_and_era": "Simcoe County, Ontario. Sutton places the village at about 1280 to 1330 CE. A test on maize gave a later date.",
+  "attested": "Sutton reports houses, middens and evidence of crops and food use. He argues that migrants founded a permanent village and kept links to groups farther south.",
+  "unknown": "The report does not identify the exact source community. The rights and fate of earlier users remain unclear. It does not establish a forced move. The final abandonment of the village is also unclear.",
+  "next_step": "Trace earlier use and the later history of the same village tract. Keep the date conflict and gaps in local rights evidence visible.",
+  "sources": [
+    "https://ontarioarchaeology.org/wp-content/uploads/oa067-03_sutton.pdf"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4688,5 +4699,5 @@
     }
   ],
   "updated_on": "2026-10-18",
-  "update_scope": "Thirteen new and three updated North America research notes"
+  "update_scope": "Barrie research note and dated discovery report refresh"
 }

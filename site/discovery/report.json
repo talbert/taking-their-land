@@ -1,16 +1,16 @@
 {
   "schema": "taking-land-public-discovery-status-v1",
-  "version": "p7-r24",
+  "version": "p7-r30",
   "status": "BOUNDED_DATED_SEARCH_SNAPSHOT",
   "publication": null,
-  "as_of_utc": "2026-10-17T20:01:41.416916+00:00",
+  "as_of_utc": "2026-10-18T11:52:23.871308+00:00",
   "known_roster": {
   "cases": 540,
   "stops": 552,
   "known_ordinary_remaining": 74,
   "holds": 64,
   "flight_notes": 22,
-  "rss_entries": 59,
+  "rss_entries": 65,
   "flight_note_scope": "Dated public atlas20261006e;22 flight notes."
 },
   "local_and_live_same_at_preparation": false,
@@ -16476,18 +16476,18 @@
     "https://raw.githubusercontent.com/glottolog/glottolog-cldf/072ca0d0410039fb8b779be8fc165bac575d2cda/cldf/languages.csv",
     "https://raw.githubusercontent.com/glottolog/glottolog-cldf/072ca0d0410039fb8b779be8fc165bac575d2cda/cldf/values.csv"
   ],
-  "report_date_local": "2026-10-17",
+  "report_date_local": "2026-10-18",
   "timezone": "America/Denver",
-  "bound_checkpoint": 1812,
+  "bound_checkpoint": 2026,
   "external_ledger": {
-  "records": 276,
+  "records": 297,
   "types": {
-    "candidate": 159,
-    "control": 2,
-    "source_located_lead": 111,
-    "search_lead": 4
-  },
-  "workflow_admissions": 90,
+  "candidate": 176,
+  "source_located_lead": 115,
+  "search_lead": 4,
+  "control": 2
+},
+  "workflow_admissions": 94,
   "workflow_unit": "source-only inactive archive record; not established execution or public admission",
   "scientific_activations": 0,
   "unique_history_count": "UNASSESSED",
@@ -16495,46 +16495,46 @@
   "unique_candidates_outside_frozen_roster": "UNASSESSED"
 },
   "population_index": {
-  "version": 141,
+  "version": 154,
   "current_inventory_counts": {
-    "population_records": 196,
-    "population_event_edges": 371,
-    "population_population_edges": 5,
-    "canonical_unresolved_records": 220,
-    "intake_name_leads_total": 2358,
-    "intake_name_leads_fully_dispositioned": 409,
-    "intake_name_leads_partially_dispositioned": 38,
-    "intake_name_leads_not_yet_processed": 1911,
-    "external_ledger_records": 276,
-    "isolated_admission_workflow": 78,
-    "scientific_activations": 0,
-    "external_per_record_question_envelopes_unresolved": 424,
-    "standalone_cohort_history_questions_unresolved": 28,
-    "external_name_leads_v40_tranche": 2,
-    "external_name_question_views_v40_tranche": 4,
-    "source_phase_open_questions": 24,
-    "external_name_leads_v41_tranche": 1,
-    "external_name_question_views_v41_tranche": 2,
-    "external_name_leads_cumulative": 4,
-    "external_name_question_views_cumulative": 8,
-    "external_name_leads_v42_tranche": 1,
-    "external_name_question_views_v42_tranche": 2,
-    "little_muck_provisional_workflow_entries": 1,
-    "little_muck_accepted_source_question_forms": 2,
-    "little_muck_generic_history_inquiries_unassessed": 2,
-    "additional_independent_generic_history_questions_v42": 0
-  },
+  "population_records": 196,
+  "population_event_edges": 371,
+  "population_population_edges": 5,
+  "canonical_unresolved_records": 220,
+  "intake_name_leads_total": 2358,
+  "intake_name_leads_fully_dispositioned": 409,
+  "intake_name_leads_partially_dispositioned": 38,
+  "intake_name_leads_not_yet_processed": 1911,
+  "external_ledger_records": 297,
+  "isolated_admission_workflow": 94,
+  "scientific_activations": 0,
+  "external_per_record_question_envelopes_unresolved": 466,
+  "standalone_cohort_history_questions_unresolved": 28,
+  "external_name_leads_v40_tranche": 2,
+  "external_name_question_views_v40_tranche": 4,
+  "source_phase_open_questions": 24,
+  "external_name_leads_v41_tranche": 1,
+  "external_name_question_views_v41_tranche": 2,
+  "external_name_leads_cumulative": 4,
+  "external_name_question_views_cumulative": 8,
+  "external_name_leads_v42_tranche": 1,
+  "external_name_question_views_v42_tranche": 2,
+  "little_muck_provisional_workflow_entries": 1,
+  "little_muck_accepted_source_question_forms": 2,
+  "little_muck_generic_history_inquiries_unassessed": 2,
+  "additional_independent_generic_history_questions_v42": 0
+},
   "intake_is_discovery_denominator": false,
   "name_leads_are_populations": false,
   "workflow_resolves_history": false,
-  "event_questions_unresolved": 424,
+  "event_questions_unresolved": 466,
   "cohort_questions_unresolved": 28,
   "source_phase_question_views": 24,
   "question_views_independent_or_additive": false,
   "current_selector_workflow": [
-    276,
-    90
-  ],
+  297,
+  94
+],
   "dated_body_workflow_count": 78,
   "ancestral_workflow_binding": {
     "path": "maintenance/discovery_repair_20261003/scientific_admissions/sonpur_singrai_rights_loss_archival80_combined_20261016_v1/outputs/first/source/WORKFLOW_BINDING.json",
@@ -16542,40 +16542,40 @@
     "sha256": "2b466a897a79e75c3c69371260ab57343bcfeabad06150900e24c397f8b1611f"
   },
   "current_root_binding": {
-    "artifact": {
-      "path": "maintenance/discovery_repair_20261003/ledger_successors/bengal_ch4_six_questions_v141_20261017_v1/outputs/first/candidate_ledger.json",
-      "bytes": 8132875,
-      "sha256": "8fe0d5315a253dbb9004fc48656b971730e4247e4ddd9708fbae39c8cdc0324d"
-    },
-    "current_workflow_count": 90,
-    "selector_version": 141,
-    "Root_Main": {
-      "path": "maintenance/work_loop_progress_20261006_1794/MAIN_ACCEPTANCE.json",
-      "bytes": 4731,
-      "sha256": "616e118f7471d7a020f0df838dadf8666e891978c833ffac6b2e95dbd50b47ae"
-    },
-    "actual_source_adoption": {
-      "path": "maintenance/work_loop_progress_20261006_1794/bengal_ch4_application/SOURCE_ADOPTION.json",
-      "bytes": 1861,
-      "sha256": "f8414aa1d1d0aa3b69630022758ac200cf3f631eac85868d791e7749accb0c5b"
-    },
-    "graph_Main": {
-      "path": "maintenance/discovery_repair_20261003/population_index/ahom_ta01_d2_graph_proposal_20261017_v1/IMPLEMENTATION_DESCRIPTOR.json",
-      "bytes": 10133,
-      "sha256": "4dce141b40fc53f3b170463c2b93e1429373c6cf8dfb97df76847b4f4b22f771"
-    },
-    "archival_workflow_binding": {
-      "path": "maintenance/discovery_repair_20261003/scientific_admissions/kuril1884_compelled_residence_archival90_proposal_20261017_v1/outputs/first/source/WORKFLOW_BINDING.json",
-      "bytes": 5491,
-      "sha256": "877efe0767d3f3d349d5c73a04c26661d1673bb10a45e5e755120bef9a23a35c"
-    }
+  "artifact": {
+    "path": "maintenance/work_loop_progress_20261006_2026/prepared/candidate_ledger.json",
+    "bytes": 8403876,
+    "sha256": "5f64f6e1bd688a60c971fd718b01886020874425e696a9bb0cf4cd728d97ab2e"
   },
-  "qualification": "Selector 141 binds 276 source records and 90 inactive records. The body still lists 78 from an earlier date. Its version 135 link lists 88. The current archive link lists 90. These counts do not describe active model cases.",
+  "current_workflow_count": 94,
+  "selector_version": 154,
+  "Root_Main": {
+    "path": "maintenance/work_loop_progress_20261006_2026/MAIN_ACCEPTANCE.json",
+    "bytes": 2362,
+    "sha256": "6b4d62dd6367b2ef2e6992f112d0ad50eac5213dd5328e723420b8ddc6f04f9d"
+  },
+  "actual_source_adoption": {
+    "path": "maintenance/work_loop_progress_20261006_2026/application/RECEIPT.json",
+    "bytes": 1146,
+    "sha256": "070b219a7c31c9ce6244030f46e9a01feda0b0fa52aee464c34c6706a6db55c2"
+  },
+  "graph_Main": {
+    "path": "maintenance/discovery_repair_20261003/population_index/ahom_ta01_d2_graph_proposal_20261017_v1/IMPLEMENTATION_DESCRIPTOR.json",
+    "bytes": 10133,
+    "sha256": "4dce141b40fc53f3b170463c2b93e1429373c6cf8dfb97df76847b4f4b22f771"
+  },
+  "archival_workflow_binding": {
+    "path": "maintenance/work_loop_progress_20261006_2026/prepared/WORKFLOW_BINDING.json",
+    "bytes": 1254,
+    "sha256": "72d9ffe40dbf5729607609c442fc90fa503e4a08bc2e0c58d1904b20272f1ee3"
+  }
+},
+  "qualification": "Selector154 binds297 source records and94 inactive research records. Current raw P5inventory/workflow94 is explicit. Earlier v152/workflow93 and historical78/88 bindings remain dated provenance; no active-model or historical-uniqueness claim.",
   "current_workflow_binding": {
-    "path": "maintenance/discovery_repair_20261003/scientific_admissions/kuril1884_compelled_residence_archival90_proposal_20261017_v1/outputs/first/source/WORKFLOW_BINDING.json",
-    "bytes": 5491,
-    "sha256": "877efe0767d3f3d349d5c73a04c26661d1673bb10a45e5e755120bef9a23a35c"
-  },
+  "path": "maintenance/work_loop_progress_20261006_2026/prepared/WORKFLOW_BINDING.json",
+  "bytes": 1254,
+  "sha256": "72d9ffe40dbf5729607609c442fc90fa503e4a08bc2e0c58d1904b20272f1ee3"
+},
   "source_annotation_binding_v128": {
     "path": "maintenance/discovery_repair_20261003/ledger_successors/crow_creek_willey_original_qualification_v128_20261016_v1/outputs/first/SOURCE_ANNOTATION_BINDING_V128.json",
     "bytes": 4794,
@@ -16588,13 +16588,13 @@
   }
 },
   "isolated_d10": {
-  "accepted_admissions": 90,
+  "accepted_admissions": 94,
   "accepted_admissions_unit": "inactive source-only archival profile; not independently established historical event",
   "active_statistical_admissions": 0,
   "registered_report_at": 90,
   "remaining_to_report": 0,
-  "score_rows": 766,
-  "corpus_objects": 861,
+  "score_rows": 770,
+  "corpus_objects": 865,
   "atlas_rendered_admissions": null,
   "pending_separate_atlas_authoring_or_application": null,
   "public_archive_crosswalk": "NOT_CURRENTLY_RECONCILED",
@@ -16607,7 +16607,9 @@
     "sha256": "4f58732fddbc3adbd844eeef530eecb6fa843ba0491e12aab1325263550fe60f"
   },
   "registered_next_report_at": 120,
-  "statistical_result_summary_added": false
+  "statistical_result_summary_added": false,
+"current_next_report_at": 120,
+"current_remaining_to_next_report": 26
 },
   "exposure": {
   "version": null,
@@ -16621,23 +16623,23 @@
   "open_numerical_bound_reconciliations": 3
 },
   "prose_fields": {
-  "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The local data has 567 cases and 581 stops. Its queue has 58 known ordinary cases and 64 holds. These local data are not live.",
-  "p02": "The dated public atlas has 22 flight notes. This release has 59 update posts. The atlas itself does not change.",
+  "p01": "The live atlas has 540 cases and 552 stops. Its dated queue has 74 known ordinary cases and 64 holds. The selected local data have 567 cases and 581 stops. Their queue has 58 known ordinary cases and 64 holds. These local data are not live.",
+  "p02": "The public atlas has 22 flight notes. The public feed has 65 posts. This report does not change the atlas.",
   "p03": "The search matrix has 1,280 records in five states. Each state describes a bounded search.",
   "p04": "A found record has a located result. Some found records still need more source searches.",
   "p05": "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
   "p06": "A searched-empty record has no result within its checked scope. None now has that state. An empty search cannot prove that no such history took place.",
   "p07": "There are 1,228 not-yet-searched cells. Some have partial work but still need a full scope search. There are 20 cells with source or access limits. None is not-applicable.",
-  "p08": "The source ledger has 276 records. It has 159 candidates, 111 located leads, four search leads and two controls.",
+  "p08": "The source ledger has 297 records. It has 176 candidates and 115 located leads. It also has four search leads and two controls.",
   "p09": "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
-  "p10": "The current external frame has 365 entries and 730 open question views. No entry has a completed historical review in its block. This frame does not steer searches.",
-  "p11": "This release lists 270 source notes and 151 map notes. These notes do not add atlas cases or active model scores.",
-  "p12": "The local bibliography has 1,502 works and 6,267 source uses. It has 314 open identity gaps and 43 recorded identity fixes. Passage checks are separate. These data are not live.",
-  "p13": "The research archive has 90 inactive records. These records do not establish 90 distinct histories. The active model stays separate.",
-  "p14": "The series has 766 profile rows and 861 corpus objects. None of its added records is in the active model.",
+  "p10": "The external frame has 365 entries. Its 730 broad question views stay open. One entry has an accepted source review with a limited scope. That review adds evidence to two question views. It resolves neither broad question. The frame does not steer searches.",
+  "p11": "The public list has 291 source notes and 151 map notes. The feed has 65 posts. These notes add no atlas cases or active model scores.",
+  "p12": "The local bibliography has 1,502 works and 6,267 source uses. It has 312 open identity gaps and 45 recorded identity fixes. Passage checks are separate. These data are not live.",
+  "p13": "The research archive has 94 inactive records. These records do not establish 94 distinct histories. The active model stays separate.",
+  "p14": "The archive series has 770 profile rows and 865 corpus objects. These totals include inactive records. No added record enters the active model.",
   "p15": "The current match between archive records and public cases is unknown. The check at 90 is never an admission gate.",
-  "p16": "The index is version 141. It has 196 population records. There are 371 event links and five population links.",
-  "p17": "The index keeps 220 open records. Its 424 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
+  "p16": "The index now uses version 154. It has 196 population records in its graph. There are 371 event links. There are also five population links.",
+  "p17": "The index keeps 220 open records. Its 466 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
   "p18": "The intake has 2,358 name leads. It has 409 full reviews, 38 partial reviews, and 1,911 untouched leads.",
   "p19": "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
   "p20": "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
@@ -16658,12 +16660,16 @@
   "p35": "The scope check found 16 errors in empty search claims. Those cells now need a full scope search. Three West Africa cells have scope or approval limits. These are search control changes, not new historical omissions.",
   "p36": "Older source work remains saved. The current Embobut search is partial. It adds no completed channel or recall credit.",
   "p37": "Each found cell still needs scope, source and overlap checks. A limited cell needs its source or access gap resolved. A not-yet-searched cell needs a full scope search. An empty claim needs checked sources and clear bounds. A not-applicable claim needs evidence for that choice.",
-  "p38": "Selector 141 binds 276 source records and 90 inactive records. The body still lists 78 from an earlier date. Its version 135 link lists 88. The current archive link lists 90. These counts do not describe active model cases.",
-  "p39": "The active model still uses 676 rows. The 90 archive records stay out of that model."
+  "p38": "The current index tracks 297 source records and 94 inactive research records. Older snapshots retain the counts used at their dates.",
+  "p39": "The active model still uses 676 rows. The 94 archive records stay out of that model.",
+  "p40": "The local data include 177 map notes. Only 151 map notes are live. The other 26 map notes await release. The full local atlas still needs its own release checks.",
+  "p41": "The next archive report is due at 120 records. Another 26 records reach that point. The report is not an admission gate.",
+  "p42": "The 13 local data exports now match the selected package. The full local HTML and user interface still need checks. These local files are not live.",
+  "p43": "This report keeps the old pilot and recall results at their own dates. It adds no search channel, full-era result or recall credit."
 },
   "pending_changes_not_counted": [
   "Full regional and era exposure, frame dispositions, recall and exclusion inventories",
-  "Local566 UI/runtime/release review",
+  "Full local atlas UI, runtime and release review",
   "Source history and passage questions, ordinary authoring and separate holds",
   "Six statistical followups and four routed reviews",
   "Flight origins, impact/world population, UI work and audio last"
@@ -16680,8 +16686,8 @@
     "prior_public_report": "2026-10-05T20:00:38.656033+00:00"
   },
   "source_version_labels": {
-  "current_source_ledger": "276records/workflow90",
-  "current_population_index": "v141",
+  "current_source_ledger": "297records/workflow94",
+  "current_population_index": "v154",
   "current_exposure_ledger": "53partial attempts; no completed cycle",
   "matrix": "1280cells;32found/1228not-yet/20limited;no full-era two-channel flags",
   "priority_pilot": "Dated2026-10-04 diagnostic147entries; distinct current external intake365"
@@ -16692,9 +16698,9 @@
   "A searched-empty record has no result within its checked scope. None now has that state. An empty search cannot prove that no such history took place.",
   "There are 1,228 not-yet-searched cells. Some have partial work but still need a full scope search. There are 20 cells with source or access limits. None is not-applicable.",
   "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
-  "The archive series has 76 inactive records. These records do not establish 76 historical events. Its next report is at 90. Another 14 records reach that report.",
+  "The research archive has 94 inactive records. These records do not establish 94 distinct histories. The active model stays separate. The next archive report is due at 120 records. Another 26 records reach that point. The report is not an admission gate.",
   "The current match between archive records and public cases is unknown. The report at 90 is never an admission gate.",
-  "The index keeps 220 open records. Its 310 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
+  "The index keeps 220 open records. Its 466 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
   "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
   "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
   "No search floor or cycle reached its end. All eight eras still need full source, place, recall and exclusion checks.",
@@ -16715,13 +16721,15 @@
   "Early North America and South Asia are priorities. Search work still spans all regions and eras. Population frames, recall checks and reviews of empty cells have gaps. Case drafts, bibliography, flight origins, impact and world population work remain open. Audio is last."
 ],
   "current_acceptance_dates": {
-  "Source ledger and population": "2026-10-17T19:46:54.574998+00:00",
+  "Source ledger and population": "2026-10-18T11:50:11.736969+00:00",
   "Current external frame": "2026-10-14T16:05:59.759639+00:00",
-  "Inactive archive": "2026-10-17T18:32:35.100908+00:00",
-  "Selected local data": "2026-10-17T12:24:42.280448+00:00",
-  "Latest public source notes": "2026-10-17T20:01:41.416916+00:00",
+  "Inactive archive": "2026-10-18T09:53:42.864582+00:00",
+  "Selected local data": "2026-10-18T07:09:45.096865+00:00",
+  "Latest public source notes": "2026-10-18T10:58:38.605447+00:00",
   "Matrix scope control repair": "2026-10-16T00:23:55.553627+00:00",
-  "Current bounded exposure": "2026-10-17T14:02:38.316419+00:00"
+  "Current bounded exposure": "2026-10-17T14:02:38.316419+00:00",
+  "Local bibliography identity": "2026-10-18T07:09:45.096865+00:00",
+  "Local13 export content acceptance": "2026-10-18T07:32:36.358395+00:00"
 },
   "source_record_dispositions": [
   {
@@ -18280,22 +18288,22 @@
   },
   {
     "ledger_id": "source-lead-north-america-huron-petun-defeat-residence-incorporation",
-    "record_type": "source_located_lead",
-    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
     "admitted": false,
     "active": false
   },
   {
     "ledger_id": "source-lead-north-america-neutral-defeat-land-residence-control",
-    "record_type": "source_located_lead",
-    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
     "admitted": false,
     "active": false
   },
   {
     "ledger_id": "source-lead-north-america-erie-defeat-land-residence-control",
-    "record_type": "source_located_lead",
-    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
     "admitted": false,
     "active": false
   },
@@ -18349,12 +18357,12 @@
     "active": false
   },
   {
-  "ledger_id": "candidate-ahom-1662-rule-loss-and-recovery",
-  "record_type": "candidate",
-  "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
+    "ledger_id": "candidate-ahom-1662-rule-loss-and-recovery",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_LOCATED_CANDIDATE_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
   {
     "ledger_id": "candidate-buryat-baikal-military-threat-flight",
     "record_type": "candidate",
@@ -18426,6 +18434,20 @@
     "active": false
   },
   {
+    "ledger_id": "candidate-south-asia-sonpur-singrai-manki-reported-village-deprivation",
+    "record_type": "candidate",
+    "saved_status": "CANDIDATE_REPORTED_VILLAGE_RIGHTS_CONTROL_LOSS_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-eastern-wisconsin-reported-oneota-departure-absorption",
+    "record_type": "candidate",
+    "saved_status": "CANDIDATE_SOURCE_REPORTED_PROCESS_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
     "ledger_id": "candidate-north-america-norris-farms36-reported-attack-flight-return",
     "record_type": "candidate",
     "saved_status": "CANDIDATE_SOURCE_REPORTED_PROCESS_NOT_ADMITTED",
@@ -18440,222 +18462,355 @@
     "active": false
   },
   {
-    "ledger_id": "candidate-north-america-eastern-wisconsin-reported-oneota-departure-absorption",
-    "record_type": "candidate",
-    "saved_status": "CANDIDATE_SOURCE_REPORTED_PROCESS_NOT_ADMITTED",
+    "ledger_id": "source-lead-sri-lanka-naga-iron-age-incoming-reconstruction",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_RECONSTRUCTION_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
     "admitted": false,
     "active": false
   },
   {
-    "ledger_id": "candidate-south-asia-sonpur-singrai-manki-reported-village-deprivation",
-    "record_type": "candidate",
-    "saved_status": "CANDIDATE_REPORTED_VILLAGE_RIGHTS_CONTROL_LOSS_NOT_ADMITTED",
+    "ledger_id": "source-lead-sri-lanka-wet-rice-yakka-vadda-pressure-reconstruction",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_RECONSTRUCTION_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
     "admitted": false,
     "active": false
   },
-{
-  "ledger_id": "source-lead-sri-lanka-naga-iron-age-incoming-reconstruction",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_RECONSTRUCTION_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-sri-lanka-wet-rice-yakka-vadda-pressure-reconstruction",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_RECONSTRUCTION_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-south-asia-vijitanagara-reported-siege-destruction",
-  "record_type": "candidate",
-  "saved_status": "PROPOSED_REPORTED_NAMED_CITY_SIEGE_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-south-asia-riverbank-survivors-vijitanagara-refuge",
-  "record_type": "source_located_lead",
-  "saved_status": "PROPOSED_SOURCE_LOCATED_REFUGE_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "western-mono-inferred-settlement",
-  "record_type": "source_located_lead",
-  "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "owens-paiute-fort-tejon-removal-return",
-  "record_type": "candidate",
-  "saved_status": "PROPOSED_SOURCE_BOUND_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "owens-los-angeles-water-land-acquisitions",
-  "record_type": "source_located_lead",
-  "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "owens-paiute-reservation-land-exchange",
-  "record_type": "candidate",
-  "saved_status": "PROPOSED_SOURCE_BOUND_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-south-asia-talagunda-mayurasarman-territorial-compact",
-  "record_type": "candidate",
-  "saved_status": "PROPOSED_SOURCE_BOUND_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-south-asia-talagunda-mayurasarman-forest-establishment",
-  "record_type": "source_located_lead",
-  "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-south-asia-talagunda-kakustha-kinsmen-refuge",
-  "record_type": "source_located_lead",
-  "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-north-america-gallina-burned-domestic-sites-violent-loss",
-  "record_type": "source_located_lead",
-  "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-south-asia-nasik-named-field-conferral",
-  "record_type": "source_located_lead",
-  "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-east-africa-embobut-home-loss-from-2017",
-  "record_type": "candidate",
-  "saved_status": "PROPOSED_SOURCE_BOUND_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-lead-north-america-coastal-archaic-ring-dispersal-question",
-  "record_type": "source_located_lead",
-  "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "north-asia-northern-kuril-ainu-compelled-residence-shikotan-1884",
-  "record_type": "candidate",
-  "saved_status": "PRIVATE_SOURCE_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "south-asia-bengal-anwar-reported-exile-sonargaon",
-  "record_type": "candidate",
-  "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "south-asia-bengal-ala-al-haq-reported-exile-sonargaon-return",
-  "record_type": "candidate",
-  "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "south-asia-bengal-tawwama-reported-delhi-sonargaon-exile",
-  "record_type": "candidate",
-  "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "south-asia-bengal-sylhet-sikandar-khan-ghazi-reported-town-conquest",
-  "record_type": "candidate",
-  "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "south-asia-bengal-deva-mahal-reported-temple-resthouse-replacement",
-  "record_type": "candidate",
-  "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-south-asia-bengal-shah-jalal-followers-settlement-household-question",
-  "record_type": "source_located_lead",
-  "saved_status": "PRIVATE_SOURCE_LOCATED_QUESTION_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-south-asia-bengal-habiganj-reported-agrarian-crop-levy-question",
-  "record_type": "source_located_lead",
-  "saved_status": "PRIVATE_SOURCE_LOCATED_QUESTION_NOT_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "candidate-south-asia-bengal-kaikaus-reported-southeastern-conquest",
-  "record_type": "candidate",
-  "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "candidate-south-asia-bengal-fakhr-al-din-reported-sonargaon-conquest",
-  "record_type": "candidate",
-  "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "candidate-south-asia-bengal-sikandar-reported-kamrup-conquest",
-  "record_type": "candidate",
-  "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "candidate-south-asia-bengal-jalal-al-din-reported-eastern-reconquest",
-  "record_type": "candidate",
-  "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-south-asia-bengal-nobles-required-capital-residence-question",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_INSTITUTIONAL_QUESTION_UNRESOLVED",
-  "admitted": false,
-  "active": false
-},
-{
-  "ledger_id": "source-south-asia-bengal-noble-property-reversion-question",
-  "record_type": "source_located_lead",
-  "saved_status": "SOURCE_LOCATED_INSTITUTIONAL_QUESTION_UNRESOLVED",
-  "admitted": false,
-  "active": false
-}
+  {
+    "ledger_id": "source-south-asia-vijitanagara-reported-siege-destruction",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_REPORTED_NAMED_CITY_SIEGE_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-south-asia-riverbank-survivors-vijitanagara-refuge",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_REFUGE_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "western-mono-inferred-settlement",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "owens-paiute-fort-tejon-removal-return",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_SOURCE_BOUND_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "owens-los-angeles-water-land-acquisitions",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "owens-paiute-reservation-land-exchange",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_SOURCE_BOUND_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-talagunda-mayurasarman-territorial-compact",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_SOURCE_BOUND_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-talagunda-mayurasarman-forest-establishment",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-talagunda-kakustha-kinsmen-refuge",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-gallina-burned-domestic-sites-violent-loss",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-south-asia-nasik-named-field-conferral",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-east-africa-embobut-home-loss-from-2017",
+    "record_type": "candidate",
+    "saved_status": "PROPOSED_SOURCE_BOUND_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-coastal-archaic-ring-dispersal-question",
+    "record_type": "source_located_lead",
+    "saved_status": "PROPOSED_SOURCE_LOCATED_QUESTION_NOT_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "north-asia-northern-kuril-ainu-compelled-residence-shikotan-1884",
+    "record_type": "candidate",
+    "saved_status": "PRIVATE_SOURCE_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "south-asia-bengal-anwar-reported-exile-sonargaon",
+    "record_type": "candidate",
+    "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "south-asia-bengal-ala-al-haq-reported-exile-sonargaon-return",
+    "record_type": "candidate",
+    "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "south-asia-bengal-tawwama-reported-delhi-sonargaon-exile",
+    "record_type": "candidate",
+    "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "south-asia-bengal-sylhet-sikandar-khan-ghazi-reported-town-conquest",
+    "record_type": "candidate",
+    "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "south-asia-bengal-deva-mahal-reported-temple-resthouse-replacement",
+    "record_type": "candidate",
+    "saved_status": "PRIVATE_SOURCE_QUALIFIED_CANDIDATE_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-shah-jalal-followers-settlement-household-question",
+    "record_type": "source_located_lead",
+    "saved_status": "PRIVATE_SOURCE_LOCATED_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-habiganj-reported-agrarian-crop-levy-question",
+    "record_type": "source_located_lead",
+    "saved_status": "PRIVATE_SOURCE_LOCATED_QUESTION_NOT_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-kaikaus-reported-southeastern-conquest",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-fakhr-al-din-reported-sonargaon-conquest",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-sikandar-reported-kamrup-conquest",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-bengal-jalal-al-din-reported-eastern-reconquest",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-nobles-required-capital-residence-question",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_INSTITUTIONAL_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-bengal-noble-property-reversion-question",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_INSTITUTIONAL_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-hirakud-reservoir-village-displacement-question",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_BOUNDED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-paharpur-site3-burial-use-exclusion",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-south-asia-seraikella-state-tree-use-restriction",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_QUALIFIED_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-south-asia-hulas-habitation-spatial-succession-question",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-sirsukh-kushan-foundation-tract-control",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-fiji-volivoli-ii-interrupted-use",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-fiji-ugaga-reported-land-gift",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-huron-forced-retreat-reported1615",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-stadocona-fort-destruction-1533",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-mahican-mohawk-village-destruction-1626",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-neutral-fire-nation-village-capture-1642",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-susquehannock-village-destruction-1652",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-seneca-village-destruction-1654",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-french-detachment-defended-place-assault-1660",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-abenaki-village-destruction-1661",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-abandoned-mohawk-villages-destruction-1666",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-seneca-fox-village-destruction-1670",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-keener-french-property-damage-1688-question",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "candidate-north-america-keener-montreal-settlements-burning-1689",
+    "record_type": "candidate",
+    "saved_status": "SOURCE_BOUND_RESEARCH_CANDIDATE_NOT_SCIENTIFICALLY_ADMITTED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-keener-land-recovery-1680s-question",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  },
+  {
+    "ledger_id": "source-lead-north-america-barrie-village-formation-prior-use",
+    "record_type": "source_located_lead",
+    "saved_status": "SOURCE_LOCATED_QUESTION_UNRESOLVED",
+    "admitted": false,
+    "active": false
+  }
 ],
   "source_status_note": "Saved source status text can predate a later workflow step. Saved admission flags describe archive workflow. They do not certify that a reported event took place.",
   "selected_local_roster": {
@@ -18663,37 +18818,68 @@
   "stops": 581,
   "known_ordinary_remaining": 58,
   "holds": 64,
-  "UI_release": false
+  "UI_release": false,
+"data_exports_pending": 0,
+"finite_export_count": 13,
+"full_HTML_UI_runtime_release": "OPEN"
 },
   "bibliography": {
   "works": 1502,
   "source_uses": 6267,
-  "open_identity_gaps": 314,
-  "recorded_identity_fixes": 43,
+  "open_identity_gaps": 312,
+  "recorded_identity_fixes": 45,
   "passage_verification_separate": true,
   "public": false,
   "aliases": 1415
 },
   "public_source_list": {
-  "source_notes": 270,
+  "source_notes": 291,
   "map_notes": 151,
-  "RSS_posts": 59,
+  "RSS_posts": 65,
   "scope": "Dated source notes only. The local atlas and bibliography data are not live.",
   "before_this_release": {
     "source_notes": 264,
     "map_notes": 151,
     "RSS_posts": 58
-  }
+  },
+"current_local_editorial_counts": [
+  291,
+  177
+],
+"pending_local_map_notes": 26
 },
   "current_external_frame": {
-    "workflow_objects": 365,
-    "OPEN_question_views": 730,
-    "historical_entries_examined": 0,
-    "steering_authorized": false,
-    "trace_inputs": "NOT_ASSESSED",
-    "independent_historical_benchmarks": "UNMET",
-    "separate_from_dated147_pilot": true
+  "workflow_objects": 365,
+  "OPEN_question_views": 730,
+  "historical_entries_examined": 0,
+  "steering_authorized": false,
+  "trace_inputs": "NOT_ASSESSED",
+  "independent_historical_benchmarks": "UNMET",
+  "separate_from_dated147_pilot": true,
+  "typed_scoped_workflow_counts": {
+    "frame_dataset_focal_objects": 365,
+    "formation_and_other_displacement_questions_open": 730,
+    "entries_with_registered_accepted_scoped_source_examination": 1,
+    "registered_accepted_scoped_source_examinations": 1,
+    "entries_without_a_registered_scoped_examination_in_this_view": 364,
+    "question_views_with_accepted_scoped_evidence": 2,
+    "broad_historical_relationships_resolved_by_this_annotation": 0,
+    "entries_with_both_broad_relationships_resolved_by_this_annotation": 0
   },
+  "annotation_binding": {
+    "path": "maintenance/discovery_repair_20261003/external_frames/ho_ef4_workflow_annotation_code_preparation_20261017_v1/PROPOSED_EF4_WORKFLOW_ANNOTATION.json",
+    "bytes": 6289,
+    "sha256": "021a48b60a22eec8e66edf2b9eb525f158e05e4f6b945f0aae92dc671f0b9d5c"
+  },
+  "annotation_Main": {
+    "path": "maintenance/work_loop_progress_20261006_1965/MAIN_ACCEPTANCE.json",
+    "bytes": 4073,
+    "sha256": "758c28263067113bbf23fbc49afdd07db4638b59aed3d405a97f459b77188cf7"
+  },
+  "P2": "OFF",
+  "legacy_historical_entries_examined_field_unchanged": true,
+  "legacy_count_is_not_scoped_examination_count": true
+},
   "open_scope_note": "Early North America and South Asia are priorities. Search work still spans all regions and eras. Population frames, recall checks and reviews of empty cells have gaps. Case drafts, bibliography, flight origins, impact and world population work remain open. Audio is last.",
   "report_runtime": "Static research report; its browser check does not establish acceptance of the full local atlas UI.",
   "licensed_STE_dictionary_meaning_POS": "UNVERIFIED",
@@ -20586,5 +20772,208 @@
   },
   "statistical_result_summary_added": false,
   "new_atlas_cases": 0
+},
+"r30_lineage_and_public_boundary": {
+  "prior_version": "p7-r24",
+  "prior_report": {
+    "path": "tmp/public-site-20261017-six-bengal-notes-r24/discovery/report.json",
+    "bytes": 568229,
+    "sha256": "a3682b7b8b916418df48dc2605e9c96a32a5c2534bae0b2aaa41845730bb1270"
+  },
+  "prior_html": {
+    "path": "tmp/public-site-20261017-six-bengal-notes-r24/discovery/index.html",
+    "bytes": 477737,
+    "sha256": "d16b54a38f5f76cb3975e1e32d538c3298a3d68562f6ec983e0abf9574b07c78"
+  },
+  "prior_as_of_utc": "2026-10-17T20:01:41.416916+00:00",
+  "prior_report_date": "2026-10-17",
+  "prior_bound_checkpoint": 1812,
+  "prior_counts": [
+    276,
+    90,
+    141,
+    424,
+    270,
+    151,
+    59
+  ],
+  "current_source": [
+    297,
+    94,
+    154,
+    466
+  ],
+  "current_science": [
+    94,
+    770,
+    865,
+    0
+  ],
+  "public_before_report_refresh": [
+    290,
+    151,
+    64
+  ],
+  "public_atlas": [
+    540,
+    552,
+    74,
+    64,
+    22
+  ],
+  "selected_local": [
+    567,
+    581,
+    58,
+    64
+  ],
+  "bibliography_local": [
+    1502,
+    6267,
+    1415,
+    312,
+    45
+  ],
+  "pending_local_map_notes": 26,
+  "source_Main": {
+    "path": "maintenance/work_loop_progress_20261006_2026/MAIN_ACCEPTANCE.json",
+    "bytes": 2362,
+    "sha256": "6b4d62dd6367b2ef2e6992f112d0ad50eac5213dd5328e723420b8ddc6f04f9d"
+  },
+  "actual_source_adoption": {
+    "path": "maintenance/work_loop_progress_20261006_2026/application/RECEIPT.json",
+    "bytes": 1146,
+    "sha256": "070b219a7c31c9ce6244030f46e9a01feda0b0fa52aee464c34c6706a6db55c2"
+  },
+  "public_live_acceptance": {
+    "path": "maintenance/public_discovery_keener_thirteen_notes_r29_20261018_v1/LIVE_ACCEPTANCE.json",
+    "bytes": 204513,
+    "sha256": "afaa15ab2bd8f55d936f701acff4a0c15db90a5104e8c81cc838bb92e24fe094"
+  },
+  "snapshot": {
+    "path": "maintenance/work_loop_progress_20261006_2022/PUBLIC_SNAPSHOT_READBACK.json",
+    "bytes": 1625,
+    "sha256": "3f2c1e94d7111e94b2e264cb13f9edaf7c8eb81952fd18f172f838045de35145"
+  },
+  "current_evidence": {
+    "path": "maintenance/public_discovery_barrie_report_r30_20261018_v1/code_preparation/CURRENT297_BINDINGS.json",
+    "bytes": 2156,
+    "sha256": "b08c8a075a0db0d0b301919ef80873ef087b26b8a7331842d640f087679c7ff4"
+  },
+  "prior_public_source_list_before_this_release_preserved": true,
+  "historical_acceptance_dates_as_reported_r24": {
+    "Source ledger and population": "2026-10-17T19:46:54.574998+00:00",
+    "Current external frame": "2026-10-14T16:05:59.759639+00:00",
+    "Inactive archive": "2026-10-17T18:32:35.100908+00:00",
+    "Selected local data": "2026-10-17T12:24:42.280448+00:00",
+    "Latest public source notes": "2026-10-17T20:01:41.416916+00:00",
+    "Matrix scope control repair": "2026-10-16T00:23:55.553627+00:00",
+    "Current bounded exposure": "2026-10-17T14:02:38.316419+00:00"
+  },
+  "prior_source_dispositions_snapshot": {
+    "report": {
+      "path": "tmp/public-site-20261017-six-bengal-notes-r24/discovery/report.json",
+      "bytes": 568229,
+      "sha256": "a3682b7b8b916418df48dc2605e9c96a32a5c2534bae0b2aaa41845730bb1270"
+    },
+    "pointer": "/source_record_dispositions",
+    "rows": 276,
+    "canonical_json_sha256": "df0ca4538efb5f4a24f8d2c34a52e540404c4d873af55b01646ab9b9386109f3"
+  },
+  "prior_population_root_binding": {
+    "artifact": {
+      "path": "maintenance/discovery_repair_20261003/ledger_successors/bengal_ch4_six_questions_v141_20261017_v1/outputs/first/candidate_ledger.json",
+      "bytes": 8132875,
+      "sha256": "8fe0d5315a253dbb9004fc48656b971730e4247e4ddd9708fbae39c8cdc0324d"
+    },
+    "current_workflow_count": 90,
+    "selector_version": 141,
+    "Root_Main": {
+      "path": "maintenance/work_loop_progress_20261006_1794/MAIN_ACCEPTANCE.json",
+      "bytes": 4731,
+      "sha256": "616e118f7471d7a020f0df838dadf8666e891978c833ffac6b2e95dbd50b47ae"
+    },
+    "actual_source_adoption": {
+      "path": "maintenance/work_loop_progress_20261006_1794/bengal_ch4_application/SOURCE_ADOPTION.json",
+      "bytes": 1861,
+      "sha256": "f8414aa1d1d0aa3b69630022758ac200cf3f631eac85868d791e7749accb0c5b"
+    },
+    "graph_Main": {
+      "path": "maintenance/discovery_repair_20261003/population_index/ahom_ta01_d2_graph_proposal_20261017_v1/IMPLEMENTATION_DESCRIPTOR.json",
+      "bytes": 10133,
+      "sha256": "4dce141b40fc53f3b170463c2b93e1429373c6cf8dfb97df76847b4f4b22f771"
+    },
+    "archival_workflow_binding": {
+      "path": "maintenance/discovery_repair_20261003/scientific_admissions/kuril1884_compelled_residence_archival90_proposal_20261017_v1/outputs/first/source/WORKFLOW_BINDING.json",
+      "bytes": 5491,
+      "sha256": "877efe0767d3f3d349d5c73a04c26661d1673bb10a45e5e755120bef9a23a35c"
+    }
+  },
+  "P5_raw_inventory_at_current_selection": {
+    "population_records": 196,
+    "population_event_edges": 371,
+    "population_population_edges": 5,
+    "canonical_unresolved_records": 220,
+    "intake_name_leads_total": 2358,
+    "intake_name_leads_fully_dispositioned": 409,
+    "intake_name_leads_partially_dispositioned": 38,
+    "intake_name_leads_not_yet_processed": 1911,
+    "external_ledger_records": 297,
+    "isolated_admission_workflow": 94,
+    "scientific_activations": 0,
+    "external_per_record_question_envelopes_unresolved": 466,
+    "standalone_cohort_history_questions_unresolved": 28,
+    "external_name_leads_v40_tranche": 2,
+    "external_name_question_views_v40_tranche": 4,
+    "source_phase_open_questions": 24,
+    "external_name_leads_v41_tranche": 1,
+    "external_name_question_views_v41_tranche": 2,
+    "external_name_leads_cumulative": 4,
+    "external_name_question_views_cumulative": 8,
+    "external_name_leads_v42_tranche": 1,
+    "external_name_question_views_v42_tranche": 2,
+    "little_muck_provisional_workflow_entries": 1,
+    "little_muck_accepted_source_question_forms": 2,
+    "little_muck_generic_history_inquiries_unassessed": 2,
+    "additional_independent_generic_history_questions_v42": 0
+  },
+  "P5_effective_workflow_count": 94,
+  "raw93_is_dated_not_effective94": true,
+  "report_date_is_not_source_date": true,
+  "P2": "OFF",
+  "new_search_channel_credit": 0,
+  "new_recall_credit": 0,
+  "new_atlas_cases": 0,
+  "whole_coverage_claim": false,
+  "new_report_post_not_authorized_or_counted": false,
+  "proposed_public_after": [
+    291,
+    151,
+    65
+  ],
+  "accepted296_content_Main": {
+    "path": "maintenance/work_loop_progress_20261006_2027/REPORT_CONTENT_MAIN_ACCEPTANCE.json",
+    "bytes": 3533,
+    "sha256": "fa742c3d2eeda778568629cf24b2666cbc9f6f0376987085270d140b2229befd"
+  },
+  "accepted296_patch": {
+    "path": "maintenance/public_discovery_report_refresh_r30_20261018_v1/content_preparation/REPORT_METADATA_PATCH.json",
+    "bytes": 28070,
+    "sha256": "56248fd9010ba5a4fcb0c5e91147247adb4c4349db203fb61b7b9ec874a4f7dd"
+  },
+  "accepted296_p38_amendment": {
+    "path": "maintenance/public_discovery_report_refresh_r30_20261018_v1/content_preparation/p38_wording_amendment_v1/AMENDMENT.json",
+    "bytes": 4288,
+    "sha256": "2f76786ffac85dc8a21ac79654fccc1e14fe9481d6725d0a44670a72dd4309a3"
+  },
+  "previous296_source_binding": {
+    "path": "maintenance/discovery_repair_20261003/scientific_admissions/sonargaon_reported_control_archival94_code_preparation_20261018_v1/outputs/first/source/WORKFLOW_BINDING.json",
+    "bytes": 4345,
+    "sha256": "541c3f20911e8ca61faafc70adff01f92e6352695794c0d01f8acd3d6cd282a3"
+  },
+  "currentraw94_priorv15293": {
+    "current": 94,
+    "dated_v152": 93
+  }
 }
 }

@@ -1467,6 +1467,31 @@
   ],
   "occurred_at": "2026-10-18T08:56:48.015316Z",
   "published_at": "2026-10-18T10:26:05.846837Z"
+},
+{
+  "id": "2026-10-18-barrie-and-discovery-report",
+  "title": "Barrie note and research report",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added a research note on Barrie village and refreshed the dated discovery report. Sutton argues that migrants founded the village. The note keeps the date conflict and gaps in earlier land use visible. It does not establish a forced move. The atlas has no new case."
+  ],
+  "links": [
+    {
+      "label": "Read the Barrie note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-f6402fd8d16df74512ab"
+    },
+    {
+      "label": "Read the dated report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    },
+    {
+      "label": "Source report",
+      "url": "https://ontarioarchaeology.org/wp-content/uploads/oa067-03_sutton.pdf"
+    }
+  ],
+  "occurred_at": "2026-10-18T11:50:11.736969Z",
+  "published_at": "2026-10-18T12:26:09.239337Z"
 }
   ]
 }
