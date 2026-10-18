@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r30-barrie-report-source291-rss65",
+  "version": "r31-sanganakallu-source293-rss66",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3184,6 +3184,28 @@
   "sources": [
     "https://ontarioarchaeology.org/wp-content/uploads/oa067-03_sutton.pdf"
   ]
+},
+{
+  "id": "ledger-01ad64df6e2d73eb8316",
+  "name": "How life in the hilltop villages at Sanganakallu changed",
+  "place_and_era": "These hill sites lie in south India. Use declined from about 1400 to 1200 BCE. Some activity lasted later.",
+  "attested": "The study finds that hilltop villages and craft sites fell out of use. Its authors link the change to water access and social choices. People still used nearby plains and a rock shelter.",
+  "unknown": "The study does not settle whether people moved away or their numbers fell. It does not establish forced removal or loss of land access.",
+  "next_step": "Trace how residence and land use changed. Abandonment alone does not show forced removal.",
+  "sources": [
+    "https://doi.org/10.1007/s12520-015-0240-9"
+  ]
+},
+{
+  "id": "ledger-5d1ef97ef186a013c87e",
+  "name": "Water access and shared places in southern India",
+  "place_and_era": "The study covers the Tungabhadra and Krishna river regions in south India. It looks at changes from about 1200 BCE.",
+  "attested": "The authors discuss elite use of once-shared places and control of water access. They link these changes to new social relations.",
+  "unknown": "Which uses and access changed in each place, and how this affected people, remain open.",
+  "next_step": "Study changes in shared use and water access apart from changes in hilltop life.",
+  "sources": [
+    "https://doi.org/10.1007/s12520-015-0240-9"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4699,5 +4721,5 @@
     }
   ],
   "updated_on": "2026-10-18",
-  "update_scope": "Barrie research note and dated discovery report refresh"
+  "update_scope": "Two southern India research notes and dated discovery report refresh"
 }
