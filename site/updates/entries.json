@@ -1551,6 +1551,61 @@
   ],
   "occurred_at": "2026-10-18T17:15:15.153599Z",
   "published_at": "2026-10-18T17:40:45.270783Z"
+},
+{
+  "id": "2026-10-18-homes-war-and-departure-notes",
+  "title": "Nine notes on homes and departures",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added eight research notes from the book by Bahr on O'odham accounts. They describe homes, war, escape, captives, new homes and peace. The accounts have different tellers and versions. Their event dates remain unknown.",
+    "We also added a National Park Service note on Antelope Creek. It describes homes, farms, flint use and later departure. Drought or pressure and attacks are possible causes. Forced clearance remains unproven.",
+    "The dated report now lists 304 source notes and 151 map notes. These nine notes add no atlas cases or active model scores."
+  ],
+  "links": [
+    {
+      "label": "Read the Font account note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-74dd2a3b14d96cd01b1e"
+    },
+    {
+      "label": "Read the Manje account note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-97b0befc364b7056ea53"
+    },
+    {
+      "label": "Read the Dolores version note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-e85868cff4dd38b3e00f"
+    },
+    {
+      "label": "Read the escape and new homes note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-0cc5c2b4c1328cfe3079"
+    },
+    {
+      "label": "Read the captives and survivors note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-f45f8d72a29a2e172115"
+    },
+    {
+      "label": "Read the Komatke homes note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-e58ab05490b11cd9d9a9"
+    },
+    {
+      "label": "Read the divided return note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-8767aca38e4c714a7306"
+    },
+    {
+      "label": "Read the war and peace note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-d8571bb8de9ebd69f386"
+    },
+    {
+      "label": "Read the Antelope Creek note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-bb8ec60ba91c49f4dec1"
+    },
+    {
+      "label": "Read the dated report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-18T19:24:29.111184Z",
+  "published_at": "2026-10-18T19:50:41.513537Z"
 }
   ]
 }
