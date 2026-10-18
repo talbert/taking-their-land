@@ -1399,6 +1399,25 @@
   ],
   "occurred_at": "2026-10-18T00:37:16.575533Z",
   "published_at": "2026-10-18T01:58:04.459005Z"
+},
+{
+  "id": "2026-10-17-hulas-homes-note",
+  "title": "Homes at Hulas",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "One new research note concerns homes at Hulas in northern India. Excavators found homes, hearths and rebuilt floors.",
+    "The report places later homes north of an earlier settlement. It does not state why use of the old homes ended. It does not establish forced removal or explain how later people came to use nearby land.",
+    "The note records an open question. It adds no stop to the live atlas."
+  ],
+  "links": [
+    {
+      "label": "Read the Hulas note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-2e1bc8c079cdb4b68c08"
+    }
+  ],
+  "occurred_at": "2026-10-18T02:53:38.486308Z",
+  "published_at": "2026-10-18T04:20:47.820470Z"
 }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r26-ho-source273-rss61",
+  "version": "r27-hulas-source274-rss62",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2985,6 +2985,17 @@
   "sources": [
     "https://archive.org/details/dli.calcutta.10280"
   ]
+},
+{
+  "id": "ledger-2e1bc8c079cdb4b68c08",
+  "name": "Homes at Hulas",
+  "place_and_era": "Hulas, northern India. The report describes homes from Harappan times and later periods. Dates remain uncertain.",
+  "attested": "Excavators found homes, hearths and rebuilt floors. The report places later homes north of an earlier settlement.",
+  "unknown": "The report does not state why the earlier settlement ended. It does not state whether anyone forced people out or where they went.",
+  "next_step": "Examine why use of the old homes ended. Examine how later people came to use nearby land.",
+  "sources": [
+    "https://asi.nic.in/pdf/EXCAVATIONS-AT-HULAS.pdf"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4500,5 +4511,5 @@
     }
   ],
   "updated_on": "2026-10-17",
-  "update_scope": "Two Ho land-use research notes"
+  "update_scope": "One Hulas habitation research note"
 }
