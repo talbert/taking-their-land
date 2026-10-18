@@ -1375,6 +1375,30 @@
   ],
   "occurred_at": "2026-10-17T22:34:52.477565Z",
   "published_at": "2026-10-17T23:23:58.332482Z"
+},
+{
+  "id": "2026-10-17-ho-land-use-notes",
+  "title": "Two Ho research notes",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "Two new notes concern land use in the Seraikella area of India. A report from 1927 draws on fieldwork in 1925. The event dates remain unknown.",
+    "One note concerns a burial ground at Paharpur. The authors say the Mundri clan took control of a site once linked to the Haiburu clan. They say the site no longer allowed Haiburu burial. How it changed hands remains unknown.",
+    "The other note concerns a State ban on tree use. The authors say the State did not allow the Ho to cut trees. They link a lack of firewood to a shift from cremation to burial. The start date, reach and enforcement of the ban remain unknown.",
+    "Both notes ask how to assess lost land use. Neither establishes eviction or loss of homes. They add no new stops to the live atlas."
+  ],
+  "links": [
+    {
+      "label": "Read the burial-use note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-eadd62ac5bee1571001c"
+    },
+    {
+      "label": "Read the tree-use note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-bf8bee6c5ea92dfd6b7b"
+    }
+  ],
+  "occurred_at": "2026-10-18T00:37:16.575533Z",
+  "published_at": "2026-10-18T01:58:04.459005Z"
 }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r25-hirakud-kaikaus-source271-rss60",
+  "version": "r26-ho-source273-rss61",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2963,6 +2963,28 @@
   "sources": [
     "https://dspace.gipe.ac.in/xmlui/handle/10973/26184"
   ]
+},
+{
+  "id": "ledger-bf8bee6c5ea92dfd6b7b",
+  "name": "Ban on cutting trees",
+  "place_and_era": "Seraikella State, India. The start date is unknown; fieldwork took place in 1925.",
+  "attested": "The authors say the State did not allow the Ho to cut trees. They link the lack of firewood to a change from cremation to burial.",
+  "unknown": "The start date, reach and enforcement of the ban are unknown here. The account does not establish eviction or loss of homes.",
+  "next_step": "Assess the loss of resource use as a separate unit. Keep the ban report apart from its stated link to funeral rites.",
+  "sources": [
+    "https://archive.org/details/dli.calcutta.10280"
+  ]
+},
+{
+  "id": "ledger-eadd62ac5bee1571001c",
+  "name": "Burial ban at Paharpur",
+  "place_and_era": "Seraikella area, India. The event date is unknown; fieldwork took place in 1925.",
+  "attested": "The authors use kili as a term for clan. The authors say the Mundri kili took control of a burial ground once linked to the Haiburu kili. They say the site no longer allowed Haiburu burial.",
+  "unknown": "The source does not state how or when the site changed hands. It does not establish force, deaths or loss of homes.",
+  "next_step": "Assess the loss of burial use under the atlas rules. Keep dates, force and effects on residents unknown unless supported.",
+  "sources": [
+    "https://archive.org/details/dli.calcutta.10280"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4478,5 +4500,5 @@
     }
   ],
   "updated_on": "2026-10-17",
-  "update_scope": "Notes on Hirakud and Kaikaus"
+  "update_scope": "Two Ho land-use research notes"
 }
