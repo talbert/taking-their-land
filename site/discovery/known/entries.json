@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261017-six-bengal-research-notes270-r24-rss59",
+  "version": "r25-hirakud-kaikaus-source271-rss60",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2893,7 +2893,7 @@
   "place_and_era": "Southeast Bengal. The report dates the conquest to 1291.",
   "attested": "Eaton reports a conquest under Kaikaus and a change in rule.",
   "unknown": "The local rights and the fate of the people remain unknown.",
-  "next_step": "Define the tract and the change in control.",
+  "next_step": "Prepare this case for the atlas. Its local effects and later history stay unknown.",
   "sources": [
     "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch04"
   ]
@@ -2951,6 +2951,17 @@
   "next_step": "Define the property rights and the effect of the rule.",
   "sources": [
     "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#ch04"
+  ]
+},
+{
+  "id": "ledger-769747489590c60dba77",
+  "name": "Homes and fields at Hirakud",
+  "place_and_era": "Near Sambalpur, India. The book gives figures for 1954-55 and a summer 1955 start.",
+  "attested": "The book reports state-led moves as water covered homes and fields near Sambalpur. The book also reports plans to flood some land in Madhya Pradesh. Some buyers got less land as prices rose.",
+  "unknown": "The last move dates and later returns remain unclear. The book does not show full payment or new land for all people. Land rights for each person remain unclear.",
+  "next_step": "Prepare this case for the atlas. Its final move dates and later outcomes stay unclear.",
+  "sources": [
+    "https://dspace.gipe.ac.in/xmlui/handle/10973/26184"
   ]
 }
 ],
@@ -4467,5 +4478,5 @@
     }
   ],
   "updated_on": "2026-10-17",
-  "update_scope": "Six Bengal research notes are new. Four concern reported conquests. Two concern rules for noble homes and property. These notes add no atlas case or active model score."
+  "update_scope": "Notes on Hirakud and Kaikaus"
 }
