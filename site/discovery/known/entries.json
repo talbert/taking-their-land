@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r27-hulas-source274-rss62",
+  "version": "r28-sirsukh-fiji-source277-rss63",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2996,6 +2996,37 @@
   "sources": [
     "https://asi.nic.in/pdf/EXCAVATIONS-AT-HULAS.pdf"
   ]
+},
+{
+  "id": "ledger-e81e2c5ceaa4005bd3f3",
+  "name": "Sirsukh foundation and land control",
+  "place_and_era": "Near Taxila, now in Pakistan. Ancient era; the event year is unknown.",
+  "attested": "Marshall says Kushan rulers left Sirkap and built a new walled city at Sirsukh.",
+  "unknown": "The account does not establish a loss of prior land use or control. Forced moves from Sirkap also remain unproven.",
+  "next_step": "Find whether the new city caused or secured a loss of prior land use or control.",
+  "sources": []
+},
+{
+  "id": "ledger-df0a55e0eebde5e6e560",
+  "name": "Breaks in use at Volivoli II",
+  "place_and_era": "Volivoli II shelter, Viti Levu, Fiji. The dates of the breaks are unknown.",
+  "attested": "Anderson and Clark infer repeated use of this shelter, with breaks when people left it.",
+  "unknown": "The deposits do not show why use stopped or whether people lost access.",
+  "next_step": "Find whether an act caused people to lose use of, or access to, this shelter.",
+  "sources": [
+    "https://doi.org/10.22459/TA31.12.2009.05"
+  ]
+},
+{
+  "id": "ledger-ca336a9229fd1200c9d4",
+  "name": "Ugaga land gift",
+  "place_and_era": "Ugaga is an island in Fiji. The gift dates to around 1830. The account notes later claims in 1997.",
+  "attested": "The account says Ugaga was a gift to the Vunivalu of Serua. The gift paid for the defence of Naceva against Rukua.",
+  "unknown": "The account does not establish which prior rights changed. Claims noted in 1997 do not settle rights today.",
+  "next_step": "Find which prior rights to land, use or access changed through this gift.",
+  "sources": [
+    "https://doi.org/10.22459/TA31.12.2009.05"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4510,6 +4541,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-17",
-  "update_scope": "One Hulas habitation research note"
+  "updated_on": "2026-10-18",
+  "update_scope": "Three Sirsukh and Fiji research notes"
 }

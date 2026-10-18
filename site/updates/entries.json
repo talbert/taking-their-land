@@ -1418,6 +1418,34 @@
   ],
   "occurred_at": "2026-10-18T02:53:38.486308Z",
   "published_at": "2026-10-18T04:20:47.820470Z"
+},
+{
+  "id": "2026-10-18-sirsukh-fiji-research-notes",
+  "title": "Three new research notes",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "Three new research notes concern Sirsukh in Pakistan and two sites in Fiji. They record open questions, not new stops in the atlas.",
+    "Marshall says Kushan rulers left Sirkap and built a new walled city at Sirsukh. The account does not establish a loss of prior land use or control. Forced moves from Sirkap remain unproven.",
+    "At Volivoli II, the authors infer repeated shelter use with breaks. The deposits do not show why use stopped or whether people lost access.",
+    "The Ugaga account reports a land gift around 1830 in return for defence. It does not establish which prior rights changed. Later claims from 1997 do not settle rights today."
+  ],
+  "links": [
+    {
+      "label": "Read the Sirsukh note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-e81e2c5ceaa4005bd3f3"
+    },
+    {
+      "label": "Read the Volivoli II note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-df0a55e0eebde5e6e560"
+    },
+    {
+      "label": "Read the Ugaga note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-ca336a9229fd1200c9d4"
+    }
+  ],
+  "occurred_at": "2026-10-18T07:32:36.356387Z",
+  "published_at": "2026-10-18T08:02:02.271742Z"
 }
   ]
 }

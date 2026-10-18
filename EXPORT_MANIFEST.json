@@ -3,7 +3,7 @@
   "atlas_build": "20261006e",
   "statistical_release": "second_pass_v7_676",
   "publication_url": "https://latrian.dyndns.org/takingtheirland/",
-  "publication_receipt_sha256": "e6233b2f123c1a9f07fd5125466fde8a4153517548af38844ccf34da8adf7407",
+  "publication_receipt_sha256": "a6e89ee2715093b35debc56b3ae67808797e0377ccc10a6fc537c19731c63a26",
   "private_research_history_included": false,
   "files": {
     "LICENSE.md": "da166ddd45cb04d081738d733678418506c9cd4d347e710f35bdad0883e13abb",
@@ -15,7 +15,7 @@
     "README.md": "aa6acc25faca491688337121353531ec7fb9e8478eff738ece3c8c89a356788d",
     "THIRD_PARTY_NOTICES.md": "8dc0cdf57c1613c36d0e59791f98f12d9e53b89e16aabf2c5d2b6c6852499b63",
     "site/9d38f0690a5308f1472afcd8a741c27d.txt": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5",
-    "site/PUBLICATION.json": "eaf51efd299ee44320558a83eff09624931936022fdbe4b11d6acfd9f349937b",
+    "site/PUBLICATION.json": "e0fab7c238f444c6ae5c44bfcc6ad0f3305a5630440810ba5b057aa2e58d202d",
     "site/assets/publication.css": "038c1c56f0e9d683f81c8cc1d8c776f31805afd587348111542fd30ebdb46909",
     "site/data/LICENSE.md": "4cc5e22ed25e9870fe7ad7c5d71d154e29f21041b84e46d70d07ae4857286c9e",
     "site/data/LICENSES/CC-BY-4.0.txt": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94",
@@ -289,8 +289,8 @@
     "site/data/releases/second_pass_v7_676/results/date_metadata_addendum/RUN_MANIFEST.json": "3fbdfb07642d9aac23cbddd4d98e220a590d2e8b0fcca6191128b80c8d304cf7",
     "site/data/taking-their-land-data-second_pass_v7_676.zip": "f18f30e12d6f7fc5d819509b9dbbe14815cf15af23e618d82868a6250fc384a5",
     "site/discovery/index.html": "d16b54a38f5f76cb3975e1e32d538c3298a3d68562f6ec983e0abf9574b07c78",
-    "site/discovery/known/entries.json": "47e2763f52acc839c431daa42db57181deee824921d9db02d8b776994e3d704f",
-    "site/discovery/known/index.html": "c5606dfa5d7cb58ad708d7698a4718f37617a8de4dd9cc0ffbef03ff361edad8",
+    "site/discovery/known/entries.json": "3242b4398446832387f8d6e27cdc134b2d9bf988788b3acc8a73930fa4617eae",
+    "site/discovery/known/index.html": "9a2f731fa6880dc9b9913888fdcfb8b5fd57d3ac3ad143c5775b226d6e5bd419",
     "site/discovery/report.json": "a3682b7b8b916418df48dc2605e9c96a32a5c2534bae0b2aaa41845730bb1270",
     "site/index.html": "7b25419dd09cbf46fcb865f1705cd5f0d50cd04bdf797f777c8e8395a2014bf6",
     "site/monograph/MONOGRAPH_DRAFT_v1.6.md": "5dd1ff5aaa09ac95434e3cdd1035104684c38cf919888778fbd34c5875d5c3bb",
@@ -368,9 +368,10 @@
     "site/updates/2026-10-17-known-but-not-yet-placeable/index.html": "0fa2f1ba9b9d6ba0206a6df639a4a907ef5f9c68e956f61b5a5092cbd6087227",
     "site/updates/2026-10-17-peter-village-and-south-asian-records/index.html": "afe3e4c9f12425d5734a348ce81438de4e126334649fb5f428ad420048d4a83e",
     "site/updates/2026-10-17-six-bengal-research-notes/index.html": "fc0691ee13c5d3ee65b6a72bee0c2085b825a5dde064f96df7b60c0c7591ec77",
-    "site/updates/entries.json": "c12e8c404cdfe127d29cc5ccc1b78cec6bc432798f9765ee5525c206b7db8c26",
-    "site/updates/feed.xml": "86b6cd5d8c9f6457a65b19ba7f861c27d50d2ce242eb0fe58dc2df31c4681a8a",
-    "site/updates/index.html": "d4c309981e3a45cf53878f5d59a9d3d1c6b2ba0f86cdf43b31ca51956b1688d7",
+    "site/updates/2026-10-18-sirsukh-fiji-research-notes/index.html": "0bf6724516ef28f8738fb2547791ea87846b7bfabd9c4512638a9c93ac48c4ee",
+    "site/updates/entries.json": "91074964c9766f862468c1d706ab2fc53c522ac6a129b025e624bec7ecbec37c",
+    "site/updates/feed.xml": "841e8e12b5b82f841ef42305cd1401326d06d65e912c09b16457ddea3ffd0a12",
+    "site/updates/index.html": "b0c25f7dfa3319549bc3da894d20dc5e1a3c1fc19b88136ff60953da4a5ae792",
     "verify_snapshot.py": "5e0eba050fd90e7b1158e9095c89210276506f5a48d338d4a614e0ac40e4ec91"
   }
 }
