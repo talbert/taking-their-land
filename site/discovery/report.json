@@ -1,16 +1,16 @@
 {
   "schema": "taking-land-public-discovery-status-v1",
-  "version": "p7-r38",
+  "version": "p7-r39",
   "status": "BOUNDED_DATED_SEARCH_SNAPSHOT",
   "publication": null,
-  "as_of_utc": "2026-10-19T11:05:14.509694+00:00",
+  "as_of_utc": "2026-10-19T15:39:25Z",
   "known_roster": {
   "cases": 540,
   "stops": 552,
   "known_ordinary_remaining": 74,
   "holds": 64,
   "flight_notes": 22,
-  "rss_entries": 73,
+  "rss_entries": 74,
   "flight_note_scope": "Dated public atlas20261006e;22 flight notes."
 },
   "local_and_live_same_at_preparation": false,
@@ -16478,13 +16478,13 @@
   ],
   "report_date_local": "2026-10-19",
   "timezone": "America/Denver",
-  "bound_checkpoint": 2189,
+  "bound_checkpoint": 2215,
   "external_ledger": {
-  "records": 341,
+  "records": 351,
   "types": {
-  "candidate": 199,
+  "candidate": 201,
   "control": 2,
-  "source_located_lead": 136,
+  "source_located_lead": 144,
   "search_lead": 4
 },
   "workflow_admissions": 95,
@@ -16495,7 +16495,7 @@
   "unique_candidates_outside_frozen_roster": "UNASSESSED"
 },
   "population_index": {
-  "version": 165,
+  "version": 167,
   "current_inventory_counts": {
   "population_records": 196,
   "population_event_edges": 371,
@@ -16505,34 +16505,36 @@
   "intake_name_leads_fully_dispositioned": 409,
   "intake_name_leads_partially_dispositioned": 38,
   "intake_name_leads_not_yet_processed": 1911,
-  "external_ledger_records": 341,
+  "external_ledger_records": 351,
   "isolated_admission_workflow": 95,
   "scientific_activations": 0,
-  "external_per_record_question_envelopes_unresolved": 554,
+  "external_per_record_question_envelopes_unresolved": 574,
   "standalone_cohort_history_questions_unresolved": 28,
   "external_name_leads_v40_tranche": 2,
   "external_name_question_views_v40_tranche": 4,
   "source_phase_open_questions": 24,
   "external_name_leads_v41_tranche": 1,
   "external_name_question_views_v41_tranche": 2,
-  "external_name_leads_cumulative": 4,
-  "external_name_question_views_cumulative": 8,
+  "external_name_leads_cumulative": 20,
+  "external_name_question_views_cumulative": 40,
   "external_name_leads_v42_tranche": 1,
   "external_name_question_views_v42_tranche": 2,
   "little_muck_provisional_workflow_entries": 1,
   "little_muck_accepted_source_question_forms": 2,
   "little_muck_generic_history_inquiries_unassessed": 2,
-  "additional_independent_generic_history_questions_v42": 0
+  "additional_independent_generic_history_questions_v42": 0,
+  "external_name_leads_v166_tranche": 16,
+  "external_name_question_views_v166_tranche": 32
 },
   "intake_is_discovery_denominator": false,
   "name_leads_are_populations": false,
   "workflow_resolves_history": false,
-  "event_questions_unresolved": 554,
+  "event_questions_unresolved": 574,
   "cohort_questions_unresolved": 28,
   "source_phase_question_views": 24,
   "question_views_independent_or_additive": false,
   "current_selector_workflow": [
-  341,
+  351,
   95
 ],
   "dated_body_workflow_count": 78,
@@ -16543,33 +16545,33 @@
   },
   "current_root_binding": {
   "artifact": {
-    "path": "maintenance/discovery_repair_20261003/scope_followups/beal_book3_finite17_registration_preparation_20261019_v1_r1/prepared/candidate_ledger.json",
-    "bytes": 10471606,
-    "sha256": "f9d4b4e00bf02d08749c545542ca987f85a0505dcc1e50c653f4181670bdda04"
+    "path": "maintenance/discovery_repair_20261003/scope_followups/mesa_verde_hopi_ten_registration_preparation_20261019_v1/prepared/candidate_ledger.json",
+    "bytes": 10655459,
+    "sha256": "a6308ac61a4502f6e432546cb12a0578a04fb4ce1a62267a1365d7e3a9ac7dc1"
   },
   "current_workflow_count": 95,
-  "selector_version": 165,
+  "selector_version": 167,
   "Root_Main": {
-    "path": "maintenance/work_loop_progress_20261006_2188/BEAL_REGISTRATION_MAIN.json",
-    "bytes": 2725,
-    "sha256": "b5c7c73f0095f78ba67737487270ee3a677ef4b96c9ad7e36e2b0eebb0310eae"
+    "path": "maintenance/work_loop_progress_20261006_2212/TEN_REGISTRATION_IMPLEMENTATION_MAIN.json",
+    "bytes": 4059,
+    "sha256": "99ef11ebbd818b17fe8564bfe0adddff126437d3318845b8ee6c826743d3981a"
   },
   "actual_source_adoption": {
-    "path": "maintenance/work_loop_progress_20261006_2187/beal_application/RECEIPT.json",
-    "bytes": 1179,
-    "sha256": "cc01e98cc1f9dfecd909ddbf009e1badae32ab16461e81c6f74114bf8390a61a"
+    "path": "maintenance/work_loop_progress_20261006_2212/finite_registration_application/RECEIPT.json",
+    "bytes": 1202,
+    "sha256": "18dc45ef97bc0b2485a6952471581511662d9474de48fc9241d421451361c86f"
   },
   "archival_workflow_binding": {
-    "path": "maintenance/discovery_repair_20261003/scope_followups/beal_book3_finite17_registration_preparation_20261019_v1_r1/prepared/WORKFLOW_BINDING.json",
-    "bytes": 1479,
-    "sha256": "eedee10b1ae267167a060aff67bd4cb7d5e83bf94612047af80f55651e3656b0"
+    "path": "maintenance/discovery_repair_20261003/scope_followups/mesa_verde_hopi_ten_registration_preparation_20261019_v1/prepared/WORKFLOW_BINDING.json",
+    "bytes": 1475,
+    "sha256": "3cd402e3ec4244d2260f90ceacad369861dbc708fc1bfe261fc812aeb853b667"
   }
 },
-  "qualification": "Selector165 binds341 source records/workflow95 and554 OPEN forms. P5raw94/sourcework95 remain dated administration; actualscience97 is separate. No population relationship resolved.",
+  "qualification": "Selector167 binds351 source records/workflow95 and574 OPEN forms. Historical source epoch165 and parent index166 remain distinct. Separate source-name intake20leads/40views does not change core2358intake or graph identities. Sourcework95 and actualscience97 remain separate.",
   "current_workflow_binding": {
-  "path": "maintenance/discovery_repair_20261003/scope_followups/beal_book3_finite17_registration_preparation_20261019_v1_r1/prepared/WORKFLOW_BINDING.json",
-  "bytes": 1479,
-  "sha256": "eedee10b1ae267167a060aff67bd4cb7d5e83bf94612047af80f55651e3656b0"
+  "path": "maintenance/discovery_repair_20261003/scope_followups/mesa_verde_hopi_ten_registration_preparation_20261019_v1/prepared/WORKFLOW_BINDING.json",
+  "bytes": 1475,
+  "sha256": "3cd402e3ec4244d2260f90ceacad369861dbc708fc1bfe261fc812aeb853b667"
 },
   "source_annotation_binding_v128": {
     "path": "maintenance/discovery_repair_20261003/ledger_successors/crow_creek_willey_original_qualification_v128_20261016_v1/outputs/first/SOURCE_ANNOTATION_BINDING_V128.json",
@@ -16625,16 +16627,16 @@
   "p05": "No cell has two channels that cover its full era. Old work on 60 cells remains saved. Those searches cover part of the era or have scope limits.",
   "p06": "A searched-empty record has no result within its checked scope. None now has that state. An empty search cannot prove that no such history took place.",
   "p07": "There are 1,228 not-yet-searched cells. Some have partial work but still need a full scope search. There are 20 cells with source or access limits. None is not-applicable.",
-  "p08": "The source ledger has 341 records. It has 199 candidates and 136 located leads. It also has four search leads and two controls.",
+  "p08": "The source ledger has 351 records. It has 201 candidates and 144 located leads. It also has four search leads and two controls.",
   "p09": "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
   "p10": "The external frame has 365 entries. Its 730 broad question views stay open. One entry has an accepted source review with a limited scope. That review adds evidence to two question views. It resolves neither broad question. The frame does not steer searches.",
-  "p11": "The public list has 335 source notes and 151 map notes. The feed has 73 posts. These notes add no atlas cases or active model scores.",
-  "p12": "The local bibliography has 1,506 works and 6,276 saved source uses. It has 310 open identity gaps and 48 recorded identity fixes. Passage checks are separate. These data are not live.",
+  "p11": "The public list has 345 source notes and 151 map notes. The feed has 74 posts. These notes add no atlas cases or active model scores.",
+  "p12": "The local bibliography has 1,506 works and 6,276 saved source uses. It has 309 open identity gaps and 49 recorded identity fixes. Passage checks are separate. These data are not live.",
   "p13": "The research archive has 97 inactive records. These records do not establish 97 distinct histories. The active model stays separate.",
   "p14": "The archive series has 773 profile rows and 868 corpus objects. These totals include inactive records. No added record enters the active model.",
   "p15": "The current match between archive records and public cases is unknown. The check at 90 is never an admission gate.",
-  "p16": "The index now uses version 165. It has 196 population records in its graph. There are 371 event links. There are also five population links.",
-  "p17": "The index keeps 220 open records. Its 554 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
+  "p16": "The index now uses version 167. It has 196 population records in its graph. There are 371 event links. There are also five population links.",
+  "p17": "The index keeps 220 open records. Its 574 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
   "p18": "The intake has 2,358 name leads. It has 409 full reviews, 38 partial reviews, and 1,911 untouched leads.",
   "p19": "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
   "p20": "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
@@ -16655,7 +16657,7 @@
   "p35": "The scope check found 16 errors in empty search claims. Those cells now need a full scope search. Three West Africa cells have scope or approval limits. These are search control changes, not new historical omissions.",
   "p36": "Older source work remains saved. The current Embobut search is partial. It adds no completed channel or recall credit.",
   "p37": "Each found cell still needs scope, source and overlap checks. A limited cell needs its source or access gap resolved. A not-yet-searched cell needs a full scope search. An empty claim needs checked sources and clear bounds. A not-applicable claim needs evidence for that choice.",
-  "p38": "The current index tracks 341 source records. Its source work count of 95 is dated. The separate research archive has 97 inactive records. Older snapshots retain the counts used at their dates.",
+  "p38": "The current index tracks 351 source records. Its source work count of 95 is dated. The separate research archive has 97 inactive records. Older snapshots retain the counts used at their dates.",
   "p39": "The active model still uses 676 rows. The 97 archive records stay out of that model.",
   "p40": "The local data include 177 map notes. Only 151 map notes are live. The other 26 map notes await release. The full local atlas still needs its own release checks.",
   "p41": "The next archive report is due at 120 records. Another 23 records reach that point. The report is not an admission gate.",
@@ -16681,8 +16683,8 @@
     "prior_public_report": "2026-10-05T20:00:38.656033+00:00"
   },
   "source_version_labels": {
-  "current_source_ledger": "341records/workflow95dated",
-  "current_population_index": "v165",
+  "current_source_ledger": "351records/workflow95dated",
+  "current_population_index": "v167",
   "current_exposure_ledger": "53partial attempts; no completed cycle",
   "matrix": "1280cells;32found/1228not-yet/20limited;no full-era two-channel flags",
   "priority_pilot": "Dated2026-10-04 diagnostic147entries; distinct current external intake365"
@@ -16695,7 +16697,7 @@
   "These are external source records. They do not count unique histories or confirmed omissions. A located candidate still needs a scope and overlap review. Admissions remain separate.",
   "The research archive has 97 inactive records. These records do not establish 97 distinct histories. The active model stays separate. The next archive report is due at 120 records. Another 23 records reach that point. The report is not an admission gate.",
   "The current match between archive records and public cases is unknown. The report at 90 is never an admission gate.",
-  "The index keeps 220 open records. Its 554 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
+  "The index keeps 220 open records. Its 574 event question views remain open. There are 28 cohort views and 24 source phase views. Do not add these views as independent historical unknowns.",
   "These intake counts describe workflow. They do not measure historical discovery. A name lead is not a resolved population.",
   "The index keeps roster leads and external leads apart. A workflow step does not answer a question about history.",
   "No search floor or cycle reached its end. All eight eras still need full source, place, recall and exclusion checks.",
@@ -16729,8 +16731,10 @@
   "Selected source322/P5v163 terminal": "Undated actual terminal; metadata readback 2026-10-19T06:23:20.547745+00:00",
   "Dated ASCSA bibliography48 and local13 terminal": "2026-10-19T04:52:40.388785+00:00",
   "Dated prior Actual selected570 and local13 terminal": "Undated actual terminal; metadata readback 2026-10-19T06:44:26.130675+00:00",
-  "Current selected341/P5v165 terminal": "Undated actual terminal; metadata readback 2026-10-19T11:05:14.509694+00:00",
-  "Current selected571 and local13 terminal": "Undated actual terminal; metadata readback 2026-10-19T11:05:14.509694+00:00"
+  "Current selected571 and local13 terminal": "Undated actual terminal; metadata readback 2026-10-19T11:05:14.509694+00:00",
+  "Dated prior selected341/P5v165 terminal": "Undated actual terminal; metadata readback 2026-10-19T11:05:14.509694+00:00",
+  "Current selected351/P5v167 terminal": "Undated actual terminal; metadata readback 2026-10-19T15:39:25Z",
+  "Current SNI49 and local13 data context": "Metadata readback 2026-10-19T15:39:25Z"
 },
   "source_record_dispositions": [
   {
@@ -19119,6 +19123,76 @@
   "saved_status": "Main_accepted_research_content_pending_registration",
   "admitted": false,
   "active": false
+},
+{
+  "ledger_id": "source-north-america-mcphee-communal-use-violence",
+  "record_type": "candidate",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-lead-north-america-grass-mesa-departure-ritual-fire",
+  "record_type": "source_located_lead",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-lead-north-america-long-tenth-village-reuse",
+  "record_type": "source_located_lead",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-lead-north-america-long-tenth-household-compounds",
+  "record_type": "source_located_lead",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-lead-north-america-hopi-mesa-verde-farm-allocation-hosting",
+  "record_type": "source_located_lead",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-lead-north-america-hopi-mesa-verde-ceremonial-place-use",
+  "record_type": "source_located_lead",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-north-america-hopi-warrior-twins-entry-pact",
+  "record_type": "candidate",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-lead-north-america-hopi-greasewood-aid-settlement",
+  "record_type": "source_located_lead",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-lead-north-america-hopi-chimney-rock-conflict-outcome",
+  "record_type": "source_located_lead",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
+},
+{
+  "ledger_id": "source-lead-north-america-hopi-palatkwapi-destruction-flight",
+  "record_type": "source_located_lead",
+  "saved_status": "Main_accepted_content_pending_final_literal_Main_not_registered",
+  "admitted": false,
+  "active": false
 }
 ],
   "source_status_note": "Saved source status text can predate a later workflow step. Saved admission flags describe archive workflow. They do not certify that a reported event took place.",
@@ -19137,8 +19211,8 @@
   "bibliography": {
   "works": 1506,
   "source_uses": 6276,
-  "open_identity_gaps": 310,
-  "recorded_identity_fixes": 48,
+  "open_identity_gaps": 309,
+  "recorded_identity_fixes": 49,
   "passage_verification_separate": true,
   "public": false,
   "aliases": 1418,
@@ -19146,9 +19220,9 @@
 "aliases_scope": "Dated saved alias inventory1418; current native registry1424 is distinct."
 },
   "public_source_list": {
-  "source_notes": 335,
+  "source_notes": 345,
   "map_notes": 151,
-  "RSS_posts": 73,
+  "RSS_posts": 74,
   "scope": "Dated source notes only. The local atlas and bibliography data are not live.",
   "before_this_release": {
     "source_notes": 264,
@@ -19156,7 +19230,7 @@
     "RSS_posts": 58
   },
 "current_local_editorial_counts": [
-  335,
+  345,
   177
 ],
 "pending_local_map_notes": 26
@@ -21902,5 +21976,94 @@
   "prior_R37_lineage_retained": true,
   "metadata_read_at": "2026-10-19T11:05:14.509694+00:00",
   "actual_pre_stage_report_date": "Future genuine stage-GO Denver date; not metadata-read time."
+},
+"r39_lineage_and_public_boundary": {
+  "parent_report": {
+    "path": "tmp/public-site-r38-19-source-notes/discovery/report.json",
+    "bytes": 613048,
+    "sha256": "6e5a728d5fa344645d1b065a3a885462f4284038d7ec9473812d6a7e67f719fd"
+  },
+  "Root_GO": {
+    "path": "maintenance/work_loop_progress_20261006_2215/R39_PUBLICATION_PREPARATION_GO.json",
+    "bytes": 9520,
+    "sha256": "75e4e12195c8ddaea831bce949e8355e75efb003769c09acacd908fdfde42ef3"
+  },
+  "source_terminal": {
+    "path": "maintenance/work_loop_progress_20261006_2213/TEN_REGISTRATION_TERMINAL_ACCEPTANCE.json",
+    "bytes": 1717,
+    "sha256": "263214e53e0afa64a0da6fc94bd3eeeb3cec88ef759ca30a21c1428cc5efbb83"
+  },
+  "citation_installation": {
+    "path": "maintenance/work_loop_progress_20261006_2215/citation_reader_installation/RECEIPT.json",
+    "bytes": 2157,
+    "sha256": "1b217e364c07283ec10ae2c56e2f4f5e102ba24210075f90638b23b87f54c857"
+  },
+  "native_context": {
+    "path": "maintenance/metadata_native_child_sni62_container_identity_data_20261019_v1/exports/PUBLICATION_DATA_CONTEXT.json",
+    "bytes": 27960,
+    "sha256": "ec0e354e53c4a3ba4cbd4e11cdb589b0fb5c3bfbd8178bd70f1061ab45423a1c"
+  },
+  "R38_terminal": {
+    "path": "maintenance/work_loop_progress_20261006_2207/R38_TERMINAL_ACCEPTANCE.json",
+    "bytes": 2645,
+    "sha256": "c2c4da5a9f283dc24db1264905e191b3ee1fbfc79e3dfaac49a2622a7af69b7f"
+  },
+  "source": [
+    351,
+    95,
+    167,
+    574
+  ],
+  "name_intake_workflow": [
+    20,
+    40
+  ],
+  "core_intake_unchanged": [
+    2358,
+    3396,
+    447
+  ],
+  "graph_unchanged": [
+    196,
+    371,
+    5,
+    220
+  ],
+  "native": [
+    571,
+    585,
+    55,
+    64
+  ],
+  "bibliography": [
+    1506,
+    6276,
+    1424,
+    1418,
+    309,
+    49
+  ],
+  "public": [
+    345,
+    151,
+    74
+  ],
+  "live_atlas": [
+    540,
+    552
+  ],
+  "matrix": [
+    1228,
+    32,
+    20,
+    0,
+    0
+  ],
+  "exposure_attempts": 53,
+  "source_original_reads": 0,
+  "full_era_coverage_claim": false,
+  "prior_R38_lineage_retained": true,
+  "metadata_read_at": "2026-10-19T15:39:25Z",
+  "actual_pre_stage_report_date": "Only future genuine stageGO Denver date."
 }
 }

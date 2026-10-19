@@ -1764,6 +1764,25 @@
   ],
   "occurred_at": "2026-10-19T10:53:53.845878Z",
   "published_at": "2026-10-19T11:24:55.538876Z"
+},
+{
+  "id": "2026-10-19-mesa-verde-hopi-source-questions",
+  "title": "Ten research notes on Mesa Verde and Hopi accounts",
+  "kind": "research",
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    }
+  ],
+  "paragraphs": [
+    "We added ten research notes about the Mesa Verde region and Hopi accounts. They cover reported violence, departures, access to land, help from hosts and continued use of settlements.",
+    "Each new note gives the source, chapter and printed pages. It states what the evidence supports and what remains unknown. We also clarified a date limit in one earlier note.",
+    "These notes are research questions. They do not add atlas cases or change the statistical results."
+  ],
+  "backfilled": false,
+  "occurred_at": "2026-10-19T15:29:10.809656Z",
+  "published_at": "2026-10-19T16:00:47.295365Z"
 }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r38-source335-rss73",
+  "version": "r39-source345-rss74",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3443,7 +3443,7 @@
   "name": "Earlier moves from the Mesa Verde region",
   "place_and_era": "The authors place these moves in the late 900s CE. They describe southwest Colorado and the northern edge of the Mesa Verde region. Possible destinations lie in New Mexico.",
   "attested": "The authors report that many residents left the central Mesa Verde region. They describe earlier homes, farms and village growth. They report moves to its northern edge, and perhaps to the San Juan Basin and Chuska slopes.",
-  "unknown": "The source does not show why each group left or who went where. It does not establish forced moves or loss of land rights.",
+  "unknown": "The source does not show why each group left or who went where. It does not establish forced moves or loss of land rights. A later chapter separates early departures, renewed use of some old villages, and the spread of household compounds. How these phases relate to the date in this study remains unresolved.",
   "next_step": "Examine the cited studies for evidence of departure and later homes. Keep these earlier moves separate from later moves to the northern Rio Grande.",
   "sources": [
     "https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/Obsidian-Evidence-of-Interaction-and-Migration/99900503085801842"
@@ -3645,6 +3645,146 @@
   "next_step": "Keep the personal refuge distinct from later religious travel. Ask how unrest changes where the brothers can live.",
   "sources": [
     "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-2eefcb4aa026b8f935f1",
+  "name": "McPhee: deaths and the end of communal use",
+  "place_and_era": "McPhee Pueblo lay in the Dolores Valley in southwest Colorado. The chapter discusses these acts during regional depopulation near the end of the 800s CE. The exact date of the deaths and destruction is unknown.",
+  "attested": "The chapter reports violent deaths and paired burials in ritual pit structures. Roofs were taken apart and collapsed over the bodies. Other ritual and community structures were burned.",
+  "unknown": "The authors only suggest that roofs fell as people died. They do not identify the killers or show that every resident was forced to leave. Later use of parts of the village is reported.",
+  "next_step": "Keep the deaths and destruction of communal spaces in view. Ask how these acts changed use of those spaces and what happened to other residents.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c011"
+  ],
+  "source_citations": [
+    "Kellam Throgmorton, Richard Wilshusen, Grant D. Coffey (2023). Bridging the Long Tenth Century. Chapter 11, printed pages 166, 170, 171. DOI: 10.5876/9781646424597.c011."
+  ]
+},
+{
+  "id": "ledger-67e887918afee96254c6",
+  "name": "Grass Mesa: people leave before the fire",
+  "place_and_era": "Grass Mesa lay in the Dolores Valley in southwest Colorado. The chapter places this move in the earlier regional decline. The village fire came months or years after people left.",
+  "attested": "The account describes temporary structures during a planned departure. The authors report that the village was burned later as a ritual act. These are separate stages in one local history.",
+  "unknown": "A planned move does not prove that people had a free choice. The later fire does not show an attack that caused the move. The effects on continued access and use are unknown.",
+  "next_step": "Trace the circumstances of departure and later use. Keep this account separate from the reported violence at McPhee.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c011"
+  ],
+  "source_citations": [
+    "Kellam Throgmorton, Richard Wilshusen, Grant D. Coffey (2023). Bridging the Long Tenth Century. Chapter 11, printed pages 166, 168. DOI: 10.5876/9781646424597.c011."
+  ]
+},
+{
+  "id": "ledger-bf37ba4dd2259939124d",
+  "name": "People use old villages again",
+  "place_and_era": "The chapter describes renewed use at selected villages in the Dolores Valley and central Mesa Verde region. It places much of this work in 925-975 CE. Construction dates differ between sites.",
+  "attested": "People rebuilt and lived in parts of earlier villages. Some reused old room plans. Other communities persisted while these places were used again.",
+  "unknown": "The source does not identify the new residents as the same families who left. Returns and possible places where people lived remain proposals. Changes in prior use are not established.",
+  "next_step": "Trace how the new residents related to those who left and those who stayed. Keep reuse of places separate from family identity and land control.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c011"
+  ],
+  "source_citations": [
+    "Kellam Throgmorton, Richard Wilshusen, Grant D. Coffey (2023). Bridging the Long Tenth Century. Chapter 11, printed pages 169, 170, 171, 172. DOI: 10.5876/9781646424597.c011."
+  ]
+},
+{
+  "id": "ledger-451ba76f00a0173b31fa",
+  "name": "Later compounds: local moves or arrivals?",
+  "place_and_era": "The chapter places this pattern of small homes in 975-1030 CE in central Mesa Verde. It describes compounds on mesa tops and in some old settlements.",
+  "attested": "More people used small post-and-adobe compounds across a wider range of places. Some homes resembled those in nearby regions. The authors propose local change and immigration as alternatives.",
+  "unknown": "Similar buildings do not establish that people arrived from elsewhere. Fallowed land does not show the absence of prior users or rights. The effects of these settlements on earlier users remain unknown.",
+  "next_step": "Seek evidence that distinguishes local moves from arrivals. Ask how compound residents and prior users shared or controlled these landscapes.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c011"
+  ],
+  "source_citations": [
+    "Kellam Throgmorton, Richard Wilshusen, Grant D. Coffey (2023). Bridging the Long Tenth Century. Chapter 11, printed pages 173, 174, 175, 176. DOI: 10.5876/9781646424597.c011."
+  ]
+},
+{
+  "id": "ledger-3fdf72493879bb5b29cf",
+  "name": "Farm lands and an invited stay at Mesa Verde",
+  "place_and_era": "The account concerns Tawtaykya, or Mesa Verde. The exact date and farm parcels are unknown. Later dates for ceremonial roles do not date these acts.",
+  "attested": "Kuwanwisiwma describes Katsina and Badger leaders who assigned farm lands. Residents hosted and taught new arrivals. Residents welcomed Flute to perform and asked the group to stay.",
+  "unknown": "The account does not establish that these allocations took land from prior users. It does not say that Flute was held by force. Shared clan names do not identify one unchanged group across places.",
+  "next_step": "Trace how hosts and new residents shared or controlled farm use. Keep the reported land allocation separate from a forced loss of prior use.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c005"
+  ],
+  "source_citations": [
+    "Leigh Kuwanwisiwma, Wesley Bernardini (2023). Place of the Songs. Chapter 5, printed pages 75, 76, 77, 80. DOI: 10.5876/9781646424597.c005."
+  ]
+},
+{
+  "id": "ledger-95cf96d81f4294f03cb4",
+  "name": "Rules for rites at Mesa Verde",
+  "place_and_era": "The account places this ban at Mesa Verde. The exact date is unknown. Later rites at Aztec have a separate context.",
+  "attested": "The account says Bow and its phratry were not allowed to perform rites at Mesa Verde. Greasewood received permission for a medicinal rite and four katsinam. Bow later held rites and built great kivas at Aztec.",
+  "unknown": "The ban is clear. Whether it barred use of a place or only set rules for rites remains unknown. The account does not link the ban to a later move.",
+  "next_step": "Ask whether the ban barred use of a place or set rules for rites alone. Keep the stated ban in view.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c005"
+  ],
+  "source_citations": [
+    "Leigh Kuwanwisiwma, Wesley Bernardini (2023). Place of the Songs. Chapter 5, printed pages 76, 77, 80, 81. DOI: 10.5876/9781646424597.c005."
+  ]
+},
+{
+  "id": "ledger-92c43113cea516df65aa",
+  "name": "Entry refusal, peace and travel",
+  "place_and_era": "The account describes territories encountered during journeys. The exact location and date of the refusal are unknown. It links the deniers and protectors with the Warrior Twins from Aztec.",
+  "attested": "Kuwanwisiwma describes territorial warriors whom he identifies as the Warrior Twins. They first deny some clans entry. The account then reports a peace pact and protection during travel.",
+  "unknown": "The human identity of these figures remains unknown. The exact travellers and territorial bounds are also unclear. The account does not show eviction from earlier homes or a permanent ban on entry. It identifies no modern ethnic people.",
+  "next_step": "Keep the refusal and later protection in one account. Ask what entry was denied and how the pact changed access.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c005"
+  ],
+  "source_citations": [
+    "Leigh Kuwanwisiwma, Wesley Bernardini (2023). Place of the Songs. Chapter 5, printed pages 78, 81. DOI: 10.5876/9781646424597.c005."
+  ]
+},
+{
+  "id": "ledger-4afa61c546abd2904596",
+  "name": "Greasewood receives aid and guidance to Mesa Verde",
+  "place_and_era": "The account follows Greasewood from Bears Ears to Fog Mountain and Mesa Verde. Fog Mountain is an unspecified Abajo peak. The exact calendar is unknown.",
+  "attested": "Greasewood approaches starvation and receives meat and pelts from people described as apparently Ute. At the request of Greasewood, guides lead the group to Mesa Verde. Settlement follows in the area now called Ute Mountain Tribal Park.",
+  "unknown": "The speaker reports a mountain visit. His visit does not make him a witness to the earlier encounter. The account does not establish a forced route, sole ownership or removal of prior residents.",
+  "next_step": "Ask how the guided settlers related to prior residents and later communities. Keep this aid account separate from reports of conflict among other clans.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c005"
+  ],
+  "source_citations": [
+    "Leigh Kuwanwisiwma, Wesley Bernardini (2023). Place of the Songs. Chapter 5, printed pages 76, 78, 81. DOI: 10.5876/9781646424597.c005."
+  ]
+},
+{
+  "id": "ledger-e086b17297062f219217",
+  "name": "Conflict near Chimney Rock",
+  "place_and_era": "Kuwanwisiwma places this conflict near Chimney Rock. The exact date and affected tract are unknown.",
+  "attested": "The account says some clans faced conflict there. The speaker contrasts this with the Ute aid in the account of his own clan.",
+  "unknown": "The speaker does not identify the other side. His guesses remain unconfirmed. The passage does not state a particular move, loss of home use or change in land control.",
+  "next_step": "Seek an account of what the conflict changed for residence, access or control. Do not supply the outcome from a different episode.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c005"
+  ],
+  "source_citations": [
+    "Leigh Kuwanwisiwma, Wesley Bernardini (2023). Place of the Songs. Chapter 5, printed pages 78, 81. DOI: 10.5876/9781646424597.c005."
+  ]
+},
+{
+  "id": "ledger-85d8c251193a37e5f920",
+  "name": "Clans flee north after the loss of Palatkwapi",
+  "place_and_era": "The place called Palatkwapi is not fixed to one city. The note gives possible places from southern Arizona to Mesoamerica. The date is unknown.",
+  "attested": "A note that cites Yava reports the destruction of Palatkwapi after moral and social turmoil. Clans flee north. Some reach Hopi Mesas. The note also reports a break in rites and their later revival.",
+  "unknown": "The note does not identify a destroyer or a particular human removal process. It does not make every later Hopi arrival part of this flight. The cited Yava work was not newly read.",
+  "next_step": "Ask how destruction, flight and later settlement connect. Keep the moral frame of the account. Do not add an attacker or erase the reported acts.",
+  "sources": [
+    "https://doi.org/10.5876/9781646424597.c005"
+  ],
+  "source_citations": [
+    "Leigh Kuwanwisiwma, Wesley Bernardini (2023). Place of the Songs. Chapter 5, printed pages 80, 81, 82. DOI: 10.5876/9781646424597.c005."
   ]
 }
 ],
@@ -5161,5 +5301,5 @@
     }
   ],
   "updated_on": "2026-10-19",
-  "update_scope": "New research notes on movements, exile and rule"
+  "update_scope": "Ten research notes on Mesa Verde and Hopi accounts"
 }
