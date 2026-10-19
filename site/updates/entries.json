@@ -1745,6 +1745,25 @@
   ],
   "occurred_at": "2026-10-19T05:29:05.001153Z",
   "published_at": "2026-10-19T07:05:56.521693Z"
+},
+{
+  "id": "2026-10-19-new-research-notes-mesa-verde-south-asia",
+  "title": "New notes on flight, exile and rule",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added 19 notes to Known but not yet placeable. Two concern movements in the Mesa Verde region. Seventeen come from texts and comments in the 1884 edition by Samuel Beal.",
+    "The Beal notes describe reported flight, exile, changes of rule and the purchase of people for service. Several accounts are tales. Dates and links between some accounts remain unclear.",
+    "Each note sets out what the source reports, what remains unknown and the next research question. These are research notes. They do not add atlas cases or change the statistical results."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    }
+  ],
+  "occurred_at": "2026-10-19T10:53:53.845878Z",
+  "published_at": "2026-10-19T11:24:55.538876Z"
 }
   ]
 }

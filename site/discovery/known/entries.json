@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r37-stlawrence-source316-rss72",
+  "version": "r38-source335-rss73",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3437,6 +3437,215 @@
   "sources": [
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC5550228/"
   ]
+},
+{
+  "id": "ledger-cb5c7f1ea439423ae6ab",
+  "name": "Earlier moves from the Mesa Verde region",
+  "place_and_era": "The authors place these moves in the late 900s CE. They describe southwest Colorado and the northern edge of the Mesa Verde region. Possible destinations lie in New Mexico.",
+  "attested": "The authors report that many residents left the central Mesa Verde region. They describe earlier homes, farms and village growth. They report moves to its northern edge, and perhaps to the San Juan Basin and Chuska slopes.",
+  "unknown": "The source does not show why each group left or who went where. It does not establish forced moves or loss of land rights.",
+  "next_step": "Examine the cited studies for evidence of departure and later homes. Keep these earlier moves separate from later moves to the northern Rio Grande.",
+  "sources": [
+    "https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/Obsidian-Evidence-of-Interaction-and-Migration/99900503085801842"
+  ]
+},
+{
+  "id": "ledger-2270c7c165ee0faf49bf",
+  "name": "Moves between Mesa Verde and the northern Rio Grande",
+  "place_and_era": "The study concerns southwest Colorado and north-central New Mexico. The authors place the later moves in the 1200s CE. Some early departures were possible before then.",
+  "attested": "The authors link departures from the Mesa Verde region with growth on the Pajarito Plateau. They argue that some early migrants returned with obsidian and knowledge of places where people already lived. They also cite warfare as the region lost residents.",
+  "unknown": "Objects do not identify each traveler or prove return visits. The cause of these moves and their effects on prior land use remain unknown. Counts of obsidian are not counts of migrants.",
+  "next_step": "Examine the cited settlement evidence for the proposed return visits. Ask how objects moved, and how new and prior residents used these places.",
+  "sources": [
+    "https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/Obsidian-Evidence-of-Interaction-and-Migration/99900503085801842"
+  ]
+},
+{
+  "id": "ledger-93634a113f4bf8a51466",
+  "name": "A blind prince leaves his post and home",
+  "place_and_era": "The tale links Taxila with the royal capital of the father of Kunala. The event date is unknown.",
+  "attested": "In this tale, a forged order leads to the loss of the sight of Kunala. He leaves his post and travels with his wife as a beggar. They reach the capital of his father, who learns what took place.",
+  "unknown": "The order calls for the pair to be left in the hills. The tale does not confirm that every part of that order takes place.",
+  "next_step": "Distinguish the forged order from the acts that the tale reports. Keep the later exile of other people separate.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-68feed91e5c1ffd765df",
+  "name": "A king loses his country and flees",
+  "place_and_era": "A shrine in Udyana marks this tale. It does not locate the country that the king lost. The event date is unknown.",
+  "attested": "Beal translates a tale of a king in a past life. He loses rule of his country and flees an enemy. He then offers himself bound as a captive so a poor man can claim a reward.",
+  "unknown": "The tale does not name the lost country or give the fate of its residents. It does not confirm the later delivery of the captive.",
+  "next_step": "Keep the lost country separate from the shrine. Trace the loss, flight and later offer as parts of one tale.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-a806885a30176ab70672",
+  "name": "A priest turns back at a river",
+  "place_and_era": "The tale concerns a priest on his way back to Kasmir. The event date is unknown.",
+  "attested": "In this relic tale, boatmen blame a sacred tooth for danger. Their master searches the goods of a priest. The priest gives the tooth to Nagas and turns back. He later returns and takes it to a home for priests.",
+  "unknown": "It is unclear whether people force him to stop or he turns back in response to sacred danger. The tale does not establish a wider expulsion.",
+  "next_step": "Distinguish the search by people from the role of Nagas in the tale. Ask what action stops his passage.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-64c8e822271079fcb2bf",
+  "name": "A refugee takes rule in Udyana",
+  "place_and_era": "The tale concerns Udyana, in South Asia. The event date is unknown.",
+  "attested": "In this tale, hosts receive a Sakya refugee and offer him a home. A host gives him a hidden sword. He kills the local king, and the officials yield rule to him.",
+  "unknown": "The tale gives no general expulsion of residents. It does not establish a modern identity for the hosts, whom it calls Nagas.",
+  "next_step": "Keep the prior king and residents in view. Ask what changes for them when the refugee takes rule.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-741f8673f4f98dcf63e8",
+  "name": "A reported move toward Nepal",
+  "place_and_era": "Beal discusses people called Vrijji and a move toward the mountains of Nepal. The event date is unknown.",
+  "attested": "Beal relays an account in which a king checks this group and drives it northeast. His account also links the group to invaders. The group and its role remain uncertain.",
+  "unknown": "It is unclear whether residents lose their homes or an army retreats. A shared name or place does not establish a modern people.",
+  "next_step": "Ask who moves and what prior residence or use they lose. Keep the reported force without an assumed mass exile.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-97640509b5b620fd745d",
+  "name": "A ruler tries to keep a pilgrim",
+  "place_and_era": "Beal places this episode at Kao-chang on the westward route of Hiuen Tsiang. The precise event date is unknown.",
+  "attested": "Beal reports that the ruler tries to keep the pilgrim at Kao-chang. The pilgrim then goes on. The account also describes aid, guides and obstacles along his route.",
+  "unknown": "It is unclear whether the ruler imposes a stay or fails in an attempt to retain him. The account does not establish a wider removal.",
+  "next_step": "Ask whether an actual loss of passage or choice of home occurs. Keep an attempt distinct from an imposed stay.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-0390d54590e600753eb6",
+  "name": "A siege and loss of rule at Taxila",
+  "place_and_era": "Beal gives this account in a note about Taxila, in South Asia. The event date is unknown.",
+  "attested": "In a note, Beal reports a revolt and a failed siege. He says the people then submit to Asoka, who takes charge. The note later links a new revolt to the post of Kunala as governor.",
+  "unknown": "The note does not state that all residents lose their homes. Shared place names do not make this the same event as other conquests.",
+  "next_step": "Keep the siege and change of rule distinct from the later injury of Kunala. Compare the people, place and acts.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-0b66057dfb4f95e11984",
+  "name": "An armed coup and return of priests",
+  "place_and_era": "The tale concerns a ruler from Himatala and people in Kasmir. The event date is unknown.",
+  "attested": "In this tale, armed men enter as guests under the guise of trade. Their king kills the local ruler and exiles ministers. He calls priests back, builds a home for them and gives them the country.",
+  "unknown": "The tale spares ordinary residents from blame. It does not give a total of exiles or later settlers. It also says the displaced rulers later regain power.",
+  "next_step": "Keep minister exile and priest return as distinct parts of one coup. Retain prior residents and the later change of rule.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-0126075f6a9cad4844a7",
+  "name": "Beal reports a conquest in Gandhara",
+  "place_and_era": "Beal places this conquest in Gandhara, in South Asia. The event date is unknown.",
+  "attested": "Beal reports that a ruler of the Ye-tha takes Gandhara. He also reports wider conquests or tribute. The local claim concerns a change of rule in a place where people already live.",
+  "unknown": "A possible link to the other raid remains unclear. That raid names Mahirakula. The text does not prove a separate event or a general expulsion.",
+  "next_step": "Keep the reports distinct until the evidence links their actors and events. Do not merge them from the place name alone.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-1aa6935c0ea0505ae055",
+  "name": "Four defenders driven from home",
+  "place_and_era": "The tale concerns Sakya homes and a route toward Udyana. The event date is unknown.",
+  "attested": "In a tale that Beal translates, an army attacks the Sakyas. Their own clans drive four defenders from home. Each flees in a different direction. The tale follows one refugee to a new household.",
+  "unknown": "The attack and the expulsion have different actors. The tale does not identify all routes, later homes or the fate of each refugee.",
+  "next_step": "Keep the exile and the later seizure of rule distinct. One refugee later takes rule in Udyana.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-799a0318cfb216eb9750",
+  "name": "Monks move from Banaras to Kasmir",
+  "place_and_era": "Beal gives this account in a note about a monk and Kasmir. The event date is unknown.",
+  "attested": "In a note, Beal says people in Banaras resent the number of monks. A monk takes a large group to Kasmir by sacred flight. The note links this move with the spread of faith.",
+  "unknown": "The note does not establish whether residents force the monks out or the monks leave on a mission. The cause remains unclear.",
+  "next_step": "Ask what links the local resentment to the move. Retain the reported move without an assumed act of expulsion.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-a4850655950925549578",
+  "name": "Poor people bought to serve monks",
+  "place_and_era": "Beal gives this account in the origin history of Kasmir. The event date is unknown.",
+  "attested": "In the history that Beal translates, a monk founds homes for priests. He buys poor people from nearby countries to serve them. After his death, the text says these people take rule and face scorn from their neighbors.",
+  "unknown": "The text gives no count of the bought people or full terms of their service. It does not establish a modern group identity.",
+  "next_step": "Retain the bought service, later rule and prior use of the land. Keep the lake tale separate from claims about human groups.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-3134b79e8020d97c2970",
+  "name": "Priests flee a threat and receive land",
+  "place_and_era": "The tale links the Ganges with refuge in Kasmir. The event date is unknown.",
+  "attested": "The text says Asoka plans to drown priests. Some priests flee to Kasmir by sacred powers and refuse his call to return. He then builds homes for priests and gives them the country.",
+  "unknown": "The threat is not a count of people who die. The text does not define the land grant or show that prior residents leave.",
+  "next_step": "Keep the threat, refuge, refused return and grant distinct. Ask how priests and prior residents use the land.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-0e3d216dbc309619e4d1",
+  "name": "Rulers drive priests from Kasmir",
+  "place_and_era": "The text places this episode after the death of Kanishka. It gives no secure event date.",
+  "attested": "In the account that Beal translates, rulers called Kritiyas take power again. The text says they banish priests and overthrow their religion. A later tale recalls priests who disperse and choose new homes.",
+  "unknown": "The later tale can refer to the same exiles. The text does not give their number, full routes or later fate.",
+  "next_step": "Keep this expulsion linked to the later return of priests. Do not count the departure and return as new groups.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-0a126ebad91cbd833415",
+  "name": "Strife over rule at Taxila",
+  "place_and_era": "The text describes Taxila, in South Asia, as it pays tribute to Kasmir. The date of the change is unknown.",
+  "attested": "The text says nobles fight for power after a royal line ends. It reports changed tribute and ruined homes for priests. It also describes farms, residents and a few priests who remain.",
+  "unknown": "The text does not link a specific victor or act to loss of homes or land. Ruins do not identify an attacker.",
+  "next_step": "Ask what control or access changes as the nobles contest power. Keep the residents who remain and their land use in view.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-4c56033600b62318ecd4",
+  "name": "The king sends people into exile",
+  "place_and_era": "The tale concerns Taxila and a desert northeast of the Snowy Mountains. The event date is unknown.",
+  "attested": "In this tale, Asoka punishes those tied to the injury of Kunala. He sends some officials into exile and kills or removes others. He sends common people who took part into a desert.",
+  "unknown": "The text does not say that all Taxila residents leave. The numbers, routes and later homes of the exiles are unknown.",
+  "next_step": "Keep each affected group and form of punishment distinct. Keep this group distinct from Kunala and his wife.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
+},
+{
+  "id": "ledger-bb8c2603c78e6d574ae9",
+  "name": "Two brothers seek refuge in China",
+  "place_and_era": "Beal places the refuge at Shingtu in China, during unrest at the end of Sui rule. The precise event date is unknown.",
+  "attested": "Beal reports that Hiuen Tsiang and his brother seek refuge because of political unrest. They find refuge at Shingtu. Their later study and travel are different moves.",
+  "unknown": "The account does not identify the fate of their former home or how long they remain. It does not establish a general expulsion.",
+  "next_step": "Keep the personal refuge distinct from later religious travel. Ask how unrest changes where the brothers can live.",
+  "sources": [
+    "https://archive.org/details/siyukibuddhistre01hsuoft"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4952,5 +5161,5 @@
     }
   ],
   "updated_on": "2026-10-19",
-  "update_scope": "Two research notes on moves near the Saint Lawrence"
+  "update_scope": "New research notes on movements, exile and rule"
 }
