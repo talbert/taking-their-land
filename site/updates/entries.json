@@ -1639,6 +1639,54 @@
   ],
   "occurred_at": "2026-10-18T21:47:11.435820Z",
   "published_at": "2026-10-18T22:07:30.365740Z"
+},
+{
+  "id": "2026-10-18-hastinapura-six-research-notes",
+  "title": "Six new notes on land and homes",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added six research notes on Hastinapura from one report by Lal. They cover land grants, fire and reuse, a later settlement, and accounts that Lal cites. Each note links to the report. These are research questions, not new atlas cases or active model scores.",
+    "Lal reports land grants to displaced people and former servicemen. He also describes homes after a fire, plus later homes and glazed pots. The notes keep those accounts separate. They do not infer forced moves from the finds alone.",
+    "Other notes cover accounts of a kingdom, exile and a change of capital. Lal compares some of these accounts with the finds. Those links remain tentative. An account in a text does not by itself prove that the events took place.",
+    "The list now has 313 source notes and 151 map notes. The feed has 70 posts. The live atlas stays at 540 cases and 552 stops. The dated report also keeps local research apart from the live atlas."
+  ],
+  "links": [
+    {
+      "label": "Read the land grants note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-f33a9ccf822bd52cbd92"
+    },
+    {
+      "label": "Read the fire and reuse note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-9368b9ba307d2010d84b"
+    },
+    {
+      "label": "Read the later homes note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-a54a6b1a59777cff9e29"
+    },
+    {
+      "label": "Read the kingdom account note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-45540936e7f7e44cfe31"
+    },
+    {
+      "label": "Read the exile account note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-d65b08208157ad23aca0"
+    },
+    {
+      "label": "Read the capital account note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-88ce920afe8496707a23"
+    },
+    {
+      "label": "Read the dated report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    },
+    {
+      "label": "Read the source report",
+      "url": "https://ignca.gov.in/Asi_data/18158.pdf"
+    }
+  ],
+  "occurred_at": "2026-10-19T00:33:23.096210Z",
+  "published_at": "2026-10-19T00:54:09.158347Z"
 }
   ]
 }

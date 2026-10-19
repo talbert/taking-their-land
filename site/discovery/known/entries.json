@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r34-moundville-source307-rss69",
+  "version": "r35-hastinapura-source313-rss70",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3338,6 +3338,72 @@
   "unknown": "The account does not show what happened to all residents. Exact moves, routes and later control remain unknown. The account does not establish a death toll or new settlers. The source does not name attackers for specific villages.",
   "next_step": "Examine how war pressure changed homes and use of the valley. Keep this loss separate from the earlier moves at Moundville.",
   "sources": []
+},
+{
+  "id": "ledger-f33a9ccf822bd52cbd92",
+  "name": "Land grants in the Khadar",
+  "place_and_era": "The Khadar east of the mounds at Hastinapura. Lal calls the grants recent but gives no year.",
+  "attested": "Lal reports that the Uttar Pradesh government reclaimed this tract for crops. It allotted land to displaced people from West Panjab and to former servicemen. The report also describes new villages and a planned town.",
+  "unknown": "Lal does not name the prior owners or users of this tract. He gives no account of their consent or fate. The area, date, terms and number of grants remain open. The report does not say if the two groups overlap.",
+  "next_step": "Ask how the grants changed prior land use and the rights of those who used the tract.",
+  "sources": [
+    "https://ignca.gov.in/Asi_data/18158.pdf"
+  ]
+},
+{
+  "id": "ledger-9368b9ba307d2010d84b",
+  "name": "Fire and later use of the town",
+  "place_and_era": "At Hastinapura, a fire marks the end of Period III. Its exact year is unknown.",
+  "attested": "Lal reports burned walls, floors and roof material from the trenches. He describes fire on a large scale. Later residents built homes and used the town again after a gap.",
+  "unknown": "The cause of the fire remains unknown. The report gives no count of deaths or people who left. It does not identify the fire with the plot to burn the Pandavas in a house. The report does not establish a human attack.",
+  "next_step": "Ask what caused the fire and how it changed the lives and homes of the people there.",
+  "sources": [
+    "https://ignca.gov.in/Asi_data/18158.pdf"
+  ]
+},
+{
+  "id": "ledger-a54a6b1a59777cff9e29",
+  "name": "New homes and old bricks at Hastinapura",
+  "place_and_era": "Hastinapura after a long gap in use. The report places new homes near the end of the eleventh century.",
+  "attested": "Lal describes new homes and the reuse of bricks from older structures. He thought Muslim conquerors brought the later craft of glazed pottery. He also notes local copies of foreign forms. The dates for the new homes and that craft differ.",
+  "unknown": "The report does not tie these changes to one local conquest. It does not identify a group of new arrivals or show that people lost their homes. The prior owners and their fate remain unknown.",
+  "next_step": "Keep the new homes and the later pottery craft as distinct questions about use of the site.",
+  "sources": [
+    "https://ignca.gov.in/Asi_data/18158.pdf"
+  ]
+},
+{
+  "id": "ledger-45540936e7f7e44cfe31",
+  "name": "Accounts of a town and a divided kingdom",
+  "place_and_era": "The area around Hastinapura in the accounts that Lal cites. Their event dates remain open.",
+  "attested": "Lal cites accounts in which Hastin founded the town or enlarged an older town. They describe Kuru rule over more land and branch kingdoms. They also describe Dhritarashtra as the king who split the kingdom between two related families.",
+  "unknown": "The report does not resolve whether Hastin founded the town or enlarged an older town. It does not give clear borders or explain the effect on prior residents. These accounts involve distinct rulers and acts. Pottery does not prove the named rulers or their control of land.",
+  "next_step": "Ask how each account describes a change in land control or use of the town.",
+  "sources": [
+    "https://ignca.gov.in/Asi_data/18158.pdf"
+  ]
+},
+{
+  "id": "ledger-d65b08208157ad23aca0",
+  "name": "Exile and a request for a place to live",
+  "place_and_era": "The Pandavas in the accounts linked to Hastinapura. The village names vary, and the year is unknown.",
+  "attested": "Lal cites accounts of the Pandavas in exile and their request for at least five villages as a place to live. He also recounts a plot to burn them in a house, war, deaths and retaliation. These remain accounts of distinct acts in the conflict.",
+  "unknown": "The report does not establish that the Pandavas received the villages. It does not tell us if prior residents lost land or homes. A plot does not prove that the planned act took place. These accounts do not identify that plot with the fire in Period III.",
+  "next_step": "Ask how exile affected their homes and whether the request led to a grant of land.",
+  "sources": [
+    "https://ignca.gov.in/Asi_data/18158.pdf"
+  ]
+},
+{
+  "id": "ledger-88ce920afe8496707a23",
+  "name": "A flood account and a change of capital",
+  "place_and_era": "From Hastinapura to Kausambi in an account that Lal cites. The date and the route remain unknown.",
+  "attested": "Lal cites an account in which the king Nichakshu moved the capital to Kausambi after a flood at Hastinapura. He also reports flood damage in the trenches and proposes a link to that account. He thought the flood caused great loss of life and property, distress and a time when people left the town. Later homes mark a return to the town.",
+  "unknown": "The link between the flood and the capital move remains tentative. Lal gives no count of deaths or a full account of who left. The report does not establish a human attack, a forced move or loss of rights at either place.",
+  "next_step": "Ask who moved with the capital, while the link to the excavated flood remains open.",
+  "sources": [
+    "https://ignca.gov.in/Asi_data/18158.pdf"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4853,5 +4919,5 @@
     }
   ],
   "updated_on": "2026-10-18",
-  "update_scope": "Three research notes and a dated report refresh"
+  "update_scope": "Six research notes and a dated report refresh"
 }
