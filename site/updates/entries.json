@@ -1714,6 +1714,37 @@
   ],
   "occurred_at": "2026-10-19T03:44:09.610018Z",
   "published_at": "2026-10-19T04:18:20.659579Z"
+},
+{
+  "id": "2026-10-19-saint-lawrence-moves-research-notes",
+  "title": "Two notes on moves near the Saint Lawrence",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We prepared two research questions on 18 October. We added their notes on 19 October. One concerns Jefferson County around 1500. The other concerns later moves from the Saint Lawrence valley.",
+    "The authors propose that some groups built new communities or joined other groups. Pottery links trace changes in contact between sites. These links do not count migrants or show that force caused each move. Conflict remains a proposed cause.",
+    "The list now has 316 source notes and 151 map notes. The feed has 72 posts. The live atlas stays at 540 cases and 552 stops. These notes add no atlas cases or active model scores."
+  ],
+  "links": [
+    {
+      "label": "Read the Jefferson County note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-420e552878a6cc6e2e7b"
+    },
+    {
+      "label": "Read the later valley note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-ecd9aedfce07d4e9461e"
+    },
+    {
+      "label": "Read the dated report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    },
+    {
+      "label": "Read the source study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5550228/"
+    }
+  ],
+  "occurred_at": "2026-10-19T05:29:05.001153Z",
+  "published_at": "2026-10-19T07:05:56.521693Z"
 }
   ]
 }

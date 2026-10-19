@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r36-sisupalgarh-source314-rss71",
+  "version": "r37-stlawrence-source316-rss72",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3415,6 +3415,28 @@
   "sources": [
     "https://ignca.gov.in/Asi_data/18136.pdf"
   ]
+},
+{
+  "id": "ledger-420e552878a6cc6e2e7b",
+  "name": "Moves from Jefferson County",
+  "place_and_era": "Jefferson County is in northern New York. The authors place the dispersal around 1500, but its exact date is unknown.",
+  "attested": "The authors propose that some groups built new communities north of the Saint Lawrence. They report that other groups joined communities in the Trent Valley or among eastern Haudenosaunee. Their pottery study traces changes in links between sites.",
+  "unknown": "The study does not establish what caused each move. Conflict is one proposed cause. Pottery links do not count migrants or prove that force made every resident leave.",
+  "next_step": "Trace the reported moves and changes in village use. Keep possible conflict and incorporation distinct from the network results.",
+  "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5550228/"
+  ]
+},
+{
+  "id": "ledger-ecd9aedfce07d4e9461e",
+  "name": "Later moves from the Saint Lawrence valley",
+  "place_and_era": "The account concerns communities in the Saint Lawrence valley. The authors place a move east around 1550. They report trade with Basque fishers until about 1580.",
+  "attested": "The authors report the move east and continued exchange. They propose that later groups joined Algonquian groups to the north and west. Other proposed moves led south to Abenaki groups.",
+  "unknown": "The authors suggest that warfare sped up the loss of residents. The study does not establish the cause of each move. It does not show that everyone died or that all use of the valley ended.",
+  "next_step": "Ask how people moved and whether they joined other groups. Keep this question separate from the earlier Jefferson County moves and the attack at Stadocona.",
+  "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5550228/"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4929,6 +4951,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-18",
-  "update_scope": "A research note on homes and access at Sisupalgarh"
+  "updated_on": "2026-10-19",
+  "update_scope": "Two research notes on moves near the Saint Lawrence"
 }
