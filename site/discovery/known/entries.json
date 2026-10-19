@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r35-hastinapura-source313-rss70",
+  "version": "r36-sisupalgarh-source314-rss71",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3404,6 +3404,17 @@
   "sources": [
     "https://ignca.gov.in/Asi_data/18158.pdf"
   ]
+},
+{
+  "id": "ledger-5d2426a73dfa24e32f4e",
+  "name": "The fort at Sisupalgarh changed access.",
+  "place_and_era": "Sisupalgarh lies near Bhuvanesvar in eastern India. Lal places its use at about 300 BCE to 350 CE. He dates the first fort walls to about 200 BCE.",
+  "attested": "Lal reports that people lived here before the fort walls. Builders made and repaired walls, gates, roads and homes. Cart tracks mark use of the gateway. A brick wall later closed a side passage. Homes and other uses continued through several phases.",
+  "unknown": "The builders, their aims and the reason for the closed passage remain unknown. The report does not establish that these acts forced people from their homes or land. Their effects on the rights of prior users remain open. A storm is one possible cause of damage at the gate. Continued use does not prove that every resident stayed.",
+  "next_step": "Ask how the fort walls and the closed side passage changed access for prior residents and other users.",
+  "sources": [
+    "https://ignca.gov.in/Asi_data/18136.pdf"
+  ]
 }
 ],
   "cases_awaiting_map_locations": [
@@ -4919,5 +4930,5 @@
     }
   ],
   "updated_on": "2026-10-18",
-  "update_scope": "Six research notes and a dated report refresh"
+  "update_scope": "A research note on homes and access at Sisupalgarh"
 }

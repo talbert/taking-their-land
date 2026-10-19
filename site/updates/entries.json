@@ -1687,6 +1687,33 @@
   ],
   "occurred_at": "2026-10-19T00:33:23.096210Z",
   "published_at": "2026-10-19T00:54:09.158347Z"
+},
+{
+  "id": "2026-10-18-sisupalgarh-homes-and-access-note",
+  "title": "A note on homes and access at Sisupalgarh",
+  "kind": "research",
+  "backfilled": false,
+  "paragraphs": [
+    "We added a research note on homes and access at Sisupalgarh. Lal reports that people lived there before the fort walls. The report describes walls, gates, roads and homes, with repairs and later use.",
+    "A brick wall later closed a side passage. The reason and the effects on prior users remain unknown. The report does not establish that these acts forced people from their land or homes. The note links to the report in its original issue.",
+    "The list now has 314 source notes and 151 map notes. The feed has 71 posts. The live atlas stays at 540 cases and 552 stops. This note adds a research question, not a new atlas case or an active model score."
+  ],
+  "links": [
+    {
+      "label": "Read the homes and access note",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-5d2426a73dfa24e32f4e"
+    },
+    {
+      "label": "Read the dated report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    },
+    {
+      "label": "Read the source report",
+      "url": "https://ignca.gov.in/Asi_data/18136.pdf"
+    }
+  ],
+  "occurred_at": "2026-10-19T03:44:09.610018Z",
+  "published_at": "2026-10-19T04:18:20.659579Z"
 }
   ]
 }
