@@ -28,12 +28,12 @@
       "reviewed_by": "main_agent",
       "decision": "Main_accepted_five_identity_joins_for_later_native_integration",
       "identity_adjudication": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:de518bb1f0f1f448616be9b77e5d7ebda7837261db82e9c567e0805d3e7e6dd9",
         "sha256": "458133530703ea3a7cb3e956529f6f74e737b5726ad07ae73481e457bf0c1337",
         "bytes": 7012
       },
       "identity_preparation": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_PREPARATION.json",
+        "path": "private-reference:5ae72111a870bd8e8a6ec15113eff538917c78148fdb07a39b43ef79dbe10c80",
         "sha256": "35b33237bb7636a396607401ab28513433f99014ed1f73b7bf24c920c76c6f44",
         "bytes": 43162
       },
@@ -1237,12 +1237,12 @@
       "reviewed_by": "main_agent",
       "decision": "Main_accepted_five_identity_joins_for_later_native_integration",
       "identity_adjudication": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:de518bb1f0f1f448616be9b77e5d7ebda7837261db82e9c567e0805d3e7e6dd9",
         "sha256": "458133530703ea3a7cb3e956529f6f74e737b5726ad07ae73481e457bf0c1337",
         "bytes": 7012
       },
       "identity_preparation": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_PREPARATION.json",
+        "path": "private-reference:5ae72111a870bd8e8a6ec15113eff538917c78148fdb07a39b43ef79dbe10c80",
         "sha256": "35b33237bb7636a396607401ab28513433f99014ed1f73b7bf24c920c76c6f44",
         "bytes": 43162
       },
@@ -2081,7 +2081,7 @@
       "metadata_limits": "Stable composite labels and unread Pearson comparator remain unchanged. No underlying original legal instrument reading or independent witness count is inferred.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_st_helena_authoring_20260913/sources/bennett-2023.pdf",
+          "path": "private-reference:f33209bd760c3440f3cc47baf21657691f2565ed198f889cafe3b27988b0a4a0",
           "sha256": "57217f46b2d8395a7be2c089cb2f840cad9166bc1f9bf7ed8755cfd897022d82",
           "bytes": 305747
         }
@@ -3603,7 +3603,7 @@
       "metadata_limits": "Preserve original Ayala/Bearden composite labels and all source history; identify this URL component without merging distinct works. Ayala covers1940–45; the CRS version is a historical2005 status report, not current cleanup guidance.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_vieques_authoring_20260913/sources/crs-20050707.pdf",
+          "path": "private-reference:e0fb68aa4229b3afa89b410bd11ee551727923b11bb17f0e1d9f0bdd6fd3d282",
           "sha256": "d4dcd93ac2d03fad9ca7f7138202772a8bcd355bab1e567423fd51fa4ea997da",
           "bytes": 201258
         }
@@ -6341,7 +6341,7 @@
       "metadata_limits": "Stable composite labels and unread Pearson comparator remain unchanged. No underlying original legal instrument reading or independent witness count is inferred.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_st_helena_authoring_20260913/sources/league-slavery-report.pdf",
+          "path": "private-reference:04d4bdc0c8db34c2c70d333149c6cc6c8402fd062fef1a67a2b78ddb7b8a73db",
           "sha256": "699da85cd8e77223709d3c51f67231cccb5b1d2ca85c1d14421f5410b51d7e51",
           "bytes": 6791472
         }
@@ -7504,12 +7504,12 @@
       "reviewed_by": "main_agent",
       "decision": "Main_accepted_five_identity_joins_for_later_native_integration",
       "identity_adjudication": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:de518bb1f0f1f448616be9b77e5d7ebda7837261db82e9c567e0805d3e7e6dd9",
         "sha256": "458133530703ea3a7cb3e956529f6f74e737b5726ad07ae73481e457bf0c1337",
         "bytes": 7012
       },
       "identity_preparation": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_PREPARATION.json",
+        "path": "private-reference:5ae72111a870bd8e8a6ec15113eff538917c78148fdb07a39b43ef79dbe10c80",
         "sha256": "35b33237bb7636a396607401ab28513433f99014ed1f73b7bf24c920c76c6f44",
         "bytes": 43162
       },
@@ -10342,7 +10342,7 @@
       "metadata_limits": "Preserve original Ayala/Bearden composite labels and all source history; identify this URL component without merging distinct works. Ayala covers1940–45; the CRS version is a historical2005 status report, not current cleanup guidance.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_vieques_authoring_20260913/sources/ayala.pdf",
+          "path": "private-reference:f88128a0e1f35775cbdfea75a69951fa10da46d23044ca215eaecc22bad0ec61",
           "sha256": "d6b0dd4ff1a3f8930b719f35627583a75b7209a36e3146211d98aec1a193c2b2",
           "bytes": 1335828
         }
@@ -10784,7 +10784,7 @@
       "metadata_limits": "Refine identity only. 1996 issue date differs from 2013 print-view access; PDF pagination differs from original journal pagination; DOI unresolved; no original journal PDF or 2011 excavationvolume claimed.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_ashkelon_authoring_20260913/sources/stager-1996-mirror.pdf",
+          "path": "private-reference:1f55986794d9887e4f509dcfd03e2b53f5d6222e6459e403be6808b40726ae5b",
           "sha256": "41167f1db760a664328c09bd9ad86695cea53afae49dd08ad95dd08b8202ef54"
         }
       ],
@@ -14586,13 +14586,13 @@
         "series_number": "4"
       },
       "source": {
-        "path": "maintenance/balanced_authoring_29_readiness_20260927/sources/carnegie-balkan-1914.pdf",
+        "path": "private-reference:e16a31a5ce5d4b58b464bf88ac3d6b6897c7c4d29f9657bb7a1d03ce680a97b2",
         "sha256": "dbe2c316299475e7d71a82086ad760df26c127143315a0669c3449f27cb5e599",
         "bytes": 14481213
       },
       "locator": "Physical5 title and6 copyright; actual1914 edition. No later reissue silently substituted.",
       "Main_adoption": {
-        "path": "maintenance/balanced_authoring_29_adjudication_20260927/kukush1913/MAIN_PREPARATION_ADOPTION.json",
+        "path": "private-reference:0d21a2dd893cc17f2b6ddcd8761bb85741a569a0a505692401bf8c1d950eb98d",
         "sha256": "6442ef85937bda736080a4bbdcc00e8e5054830cb4d0b90d0635f3534e2b2b65",
         "bytes": 3050
       },
@@ -16549,19 +16549,19 @@
       "metadata_limits": "Reviewer Hessayon versus book author Soyer and review 2009 versus book 2007 remain distinct. Header 31 August and closing September are both retained; descriptive Review of prefix is not a printed-title quotation. No original book/decree consultation.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/portugal/BIBLIOGRAPHY_IDENTITIES.json",
+          "path": "private-reference:da777c3bb3ffe48d4c8050e662fb69d9636b1317f0d1ec67eb42b1a01cdf2380",
           "sha256": "6927604ffb2c535a497ad7f25980bb742e855735153b541a7e65ecb2e49c5ef4"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/portugal/SOURCE_BINDINGS.json",
+          "path": "private-reference:53f88917aa08d4cfebcc8355592ff874ab9d6e425a9e6e0e387489eadc23d870",
           "sha256": "675dd55dcef97b7f0056658aee90104ebb4d76b104fc037ec32d8e68ce008683"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/portugal/sources/portugal-review-reader.json",
+          "path": "private-reference:0716bec7e0e62fe9d9d79be47ec97a40109048d81723688a81dd88dfbead9d24",
           "sha256": "725565d395502b5ba65d5d6f8bc3186e489231b1d5f2c5dd82d5ed03e1cf12d9"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/portugal/sources/portugal-review-reader.txt",
+          "path": "private-reference:888ffdae01f8f924cb0688d66a7526fe51a98b6bf4eb929322eee80a9dc169a0",
           "sha256": "e67c962aae50f99ee3224105f866b1d04f4daff7abb346ef99931a149c4470b4"
         }
       ],
@@ -17097,11 +17097,11 @@
       "metadata_limits": "Three URLs are one report, not independent corroborators. Preserve composite original occurrence labels; contextual 1981 IACHR/UNHCRworks are neither newly read nor merged. English reader captures only; Spanish and original submissions unread.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_miskito_authoring_20260913/sources/WEB_IDENTITY_CAPTURE.json",
+          "path": "private-reference:0f9eab72848ef2c2fc5713d151962876deb184943a975d9ea34308f62fbcd99e",
           "sha256": "9dd2203caecb2208e0b36ceac26a50abc09a119b10cbaa3ad35d660df1b53063"
         },
         {
-          "path": "maintenance/v7_miskito_authoring_20260913/SOURCE_BINDINGS.json",
+          "path": "private-reference:fdd5577c23ef385255c61eecbcc248c3f6c0d57939b64369c14a79b189e15be6",
           "sha256": "d8ef32ed3ad62111c0d47851b3fb9b3e92863c95ae381e59bfe122cc2a609f9b"
         }
       ],
@@ -50006,15 +50006,15 @@
       "metadata_limits": "Original abbreviated title/ID stays exact; full native title refines the same work. May–June 2017 is sample timing, not publication date; Gujarat findings cannot represent all states/years. DOI not independently checked or inferred from the number.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/nber24423.pdf",
+          "path": "private-reference:cfddd6f851635e7e670f5ad73cc3c98bcce0a4080061925c20c3326e94e2455b",
           "sha256": "0aa11a15d74bda3fac8ba8abcb4a307573ee4f4a2caf0a1de7119965cbad5849"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/nber-pdf-01.png",
+          "path": "private-reference:67fa689dc1d36bdced1357449a631e78246a5fde93b07198a0ac6c0665525c8c",
           "sha256": "0bb7c88f7d2dfe9d44c7b59eefe69352712e463659c39b3b9fc65e0b22a88804"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/BIBLIOGRAPHY_IDENTITIES.json",
+          "path": "private-reference:c43eb4f1502f847b8f65cb54d0877ffc66d1e0ee2f64b5e3fbebbc7a32ca6ff2",
           "sha256": "63d69c508d85ae1826e59586524b343363958f7d2eb6e9111c4b288ae1df0aa5"
         }
       ],
@@ -52425,24 +52425,24 @@
         "access_url": "https://fileserver-az.core.ac.uk/download/335387271.pdf",
         "scope": "Original printed487–498 and518–519; native493 and map491/496 inspected. Main read printed487including footnote1. Full33pagearticle and underlying archives not completely read.",
         "author_reading": {
-          "path": "maintenance/balanced_authoring_28_readiness_20260927/highveld/SOURCE_READINGS.json",
+          "path": "private-reference:36104c45953b15c263b095d9e3a2f6f594c6a8c68a7008364955e95b5f0a1086",
           "sha256": "d347a1c3b6ed05d1ec225f615b9d0d270318e9c73db801c44f7966cd3f20b7cd",
           "bytes": 7942
         },
         "Main_readings": [
           {
-            "path": "maintenance/balanced_authoring_28_selection_20260927/MAIN_HIGHVELD_INITIAL_READING.json",
+            "path": "private-reference:c025e3fbbf8da293a770b2a3ecbbc4680142ede7dafe77e53a42a21b3bf7a40b",
             "sha256": "eb4bdd09f93407b81df1eebeede628486d4cee8fe530bfe583b44d8c65564107",
             "bytes": 2301
           },
           {
-            "path": "maintenance/balanced_authoring_28_selection_20260927/MAIN_HIGHVELD_ADDITIONAL_READING.json",
+            "path": "private-reference:5d28a56ac5ee4c112da16e12535ffd21473876888a56d4f3f5d2432b90313f4a",
             "sha256": "21d5d495d68687d0bf5be0d6c4250152e78bf9e219372b9fc851b7d25f3afd19",
             "bytes": 2173
           }
         ],
         "authority": {
-          "path": "maintenance/balanced_authoring_28_bibliography_preparation_20260927/highveld/MAIN_IDENTITY_SCREEN.json",
+          "path": "private-reference:a4416b5d270db836c41eb9959219e77fc9e79e526b9212301d47d1837d34233b",
           "sha256": "21ee4b3358624c33f825a6eb4fc122607ee48a9baec59a5a4f516513d91deca5",
           "bytes": 5862
         },
@@ -53281,15 +53281,15 @@
       "metadata_limits": "Title variants identify one article. Webpage date is not asserted as original issue publication; 1999 example is not publication date or 2017 follow-up. No project-wide census, conflict-free claim or historical acceptance is inferred.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/cultural_survival.html",
+          "path": "private-reference:f45e997e6e145b98e5491ac992bb75b50378f3cc5614e34cc0490bd0d6d6f81f",
           "sha256": "d3614740c7885ecd4a924cde82fbf6d42e284c792640dee4efeab8192d054786"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/cultural_survival.txt",
+          "path": "private-reference:1c9c967cab4c5735a9b075424a6dab83c83cd8a20206fb2b56af6ad9693c6a48",
           "sha256": "b681d873c62b08609b12235fd0b4575e604550c32b91e6ea5528046c873054bb"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/BIBLIOGRAPHY_IDENTITIES.json",
+          "path": "private-reference:c43eb4f1502f847b8f65cb54d0877ffc66d1e0ee2f64b5e3fbebbc7a32ca6ff2",
           "sha256": "63d69c508d85ae1826e59586524b343363958f7d2eb6e9111c4b288ae1df0aa5"
         }
       ],
@@ -56519,12 +56519,12 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_27_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:34a65530b59632aa0d0cb86ed7a051ba0137ad8fd209d0fec2bc566d7aef77a3",
         "sha256": "edfea2b96cbf2bfd70b06670dde8bd48eaa9f1e206173be779d77d15b2c2a8dc",
         "bytes": 2268
       },
       "accepted_enrichment": {
-        "path": "maintenance/balanced_authoring_27_bibliography_preparation_20260927/INALCIK_OPTIONAL_METADATA_ENRICHMENT.json",
+        "path": "private-reference:301dea81069d9883f6d3cfcec7a607defbe65d9bd93c515ca5c035ae561fd4d0",
         "sha256": "729f4aa26389d539e047d438d72de9b38887a02b9aff1a3d2563b2edaaa5c32b",
         "bytes": 1988
       },
@@ -59010,7 +59010,7 @@
           "passage_rule": "Occurrence titles and source locators are retained separately. No edition, translator or passage is inferred from a host name."
         },
         "baseline": {
-          "path": "maintenance/preah_bibliography_integration_20260927/typed_metadata.json",
+          "path": "private-reference:2da7de74429eef1864105e35af39e0a57980a7940e0270d6f7c65bb4aaf47e87",
           "sha256": "b0892a0fa93b610e533cc889df827a0d356c01714c73959e2d0ac2129ac70b78"
         },
         "reason": "Exact prior metadata retained before Main-admitted front-matter enrichment."
@@ -59020,12 +59020,12 @@
       "reviewed_by": "main_agent",
       "decision": "accepted_exact_typed_metadata_addition_for_next_bibliography_integration",
       "metadata_acceptance": {
-        "path": "maintenance/juvaini_metadata_20260927/MAIN_METADATA_ACCEPTANCE.json",
+        "path": "private-reference:ca53ce44aeae3578623bd6920ad044cf6143e8084c04280a00fe6e3e5637d12b",
         "sha256": "02407c28285da3cc23fc9d7ffbd03cd8506f574f9cc1eef944056f61d39a3f03",
         "bytes": 2436
       },
       "source_reading": {
-        "path": "maintenance/juvaini_metadata_20260927/MAIN_METADATA_READING.json",
+        "path": "private-reference:77d556ebc078b138de41a3e4e9d6041f178d6cc13d470c73a31bdc37b5fa517c",
         "sha256": "a4611e6a12217b199d105d35118cbfee0762a2d3e3f18d2c4fa76369cb371d89"
       },
       "scope": "Native title/copyright metadata only; no historical passage recertification.",
@@ -61766,19 +61766,19 @@
       "application_status": "not_applied",
       "source_bindings": [
         {
-          "path": "maintenance/v7_qin_rang_authoring_20260913/sources/miyake-2014.pdf",
+          "path": "private-reference:1cd3d79d3d0d6a15679c7b7a2002bf5bf83310c5995276b68985faffcc228b70",
           "sha256": "7614b27d7a1a03fce1be35166c685c21d715afe009b13b195ee9e25e5e8bb7fe"
         },
         {
-          "path": "maintenance/v7_qin_rang_authoring_20260913/sources/miyake-01.png",
+          "path": "private-reference:e102a900074e2ab84576c9a07594d49cd43420e7fb8e7351a42e5acb8be6003f",
           "sha256": "3f3c5158300cef7c7f72b19017a4a2a0612c987fc97847f61e86f8df6c16b3cc"
         },
         {
-          "path": "maintenance/v7_qin_rang_authoring_20260913/sources/miyake-project-report.pdf",
+          "path": "private-reference:61a71b3c5a759f6da2e288cbfaefb44b9d3458c62c45130e9c2ddeed09df1d96",
           "sha256": "bac8f8a31cd2ed0fc3e45e6cec9de70f18d26e13abb135b867b513f474a30c61"
         },
         {
-          "path": "maintenance/v7_qin_rang_authoring_20260913/sources/project-report-4.png",
+          "path": "private-reference:a49114a9fb49d0e800768cd4a5fd24907ec6589731e5f69608f2f6609b060902",
           "sha256": "033a1588367905106c5b7dd71d3427d27bd98eea0f8764aeaea290a52b690700"
         }
       ]
@@ -62610,17 +62610,17 @@
       "decision": "accepted_by_Main_for_preferred_accessed_article_identity",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/chaco-article.html",
+          "path": "private-reference:74f223cf38c717e43137d57ca827383035e553665f8bfd67b956f861ccf449a6",
           "sha256": "d72d4bae5b9aa6f846f24bc390d1ce2dd92fde3edb02775fc34a60d2df2d0493",
           "bytes": 41204
         },
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/chaco-article.pdf",
+          "path": "private-reference:78bcc642f9d816152f473a1524aa86e00364f1b84fff41d896f171773f3a053b",
           "sha256": "cb40313331dd9460d22af3e412f2baac33484c8382a9a2927d29954a2b053649",
           "bytes": 249604
         },
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/chaco-article.pages.json",
+          "path": "private-reference:6ec22d114ac80bd8c69b02439cdeeb001bc73080a41f7f1f26c262488ae32364",
           "sha256": "e112f46aab3e894ae52cae68be3f676328057f73d2a67bac36ebb594faddb297",
           "bytes": 86204
         }
@@ -64753,7 +64753,7 @@
           "pilot_limit": "Prior 30-row review retained; not newly re-audited. Its edition/role/secondary-source cautions remain in PILOT_AUDIT.md."
         },
         "baseline": {
-          "path": "maintenance/hmong_bibliography_integration_20260927/typed_metadata.json",
+          "path": "private-reference:c09e6192625a525b0fc3e84aac83907fda31a04f61be28d93e95d990fdd35eea",
           "sha256": "f8daafb433b6ccd41e036ba57ffd3aa030ca63dae68c2e3eda75bb1c6819cc32"
         },
         "reason": "Exact prior metadata retained before Main-admitted front-matter enrichment."
@@ -64763,12 +64763,12 @@
       "reviewed_by": "main_agent",
       "decision": "accepted_exact_typed_metadata_addition_for_next_bibliography_integration",
       "metadata_acceptance": {
-        "path": "maintenance/jackson_metadata_20260927/MAIN_METADATA_ACCEPTANCE.json",
+        "path": "private-reference:858ff47ce8b59acfb02e45f852225bb383c5b072a561d3be55a47f4134b7a1b5",
         "sha256": "a53150b4a226947bdb9fd82f5d79199380f74dfb9622319423315227bc256dbb",
         "bytes": 3396
       },
       "source_reading": {
-        "path": "maintenance/jackson_metadata_20260927/MAIN_METADATA_READING.json",
+        "path": "private-reference:ba5e5d2c9c36be7803809498cc0155cfa44e5f4b92ff0e028f9c3bd41feccb50",
         "sha256": "d4761147819d24f01277db6fb7c73bc16f862a6221191e301f888885faa3624f"
       },
       "scope": "Native title/copyright metadata only; no historical passage recertification.",
@@ -66176,11 +66176,11 @@
       "application_status": "not_applied",
       "source_bindings": [
         {
-          "path": "maintenance/v7_saxon_authoring_20260913/sources/annals-804.html",
+          "path": "private-reference:3619f2f98b08346410e09bfbe821e72f76b140dcd234c95c6cf4dba071c4ce4c",
           "sha256": "ecd1bcc0905e809b90949e552b14115b49c728d57fa230b985e0aeb2c07fc16f"
         },
         {
-          "path": "maintenance/v7_saxon_authoring_20260913/sources/annreg.xml",
+          "path": "private-reference:2e60a666acdb468f3271cd71e3fdfcd124ccb7d149b934dcd45776311ac80622",
           "sha256": "9ce790f1f8e0f7036c0a7658dce95037635663b7caba9ede38684139b23d5a5b"
         }
       ]
@@ -67145,7 +67145,7 @@
       "application_status": "not_applied",
       "source_bindings": [
         {
-          "path": "maintenance/v7_qin_rang_authoring_20260913/sources/shiji-web.html",
+          "path": "private-reference:ddd4698c482aa06520d3d7854565ce1421f2d319eabbef6f4ccc320cf926ff87",
           "sha256": "f14f432ef1af58535b5dcb09566c7da5de6d00ea7ddb116eb6586576d128a7ac"
         }
       ]
@@ -68771,22 +68771,22 @@
       "metadata_basis": "DOI content negotiation and Crossref registered metadata, with Brepols membership response, match the retained ResearchGate article first-page imprint and author metadata. Publisher HTML403; no new article passage reading.",
       "source_bindings": [
         {
-          "path": "maintenance/raffield_identity_followup_20260915/sources/crossref.body",
+          "path": "private-reference:774b35f1cb54dfd6d8cf151c3c9d5805fc178e6692243be42629ff8cdfe4f700",
           "sha256": "9f4d238ddc99d0a89e0292a0d148e82a8bfdc068675e671e62c5d375dfc39606",
           "bytes": 16145
         },
         {
-          "path": "maintenance/raffield_identity_followup_20260915/sources/doi-content-negotiation.body",
+          "path": "private-reference:4ed90fd77d7a2495bea7d32289ba1a04db39e6e24ab5d024b4797545ea7334cc",
           "sha256": "8a88c77601eeced73cdc6ed3830a9eae0cca8531fb26c6b92b49ad085a76a5f1",
           "bytes": 15974
         },
         {
-          "path": "maintenance/raffield_identity_followup_20260915/sources/crossref-member.body",
+          "path": "private-reference:c4f11069df0464515292026e613cf7e8f71cdab0a5a104f271af8560f5ac30bf",
           "sha256": "d306ae0968e816e980a36584cf517bf44098987d21d0cd79abef4fce97a29c27",
           "bytes": 13857
         },
         {
-          "path": "maintenance/balanced_authoring_13_drafts_20260915/danelaw/sources/RAFFIELD_IDENTITY_CAPTURE.txt",
+          "path": "private-reference:f4553ef0a7971871dca8d2b2ee5fa02791fe3d7fa4f50f4a4943f23322c8834a",
           "sha256": "0979a8ead8ccf400b0fd08c13d54040614729dbcc3d18931b371dfda9f205cda",
           "bytes": 14122
         }
@@ -73056,7 +73056,7 @@
       "application_status": "not_applied",
       "source_bindings": [
         {
-          "path": "maintenance/v7_saxon_authoring_20260913/sources/hamburg-early.html",
+          "path": "private-reference:be28433777f8f69ff3db27656a7b58a3ee65873eb7e0778183657af7e4d73e69",
           "sha256": "5e19a2e9cccd737fab68dd9f9b4ee43a2640ba0f6189d7bae5e6d943057b042d"
         }
       ]
@@ -82283,7 +82283,7 @@
       "occurrence_ids": [
         "occ:c4dbce0426c3170793e7"
       ],
-      "review": "maintenance/incoming_flight_habsburg_20260913/review/MAIN_REVIEW.md",
+      "review": "private-reference:908627faa3067f606d07770d823d138e2580ee9085fff9afaac20c0d1c4ed164",
       "limits": [
         "The article’s original empirical work concerns modern institutions, using 2006/2010/2016 LiTS and geographic RDD; the incoming-refugee account is historical background, not a result newly estimated from migration records.",
         "Read and preserve geographic scope: the study restricts analysis to modern Croatia, excluding Eastern Syrmium. A note must not claim equal refugee proportions in every frontier district or century.",
@@ -82322,7 +82322,7 @@
       "source_passages_newly_verified": false,
       "historical_acceptance_changed": false,
       "source_binding": {
-        "path": "maintenance/balanced_authoring_independent_20260913/sources/web_capture_3.txt",
+        "path": "private-reference:995b6efe8bada788097f80762a17b3d092f228d9ba059421599efd45bba28cfd",
         "sha256": "983902a60f8e380711422ff94b381e03cf0e6768fd79e8b49e7cf7b0e1c7f31c"
       },
       "metadata_locator": "Retained capture header naming the page/URL and tagged L44; source introduction and transcript remain distinct.",
@@ -82357,7 +82357,7 @@
       "source_passages_newly_verified": false,
       "historical_acceptance_changed": false,
       "source_binding": {
-        "path": "maintenance/balanced_authoring_independent_20260913/sources/web_capture_2.txt",
+        "path": "private-reference:44fee40e2800dc66275409d45a692d06673ff6513307cd32e6a858a8fd1a322e",
         "sha256": "e24d5beca58369dbd1bcd26c2407aa29b39c3facee33d62d340c7643e6555308"
       },
       "metadata_locator": "Retained capture header: History & Culture - Tule Lake National Monument (U.S. National Park Service).",
@@ -82393,7 +82393,7 @@
       "source_passages_newly_verified": false,
       "historical_acceptance_changed": false,
       "source_binding": {
-        "path": "maintenance/v7_japanese_authoring_20260913/sources/J4_manzanar_location.html",
+        "path": "private-reference:0608049e6f23f8864d4f9befac6e60a792a85b0b453f99de2b906546d189fcb0",
         "sha256": "c7483b3507b196ba360ba65e489e28404195c6c7435b201e47351ce1c48292d3"
       },
       "metadata_locator": "ASSET METADATA / Asset ID / Title / Locations in the bound NPGallery HTML.",
@@ -82428,7 +82428,7 @@
       "source_passages_newly_verified": false,
       "historical_acceptance_changed": false,
       "source_binding": {
-        "path": "maintenance/v7_japanese_authoring_20260913/sources/J5_tulelake_location.html",
+        "path": "private-reference:314090895f2980d92ed990f10ce02665683aefcd9f3637414f6b6dce0141325d",
         "sha256": "dece4d0fec17f082620890c012360c92d21029d4d445b264c84955126eeeee7d"
       },
       "metadata_locator": "HTML h1, tour description and Location in the bound NPS event page.",
@@ -82463,7 +82463,7 @@
       "source_passages_newly_verified": false,
       "historical_acceptance_changed": false,
       "source_binding": {
-        "path": "maintenance/v7_japanese_authoring_20260913/sources/J6_manzanar_history.html",
+        "path": "private-reference:075f8b258c26d122e153f5fde4fb3bc07b56e94a281507ec1097b9202eb8bee0",
         "sha256": "05a8c1ea44aabb369eb456edcfa914b344b9efe7c43031a8d6ba7fbe63274134"
       },
       "metadata_locator": "HTML title and h1 in the bound NPS page; chronology remains the accepted historical-use scope.",
@@ -82499,7 +82499,7 @@
       "source_passages_newly_verified": false,
       "historical_acceptance_changed": false,
       "source_binding": {
-        "path": "maintenance/balanced_authoring_independent_20260913/sources/web_capture_3.txt",
+        "path": "private-reference:995b6efe8bada788097f80762a17b3d092f228d9ba059421599efd45bba28cfd",
         "sha256": "983902a60f8e380711422ff94b381e03cf0e6768fd79e8b49e7cf7b0e1c7f31c"
       },
       "metadata_locator": "Retained Caltech profile header/URL and tagged L152/L158.",
@@ -82582,7 +82582,7 @@
       "source_passages_newly_verified": false,
       "historical_acceptance_changed": false,
       "source_binding": {
-        "path": "maintenance/v7_kariba_authoring_20260913/sources/K5_zra_location.html",
+        "path": "private-reference:3e3f79f5474b57f3bd029d2631170ca3f45bd53ab866b180866d58d284194893",
         "sha256": "8f9959651ea74a8f98e71100356c4beae38fbd6e6cf5b8ea4a2c6ba29fb8d4b1"
       },
       "metadata_locator": "Bound HTML title and Site Location section.",
@@ -82621,7 +82621,7 @@
       "source_passages_newly_verified": false,
       "historical_acceptance_changed": false,
       "source_binding": {
-        "path": "maintenance/v7_kariba_authoring_20260913/sources/K7_scudder_case_study.txt",
+        "path": "private-reference:993d1da008820ab5e27bd1fa69718e37811d8c4137bd428c9635b96cb4e8086d",
         "sha256": "8074bd372069180651d9f2b2af40b28bf735bef228c6997089128be4be7c1e08"
       },
       "metadata_locator": "Legible title/author at extracted Introduction; June 2005 working-paper identity is expressly carried from the Main-bound K7 SOURCE_BINDINGS and adjudication, not decoded from the garbled cover extraction.",
@@ -82663,7 +82663,7 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_armenian_authoring_20260913/sources/A2_WEB_OPEN_RECORD.txt",
+          "path": "private-reference:4084d01da669754820806fe9bd97efef6a9b9ef2d50cf7601b3d40fc703c128f",
           "sha256": "478bdb14821683675badf28f48b93d590f19b037518ac9b7730e2598b44a9cdb"
         }
       ],
@@ -82703,7 +82703,7 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_armenian_authoring_20260913/sources/A3_UNESCO_WEB_OPEN_RECORD.txt",
+          "path": "private-reference:4b3418fb9d4e4c6f45478b14437a84d762179063a789dfa9808db374f25997e2",
           "sha256": "faece7076356290bc5662ff705d7336bb64e04bc771120b1eabb979b88057b54"
         }
       ],
@@ -82741,7 +82741,7 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_suriname_authoring_20260913/sources/S3_unesco_maps_web.txt",
+          "path": "private-reference:db9e15c78270e6e8ae7efb786aa025ad78424644c692a273a489e90cd91c31ec",
           "sha256": "b848a4431c8f072c0e3cee0977fb6cf637f91c5fa931fc6619322c2946303f2c"
         }
       ],
@@ -82779,7 +82779,7 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_batwa_authoring_20260913/sources/B3_B4_official_web_capture.json",
+          "path": "private-reference:e644c85010cb17745075d6a3e6d480b28e8e32a22549ea66e3fd9ea46b484d80",
           "sha256": "d78e9ab20e580ff97b6a1b1e34596c9789dc35a516b7b585c7aedd0cc26f7a02"
         }
       ],
@@ -82819,7 +82819,7 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_batwa_authoring_20260913/sources/B3_B4_official_web_capture.json",
+          "path": "private-reference:e644c85010cb17745075d6a3e6d480b28e8e32a22549ea66e3fd9ea46b484d80",
           "sha256": "d78e9ab20e580ff97b6a1b1e34596c9789dc35a516b7b585c7aedd0cc26f7a02"
         }
       ],
@@ -82860,7 +82860,7 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_ngati_toa_authoring_20260913/sources/N1_N2_teara_web_retrieval.txt",
+          "path": "private-reference:4fcc7c5542a2f54ebe52b1dc55712271846fb0c8a766f650ba381ad877df757e",
           "sha256": "8c183248649cb9cf4ffa84a65e8f210ebceededb844f119eda15c00ec8267019"
         }
       ],
@@ -82906,7 +82906,7 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_ngati_toa_authoring_20260913/sources/N4_browser.txt",
+          "path": "private-reference:1b19b17ebf879c3bbb218b94e7f8d8eff36c0c2aa49a688e9abc98d735a9a703",
           "sha256": "b6c410b0bfeedbb090bbb7c34644f241f960603e14deac36c092fc11f91c1768"
         }
       ],
@@ -82945,11 +82945,11 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_thule_authoring_20260913/sources/rigsarkivet_cold_houses.html",
+          "path": "private-reference:6098c1e4472cefe1b693c2e7601d266993264867c11415855e6ec693c43e335b",
           "sha256": "d15798275aa51f7d5e0d5d8f68e4045789b45b283466209189f64f96af43af0e"
         },
         {
-          "path": "maintenance/v7_thule_authoring_20260913/sources/rigsarkivet_cold_houses.txt",
+          "path": "private-reference:4173405ea462bacb6cc7af1229fc7783723299b010f4ca7e21afe9ac09926fd7",
           "sha256": "b8151f114ceb652aff15e852ad4fbb87f381d9555186280ef64611cb3c7db852"
         }
       ],
@@ -83000,11 +83000,11 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_thule_authoring_20260913/sources/DMI_Report23_08_2023.pdf",
+          "path": "private-reference:18de765cd6af49e092375ecaff5153489004c88942f697ca539c1b6476e66ef5",
           "sha256": "537f7e1f14a0a88cfab74f1db43d95283d3e416df24812e0e699966a97ea6ec4"
         },
         {
-          "path": "maintenance/v7_thule_authoring_20260913/sources/DMI_Report23_08_2023.txt",
+          "path": "private-reference:d62ed7b85e8d6c7cd1b467c31935f870b3211951feb5dad416c5c9f1b12aea02",
           "sha256": "ba1960dad5a06aaf0232b9c3690a8ad4c780ea4dd740fa2bbd81bfca3551c832"
         }
       ],
@@ -83058,11 +83058,11 @@
       "historical_acceptance_changed": false,
       "source_bindings": [
         {
-          "path": "maintenance/v7_thule_authoring_20260913/sources/GEUS_MapSeries2_Dawes2006.pdf",
+          "path": "private-reference:81f89e081e73416f80d5054311eb8d5a18a8e185f86d616ed00b21094ab190c1",
           "sha256": "784928706a5bf2a1f9b17b3bc27dd24c4f1a3a4b430e22c1463123ff8f344d8e"
         },
         {
-          "path": "maintenance/v7_thule_authoring_20260913/sources/GEUS_MapSeries2_Dawes2006.txt",
+          "path": "private-reference:7d6126464db346dfe4b01ac6df307cb0a5cacff96eb0fc6701a48936605860d3",
           "sha256": "7464eb36c12c587f227f4674d3da1a18ad2004a5346a44b5a26a2926dcb1b8ce"
         }
       ],
@@ -83119,11 +83119,11 @@
       "metadata_limits": "Geographic source only; underlying Pliny text, Pleiades place body and linked translation book not read. Developer names retained exactly as project page; full citation names unchanged. No version day inferred.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_ashkelon_authoring_20260913/sources/isaw-project.html",
+          "path": "private-reference:91fbc283db43fe8ff31fe1346f256d13f056ab9db4f18b6f43a1e28e7994cda8",
           "sha256": "0440a2a2db016484969ad9c035a0e661679c82ee29fb1003756759c74416d020"
         },
         {
-          "path": "maintenance/v7_ashkelon_authoring_20260913/sources/isaw-pliny-database-v2.csv",
+          "path": "private-reference:e56d65223063a8d4e32d16961b36b2a46b8c63f786ad4433b648ad2a133d2da5",
           "sha256": "7d140f1fb7b9bda3d7e66c385468e753ad7288d0e426880dbf48a0616f72145e"
         }
       ],
@@ -83181,7 +83181,7 @@
       "metadata_limits": "New access identity after full inventory title/URL search. Retain printed SBN; do not manufacture ISBN. Maude foreword is distinct from Viviani authorship. 1968 acknowledgments are not publication date; digitization date/DOI not established. Author proposed title ID is an unallocated suggestion, replaced by standard URL-hash identity once.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_nauru_authoring_20260913/sources/viviani-1970-nauru.pdf",
+          "path": "private-reference:0a2e7f3a452b0389ecf2bda16c56c96a3772a78d1c3262a4ea09cd337292d7e2",
           "sha256": "83b401c43f1434bd49cd71601fb8e4b8605d8a1e232bf0fc37ad9328dcc818df"
         }
       ],
@@ -83229,20 +83229,20 @@
       "metadata_limits": "Government-hosted scoping report; report group and section contributor have separate roles. This was an exploratory WHS position statement, not an UNESCO designation or proof of the whole historical narrative. Exact publication day and sole personal author are not established.",
       "source_bindings": [
         {
-          "path": "maintenance/v7_st_helena_authoring_20260913/sources/heritage-scoping-2019.pdf",
+          "path": "private-reference:3bb22b9a06c46055841bac2fc5f36f25281eb53d1b79a1359a3cee963645e6f1",
           "sha256": "6789644069de10ae179988484911cc1419e56c84b24862970de289ee5dad221d",
           "bytes": 1135292
         },
         {
-          "path": "maintenance/v7_batch05_bibliography_proposal_20260913/private_source_checks/heritage-scoping-2019-001.png",
+          "path": "private-reference:d49aacd06f3919fc284159e617f8e23d0396e57233d6f165ee7905f0d87edc9b",
           "sha256": "0064a9eb9a19770884e49a78a5c6fb92ae4ce6f9597cd34966e7a0b094f19469"
         },
         {
-          "path": "maintenance/v7_batch05_bibliography_proposal_20260913/private_source_checks/heritage-scoping-2019-002.png",
+          "path": "private-reference:b414df0be265edcc1ca5b5df301562e0d330f2f17a44a3a8eb14b94108d418a6",
           "sha256": "a9cc364595311be60aea918cd01b4279b2dc4126cc454c66a3728b2d2da5fdb4"
         },
         {
-          "path": "maintenance/v7_batch05_bibliography_proposal_20260913/private_source_checks/heritage-scoping-2019-006.png",
+          "path": "private-reference:ff91c53d6c9dde3db41d0003e47aef09f2c6461eead11a673600746a3bd6a1a9",
           "sha256": "1963dab3e435210ca14448370e4d4a20012db6a37c00541beda793c194d464c3"
         }
       ],
@@ -83288,27 +83288,27 @@
       "metadata_limits": "Original November 2013 credit, 2016 repost and UTC timestamp are distinct. UTC timestamp is 27 May in Queensland; no original publication day inferred. Archives host/metadata account is not substituted for body author. Underlying registers/studies remain unread; no independent-investigation count.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/BIBLIOGRAPHY_IDENTITIES.json",
+          "path": "private-reference:e0e560ed2522882547221e0212572692f92db6214a14ff3be71cc4023aaa4c71",
           "sha256": "de9e9e6dd3d4627ebec0aa4e7c2e63c29a414ab7a17d48e83c550bd30a7afd3d"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/SOURCE_LEDGER.json",
+          "path": "private-reference:f2a0733a0f1cbbd668d0ca2fc3bd19a43f529f4570d1557aaf4f59844ab1c5f8",
           "sha256": "f04e17103c141e11750e2fb5fbdbcc4975435c0fd9cab7b67ddd86a523e89640"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/alternate-reader.json",
+          "path": "private-reference:e6fb23d380c0186dcb2271ae00c0c225ebe018faedf6f2dff7873d7c4f93c821",
           "sha256": "24444bc2a726ccf08b611c5ffe4416ddf5e20fadc550fd3e45dbbc520c651a95"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/Q1.html",
+          "path": "private-reference:7ff0f8c2cbecbd63753cbe33eb157462358de2522bb57a67c0aa76c53702c295",
           "sha256": "7d080de7212f81cc02959f11c32b2ed75c71e888bda290adabe19e1a45e8558b"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/Q1.txt",
+          "path": "private-reference:a3d93f7cd8e3f4982cd12087e289ab1e42c5911348e572fefd2b02087dd790ec",
           "sha256": "16fb51f25606784a19c412a9297b762592e55374e7440af63a70499a6f9d461e"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/Q1-native.png",
+          "path": "private-reference:925fb72f993370605768bbf1aefdb1633978d043885bcae30fbc5c81edf0e625",
           "sha256": "6dc211ce97e6c43f5e402d7ce2e3e49747011da2984534c1b765fb0046fcdb8c"
         }
       ],
@@ -83346,15 +83346,15 @@
       "metadata_limits": "Corporate identity and maintenance dates are as displayed in retained reader. No personal author, first-publication date or independent historical measurement inferred. Later native 403 does not replace the successful reader body.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/BIBLIOGRAPHY_IDENTITIES.json",
+          "path": "private-reference:e0e560ed2522882547221e0212572692f92db6214a14ff3be71cc4023aaa4c71",
           "sha256": "de9e9e6dd3d4627ebec0aa4e7c2e63c29a414ab7a17d48e83c550bd30a7afd3d"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/SOURCE_LEDGER.json",
+          "path": "private-reference:f2a0733a0f1cbbd668d0ca2fc3bd19a43f529f4570d1557aaf4f59844ab1c5f8",
           "sha256": "f04e17103c141e11750e2fb5fbdbcc4975435c0fd9cab7b67ddd86a523e89640"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/alternate-reader.json",
+          "path": "private-reference:e6fb23d380c0186dcb2271ae00c0c225ebe018faedf6f2dff7873d7c4f93c821",
           "sha256": "24444bc2a726ccf08b611c5ffe4416ddf5e20fadc550fd3e45dbbc520c651a95"
         }
       ],
@@ -83393,27 +83393,27 @@
       "metadata_limits": "Niles Elvery is credited in the body, JOL Admin is the posting account, and State Library hosts the article. QSA evidence overlaps Moore’s article; three institutional pages are not three independent investigations. Original registers/Acts unread.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/BIBLIOGRAPHY_IDENTITIES.json",
+          "path": "private-reference:e0e560ed2522882547221e0212572692f92db6214a14ff3be71cc4023aaa4c71",
           "sha256": "de9e9e6dd3d4627ebec0aa4e7c2e63c29a414ab7a17d48e83c550bd30a7afd3d"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/SOURCE_LEDGER.json",
+          "path": "private-reference:f2a0733a0f1cbbd668d0ca2fc3bd19a43f529f4570d1557aaf4f59844ab1c5f8",
           "sha256": "f04e17103c141e11750e2fb5fbdbcc4975435c0fd9cab7b67ddd86a523e89640"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/alternate-reader.json",
+          "path": "private-reference:e6fb23d380c0186dcb2271ae00c0c225ebe018faedf6f2dff7873d7c4f93c821",
           "sha256": "24444bc2a726ccf08b611c5ffe4416ddf5e20fadc550fd3e45dbbc520c651a95"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/Q3.html",
+          "path": "private-reference:206bf7e3943516bac20e3bc0004363ca296bce3495a0a2eb5e68e48436b74541",
           "sha256": "bf48e96a746bb93e899a8a158ed45e3fa3ea1a31ebbcb7d7f75376bbf9f3f7af"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/Q3.txt",
+          "path": "private-reference:84a5b9f6cab02545d1b98a904531eff83ead586d7d5bf88a286bd74765550568",
           "sha256": "8b477af18e9283db93b80d2497bebf086c456559cd1ead0737eeaec1c0047fd2"
         },
         {
-          "path": "maintenance/balanced_authoring_06_drafts_20260914/queensland/sources/Q3-native.png",
+          "path": "private-reference:8bba35463e198b820a4c08cd6fc2336b4fc0de95b0c75241efb77a93c1df1d6c",
           "sha256": "1ae8cec2997ecc0dba1f0f446254bbb305bd0950979abe5330e8a64102c96ffd"
         }
       ],
@@ -83457,19 +83457,19 @@
       "metadata_limits": "Commission testimony and conclusions remain attributed; metadata identification does not independently verify underlying files/hearings or certify full-book reading. ISBN and catalogue number identify this report. The inherited generic terminology record stays unchanged.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_selection_20260914/source_access/arctic_report.pdf",
+          "path": "private-reference:d0b711c9d7202fbebaeeceaabe44ae012eec59d8769c31ac1689158541af7594",
           "sha256": "b59fa97c135dade3bcf1acde78d340805edcc082552e593a3a9787efa974df20"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/arctic/SOURCE_READING.json",
+          "path": "private-reference:df7e40499b2cfed556fdc12000b02c162314b1e1c29fba941ea6f6ba6079ef4a",
           "sha256": "e961ae62c506b9a6b98b64f3283c5c2db842e44658541003f993d993c040e6d8"
         },
         {
-          "path": "maintenance/balanced_authoring_07_bibliography_20260914/private_identity_checks/rcap-physical-003.png",
+          "path": "private-reference:24eaa595b038a3b9413f7e33a3bf562cdd4a3b32f7f9bc5f77d0e7d5ec99d113",
           "sha256": "e2b3e2c9c2f06fe92f6c038fe0efefb0a2cf1eef00f6d416fc8a00cc261ee00b"
         },
         {
-          "path": "maintenance/balanced_authoring_07_bibliography_20260914/private_identity_checks/rcap-physical-004.png",
+          "path": "private-reference:ff61f97bee271ddcc81b35d872db75f26a4dafc17c4ed146a806bd9bbe33abe8",
           "sha256": "ce1b652ed73abcb220f2a6d170fe5c598dd8572d7a1887c32e9705b274a053a9"
         }
       ],
@@ -83510,11 +83510,11 @@
       "metadata_limits": "John Duncan delivers speaking notes on behalf of the government; no personal byline or separately verified speechwriter is inferred. Delivery 18 August 2010 and page modification 15 September 2010 remain separate. Not the 1994 inquiry or underlying historical files.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_selection_20260914/source_access/arctic_unesco_reader.json",
+          "path": "private-reference:b877db9fd5f09bb0b6a166fb2c10831dccf32af679a33ff8466bc3d5000ce3ec",
           "sha256": "f6d00231eb81ca40ad53e29b770ed51c71cebd5d9c92215efb834b7e41aa5511"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/arctic/SOURCE_READING.json",
+          "path": "private-reference:df7e40499b2cfed556fdc12000b02c162314b1e1c29fba941ea6f6ba6079ef4a",
           "sha256": "e961ae62c506b9a6b98b64f3283c5c2db842e44658541003f993d993c040e6d8"
         }
       ],
@@ -83560,11 +83560,11 @@
       "metadata_limits": "Decision date belongs to the official place-name record, not settlement founding, relocation or historical camp coordinates. Modern reference position only; no historic route, camp boundary or source-map acceptance is supplied by this identity check.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/arctic/source_review/gazetteer-grise-fiord.json",
+          "path": "private-reference:5b5e71e48856eacb168f4af0e97b4f2b4a5f0172d645aba9fd819c09a7f69479",
           "sha256": "067ac6f250d2c05c0773efe893a69eb3ac180628c77a15e672308fb921e4a264"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/arctic/GEOGRAPHY_EVIDENCE.json",
+          "path": "private-reference:81504481eb1738fa511c7bf1aa1dd80561f0ecd438fbe2ec915ac31df67a1d56",
           "sha256": "82ea3792d801537342fc30914205dcd77e5120abb9b1d1d09b8136e94a6ecbeb"
         }
       ],
@@ -83610,11 +83610,11 @@
       "metadata_limits": "Decision date belongs to the official place-name record, not settlement founding, relocation or historical camp coordinates. Modern reference position only; no historic route, camp boundary or source-map acceptance is supplied by this identity check.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/arctic/source_review/gazetteer-resolute.json",
+          "path": "private-reference:c40e25b121484caabdf0efe91174060cf4a23fd1e5c816f184dfaf86c7c7f9b8",
           "sha256": "42f5c2bd3f7e5c5fe9d6210e88176c26d938b8c0fc1e9c7013fcd6aeb4e99247"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/arctic/GEOGRAPHY_EVIDENCE.json",
+          "path": "private-reference:81504481eb1738fa511c7bf1aa1dd80561f0ecd438fbe2ec915ac31df67a1d56",
           "sha256": "82ea3792d801537342fc30914205dcd77e5120abb9b1d1d09b8136e94a6ecbeb"
         }
       ],
@@ -83658,11 +83658,11 @@
       "metadata_limits": "Separate release identity, title and publication date. Shared PIB host does not make three releases one work or independent social-impact investigations. No first-online timestamp beyond literal displayed label inferred.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/pib1987.html",
+          "path": "private-reference:04eec1024879dd50ebb99a92b7e4d2306aa0092410f66e91dbc696a59d7f945f",
           "sha256": "08b37317cba529ecb55ec75c20e2009cb90e116f08064fe2606fa71b69186ed5"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/pib1987.txt",
+          "path": "private-reference:df04f191590106551bce482b67aa2c43b301b0c144ec80f09368e734e2b396d7",
           "sha256": "f48d2e7f49ed963f2e01583ff6c7a3c335d73639ce1f2ec590e6deb0a2e05006"
         }
       ],
@@ -83702,11 +83702,11 @@
       "metadata_limits": "Separate release identity, title and publication date. Shared PIB host does not make three releases one work or independent social-impact investigations. No first-online timestamp beyond literal displayed label inferred.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/pib2017.html",
+          "path": "private-reference:6f2ba8f48837ba0bd628dedeccb6da4d74e404b7473ed6f44929e6e0d9717d2f",
           "sha256": "b5c99b64050b24885145bd0da71802eb20d8cea0e24e023dc3a5373ddff4e0e6"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/pib2017.txt",
+          "path": "private-reference:c99181e691bcd12304c7b242affcccd6cd43d0eaab793d391e8b7cd288d7efea",
           "sha256": "12ac14ef19e760025752e4912b211fa7e3afc16ab0f433a37b9e38d659dabab5"
         }
       ],
@@ -83746,11 +83746,11 @@
       "metadata_limits": "Separate release identity, title and publication date. Shared PIB host does not make three releases one work or independent social-impact investigations. No first-online timestamp beyond literal displayed label inferred.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/pib2019.html",
+          "path": "private-reference:1d68e7c89cb617065349cc0634645b88f6e3d0647b828336721e57a8e259bb41",
           "sha256": "16e744c6ab59ee2a1d41a79dd54d21ce4757d2e126ea1e72fb4887602a483be8"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/sardar/sources/pib2019.txt",
+          "path": "private-reference:93199e3181b8e11b25de63e54bc17bafae99c88df77338608378075b57c372cb",
           "sha256": "5906467453abf6d84c219a2cb52806435d8aea09467f26166407a0b5f74ab0ea"
         }
       ],
@@ -83793,19 +83793,19 @@
       "metadata_limits": "No DOI, journal publisher or first-online date inferred. Repository is access host, not author/publisher. Dedication and thanks do not constitute coauthorship. No reading of underlying cited works or full article claimed by this metadata check; source’s printed 1864 statement is not silently corrected in the work record.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_selection_20260914/source_access/brooks_cabo.pdf",
+          "path": "private-reference:9f36f864863ce5ffa55aa977479a3cee0c2ec05e8d71036ccbd9f9d96bc985cd",
           "sha256": "8cb47823c8d3334146f0cba06c4665989964ec553aee471c4b9c3fd1af6cc32e"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/cabo/BIBLIOGRAPHY_IDENTITIES.json",
+          "path": "private-reference:680b0b03de4e63deda843bb1db4769742fbb1ebaa5ea3f88f43d943d710111ca",
           "sha256": "8e96f31f79eddecf5b2d24ec4880d6d921cd66696d984bcd72675ae17fcce920"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/cabo/SOURCE_LEDGER.json",
+          "path": "private-reference:ad75903033152304231ba773a5e0ff4d844e961200feff45773c792dea2efb74",
           "sha256": "dc78b6ed9bee1cab97f0c4f66da8eb48c4984eb89938ee72e092b6658ea05e45"
         },
         {
-          "path": "maintenance/balanced_authoring_07_bibliography_20260914/private_identity_checks/brooks-physical-001.png",
+          "path": "private-reference:38fde53058f17b527152f17d6520a9a8687309db28c7aa2cfc3bf15e99119140",
           "sha256": "56e3f4f7f18542fae11f2c4fe26435ea2eea0bae17638d69bc0845dae18cb9d3"
         }
       ],
@@ -83845,19 +83845,19 @@
       "metadata_limits": "No named personal author or first-publication date established. Copyright footer is not the article publication date. The 1462 settlement reference and probable church-construction range have historical roles, not bibliographic dates.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_selection_20260914/source_access/ipc_settlers.html",
+          "path": "private-reference:4e0ba4fd1db5a90248999dd858cc202d98f9f52bf112ad49da38c7433bac02b5",
           "sha256": "0afc06f9c74565663b8954faa669f57ba8854db0ec9b9f5b48b9d8674959e7a1"
         },
         {
-          "path": "maintenance/balanced_authoring_07_selection_20260914/source_access/ipc_settlers.txt",
+          "path": "private-reference:e251b1c63837f51ced681d9cd72faab7fba28e06d7732bada075fd92e90c0466",
           "sha256": "436dee959132969489f67077080e52999b5ed7de87ac1c2deaa72b8a47dd7801"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/cabo/source_review/ipc.html",
+          "path": "private-reference:ce3561b1921b17d08c0778bed8d70dc17d5073c2ec6686fc43c578610ef10921",
           "sha256": "3a6c1949386e70d94e4b11a11e4d6871460b4af8a677b3718ff0c917e708a234"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/cabo/SOURCE_LEDGER.json",
+          "path": "private-reference:ad75903033152304231ba773a5e0ff4d844e961200feff45773c792dea2efb74",
           "sha256": "dc78b6ed9bee1cab97f0c4f66da8eb48c4984eb89938ee72e092b6658ea05e45"
         }
       ],
@@ -83901,15 +83901,15 @@
       "metadata_limits": "Inscription year is not page publication date. One property page supplies both descriptive and modern geographic roles; do not create a duplicate geographic work. The modern reference point/heritage area does not establish historical plantations, land seizures or routes. Nomination-file disclaimer is not evidence of personal authorship of the page.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_selection_20260914/source_access/arctic_unesco_reader.json",
+          "path": "private-reference:b877db9fd5f09bb0b6a166fb2c10831dccf32af679a33ff8466bc3d5000ce3ec",
           "sha256": "f6d00231eb81ca40ad53e29b770ed51c71cebd5d9c92215efb834b7e41aa5511"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/cabo/SOURCE_LEDGER.json",
+          "path": "private-reference:ad75903033152304231ba773a5e0ff4d844e961200feff45773c792dea2efb74",
           "sha256": "dc78b6ed9bee1cab97f0c4f66da8eb48c4984eb89938ee72e092b6658ea05e45"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/cabo/GEOGRAPHY_EVIDENCE.json",
+          "path": "private-reference:8873a0329a6332b44ef6c0c2045cd8b422f1fe8811dad5eb1afa29de1f8c56bc",
           "sha256": "e099030d2376c5e5b80e7a1c2ea81add9017d710733642108238967f53f99bac"
         }
       ],
@@ -83958,19 +83958,19 @@
       "metadata_limits": "Descriptive supplied title is not a quoted original title. Decree date, collection year, printed page, viewer page and cited gazette issue remain distinct. No modern sole authorship assigned to the ministerial signatory. Gazette issue, collection cover/imprint and local enforcement not independently established.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_07_cabo_decree_20260914/sources/collection1874_f184.jpg",
+          "path": "private-reference:a439e83554fb2e0d7f328bea89316296b205b322ee3d8f8ffafcb86227d032e3",
           "sha256": "75f124c97f9de5b2f7904349354ec25d908bdaaef4771d94ee5c4249f9565507"
         },
         {
-          "path": "maintenance/balanced_authoring_07_cabo_decree_20260914/sources/decree_viewer.html",
+          "path": "private-reference:05ff7e7f659fecfb65a516b11a69e1a56cef09ac266c84be7f02f70518cafd41",
           "sha256": "a4e3457697f6621d1871b4042950a4810364f84d0ea15d962edfba59a3f48e5c"
         },
         {
-          "path": "maintenance/balanced_authoring_07_cabo_decree_20260914/TRANSCRIPTION.md",
+          "path": "private-reference:9c6b154f984b72e43338ac565b47c8b2e61c1b000b313932b3d64bf197b9abb6",
           "sha256": "be9d1dea8e557637737ac25c8b1c78f60143fffcce324741967660f63536882e"
         },
         {
-          "path": "maintenance/balanced_authoring_07_drafts_20260914/cabo/SOURCE_LEDGER.json",
+          "path": "private-reference:ad75903033152304231ba773a5e0ff4d844e961200feff45773c792dea2efb74",
           "sha256": "dc78b6ed9bee1cab97f0c4f66da8eb48c4984eb89938ee72e092b6658ea05e45"
         }
       ],
@@ -84020,12 +84020,12 @@
       "metadata_limits": "Preserve original1685legal month, heading22October label,1906translation-volume citation andJuly1998electronic credit separately. No universal enforcement or complete French-edict reading. No personal translator inferred from source-volume wording; no2026site date as document publication.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_08_drafts_20260914/huguenot/sources/huguenot_fordham.html",
+          "path": "private-reference:125cc42c3c7c8f2e623a5762925a4dc2c36f6d90ca7d90641ac33a0ba22e07c1",
           "sha256": "ec7e4cbc3abad772ca44a8f55723eb4ff89f08db51a7a990642f0be8db541fe6",
           "bytes": 29303
         },
         {
-          "path": "maintenance/v7_batch08_bibliography_proposal_20260914/SOURCE_IDENTITY_CHECKS.json",
+          "path": "private-reference:d4399afbecfd50768a6959ed53629d5109fecd6bed00abcd10277197e26ef47f",
           "sha256": "76f8c314f5d847267deb5e2d5752dfabb5aa52118b65d4a1915423904befdbf8",
           "bytes": 8515
         }
@@ -84072,12 +84072,12 @@
       "metadata_limits": "Undated article.2023modification and2026footer are not publication.1680–1715/1560–1760numbers remain source-wide estimates, not exact1685–1715case counts. No Brill/Trim or Orchard merge.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_08_drafts_20260914/huguenot/sources/huguenot_refuge_notice.html",
+          "path": "private-reference:d4face8be3ca2c72916aa4ac26663c71465ec5a3d10b90cc2a3353fa075cf6fc",
           "sha256": "80084f6c13cd623eb946ad24d689afb9ced85cd8a1fb6caeea8b7104ed141a88",
           "bytes": 133200
         },
         {
-          "path": "maintenance/v7_batch08_bibliography_proposal_20260914/SOURCE_IDENTITY_CHECKS.json",
+          "path": "private-reference:d4399afbecfd50768a6959ed53629d5109fecd6bed00abcd10277197e26ef47f",
           "sha256": "76f8c314f5d847267deb5e2d5752dfabb5aa52118b65d4a1915423904befdbf8",
           "bytes": 8515
         }
@@ -84131,12 +84131,12 @@
       "metadata_limits": "Submissionmonth is printed; separate deposit date/DOI/ISBN unestablished. Same citation reused for Sebitwane-only incoming-flight note, no second work or case-source occurrence. Retained PDF private; no redistribution license inferred.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_08_selection_20260914/source_access/kololo_hogan2014.pdf",
+          "path": "private-reference:1c96d845fc3aa6f48ae0621ba0253a468bdd3a68fd94eadc13134849df0ef632",
           "sha256": "a772fb593541b135ea35f99d3636f9290c0296b2c13b31b5a85132cc9b8533e3",
           "bytes": 5983375
         },
         {
-          "path": "maintenance/v7_batch08_bibliography_proposal_20260914/SOURCE_IDENTITY_CHECKS.json",
+          "path": "private-reference:d4399afbecfd50768a6959ed53629d5109fecd6bed00abcd10277197e26ef47f",
           "sha256": "76f8c314f5d847267deb5e2d5752dfabb5aa52118b65d4a1915423904befdbf8",
           "bytes": 8515
         }
@@ -84193,12 +84193,12 @@
       "metadata_limits": "2019issue is not2018online availability; acceptance and evaluation dates are different roles. Physical2/3both printed88, so physical locators stay explicit. DOI verified as printed, not resolver-verified. Dialnet access and underlying Hu-DeHart works remain distinct; no full independent archive reading.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_08_selection_20260914/source_access/yaqui_anaya2019.pdf",
+          "path": "private-reference:6d63837b14391d00a7441551116383212cf3bf7df632c18174e2a5556abdcf4e",
           "sha256": "1150bd7f5601157ee3177e405e49bbbe2bddd1de542d04c80646631031fba78a",
           "bytes": 1128012
         },
         {
-          "path": "maintenance/v7_batch08_bibliography_proposal_20260914/SOURCE_IDENTITY_CHECKS.json",
+          "path": "private-reference:d4399afbecfd50768a6959ed53629d5109fecd6bed00abcd10277197e26ef47f",
           "sha256": "76f8c314f5d847267deb5e2d5752dfabb5aa52118b65d4a1915423904befdbf8",
           "bytes": 8515
         }
@@ -84243,7 +84243,7 @@
       "metadata_limits": "Modern property reference only. State Party responsibility and UNESCO disclaimer do not establish historical boundaries.1986/2013 map dates are not the page publication date.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_11_drafts_20260915/iberia/sources/UNESCO_TOLEDO_OBSERVATION.json",
+          "path": "private-reference:2afc9b399aac580c661f984e61cce47e27b3062dd65f38803f63e6183df2016d",
           "sha256": "1e9c1d433fb8a509666b7adc5df49677974228f53857c3df31872bc06d8ea7d5",
           "bytes": 959
         }
@@ -84294,12 +84294,12 @@
       "metadata_limits": "Distinct from2013 chapter. Actual publisher footer establishes2015 issue. DOI not established in this pass; no original archival records independently certified. Historical case/flight-note acceptance is separately bound to Main; this metadata review does not supply it.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_11_drafts_20260915/sao_tome/sources/seibert-2015.pdf",
+          "path": "private-reference:0f172067f6338e2231e2d67e1edbafc73b902d88ab93b43b4ea8acde1fa653e4",
           "sha256": "e75718fafb4861d3841e7ce2ca31b53991e23b4abf3a6a5e4a53a29a234be16c",
           "bytes": 340513
         },
         {
-          "path": "maintenance/balanced_authoring_11_drafts_20260915/sao_tome/sources/seibert-2015-physical3.png",
+          "path": "private-reference:5144e9fef5e62b1406f9a995e6f3409455c7bb63638a4c929264a92d8435a1e5",
           "sha256": "b828164ce8df87cb542ea4496a2e44ab80773c7c2d4481bf16107a50b95cb1d9",
           "bytes": 420174
         }
@@ -84353,7 +84353,7 @@
       "metadata_limits": "DOI verified as printed in publisher text; resolver not newly requested. Case author did not visually inspect figures. Funding disclosure preserved in exact citation. Metadata acceptance is separate from historical case acceptance.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_11_drafts_20260915/sao_tome/sources/CRUZ_RETAINED_TEXT.json",
+          "path": "private-reference:183408bf9b2c4fa40239597ab59563d37ae98bbf6920d691fd66310102669551",
           "sha256": "030aad8235ff3254b19e393944bec7b9da35ce036af506303b6ecb788e71801e",
           "bytes": 31669
         }
@@ -84406,7 +84406,7 @@
       "metadata_limits": "Webd244 is not printedNo234 or dispatch69. Recipient retained as Mr.Fish as printed; expanded Hamilton in unchanged author citation not newly established from this body. Original Portuguese gazette not read. Legal report does not itself prove coercive labor ended.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_11_drafts_20260915/sao_tome/sources/frus1876-d244.html",
+          "path": "private-reference:0341200b9618a26725ef431510263351082559135e23ad77e70689a7c291667c",
           "sha256": "1f45b8f7cf9f9341d96ec63b1ef97e786c5a2f23ac04e2563136d6e9743d6085",
           "bytes": 45571
         }
@@ -84457,12 +84457,12 @@
       ],
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_12_drafts_20260915/highlands/BIBLIOGRAPHY_USE.json",
+          "path": "private-reference:8a5801e6b1c1d38b3f5fd1f0f8c9d5a31a349b3b593a7ea9d3be83891c9e4e17",
           "sha256": "1387c6d21ac5e03f841a44d5e482d12d28746df330a1ae1096a56f0148a7e356",
           "bytes": 11210
         },
         {
-          "path": "maintenance/balanced_authoring_12_drafts_20260915/highlands/sources/shs.html",
+          "path": "private-reference:a5f71cb699af085538c8bda2f6813f63008f9bd5ed92a52b7d1f55b8973a3a29",
           "sha256": "c45d2cea4996bd427feffbf4b40868e78d20fc37bb4045eaffbbe855083e8325",
           "bytes": 54908
         }
@@ -84514,12 +84514,12 @@
       ],
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_12_drafts_20260915/highlands/BIBLIOGRAPHY_USE.json",
+          "path": "private-reference:8a5801e6b1c1d38b3f5fd1f0f8c9d5a31a349b3b593a7ea9d3be83891c9e4e17",
           "sha256": "1387c6d21ac5e03f841a44d5e482d12d28746df330a1ae1096a56f0148a7e356",
           "bytes": 11210
         },
         {
-          "path": "maintenance/balanced_authoring_12_selection_20260915/sources/highlands-nrs.html",
+          "path": "private-reference:221031246aa1e495c1855dc883052a2ea52e012270059d3166d112191499d9dd",
           "sha256": "74ec092eb4475076a42a2acf38d5456fb9fd80c60301f01bde5595485217dcc7",
           "bytes": 53224
         }
@@ -84577,17 +84577,17 @@
       ],
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_12_drafts_20260915/rwanda/BIBLIOGRAPHY_USE.json",
+          "path": "private-reference:6cca03cb580694de4f15810108c2171665049d4c69ab14d803dc3ddc48c9d168",
           "sha256": "524ecff693dc0c19524163eea0778e395f5d471bc9998c908f0ff6cf70503c1a",
           "bytes": 13844
         },
         {
-          "path": "maintenance/balanced_authoring_12_drafts_20260915/rwanda/sources/hrw-index-1992.html",
+          "path": "private-reference:4bbf22edee173d9cc36d2a5a34e9c082d7d5ec4fc72efa096a9f2f53ed550fd5",
           "sha256": "e2ab27727312ab32d70a81f4581975e611e41d0f46ad922b41bc20334941c329",
           "bytes": 8595
         },
         {
-          "path": "maintenance/balanced_authoring_12_selection_20260915/sources/hrw-rwanda-1992.html",
+          "path": "private-reference:98fd56c7ce0fc37499428081e4f9ac8fa5a622e20d1761eeba96e26de9731b17",
           "sha256": "b2049d0ee97d91ee0d541c8b5ca0e9e29f3720cfc0235632de1350111f7ca346",
           "bytes": 27662
         }
@@ -84646,7 +84646,7 @@
       "metadata_limits": "Translation andebook dates distinct. Anonymoushistoricalcompilation; preparer warns this collatesmanuscripts andoldnotes. No manuscript/edition genealogy newlycertified.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_13_selection_20260915/sources/chronicle.txt",
+          "path": "private-reference:a57625fe4a6ceb232f0114b5191c12ca5552a8665d412b4cb248a351f0c3c911",
           "sha256": "f74238ff4bcf1225585157cd8152c2e62616e6f4f0e803fbf465309f5e8a9617",
           "bytes": 578744
         }
@@ -84695,12 +84695,12 @@
       "metadata_limits": "No printedpage range or DOI verified; null meansunverified, not provenabsence. Site navigation notarticlefundingdisclosure.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_13_selection_20260915/sources/danelaw-yokota.html",
+          "path": "private-reference:1a6c4e025b1236a4a5af09f270a9971491b30438d0e387710a9806a101cfdfdf",
           "sha256": "a3904d28b5805caa8c7fab6425505c07d17cf291cf698352ac4603baa52f8ad9",
           "bytes": 59786
         },
         {
-          "path": "maintenance/balanced_authoring_13_selection_20260915/sources/danelaw-yokota.txt",
+          "path": "private-reference:0909352e65d64f96eaa4eca417ea3beafdb347b3d55ae7b4a4802dced782a0f8",
           "sha256": "ebdda2cbd48bb2f0c42c4ecb3a4cc00f775481754015a5dd96a7b5ff00ca7d03",
           "bytes": 33834
         }
@@ -84747,12 +84747,12 @@
       "metadata_limits": "Undatedpage; noDOI/ISBNverified. Institutionalperspective/funding andoriginalreportlimits remaininpubliccitation. Proposednullvolume/issue inauthorform are notapplicableto awebpage, not additionalunknownbibliographicfields.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_13_selection_20260915/sources/nubia-auc.html",
+          "path": "private-reference:7cc9f28f8f64f66787290dad040f178c2047f52acafb0f7b81a176d422c74276",
           "sha256": "f34ec19fcd4789b66004986083ce9a29f914512feafae701a968dd60e2fd0f94",
           "bytes": 63192
         },
         {
-          "path": "maintenance/balanced_authoring_13_selection_20260915/sources/nubia-auc.txt",
+          "path": "private-reference:fad98285da5b3df157690834e5641116b3b2f9e3f1002d8b12c57b8b01a55e9d",
           "sha256": "c19d17c056c4ab5418fed1ae620d6ed24c7e636f2f32f1eefc379add1acf9c3b",
           "bytes": 29558
         }
@@ -84801,12 +84801,12 @@
       "metadata_limits": "Same fullissueURL producesoneaccessID withtwooccurrences. Articleauthors/titles/locators retainedseparately; noarticle-levelDOI/ISBNverified.72isreportedPDFpagecount, notassertedprintedextentofSherifarticle. No solecorporateauthorassignedtoallarticles.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_13_selection_20260915/sources/UNESCO_FERNEA_BODY_CAPTURE.txt",
+          "path": "private-reference:f233c8e3f050e4c4c709ff0cd06302afbcc0955aabcf6c01b594c93926262300",
           "sha256": "c09717a328d522bf283e92748953736337073c645519a51c88fb2c37e89fafbe",
           "bytes": 25247
         },
         {
-          "path": "maintenance/balanced_authoring_13_selection_20260915/sources/UNESCO_SUDAN_BODY_CAPTURE.txt",
+          "path": "private-reference:f2cb69fb66770ae576a8fd8c603e51ba54a18fb46dcc55dff354846c351d3f32",
           "sha256": "6f4f128f52d49bb0009f607e5bdb806f8da9f676b8d98ae1f987a9fd28c6fe9d",
           "bytes": 25066
         }
@@ -84858,12 +84858,12 @@
       "metadata_limits": "Exact proposed identity roles/dates, with nulls unverified rather than absent. FAUhost is not translator/publisher; annualreport2026 covers2025, dispatchpublicationdate is2024-12-05. DOI/ISBN unverified; no closure of prior gaps.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_14_drafts_20260915/spain/BIBLIOGRAPHY_USE.json",
+          "path": "private-reference:0b807be398fb08888a7cc8858a734b89431c884f8af0dcf07824f35555333ee1",
           "sha256": "a2c359e0366190f515d23847bc4341504fea665bad99d3d78ddfdc41f091a82f",
           "bytes": 22296
         },
         {
-          "path": "maintenance/balanced_authoring_14_reviews_20260915/spain/FINDINGS.json",
+          "path": "private-reference:55b55c994284a7d5ba61666bd37319676949f9a9531f43bc92a20b9686b34696",
           "sha256": "5f1aaeb45203466b98b9b3bf60b79ae4f5f7fd9d42dd440ebfe6e0e5a1c21171",
           "bytes": 4794
         }
@@ -84914,12 +84914,12 @@
       "metadata_limits": "Exact proposed identity roles/dates, with nulls unverified rather than absent. FAUhost is not translator/publisher; annualreport2026 covers2025, dispatchpublicationdate is2024-12-05. DOI/ISBN unverified; no closure of prior gaps.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_14_drafts_20260915/maasai/BIBLIOGRAPHY_USE.json",
+          "path": "private-reference:1e3683cab7182a29dcf0abeae8ea5fc66466eddaeacaa03b1383c01adb0c52a7",
           "sha256": "22dd762b3675183b3084c273307f2dd0530be8576862a3bdd08301ce26e3e342",
           "bytes": 39212
         },
         {
-          "path": "maintenance/balanced_authoring_14_reviews_20260915/maasai/FINDINGS.json",
+          "path": "private-reference:efd33bfcd7b1bde7279bd65198dd3a91f32578fed97413abe909b13aa75e1b2a",
           "sha256": "6868f96b0729ddd4f04f618b33fc2d484f824ea2248a5c2234c5c44904eb877d",
           "bytes": 5149
         }
@@ -84967,12 +84967,12 @@
       "metadata_limits": "Exact proposed identity roles/dates, with nulls unverified rather than absent. FAUhost is not translator/publisher; annualreport2026 covers2025, dispatchpublicationdate is2024-12-05. DOI/ISBN unverified; no closure of prior gaps.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_14_drafts_20260915/maasai/BIBLIOGRAPHY_USE.json",
+          "path": "private-reference:1e3683cab7182a29dcf0abeae8ea5fc66466eddaeacaa03b1383c01adb0c52a7",
           "sha256": "22dd762b3675183b3084c273307f2dd0530be8576862a3bdd08301ce26e3e342",
           "bytes": 39212
         },
         {
-          "path": "maintenance/balanced_authoring_14_reviews_20260915/maasai/FINDINGS.json",
+          "path": "private-reference:efd33bfcd7b1bde7279bd65198dd3a91f32578fed97413abe909b13aa75e1b2a",
           "sha256": "6868f96b0729ddd4f04f618b33fc2d484f824ea2248a5c2234c5c44904eb877d",
           "bytes": 5149
         }
@@ -85016,12 +85016,12 @@
       "scope": "Source identity and use only; historical review not repeated.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/rokua.html",
+          "path": "private-reference:2627371f253c1a7b7a5315d01b948e32e4bb91dcdb1b6c9e5b3c2444972ed12c",
           "sha256": "bcc72dd26c0a3d101a6565ca59b000ebfa769866d0473a464dbf4ae19a7f5871",
           "bytes": 68823
         },
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/rokua.txt",
+          "path": "private-reference:e88597e3b040e795a4f2e738bb75d40b0df157a8e4243f31df84fa39c2e5289a",
           "sha256": "46f141679f7779fa8e99440c345bf5f9eb3abe993e6eb9808999e6f2fc7e6fce",
           "bytes": 11556
         }
@@ -85073,12 +85073,12 @@
       "scope": "Source identity and use only; historical review not repeated.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/malaya-hack-debate.html",
+          "path": "private-reference:100f3d2f195d494992259bcc561e69dc335d54166152ec950cd6f6d83203618e",
           "sha256": "2ee6feef9a14e5dcc7f8995b5f79f39e92ad600bc88cfa3f80cab04595fe0027",
           "bytes": 1049388
         },
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/malaya-hack-debate.txt",
+          "path": "private-reference:7dde6f76e7e3fa4051e10f6fe4c47aae31e0d3cfe44fea14af56979b2f52101e",
           "sha256": "ddc258367ebb117fac1a04fe040402eefa522cb58bd1d8d1c3db7dbea85fc1f2",
           "bytes": 99817
         }
@@ -85130,12 +85130,12 @@
       "scope": "Source identity and use only; historical review not repeated.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/malaya-iwm.html",
+          "path": "private-reference:93572b3199ab54283b10391f4a517d43e4f6cf36d3aa2a84ba7c6def7d400229",
           "sha256": "23c438f9fc4cf0a2d15d6a286afc5cff8db3dbf394b28a6ab9962776b41527cc",
           "bytes": 205143
         },
         {
-          "path": "maintenance/balanced_authoring_15_selection_20260915/sources/malaya-iwm.txt",
+          "path": "private-reference:55a7c8cdc50ef6f8e7b9b1e4cd4df6fdb9ed23607efbc0ecbbb4d1cce5ccaf44",
           "sha256": "136e48596cc7a46329e8093e488defa6046b78d22321a389e07df58cb5dd1c69",
           "bytes": 13066
         }
@@ -85184,12 +85184,12 @@
       "scope": "Source identity and citation use only. Historical/source acceptance not substituted.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_16_selection_20260915/sources/norman-tna.html",
+          "path": "private-reference:b35f0cc152b832a55dc47e0a65a13d46d621c10b37f5a77ef96f6064f546edbc",
           "sha256": "990d6ad39629ef8e72c22bc269f3d37eb82468e9bfbc2a320d32ac485e15ba0b",
           "bytes": 56944
         },
         {
-          "path": "maintenance/balanced_authoring_16_selection_20260915/sources/norman-tna.txt",
+          "path": "private-reference:802af33631a1c90018d7514173fa6937405b14fe6287e0a39f6514235e52d7e5",
           "sha256": "a1e5171e967d5e69d3b5e9b9437f1b5ae8c15d80e825996e883536d2d5c65154",
           "bytes": 8970
         }
@@ -85245,12 +85245,12 @@
       "scope": "Source identity and citation use only. Historical/source acceptance not substituted.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_16_selection_20260915/sources/norman-mcclain.pdf",
+          "path": "private-reference:df67746babf6a9f7e0168eb71a230a019f5ec826864a90e632a0163e01920833",
           "sha256": "d155d9664d7d2726a08e618726da1c4a31af0f50997220ec7049fabc4dd13d9b",
           "bytes": 3886337
         },
         {
-          "path": "maintenance/balanced_authoring_16_selection_20260915/sources/norman-mcclain.pages.json",
+          "path": "private-reference:aee8fecf22f15787aef1db3e974febf77727914f09720314b22c78c1b270da15",
           "sha256": "872ba0c54ad346cd0ca0168334f29528041e6907570030262dfad9e1b7e49012",
           "bytes": 69369
         }
@@ -85306,7 +85306,7 @@
       "scope": "Source identity and citation use only. Historical/source acceptance not substituted.",
       "source_bindings": [
         {
-          "path": "maintenance/balanced_authoring_16_drafts_20260915/morisco/sources/epalza-catalog-tool.json",
+          "path": "private-reference:62b3c3955f8a028ab1afd5d2086e7c21ef49eeb7d02325d12ad40c1aa445ebf8",
           "sha256": "51ee6a98e715b38947bf97083e2098e6d39d3ca8262d5fd0e6c59e41f1481957",
           "bytes": 3332
         }
@@ -85353,12 +85353,12 @@
       "decision": "seven_source_identities_accepted_for_local_inventory_preparation_not_inserted",
       "scope": "Exact Main-admitted metadata and nulls; this proposal does not perform a new source review.",
       "identity_adjudication": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/IDENTITY_ADJUDICATION.json",
+        "path": "private-reference:c11866d5e459c941e202b09f8ed98aeea668779f585a1c3ae695f80a77ab1dc5",
         "sha256": "bc997a45912fcaad823dcbdc62dbb27c330d93badcb52c6deb7fa93305b60949",
         "bytes": 12784
       },
       "citation_acceptance": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/CITATION_ACCEPTANCE.json",
+        "path": "private-reference:7391933ad2cb7ff638f46fe6cf18dfaa8b648f455d906c951fdbdad59c529a94",
         "sha256": "12f7be8b1a537c5b1c258e5f0cacdeb46493d328a1ccb1ed08d04d2a93481874",
         "bytes": 4464
       },
@@ -85415,12 +85415,12 @@
       "decision": "seven_source_identities_accepted_for_local_inventory_preparation_not_inserted",
       "scope": "Exact Main-admitted metadata and nulls; this proposal does not perform a new source review.",
       "identity_adjudication": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/IDENTITY_ADJUDICATION.json",
+        "path": "private-reference:c11866d5e459c941e202b09f8ed98aeea668779f585a1c3ae695f80a77ab1dc5",
         "sha256": "bc997a45912fcaad823dcbdc62dbb27c330d93badcb52c6deb7fa93305b60949",
         "bytes": 12784
       },
       "citation_acceptance": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/CITATION_ACCEPTANCE.json",
+        "path": "private-reference:7391933ad2cb7ff638f46fe6cf18dfaa8b648f455d906c951fdbdad59c529a94",
         "sha256": "12f7be8b1a537c5b1c258e5f0cacdeb46493d328a1ccb1ed08d04d2a93481874",
         "bytes": 4464
       },
@@ -85469,12 +85469,12 @@
       "decision": "seven_source_identities_accepted_for_local_inventory_preparation_not_inserted",
       "scope": "Exact Main-admitted metadata and nulls; this proposal does not perform a new source review.",
       "identity_adjudication": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/IDENTITY_ADJUDICATION.json",
+        "path": "private-reference:c11866d5e459c941e202b09f8ed98aeea668779f585a1c3ae695f80a77ab1dc5",
         "sha256": "bc997a45912fcaad823dcbdc62dbb27c330d93badcb52c6deb7fa93305b60949",
         "bytes": 12784
       },
       "citation_acceptance": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/CITATION_ACCEPTANCE.json",
+        "path": "private-reference:7391933ad2cb7ff638f46fe6cf18dfaa8b648f455d906c951fdbdad59c529a94",
         "sha256": "12f7be8b1a537c5b1c258e5f0cacdeb46493d328a1ccb1ed08d04d2a93481874",
         "bytes": 4464
       },
@@ -85532,12 +85532,12 @@
       "decision": "seven_source_identities_accepted_for_local_inventory_preparation_not_inserted",
       "scope": "Exact Main-admitted metadata and nulls; this proposal does not perform a new source review.",
       "identity_adjudication": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/IDENTITY_ADJUDICATION.json",
+        "path": "private-reference:c11866d5e459c941e202b09f8ed98aeea668779f585a1c3ae695f80a77ab1dc5",
         "sha256": "bc997a45912fcaad823dcbdc62dbb27c330d93badcb52c6deb7fa93305b60949",
         "bytes": 12784
       },
       "citation_acceptance": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/CITATION_ACCEPTANCE.json",
+        "path": "private-reference:7391933ad2cb7ff638f46fe6cf18dfaa8b648f455d906c951fdbdad59c529a94",
         "sha256": "12f7be8b1a537c5b1c258e5f0cacdeb46493d328a1ccb1ed08d04d2a93481874",
         "bytes": 4464
       },
@@ -85593,12 +85593,12 @@
       "decision": "seven_source_identities_accepted_for_local_inventory_preparation_not_inserted",
       "scope": "Exact Main-admitted metadata and nulls; this proposal does not perform a new source review.",
       "identity_adjudication": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/IDENTITY_ADJUDICATION.json",
+        "path": "private-reference:c11866d5e459c941e202b09f8ed98aeea668779f585a1c3ae695f80a77ab1dc5",
         "sha256": "bc997a45912fcaad823dcbdc62dbb27c330d93badcb52c6deb7fa93305b60949",
         "bytes": 12784
       },
       "citation_acceptance": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/CITATION_ACCEPTANCE.json",
+        "path": "private-reference:7391933ad2cb7ff638f46fe6cf18dfaa8b648f455d906c951fdbdad59c529a94",
         "sha256": "12f7be8b1a537c5b1c258e5f0cacdeb46493d328a1ccb1ed08d04d2a93481874",
         "bytes": 4464
       },
@@ -85658,12 +85658,12 @@
       "decision": "seven_source_identities_accepted_for_local_inventory_preparation_not_inserted",
       "scope": "Exact Main-admitted metadata and nulls; this proposal does not perform a new source review.",
       "identity_adjudication": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/IDENTITY_ADJUDICATION.json",
+        "path": "private-reference:c11866d5e459c941e202b09f8ed98aeea668779f585a1c3ae695f80a77ab1dc5",
         "sha256": "bc997a45912fcaad823dcbdc62dbb27c330d93badcb52c6deb7fa93305b60949",
         "bytes": 12784
       },
       "citation_acceptance": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/CITATION_ACCEPTANCE.json",
+        "path": "private-reference:7391933ad2cb7ff638f46fe6cf18dfaa8b648f455d906c951fdbdad59c529a94",
         "sha256": "12f7be8b1a537c5b1c258e5f0cacdeb46493d328a1ccb1ed08d04d2a93481874",
         "bytes": 4464
       },
@@ -85719,12 +85719,12 @@
       "decision": "seven_source_identities_accepted_for_local_inventory_preparation_not_inserted",
       "scope": "Exact Main-admitted metadata and nulls; this proposal does not perform a new source review.",
       "identity_adjudication": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/IDENTITY_ADJUDICATION.json",
+        "path": "private-reference:c11866d5e459c941e202b09f8ed98aeea668779f585a1c3ae695f80a77ab1dc5",
         "sha256": "bc997a45912fcaad823dcbdc62dbb27c330d93badcb52c6deb7fa93305b60949",
         "bytes": 12784
       },
       "citation_acceptance": {
-        "path": "maintenance/sokehs_main_adjudication_20260915/CITATION_ACCEPTANCE.json",
+        "path": "private-reference:7391933ad2cb7ff638f46fe6cf18dfaa8b648f455d906c951fdbdad59c529a94",
         "sha256": "12f7be8b1a537c5b1c258e5f0cacdeb46493d328a1ccb1ed08d04d2a93481874",
         "bytes": 4464
       },
@@ -85788,20 +85788,20 @@
       "reviewed_by": "main_agent",
       "decision": "main_accepted_identity_use_proposal_pending_actual_candidate_reconciliation",
       "identity_adjudication": {
-        "path": "maintenance/preah_bibliography_20260927/BIBLIOGRAPHY_MAIN_ACCEPTANCE.json",
+        "path": "private-reference:1794d93ec8db37ea09c85a40ac0f480e5b63874696a08a700f028f29fd882c45",
         "sha256": "eda8811fdda6df39bd5b4bd2ec4ee5a475f1a87e5cd7068ae50d1d1c56363a3f",
         "bytes": 2298
       },
       "accepted_identity": {
-        "path": "maintenance/preah_bibliography_20260927/NEW_ACCESS_IDENTITY.json",
+        "path": "private-reference:f7b8817b499cd7a67106f36a2bde48d6f728942cb237e178f0c5959fabd17458",
         "sha256": "4af85afa8fb0a35b44ea1e6379fe3714a8d201f2495b3dd8e74bed473af23819"
       },
       "source_reading": {
-        "path": "maintenance/preah_cartography_20260927/KAMM_SOURCE_READING.json",
+        "path": "private-reference:814a95ccb3fdd116431dc421a45b6cd30c9b0f20aa5e1bf0d3fa45a06dcddd00",
         "sha256": "567d4bf3c2c56a4e15616649d7142724ba7fb2ebccc36e5aa3fa8dff7cb57bc5"
       },
       "source_review": {
-        "path": "maintenance/preah_preview_20260927/IMPLEMENTATION_AND_CONTEXT_REVIEW.md",
+        "path": "private-reference:def0674ae060dd537f73e49b45e7f54e2f22ee68cf7fe2a5e551ae7c118d8d79",
         "sha256": "71a33c097c5e0b1f41d7fbd934f06b46ef4b94ca72027a1175e02112fb34e6e4"
       },
       "reading_limits": [
@@ -85843,12 +85843,12 @@
       "reviewed_by": "main_agent",
       "decision": "accepted_chronology_citation_and_access_identity_pending_actual_integration",
       "identity_adjudication": {
-        "path": "maintenance/balanced_authoring_22_bibliography_20260927/MAIN_ICOMOS_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:480c295afc9176fbfcd230370e38a71e226ef3e8337368f2a8ea22e0065b409b",
         "sha256": "fe0c4b4883be3a63aac2cf8ba5e33629a46df5db8c6d80b75ff02ab0802f618b",
         "bytes": 2094
       },
       "review": {
-        "path": "maintenance/balanced_authoring_22_reviews_20260927/urgench/CHRONOLOGY_ADDENDUM.json",
+        "path": "private-reference:20d93970768b8d586bafe22cbb0b9378ce9252db000d99d017aa44625247a935",
         "sha256": "e88d332d439055e7978db86f415315f498318b6c39e8e8689034a2d9e163bf1f"
       },
       "limits": [
@@ -85896,12 +85896,12 @@
       "reviewed_by": "main_agent",
       "decision": "new_identity_joins_accepted_pending_actual_candidate_integration",
       "identity_adjudication": {
-        "path": "maintenance/tanzania_bibliography_preparation_20260927/MAIN_NEW_IDENTITY_JOINS.json",
+        "path": "private-reference:f11b7dc63e735f8342f5ec4ba0ba1f642f552a998690bf20fce990e4aab9e676",
         "sha256": "ff91e22f48b4b0376708be60095562e2e83ac8645b2e98443f0a8df475c139f5",
         "bytes": 4121
       },
       "identity_authority": {
-        "path": "maintenance/balanced_authoring_23_sources_20260927/tanzania/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:f8a9c3fb76efa9b1ab1f6ad0c8ccbbae01923ba0f43188eb4102ec7a18b4d7a4",
         "sha256": "d3cb2d632d7b93edc1f26fa2a32bbef974fa1c7f1b336827167ac1c31ae302a7"
       },
       "limits": [
@@ -85937,12 +85937,12 @@
       "reviewed_by": "main_agent",
       "decision": "new_identity_joins_accepted_pending_actual_candidate_integration",
       "identity_adjudication": {
-        "path": "maintenance/tanzania_bibliography_preparation_20260927/MAIN_NEW_IDENTITY_JOINS.json",
+        "path": "private-reference:f11b7dc63e735f8342f5ec4ba0ba1f642f552a998690bf20fce990e4aab9e676",
         "sha256": "ff91e22f48b4b0376708be60095562e2e83ac8645b2e98443f0a8df475c139f5",
         "bytes": 4121
       },
       "identity_authority": {
-        "path": "maintenance/balanced_authoring_23_sources_20260927/tanzania/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:f8a9c3fb76efa9b1ab1f6ad0c8ccbbae01923ba0f43188eb4102ec7a18b4d7a4",
         "sha256": "d3cb2d632d7b93edc1f26fa2a32bbef974fa1c7f1b336827167ac1c31ae302a7"
       },
       "limits": [
@@ -85981,12 +85981,12 @@
       "reviewed_by": "main_agent",
       "decision": "new_identity_joins_accepted_pending_actual_candidate_integration",
       "identity_adjudication": {
-        "path": "maintenance/merina_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:040f8ed92f8b3598d9f968ce47648397c6bc0fc47b8d7bd568af6d87cc65d19b",
         "sha256": "ad5baa438eedabb96f9bdf1bd6e567c5d7175e2f08146d639693fb15ded6529e",
         "bytes": 894
       },
       "proposal": {
-        "path": "maintenance/merina_bibliography_preparation_20260927/MAIN_IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:58c3bdfd7f4cf856c386e7af367ac26dc98c1c604c4e07055820901005a5c43f",
         "sha256": "f8709da0aaa3b2dd69443b8b00b80d5d30dd81e1742536725e7aeb9e9f39c8a5",
         "bytes": 4515
       },
@@ -86038,12 +86038,12 @@
       "reviewed_by": "main_agent",
       "decision": "new_identity_joins_accepted_pending_actual_candidate_integration",
       "identity_adjudication": {
-        "path": "maintenance/merina_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:040f8ed92f8b3598d9f968ce47648397c6bc0fc47b8d7bd568af6d87cc65d19b",
         "sha256": "ad5baa438eedabb96f9bdf1bd6e567c5d7175e2f08146d639693fb15ded6529e",
         "bytes": 894
       },
       "proposal": {
-        "path": "maintenance/merina_bibliography_preparation_20260927/MAIN_IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:58c3bdfd7f4cf856c386e7af367ac26dc98c1c604c4e07055820901005a5c43f",
         "sha256": "f8709da0aaa3b2dd69443b8b00b80d5d30dd81e1742536725e7aeb9e9f39c8a5",
         "bytes": 4515
       },
@@ -86116,12 +86116,12 @@
       "reviewed_by": "main_agent",
       "decision": "context_and_identity_joins_accepted_for_isolated_preparation",
       "identity_adjudication": {
-        "path": "maintenance/south_tyrol_context_preparation_20260927/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:10e42ef1ef0ab3ad7a31b8a6e10d4b192bc5b52580e75c420efc39dcd6ac03e0",
         "sha256": "04ddbaee54fbe6375b35a09d79145ef756ad826f17fa8dbd2fdfc3ef071ede4d",
         "bytes": 3080
       },
       "identity_proposal": {
-        "path": "maintenance/south_tyrol_context_preparation_20260927/IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:d13b2555ef9bc3cf189297a104643fde7dd25652fcd22c9c90cebcff2682c759",
         "sha256": "715dc964e6c46646eb2048f89ccb117dcaabe61572ca3d0840579ba1478d1395",
         "bytes": 10490
       },
@@ -86165,12 +86165,12 @@
       "reviewed_by": "main_agent",
       "decision": "context_and_identity_joins_accepted_for_isolated_preparation",
       "identity_adjudication": {
-        "path": "maintenance/south_tyrol_context_preparation_20260927/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:10e42ef1ef0ab3ad7a31b8a6e10d4b192bc5b52580e75c420efc39dcd6ac03e0",
         "sha256": "04ddbaee54fbe6375b35a09d79145ef756ad826f17fa8dbd2fdfc3ef071ede4d",
         "bytes": 3080
       },
       "identity_proposal": {
-        "path": "maintenance/south_tyrol_context_preparation_20260927/IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:d13b2555ef9bc3cf189297a104643fde7dd25652fcd22c9c90cebcff2682c759",
         "sha256": "715dc964e6c46646eb2048f89ccb117dcaabe61572ca3d0840579ba1478d1395",
         "bytes": 10490
       },
@@ -86221,17 +86221,17 @@
       "reviewed_by": "main_agent",
       "decision": "identities_accepted_for_isolated_content_preparation",
       "identity_adjudication": {
-        "path": "maintenance/herat_punitive_context_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:b2ee41b4925a0bb18f2d53c7827239138806bec7aaf8cd255b9f1a4ed5715cae",
         "sha256": "bc38bb761f3a1acdd3a16e2a26c498c4db306f9ef31895efe28e76079adb44f5",
         "bytes": 1078
       },
       "identity_proposal": {
-        "path": "maintenance/herat_punitive_context_preparation_20260927/IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:ccf310fbb7646f9495f88e4ccfba506a1a8dd2da924fd777626974d4f788aacd",
         "sha256": "42b1d7eed5d63cf530cb0ac2cf873b35e3c8216685ddd5a128024d2da18b06f9",
         "bytes": 23684
       },
       "source_reading": {
-        "path": "maintenance/herat_punitive_context_preparation_20260927/PUBLISHER_WEB_READING.json",
+        "path": "private-reference:4969b0c957607f9996487851e2247c39692e76e7f1f93d6c3cfb3ad5989f56fd",
         "sha256": "2818f35d1271499491b7cf370258521e172f9047e00ac4b19d028a8d03a9a9e6",
         "bytes": 21594
       },
@@ -86277,17 +86277,17 @@
       "reviewed_by": "main_agent",
       "decision": "identities_accepted_for_isolated_content_preparation",
       "identity_adjudication": {
-        "path": "maintenance/herat_punitive_context_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:b2ee41b4925a0bb18f2d53c7827239138806bec7aaf8cd255b9f1a4ed5715cae",
         "sha256": "bc38bb761f3a1acdd3a16e2a26c498c4db306f9ef31895efe28e76079adb44f5",
         "bytes": 1078
       },
       "identity_proposal": {
-        "path": "maintenance/herat_punitive_context_preparation_20260927/IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:ccf310fbb7646f9495f88e4ccfba506a1a8dd2da924fd777626974d4f788aacd",
         "sha256": "42b1d7eed5d63cf530cb0ac2cf873b35e3c8216685ddd5a128024d2da18b06f9",
         "bytes": 23684
       },
       "source_reading": {
-        "path": "maintenance/herat_punitive_context_preparation_20260927/PUBLISHER_WEB_READING.json",
+        "path": "private-reference:4969b0c957607f9996487851e2247c39692e76e7f1f93d6c3cfb3ad5989f56fd",
         "sha256": "2818f35d1271499491b7cf370258521e172f9047e00ac4b19d028a8d03a9a9e6",
         "bytes": 21594
       },
@@ -86325,33 +86325,33 @@
       "reviewed_by": "main_agent",
       "decision": "context_and_identity_accepted_for_isolated_preparation",
       "identity_adjudication": {
-        "path": "maintenance/bhutan_context_preparation_20260927/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:089da6897f16b46114b96c48de749d136797164e875de8ce99e2f9aaaf6583c3",
         "sha256": "d26e7c2492aac12ed14ae7f0a610bd2f196fcda253a32f54fafc56276a0977e0",
         "bytes": 3220
       },
       "identity_proposal": {
-        "path": "maintenance/bhutan_bibliography_preparation_20260927/IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:83250e4d7ba8f2308bb19d4b14880af87bc12b4f483641227bda2b7bbb551c47",
         "sha256": "5b55c8956fc1c47e019b16640fe9884ae3e7a9a2b1461a6a578b6d71689ea407",
         "bytes": 8374
       },
       "source_reading": [
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/amnesty-1992.pdf",
+          "path": "private-reference:4a9016b9f76731da874b4e9ddc6f640e0c730ae96d488cf777ea23bc8fbedf98",
           "sha256": "de8dd787e272fee8efd8c24a50b4bae11d2dd40d50a04d991af6280a9387acac",
           "bytes": 180968
         },
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/amnesty-1994.pdf",
+          "path": "private-reference:64643c1ff5e12d29eb0dc3ce663f23358bfc59a5c71ee360192ee7cf7e095bbc",
           "sha256": "7c410ce99b4b8d6054fd58c049a80bb9218b0d035f0959bd36c449531626f8b0",
           "bytes": 181693
         },
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/unhcr-2015-READING_NOTE.json",
+          "path": "private-reference:07098d966b06a6a97d8fdc164504ab51f171fbd549bfc1ba286033db359839b6",
           "sha256": "97f26d22621d92e94c0b5ab414434d243e7a902b77b85707e3df6b62c8f91af1",
           "bytes": 1846
         },
         {
-          "path": "maintenance/balanced_authoring_25_reviews_20260927/bhutan/SOURCE_READING.json",
+          "path": "private-reference:9c97e5d6fbcf43fce2633b66c5487be8f16eaf337892749003babc85fc86bda5",
           "sha256": "69339a9e8819827ca38e97331cd50dd04b79b90856a20791dbb99af81e95d8fc",
           "bytes": 3881
         }
@@ -86390,33 +86390,33 @@
       "reviewed_by": "main_agent",
       "decision": "context_and_identity_accepted_for_isolated_preparation",
       "identity_adjudication": {
-        "path": "maintenance/bhutan_context_preparation_20260927/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:089da6897f16b46114b96c48de749d136797164e875de8ce99e2f9aaaf6583c3",
         "sha256": "d26e7c2492aac12ed14ae7f0a610bd2f196fcda253a32f54fafc56276a0977e0",
         "bytes": 3220
       },
       "identity_proposal": {
-        "path": "maintenance/bhutan_bibliography_preparation_20260927/IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:83250e4d7ba8f2308bb19d4b14880af87bc12b4f483641227bda2b7bbb551c47",
         "sha256": "5b55c8956fc1c47e019b16640fe9884ae3e7a9a2b1461a6a578b6d71689ea407",
         "bytes": 8374
       },
       "source_reading": [
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/amnesty-1992.pdf",
+          "path": "private-reference:4a9016b9f76731da874b4e9ddc6f640e0c730ae96d488cf777ea23bc8fbedf98",
           "sha256": "de8dd787e272fee8efd8c24a50b4bae11d2dd40d50a04d991af6280a9387acac",
           "bytes": 180968
         },
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/amnesty-1994.pdf",
+          "path": "private-reference:64643c1ff5e12d29eb0dc3ce663f23358bfc59a5c71ee360192ee7cf7e095bbc",
           "sha256": "7c410ce99b4b8d6054fd58c049a80bb9218b0d035f0959bd36c449531626f8b0",
           "bytes": 181693
         },
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/unhcr-2015-READING_NOTE.json",
+          "path": "private-reference:07098d966b06a6a97d8fdc164504ab51f171fbd549bfc1ba286033db359839b6",
           "sha256": "97f26d22621d92e94c0b5ab414434d243e7a902b77b85707e3df6b62c8f91af1",
           "bytes": 1846
         },
         {
-          "path": "maintenance/balanced_authoring_25_reviews_20260927/bhutan/SOURCE_READING.json",
+          "path": "private-reference:9c97e5d6fbcf43fce2633b66c5487be8f16eaf337892749003babc85fc86bda5",
           "sha256": "69339a9e8819827ca38e97331cd50dd04b79b90856a20791dbb99af81e95d8fc",
           "bytes": 3881
         }
@@ -86457,33 +86457,33 @@
       "reviewed_by": "main_agent",
       "decision": "context_and_identity_accepted_for_isolated_preparation",
       "identity_adjudication": {
-        "path": "maintenance/bhutan_context_preparation_20260927/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:089da6897f16b46114b96c48de749d136797164e875de8ce99e2f9aaaf6583c3",
         "sha256": "d26e7c2492aac12ed14ae7f0a610bd2f196fcda253a32f54fafc56276a0977e0",
         "bytes": 3220
       },
       "identity_proposal": {
-        "path": "maintenance/bhutan_bibliography_preparation_20260927/IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:83250e4d7ba8f2308bb19d4b14880af87bc12b4f483641227bda2b7bbb551c47",
         "sha256": "5b55c8956fc1c47e019b16640fe9884ae3e7a9a2b1461a6a578b6d71689ea407",
         "bytes": 8374
       },
       "source_reading": [
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/amnesty-1992.pdf",
+          "path": "private-reference:4a9016b9f76731da874b4e9ddc6f640e0c730ae96d488cf777ea23bc8fbedf98",
           "sha256": "de8dd787e272fee8efd8c24a50b4bae11d2dd40d50a04d991af6280a9387acac",
           "bytes": 180968
         },
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/amnesty-1994.pdf",
+          "path": "private-reference:64643c1ff5e12d29eb0dc3ce663f23358bfc59a5c71ee360192ee7cf7e095bbc",
           "sha256": "7c410ce99b4b8d6054fd58c049a80bb9218b0d035f0959bd36c449531626f8b0",
           "bytes": 181693
         },
         {
-          "path": "maintenance/balanced_authoring_25_sources_20260927/bhutan/unhcr-2015-READING_NOTE.json",
+          "path": "private-reference:07098d966b06a6a97d8fdc164504ab51f171fbd549bfc1ba286033db359839b6",
           "sha256": "97f26d22621d92e94c0b5ab414434d243e7a902b77b85707e3df6b62c8f91af1",
           "bytes": 1846
         },
         {
-          "path": "maintenance/balanced_authoring_25_reviews_20260927/bhutan/SOURCE_READING.json",
+          "path": "private-reference:9c97e5d6fbcf43fce2633b66c5487be8f16eaf337892749003babc85fc86bda5",
           "sha256": "69339a9e8819827ca38e97331cd50dd04b79b90856a20791dbb99af81e95d8fc",
           "bytes": 3881
         }
@@ -86524,17 +86524,17 @@
       "reviewed_by": "main_agent",
       "decision": "context_and_identity_accepted_for_isolated_preparation",
       "identity_adjudication": {
-        "path": "maintenance/derg_context_preparation_20260927/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:c331b4110d522fe339f7ebcfc7a53af606367b1d95c526ed6ac6ec7eddde5df6",
         "sha256": "b62b833f8b951f87832fff8427eac6c162e13c8dc857059bfbfff8992ac70d06",
         "bytes": 5587
       },
       "identity_proposal": {
-        "path": "maintenance/derg_context_preparation_20260927/IDENTITY_JOIN_PROPOSAL.json",
+        "path": "private-reference:a872b2c76aa72f5e56575149dfa9f4e1eb0a7c0ecd1b492fb25ec367fd590751",
         "sha256": "8ecfeb2a8c02bdc382d2cdac0bcc71d8d1d873bca27ac56f85730712b9ef4143",
         "bytes": 6173
       },
       "source_reading": {
-        "path": "maintenance/derg_context_preparation_20260927/SOURCE_GEOGRAPHY_AND_IDENTITY_READING.json",
+        "path": "private-reference:86270e1222c99cb864407a5b154a0ef84305feb67e4530020874f200fcc158db",
         "sha256": "f60302e2f6d4024217399f242169b0c266c27b3902cda319c78f3475597874b5",
         "bytes": 6246
       },
@@ -86542,7 +86542,7 @@
         {
           "url": "https://www.hrw.org/reports/Ethiopia919.pdf",
           "file": {
-            "path": "maintenance/balanced_authoring_26_sources_20260927/derg/evil-days-paginated.pdf",
+            "path": "private-reference:3bb3dc2ab558cf75c8443d27281a769c44821a9954e81ec3bf55db3aa4e2d574",
             "sha256": "79906a686ba154882389ade8175ed88a14329a639ad53c937e3878ec0f6f1886",
             "bytes": 3252916
           },
@@ -86553,7 +86553,7 @@
         {
           "url": "https://www.hrw.org/reports/pdfs/e/ethiopia/ethiopia.919/ethiop991.pdf",
           "file": {
-            "path": "maintenance/balanced_authoring_26_sources_20260927/derg/evil-days-1991.pdf",
+            "path": "private-reference:f02e41225122a3b36d32f739fbee7dbab23b55f45d7b8f3aa9102d73242f5a14",
             "sha256": "78115ffb67e8b994f06b821ed11c561fb6f7318a99c6dd242435f6c0ee36896f",
             "bytes": 1442377
           },
@@ -86594,12 +86594,12 @@
       "reviewed_by": "main_agent",
       "decision": "Main_accepted_five_identity_joins_for_later_native_integration",
       "identity_adjudication": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:de518bb1f0f1f448616be9b77e5d7ebda7837261db82e9c567e0805d3e7e6dd9",
         "sha256": "458133530703ea3a7cb3e956529f6f74e737b5726ad07ae73481e457bf0c1337",
         "bytes": 7012
       },
       "identity_preparation": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_PREPARATION.json",
+        "path": "private-reference:5ae72111a870bd8e8a6ec15113eff538917c78148fdb07a39b43ef79dbe10c80",
         "sha256": "35b33237bb7636a396607401ab28513433f99014ed1f73b7bf24c920c76c6f44",
         "bytes": 43162
       },
@@ -86636,12 +86636,12 @@
       "reviewed_by": "main_agent",
       "decision": "Main_accepted_five_identity_joins_for_later_native_integration",
       "identity_adjudication": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:de518bb1f0f1f448616be9b77e5d7ebda7837261db82e9c567e0805d3e7e6dd9",
         "sha256": "458133530703ea3a7cb3e956529f6f74e737b5726ad07ae73481e457bf0c1337",
         "bytes": 7012
       },
       "identity_preparation": {
-        "path": "maintenance/priboi_bibliography_preparation_20260927/MAIN_IDENTITY_PREPARATION.json",
+        "path": "private-reference:5ae72111a870bd8e8a6ec15113eff538917c78148fdb07a39b43ef79dbe10c80",
         "sha256": "35b33237bb7636a396607401ab28513433f99014ed1f73b7bf24c920c76c6f44",
         "bytes": 43162
       },
@@ -86679,12 +86679,12 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/nam_tien_incoming_flight_20260927/MAIN_ADJUDICATION.json",
+        "path": "private-reference:939afd39d128f85f8b9280eb8b70d998d8b7db066566c0cfed7f6759a3fd5e08",
         "sha256": "02098b460394f941ffafb6c78d360178fa6c715748f3c5668a374fafc067b407",
         "bytes": 2465
       },
       "identity_evidence": {
-        "path": "maintenance/nam_tien_incoming_flight_20260927/MAIN_IDENTITY_CHECK.json",
+        "path": "private-reference:77efa678738f972e082ee47bd1652c6abbffb9f78cf9cfc9f3c1f98435901e1b",
         "sha256": "d05967244c0c9d5c3274d2c132d6f887ecf7d9002c5094c9d375ee955f616f5c",
         "bytes": 1728
       },
@@ -86726,14 +86726,14 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_27_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:34a65530b59632aa0d0cb86ed7a051ba0137ad8fd209d0fec2bc566d7aef77a3",
         "sha256": "edfea2b96cbf2bfd70b06670dde8bd48eaa9f1e206173be779d77d15b2c2a8dc",
         "bytes": 2268
       },
       "source_evidence": [
         {
           "input": {
-            "path": "maintenance/balanced_authoring_27_sources_20260927/rumelia/rumeli.txt",
+            "path": "private-reference:d27b3f57fba965204199c22921acc5f3be49a06f94ea9451458bfe2b08cab5f9",
             "sha256": "4706003127e013375bb549fbc824d070776fd19ef6e3b9758a743a6aee267ea5",
             "bytes": 30762
           },
@@ -86778,14 +86778,14 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_27_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:34a65530b59632aa0d0cb86ed7a051ba0137ad8fd209d0fec2bc566d7aef77a3",
         "sha256": "edfea2b96cbf2bfd70b06670dde8bd48eaa9f1e206173be779d77d15b2c2a8dc",
         "bytes": 2268
       },
       "source_evidence": [
         {
           "input": {
-            "path": "maintenance/balanced_authoring_27_sources_20260927/rumelia/gelibolu.txt",
+            "path": "private-reference:57bcf6648d8677b3876f59882248f9eb5c894446a62ec8d79060d21a7aa22bc4",
             "sha256": "e7fdf24fc351a3467b19e45713d9c50355e62ecf0b60120fad831d8285b6f12e",
             "bytes": 39897
           },
@@ -86831,14 +86831,14 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_27_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:34a65530b59632aa0d0cb86ed7a051ba0137ad8fd209d0fec2bc566d7aef77a3",
         "sha256": "edfea2b96cbf2bfd70b06670dde8bd48eaa9f1e206173be779d77d15b2c2a8dc",
         "bytes": 2268
       },
       "source_evidence": [
         {
           "input": {
-            "path": "maintenance/balanced_authoring_27_readiness_20260927/sources/shlomowitz_1986_retained.txt",
+            "path": "private-reference:ff23bbe319367be570a568a6003ee24ba140cec74c2d970f0decb3de9437e1bf",
             "sha256": "c454d636be8751f1ff077c07ba37ce99b5f32180d1837c64f69e21cd5c653acc",
             "bytes": 103724
           },
@@ -86882,14 +86882,14 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_27_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:34a65530b59632aa0d0cb86ed7a051ba0137ad8fd209d0fec2bc566d7aef77a3",
         "sha256": "edfea2b96cbf2bfd70b06670dde8bd48eaa9f1e206173be779d77d15b2c2a8dc",
         "bytes": 2268
       },
       "source_evidence": [
         {
           "input": {
-            "path": "maintenance/balanced_authoring_27_authors_20260927/fiji/sources/parnaby.txt",
+            "path": "private-reference:9e5a777f08eb4bda25797e3f2bf73b69d3dc588df53876056925c9bc546fe5f3",
             "sha256": "996a11cf031ebbbfd1e64b80baf6729810e5ee18b75eb2f643284996ab2d149e",
             "bytes": 34814
           },
@@ -86925,14 +86925,14 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_27_bibliography_preparation_20260927/MAIN_IDENTITY_ACCEPTANCE.json",
+        "path": "private-reference:34a65530b59632aa0d0cb86ed7a051ba0137ad8fd209d0fec2bc566d7aef77a3",
         "sha256": "edfea2b96cbf2bfd70b06670dde8bd48eaa9f1e206173be779d77d15b2c2a8dc",
         "bytes": 2268
       },
       "source_evidence": [
         {
           "input": {
-            "path": "maintenance/balanced_authoring_27_authors_20260927/fiji/sources/parliament-reading.txt",
+            "path": "private-reference:40b27ce0fa47a156b9e9158883274e316253cfb6baa36ce6ed2c653b71579d66",
             "sha256": "8cf12b90229e96f3d0e13db9af02c3be61e057d8e9acec843dd51c458a8da5bc",
             "bytes": 547
           },
@@ -86974,14 +86974,14 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_28_bibliography_preparation_20260927/highveld/MAIN_METADATA_PREPARATION.json",
+        "path": "private-reference:50ff8370dec317d997190b27dd10bdfe6000f2b91e392a651dbaa00f4befc2db",
         "sha256": "6155042b43feff061ecbdf6d1249bc1c8a23da0014fd82b43d912d582fe164c3",
         "bytes": 3944
       },
       "source_evidence": [
         {
           "input": {
-            "path": "maintenance/balanced_authoring_28_readiness_20260927/highveld/eldredge-conference.pdf",
+            "path": "private-reference:7032bc1233a9bf9919ac41051a3ebf7398b649692411dfa44fb3db19285f2d60",
             "sha256": "c64cca3429268b4aeea2eb5ee483353be6d9561b4fb05145e57337bfa831ea95",
             "bytes": 8111366
           },
@@ -87023,14 +87023,14 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_28_bibliography_preparation_20260927/highveld/MAIN_METADATA_PREPARATION.json",
+        "path": "private-reference:50ff8370dec317d997190b27dd10bdfe6000f2b91e392a651dbaa00f4befc2db",
         "sha256": "6155042b43feff061ecbdf6d1249bc1c8a23da0014fd82b43d912d582fe164c3",
         "bytes": 3944
       },
       "source_evidence": [
         {
           "input": {
-            "path": "maintenance/balanced_authoring_28_readiness_20260927/highveld/hamilton-wits.pdf",
+            "path": "private-reference:665028a0ea6d741c50c36cf4f63db8ca8c3f126fbd379eac860a41e39e91836e",
             "sha256": "dcc65834013250e2895b756818cfb664b38fce91ad4dc234a9d0311be8d03c11",
             "bytes": 1669718
           },
@@ -87071,13 +87071,13 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_28_bibliography_preparation_20260927/sthelena/MAIN_METADATA_PREPARATION.json",
+        "path": "private-reference:8bb627f61764eec92beef85e5fc542ce23771256ce6e45fee71fb817f091a181",
         "sha256": "c1d1eaa95d8d4ee2b0ef800d0625f59d1619eda9b3a238c95c45089739d127db",
         "bytes": 5152
       },
       "source_evidence": [
         {
-          "path": "maintenance/balanced_authoring_28_readiness_20260927/sthelena/sources/pearson_2012.pdf",
+          "path": "private-reference:89558bc4a35757ebfff13db65ae4311f76b8c4988ceb9eba550d49d21e5679a2",
           "sha256": "36b9058c50bf75a8bbe850afd1a318f217d6539318526bb32f97149ed375c389",
           "bytes": 685960
         }
@@ -87114,13 +87114,13 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_28_bibliography_preparation_20260927/sthelena/MAIN_METADATA_PREPARATION.json",
+        "path": "private-reference:8bb627f61764eec92beef85e5fc542ce23771256ce6e45fee71fb817f091a181",
         "sha256": "c1d1eaa95d8d4ee2b0ef800d0625f59d1619eda9b3a238c95c45089739d127db",
         "bytes": 5152
       },
       "source_evidence": [
         {
-          "path": "maintenance/balanced_authoring_28_readiness_20260927/sthelena/sources/pearson_after_liberation.txt",
+          "path": "private-reference:48f791032505a726265afee6a1ca912fb418b38ddaae10b38083860701caaf6d",
           "sha256": "b8bfe995999f8bdbf73d52bb373718fa59317787667820e6e209a5550eda14e1",
           "bytes": 16867
         }
@@ -87163,13 +87163,13 @@
     "identity_review": {
       "reviewed_by": "main_agent",
       "authority": {
-        "path": "maintenance/balanced_authoring_28_bibliography_preparation_20260927/sthelena/MAIN_METADATA_PREPARATION.json",
+        "path": "private-reference:8bb627f61764eec92beef85e5fc542ce23771256ce6e45fee71fb817f091a181",
         "sha256": "c1d1eaa95d8d4ee2b0ef800d0625f59d1619eda9b3a238c95c45089739d127db",
         "bytes": 5152
       },
       "source_evidence": [
         {
-          "path": "maintenance/balanced_authoring_28_readiness_20260927/sthelena/sources/eltis_2014.pdf",
+          "path": "private-reference:9b15a6b9f46ba578afaf707b47354fd3cc079b37d7292dd74a2058b862a1c854",
           "sha256": "8f27eb9b8e5a7989a5384b90dd054c61484aefe517c0747f006be63ec72a9a6a",
           "bytes": 225187
         }
@@ -87204,12 +87204,12 @@
       "reviewed_by": "main_agent",
       "decision": "isolated_content_and_bibliography_adopted_for_cumulative_preparation_not_admitted",
       "identity_adjudication": {
-        "path": "maintenance/balanced_authoring_30_adjudication_20260928/cocos/MAIN_PREPARATION_ADOPTION.json",
+        "path": "private-reference:479a389eaf5c5ab3a5a41b31f5ef73f43ec5871bd23ec51eb5a5febcb1f3b7bb",
         "sha256": "acaf656eac62bcaa48904f78023400eae57e13b03206e7e4d354cba219a35e56",
         "bytes": 2947
       },
       "identity_proposal": {
-        "path": "maintenance/balanced_authoring_30_implementation_20260928/cocos/BIBLIOGRAPHY_JOIN_PROPOSAL.json",
+        "path": "private-reference:a25dfa0d31c16808a145c92fda3ff9841ec3a8219519ee4340b192ac7fba7d66",
         "sha256": "d94b1a3e3e9553f488ceb3c1ff74ae1ae95bf61f78a1afa4743ee5c62fcd876a",
         "bytes": 11512
       },
@@ -87247,12 +87247,12 @@
       "reviewed_by": "main_agent",
       "decision": "isolated_content_and_bibliography_adopted_for_cumulative_preparation_not_admitted",
       "identity_adjudication": {
-        "path": "maintenance/balanced_authoring_30_adjudication_20260928/cocos/MAIN_PREPARATION_ADOPTION.json",
+        "path": "private-reference:479a389eaf5c5ab3a5a41b31f5ef73f43ec5871bd23ec51eb5a5febcb1f3b7bb",
         "sha256": "acaf656eac62bcaa48904f78023400eae57e13b03206e7e4d354cba219a35e56",
         "bytes": 2947
       },
       "identity_proposal": {
-        "path": "maintenance/balanced_authoring_30_implementation_20260928/cocos/BIBLIOGRAPHY_JOIN_PROPOSAL.json",
+        "path": "private-reference:a25dfa0d31c16808a145c92fda3ff9841ec3a8219519ee4340b192ac7fba7d66",
         "sha256": "d94b1a3e3e9553f488ceb3c1ff74ae1ae95bf61f78a1afa4743ee5c62fcd876a",
         "bytes": 11512
       },
@@ -87355,7 +87355,7 @@
     ],
     "passage_rule": "Exact case citation preserves passage locators and scope limits.",
     "identity_review": {
-      "authority": "maintenance/balanced_authoring_73_tawergha_authoring_proposal_20261004/MAIN_ACCEPTANCE.json",
+      "authority": "private-reference:2dd2d17b5ed4aea544d29a477181a32f3492306fafad91c30586560dbdd20e87",
       "publication_year_is_not_event_endpoint": true
     }
   },
@@ -87383,7 +87383,7 @@
     ],
     "passage_rule": "Exact case citation preserves passage locators and scope limits.",
     "identity_review": {
-      "authority": "maintenance/balanced_authoring_73_tawergha_authoring_proposal_20261004/MAIN_ACCEPTANCE.json",
+      "authority": "private-reference:2dd2d17b5ed4aea544d29a477181a32f3492306fafad91c30586560dbdd20e87",
       "publication_year_is_not_event_endpoint": true
     }
   },
@@ -87411,7 +87411,7 @@
     ],
     "passage_rule": "Exact case citation preserves passage locators and scope limits.",
     "identity_review": {
-      "authority": "maintenance/balanced_authoring_73_tawergha_authoring_proposal_20261004/MAIN_ACCEPTANCE.json",
+      "authority": "private-reference:2dd2d17b5ed4aea544d29a477181a32f3492306fafad91c30586560dbdd20e87",
       "publication_year_is_not_event_endpoint": true
     }
   },
@@ -87439,7 +87439,7 @@
     ],
     "passage_rule": "Exact case citation preserves passage locators and scope limits.",
     "identity_review": {
-      "authority": "maintenance/balanced_authoring_73_tawergha_authoring_proposal_20261004/MAIN_ACCEPTANCE.json",
+      "authority": "private-reference:2dd2d17b5ed4aea544d29a477181a32f3492306fafad91c30586560dbdd20e87",
       "publication_year_is_not_event_endpoint": true
     }
   },
@@ -87467,7 +87467,7 @@
     ],
     "passage_rule": "Exact case citation preserves passage locators and scope limits.",
     "identity_review": {
-      "authority": "maintenance/balanced_authoring_73_tawergha_authoring_proposal_20261004/MAIN_ACCEPTANCE.json",
+      "authority": "private-reference:2dd2d17b5ed4aea544d29a477181a32f3492306fafad91c30586560dbdd20e87",
       "publication_year_is_not_event_endpoint": true
     }
   },
@@ -87496,7 +87496,7 @@
     "passage_rule": "Te Ara, “From first settlement to 1860,” paragraphs on the 1835 Māori arrival support only the qualified collective-history note; no publication year, passenger roster, forced transport, or legal refugee status inferred.",
     "identity_review": {
       "authority": {
-        "path": "maintenance/incoming_flight_moriori_20261005_r1/MAIN_SOURCE_PROSE_ACCEPTANCE.json",
+        "path": "private-reference:f272271c11383e1ed1e0e2141f5d6aa718953720cdcd2f58f366d78b80f107ed",
         "sha256": "40bb68f3a5f771da6ce3f5ed6f6b9c8edff1e9630ba102789f8ba34f158b03ef",
         "bytes": 2022
       },
@@ -87531,12 +87531,12 @@
     "passage_rule": "Bounded claim locators inherited from accepted source evidence; this record does not claim full-work reading, complete metadata fields, uniform cohort extent or independent confirmation of every chronology. Missing fields remain unknown.",
     "identity_review": {
       "authority": {
-        "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:334780f899d83a707a3d33a1ba49212b9327c5e50562b35cd5d94117b5245e90",
         "sha256": "6f17d3ffce591c0b998cb3f2d0981158308445360493e88c056d35ae045efe07",
         "bytes": 1227
       },
       "source_evidence": {
-        "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/SOURCE_EVIDENCE.json",
+        "path": "private-reference:d2d877c46ce153abd0551e53a838f2f506ba0ac80bf1620cb59f5218f3d83c1a",
         "sha256": "5c1433b937457c9eb00e203bf7e7377c1972515110f4ddd8e70d91643212f135",
         "bytes": 10041,
         "json_pointer": "/sources/1"
@@ -87573,12 +87573,12 @@
     "passage_rule": "Bounded claim locators inherited from accepted source evidence; this record does not claim full-work reading, complete metadata fields, uniform cohort extent or independent confirmation of every chronology. Missing fields remain unknown.",
     "identity_review": {
       "authority": {
-        "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:334780f899d83a707a3d33a1ba49212b9327c5e50562b35cd5d94117b5245e90",
         "sha256": "6f17d3ffce591c0b998cb3f2d0981158308445360493e88c056d35ae045efe07",
         "bytes": 1227
       },
       "source_evidence": {
-        "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/SOURCE_EVIDENCE.json",
+        "path": "private-reference:d2d877c46ce153abd0551e53a838f2f506ba0ac80bf1620cb59f5218f3d83c1a",
         "sha256": "5c1433b937457c9eb00e203bf7e7377c1972515110f4ddd8e70d91643212f135",
         "bytes": 10041,
         "json_pointer": "/sources/2"
@@ -87613,12 +87613,12 @@
     "passage_rule": "Bounded claim locators inherited from accepted source evidence; this record does not claim full-work reading, complete metadata fields, uniform cohort extent or independent confirmation of every chronology. Missing fields remain unknown.",
     "identity_review": {
       "authority": {
-        "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:334780f899d83a707a3d33a1ba49212b9327c5e50562b35cd5d94117b5245e90",
         "sha256": "6f17d3ffce591c0b998cb3f2d0981158308445360493e88c056d35ae045efe07",
         "bytes": 1227
       },
       "source_evidence": {
-        "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/SOURCE_EVIDENCE.json",
+        "path": "private-reference:d2d877c46ce153abd0551e53a838f2f506ba0ac80bf1620cb59f5218f3d83c1a",
         "sha256": "5c1433b937457c9eb00e203bf7e7377c1972515110f4ddd8e70d91643212f135",
         "bytes": 10041,
         "json_pointer": "/sources/3"
@@ -87648,7 +87648,7 @@
     "passage_rule": "Public page locators remain separate from work identity. Missing fields stay unknown.",
     "identity_review": {
       "authority": {
-        "path": "maintenance/balanced_authoring_76_almoravid_authoring_proposal_20261006_r1/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:506e7f5717edfe8308468c370a4261b7c30c8aac1c713e62b93bfcfe0bdfddcb",
         "sha256": "d67178196390973d7f5b2233dcac165deaa48e2d139125a3949cda0032df0aaf",
         "bytes": 1091
       },
@@ -87677,7 +87677,7 @@
     "passage_rule": "Public page locators remain separate from work identity. Missing fields stay unknown.",
     "identity_review": {
       "authority": {
-        "path": "maintenance/balanced_authoring_76_almoravid_authoring_proposal_20261006_r1/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:506e7f5717edfe8308468c370a4261b7c30c8aac1c713e62b93bfcfe0bdfddcb",
         "sha256": "d67178196390973d7f5b2233dcac165deaa48e2d139125a3949cda0032df0aaf",
         "bytes": 1091
       },
@@ -87712,12 +87712,12 @@
     "passage_rule": "Inherited accepted source identity only. Catalogue137–192 versus observed137–191 preserved; no192reading credit, DOI registry/publisher/complete-field verification newly claimed.",
     "identity_review": {
       "authority": {
-        "path": "maintenance/balanced_authoring_75_kazakh_additional_source_20261005_r1/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:ee44bbe17955d7e049ba221f3ec705f48eb02ccf0c44c52d005037e587c900fe",
         "sha256": "e75600fbd628b6c172d79c3f437d897c0fb91dae1ed50a16c3b4f144b836bd77",
         "bytes": 2870
       },
       "source_findings": {
-        "path": "maintenance/balanced_authoring_75_kazakh_additional_source_20261005_r1/FINDINGS.json",
+        "path": "private-reference:8fcaa05496fc30ba03abd6c130b0bd1712920bac68c786f24c676f430d9ab227",
         "sha256": "afdc1a17d07b846fef439dfe9405006f06d01053624c7dad705e0ff64072d72a",
         "bytes": 16538
       },
@@ -87747,12 +87747,12 @@
     "passage_rule": "Identity facts inherited accepted source/geometry packet; no all-fields, new archive-body, independent-witness or complete historic-location certification.",
     "identity_review": {
       "narrative_Main": {
-        "path": "maintenance/balanced_authoring_77_mascarene_authoring_proposal_20261006_main_acceptance/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:43507815d5494090632eef45b89d28ec3582b1c5e67310a1b65df5420cc41736",
         "sha256": "4ae433e9379a84bfbbd94f037b00d089d0863800d17cc1fc344f1a8caf6ecf15",
         "bytes": 3402
       },
       "geometry_Main": {
-        "path": "maintenance/balanced_authoring_77_mascarene_geometry_readiness_20261006_main_acceptance/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:0ca3d6ba4204dec92c056b8348048846b7932dcc8057d54f0c6a52d536544216",
         "sha256": "e8c0a85e9f3d84b6910a020bee6d0bdfbfaf0986848c18d56733e271d2043715",
         "bytes": 4867
       }
@@ -87780,12 +87780,12 @@
     "passage_rule": "Identity facts inherited accepted source/geometry packet; no all-fields, new archive-body, independent-witness or complete historic-location certification.",
     "identity_review": {
       "narrative_Main": {
-        "path": "maintenance/balanced_authoring_77_mascarene_authoring_proposal_20261006_main_acceptance/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:43507815d5494090632eef45b89d28ec3582b1c5e67310a1b65df5420cc41736",
         "sha256": "4ae433e9379a84bfbbd94f037b00d089d0863800d17cc1fc344f1a8caf6ecf15",
         "bytes": 3402
       },
       "geometry_Main": {
-        "path": "maintenance/balanced_authoring_77_mascarene_geometry_readiness_20261006_main_acceptance/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:0ca3d6ba4204dec92c056b8348048846b7932dcc8057d54f0c6a52d536544216",
         "sha256": "e8c0a85e9f3d84b6910a020bee6d0bdfbfaf0986848c18d56733e271d2043715",
         "bytes": 4867
       }
@@ -87812,12 +87812,12 @@
     "passage_rule": "Identity facts inherited accepted source/geometry packet; no all-fields, new archive-body, independent-witness or complete historic-location certification.",
     "identity_review": {
       "narrative_Main": {
-        "path": "maintenance/balanced_authoring_77_mascarene_authoring_proposal_20261006_main_acceptance/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:43507815d5494090632eef45b89d28ec3582b1c5e67310a1b65df5420cc41736",
         "sha256": "4ae433e9379a84bfbbd94f037b00d089d0863800d17cc1fc344f1a8caf6ecf15",
         "bytes": 3402
       },
       "geometry_Main": {
-        "path": "maintenance/balanced_authoring_77_mascarene_geometry_readiness_20261006_main_acceptance/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:0ca3d6ba4204dec92c056b8348048846b7932dcc8057d54f0c6a52d536544216",
         "sha256": "e8c0a85e9f3d84b6910a020bee6d0bdfbfaf0986848c18d56733e271d2043715",
         "bytes": 4867
       }
@@ -87844,12 +87844,12 @@
     "passage_rule": "Identity facts inherited accepted source/geometry packet; no all-fields, new archive-body, independent-witness or complete historic-location certification.",
     "identity_review": {
       "narrative_Main": {
-        "path": "maintenance/balanced_authoring_77_mascarene_authoring_proposal_20261006_main_acceptance/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:43507815d5494090632eef45b89d28ec3582b1c5e67310a1b65df5420cc41736",
         "sha256": "4ae433e9379a84bfbbd94f037b00d089d0863800d17cc1fc344f1a8caf6ecf15",
         "bytes": 3402
       },
       "geometry_Main": {
-        "path": "maintenance/balanced_authoring_77_mascarene_geometry_readiness_20261006_main_acceptance/MAIN_ACCEPTANCE.json",
+        "path": "private-reference:0ca3d6ba4204dec92c056b8348048846b7932dcc8057d54f0c6a52d536544216",
         "sha256": "e8c0a85e9f3d84b6910a020bee6d0bdfbfaf0986848c18d56733e271d2043715",
         "bytes": 4867
       }

@@ -6,7 +6,7 @@
   "deployment_status": "not_recorded_by_publication_builder",
   "statistical_release": "second_pass_v7_676",
   "release_manifest_sha256": "8969d87d62a84887f37046eb97189c16b1fc686c92fd17021cc6163b71c076cd",
-  "atlas_html_sha256": "7b25419dd09cbf46fcb865f1705cd5f0d50cd04bdf797f777c8e8395a2014bf6",
+  "atlas_html_sha256": "fd0be9f8467c03675b100c8e5128c7a548e1d1fd92fe3fc0403e1b3e0e98a077",
   "current_atlas_cases": 540,
   "playback_stops": 552,
   "bibliography_mapping_sha256": "674be4ace26770e2ede808ca3ae5b2f3a57745fc54759790548bc30d082bc472",
@@ -14,15 +14,15 @@
   "preserved_preparation_records_sha256": {
     "atlas/authoring_provenance.json": "79892920b44d4f9f7e6dfe60898f6ff6eca81bffbdeecee4ea98fe5145f7f6b1",
     "bibliography/current/work_inventory.json": "3dce5a01090b2f9cfdb94b0e6ba98632245521c7d8af831738f79a211cc85bd9",
-    "bibliography/current/source_occurrences.json": "4af21cbfe376fc610ff89664307f2f811bd6931b4d3aa2b13e2258273e226fc6",
-    "bibliography/current/typed_metadata.json": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04"
+    "bibliography/current/source_occurrences.json": "3444af2021ae377349c45232c04e041f4c4077fa4525c2fd58e1a67142bcada8",
+    "bibliography/current/typed_metadata.json": "ebcb5a447694f485c30966935ba9bd95a86ea1fe1250015c1a58c608fb0c997b"
   },
   "preparation_record_scope": "Preparation labels in preserved records describe their input review. This descriptor identifies the current working publication; deployment is recorded separately.",
   "acceptance_basis": "MainacceptedactualMascarene540localconfirmation;stageonlynotdeployed",
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
-    "source_sha256": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04",
+    "source_sha256": "ebcb5a447694f485c30966935ba9bd95a86ea1fe1250015c1a58c608fb0c997b",
     "record_unit": "one typed work/access record; not an occurrence, passage or person",
     "records": 1483,
     "metadata_status_counts": {
@@ -70,5 +70,29 @@
     "native_partition_isolated_summary": "Dated9 nativecheckpoint retained exact, current11 separately accepted",
     "graphical_share_feature": "unresolved separate UI proposal",
     "geometry": "Only two accepted dated voyage proxies; no new origin/track geometry or four-case UI permission implied"
+  },
+  "public_privacy_projection": {
+    "version": "r40-privacy-projection-source345-rss75",
+    "notice": "The public provenance files now omit private work paths. Their hashes differ from the archived originals. The case accounts, scores and calculations stay the same.",
+    "original_statistical_release_unchanged": true,
+    "case_accounts_scores_and_calculations_unchanged": true,
+    "derivative_public_provenance": {
+      "data/bibliography/current/source_occurrences.json": {
+        "original_sha256": "4af21cbfe376fc610ff89664307f2f811bd6931b4d3aa2b13e2258273e226fc6",
+        "public_copy_sha256": "3444af2021ae377349c45232c04e041f4c4077fa4525c2fd58e1a67142bcada8"
+      },
+      "data/bibliography/current/typed_metadata.json": {
+        "original_sha256": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04",
+        "public_copy_sha256": "ebcb5a447694f485c30966935ba9bd95a86ea1fe1250015c1a58c608fb0c997b"
+      },
+      "data/releases/second_pass_v7_676/results/date_metadata_addendum/RUN_MANIFEST.json": {
+        "original_sha256": "3fbdfb07642d9aac23cbddd4d98e220a590d2e8b0fcca6191128b80c8d304cf7",
+        "public_copy_sha256": "953b32fb2a58710dd2549be35e322b534c4f6b86e3efe48a157cd958c0aef679"
+      },
+      "data/releases/second_pass_v7_676/results/date_metadata_addendum/MAIN_ACCEPTANCE.md": {
+        "original_sha256": "e3d87b1bbafe655a423e0802a650cce7dbb3c4edb47beb3a91c2f09fa45e7cb5",
+        "public_copy_sha256": "47125e0d19e26c1a2f8b440b77a064c610f925e74552b44d09de3834ae4b9076"
+      }
+    }
   }
 }

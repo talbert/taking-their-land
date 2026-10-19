@@ -7,11 +7,11 @@
   "release_manifest_sha256": "8969d87d62a84887f37046eb97189c16b1fc686c92fd17021cc6163b71c076cd",
   "license_scope": "Original structured research fields: CC-BY-4.0; original narrative prose and graphics: CC-BY-SA-4.0; original software: MIT. Third-party quotations, code, and map data retain their own terms. See LICENSE.md and THIRD_PARTY_NOTICES.md; file format alone does not determine all rights.",
   "license_notice_sha256": "da166ddd45cb04d081738d733678418506c9cd4d347e710f35bdad0883e13abb",
-  "atlas_source_sha256": "7b25419dd09cbf46fcb865f1705cd5f0d50cd04bdf797f777c8e8395a2014bf6",
+  "atlas_source_sha256": "fd0be9f8467c03675b100c8e5128c7a548e1d1fd92fe3fc0403e1b3e0e98a077",
   "data_file_count": 266,
   "data_archive": "data/taking-their-land-data-second_pass_v7_676.zip",
-  "data_archive_bytes": 64688937,
-  "data_archive_sha256": "f18f30e12d6f7fc5d819509b9dbbe14815cf15af23e618d82868a6250fc384a5",
+  "data_archive_bytes": 64984090,
+  "data_archive_sha256": "c814e6750ea406d1a73d017c05602bbf9d69c9cfef2ba1c3f20a03f51c52a958",
   "monograph_source_sha256": "2b3e5ceb15bccb3ce890f14b5b09b261fa873c9ea7c9ef4a008bea37e418465b",
   "monograph_source": "monograph/MONOGRAPH_DRAFT_v2.md",
   "monograph_pdf": "monograph/MONOGRAPH_DRAFT_v2.pdf",
@@ -42,50 +42,50 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "baef7b18844083bd62fdd133ac9a9540524e614f753480d16a19038c220d3980",
+  "tree_sha256": "012decb678a16b5f2eed3b5aa21a80a760d6ee390fd2a95b9d78940283b76198",
   "site_updates": {
-  "schema": "taking-land-site-updates-v1",
-  "version": "r39-source345-rss74",
-  "entries": 74,
-  "source": "updates/entries.json",
-  "source_sha256": "eb7b21fc1734b7d7ea15e16b8bb0dde1db003f6e0de2325c8e1976de4397801a",
-  "feed": "updates/feed.xml",
-  "feed_sha256": "4b141f55efe9c916206b1d18da4758263122ffc82f4e7dd480feff2c2ff756ba",
-  "discovery_list": {
-    "schema": "discovery-list-binding-v1",
-    "version": "r39-source345-rss74",
-    "reviewed_on": "2026-10-17",
-    "ledger_sha256": "a6308ac61a4502f6e432546cb12a0578a04fb4ce1a62267a1365d7e3a9ac7dc1",
-    "editorial_sha256": "ef624b537cdf67c16086360f9550b6058fcf6c37074290a30d817a81843a9108",
-    "page": "discovery/known/index.html",
-    "page_sha256": "7cfbe36abd0359246fd9d56f95f6f574f6e0ee311aa8b4d2910683cfcb2ff14b",
-    "data": "discovery/known/entries.json",
-    "data_sha256": "042dbaebbf447e3252b249da9c415b34fe922c551fdbd7a1da9e17dd1057287b",
-    "updated_on": "2026-10-19",
-    "update_scope": "Ten research notes on Mesa Verde and Hopi accounts",
-    "entries": 345
+    "schema": "taking-land-site-updates-v1",
+    "version": "r40-privacy-projection-source345-rss75",
+    "entries": 75,
+    "source": "updates/entries.json",
+    "source_sha256": "b17663d63390804f80d4d7781d61f96dc818a427e14551938acab7ff16188c76",
+    "feed": "updates/feed.xml",
+    "feed_sha256": "cb3c3f5079e58d1e1a7438d96dea773328db1bd03403333bb133246d74f1a5ae",
+    "discovery_list": {
+      "schema": "discovery-list-binding-v1",
+      "version": "r39-source345-rss74",
+      "reviewed_on": "2026-10-17",
+      "ledger_sha256": "a6308ac61a4502f6e432546cb12a0578a04fb4ce1a62267a1365d7e3a9ac7dc1",
+      "editorial_sha256": "ef624b537cdf67c16086360f9550b6058fcf6c37074290a30d817a81843a9108",
+      "page": "discovery/known/index.html",
+      "page_sha256": "7cfbe36abd0359246fd9d56f95f6f574f6e0ee311aa8b4d2910683cfcb2ff14b",
+      "data": "discovery/known/entries.json",
+      "data_sha256": "042dbaebbf447e3252b249da9c415b34fe922c551fdbd7a1da9e17dd1057287b",
+      "updated_on": "2026-10-19",
+      "update_scope": "Ten research notes on Mesa Verde and Hopi accounts",
+      "entries": 345
+    },
+    "discovery_report": {
+      "version": "r40-privacy-projection-source345-rss75",
+      "index": "discovery/index.html",
+      "index_sha256": "79cc06634af53fd1e25061de47454aaa38d1f66813d5b8ab732e010a0412176f",
+      "data": "discovery/report.json",
+      "data_sha256": "647fdb8617388f8bd14cc13d85f49ef9846e3ce0b0fcca7935c4781bbd91e2aa",
+      "runtime_scope": "This report uses local data with 571 cases. The live atlas has 540 cases and 552 stops. It does not release the local atlas."
+    },
+    "citation_scope": {
+      "concept_DOI": "10.5281/zenodo.23410511",
+      "issued_version_DOI": "10.5281/zenodo.23410512",
+      "repository": "https://github.com/talbert/taking-their-land",
+      "archive_is_older_snapshot": true,
+      "component_licenses_unchanged": true
+    },
+    "base_atlas_sha256": "7b25419dd09cbf46fcb865f1705cd5f0d50cd04bdf797f777c8e8395a2014bf6",
+    "indexnow_key": {
+      "path": "9d38f0690a5308f1472afcd8a741c27d.txt",
+      "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
+    }
   },
-  "discovery_report": {
-    "version": "p7-r39",
-    "index": "discovery/index.html",
-    "index_sha256": "dd092d7452c7f03074f20739d64c3edf56fffa08b50d9eba4e678877ad67692d",
-    "data": "discovery/report.json",
-    "data_sha256": "27dcf44ac5b658cd4c7237c7cb214b4a3d917bfdf0743e70f15ccb144cede22b",
-    "runtime_scope": "This report uses local data with 571 cases. The live atlas has 540 cases and 552 stops. It does not release the local atlas."
-  },
-  "citation_scope": {
-    "concept_DOI": "10.5281/zenodo.23410511",
-    "issued_version_DOI": "10.5281/zenodo.23410512",
-    "repository": "https://github.com/talbert/taking-their-land",
-    "archive_is_older_snapshot": true,
-    "component_licenses_unchanged": true
-  },
-  "base_atlas_sha256": "d2bbe34151bb75cc658e31d6f8f4a4a4bd347f22838415b93f8482ec37bbea1e",
-  "indexnow_key": {
-    "path": "9d38f0690a5308f1472afcd8a741c27d.txt",
-    "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
-  }
-},
   "discovery_status": {
     "schema": "taking-land-public-discovery-status-delivery-v1",
     "version": "p7-r3",
@@ -99,7 +99,7 @@
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
-    "source_sha256": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04",
+    "source_sha256": "ebcb5a447694f485c30966935ba9bd95a86ea1fe1250015c1a58c608fb0c997b",
     "record_unit": "one typed work/access record; not an occurrence, passage or person",
     "records": 1483,
     "metadata_status_counts": {
@@ -152,8 +152,32 @@
   "preserved_download_notice": {
     "path": "data/LICENSE.md",
     "sha256": "4cc5e22ed25e9870fe7ad7c5d71d154e29f21041b84e46d70d07ae4857286c9e",
-    "scope": "Dated data-download notice bound by the unchanged data manifest and frozen archive; current archive citation is in reuse notice/README/monograph.",
+    "scope": "Component license terms are unchanged. Public provenance copies are privacy projections; their derived hashes are disclosed separately.",
     "current_reuse_notice_sha256": "da166ddd45cb04d081738d733678418506c9cd4d347e710f35bdad0883e13abb",
     "component_license_terms_unchanged": true
+  },
+  "public_privacy_projection": {
+    "version": "r40-privacy-projection-source345-rss75",
+    "notice": "The public provenance files now omit private work paths. Their hashes differ from the archived originals. The case accounts, scores and calculations stay the same.",
+    "original_statistical_release_unchanged": true,
+    "case_accounts_scores_and_calculations_unchanged": true,
+    "derivative_public_provenance": {
+      "data/bibliography/current/source_occurrences.json": {
+        "original_sha256": "4af21cbfe376fc610ff89664307f2f811bd6931b4d3aa2b13e2258273e226fc6",
+        "public_copy_sha256": "3444af2021ae377349c45232c04e041f4c4077fa4525c2fd58e1a67142bcada8"
+      },
+      "data/bibliography/current/typed_metadata.json": {
+        "original_sha256": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04",
+        "public_copy_sha256": "ebcb5a447694f485c30966935ba9bd95a86ea1fe1250015c1a58c608fb0c997b"
+      },
+      "data/releases/second_pass_v7_676/results/date_metadata_addendum/RUN_MANIFEST.json": {
+        "original_sha256": "3fbdfb07642d9aac23cbddd4d98e220a590d2e8b0fcca6191128b80c8d304cf7",
+        "public_copy_sha256": "953b32fb2a58710dd2549be35e322b534c4f6b86e3efe48a157cd958c0aef679"
+      },
+      "data/releases/second_pass_v7_676/results/date_metadata_addendum/MAIN_ACCEPTANCE.md": {
+        "original_sha256": "e3d87b1bbafe655a423e0802a650cce7dbb3c4edb47beb3a91c2f09fa45e7cb5",
+        "public_copy_sha256": "47125e0d19e26c1a2f8b440b77a064c610f925e74552b44d09de3834ae4b9076"
+      }
+    }
   }
 }

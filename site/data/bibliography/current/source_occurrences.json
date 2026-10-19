@@ -85674,7 +85674,7 @@
   {
     "occurrence_id": "occ:cc69c342d58b04e19e01",
     "work_id": "access:5972eaaf7939248cea70",
-    "input": "maintenance/balanced_authoring_35_authors_20260928/estonia/CASE_PAYLOAD.json",
+    "input": "private-reference:a92e3056532a3c1316947b2c49ed0a7003a53fe510ffc15b318a0eeb424bbbe1",
     "locator": "/citations/v7_estonia_german_deportation_1945_commission",
     "scope": "public_authored_case",
     "event_id": "prospective-estonia-german-nationality-deportation-1945",
@@ -85688,7 +85688,7 @@
   {
     "occurrence_id": "occ:8ad62ad4609e45f9cffe",
     "work_id": "access:13dc37673c8125b691ea",
-    "input": "maintenance/balanced_authoring_35_authors_20260928/lithuania/CASE_PAYLOAD.json",
+    "input": "private-reference:dffdcfede1a82de4dc95fa0e102745eb6c80aad22c57f583a41dce3f334d3360",
     "locator": "/citations/v7_lithuania_german_deportation_commission_2005",
     "scope": "public_authored_case",
     "event_id": "prospective-lithuania-german-nationality-deportation-1945",
@@ -86002,7 +86002,7 @@
   {
     "occurrence_id": "occ:2cc6cd7da7daa31de8f9",
     "work_id": "title:unhcr culture context and mental health in south sudanese displacement",
-    "input": "maintenance/balanced_authoring_44_sources_20260928/south_sudan_r1/CASE_PAYLOAD.json",
+    "input": "private-reference:a14ac4fc82ec05c08d38dc1873447502c9fbe270736c7ad186d40a650481fb4b",
     "locator": "/citations/v7_south_sudan_civil_war_unhcr_2023",
     "scope": "public_authored_case",
     "event_id": "modern-south-sudan-civil-war-displacement",
@@ -86016,7 +86016,7 @@
   {
     "occurrence_id": "occ:f0539b1f674376e20d0a",
     "work_id": "access:eb391b420da09ec05e9a",
-    "input": "maintenance/balanced_authoring_44_sources_20260928/karabakh_april_1994_r1/CASE_PAYLOAD.json",
+    "input": "private-reference:1083641d908e352b160c39801d91875536d5e3330d40f48a74086911f44b97b9",
     "locator": "/citations/v7_nk_april_offensive_hrw_1994",
     "scope": "public_authored_case",
     "event_id": "prospective-nk-april-offensive-azerbaijani-displacement-1994",
@@ -86030,7 +86030,7 @@
   {
     "occurrence_id": "occ:8ba3ee51512d26bc0ad3",
     "work_id": "access:ea331da1ecb7a28815b0",
-    "input": "maintenance/balanced_authoring_45_sources_20260928/somalia_1991_1995_r1/CASE_PAYLOAD.json",
+    "input": "private-reference:7b04cb8c4ccbe28c376d2f7ee294f131f194f46ffd6bc457b237d0c6d508c467",
     "locator": "/citations/v7_somalia_conflict_1991_1995_world_bank_2014",
     "scope": "public_authored_case",
     "event_id": "prospective-somalia-conflict-1991-1995",
@@ -86044,7 +86044,7 @@
   {
     "occurrence_id": "occ:833be2d5938137776f09",
     "work_id": "access:3a47197a286e0cbfce36",
-    "input": "maintenance/balanced_authoring_45_sources_20260928/second_congo_war_1998_2003/CASE_PAYLOAD.json",
+    "input": "private-reference:c945e4def8e9cac9fe0528c7e241da087db636b2c7a568570b36ea7cf8bac770",
     "locator": "/citations/v7_second_congo_war_ohchr_2010",
     "scope": "public_authored_case",
     "event_id": "prospective-second-congo-war-displacement-1998-2003",
@@ -86058,7 +86058,7 @@
   {
     "occurrence_id": "occ:d962c214e4a58bd59644",
     "work_id": "access:1b8b571a475f29e96105",
-    "input": "maintenance/balanced_authoring_46_sources_20260928/hong_kong_1941_1945_r1/CASE_PAYLOAD.json",
+    "input": "private-reference:2f3ec9de666b201ce5c9adbc784258750d5ad9682e54dcf762dabd7e5e597c75",
     "locator": "/citations/v7_hong_kong_forced_repatriation_academy",
     "scope": "public_authored_case",
     "event_id": "prospective-japanese-occupied-hong-kong-forced-repatriation-and-depopulation-1941-1945",
@@ -86072,7 +86072,7 @@
   {
     "occurrence_id": "occ:736ece042b6426ea9594",
     "work_id": "access:f95869b3326d393f7b6e",
-    "input": "maintenance/balanced_authoring_46_sources_20260928/south_ossetia_2008_r2/CASE_PAYLOAD.json",
+    "input": "private-reference:a530a4f9776b7faac79fe7636c751cd1eb03276926c01c612902c110467aa14b",
     "locator": "/citations/v7_south_ossetia_2008_iiffmcg_2009",
     "scope": "public_authored_case",
     "event_id": "prospective-august-2008-south-ossetia-conflict-and-immediate-aftermath-displacement",
@@ -86086,7 +86086,7 @@
   {
     "occurrence_id": "occ:4e31b9fd09d79319482c",
     "work_id": "access:4ea40293fef82d745a45",
-    "input": "maintenance/balanced_authoring_47_sources_20260928/east_pakistan_1971_r1/CASE_PAYLOAD.json",
+    "input": "private-reference:7a4a6afc64634277057368780ad2eae93985f82cafacad6a488ff87efb3bbd32",
     "locator": "/citations/v7_east_pakistan_1971_icj_1972",
     "scope": "public_authored_case",
     "event_id": "prospective-pakistani-army-and-auxiliary-displacement-in-east-pakistan-march-december-1971",
@@ -86100,7 +86100,7 @@
   {
     "occurrence_id": "occ:d22b9b3565c629a1cafd",
     "work_id": "access:75275d2a076289d4be63",
-    "input": "maintenance/balanced_authoring_47_sources_20260928/baltic_june_1941/CASE_PAYLOAD.json",
+    "input": "private-reference:4c4bb4ee5d5631732b1aaa8ab2d328b61159c87b980f562c41d945fcc899ebba",
     "locator": "/citations/v7_baltic_june_1941_latvian_state_archive",
     "scope": "public_authored_case",
     "event_id": "prospective-baltic-june-1941-tristate-deportation",
@@ -86114,7 +86114,7 @@
   {
     "occurrence_id": "occ:6ce0fdc66cdb101767e6",
     "work_id": "access:fbc05102ddedf87e5fb2",
-    "input": "maintenance/balanced_authoring_48_sources_20260928/waikato_taranaki_musket_wars/CASE_PAYLOAD.json",
+    "input": "private-reference:e6a525c8c7cb76142e8d35d5e8922f867d3f0d2c19a1524effe17fdcd97f1a92",
     "locator": "/citations/v7_waikato_taranaki_te_ara_2017",
     "scope": "public_authored_case",
     "event_id": "new-zealand-waikato-taranaki-musket-wars",
@@ -86128,7 +86128,7 @@
   {
     "occurrence_id": "occ:9c6a0e67ca34403ed6dc",
     "work_id": "access:d53338a9c21fe12efa10",
-    "input": "maintenance/balanced_authoring_48_sources_20260928/lao_hmong_2006_2009/CASE_PAYLOAD.json",
+    "input": "private-reference:2f64dae99bce00e0f97c575176aaa44b22b89d52bf7a49b792d6b42d242a8773",
     "locator": "/citations/v7_lao_hmong_nong_khai_unhcr_2009",
     "scope": "public_authored_case",
     "event_id": "prospective-lao-hmong-detention-and-forced-return-2006-2009",
@@ -86142,7 +86142,7 @@
   {
     "occurrence_id": "occ:9de0fdc97d40d61aa581",
     "work_id": "access:e9839b02e3501622dc79",
-    "input": "maintenance/balanced_authoring_49_sources_20260928/bosnia_hvo_1993_1994_r1/CASE_PAYLOAD.json",
+    "input": "private-reference:67c5c4dc32f2b53552274ad5d505b80d6101232c8ec49bc98ceb91006a8bf9f4",
     "locator": "/citations/v7_bosnia_hvo_prlic_trial_2013",
     "scope": "public_authored_case",
     "event_id": "prospective-bosnia-hvo-herceg-bosna-muslim-removal-1993-1994",
@@ -86156,7 +86156,7 @@
   {
     "occurrence_id": "occ:d144d0c1d79916e901cb",
     "work_id": "access:ea331da1ecb7a28815b0",
-    "input": "maintenance/balanced_authoring_49_sources_20260928/mogadishu_2005_2009_r1/CASE_PAYLOAD.json",
+    "input": "private-reference:0051f786b823c6d0968b3be328427cef463fc84dcc6e1dbe4c4cd9cc1e22ae01",
     "locator": "/citations/v7_mogadishu_conflict_2005_2009_world_bank_2014",
     "scope": "public_authored_case",
     "event_id": "prospective-somalia-mogadishu-conflict-2005-2009",
@@ -86170,7 +86170,7 @@
   {
     "occurrence_id": "occ:41b0d941c8668dad6a5a",
     "work_id": "access:ad323ac57cb2e48f3212",
-    "input": "maintenance/balanced_authoring_50_sources_20260928/croatia_sao_rsk_1991_1995/CASE_PAYLOAD.json",
+    "input": "private-reference:1052eb8bf0907d39c3942ba0a0c9021f556f14208faaa9811d959e312cefd301",
     "locator": "/citations/v7_croatia_sao_rsk_martic_trial_2007",
     "scope": "public_authored_case",
     "event_id": "prospective-croatia-sao-rsk-non-serb-removal-1991-1995",
@@ -86184,7 +86184,7 @@
   {
     "occurrence_id": "occ:04ae810a6d00ecb16177",
     "work_id": "access:f95869b3326d393f7b6e",
-    "input": "maintenance/balanced_authoring_50_sources_20260928/south_ossetia_1991_1992/CASE_PAYLOAD.json",
+    "input": "private-reference:35dfd5d00a5f4dd2ab6f2f6d0093ca4be530c7e2d60b27c676e841f9b98df26e",
     "locator": "/citations/v7_south_ossetia_1991_1992_iiffmcg_2009",
     "scope": "public_authored_case",
     "event_id": "prospective-south-ossetia-conflict-displacement-1991-1992",
@@ -86198,7 +86198,7 @@
   {
     "occurrence_id": "occ:61c7e23a1b4c77c70a62",
     "work_id": "access:0e10992f34a2dfaa25fb",
-    "input": "maintenance/balanced_authoring_50_sources_20260928/south_ossetia_1991_1992/CASE_PAYLOAD.json",
+    "input": "private-reference:35dfd5d00a5f4dd2ab6f2f6d0093ca4be530c7e2d60b27c676e841f9b98df26e",
     "locator": "/citations/v7_south_ossetia_1991_1992_icg_2010",
     "scope": "public_authored_case",
     "event_id": "prospective-south-ossetia-conflict-displacement-1991-1992",
@@ -86212,7 +86212,7 @@
   {
     "occurrence_id": "occ:be57150e6b90a0fcf57f",
     "work_id": "access:1e41c17ffb5760b97c86",
-    "input": "maintenance/balanced_authoring_51_sources_20260928/operation_osen_1951/CASE_PAYLOAD.json",
+    "input": "private-reference:64adf00083ced681bb475e2bab87666ebfb58388777540199cab30f5c40ac036",
     "locator": "/citations/v7_lithuania_osen_genocid_exhibit_1951",
     "scope": "public_authored_case",
     "event_id": "prospective-lithuania-operation-osen-1951",
@@ -86226,7 +86226,7 @@
   {
     "occurrence_id": "occ:d5117c4c59e8b33edc3a",
     "work_id": "access:13dc37673c8125b691ea",
-    "input": "maintenance/balanced_authoring_51_sources_20260928/operation_osen_1951/CASE_PAYLOAD.json",
+    "input": "private-reference:64adf00083ced681bb475e2bab87666ebfb58388777540199cab30f5c40ac036",
     "locator": "/citations/v7_lithuania_osen_commission_conclusions",
     "scope": "public_authored_case",
     "event_id": "prospective-lithuania-operation-osen-1951",
@@ -86240,7 +86240,7 @@
   {
     "occurrence_id": "occ:83f021447743224a4570",
     "work_id": "access:6f859611b56fefdb08e0",
-    "input": "maintenance/balanced_authoring_51_sources_20260928/m23_north_kivu_2022_2024/CASE_PAYLOAD.json",
+    "input": "private-reference:0d3bae194bea6864cdda3abbb9e29ea7bb37ca4a81d341eee91320f2b949e2f7",
     "locator": "/citations/v7_m23_north_kivu_un_s_2024_251",
     "scope": "public_authored_case",
     "event_id": "prospective-m23-north-kivu-conflict-displacement-from-march-2022",
@@ -86254,7 +86254,7 @@
   {
     "occurrence_id": "occ:a001b34cfb6d9a353418",
     "work_id": "access:41666b21db6281fb39fe",
-    "input": "maintenance/balanced_authoring_51_sources_20260928/m23_north_kivu_2022_2024/CASE_PAYLOAD.json",
+    "input": "private-reference:0d3bae194bea6864cdda3abbb9e29ea7bb37ca4a81d341eee91320f2b949e2f7",
     "locator": "/citations/v7_m23_north_kivu_unhcr_2023",
     "scope": "public_authored_case",
     "event_id": "prospective-m23-north-kivu-conflict-displacement-from-march-2022",
@@ -86268,7 +86268,7 @@
   {
     "occurrence_id": "occ:566dd32a5eab955bd797",
     "work_id": "access:832883de939a9654be2d",
-    "input": "maintenance/balanced_authoring_52_adjudication_20260928/bosnia_bosnian_serb_common_plan_1991_1995_CASE_PAYLOAD.json",
+    "input": "private-reference:21bcaf65f8b7d5e24f0c874730a64b54b2d759caf84eca9c037e691e399f596d",
     "locator": "/citations/v7_bosnia_bosnian_serb_common_plan_icty_2016",
     "scope": "public_authored_case",
     "event_id": "prospective-bosnia-bosnian-serb-common-plan-1991-1995",
@@ -86282,7 +86282,7 @@
   {
     "occurrence_id": "occ:10690300d42af1373ea5",
     "work_id": "access:e0a7addfe8c4d11aefb0",
-    "input": "maintenance/balanced_authoring_52_sources_20260928/christmas_island_phosphate_colonial_bound_labor/BIBLIOGRAPHY_USE.json",
+    "input": "private-reference:71d2d1ec3ee2dea1a0931cb03a4318e4d2e17eb96fd54714732138762abf8459",
     "locator": "/proposed_use",
     "scope": "public_authored_case",
     "event_id": "prospective-christmas-island-phosphate-colonial-bound-labor",
@@ -86296,7 +86296,7 @@
   {
     "occurrence_id": "occ:5559be620708fbf2cf2a",
     "work_id": "access:1013e90fb46f7fa14152",
-    "input": "maintenance/balanced_authoring_53_adjudication_20260929/algeria_harki_reprisal_flight_resettlement_1961_1965_CASE_PAYLOAD.json",
+    "input": "private-reference:5aed46fb9632a364a4124b485e05ec58cab12f92f37617010077526160ba3196",
     "locator": "/citations/v7_algeria_harki_mnhi_hautreux_1962_2013",
     "scope": "public_authored_case",
     "event_id": "prospective-algeria-harki-reprisal-flight-resettlement-1961-1965",
@@ -86310,7 +86310,7 @@
   {
     "occurrence_id": "occ:54379542bef8453c0845",
     "work_id": "access:8bbd4141a8d948d104cb",
-    "input": "maintenance/balanced_authoring_53_sources_20260929/renewed_lurd_model_war_displacement/BIBLIOGRAPHY_USE.json",
+    "input": "private-reference:8734296e6c830e6da563b92c4e50eb50c31d10f1370f80f14c72405e97c89106",
     "locator": "/proposed_uses/0",
     "scope": "public_authored_case",
     "event_id": "prospective-renewed-lurd-model-war-displacement",
@@ -86324,7 +86324,7 @@
   {
     "occurrence_id": "occ:52132f7d808acfecda8a",
     "work_id": "access:3f3d879b414efc69b3ec",
-    "input": "maintenance/balanced_authoring_53_sources_20260929/renewed_lurd_model_war_displacement/BIBLIOGRAPHY_USE.json",
+    "input": "private-reference:8734296e6c830e6da563b92c4e50eb50c31d10f1370f80f14c72405e97c89106",
     "locator": "/proposed_uses/1",
     "scope": "public_authored_case",
     "event_id": "prospective-renewed-lurd-model-war-displacement",
@@ -86338,7 +86338,7 @@
   {
     "occurrence_id": "occ:8163804634cbc5078034",
     "work_id": "access:acc902a02ef0e5c44c3a",
-    "input": "maintenance/balanced_authoring_54_adjudication_20260929_r1/indochina_cambodia_khmer_rouge_evacuation_CASE_PAYLOAD.json",
+    "input": "private-reference:b6d377e943d283e8864b6e562830a7391cfd739df029fa63051a5f9089c4269c",
     "locator": "/citations/v7_cambodia_khmer_rouge_evacuation_unhcr_2000",
     "scope": "public_authored_case",
     "event_id": "prospective-indochina-cambodia-khmer-rouge-evacuation",
@@ -86352,7 +86352,7 @@
   {
     "occurrence_id": "occ:7e61c20b935f113c0911",
     "work_id": "access:6f859611b56fefdb08e0",
-    "input": "maintenance/balanced_authoring_54_sources_20260929/ruzizi_plain_intercommunity_displacement_december_2023_march_2024/BIBLIOGRAPHY_USE.json",
+    "input": "private-reference:43d0541470ad1313431daf5015fb499d50635edca08c66b0bb225f4d8d332de1",
     "locator": "/proposed_use",
     "scope": "public_authored_case",
     "event_id": "prospective-ruzizi-plain-intercommunity-displacement-december-2023-march-2024",
@@ -86366,7 +86366,7 @@
   {
     "occurrence_id": "occ:58921918b6e2ab1045f5",
     "work_id": "access:cf97adddab223620f47f",
-    "input": "maintenance/balanced_authoring_55_adjudication_20260929/nk_lachin_azerbaijani_displacement_1992_CASE_PAYLOAD.json",
+    "input": "private-reference:cbb36852083aafbb5c96f0a6018136b7bd8342633ed638e48671dc4aeb93ef7f",
     "locator": "/citations/v7_lachin_chiragov_2015",
     "scope": "public_authored_case",
     "event_id": "prospective-nk-lachin-azerbaijani-displacement-1992",
@@ -86380,7 +86380,7 @@
   {
     "occurrence_id": "occ:499cb5c2201e4c6bbc1f",
     "work_id": "access:6b2d0f832e3ef0883b3d",
-    "input": "maintenance/balanced_authoring_55_sources_20260929/myanmar_karenni_war_displacement/BIBLIOGRAPHY_USE.json",
+    "input": "private-reference:a93dc5eee190936295a2c02cbf171e620d155f093649b45383f7551f30a491ab",
     "locator": "/proposed_uses/0",
     "scope": "public_authored_case",
     "event_id": "modern-myanmar-karenni-war-displacement",
@@ -86394,7 +86394,7 @@
   {
     "occurrence_id": "occ:25dd71b288b4486a8497",
     "work_id": "access:8840015091528104460a",
-    "input": "maintenance/balanced_authoring_55_sources_20260929/myanmar_karenni_war_displacement/BIBLIOGRAPHY_USE.json",
+    "input": "private-reference:a93dc5eee190936295a2c02cbf171e620d155f093649b45383f7551f30a491ab",
     "locator": "/proposed_uses/1",
     "scope": "public_authored_case",
     "event_id": "modern-myanmar-karenni-war-displacement",
@@ -86408,7 +86408,7 @@
   {
     "occurrence_id": "occ:733b00ef33473ab58e3b",
     "work_id": "access:924fdbd44d2840f80551",
-    "input": "maintenance/balanced_authoring_56_sources_20260929/myanmar_northern_shan_three_brotherhood_offensive_r1/BIBLIOGRAPHY_USE.json",
+    "input": "private-reference:235777fae840c28a97c897272d259f6aaa41fe736d69049e1abee9568751a83c",
     "locator": "/proposed_uses/0",
     "scope": "public_authored_case",
     "event_id": "modern-myanmar-northern-shan-three-brotherhood-offensive-displacement-from-2023",
@@ -86422,7 +86422,7 @@
   {
     "occurrence_id": "occ:de6b3db2305c9f06384e",
     "work_id": "access:8840015091528104460a",
-    "input": "maintenance/balanced_authoring_56_sources_20260929/myanmar_northern_shan_three_brotherhood_offensive_r1/BIBLIOGRAPHY_USE.json",
+    "input": "private-reference:235777fae840c28a97c897272d259f6aaa41fe736d69049e1abee9568751a83c",
     "locator": "/proposed_uses/1",
     "scope": "public_authored_case",
     "event_id": "modern-myanmar-northern-shan-three-brotherhood-offensive-displacement-from-2023",
@@ -86436,7 +86436,7 @@
   {
     "occurrence_id": "occ:6db8e847b1ec0d0943e0",
     "work_id": "title:world bank technical assessment of three gorges resettlement",
-    "input": "maintenance/balanced_authoring_56_adjudication_20260929_r1/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:3d483dff91d87131cd3a383554f65f768945f8177461c632f1a4e22d19e5e779",
     "locator": "/proposals/2/occurrence",
     "scope": "public_authored_case",
     "event_id": "modern-three-gorges-resettlement",
@@ -86450,7 +86450,7 @@
   {
     "occurrence_id": "occ:927641baafe41ff06fe6",
     "work_id": "title:operation vistula causes perpetrators resonance and consequences",
-    "input": "maintenance/balanced_authoring_57_adjudication_20260929_r1/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:af01783d86cea4580976f095729aa2b099091b34e4fd78187d64313b9508f1ae",
     "locator": "/proposals/0/occurrence",
     "scope": "public_authored_case",
     "event_id": "eu-operation-vistula",
@@ -86463,7 +86463,7 @@
   {
     "occurrence_id": "occ:392b48e3fcbbe8dfd814",
     "work_id": "title:unhcr the rwandan genocide and its aftermath",
-    "input": "maintenance/balanced_authoring_57_adjudication_20260929_r2/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:4d624fdf7966b44ea4bcd6f048e1130cdb32ab790fee438433849d3af64d6a6e",
     "locator": "/proposals/1/occurrence",
     "scope": "public_authored_case",
     "event_id": "af-rwanda-genocide-exodus-return",
@@ -86476,7 +86476,7 @@
   {
     "occurrence_id": "occ:ad99de9cb83ce3b213b7",
     "work_id": "title:unhcr state of the world s refugees decolonization in south asia",
-    "input": "maintenance/balanced_authoring_58_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:4f9c0754ed23136a9c0abb31af19f324bfc645f5274674f2b887daffdc38b3a8",
     "locator": "/proposals/0/occurrence",
     "scope": "public_authored_case",
     "event_id": "asia-partition-india-pakistan-1947",
@@ -86489,7 +86489,7 @@
   {
     "occurrence_id": "occ:32d03473f4199a5b65f7",
     "work_id": "title:unhcr burundi recurring crises and large scale displacement",
-    "input": "maintenance/balanced_authoring_58_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:4f9c0754ed23136a9c0abb31af19f324bfc645f5274674f2b887daffdc38b3a8",
     "locator": "/proposals/1/occurrence",
     "scope": "public_authored_case",
     "event_id": "modern-burundi-civil-war-displacement",
@@ -86502,7 +86502,7 @@
   {
     "occurrence_id": "occ:31c80937a78cb95cfbac",
     "work_id": "title:united states holocaust memorial museum the armenian genocide 191516 overview",
-    "input": "maintenance/balanced_authoring_59_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:0dd8e58e86f9ed297c105b80fc5e874716074685d5c78c52254030aef9fa9c93",
     "locator": "/proposals/0/occurrence",
     "scope": "public_authored_case",
     "event_id": "eu-armenian-genocide-deportation",
@@ -86515,7 +86515,7 @@
   {
     "occurrence_id": "occ:245a7e34114e080c5741",
     "work_id": "title:solomon islands truth and reconciliation commission summary report",
-    "input": "maintenance/balanced_authoring_59_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:0dd8e58e86f9ed297c105b80fc5e874716074685d5c78c52254030aef9fa9c93",
     "locator": "/proposals/1/occurrence",
     "scope": "public_authored_case",
     "event_id": "modern-solomon-islands-tensions-displacement",
@@ -86528,7 +86528,7 @@
   {
     "occurrence_id": "occ:7b5847f730eabcc51cb7",
     "work_id": "title:united states holocaust memorial museum genocide of european roma 19391945",
-    "input": "maintenance/balanced_authoring_60_adjudication_20260929_r2/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:2fcd4432d06eea3dfc945ecf26f9f62c0fd3bd12291f468a4deaf145557732ad",
     "locator": "/proposals/0/occurrence",
     "scope": "public_authored_case",
     "event_id": "eu-romani-genocide",
@@ -86541,7 +86541,7 @@
   {
     "occurrence_id": "occ:9310d064ac5a2d55f068",
     "work_id": "title:unhcr nicaraguan displacement after the 2018 crisis",
-    "input": "maintenance/balanced_authoring_60_adjudication_20260929_r2/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:2fcd4432d06eea3dfc945ecf26f9f62c0fd3bd12291f468a4deaf145557732ad",
     "locator": "/proposals/1/occurrence",
     "scope": "public_authored_case",
     "event_id": "modern-nicaragua-2018-repression-exile",
@@ -86554,7 +86554,7 @@
   {
     "occurrence_id": "occ:312fda74c1e1d78f39f5",
     "work_id": "title:ohchr bougainville conflict evictions and displacement",
-    "input": "maintenance/balanced_authoring_61_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:2573be1bd4156e925b7bc02d41cb61bfb7ab0aabc9181d5665d4a59291fc3e4a",
     "locator": "/proposals/0/occurrence",
     "scope": "public_authored_case",
     "event_id": "modern-bougainville-conflict-displacement",
@@ -86567,7 +86567,7 @@
   {
     "occurrence_id": "occ:add8ae41602077e2ccd2",
     "work_id": "access:5972eaaf7939248cea70",
-    "input": "maintenance/balanced_authoring_61_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:2573be1bd4156e925b7bc02d41cb61bfb7ab0aabc9181d5665d4a59291fc3e4a",
     "locator": "/proposals/1/occurrence",
     "scope": "public_authored_case",
     "event_id": "prospective-baltic-operation-sever-april-1951",
@@ -86580,7 +86580,7 @@
   {
     "occurrence_id": "occ:ee526f6384efbfb19b55",
     "work_id": "access:3cc140e309bba0149784",
-    "input": "maintenance/balanced_authoring_61_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:2573be1bd4156e925b7bc02d41cb61bfb7ab0aabc9181d5665d4a59291fc3e4a",
     "locator": "/proposals/2/occurrence",
     "scope": "public_authored_case",
     "event_id": "prospective-baltic-operation-sever-april-1951",
@@ -86593,7 +86593,7 @@
   {
     "occurrence_id": "occ:8a692fa5bd1d7e4a2ad4",
     "work_id": "access:9b205c4361d4927a2081",
-    "input": "maintenance/balanced_authoring_61_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:2573be1bd4156e925b7bc02d41cb61bfb7ab0aabc9181d5665d4a59291fc3e4a",
     "locator": "/proposals/3/occurrence",
     "scope": "public_authored_case",
     "event_id": "prospective-baltic-operation-sever-april-1951",
@@ -86606,7 +86606,7 @@
   {
     "occurrence_id": "occ:439582cf22f374dda096",
     "work_id": "access:a88eed41b775cced4f9c",
-    "input": "maintenance/balanced_authoring_61_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:2573be1bd4156e925b7bc02d41cb61bfb7ab0aabc9181d5665d4a59291fc3e4a",
     "locator": "/proposals/4/occurrence",
     "scope": "public_authored_case",
     "event_id": "prospective-baltic-operation-sever-april-1951",
@@ -86619,7 +86619,7 @@
   {
     "occurrence_id": "occ:ee25d496897ef89f7ba7",
     "work_id": "title:the crisis of public policies in cote d ivoire land law and the nationality trap",
-    "input": "maintenance/balanced_authoring_62_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:5d9a114aa9423243890471fcd4d26abd61f5f40ada0a3afe5184a2be759a53b9",
     "locator": "/uses/0",
     "scope": "public_authored_case",
     "event_id": "af-cote-ivoire-migrant-land-expulsions",
@@ -86646,7 +86646,7 @@
   {
     "occurrence_id": "occ:240fe17ec0c569ee72bf",
     "work_id": "title:national museum of history of moldova victims of soviet deportations",
-    "input": "maintenance/balanced_authoring_63_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:e2f07283c2f2cec5ab08364e840e8b208357503a5c77ec33783fb5c4692dd243",
     "locator": "/uses/0",
     "scope": "public_authored_case",
     "event_id": "modern-moldova-soviet-deportations",
@@ -86659,7 +86659,7 @@
   {
     "occurrence_id": "occ:901a4f01403b431aeb57",
     "work_id": "title:reconcentration and the camp system the legacy of the philippine american war",
-    "input": "maintenance/balanced_authoring_63_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:e2f07283c2f2cec5ab08364e840e8b208357503a5c77ec33783fb5c4692dd243",
     "locator": "/uses/0",
     "scope": "public_authored_case",
     "event_id": "modern-philippine-american-reconcentration",
@@ -86672,7 +86672,7 @@
   {
     "occurrence_id": "occ:94c4724253d104011e7c",
     "work_id": "title:guchinova deportation of the kalmyks 19431956 stigmatized ethnicity slavic research center hokkaido",
-    "input": "maintenance/balanced_authoring_64_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:6a7dbbda88e8570d255ec22cd59e93a696dbc50cc6edbb4ba6737b9e265dbb6f",
     "locator": "/uses/0",
     "scope": "public_authored_case",
     "event_id": "ca-soviet-kalmyk-deportation",
@@ -86685,7 +86685,7 @@
   {
     "occurrence_id": "occ:5c49b7aedb607c69384c",
     "work_id": "title:human rights watch hostages to peace threats and the 1988 isaaq clearance",
-    "input": "maintenance/balanced_authoring_64_adjudication_20260929/CITATION_USE_PROPOSALS.json",
+    "input": "private-reference:6a7dbbda88e8570d255ec22cd59e93a696dbc50cc6edbb4ba6737b9e265dbb6f",
     "locator": "/uses/0",
     "scope": "public_authored_case",
     "event_id": "modern-isaaq-clearance-northern-somalia",
@@ -86698,7 +86698,7 @@
   {
     "occurrence_id": "occ:111f756580c1a1d9fe4a",
     "work_id": "title:cameroon equatorial guinea and the management of equatoguinean refugees 19601979",
-    "input": "maintenance/balanced_authoring_65_implementation_20261003/equatorial_guinea/CASE_PAYLOAD.json",
+    "input": "private-reference:9dd599cc0848fd8d35791f1aa27691853226d65b01e5a3f46b1855415dce88e8",
     "locator": "/citations/v7_equatorial_guinea_macias_exile_tsafack_2017",
     "scope": "public_authored_case",
     "event_id": "modern-equatorial-guinea-macias-exile",
@@ -86711,7 +86711,7 @@
   {
     "occurrence_id": "occ:2f27e1ae1a29a776ba86",
     "work_id": "title:witness to truth report of the sierra leone truth and reconciliation commission volume three a",
-    "input": "maintenance/balanced_authoring_66_sierra_leone_20261003/CASE_PAYLOAD.json",
+    "input": "private-reference:f6d56521d5e803db80b07d0c0662c018369e27631c5b3f27487f6b2b40243f13",
     "locator": "/citations/v7_sierra_leone_trc_volume3a_2004",
     "scope": "public_authored_case",
     "event_id": "modern-sierra-leone-civil-war-displacement",
@@ -86724,7 +86724,7 @@
   {
     "occurrence_id": "occ:6ba24a4af148a8dd904c",
     "work_id": "title:witness to truth volume three b chapter four children and the armed conflict in sierra leone",
-    "input": "maintenance/balanced_authoring_66_sierra_leone_20261003/CASE_PAYLOAD.json",
+    "input": "private-reference:f6d56521d5e803db80b07d0c0662c018369e27631c5b3f27487f6b2b40243f13",
     "locator": "/citations/v7_sierra_leone_trc_volume3b_children_2004",
     "scope": "public_authored_case",
     "event_id": "modern-sierra-leone-civil-war-displacement",
@@ -86737,7 +86737,7 @@
   {
     "occurrence_id": "occ:7448732d51e679cb4c43",
     "work_id": "title:statistical appendix to the report of the truth and reconciliation commission of sierra leone",
-    "input": "maintenance/balanced_authoring_66_sierra_leone_20261003/CASE_PAYLOAD.json",
+    "input": "private-reference:f6d56521d5e803db80b07d0c0662c018369e27631c5b3f27487f6b2b40243f13",
     "locator": "/citations/v7_sierra_leone_trc_statistical_appendix_2004",
     "scope": "public_authored_case",
     "event_id": "modern-sierra-leone-civil-war-displacement",
@@ -86750,7 +86750,7 @@
   {
     "occurrence_id": "occ:cc0c14baa39388ee78c4",
     "work_id": "access:21ae3ffc7a386a4b5760",
-    "input": "maintenance/balanced_authoring_67_adf_authoring_20261004/CASE_PAYLOAD.json",
+    "input": "private-reference:9b33b6cdb071a56878cc8ab32275479a9bafea78357a1eaf403a9ec4c6f1c139",
     "locator": "/citations/v7_adf_beni_ituri_jan_mar_2021_unhcr",
     "scope": "public_authored_case",
     "event_id": "prospective-adf-attack-displacement-beni-and-nearby-ituri-january-march-2021",
@@ -86764,7 +86764,7 @@
   {
     "occurrence_id": "occ:12ab2c964766f0b3508f",
     "work_id": "title:property confiscation in the zanzibar revolution",
-    "input": "maintenance/balanced_authoring_68_zanzibar_property_implementation_proposal_20261004/CASE_PAYLOAD.json",
+    "input": "private-reference:deaabfe3274c53b36766de08d82abe33e0d7017e2dfcc94fe124ecf864e27343",
     "locator": "/citations/v7_joireman_verne_2025_zanzibar_property_confiscation",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "zanzibar-unit-1964-1987-property-confiscation-redistribution",
@@ -86778,7 +86778,7 @@
   {
     "occurrence_id": "occ:b9e082a39f54b684ed87",
     "work_id": "title:unhcr libya displacement of tawergha residents",
-    "input": "maintenance/balanced_authoring_73_tawergha_local_application_20261004/CASE_PAYLOAD.json",
+    "input": "private-reference:d078006269b03213fa86e968d150bdc90ad4273194a9004ce2f6deefd09210ad",
     "locator": "/citations/v7_tawergha_unhcr_2017",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "modern-libya-tawergha-expulsion",
@@ -86792,7 +86792,7 @@
   {
     "occurrence_id": "occ:649dd9ccc37a2e7da6e1",
     "work_id": "access:b620e6d1ffd5bafb908c",
-    "input": "maintenance/balanced_authoring_73_tawergha_local_application_20261004/CASE_PAYLOAD.json",
+    "input": "private-reference:d078006269b03213fa86e968d150bdc90ad4273194a9004ce2f6deefd09210ad",
     "locator": "/citations/v7_tawergha_ohchr_2016",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "modern-libya-tawergha-expulsion",
@@ -86806,7 +86806,7 @@
   {
     "occurrence_id": "occ:7e011950cbeda1d90229",
     "work_id": "access:794daeddd0c916874c42",
-    "input": "maintenance/balanced_authoring_73_tawergha_local_application_20261004/CASE_PAYLOAD.json",
+    "input": "private-reference:d078006269b03213fa86e968d150bdc90ad4273194a9004ce2f6deefd09210ad",
     "locator": "/citations/v7_tawergha_iom_2023",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "modern-libya-tawergha-expulsion",
@@ -86820,7 +86820,7 @@
   {
     "occurrence_id": "occ:d4676ba560816cfbd778",
     "work_id": "access:422355bb995dce938fd3",
-    "input": "maintenance/balanced_authoring_73_tawergha_local_application_20261004/CASE_PAYLOAD.json",
+    "input": "private-reference:d078006269b03213fa86e968d150bdc90ad4273194a9004ce2f6deefd09210ad",
     "locator": "/citations/v7_tawergha_unwomen_2025",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "modern-libya-tawergha-expulsion",
@@ -86834,7 +86834,7 @@
   {
     "occurrence_id": "occ:34a4551199ba3bb95055",
     "work_id": "access:f591e66dfe8ed2f111fb",
-    "input": "maintenance/balanced_authoring_73_tawergha_local_application_20261004/CASE_PAYLOAD.json",
+    "input": "private-reference:d078006269b03213fa86e968d150bdc90ad4273194a9004ce2f6deefd09210ad",
     "locator": "/citations/v7_tawergha_un_profile_2025",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "modern-libya-tawergha-expulsion",
@@ -86848,7 +86848,7 @@
   {
     "occurrence_id": "occ:d9bd81d73b0125c15ff1",
     "work_id": "access:3c2c0b464c78a0ac6a6c",
-    "input": "maintenance/balanced_authoring_73_tawergha_local_application_20261004/CASE_PAYLOAD.json",
+    "input": "private-reference:d078006269b03213fa86e968d150bdc90ad4273194a9004ce2f6deefd09210ad",
     "locator": "/citations/v7_tawergha_un_results_2025",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "modern-libya-tawergha-expulsion",
@@ -86862,7 +86862,7 @@
   {
     "occurrence_id": "occ:eeb62e27e76e391e76a2",
     "work_id": "access:3a47197a286e0cbfce36",
-    "input": "maintenance/balanced_authoring_74_congo_local_application_20261005/CASE_PAYLOAD.json",
+    "input": "private-reference:319e8a6c93eb027c54878bd8cd696218f781d966452b1840e56ac534fa80d40c",
     "locator": "/citations/v7_congo_ohchr_mapping_fr_2010",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "modern-first-congo-war-refugee-camp-clearance",
@@ -86876,7 +86876,7 @@
   {
     "occurrence_id": "occ:fe4bf2db97de8cc3ac5f",
     "work_id": "access:6a2a1ac6093e9aa5bf4d",
-    "input": "maintenance/incoming_flight_moriori_application_20261005/NOTE_APPLICATION.json",
+    "input": "private-reference:f433930f2fe84b43ca280a18f6d2b4b2d40127e78a436f374e88dd836d603694",
     "locator": "/note/sources/0",
     "scope": "public_authored_case_if_installed",
     "event_id": "modern-moriori-invasion-enslavement-land-seizure",
@@ -86890,7 +86890,7 @@
   {
     "occurrence_id": "occ:0a5449d4ce137a373a75",
     "work_id": "title:living in flight civilian displacement during the korean war",
-    "input": "maintenance/balanced_authoring_65_korean_local_application_20261005/CASE_PAYLOAD.json",
+    "input": "private-reference:3eb0d6a428e83503fc90882da4613045d2e02f818e8417679c5ef6e7b2519006",
     "locator": "/citations/modern_korean_war_displacement",
     "scope": "public_authored_case_if_later_admitted",
     "event_id": "modern-korean-war-civilian-displacement",
@@ -86904,7 +86904,7 @@
   {
     "occurrence_id": "occ:9d64f30301198138b83a",
     "work_id": "title:john spurway ma afu prince of tonga chief of fiji the life and times of fiji s first tui lau anu press 2015",
-    "input": "maintenance/discovery_repair_20261003/candidate_preparations/maafu_lau_atlas_application_v1/CASE_PAYLOAD.json",
+    "input": "private-reference:4c94c2ec9593ebf0050c100a7f4ee5f633840113cd525b919d8c8976b53a103f",
     "locator": "/citations/lau_spurway_2015",
     "scope": "public_authored_case_if_installed",
     "event_id": "pacific-tongan-conquest-lau-fiji",
@@ -86915,7 +86915,7 @@
     "type_as_recorded": "peer-reviewed political history using missionary, consular, land-claim and oral-traditional records",
     "identity_match": "accepted_existing_Spurway_work_URL_reused",
     "source_evidence": {
-      "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/SOURCE_EVIDENCE.json",
+      "path": "private-reference:d2d877c46ce153abd0551e53a838f2f506ba0ac80bf1620cb59f5218f3d83c1a",
       "sha256": "5c1433b937457c9eb00e203bf7e7377c1972515110f4ddd8e70d91643212f135",
       "bytes": 10041,
       "json_pointer": "/sources/0"
@@ -86924,7 +86924,7 @@
   {
     "occurrence_id": "occ:f3e3ad640380cf088a81",
     "work_id": "doi:10.25911/5d763a75b81e6",
-    "input": "maintenance/discovery_repair_20261003/candidate_preparations/maafu_lau_atlas_application_v1/CASE_PAYLOAD.json",
+    "input": "private-reference:4c94c2ec9593ebf0050c100a7f4ee5f633840113cd525b919d8c8976b53a103f",
     "locator": "/citations/lau_france_1966",
     "scope": "public_authored_case_if_installed",
     "event_id": "pacific-tongan-conquest-lau-fiji",
@@ -86935,7 +86935,7 @@
     "type_as_recorded": "doctoral land-policy history using Lands Claims Commission, missionary and other historical records",
     "identity_match": "accepted_source_identity_bounded_review_inherited",
     "source_evidence": {
-      "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/SOURCE_EVIDENCE.json",
+      "path": "private-reference:d2d877c46ce153abd0551e53a838f2f506ba0ac80bf1620cb59f5218f3d83c1a",
       "sha256": "5c1433b937457c9eb00e203bf7e7377c1972515110f4ddd8e70d91643212f135",
       "bytes": 10041,
       "json_pointer": "/sources/1"
@@ -86944,7 +86944,7 @@
   {
     "occurrence_id": "occ:39e37105d7bf76f3a587",
     "work_id": "doi:10.3138/anth.2018-0017.r3",
-    "input": "maintenance/discovery_repair_20261003/candidate_preparations/maafu_lau_atlas_application_v1/CASE_PAYLOAD.json",
+    "input": "private-reference:4c94c2ec9593ebf0050c100a7f4ee5f633840113cd525b919d8c8976b53a103f",
     "locator": "/citations/lau_pauwels_2019",
     "scope": "public_authored_case_if_installed",
     "event_id": "pacific-tongan-conquest-lau-fiji",
@@ -86955,7 +86955,7 @@
     "type_as_recorded": "historical anthropology combining fieldwork, Lauan title and land records, oral memory and historical scholarship",
     "identity_match": "accepted_source_identity_bounded_review_inherited",
     "source_evidence": {
-      "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/SOURCE_EVIDENCE.json",
+      "path": "private-reference:d2d877c46ce153abd0551e53a838f2f506ba0ac80bf1620cb59f5218f3d83c1a",
       "sha256": "5c1433b937457c9eb00e203bf7e7377c1972515110f4ddd8e70d91643212f135",
       "bytes": 10041,
       "json_pointer": "/sources/2"
@@ -86964,7 +86964,7 @@
   {
     "occurrence_id": "occ:d69b0508b30d8b6ca9ec",
     "work_id": "access:bdf0d1850e0964edb9b9",
-    "input": "maintenance/discovery_repair_20261003/candidate_preparations/maafu_lau_atlas_application_v1/CASE_PAYLOAD.json",
+    "input": "private-reference:4c94c2ec9593ebf0050c100a7f4ee5f633840113cd525b919d8c8976b53a103f",
     "locator": "/citations/lau_british_commissioners_1874",
     "scope": "public_authored_case_if_installed",
     "event_id": "pacific-tongan-conquest-lau-fiji",
@@ -86975,7 +86975,7 @@
     "type_as_recorded": "contemporary official primary assessment",
     "identity_match": "accepted_source_identity_bounded_review_inherited",
     "source_evidence": {
-      "path": "maintenance/discovery_repair_20261003/source_briefs/maafu_lau_v1_repair_v1/SOURCE_EVIDENCE.json",
+      "path": "private-reference:d2d877c46ce153abd0551e53a838f2f506ba0ac80bf1620cb59f5218f3d83c1a",
       "sha256": "5c1433b937457c9eb00e203bf7e7377c1972515110f4ddd8e70d91643212f135",
       "bytes": 10041,
       "json_pointer": "/sources/3"
@@ -86984,7 +86984,7 @@
   {
     "occurrence_id": "occ:86303e2421244a93344f",
     "work_id": "access:d82099c67e4dd7529fdb",
-    "input": "maintenance/balanced_authoring_76_almoravid_authoring_proposal_20261006_r1/CASE_PAYLOAD_PROPOSAL.json",
+    "input": "private-reference:b3d57024e2413a180508b5c0e154495648120690505e6e5ba6898090a700652d",
     "locator": "/citations/alm_garcia_sanjuan_2004",
     "scope": "public_authored_case_if_installed",
     "event_id": "medieval-almoravid-mozarab-deportation-1126",
@@ -86998,7 +86998,7 @@
   {
     "occurrence_id": "occ:7b4ed7e964bfd160a8f5",
     "work_id": "doi:10.1080/23311983.2017.1334374",
-    "input": "maintenance/balanced_authoring_76_almoravid_authoring_proposal_20261006_r1/CASE_PAYLOAD_PROPOSAL.json",
+    "input": "private-reference:b3d57024e2413a180508b5c0e154495648120690505e6e5ba6898090a700652d",
     "locator": "/citations/alm_ladjal_2017",
     "scope": "public_authored_case_if_installed",
     "event_id": "medieval-almoravid-mozarab-deportation-1126",
@@ -87012,7 +87012,7 @@
   {
     "occurrence_id": "occ:acd2d9efb1aff9d5c6c5",
     "work_id": "title:delfina serrano dos fetuas sobre la expulsion de mozarabes al magreb en 1126 anaquel de estudios arabes 2 1991 163 182",
-    "input": "maintenance/balanced_authoring_76_almoravid_authoring_proposal_20261006_r1/CASE_PAYLOAD_PROPOSAL.json",
+    "input": "private-reference:b3d57024e2413a180508b5c0e154495648120690505e6e5ba6898090a700652d",
     "locator": "/citations/alm_serrano_1991",
     "scope": "public_authored_case_if_installed",
     "event_id": "medieval-almoravid-mozarab-deportation-1126",
@@ -87026,7 +87026,7 @@
   {
     "occurrence_id": "occ:43617d1d9a29b2214e54",
     "work_id": "doi:10.4000/monderusse.8681",
-    "input": "maintenance/kazakh_isolated_application_20261006/CASE_PAYLOAD.json",
+    "input": "private-reference:ebd4e800388a7331858991d1cd4f3080fa7977eec04b2458d4095f3cff341ebc",
     "locator": "/citations/v7_kazakh_pianciola2004",
     "scope": "public_authored_case_if_installed",
     "event_id": "modern-kazakh-famine-sedentarization",
@@ -87040,7 +87040,7 @@
   {
     "occurrence_id": "occ:fbf1a8246c95b3869ebe",
     "work_id": "title:ukraine and kazakhstan comparing the famines",
-    "input": "maintenance/kazakh_isolated_application_20261006/CASE_PAYLOAD.json",
+    "input": "private-reference:ebd4e800388a7331858991d1cd4f3080fa7977eec04b2458d4095f3cff341ebc",
     "locator": "/citations/modern_kazakh_famine",
     "scope": "public_authored_case_if_installed",
     "event_id": "modern-kazakh-famine-sedentarization",
@@ -87054,7 +87054,7 @@
   {
     "occurrence_id": "occ:f523462f7aefd1622c06",
     "work_id": "title:the mascarenes indian ocean africa and global labor migration",
-    "input": "maintenance/balanced_authoring_77_mascarene_isolated_application_20261006/CASE_PAYLOAD.json",
+    "input": "private-reference:b2bdc00b0817547854ee475a4990882fa9dc4f231e174d54f7bed455523affeb",
     "locator": "/citations/mascarene_allen2019_summary",
     "scope": "isolated_public_case_proposal_not_installed",
     "event_id": "af-mascarene-seychelles-forced-population-formation",
@@ -87068,7 +87068,7 @@
   {
     "occurrence_id": "occ:4488532aff7aae992fed",
     "work_id": "title:colonial medical science and indentured labor in mauritius",
-    "input": "maintenance/balanced_authoring_77_mascarene_isolated_application_20261006/CASE_PAYLOAD.json",
+    "input": "private-reference:b2bdc00b0817547854ee475a4990882fa9dc4f231e174d54f7bed455523affeb",
     "locator": "/citations/mascarene_deerpaul2024",
     "scope": "isolated_public_case_proposal_not_installed",
     "event_id": "af-mascarene-seychelles-forced-population-formation",
@@ -87082,7 +87082,7 @@
   {
     "occurrence_id": "occ:bfdab69c94f5c8f1c81d",
     "work_id": "url:https://www.portail-esclavage-reunion.fr/documentaires/la-traite-des-esclaves/origine-des-esclaves-de-bourbon-2/traite-des-esclaves-malgaches-a-bourbon/",
-    "input": "maintenance/balanced_authoring_77_mascarene_isolated_application_20261006/CASE_PAYLOAD.json",
+    "input": "private-reference:b2bdc00b0817547854ee475a4990882fa9dc4f231e174d54f7bed455523affeb",
     "locator": "/citations/mascarene_thiebaut_bourbon",
     "scope": "isolated_public_case_proposal_not_installed",
     "event_id": "af-mascarene-seychelles-forced-population-formation",
@@ -87096,7 +87096,7 @@
   {
     "occurrence_id": "occ:5df935f5199d4faf66ab",
     "work_id": "url:https://seychellesnationalmuseums.org/special-events/250-years-anniversary/",
-    "input": "maintenance/balanced_authoring_77_mascarene_isolated_application_20261006/CASE_PAYLOAD.json",
+    "input": "private-reference:b2bdc00b0817547854ee475a4990882fa9dc4f231e174d54f7bed455523affeb",
     "locator": "/citations/mascarene_mathiot_seychelles",
     "scope": "isolated_public_case_proposal_not_installed",
     "event_id": "af-mascarene-seychelles-forced-population-formation",
@@ -87110,7 +87110,7 @@
   {
     "occurrence_id": "occ:8ad3db4af5534c60bc58",
     "work_id": "url:https://geonames.nga.mil/geonames/GNSHome/services.html",
-    "input": "maintenance/balanced_authoring_77_mascarene_isolated_application_20261006/CASE_PAYLOAD.json",
+    "input": "private-reference:b2bdc00b0817547854ee475a4990882fa9dc4f231e174d54f7bed455523affeb",
     "locator": "/citations/mascarene_nga_place_proxies",
     "scope": "isolated_public_case_proposal_not_installed",
     "event_id": "af-mascarene-seychelles-forced-population-formation",
@@ -87124,7 +87124,7 @@
   {
     "occurrence_id": "occ:12404da394854289e0cc",
     "work_id": "url:https://www.toamasina-port.com/fr/spat/le-port-de-toamasina",
-    "input": "maintenance/balanced_authoring_77_mascarene_isolated_application_20261006/CASE_PAYLOAD.json",
+    "input": "private-reference:b2bdc00b0817547854ee475a4990882fa9dc4f231e174d54f7bed455523affeb",
     "locator": "/citations/mascarene_toamasina_port_reference",
     "scope": "isolated_public_case_proposal_not_installed",
     "event_id": "af-mascarene-seychelles-forced-population-formation",

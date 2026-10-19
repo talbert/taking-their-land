@@ -77,15 +77,15 @@
       "rights_notice": "LICENSE.md"
     },
     {
-  "category": "reference",
-  "public_path": "PUBLICATION_STATUS.json",
-  "source_path": "data/PUBLICATION_STATUS.json",
-  "bytes": 5025,
-  "sha256": "da562efc1195871894bd4c30808f944126e54bf5220a2e12d6b31442425e789d",
-  "media_type": "application/json",
-  "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
-  "rights_notice": "LICENSE.md"
-},
+      "category": "reference",
+      "public_path": "PUBLICATION_STATUS.json",
+      "source_path": "data/PUBLICATION_STATUS.json",
+      "bytes": 6566,
+      "sha256": "74ac15509b9440706d3c6bce9667b292ff742f82ccb9a219cdc0dd64dbea69f8",
+      "media_type": "application/json",
+      "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
+      "rights_notice": "LICENSE.md"
+    },
     {
       "category": "licensing",
       "public_path": "THIRD_PARTY_NOTICES.md",
@@ -209,7 +209,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/attalus_identity_followup_20260909/CALIBRATION.json",
-      "source_path": "maintenance/bibliography_attalus_20260909m/CALIBRATION.json",
+      "source_path": "private-reference:3a4180381b5455b75d424cf8d65716c9d15ec536debb184272ce53ca98bdacf9",
       "bytes": 27311,
       "sha256": "4676f2c787f892b1b9e8906d16bcac603fe5b6efa41ac6fe9f3593291e1be1e1",
       "media_type": "application/json",
@@ -249,7 +249,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/attalus_identity_followup_20260909/REVIEW_NOTES.md",
-      "source_path": "maintenance/bibliography_attalus_20260909m/REVIEW_NOTES.md",
+      "source_path": "private-reference:8da9c63483fd9fed8ea58cb3ff2fa5669aa06dff389fbce87a9107c00fd3c0bb",
       "bytes": 15709,
       "sha256": "ae1d93657f8acbd5a62ab02d2116c532f0f45058341c2cebfa85e2698f86f3b7",
       "media_type": "text/markdown",
@@ -299,7 +299,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/cambridge_identity_followup_20260909/ATLAS_CITATION_CORRECTIONS.json",
-      "source_path": "maintenance/bibliography_cambridge_20260909j/ATLAS_CITATION_CORRECTIONS.json",
+      "source_path": "private-reference:89f30f05c0638092925a58c29b5120f2a0aff6f5ebad5c997a8b3719cfae9b3a",
       "bytes": 2298,
       "sha256": "ab223d7efd702a0789a2475e7e7b1c079336d648076acf6e7998c3dbd6ef82ba",
       "media_type": "application/json",
@@ -359,7 +359,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/consolidated_reviews_20260912/CITATION_DISPOSITIONS.json",
-      "source_path": "maintenance/bibliography_consolidation_20260912/public_apparatus/CITATION_DISPOSITIONS.json",
+      "source_path": "private-reference:559ebc8fffd53f279de7428b8ca304da8d4047f5d843fbc0abb88bfb3b9c83ec",
       "bytes": 122024,
       "sha256": "dc49090f394f2100d375eb101726d325018e181788e60c7d088e653b49b47058",
       "media_type": "application/json",
@@ -369,7 +369,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/consolidated_reviews_20260912/FIELD_QUESTIONS.json",
-      "source_path": "maintenance/bibliography_consolidation_20260912/public_apparatus/FIELD_QUESTIONS.json",
+      "source_path": "private-reference:34e6beb61b64eacd9769fa27e0c553fed38462d678daa9e578d850592f75cd45",
       "bytes": 50135,
       "sha256": "e3d37c3e2bec16ba2b86193d983d5cd5ef285c78e6713aeff209c2daa57bb0bb",
       "media_type": "application/json",
@@ -379,7 +379,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/consolidated_reviews_20260912/RELATED_REPLACEMENT_IDENTITIES.json",
-      "source_path": "maintenance/bibliography_consolidation_20260912/public_apparatus/RELATED_REPLACEMENT_IDENTITIES.json",
+      "source_path": "private-reference:d81bff6a2422f6d868fb90dfea4ee44845624f4d1dde95987918685951a931f2",
       "bytes": 994,
       "sha256": "cc3c65234d4dabcc6a754830b539fa6ed38aa14a5bc3b40da3ca39703cc0e800",
       "media_type": "application/json",
@@ -389,7 +389,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/consolidated_reviews_20260912/REVIEW_REGISTER.json",
-      "source_path": "maintenance/bibliography_consolidation_20260912/public_apparatus/REVIEW_REGISTER.json",
+      "source_path": "private-reference:399c7725bd034c8ea5ec1469758bae5481bb9896c37547018cc9c0b0c2a16ae2",
       "bytes": 165337,
       "sha256": "3b74fc840521af2f434a17039417f821a12d16ec002c4ec851f258beda02bc20",
       "media_type": "application/json",
@@ -399,7 +399,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/consolidated_reviews_20260912/SOURCE_NOTES.json",
-      "source_path": "maintenance/bibliography_consolidation_20260912/public_apparatus/SOURCE_NOTES.json",
+      "source_path": "private-reference:70500a66426d4232000a261cd7300c952667c54dd48d5831bedd83d42e3e952e",
       "bytes": 236774,
       "sha256": "25000c519dd8e77c39b5caa40ae2529dcf1766e916f6ccc4e56a864ba1f0a907",
       "media_type": "application/json",
@@ -429,7 +429,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/current/INVENTORY_UPDATES.json",
-      "source_path": "maintenance/publication_20260913a/public_apparatus/INVENTORY_UPDATES.json",
+      "source_path": "private-reference:565ea90c6ae131e79c9399dd6993b3f051005dbfcb968a0d4980064be5ea6b32",
       "bytes": 2066,
       "sha256": "641638debc406f015054796a93aad76722bb62bd2dec4ba31c63df1eba9a0ebe",
       "media_type": "application/json",
@@ -529,7 +529,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/current/source_occurrence_locator_corrections.json",
-      "source_path": "maintenance/publication_20260913a/public_apparatus/source_occurrence_locator_corrections.json",
+      "source_path": "private-reference:6ca3da6b2bd6b4d7ef83fd41d1afb45cdfaee4d997ee06fb6aeebb5256fd1792",
       "bytes": 46796,
       "sha256": "ac12006e15e77a9f4b1513adc0ef16ad010294400fcb3e0b5ecfce791e53585a",
       "media_type": "application/json",
@@ -540,8 +540,8 @@
       "category": "bibliography",
       "public_path": "bibliography/current/source_occurrences.json",
       "source_path": "data/bibliography/current/source_occurrences.json",
-      "bytes": 4222426,
-      "sha256": "4af21cbfe376fc610ff89664307f2f811bd6931b4d3aa2b13e2258273e226fc6",
+      "bytes": 4221550,
+      "sha256": "3444af2021ae377349c45232c04e041f4c4077fa4525c2fd58e1a67142bcada8",
       "media_type": "application/json",
       "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
       "rights_notice": "LICENSE.md"
@@ -550,8 +550,8 @@
       "category": "bibliography",
       "public_path": "bibliography/current/typed_metadata.json",
       "source_path": "data/bibliography/current/typed_metadata.json",
-      "bytes": 4224912,
-      "sha256": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04",
+      "bytes": 4224982,
+      "sha256": "ebcb5a447694f485c30966935ba9bd95a86ea1fe1250015c1a58c608fb0c997b",
       "media_type": "application/json",
       "component_licenses": "CC-BY-4.0 (structured data); CC-BY-SA-4.0 (original narrative prose)",
       "rights_notice": "LICENSE.md"
@@ -839,7 +839,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909j/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_unhcr_20260909k/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:67abfd2e0f64dd17209f00fbe55bf327435515ee26ee8beef0154ba901c41b2a",
       "bytes": 3248,
       "sha256": "3676b9ff8efb492d805d3d871449cd25068c77775391ad000c6f749512be2924",
       "media_type": "application/json",
@@ -849,7 +849,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909j/README.md",
-      "source_path": "maintenance/bibliography_unhcr_20260909k/prior_current/README.md",
+      "source_path": "private-reference:c67a8a2ac5c7c20bb228ae852d303ae0314eaf8de16f1b3227b68447951cc000",
       "bytes": 12929,
       "sha256": "31b7470545b5f87d167fba31aaee2f6d5a4003f0600fbae4763ffd573b130a76",
       "media_type": "text/markdown",
@@ -869,7 +869,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909k/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_livius_20260909l/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:6fd9edfeec53060caafe2a2ef5b2a37bb77cb1260414a51ee782c3ec3d129d48",
       "bytes": 3658,
       "sha256": "578b9b28a8f0fa076b845988f21569cac2c436214b0c9601dc3d8d0bf0c3ed72",
       "media_type": "application/json",
@@ -879,7 +879,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909k/README.md",
-      "source_path": "maintenance/bibliography_livius_20260909l/prior_current/README.md",
+      "source_path": "private-reference:3bc91df9a656d497199b9e3a42b59acecf4458de15f932f4f69bf7f15ccced94",
       "bytes": 14965,
       "sha256": "f2dfb58cc3708471e544fb268ce4eb9e3c20203a656764294b1e8fb670168d2a",
       "media_type": "text/markdown",
@@ -899,7 +899,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909l/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_attalus_20260909m/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:e036fb5f98f6dc168d86cd0c98c6fca94655a676b5fc36edb8b50827be567f3e",
       "bytes": 3900,
       "sha256": "3613bfe5fd38f70ece1130b4de76bbe48974c1a44f30ea7e259fe63fc1dfbd00",
       "media_type": "application/json",
@@ -909,7 +909,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909l/README.md",
-      "source_path": "maintenance/bibliography_attalus_20260909m/prior_current/README.md",
+      "source_path": "private-reference:239e55bd7a68e3f65bc4edfc8985d9c80597e5c54e0db6b395a64c864843b463",
       "bytes": 16497,
       "sha256": "50b7561b1f29f913d1c84e5fd9af2e13ed39facbe82dde72919945c96ef74eb5",
       "media_type": "text/markdown",
@@ -929,7 +929,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909m/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_oxford_20260909n/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:cfb127aab857697f31788a74f242fff76e344e7689cf1cf7c34f5a317f0b5f90",
       "bytes": 4203,
       "sha256": "427fd0c131838b8a9cdce43009e622a7e489884b195c74ac71e278239211bd70",
       "media_type": "application/json",
@@ -939,7 +939,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909m/README.md",
-      "source_path": "maintenance/bibliography_oxford_20260909n/prior_current/README.md",
+      "source_path": "private-reference:c6e1e9ffd8287e06886229f01dda11f8e62d67f6718c9104e54aa7a3509e4e5c",
       "bytes": 18209,
       "sha256": "72df62c8db8776f25a8be9f6cecec8e5d326c5a72476d6e81b7b684cb39925c3",
       "media_type": "text/markdown",
@@ -959,7 +959,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909n/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_consolidation_20260912/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:8664822266c50c280b9078a3a193662306c4cff47b45e3bfcf81099fdb15d5d2",
       "bytes": 4405,
       "sha256": "2d7005537e5bf366d66d08916ee22cff71c2f5f99c4d5d9ca6170e8251c28e37",
       "media_type": "application/json",
@@ -969,7 +969,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260909n/README.md",
-      "source_path": "maintenance/bibliography_consolidation_20260912/prior_current/README.md",
+      "source_path": "private-reference:19528a11f369caf15984dee75e642c99fa0867929a3c9af716baa85124084bd4",
       "bytes": 20394,
       "sha256": "102d019cefcc3497558dfbace8393b9a66737f2a0028cf9f8979655a5963b70a",
       "media_type": "text/markdown",
@@ -989,7 +989,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260912a/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_institutional_books_20260912b/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:258d1c08fb8e2f87afd0c655d068249189e2d5ba9b5b4c890a9012079b0cec1b",
       "bytes": 4935,
       "sha256": "5d1a9cc694e8664beb450759ef3a8ab89030b194e603226dbaa007a38d55e8b5",
       "media_type": "application/json",
@@ -999,7 +999,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260912a/README.md",
-      "source_path": "maintenance/bibliography_institutional_books_20260912b/prior_current/README.md",
+      "source_path": "private-reference:e302c56fa36d8d58684ae10637f8746d150c1ae40a614e188b005dcd388071c2",
       "bytes": 3070,
       "sha256": "ee5c22a664fe54af47dcd3185ba5aaa25e0cc834ab288c0947d5e17808bfb91f",
       "media_type": "text/markdown",
@@ -1019,7 +1019,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260912b/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_ubc_brill_20260912c/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:9db8d57277e62edf6810c56a9ead700498a4dafdd4170979db3e4a97d1c8d40e",
       "bytes": 5040,
       "sha256": "b9a74d23eb59d3004328c9236615c4fe4ae100dffc56f8a552db1787985116e1",
       "media_type": "application/json",
@@ -1029,7 +1029,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260912b/README.md",
-      "source_path": "maintenance/bibliography_ubc_brill_20260912c/prior_current/README.md",
+      "source_path": "private-reference:e78353d2d426486ac23a25b7f9f86904bdfb9724b296d1fc639fe84eabe946e7",
       "bytes": 2957,
       "sha256": "00ba03ae91d0a2682e30fe7aa863bd98d5837d49fb92e09c80e15ef59d8b2a85",
       "media_type": "text/markdown",
@@ -1049,7 +1049,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260912d/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_three_presses_20260912e/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:ea215b2d978009f172e7dfa5358eedbc090be9fda0cc44b6482c1da26fa3072b",
       "bytes": 5691,
       "sha256": "2858c1934050e8ce5cdbae1f6eb886d8962f92c2632abca4fb9195628247ca42",
       "media_type": "application/json",
@@ -1059,7 +1059,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260912d/README.md",
-      "source_path": "maintenance/bibliography_three_presses_20260912e/prior_current/README.md",
+      "source_path": "private-reference:e33a87e937358889c503401bc255d5ef8bd5238247ef6f663554d82c89d0fce8",
       "bytes": 3424,
       "sha256": "40f5a99273f2acdb63ee118ee548ec36e3f4148ab14efd8c30377cb960e947d7",
       "media_type": "text/markdown",
@@ -1079,7 +1079,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260912e/METADATA_STATUS.json",
-      "source_path": "maintenance/bibliography_source_access_20260912f/prior_current/METADATA_STATUS.json",
+      "source_path": "private-reference:89a7ed3d8873622a62e8a02aa17571315e6c444845e6dccaec01244519a1be8b",
       "bytes": 5966,
       "sha256": "8fd86b9ea29dd4f57bfea08a967916f6bf077907083bffde49c81266cd69c065",
       "media_type": "application/json",
@@ -1089,7 +1089,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/history/20260912e/README.md",
-      "source_path": "maintenance/bibliography_source_access_20260912f/prior_current/README.md",
+      "source_path": "private-reference:0b8a6e6fd4296b0830bb7f941cae003ee465ddad022c63cda9c85ef0c7d5c982",
       "bytes": 2700,
       "sha256": "c9ec7f87884c0d2692f4f6f27a4f5a4e63f2be671754489629e9858ebe7b0a73",
       "media_type": "text/markdown",
@@ -1149,7 +1149,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/institutional_books_20260912b/CITATION_DISPOSITIONS.json",
-      "source_path": "maintenance/bibliography_institutional_books_20260912b/public_apparatus/CITATION_DISPOSITIONS.json",
+      "source_path": "private-reference:cf10c840dd8aba8e4b4b863d58e9352c61cc4f40adc48109e452398e02702cae",
       "bytes": 2534,
       "sha256": "d74c776bcd75b3acf48ffafeecd9c18eb9e720d0282ecfd64d6cbb14ffae14c4",
       "media_type": "application/json",
@@ -1159,7 +1159,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/institutional_books_20260912b/FIELD_QUESTIONS.json",
-      "source_path": "maintenance/bibliography_institutional_books_20260912b/public_apparatus/FIELD_QUESTIONS.json",
+      "source_path": "private-reference:8886b712b46ea999727a6a306bdb3b46db53635ce4496e2201bf4376ed36ced8",
       "bytes": 2657,
       "sha256": "aeaf27ce0b85e8a45d8f190485d29091524c14bffc608559eb5bd10d92c42b74",
       "media_type": "application/json",
@@ -1169,7 +1169,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/institutional_books_20260912b/REVIEW_REGISTER.json",
-      "source_path": "maintenance/bibliography_institutional_books_20260912b/public_apparatus/REVIEW_REGISTER.json",
+      "source_path": "private-reference:5192943068d869f50dac88672714a74cfbf0d5ed84f41a9c8fa6c46989cc5a8a",
       "bytes": 2895,
       "sha256": "2bea486805789566cb79e3838b9f51ce56066899e5dac7563088e796180bb731",
       "media_type": "application/json",
@@ -1179,7 +1179,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/institutional_books_20260912b/SOURCE_NOTES.json",
-      "source_path": "maintenance/bibliography_institutional_books_20260912b/public_apparatus/SOURCE_NOTES.json",
+      "source_path": "private-reference:0fccaeef4ad3c8f912f7239801cb803404338620107d660d1269d340d1538615",
       "bytes": 9640,
       "sha256": "6dafd7e48832bcf89c6eeb465a26f134b1d215403827a6ab7f930feb3d74c51e",
       "media_type": "application/json",
@@ -1189,7 +1189,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/institutional_books_20260912b/SOURCE_QUESTIONS_AND_LEADS.json",
-      "source_path": "maintenance/bibliography_institutional_books_20260912b/public_apparatus/SOURCE_QUESTIONS_AND_LEADS.json",
+      "source_path": "private-reference:e10a0f7f91c876479edad7ca8b2635eb707446f39e62210551fc407c6ad8a0e5",
       "bytes": 2037,
       "sha256": "4fc16d9528dc553a96c2e7cb683614cbbb5db35fcb7e0a9a6ca290ba8a61cbc2",
       "media_type": "application/json",
@@ -1259,7 +1259,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/livius_identity_followup_20260909/ATLAS_CITATION_CORRECTIONS.json",
-      "source_path": "maintenance/bibliography_livius_20260909l/ATLAS_CITATION_CORRECTIONS.json",
+      "source_path": "private-reference:a2ef5423485e9f4bfb480a31ebb31123c15eafbdb3d317315803e8491658bab2",
       "bytes": 892,
       "sha256": "c7d5ea11b32c3538409e1aa317a315c30353b7f43f4ad81ac44d0e49bd01c561",
       "media_type": "application/json",
@@ -1269,7 +1269,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/livius_identity_followup_20260909/CALIBRATION.json",
-      "source_path": "maintenance/bibliography_livius_20260909l/CALIBRATION.json",
+      "source_path": "private-reference:0a406671f9c61b20008dde6c9b2ec387e05e4f303062522c6c86094157ba3a22",
       "bytes": 16739,
       "sha256": "a73efb98c0ff04943e7b9a5a228dffb321a0b9978eb0dc57d52b79cf58d58659",
       "media_type": "application/json",
@@ -1309,7 +1309,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/livius_identity_followup_20260909/REVIEW_NOTES.md",
-      "source_path": "maintenance/bibliography_livius_20260909l/REVIEW_NOTES.md",
+      "source_path": "private-reference:4390b1662d5f4bf394473892a2695ae0ca57084aae2284e0e578cfecc05bd5ef",
       "bytes": 13985,
       "sha256": "0f40a2074e4c96ff3549f6bf12b633ed1523293ec7813be223f063b74f27b178",
       "media_type": "text/markdown",
@@ -1329,7 +1329,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/oxford_identity_followup_20260909/ATLAS_CITATION_CORRECTIONS.json",
-      "source_path": "maintenance/bibliography_oxford_20260909n/ATLAS_CITATION_CORRECTIONS.json",
+      "source_path": "private-reference:a705683c0200ee1a0d05b918d14ac820b4c2cb12ecc37f9b8e36a7219126b290",
       "bytes": 3550,
       "sha256": "216347a4ff213cc8abbaa6cf5e96a8a470dd6e488df4b8f81c36bd798370a22d",
       "media_type": "application/json",
@@ -1339,7 +1339,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/oxford_identity_followup_20260909/CALIBRATION.json",
-      "source_path": "maintenance/bibliography_oxford_20260909n/CALIBRATION.json",
+      "source_path": "private-reference:0b094b7f722459264061034edcdaab3b7bee608bf5dc0f411af0fa50f739a80a",
       "bytes": 48274,
       "sha256": "5f344cbcbd2b9b4bd014342f99b007639edb0e2f8a8d920f8269cf708105fa95",
       "media_type": "application/json",
@@ -1379,7 +1379,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/oxford_identity_followup_20260909/REVIEW_NOTES.md",
-      "source_path": "maintenance/bibliography_oxford_20260909n/REVIEW_NOTES.md",
+      "source_path": "private-reference:a41f0479a2f82585ee54bbdc0e76132c02c9297d1b4e80f7681f3392c9edc8a9",
       "bytes": 14497,
       "sha256": "2ea0908164f5784e7299b1d184d155bc666a2edd2ccba0107a88c4a3c6b64a58",
       "media_type": "text/markdown",
@@ -1479,7 +1479,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/reviewed_updates_20260913a/ADDITIONAL_SOURCE_QUESTIONS.json",
-      "source_path": "maintenance/publication_20260913a/public_apparatus/ADDITIONAL_SOURCE_QUESTIONS.json",
+      "source_path": "private-reference:b37d4527f5d4792a09152f099479431924f9c72e78588337e5c11c548f6bdd97",
       "bytes": 763,
       "sha256": "5eb8f95499132e5155a44b1363c3bc958d68cdabdc1b7290b71c7e36ba826df0",
       "media_type": "application/json",
@@ -1489,7 +1489,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/reviewed_updates_20260913a/CITATION_EXPORT_REPAIRS.json",
-      "source_path": "maintenance/publication_20260913a/public_apparatus/CITATION_EXPORT_REPAIRS.json",
+      "source_path": "private-reference:d75990a951001637fb686dde457054bd3b88d3894395a79aee45cdc65d80ccb5",
       "bytes": 19537,
       "sha256": "6c413a252542667050c4ddba6b3e1560019d87b951f4fdb3743d316fdaca9b23",
       "media_type": "application/json",
@@ -1499,7 +1499,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/reviewed_updates_20260913a/README.md",
-      "source_path": "maintenance/publication_20260913a/public_apparatus/README.md",
+      "source_path": "private-reference:34731037112d61456613a7f5a04d62edc5a33ef6ebbe7589339cdd1415fb942e",
       "bytes": 1176,
       "sha256": "35486476385008f637c01198c46fd301613c2a769337937a6c530ee93f9fe4d8",
       "media_type": "text/markdown",
@@ -1509,7 +1509,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/reviewed_updates_20260913a/REVIEW_REGISTER.json",
-      "source_path": "maintenance/publication_20260913a/public_apparatus/REVIEW_REGISTER.json",
+      "source_path": "private-reference:0a505facb429dd92ff4502fc65dd42d9d2c2df4a0a781c07fe490b7b20cb068e",
       "bytes": 5965,
       "sha256": "4df82b950173c6567838ec5db69e9e2576b7bd90a7168b39828390b4b5e68d89",
       "media_type": "application/json",
@@ -1519,7 +1519,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/reviewed_updates_20260913a/SOURCE_NOTES.json",
-      "source_path": "maintenance/publication_20260913a/public_apparatus/SOURCE_NOTES.json",
+      "source_path": "private-reference:a7d6739de121af6fac5d7dee9f2c6a7afddb0f7aaacdbe8532523f7d82aa153b",
       "bytes": 26311,
       "sha256": "14598b8244f162679a616c3a7efb99808635ad893b49417b26b6b7cc702ab5f6",
       "media_type": "application/json",
@@ -1529,7 +1529,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/source_corrections_20260912g/ACCESS_RELATIONS.json",
-      "source_path": "maintenance/bibliography_source_corrections_20260912g/public_apparatus/ACCESS_RELATIONS.json",
+      "source_path": "private-reference:b56976452c6914d811e4d1f07e858eafac25cd6190ff7bd2bc3cf714cfabd576",
       "bytes": 5299,
       "sha256": "9f04f396b5740f395abf295f43e7b54a0ccf2c2c2aafcb5c46c1af1a9eacc036",
       "media_type": "application/json",
@@ -1539,7 +1539,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/source_corrections_20260912g/CITATION_DISPOSITIONS.json",
-      "source_path": "maintenance/bibliography_source_corrections_20260912g/public_apparatus/CITATION_DISPOSITIONS.json",
+      "source_path": "private-reference:1c4306f33d2d236fa42ed031d785baa570ebbf0beac4c491a529badf7406b66e",
       "bytes": 2529,
       "sha256": "cba808fd9ff01979d512759827afc5c73e1f6402651be750801338b7c01ac72b",
       "media_type": "application/json",
@@ -1549,7 +1549,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/source_corrections_20260912g/PASSAGE_LIMITS.json",
-      "source_path": "maintenance/bibliography_source_corrections_20260912g/public_apparatus/PASSAGE_LIMITS.json",
+      "source_path": "private-reference:3b7a96f9554540bc6b555ff0bf177bd94955bada3c5cb9f6de76e2507a2505b0",
       "bytes": 2828,
       "sha256": "7f0d3b2d56b96a33571128021c9ec8e50a7422bb0f56522d007f80f027e2875a",
       "media_type": "application/json",
@@ -1559,7 +1559,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/source_corrections_20260912g/README.md",
-      "source_path": "maintenance/bibliography_source_corrections_20260912g/public_apparatus/README.md",
+      "source_path": "private-reference:e5328b0e2f7d185546e30bf3b4eab1275ee80a941b5a050dd2299a22b8907624",
       "bytes": 1471,
       "sha256": "4d74cc2ef7ad441bae231c608bf7c4439a5c9c2d55c6a966fe5939c1380a5d7d",
       "media_type": "text/markdown",
@@ -1569,7 +1569,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/source_corrections_20260912g/REVIEW_REGISTER.json",
-      "source_path": "maintenance/bibliography_source_corrections_20260912g/public_apparatus/REVIEW_REGISTER.json",
+      "source_path": "private-reference:9b709221dde7d3c6022b6558b89795f2590d95bb8a3f520f1474144fbb1dcbf3",
       "bytes": 2428,
       "sha256": "b46752a936bf92ce2f00ebfb5ec4d69e674e54da04a02cabca0197401af2e088",
       "media_type": "application/json",
@@ -1579,7 +1579,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/source_corrections_20260912g/SOURCE_NOTES.json",
-      "source_path": "maintenance/bibliography_source_corrections_20260912g/public_apparatus/SOURCE_NOTES.json",
+      "source_path": "private-reference:ebe134dd4457e5d803be262263adfe4740bb301d1294b6e876d6e3c46d0b96c7",
       "bytes": 6845,
       "sha256": "71024f6ae0ee5d1172f0d1dea83e85e678db5f9bf14290284f5732d0727e9d3d",
       "media_type": "application/json",
@@ -1599,7 +1599,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/source_resolutions_20260912d/FIELD_QUESTIONS.json",
-      "source_path": "maintenance/bibliography_source_resolutions_20260912d/public_apparatus/FIELD_QUESTIONS.json",
+      "source_path": "private-reference:0f4ec96bb03037c94156d349fd7d2b784643f3196e86422df326a3742b88ac4c",
       "bytes": 1892,
       "sha256": "09db5de94caaf386ef13a83466262d459724ea1118e7f89d4bfc2c8dade29cce",
       "media_type": "application/json",
@@ -1609,7 +1609,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/source_resolutions_20260912d/SOURCE_RESOLUTIONS.json",
-      "source_path": "maintenance/bibliography_source_resolutions_20260912d/public_apparatus/SOURCE_RESOLUTIONS.json",
+      "source_path": "private-reference:c74f91825c5e5120f6b8a426a62ba92fa1f3ca4599a48fd25d8a757d39772eb8",
       "bytes": 1677,
       "sha256": "b31a2fc4126b672bcd11349a69e024633930fb6973411aa1e4ebed2803a5d531",
       "media_type": "application/json",
@@ -1619,7 +1619,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/three_presses_20260912e/CITATION_DISPOSITIONS.json",
-      "source_path": "maintenance/bibliography_three_presses_20260912e/public_apparatus/CITATION_DISPOSITIONS.json",
+      "source_path": "private-reference:9a82d15a624519c5751509ca95732b04a5eba843c43a2f36dabb41d69aa5b288",
       "bytes": 568,
       "sha256": "0f0fd7b9375cf6b338df80e7b1e49b50b8275fc5f29156a857b579b9de64b11b",
       "media_type": "application/json",
@@ -1629,7 +1629,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/three_presses_20260912e/FIELD_QUESTIONS.json",
-      "source_path": "maintenance/bibliography_three_presses_20260912e/public_apparatus/FIELD_QUESTIONS.json",
+      "source_path": "private-reference:45be6e6c0d3cbd242486bc969e4de5c6e236472b960c2d51eec8f704a895c3e1",
       "bytes": 502,
       "sha256": "1a8c38c9e58ec343ae181bf6d7e9b6b75b4d6d184fd4f45c428f63b3e022771b",
       "media_type": "application/json",
@@ -1639,7 +1639,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/three_presses_20260912e/PASSAGE_QUESTIONS.json",
-      "source_path": "maintenance/bibliography_three_presses_20260912e/public_apparatus/PASSAGE_QUESTIONS.json",
+      "source_path": "private-reference:d2f7c9200f141901d9bcd427301288725e1a5dafffb671742931f2b616ef15c9",
       "bytes": 1454,
       "sha256": "1341ad0eee0c0384398e71ec73e065214eb9b417846b2f97ebf74f87bf41f0ef",
       "media_type": "application/json",
@@ -1649,7 +1649,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/three_presses_20260912e/REVIEW_REGISTER.json",
-      "source_path": "maintenance/bibliography_three_presses_20260912e/public_apparatus/REVIEW_REGISTER.json",
+      "source_path": "private-reference:e395df7243c56d95aed648a0cbbbb2e0831673a99065c2486c7dd4a2835632da",
       "bytes": 892,
       "sha256": "bc82f59d49f83986731a7bda579c0e6a83e8ba1998a5d7ec5a7f77572ebeaf9f",
       "media_type": "application/json",
@@ -1659,7 +1659,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/three_presses_20260912e/SOURCE_NOTES.json",
-      "source_path": "maintenance/bibliography_three_presses_20260912e/public_apparatus/SOURCE_NOTES.json",
+      "source_path": "private-reference:6acf7801d125717728d738bae1acf369efb160ab6f8a024662ccd929d5458aba",
       "bytes": 1650,
       "sha256": "c55dbd3803bee1dc32800eb128818c2a3632d408f42f726d201e26a4324ccbca",
       "media_type": "application/json",
@@ -1669,7 +1669,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/ubc_brill_20260912c/CITATION_DISPOSITIONS.json",
-      "source_path": "maintenance/bibliography_ubc_brill_20260912c/public_apparatus/CITATION_DISPOSITIONS.json",
+      "source_path": "private-reference:b445ba974d20afb34f46590a30112a8d4683e357b28969e1abfa282bf79b0a71",
       "bytes": 3214,
       "sha256": "3b7b4d982ed35901e3ae69839b552e941646e4dd43b817c0b13211e9a3e2b6e4",
       "media_type": "application/json",
@@ -1679,7 +1679,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/ubc_brill_20260912c/FIELD_QUESTIONS.json",
-      "source_path": "maintenance/bibliography_ubc_brill_20260912c/public_apparatus/FIELD_QUESTIONS.json",
+      "source_path": "private-reference:e1fbe1264546282cb796a325a99b6e1bc340a793d873f1b691c3bef31fdb4054",
       "bytes": 2006,
       "sha256": "497aa5318eeab885f4cc493fda9b61b3cb5273d0930cc0c9ab965f5fa221d3b3",
       "media_type": "application/json",
@@ -1689,7 +1689,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/ubc_brill_20260912c/REVIEW_REGISTER.json",
-      "source_path": "maintenance/bibliography_ubc_brill_20260912c/public_apparatus/REVIEW_REGISTER.json",
+      "source_path": "private-reference:603ca796c861c4bf2312cc4d3e4ccb664a08bbcb6f22cadcf25ff34c0ff32a84",
       "bytes": 2593,
       "sha256": "089cd4d63b6c9822943d08e8cefaa35db638c34edb347cceb8ddf75a55a06e70",
       "media_type": "application/json",
@@ -1699,7 +1699,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/ubc_brill_20260912c/SOURCE_LOCATOR_ERRATA.json",
-      "source_path": "maintenance/bibliography_ubc_brill_20260912c/public_apparatus/SOURCE_LOCATOR_ERRATA.json",
+      "source_path": "private-reference:0ea756c6a433771f756fab9f1b6c06d8b8e5ff79d01252be5df3ec24e472fb97",
       "bytes": 563,
       "sha256": "00dff2168728695e3a9c1e94d582cd7145ae8f46bef8f7a843c8cca3a1698601",
       "media_type": "application/json",
@@ -1709,7 +1709,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/ubc_brill_20260912c/SOURCE_NOTES.json",
-      "source_path": "maintenance/bibliography_ubc_brill_20260912c/public_apparatus/SOURCE_NOTES.json",
+      "source_path": "private-reference:83d9f6e1b87a4a30a58e5984b6180f7af92e46e0d20a440db08a6105fbc1cd97",
       "bytes": 9122,
       "sha256": "b79e509e59a15e58ee2eb0b86633d3676023d757334e9cd976b74a99c46ecbbd",
       "media_type": "application/json",
@@ -1719,7 +1719,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/ubc_brill_20260912c/SOURCE_QUESTIONS_AND_LEADS.json",
-      "source_path": "maintenance/bibliography_ubc_brill_20260912c/public_apparatus/SOURCE_QUESTIONS_AND_LEADS.json",
+      "source_path": "private-reference:f208afc5db26aa960d18442e3dba5471a8b32175622eff6ec625a6bb91545751",
       "bytes": 4603,
       "sha256": "82f5cf0bc0e852f93a68e91d07890e781cd321c64713403e556ec7502167048f",
       "media_type": "application/json",
@@ -1729,7 +1729,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/unhcr_identity_followup_20260909/ACCESS_CORRECTIONS.json",
-      "source_path": "maintenance/bibliography_unhcr_20260909k/ACCESS_CORRECTIONS.json",
+      "source_path": "private-reference:37ac496d944d19fe7c59e861e9aec509c824a0102e6a8964e36a795104c83eb0",
       "bytes": 2167,
       "sha256": "a5a77294ec0d1f3884bace0420a58d00b01e1bb5b941d849629a9e6b7e9922da",
       "media_type": "application/json",
@@ -1739,7 +1739,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/unhcr_identity_followup_20260909/ATLAS_CITATION_CORRECTIONS.json",
-      "source_path": "maintenance/bibliography_unhcr_20260909k/ATLAS_CITATION_CORRECTIONS.json",
+      "source_path": "private-reference:154c9a9b554cf40d1802a1151ee073be61588822857d3eed6be7a20a8520bc07",
       "bytes": 21241,
       "sha256": "a97adc4cf2ddcc113193cea8414b624d1199ef1d6c3be1102ec34eb23005c09b",
       "media_type": "application/json",
@@ -1779,7 +1779,7 @@
     {
       "category": "bibliography",
       "public_path": "bibliography/unhcr_identity_followup_20260909/REVIEW_NOTES.md",
-      "source_path": "maintenance/bibliography_unhcr_20260909k/REVIEW_NOTES.md",
+      "source_path": "private-reference:4552381715992c48bcf758c169612f85446576e7b9e83ac55ec712dae69e0937",
       "bytes": 51533,
       "sha256": "2ce8139922e5ed6406fb83189f29087c7798778f9f11ef3f3af8dc3d72d5ae60",
       "media_type": "text/markdown",
@@ -2620,8 +2620,8 @@
       "category": "release",
       "public_path": "releases/second_pass_v7_676/results/date_metadata_addendum/MAIN_ACCEPTANCE.md",
       "source_path": "analysis/second_pass/releases/second_pass_v7_676/results/date_metadata_addendum/MAIN_ACCEPTANCE.md",
-      "bytes": 5477,
-      "sha256": "e3d87b1bbafe655a423e0802a650cce7dbb3c4edb47beb3a91c2f09fa45e7cb5",
+      "bytes": 5504,
+      "sha256": "47125e0d19e26c1a2f8b440b77a064c610f925e74552b44d09de3834ae4b9076",
       "media_type": "text/markdown",
       "component_licenses": "CC-BY-SA-4.0",
       "rights_notice": "LICENSE.md"
@@ -2670,8 +2670,8 @@
       "category": "release",
       "public_path": "releases/second_pass_v7_676/results/date_metadata_addendum/RUN_MANIFEST.json",
       "source_path": "analysis/second_pass/releases/second_pass_v7_676/results/date_metadata_addendum/RUN_MANIFEST.json",
-      "bytes": 163761,
-      "sha256": "3fbdfb07642d9aac23cbddd4d98e220a590d2e8b0fcca6191128b80c8d304cf7",
+      "bytes": 169137,
+      "sha256": "953b32fb2a58710dd2549be35e322b534c4f6b86e3efe48a157cd958c0aef679",
       "media_type": "application/json",
       "component_licenses": "CC-BY-4.0, CC-BY-SA-4.0",
       "rights_notice": "LICENSE.md"
@@ -2702,7 +2702,7 @@
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
-    "source_sha256": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04",
+    "source_sha256": "ebcb5a447694f485c30966935ba9bd95a86ea1fe1250015c1a58c608fb0c997b",
     "record_unit": "one typed work/access record; not an occurrence, passage or person",
     "records": 1483,
     "metadata_status_counts": {
@@ -2734,5 +2734,29 @@
       "reviewed",
       "unresolved"
     ]
+  },
+  "public_privacy_projection": {
+    "version": "r40-privacy-projection-source345-rss75",
+    "notice": "The public provenance files now omit private work paths. Their hashes differ from the archived originals. The case accounts, scores and calculations stay the same.",
+    "original_statistical_release_unchanged": true,
+    "case_accounts_scores_and_calculations_unchanged": true,
+    "derivative_public_provenance": {
+      "data/bibliography/current/source_occurrences.json": {
+        "original_sha256": "4af21cbfe376fc610ff89664307f2f811bd6931b4d3aa2b13e2258273e226fc6",
+        "public_copy_sha256": "3444af2021ae377349c45232c04e041f4c4077fa4525c2fd58e1a67142bcada8"
+      },
+      "data/bibliography/current/typed_metadata.json": {
+        "original_sha256": "bec66a0446637f739d58d002176327e785395709b4707af3220e2ce892173d04",
+        "public_copy_sha256": "ebcb5a447694f485c30966935ba9bd95a86ea1fe1250015c1a58c608fb0c997b"
+      },
+      "data/releases/second_pass_v7_676/results/date_metadata_addendum/RUN_MANIFEST.json": {
+        "original_sha256": "3fbdfb07642d9aac23cbddd4d98e220a590d2e8b0fcca6191128b80c8d304cf7",
+        "public_copy_sha256": "953b32fb2a58710dd2549be35e322b534c4f6b86e3efe48a157cd958c0aef679"
+      },
+      "data/releases/second_pass_v7_676/results/date_metadata_addendum/MAIN_ACCEPTANCE.md": {
+        "original_sha256": "e3d87b1bbafe655a423e0802a650cce7dbb3c4edb47beb3a91c2f09fa45e7cb5",
+        "public_copy_sha256": "47125e0d19e26c1a2f8b440b77a064c610f925e74552b44d09de3834ae4b9076"
+      }
+    }
   }
 }

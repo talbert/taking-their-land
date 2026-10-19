@@ -15,3 +15,5 @@ Archived site snapshots: https://doi.org/10.5281/zenodo.23410511
 Current public snapshot: https://github.com/talbert/taking-their-land
 First archived version: build 20261006e, statistical release second_pass_v7_676; https://doi.org/10.5281/zenodo.23410512
 Later site notes do not change the earlier archive. Component licenses and third-party exceptions above remain unchanged.
+
+Public privacy projection: The public provenance files now omit private work paths. Their hashes differ from the archived originals. The case accounts, scores and calculations stay the same.

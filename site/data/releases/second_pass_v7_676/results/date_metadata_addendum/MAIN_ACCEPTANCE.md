@@ -63,7 +63,7 @@ available rather than selecting only favorable results.
   SHA-256:`09c32316f1f6f749561503e8017cd1cd818195dc6f20bcfbbdd911b96ddfd3e0`.
 - Full raw output and two typed checkpoints are privately backed up on Latrian:
   seven files/33,452,447 bytes, exact local/remote match. Receipt:
-  `maintenance/date_metadata_addendum_20260908_backup.json` at the repo root.
+  `private-reference:6c0951297d9aa092c7a8b4e31d63306849310b3341521724ac9b7381a5999ac3` at the repo root.
 
 This is main's bounded implementation and result check, not a new independent
 human/source review. The previous prescribed numerical review stays closed;
