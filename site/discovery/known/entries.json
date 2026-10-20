@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r41-south-asia-source369-rss76",
+  "version": "r42-arkansas-source373-rss77",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -4122,6 +4122,62 @@
     "source_citations": [
       "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 10–11; article printed pages 229–233."
     ]
+  },
+{
+    "id": "ledger-971c01eeb0fc4c0350f5",
+    "name": "An attack and expulsion in the Great Prairie account",
+    "place_and_era": "Great Prairie, by the Arkansas River. The account record dates to 1827. The attack date is unknown.",
+    "attested": "Hoffman quotes a Quapaw account of an attack on a camp. It says the people resisted, then lost. The attackers drove them away and claimed control of the area.",
+    "unknown": "The source links the name Intouka to Illinois. That link, the date and the extent of control remain unclear.",
+    "next_step": "Study the people at the camp and the land they used. Keep this attack distinct from the earlier Tonnika encounter.",
+    "sources": [
+      "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
+    ],
+    "source_citations": [
+      "Michael P. Hoffman (1993), The Depopulation and Abandonment of Northeastern Arkansas in the Protohistoric Period. Chapter 15 in James B. Stoltman (ed.), Archaeology of Eastern North America: Papers in Honor of Stephen Williams. Archaeological Report 25, printed pages 261–275; cited printed pages 268. One consulted chapter; underlying accounts and reports not independently consulted."
+    ]
+  },
+{
+    "id": "ledger-fca41fec7e4a6f5595e9",
+    "name": "Survivors and new homes by the Arkansas River",
+    "place_and_era": "By the Arkansas River. Hoffman places the likely moves in the late 1500s or early 1600s. The exact dates remain unknown.",
+    "attested": "Hoffman argues that survivors from the Old Town, Kent and Walls phases moved to the Arkansas River. He uses pottery evidence for this view.",
+    "unknown": "The cause and terms of these moves remain unclear. Pottery does not prove that people left under force or took land from others.",
+    "next_step": "Study the groups and their new homes. Keep other proposed routes distinct.",
+    "sources": [
+      "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
+    ],
+    "source_citations": [
+      "Michael P. Hoffman (1993), The Depopulation and Abandonment of Northeastern Arkansas in the Protohistoric Period. Chapter 15 in James B. Stoltman (ed.), Archaeology of Eastern North America: Papers in Honor of Stephen Williams. Archaeological Report 25, printed pages 261–275; cited printed pages 269–272. One consulted chapter; underlying accounts and reports not independently consulted."
+    ]
+  },
+{
+    "id": "ledger-7fe465f5ea83fe15df76",
+    "name": "The loss of homes in northeast Arkansas",
+    "place_and_era": "Northeast Arkansas. Hoffman compares regional reports from the 1540s and 1673. The gap in permanent homes does not date one forced move. It does not prove that all land use stopped.",
+    "attested": "Hoffman contrasts towns in use in the 1540s with a later lack of permanent homes. He reviews disease, drought and conflict as possible causes.",
+    "unknown": "The chapter does not establish one cause or one forced move. The fates of many residents remain unknown.",
+    "next_step": "Keep local departures and new homes distinct. Study how each proposed cause relates to the loss of permanent homes.",
+    "sources": [
+      "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
+    ],
+    "source_citations": [
+      "Michael P. Hoffman (1993), The Depopulation and Abandonment of Northeastern Arkansas in the Protohistoric Period. Chapter 15 in James B. Stoltman (ed.), Archaeology of Eastern North America: Papers in Honor of Stephen Williams. Archaeological Report 25, printed pages 261–275; cited printed pages 261–263, 265–269, 272–273. One consulted chapter; underlying accounts and reports not independently consulted."
+    ]
+  },
+{
+    "id": "ledger-64eaa38074956af8d391",
+    "name": "Tunica and Tonnika accounts of flight",
+    "place_and_era": "Near the lower Mississippi River. Hoffman argues that the Tunica left before 1699. The exact date and earlier home remain unknown.",
+    "attested": "Hoffman recounts a Tunica tradition of conflict and a move downstream. A Quapaw account claims an attack that drove Tonnika away.",
+    "unknown": "It is unclear if both accounts describe the same departure. The exact date and place remain unknown.",
+    "next_step": "Study the earlier home area and the new settlement. Keep each account and its source clear.",
+    "sources": [
+      "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
+    ],
+    "source_citations": [
+      "Michael P. Hoffman (1993), The Depopulation and Abandonment of Northeastern Arkansas in the Protohistoric Period. Chapter 15 in James B. Stoltman (ed.), Archaeology of Eastern North America: Papers in Honor of Stephen Williams. Archaeological Report 25, printed pages 261–275; cited printed pages 267–269, 272–273. One consulted chapter; underlying accounts and reports not independently consulted."
+    ]
   }
 ],
   "cases_awaiting_map_locations": [
@@ -5637,5 +5693,5 @@
     }
   ],
   "updated_on": "2026-10-20",
-  "update_scope": "24 South Asia research notes with source links"
+  "update_scope": "Four Arkansas research notes with source links"
 }
