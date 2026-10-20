@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r39-source345-rss74",
+  "version": "r41-south-asia-source369-rss76",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -3786,7 +3786,343 @@
   "source_citations": [
     "Leigh Kuwanwisiwma, Wesley Bernardini (2023). Place of the Songs. Chapter 5, printed pages 80, 81, 82. DOI: 10.5876/9781646424597.c005."
   ]
-}
+},
+{
+    "id": "ledger-aede9c8bbe2cad5d23bb",
+    "name": "A king's flight through Ceylon to Malabar",
+    "place_and_era": "The article places this flight in the reign of an earlier king of Ceylon. The exact date is unknown.",
+    "attested": "It says a Chola king drove the Pandya ruler out. He sought help in Ceylon, then went to Malabar. He left royal goods behind.",
+    "unknown": "The article does not name a group that went with him. His prior home, length of stay and later fate are unknown.",
+    "next_step": "Keep the first forced move distinct from the later trip. Ask what changed for the king at each place.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section V, printed pages 524–525 (Mahavamsa 53, as reported). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-1d98892a13f491033461",
+    "name": "A king's flight to Rohana",
+    "place_and_era": "The article names Udaya as the king who fled to Rohana. Its date and the army's ruler are inferred, not fixed.",
+    "attested": "An army killed a commander. The king fled with royal goods. The troops could not reach him and went back without the goods.",
+    "unknown": "The text does not say that local people fled. It does not prove that the army took the goods or ruled the whole island.",
+    "next_step": "Keep the king's flight and the failed mission distinct. Ask what changed for his home and rule.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section V, printed pages 524–525 (Mahavamsa 53.44 translation correction and related account, as reported). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-4a334a47e61592d9879b",
+    "name": "A later army sent to Ceylon",
+    "place_and_era": "The article places this mission after a king's death. It gives two dates for that death, not for the mission.",
+    "attested": "It reports that a general led an army to Ceylon. It does not state what land or homes were taken.",
+    "unknown": "The date and result of the mission are not fixed. A later murder report does not prove another taking of land.",
+    "next_step": "Keep the king's death and the later mission distinct. Ask what the force did and whose land or homes changed.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section IX, printed page 531 (Mahavamsa 90.47, as reported). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-3215e93c505e163105ae",
+    "name": "An army sent to South India",
+    "place_and_era": "The article places the mission in South India. It compares sources that give different clues to its date.",
+    "attested": "The article names Lankapura as the general who led the force. It says the force went against Kulasekhara of Madhura. It calls this an invasion of South India.",
+    "unknown": "This passage does not state which tract was taken or whose home changed. The fact that an army was sent does not show that it took all the land.",
+    "next_step": "Keep the reported mission visible. Ask what land or homes changed and which acts can form one clear question.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section I, printed pages 518–519 (Mahavamsa 76.7 and Arppakkam/twelfth-year references, as reported). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-f4e05af2aae7f4200f41",
+    "name": "Cola rule and the capture of Mahinda",
+    "place_and_era": "The text names Rajarattha in Lanka. An editor dates the conquest to 1017. The text itself gives a year of the king's reign. The exact land bounds are unknown.",
+    "attested": "The text reports Cola rule over a named tract. The king was seized and sent to the Cola ruler. Temples lost wealth and buildings. His consort was seized. People kept the young prince safe.",
+    "unknown": "The text does not say the consort was sent abroad. It gives no count of local people made to leave. How rule changed their homes and rights is unknown.",
+    "next_step": "Keep rule, royal capture, temple harm and harm to local people distinct. Ask how each act changed use of land or homes.",
+    "sources": [
+      "https://noolaham.net/project/46/4536/4536.pdf"
+    ],
+    "source_citations": [
+      "Geiger, Culavamsa, Part I. English translation from German by C. Mabel Rickmers (1929; AES reprint, 1998), chapter LV, verses 55.13–24 and 55.33–34, printed pages 187–189, including the colophon and cited notes (page 187 notes 2–3 continuing on 188, page 188 notes 1–3, page 189 note 3)."
+    ]
+  },
+{
+    "id": "ledger-ddb7e4d9559709439118",
+    "name": "Crowns taken from four named rulers",
+    "place_and_era": "The article compares a royal list with a chronicle. A record's date does not date each act.",
+    "attested": "A royal record lists crowns taken from four kings. The article also reports deaths. These do not prove a new taking of land for each name.",
+    "unknown": "Some names may match kings in other accounts. The article gives up one proposed match. The land and home effects are not clear.",
+    "next_step": "Keep the crowns and deaths as stated claims. Link the women already seized in the other questions. Do not add a new event for each crown.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; sections II–III, printed pages 520–521 (the 1046 record, South Indian Inscriptions III 52, as reported). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-00e996c88760d1a44828",
+    "name": "Indraratha and his family were seized",
+    "place_and_era": "The text places the fight at Adinagar. It names Indraratha and his family. The exact date is unknown.",
+    "attested": "The text says the army seized the king and his family. It also says their treasures were carried away.",
+    "unknown": "The text does not say the people were sent elsewhere. We do not know their number, stay or later fate. Their homes and rights are not described.",
+    "next_step": "Keep the capture of people distinct from the removal of goods. Ask what happened to the people and their homes.",
+    "sources": [
+      "https://ignca.gov.in/Asi_data/67881.pdf"
+    ],
+    "source_citations": [
+      "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 8–9; article printed pages 229–233."
+    ]
+  },
+{
+    "id": "ledger-1a490ffdaaffd6984018",
+    "name": "Mahinda's flight from the palace",
+    "place_and_era": "The text places Mahinda in Anuradhapura, then in Rohana. This is before the Cola attack. The exact year is unknown.",
+    "attested": "Unpaid troops blocked food from the palace. The king fled to Rohana with goods. He set up a camp and later a town.",
+    "unknown": "The text does not say who went with him. It does not show that local people lost homes or land. Later rights and return are unknown.",
+    "next_step": "Keep the king's move distinct from later capture. Ask who went with him and what changed for people at each place.",
+    "sources": [
+      "https://noolaham.net/project/46/4536/4536.pdf"
+    ],
+    "source_citations": [
+      "Geiger, Culavamsa, Part I. English translation from German by C. Mabel Rickmers (1929; AES reprint, 1998), chapter LV, verses 55.1–12, printed pages 186–187; notes 1–3 on page 186 and note 4 on page 186."
+    ]
+  },
+{
+    "id": "ledger-069ae23c7e849b39aec0",
+    "name": "Other lands named in the conquest list",
+    "place_and_era": "The text names more lands and places. These are in the same royal list. The dates of each act are unknown.",
+    "attested": "The text says the army seized these lands. It names islands, towns, regions and a river. The claim of taking is positive.",
+    "unknown": "The text does not show which places were taken in one act. It does not state all local people's fate or the full bounds of each tract.",
+    "next_step": "Group the claims only where the source supports it. Keep each taking claim visible without making a new event for each name.",
+    "sources": [
+      "https://ignca.gov.in/Asi_data/67881.pdf"
+    ],
+    "source_citations": [
+      "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 1–2, 4–7, 9, 11–12; article printed pages 229–233."
+    ]
+  },
+{
+    "id": "ledger-724c29b43fb1bb1c3691",
+    "name": "The army took control of the land at Takkanaladam",
+    "place_and_era": "The text names Takkanaladam and its ruler Ranasura. The exact place and date are unknown.",
+    "attested": "The text says the army took control of the tract. It says this followed a strong attack on the ruler.",
+    "unknown": "The length of rule and the land's full bounds are unknown. The text does not say that local people fled or lost homes.",
+    "next_step": "Ask whose use of the tract changed. Keep the attack distinct from harm the text does not state.",
+    "sources": [
+      "https://ignca.gov.in/Asi_data/67881.pdf"
+    ],
+    "source_citations": [
+      "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 10; article printed pages 229–233."
+    ]
+  },
+{
+    "id": "ledger-ca08a3136ac1403ef08f",
+    "name": "The army took land in Vangala-desa",
+    "place_and_era": "The text names Vangala-desa and its ruler Govindachandra. The exact bounds and date are unknown.",
+    "attested": "The land is in the list of places the army took. The text says the ruler got down from his elephant and fled.",
+    "unknown": "The text does not say that all people fled. Their homes, rights and later fate are unknown. The length of rule is not stated.",
+    "next_step": "Keep the ruler's flight distinct from the land claim. Ask what changed for people who lived there.",
+    "sources": [
+      "https://ignca.gov.in/Asi_data/67881.pdf"
+    ],
+    "source_citations": [
+      "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 10; article printed pages 229–233."
+    ]
+  },
+{
+    "id": "ledger-89e58ba26b8711d2ab83",
+    "name": "The army took the land of Tandabutti",
+    "place_and_era": "The text names Tandabutti and its ruler Dharmapala. The exact place and date are unknown.",
+    "attested": "The text says the army took the tract. It links this to the destruction of its ruler in fierce battle.",
+    "unknown": "The text does not show that all people were made to leave. Their rights, homes and later fate are unknown. The ruler's name alone does not prove who he was.",
+    "next_step": "Keep the taking of land and the battle claim distinct. Ask what changed for those who used the tract.",
+    "sources": [
+      "https://ignca.gov.in/Asi_data/67881.pdf"
+    ],
+    "source_citations": [
+      "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 9–10; article printed pages 229–233."
+    ]
+  },
+{
+    "id": "ledger-85bbf4cfed1f8d92fec0",
+    "name": "The earlier claim to rule in Ilam",
+    "place_and_era": "The article names Rajaraja as an earlier ruler who took Ilam. It infers a range of years from dated records.",
+    "attested": "The article reports a royal claim to conquest of the named tract. It sets this before the later king's capture.",
+    "unknown": "This may overlap with part of the later conquest account. It does not prove that all residents lost homes. The full bounds and length of rule are unknown.",
+    "next_step": "Keep the earlier ruler's claim distinct from the later capture. Ask which parts of the two accounts overlap.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section IV, printed page 524 (comparison of South Indian Inscriptions III No. 52 and No. 6, as cited). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-45caf6bac53dffc62343",
+    "name": "The flight of Manavamma from Ceylon to India",
+    "place_and_era": "The article places the first flight from Ceylon to India. The dates depend on its sources and sums of reigns.",
+    "attested": "It says Manavamma fled from Ceylon to India. He served a ruler there. His first bid to return failed, so he stayed abroad.",
+    "unknown": "The text does not say all the troops or their families were refugees. It does not state the fate of his prior home or who went with him.",
+    "next_step": "Keep the flight and first failed return distinct from the later victory. Ask how his place and role changed.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section VII, printed pages 527–529 (Mahavamsa 47 and comparative apparatus, as reported). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-d9108dcce376d51eb03f",
+    "name": "The forced move of a queen and her daughter",
+    "place_and_era": "The article names Jagatipala and his family in Ceylon. The exact date of their fate is unknown.",
+    "attested": "It reports that the king was killed. His queen and daughter were carried to Chola country.",
+    "unknown": "This may be the same event as the seizure of women in another account. The two kings' names differ. The women's later fate is unknown.",
+    "next_step": "Keep the forced move as a positive claim. Keep the possible match open without joining the people or counting them twice.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section III, printed page 521 (Mahavamsa 56.13–15, as reported). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-b8c361d45f19b2e17e69",
+    "name": "The later attack in Rohana and local rewards",
+    "place_and_era": "This is a later attack in Rohana. The text says the young prince was twelve. The exact year is unknown.",
+    "attested": "Troops sought the prince and plundered the region. Two leaders fought them for six months. The troops who lived went back to their base. The prince gave a village reward and relief from dues.",
+    "unknown": "The text does not show that the prince was caught. It does not show that local people lost homes or that troops left a settled home. Prior rights in the village and later use are unknown.",
+    "next_step": "Keep troop retreat, the village award and relief from dues distinct. Ask whose access to land changed and how.",
+    "sources": [
+      "https://noolaham.net/project/46/4536/4536.pdf"
+    ],
+    "source_citations": [
+      "Geiger, Culavamsa, Part I. English translation from German by C. Mabel Rickmers (1929; AES reprint, 1998), chapter LV, verses 55.23–32, printed pages 188–189; page 189 notes 1–2 and the note to 55.33 (note 3)."
+    ]
+  },
+{
+    "id": "ledger-bf9608c256066ceb80a0",
+    "name": "The later return and rise to rule",
+    "place_and_era": "This is Manavamma's later return to Ceylon. The exact date is not fixed.",
+    "attested": "He returned with aid, beat the ruler and took rule. The defeated ruler was killed and his head was shown.",
+    "unknown": "The text does not prove that all people lost homes. The land's full bounds and length of control are unknown. Troops are not all a new settler group.",
+    "next_step": "Keep this success distinct from the first failed trip. Ask who ruled, stayed or lost access after the return.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section VII, printed pages 527–529 (Mahavamsa 47 second expedition and reign comparison, as reported). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-c8f22e1194747139cfb3",
+    "name": "The loss of rule in Irattapadi",
+    "place_and_era": "The text names Irattapadi and Musangi. It comes from the king's thirteenth year. The dates of the acts are unknown.",
+    "attested": "The text says the king's army took the land from Jayasimha. It says he fled and hid.",
+    "unknown": "We do not know the land's full bounds or how long rule changed. The text does not say that local people fled or lost homes.",
+    "next_step": "Keep the ruler's flight and the loss of rule distinct. Ask how the taking changed local use of land.",
+    "sources": [
+      "https://ignca.gov.in/Asi_data/67881.pdf"
+    ],
+    "source_citations": [
+      "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 5–6; article printed pages 229–233."
+    ]
+  },
+{
+    "id": "ledger-f58d2d4a15f5d28ebdd7",
+    "name": "The taking of Odda-vishaya",
+    "place_and_era": "The text names Odda-vishaya. This is a tract in the conquest list. The exact date is unknown.",
+    "attested": "The text says the army took control of the tract in close fights.",
+    "unknown": "The bounds and length of rule are unknown. The text does not say that local people fled. How the taking changed homes and rights is unknown.",
+    "next_step": "Keep this tract distinct from nearby names in the list. Ask whose use of land changed and how.",
+    "sources": [
+      "https://ignca.gov.in/Asi_data/67881.pdf"
+    ],
+    "source_citations": [
+      "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 9; article printed pages 229–233."
+    ]
+  },
+{
+    "id": "ledger-aa10a59366a6eb5910d6",
+    "name": "The taking of the city of Madhura",
+    "place_and_era": "The article links Madhura to a war under Parantaka. It compares dates of records with a proposed date for the war.",
+    "attested": "It reports that the city and elephants were taken. It praises the slaying of a large army. A chronicle says the force sent to help went back without success.",
+    "unknown": "No exact death count is shown. The text does not say that all city people left or lost homes. The length of rule is unknown.",
+    "next_step": "Keep the city claim, battle and failed return distinct. Ask what changed for people who used the city.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section VI, printed pages 525–526 (Mahavamsa 52.70–78; Udayendiram, South Indian Inscriptions II 387, verses 9–11; Annual Reports on Epigraphy, as cited). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-9498c4744d7a82cb420c",
+    "name": "The taking of the city of Vatapi",
+    "place_and_era": "The article links Vatapi to a war led by Narasiha. Exact dates and land bounds are not fixed.",
+    "attested": "It reports that Vatapi was taken. It links this claim to a ruler's defeat.",
+    "unknown": "The text does not say that all city people fled or lost homes. The length of control and later rights are unknown.",
+    "next_step": "Keep this city claim distinct from the two island missions. Ask what changed for people who used the city.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section VII, printed pages 528–529 (South Indian Inscriptions II 343 and Fleet, as cited). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-94a05b387fae14599ac2",
+    "name": "Two royal sons seized by an army",
+    "place_and_era": "The article reports an attack in Ceylon. It names the sons' father as Manabharana. A dated record reports the acts, not their exact dates.",
+    "attested": "The article reports that a king was killed. It says two sons of another king were seized.",
+    "unknown": "We do not know where the sons were kept or for how long. The text does not show what happened to their homes.",
+    "next_step": "Keep the sons' capture distinct from harm to other people. Ask what happened to them after capture.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section II, printed pages 519–520 (South Indian Inscriptions III 59 and local III 39, as cited). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-27dd2c2ca7245d070b5c",
+    "name": "Women seized after a king's defeat",
+    "place_and_era": "The article reports Vira-Salamegha's defeat in Ceylon. Its cited record may list acts from more than one year.",
+    "attested": "His elder sister and daughter, or wife, were seized. His mother's nose was cut off. He was killed in battle.",
+    "unknown": "The text does not say where the seized women went. This may be the same event as another account. The kings' names differ, so the match is not proved.",
+    "next_step": "Keep the named kin and their harms distinct. Do not count this and the other account as two separate events.",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.283420"
+    ],
+    "source_citations": [
+      "E. Hultzsch, XV Contributions to Singhalese Chronology, Journal of the Royal Asiatic Society 45(3), July 1913, pages 517–531; section III, printed pages 520–521 (South Indian Inscriptions III 52, as cited). DOI: 10.1017/S0035869X00045093. Public annual-volume scan."
+    ]
+  },
+{
+    "id": "ledger-ef7d75a6a4672281720b",
+    "name": "Women seized after the king fled",
+    "place_and_era": "The text names Mahipala in a battle claim. The exact place and date of this act are unknown.",
+    "attested": "The text says the army put the king to flight. It then seized women and elephants. The women are people, not part of the goods.",
+    "unknown": "The women's names, number and ties to the king are unknown. The text does not say where they went or what happened to their homes.",
+    "next_step": "Keep the seizure of women distinct from the king's flight and goods. Ask what happened to the women after capture.",
+    "sources": [
+      "https://ignca.gov.in/Asi_data/67881.pdf"
+    ],
+    "source_citations": [
+      "E. Hultzsch, No. 31, Tirumalai Rock Inscription of Rajendra-Chola I, Epigraphia Indica IX, English translation, printed page 233, inscription lines 10–11; article printed pages 229–233."
+    ]
+  }
 ],
   "cases_awaiting_map_locations": [
     {
@@ -5300,6 +5636,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-19",
-  "update_scope": "Ten research notes on Mesa Verde and Hopi accounts"
+  "updated_on": "2026-10-20",
+  "update_scope": "24 South Asia research notes with source links"
 }

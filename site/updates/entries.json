@@ -1800,6 +1800,25 @@
         }
       ],
       "backfilled": false
+    },
+{
+  "id": "south-asia-source-notes-r41",
+  "title": "24 South Asia research notes with source links",
+  "occurred_at": "2026-10-20T00:59:11.854100Z",
+  "published_at": "2026-10-20T01:28:06.545730Z",
+  "kind": "research",
+  "paragraphs": [
+    "We added 24 South Asia research notes. Each note has a source link and printed page locations. The notes cover royal flight, capture and conquest.",
+    "These notes draw on three works. One is an English translation. Two are articles that discuss older texts and inscriptions. These works share sources. They are not three independent witnesses.",
+    "Each note states what the source reports and what remains unknown. The effects on homes and land are still questions in some notes. These are research notes, not 24 new atlas cases. The atlas counts and statistical results stay the same."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
     }
+  ],
+  "backfilled": false
+}
   ]
 }
