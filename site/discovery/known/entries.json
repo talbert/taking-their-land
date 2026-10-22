@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r43-fifty-two-source425-rss78",
+  "version": "r44-r2-three-source428-report434-rss79",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -4907,7 +4907,49 @@
         "Eaton 1993, chapter 5, note 62"
       ]
     }
-],
+,
+{
+  "id": "ledger-f4b72c60fcf56b0d1df3",
+  "name": "Jessore comes under Mughal rule",
+  "place_and_era": "The source names Jessore in Bengal. It gives no year for this loss of rule.",
+  "attested": "Eaton reports that Mughal forces defeated Pratapaditya and put him in prison. Mughal officers then took control of the lands under his rule. They assessed the revenue from those lands.",
+  "unknown": "The source does not show that residents lost homes or land rights. The date and the harm to residents remain unclear.",
+  "next_step": "Assess this reported loss of rule. Keep the earlier promise of retained lands separate from the later loss of control.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn06.71"
+  ],
+  "source_citations": [
+    "Eaton 1993, chapter 6, notes 71–73"
+  ]
+},
+{
+  "id": "ledger-bfe53f3f5e528d964524",
+  "name": "Sand Canyon Pueblo: attack and loss of residence",
+  "place_and_era": "Sand Canyon Pueblo, southwest Colorado. The attack was after 1277 CE. The report estimates that use of the site as a home ended around 1280 CE.",
+  "attested": "The site report links a lethal attack to the end of residence at Sand Canyon Pueblo.",
+  "unknown": "The report does not establish who attacked, where survivors went, or how many people died.",
+  "next_step": "Review this record for atlas admission. Keep the earlier departures separate from the final attack.",
+  "sources": [
+    "https://crowcanyon.org/ResearchReports/SandCanyon/Text/scpw_summaryconclusions"
+  ],
+  "source_citations": [
+    "Kuckelman 2007, chapter 9, paragraphs 9-16, 51-62, 65-66"
+  ]
+},
+{
+  "id": "ledger-dcdc737488a8ebcb2b6f",
+  "name": "Mahmud cedes territory to Sher Khan",
+  "place_and_era": "Eaton places the cession west of Rajmahal in 1535.",
+  "attested": "Eaton reports that Sher Khan forced Mahmud to give up territory west of Rajmahal. Mahmud also had to pay tribute.",
+  "unknown": "The exact area and changes to local rights remain unclear. The source does not establish that residents lost homes.",
+  "next_step": "Assess the reported change in control. Keep the later overthrow separate.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn06.2"
+  ],
+  "source_citations": [
+    "Eaton 1993, chapter 6, notes 2 and 3"
+  ]
+}],
   "cases_awaiting_map_locations": [
     {
       "id": "atlas-9ddc1a71f66e0452f81b",
@@ -6421,5 +6463,5 @@
     }
   ],
   "updated_on": "2026-10-22",
-  "update_scope": "52 new research notes"
+  "update_scope": "Three new research notes"
 }

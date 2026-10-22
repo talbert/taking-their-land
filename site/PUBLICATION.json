@@ -42,37 +42,30 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "579312002f4330414ae47a6b85e65e1ea613c280dbb3f2e172fa6cd55a6a8ec4",
+  "tree_sha256": "cff60c0df70799150c9e13a2bf03066842b3b813858303a539856a24366f3587",
   "site_updates": {
     "schema": "taking-land-site-updates-v1",
-    "version": "r43-fifty-two-source425-rss78",
-    "entries": 78,
+    "version": "r44-r2-three-source428-report434-rss79",
+    "entries": 79,
     "source": "updates/entries.json",
-    "source_sha256": "a4676cd2dcd6841942635300ee2fb17b8ae02df2d68b72c34df6a1052a0070dd",
+    "source_sha256": "a2f1da153c7ea055b7d91548dd6b6796772320cb7e33ff8d9514cdc162dff797",
     "feed": "updates/feed.xml",
-    "feed_sha256": "1bcb522ad351d084d61c9baeb67632a0327976e382336c07940af6e51b718e3e",
+    "feed_sha256": "322e45648c72e021fb61caae21c6430af9b1d709df9f59644bc73c7f1fe8fad9",
     "discovery_list": {
       "schema": "discovery-list-binding-v1",
-      "version": "r43-fifty-two-source425-rss78",
+      "version": "r44-r2-three-source428-report434-rss79",
       "reviewed_on": "2026-10-17",
-      "ledger_sha256": "aef5b7fdefe1651b68cee8d57ed0811bc607726529f25ac84d2f4e738323b6c6",
-      "editorial_sha256": "efadcab030ca785b770c2eea467e1e7642d45d389207a621850aaf9837e93b28",
+      "ledger_sha256": "a4eed73fceb3e138a7f45ff282f4f0be4503fad0280adec2e077f1e22c5c9816",
+      "editorial_sha256": "636cfbaf14f66faff3e97284205e16bf6f5949bc3a28f47e59b386342c99cccf",
       "page": "discovery/known/index.html",
-      "page_sha256": "a2572b3ba090bf5b2922022e49457dfc322a451fb73d6b32c752c2170c28e89f",
+      "page_sha256": "ae5ac5a654be01168d14a7569b19939b80c328b4ea11a9e62d38f647f64da933",
       "data": "discovery/known/entries.json",
-      "data_sha256": "171389d31f1ffda2e662b48cf7cde0aa665123e70cbc2c2f9632ba09a653c1d0",
+      "data_sha256": "d86a38d61a959c5fb2a208a4e1c44e5f94a0c3633b8465318fad227c8d1f39e8",
       "updated_on": "2026-10-22",
-      "update_scope": "52 new research notes",
-      "entries": 425
+      "update_scope": "Three new research notes",
+      "entries": 428
     },
-    "discovery_report": {
-      "version": "r40-privacy-projection-source345-rss75",
-      "index": "discovery/index.html",
-      "index_sha256": "79cc06634af53fd1e25061de47454aaa38d1f66813d5b8ab732e010a0412176f",
-      "data": "discovery/report.json",
-      "data_sha256": "647fdb8617388f8bd14cc13d85f49ef9846e3ce0b0fcca7935c4781bbd91e2aa",
-      "runtime_scope": "This report uses local data with 571 cases. The live atlas has 540 cases and 552 stops. It does not release the local atlas."
-    },
+    "discovery_report": {"version": "r44-r2-source434-exposure54", "index": "discovery/index.html", "index_sha256": "331cf6823d0f3832f59a3067ca099c5139c766f5327f646253bc1d82d3387b1d", "data": "discovery/report.json", "data_sha256": "120b142cc18f639d8d6d76af66e29272e742a595cffafaac8f81e0a09cc12504", "runtime_scope": "Dated research report. Live atlas: 540 cases and 552 stops. Frozen statistical release: 676 events. Scientific memberships: 104 inactive."},
     "citation_scope": {
       "concept_DOI": "10.5281/zenodo.23410511",
       "issued_version_DOI": "10.5281/zenodo.23410512",
@@ -86,16 +79,7 @@
       "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
     }
   },
-  "discovery_status": {
-    "schema": "taking-land-public-discovery-status-delivery-v1",
-    "version": "p7-r3",
-    "layout_revision": "r1",
-    "status": "dated_bounded_search_report",
-    "index": "discovery/index.html",
-    "index_sha256": "dee79c8534a438e266c26f39f322ba9c67ecf31a97fb674c3ad241519e928512",
-    "report": "discovery/report.json",
-    "report_sha256": "c7714f3410a5b6798924467086a3446d90a2aedfb998bb270fa314b73ffb74f2"
-  },
+  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r44-r2-source434-exposure54", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "331cf6823d0f3832f59a3067ca099c5139c766f5327f646253bc1d82d3387b1d", "report": "discovery/report.json", "report_sha256": "120b142cc18f639d8d6d76af66e29272e742a595cffafaac8f81e0a09cc12504"},
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
@@ -133,21 +117,7 @@
     ]
   },
   "incoming_flight_notes": 22,
-  "publication_scope": {
-    "active_statistical_release": "second_pass_v7_676_unchanged",
-    "prior_public_cases": 539,
-    "frozen676_rendered": 538,
-    "atlas_only_cases_rendered": 2,
-    "known_ordinary_remaining": 74,
-    "holds": 64,
-    "discovery_report": "P7-r4-r1 dated nine-admission snapshot exact, no global coverage",
-    "isolated_scientific_admissions_asof_current_acceptance": 11,
-    "isolated_scientific_active": 0,
-    "atlas_only_pending_current": 9,
-    "native_partition_isolated_summary": "Dated9 nativecheckpoint retained exact, current11 separately accepted",
-    "graphical_share_feature": "unresolved separate UI proposal",
-    "geometry": "Only two accepted dated voyage proxies; no new origin/track geometry or four-case UI permission implied"
-  },
+  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 53, "holds": 64, "research_records": 434, "inactive_scientific_memberships": 104, "scientific_activations": 0, "discovery_report": "r44-r2-source434-exposure54"},
   "license_notice_source": "reuse/LICENSE.md",
   "preserved_download_notice": {
     "path": "data/LICENSE.md",

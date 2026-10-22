@@ -1858,5 +1858,28 @@
   ],
   "backfilled": false
 }
+  ,
+{
+  "id": "three-research-notes-r44",
+  "title": "Three new research notes",
+  "kind": "research",
+  "occurred_at": "2026-10-22T20:29:43.319957Z",
+  "published_at": "2026-10-22T21:21:33.270981Z",
+  "backfilled": false,
+  "paragraphs": [
+    "The research list adds notes on Jessore, Sand Canyon Pueblo and the territory Mahmud ceded to Sher Khan. Each note states what its source supports and what remains unknown. These records await atlas assessment.",
+    "The dated search report now records 54 partial attempts across 31 blocks and eight eras. Most search cells still await source work. No search channel, floor or cycle is complete.",
+    "The live atlas has 540 cases and 552 stops. The frozen release keeps its 676 events. The 104 separate scientific records remain inactive."
+  ],
+  "links": [
+    {
+      "label": "Source notes and their limits",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Dated search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
   ]
+}]
 }
