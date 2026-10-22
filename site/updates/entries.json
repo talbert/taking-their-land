@@ -1838,6 +1838,25 @@
     }
   ],
   "backfilled": false
+},
+{
+  "id": "fifty-two-research-notes-r43",
+  "title": "52 new research notes",
+  "occurred_at": "2026-10-22T06:00:23.221944Z",
+  "published_at": "2026-10-22T06:52:19.046307Z",
+  "kind": "research",
+  "paragraphs": [
+    "We added 52 research notes to the discovery list. They include histories from North America, Angola, and parts of Asia.",
+    "These notes are research records. They are not new atlas cases. Each note states what the source supports, what remains unclear, and what we must examine next.",
+    "The atlas still has 540 cases and 552 playback stops. This update keeps the map notes and the earlier posts unchanged."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    }
+  ],
+  "backfilled": false
 }
   ]
 }
