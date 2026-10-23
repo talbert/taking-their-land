@@ -1881,5 +1881,29 @@
       "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
     }
   ]
+},
+{
+  "id": "bengal-early-north-america-research-notes",
+  "title": "Research notes on Bengal and early North America",
+  "kind": "research",
+  "occurred_at": "2026-10-23T00:25:46.532336Z",
+  "published_at": "2026-10-23T01:01:39.506866Z",
+  "backfilled": false,
+  "paragraphs": [
+    "Four new entries ask about early North America. One concerns moves into walled towns in East Tennessee. Two concern possible migration and refuge. The fourth concerns later use of Etowah. The earlier Etowah entry now keeps two source accounts distinct.",
+    "Manrique describes the seizure and sale of wives and children for unpaid taxes in Bengal. The link to loss of homes or land remains unresolved.",
+    "These are research entries, not new atlas cases. The migration and refuge ideas remain hypotheses. Each source note states what the evidence supports and what remains unknown.",
+    "The search report now logs 56 partial attempts in 31 blocks across eight eras. No search channel or cycle is complete."
+  ],
+  "links": [
+    {
+      "label": "Research entries and their limits",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Dated search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ]
 }]
 }

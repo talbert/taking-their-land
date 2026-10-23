@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r44-r2-three-source428-report434-rss79",
+  "version": "r45-source433-report439-rss80",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -2627,16 +2627,21 @@
         ]
       },
 {
-      "id": "ledger-57cd72cbd1ca7c911ba8",
-      "name": "People left Etowah. An attack is one possible cause.",
-      "place_and_era": "Etowah center, North America. Dye places its abandonment by the end of the fourteenth century. This does not date an attack.",
-      "attested": "Dye reports that people abandoned Etowah. He gives a severe attack as one possible cause.",
-      "unknown": "The cause remains unclear. Who left, where they went and who later held the site remain unknown.",
-      "next_step": "Examine the proposed attack link. Compare other causes for why people left.",
-      "sources": [
-        "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-      ]
-    },
+  "id": "ledger-57cd72cbd1ca7c911ba8",
+  "name": "Etowah: violent loss and later use",
+  "place_and_era": "Etowah, northern Georgia. The 2024 study places its violent collapse around 1325-1375 and later use by about 1400.",
+  "attested": "Dye gives an attack as one possible cause of abandonment. Sullivan and coauthors report a violent attack and loss of the town's former political role. They also report later use of the site.",
+  "unknown": "The attackers, the number affected and the fate of those who left remain unknown. Later use does not prove that the former residents returned. Both accounts draw on King, so they do not give two independent checks.",
+  "next_step": "Assess the form of the attack and loss of residence at Etowah. Keep that loss separate from later use of the site.",
+  "sources": [
+    "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf",
+    "https://doi.org/10.1017/aaq.2024.1"
+  ],
+  "source_citations": [
+    "David H. Dye (2009), War Paths, Peace Paths, chapter 9, pp. 153-154 (PDF pp. 174-175).",
+    "Lynne P. Sullivan, Kevin E. Smith, Scott C. Meeks and Shawn M. Patch (2024), \"Tracking Mississippian Migrations from the Central Mississippi Valley to the Ridge and Valley with a Unified Absolute Chronology,\" American Antiquity 89(2): 221-237. DOI: 10.1017/aaq.2024.1. Relevant pages: 223, 225, 227, 229 and 232."
+  ]
+},
 {
       "id": "ledger-cb210339d45bd995b888",
       "name": "Sri Lanka: proposed Naga arrival in the Iron Age",
@@ -4949,6 +4954,76 @@
   "source_citations": [
     "Eaton 1993, chapter 6, notes 2 and 3"
   ]
+},
+{
+  "id": "ledger-f39035a7eb9f6597c2d0",
+  "name": "Bengal: seizure and sale of wives and children",
+  "place_and_era": "Bengal, South Asia. The account has seventeenth-century context. The dates of the practice are unknown.",
+  "attested": "Manrique reports that tax officials seized wives and children from families he called \"heathens\". He says they enslaved them and sold them at auction when families lacked the means to pay tax. An editor's note discusses non-Muslim debtors as a broader group.",
+  "unknown": "The chapter does not establish a change of home or land control. Destinations and numbers are unknown.",
+  "next_step": "Check whether this practice forced a move or changed land use or access. Names, counts and later land titles are not required.",
+  "sources": [
+    "https://arakan.data.blog/wp-content/uploads/2022/09/139_-travels_of_fray_sebastien_manrique_1629-16_-_h_hosten_c_eckford_luard.pdf"
+  ],
+  "source_citations": [
+    "Manrique, Travels of Fray Sebastien Manrique 1629-1643, volume I, chapter VI. Routledge 2016 reflow of the Luard/Hosten translation: physical page 119, sections [20/2]-[21/1]; editorial note 5, physical page 123. Original printed-page-53 crosswalk unverified."
+  ]
+},
+{
+  "id": "ledger-8167f6912a6b4492a2fe",
+  "name": "East Tennessee: moves into walled towns",
+  "place_and_era": "East Tennessee, late 1200s to early 1300s. The study links the Hiwassee Island and Dallas periods.",
+  "attested": "The authors report that turmoil led people from scattered farms and small villages into Dallas towns with wooden walls.",
+  "unknown": "The kind of pressure on these moves is unclear. The account does not show that every move was forced. Safety, imposed moves and agreed moves remain possible.",
+  "next_step": "Examine how turmoil changed where people lived and what choices they had.",
+  "sources": [
+    "https://doi.org/10.1017/aaq.2024.1"
+  ],
+  "source_citations": [
+    "Lynne P. Sullivan, Kevin E. Smith, Scott C. Meeks and Shawn M. Patch (2024), \"Tracking Mississippian Migrations from the Central Mississippi Valley to the Ridge and Valley with a Unified Absolute Chronology,\" American Antiquity 89(2): 221-237. DOI: 10.1017/aaq.2024.1. Relevant pages: 225, 226, 228 and 231."
+  ]
+},
+{
+  "id": "ledger-71d1b9ab4c79e050b244",
+  "name": "Middle Cumberland to Ridge and Valley: possible migration",
+  "place_and_era": "Middle Cumberland and Ridge and Valley regions, from the mid-1200s into the 1400s.",
+  "attested": "The authors propose a gradual movement between these regions. They compare dates, objects and studies of human remains.",
+  "unknown": "The migration model does not establish one forced route or one cause for all moves.",
+  "next_step": "Identify a bounded move and the pressure, loss of residence or change in land use involved.",
+  "sources": [
+    "https://doi.org/10.1017/aaq.2024.1"
+  ],
+  "source_citations": [
+    "Lynne P. Sullivan, Kevin E. Smith, Scott C. Meeks and Shawn M. Patch (2024), \"Tracking Mississippian Migrations from the Central Mississippi Valley to the Ridge and Valley with a Unified Absolute Chronology,\" American Antiquity 89(2): 221-237. DOI: 10.1017/aaq.2024.1. Relevant pages: 226 and 228-232."
+  ]
+},
+{
+  "id": "ledger-fa5affb266d4aeff1f20",
+  "name": "Hixon mound: possible refuge from northern Georgia",
+  "place_and_era": "Hixon mound, southeast Tennessee, in the 1200s and 1300s.",
+  "attested": "The authors report differences between people buried at Hixon and three nearby groups. They suggest refuge from northern Georgia, perhaps Etowah, as one explanation.",
+  "unknown": "The authors call the refuge idea speculative. The comparison does not prove an Etowah origin or a forced move. The study identifies no living area linked to the mound.",
+  "next_step": "Examine whether the people buried at Hixon came from northern Georgia and what caused any move.",
+  "sources": [
+    "https://doi.org/10.1017/aaq.2024.1"
+  ],
+  "source_citations": [
+    "Lynne P. Sullivan, Kevin E. Smith, Scott C. Meeks and Shawn M. Patch (2024), \"Tracking Mississippian Migrations from the Central Mississippi Valley to the Ridge and Valley with a Unified Absolute Chronology,\" American Antiquity 89(2): 221-237. DOI: 10.1017/aaq.2024.1. Relevant pages: 227-228 and 230."
+  ]
+},
+{
+  "id": "ledger-89d0ac48085aa0fcb44c",
+  "name": "Etowah: later use by about 1400",
+  "place_and_era": "Etowah, northern Georgia, by about 1400, after the earlier violent collapse.",
+  "attested": "The study reports that people used Etowah again. It became one of several towns of moderate size in the region.",
+  "unknown": "The later residents are not matched to those who left. The study does not establish a new taking of land or forced move into the site.",
+  "next_step": "Keep the later use linked to the earlier loss. Examine whether later use involved a separate taking or forced move.",
+  "sources": [
+    "https://doi.org/10.1017/aaq.2024.1"
+  ],
+  "source_citations": [
+    "Lynne P. Sullivan, Kevin E. Smith, Scott C. Meeks and Shawn M. Patch (2024), \"Tracking Mississippian Migrations from the Central Mississippi Valley to the Ridge and Valley with a Unified Absolute Chronology,\" American Antiquity 89(2): 221-237. DOI: 10.1017/aaq.2024.1. Relevant pages: 225 and 232."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -6462,6 +6537,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-22",
-  "update_scope": "Three new research notes"
+  "updated_on": "2026-10-23",
+  "update_scope": "Research notes on Bengal and early North America"
 }
