@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "r45-source433-report439-rss80",
+  "version": "20261023-r46-source-research-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -77,14 +77,19 @@
     "sources": []
   },
   {
-    "id": "ledger-053a269b934ecaccbba2",
-    "name": "A report of new rule in Kamata and Kamrup",
-    "place_and_era": "Kamata and western Assam (Kamrup). Eaton gives 1494 as campaign context. Exact dates and bounds remain unknown.",
-    "attested": "Eaton reports that Husain Shah invaded and annexed these tracts. The claim concerns a change of rule.",
-    "unknown": "The report does not establish civilian removal or resettlement. The length of control remains unclear. It does not define all of modern Assam.",
-    "next_step": "Define the tracts and the change in control in this report. Keep this process distinct from Tai-Ahom settlement.",
-    "sources": []
-  },
+  "id": "ledger-053a269b934ecaccbba2",
+  "name": "A report of new rule in Kamata and Kamrup",
+  "place_and_era": "Kamata and western Assam (Kamrup). Eaton gives 1494 as campaign context. Exact dates and bounds remain unknown.",
+  "attested": "Eaton reports that Husain Shah invaded and annexed these tracts. The claim concerns a change of rule.",
+  "unknown": "The report does not establish civilian removal or resettlement. The length of control remains unclear. It does not define all of modern Assam.",
+  "next_step": "Define the tracts and the change in control in this report. Keep this process distinct from Tai-Ahom settlement.",
+  "sources": [
+    "https://www.orientalnumismaticsociety.org/archive/ONS_066.pdf"
+  ],
+  "source_citations": [
+    "N. G. Rhodes, “Husain Shah of Bengal and his victory over Kamata,” Oriental Numismatic Society Newsletter 66 (June 1980), PDF page 4; printed page number unverified."
+  ]
+},
   {
     "id": "ledger-2519205ac1002324e4a7",
     "name": "A report of the removal of Ho-Chunk in Wisconsin",
@@ -429,16 +434,21 @@
     ]
   },
   {
-    "id": "ledger-68b856e66cb6741d7e43",
-    "name": "Chandra grants in Sylhet",
-    "place_and_era": "Sylhet, tenth century CE in this account. The king and exact year remain unnamed.",
-    "attested": "The chapter reports that a Chandra king gave land to monasteries and Brahmans. It also reports settlement in the tract.",
-    "unknown": "Prior users, their rights and the actual effects remain unknown. The settler and area estimates do not count people who lost land.",
-    "next_step": "Find the prior rights and actual control or residence changes. Keep the earlier Sylhet grant separate.",
-    "sources": [
-      "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#s1.1.3"
-    ]
-  },
+  "id": "ledger-68b856e66cb6741d7e43",
+  "name": "Chandra grants in Sylhet",
+  "place_and_era": "Sylhet, tenth century CE. Sircar places Sricandra's charter at about 930 CE. This date is an estimate.",
+  "attested": "Eaton reports land grants and settlement. Sircar describes land and revenue rights granted to religious bodies and Brahmans. The charter directs cultivators to pay the recipients. It excludes Buddhist holdings and land attached to a boat station.",
+  "unknown": "The charter does not show who enforced the change or whether cultivators lost earlier rights. The stated number of beneficiaries is not a count of arrivals or displaced people.",
+  "next_step": "Trace the earlier rights and the effects of the transfer. Keep the stated settlement and the excluded holdings in view.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#s1.1.3",
+    "https://ignca.gov.in/Asi_data/71509.pdf"
+  ],
+  "source_citations": [
+    "Richard M. Eaton, The Rise of Islam and the Bengal Frontier, 1204–1760, chapter 1, “Before the Turkish Conquest,” archive section s1.1.3 and note 54; printed pagination unverified.",
+    "D. C. Sircar, Epigraphic Discoveries in East Pakistan (1973), Lecture II, “Paschimbhag Plate of Sricandra, Regnal Year 5,” printed pages 19–40 (PDF pages 36–57); consulted edition discussion, not independently verified inscription transcription."
+  ]
+},
   {
     "id": "ledger-ffae1cf45d398b3dda1f",
     "name": "Chilula and Wiyot land question",
@@ -2397,17 +2407,23 @@
     ]
   },
   {
-    "id": "ledger-958114d7a0db337a7aa6",
-    "name": "Whistling Elk burned lodges",
-    "place_and_era": "Whistling Elk; departure date unknown",
-    "attested": "Excavators found a burned inner roof and a mostly unburned outer roof. Pots and tools lay on the floor. The authors infer a hasty departure and propose an attack as one possible cause.",
-    "unknown": "The cause, forced departure and later control of the land remain unknown. The finds do not prove an attack.",
-    "next_step": "Find evidence for the cause of departure and any loss of homes or land.",
-    "sources": [
-      "https://history.sd.gov/docs/Educational%20Series%208.pdf",
-      "https://www.nps.gov/subjects/ncptt/upload/2002-27.pdf"
-    ]
-  },
+  "id": "ledger-958114d7a0db337a7aa6",
+  "name": "Whistling Elk burned lodges",
+  "place_and_era": "Whistling Elk; departure date unknown",
+  "attested": "Excavators found a burned inner roof and a mostly unburned outer roof. Pots and tools lay on the floor. The authors infer a hasty departure and propose an attack as one possible cause.",
+  "unknown": "The cause, forced departure and later control of the land remain unknown. The finds do not prove an attack.",
+  "next_step": "Find evidence for the cause of departure and any loss of homes or land.",
+  "sources": [
+    "https://history.sd.gov/docs/Educational%20Series%208.pdf",
+    "https://www.nps.gov/subjects/ncptt/upload/2002-27.pdf",
+    "https://www.nps.gov/subjects/ncptt/upload/2002-27a.pdf"
+  ],
+  "source_citations": [
+    "Larry J. Zimmerman, Initial Coalescent: A Blending of Cultures, South Dakota Archaeology, Educational Series 8, PDF page 3; publication year and printed pagination unverified.",
+    "Dennis L. Toom and Kenneth L. Kvamme, “The ‘Big House’ At Whistling Elk Village (39HU242): Geophysical Findings and Archaeological Truths,” Plains Anthropologist 47(180) (2002), printed pages 5–16 (PDF pages 2–13).",
+    "Kenneth L. Kvamme, “Archaeological prospecting in fortified Great Plains villages: new insights through data fusion, visualization and testing,” Archaeological Prospection: 4th International Conference on Archaeological Prospection (2001), printed pages 141–143 (PDF pages 1–3); additional publication, not an established independent witness."
+  ]
+},
   {
     "id": "ledger-f4c8148513ebfb0a6173",
     "name": "Who sought refuge by the Nile?",
@@ -2616,16 +2632,21 @@
         ]
       },
 {
-        "id": "ledger-1afc4ed029b55df8e03c",
-        "name": "Flight and return at Norris Farms",
-        "place_and_era": "Norris Farms 36 in the Illinois River valley. The source places village life around AD 1300. Dates of each attack remain unknown.",
-        "attested": "Dye reports repeated attacks on the village. People who escaped left and returned later. The attacks interrupted their use of the village.",
-        "unknown": "The place of each attack and the attackers remain unknown. Dye leaves the burial party unclear. He does not establish permanent loss of the village.",
-        "next_step": "Keep this reported flight and return as one research record. Seek evidence about the attacks and their effects on village use.",
-        "sources": [
-          "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf"
-        ]
-      },
+  "id": "ledger-1afc4ed029b55df8e03c",
+  "name": "Flight and return at Norris Farms",
+  "place_and_era": "Norris Farms 36 in the Illinois River valley. The source places village life around AD 1300. Dates of each attack remain unknown.",
+  "attested": "Dye reports repeated attacks, flight and later return. Tubbs describes newer evidence that Oneota and Middle Mississippian people lived together at Morton Village. Her account retains both violence and cooperation.",
+  "unknown": "The place of each attack, the attackers and the burial party remain unclear. Newer, preliminary finds do not support an earlier theory of restricted access to food. This does not rule out brief flight or prove permanent loss of the village.",
+  "next_step": "Keep the flight and return account distinct from the theory of restricted access to food. Check the original attack studies.",
+  "sources": [
+    "https://ndl.ethernet.edu.et/bitstream/123456789/51917/1/2.David%20H.%20Dye.pdf",
+    "https://d.lib.msu.edu/etd/2031/OBJ/download"
+  ],
+  "source_citations": [
+    "David H. Dye, War Paths, Peace Paths (2009), chapter 8, printed pages 130–131 (PDF pages 151–152); consulted synthesis, cited originals unread.",
+    "Ryan Maureen Tubbs, Ethnic Identity and Diet in the Central Illinois River Valley (Michigan State University doctoral dissertation, 2013), sections 3.4–3.5, printed pages 44–58 (PDF pages 63–77); these sections only, full dissertation and isotope results unread."
+  ]
+},
 {
   "id": "ledger-57cd72cbd1ca7c911ba8",
   "name": "Etowah: violent loss and later use",
@@ -4339,19 +4360,23 @@
       ]
     },
 {
-      "id": "ledger-a463168d605691298cc5",
-      "name": "Health and burial treatment at Harappa",
-      "place_and_era": "Harappa, in present-day Pakistan; burial groups from about 2550 to 1700 BCE. These dates describe the study, not a removal event.",
-      "attested": "The study found signs of disease in burial groups at Harappa. It draws on earlier work about injuries. The authors report unequal burial treatment and population decline.",
-      "unknown": "The study does not establish whether a group was forced from its homes or lost the use of land. Its burial samples do not show how common disease or violence was among living people.",
-      "next_step": "Check the original records for the burials and homes. Look for evidence that connects the treatment of a group with a change in its homes or land use.",
-      "sources": [
-        "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0084814"
-      ],
-      "source_citations": [
-        "Gwen Robbins Schug and colleagues, Infection, Disease, and Biosocial Processes at the End of the Indus Civilization, PLOS ONE 8(12), e84814 (2013), pp.4–11 and16–17; Tables1–2. DOI:10.1371/journal.pone.0084814."
-      ]
-    },
+  "id": "ledger-a463168d605691298cc5",
+  "name": "Health and burial treatment at Harappa",
+  "place_and_era": "Harappa, in present-day Pakistan; burial groups from about 2550 to 1700 BCE. These dates describe the study, not a removal event.",
+  "attested": "A study reports disease and unequal burial treatment at Harappa. It cites earlier injury findings and discusses population decline. The original dig report describes mixed human and animal remains with burial pottery in Area G.",
+  "unknown": "The dig report names several possible causes: massacre, raid, accident or epidemic. These sources do not establish that a group lost its homes or use of land. The burial samples do not show rates of disease or violence among people alive at the time.",
+  "next_step": "Compare the Area G burial context with evidence for where people lived. Check whether a specific process changed access to homes or land for a group.",
+  "sources": [
+    "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0084814",
+    "https://ignca.gov.in/Asi_data/18220.pdf",
+    "https://archive.org/download/in.gov.ignca.9842/9842.pdf"
+  ],
+  "source_citations": [
+    "Gwen Robbins Schug and colleagues, Infection, Disease, and Biosocial Processes at the End of the Indus Civilization, PLOS ONE 8(12), e84814 (2013), pp.4–11 and16–17; Tables1–2. DOI:10.1371/journal.pone.0084814.",
+    "Madho Sarup Vats, Excavations at Harappa (1940), vol. I, Chapter V, pp. 192–202; especially pp. 197–202. PDF pages 219–229.",
+    "Vats, Excavations at Harappa (1940), vol. II, plates XXXIX–XLII and LVIII(a). PDF pages 89, 90, 92, 94 and 124."
+  ]
+},
 {
       "id": "ledger-61c98e9b0fbbd5c4836d",
       "name": "Fire and departure at a Mitchell house",
@@ -4479,19 +4504,23 @@
       ]
     },
 {
-      "id": "ledger-17af19ccf4a70c0479af",
-      "name": "The destruction at Begram",
-      "place_and_era": "The second settlement level at Begram. Its destruction date remains disputed.",
-      "attested": "Puri describes a major destruction layer at Begram. Claims about Shapur and the date remain disputed.",
-      "unknown": "The responsible actor, the fate of residents and the length of lost use are unknown.",
-      "next_step": "Assess what the layer establishes about use of the site or control of it. Keep the trace separate from its proposed cause.",
-      "sources": [
-        "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
-      ],
-      "source_citations": [
-        "B. N. Puri, The Kushans, History of Civilizations of Central Asia, volume II, chapter 11 (first publication 1994; held impression 1996), pp. 243."
-      ]
-    },
+  "id": "ledger-17af19ccf4a70c0479af",
+  "name": "Begram: destruction and abandonment questions",
+  "place_and_era": "The New Royal City at Begram, Afghanistan. The dates and links between its occupation layers remain disputed.",
+  "attested": "Puri reports destruction at Begram. Later studies question the dates and links between layers; Morris argues for continued occupation, then abandonment.",
+  "unknown": "The cause of abandonment and its effect on residents are not established. The studies may refer to different layers.",
+  "next_step": "Compare the excavation records to identify which layers each account describes and what ended their use.",
+  "sources": [
+    "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf",
+    "https://www.persee.fr/doc/topoi_1161-9473_2001_num_11_1_1942",
+    "https://www.basar.uni-freiburg.de/wp-content/uploads/2018/01/Lauren-Morris-Deposition-of-Begram-Hoard-2017.pdf"
+  ],
+  "source_citations": [
+    "B. N. Puri, The Kushans, History of Civilizations of Central Asia, volume II, chapter 11 (first publication 1994; held impression 1996), pp. 243.",
+    "Osmund Bopearachchi, Les données numismatiques et la datation du bazar de Begram, Topoi 11/1 (2001; published 2003), pp. 411–435.",
+    "Lauren Morris, Revised dates for the deposition of the Begram hoard and occupation at the New Royal City, Parthica 19 (2017), pp. 75–104; consulted manuscript, physical pp. 1–30, with five figures omitted."
+  ]
+},
 {
       "id": "ledger-ec5a5bdf0132d9689874",
       "name": "Ardashir takes three eastern tracts",
@@ -4647,19 +4676,21 @@
       ]
     },
 {
-      "id": "ledger-ad5706e67abef6d2975c",
-      "name": "A decline in Lower Ohio Valley settlement",
-      "place_and_era": "The Lower Ohio Valley. Muller places much of the decline after about 1350, perhaps later. Some occupation continued.",
-      "attested": "Muller describes a large decline in settlement. He rejects a sudden departure of every resident.",
-      "unknown": "The causes, people who left, routes and exact sequence remain unclear. The chapter does not establish forced removal.",
-      "next_step": "Clarify where residence declined and where people stayed. Examine causes. A decline does not by itself prove expulsion.",
-      "sources": [
-        "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
-      ],
-      "source_citations": [
-        "Muller 1993, chapter 10, printed p. 132 (context pp. 131–132)"
-      ]
-    },
+  "id": "ledger-ad5706e67abef6d2975c",
+  "name": "A decline in Lower Ohio Valley settlement",
+  "place_and_era": "The Lower Ohio Valley and the Wabash river mouth. The later study covers a broad period from about 1400 to 1700. These are context dates, not the date of one move.",
+  "attested": "Muller describes a large decline in settlement. He rejects a sudden departure of every resident. Pollack and Munson describe a move downstream from Angel toward the Wabash. They report that settlement density and outside exchange continued.",
+  "unknown": "The causes, people who left, routes and exact sequence remain unclear. The accounts cover different places and scales. Neither establishes forced removal. Continued settlement density does not prove that the total number of people stayed the same.",
+  "next_step": "Trace where people stayed or moved after Angel was left. Keep that local history separate from wider decline. Test the proposed causes. Do not treat decline as proof of expulsion.",
+  "sources": [
+    "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf",
+    "https://heritage.ky.gov/Documents/Current%20Archaeological%20Research%20in%20KY%20Vol%205.pdf"
+  ],
+  "source_citations": [
+    "Muller 1993, chapter 10, printed p. 132 (context pp. 131–132)",
+    "David Pollack and Cheryl Ann Munson, Caborn-Welborn Ceramics: Intersite Comparisons and Extraregional Interaction, Current Archaeological Research in Kentucky, Volume Five (1998), printed pp. 163, 165."
+  ]
+},
 {
       "id": "ledger-b65e0c3d1d7919267c6d",
       "name": "Possible upland moves away from demands by chiefs",
@@ -4703,19 +4734,21 @@
       ]
     },
 {
-      "id": "ledger-c2fde15ed83675d13e46",
-      "name": "An attack and a question about homes",
-      "place_and_era": "The McCutchan-McLaughlin site. The date of the reported attack is unknown.",
-      "attested": "Schambach reports violent deaths at the site. He questions who made the attack and where they came from.",
-      "unknown": "The report does not establish whether people lost homes or land. The cause, date and attackers remain unclear.",
-      "next_step": "Clarify who used the site before and after the attack. Ask what changed in residence or land use.",
-      "sources": [
-        "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
-      ],
-      "source_citations": [
-        "Schambach 1993, chapter 13, printed pp. 191–192 (PDF physical pp. 204–205)"
-      ]
-    },
+  "id": "ledger-c2fde15ed83675d13e46",
+  "name": "An attack and a question about homes",
+  "place_and_era": "The McCutchan-McLaughlin site. The date of the reported attack is unknown.",
+  "attested": "Schambach reports violent deaths at the site. Leith reports possible homes near the mound that held graves. Excavation exposed part of one possible home, with a floor and possible posts. His study also uses earlier work on the deaths and proposes a boundary between groups.",
+  "unknown": "The accounts do not establish who used the tested home when the attack took place. They do not show whether the attack caused loss of homes or land. The attack date remains unknown. He did not excavate the other possible homes at this site.",
+  "next_step": "Check whether the people killed lived at the site. Ask what the attack changed in the use of homes or land.",
+  "sources": [
+    "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf",
+    "https://shareok.org/items/04cacc7b-d07e-400b-8f9e-18e75ade8e69"
+  ],
+  "source_citations": [
+    "Schambach 1993, chapter 13, printed pp. 191–192 (PDF physical pp. 204–205)",
+    "Luther J. Leith, A Re-Conceptualization of the Fourche Maline Culture: The Woodland Period as a Transition in Eastern Oklahoma (PhD dissertation, University of Oklahoma, 2011), printed pp. 37–39 and 140–177. Selected site context and settlement/territoriality chapters; figures, other chapters and cited originals not verified."
+  ]
+},
 {
       "id": "ledger-2712ca6e4e892e27bd8e",
       "name": "A proposed trader settlement at Sanders",
@@ -5023,6 +5056,1370 @@
   ],
   "source_citations": [
     "Lynne P. Sullivan, Kevin E. Smith, Scott C. Meeks and Shawn M. Patch (2024), \"Tracking Mississippian Migrations from the Central Mississippi Valley to the Ridge and Valley with a Unified Absolute Chronology,\" American Antiquity 89(2): 221-237. DOI: 10.1017/aaq.2024.1. Relevant pages: 225 and 232."
+  ]
+},
+{
+  "id": "ledger-167a47730862ceb3b628",
+  "name": "A Christian farm community at Bhallua",
+  "place_and_era": "Bhallua; observed in 1713",
+  "attested": "A priest visited the village. He described a local leader, his sons and workers in a farm community.",
+  "unknown": "The start date and any loss of earlier land use are unknown. The source does not establish the origin of the leader.",
+  "next_step": "Trace how the village formed and who used its land before.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, notes 98, 99, 100."
+  ]
+},
+{
+  "id": "ledger-50cadf4125f687da1aaf",
+  "name": "A disputed market on shrine land",
+  "place_and_era": "Satkania; grant in 1734, complaint date unknown",
+  "attested": "A shrine trustee said Tej Singh set up a market on shrine land without right. The trustee asked for its removal.",
+  "unknown": "The passage does not give the judgment or say that the market was removed.",
+  "next_step": "Find the outcome of the complaint and its effect on land use.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, notes 51."
+  ]
+},
+{
+  "id": "ledger-27adf3474e4f19c9c3c1",
+  "name": "A gap in residence at Strawberry Island",
+  "place_and_era": "Strawberry Island, lower Snake River, Washington. Early homes predate European contact. The date of any departure is unknown.",
+  "attested": "The report records two groups of homes built at different times. The author suggests a long gap in residence, followed by later use of the site.",
+  "unknown": "The cause of the gap is unknown. Some homes had several floors, so the evidence does not show that all people left.",
+  "next_step": "Check the dates and layers for each group of homes. Look for evidence of why residence ended or changed.",
+  "sources": [
+    "https://archive.org/details/DTIC_ADA132291"
+  ],
+  "source_citations": [
+    "Randall F. Schalk (editor; Chapter 7 author), The 1978 and 1979 Excavations at Strawberry Island in the McNary Reservoir, Project Report 19 (1983), Chapter 7, printed pp. 137–148."
+  ]
+},
+{
+  "id": "ledger-dce347ee9714c1ae32da",
+  "name": "A general transfers control under Sena V",
+  "place_and_era": "Sri Lanka during Sena V's reign, in the tenth century. The source reports the second regnal year.",
+  "attested": "Codrington describes a general's retaliation after the king killed his brother. Control changed before reconciliation and the king's return.",
+  "unknown": "The account calls the treatment oppressive but does not specify all acts. It does not establish mass expulsion.",
+  "next_step": "Identify the acts and affected places. Keep this episode separate from Mahinda's later flight.",
+  "sources": [
+    "https://books.lakdiva.org.lk/codrington/chap03.html"
+  ],
+  "source_citations": [
+    "H. W. Codrington, A Short History of Ceylon, chapter III, Sena V (web transcription)."
+  ]
+},
+{
+  "id": "ledger-c51c16110c8ccd67cdb8",
+  "name": "A grant and settlement at Pingla",
+  "place_and_era": "Midnapur; a later account places the grant during the reign of Taj Khan Karrani, 1564–65.",
+  "attested": "A tradition links Khondkar Shah Ala to a grant from Taj Khan Karrani. Local people helped clear forest.",
+  "unknown": "The account does not establish the grant boundary, earlier land rights or any forced move.",
+  "next_step": "Check what rights the grant changed and who used the land.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.44"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 44."
+  ]
+},
+{
+  "id": "ledger-8ffe660dc764b8e3eb80",
+  "name": "A Kalinga ruler seeks refuge in Lanka",
+  "place_and_era": "Kalinga and Sri Lanka, probably the early seventh century. The date is not secure.",
+  "attested": "Codrington reports that a ruler left Kalinga because of war and became a monk in Lanka.",
+  "unknown": "The ruler is unnamed. The link to Pulakesin's conquest and its date is tentative. No wider group of refugees is established.",
+  "next_step": "Identify the chronicle passage and assess the reported departure. Keep its cause open.",
+  "sources": [
+    "https://books.lakdiva.org.lk/codrington/chap03.html"
+  ],
+  "source_citations": [
+    "H. W. Codrington, A Short History of Ceylon, chapter III, Kalinga ruler flight (web transcription)."
+  ]
+},
+{
+  "id": "ledger-2aed7d425b03a286fd8a",
+  "name": "A kazi settlement in Gaurnadi: record 696",
+  "place_and_era": "Gaurnadi, Bakarganj; recorded in surveys from 1902–1913. The settlement date is unknown.",
+  "attested": "A survey links the community to a kazi who was among the early settlers.",
+  "unknown": "The account does not establish earlier land rights or a taking. This village has a separate survey record.",
+  "next_step": "Trace this community and its land history without merging the two records.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.91"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 91."
+  ]
+},
+{
+  "id": "ledger-df8ce4f0e09aed402392",
+  "name": "A lama and part of his flock in refuge",
+  "place_and_era": "From Sikkim to Puraniya district. Hamilton published the account in 1819. He gives no exact year for the flight.",
+  "attested": "Hamilton says a lama fled with part of his flock to escape Gorkhalese violence. The lama was his main source on Sikkim.",
+  "unknown": "Hamilton reports what an informant told him. The home village, group size and ethnic identity remain unknown. The account does not establish permanent settlement or a later return.",
+  "next_step": "Trace this group and its former homes. Keep this earlier flight separate from the letter of 1827.",
+  "sources": [
+    "https://www.gutenberg.org/files/30364/30364-h/30364-h.htm"
+  ],
+  "source_citations": [
+    "Francis Buchanan Hamilton, An Account of the Kingdom of Nepal (1819). Hamilton1819 Introduction printed1–2, with entire introduction1–6 read for method; Country of Sikim118–128 for bounded context. HTML transcription with print anchors; no scanned-page verification. Informant account, not an eyewitness claim about flight."
+  ]
+},
+{
+  "id": "ledger-d9af057dc49cc29dadf0",
+  "name": "A land grant and settlement at Mithapur",
+  "place_and_era": "Mithapur in Bengal; an eighteenth-century settlement account.",
+  "attested": "Eaton links settlement at Mithapur to a revenue grant and cooperation between Janaki Ballav Roy and Shaikh Ghazi.",
+  "unknown": "The account does not establish prior rights or show that anyone had to leave. Forest does not mean vacant land.",
+  "next_step": "Identify the land rights before and after the grant, and any earlier residents.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.94"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 8, notes 94."
+  ]
+},
+{
+  "id": "ledger-7cc4e799a66c3782f66c",
+  "name": "A leader leaves Saiyidpur",
+  "place_and_era": "Saiyidpur in Bengal; an account from 1906 about the eighteenth century.",
+  "attested": "Eaton reports that a captain got a holy man to leave after local farmers withheld rent. The captain then gained revenue rights.",
+  "unknown": "How the man left and where he went are unknown. The account does not establish a violent attack.",
+  "next_step": "Define the change in control. Keep the unknown means of departure explicit.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.97"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 8, notes 97."
+  ]
+},
+{
+  "id": "ledger-aa1f7972066b856f58c8",
+  "name": "A possible refuge at Cerro de en medio",
+  "place_and_era": "Aguascalientes, Mexico. The study concerns the Late Classic period, 500 to 900 CE. This does not date a known flight.",
+  "attested": "The study records hilltop homes, walls and food stores. The authors suggest that people used the site as a refuge.",
+  "unknown": "The study does not show who sought shelter or why people later left. The authors also consider other uses for the food stores and hilltop.",
+  "next_step": "Look for evidence of when people lived at the site, why they came and why they left.",
+  "sources": [
+    "https://doi.org/10.1080/15740773.2022.2124143"
+  ],
+  "source_citations": [
+    "Manuel de Jesús Dueñas-Garcia, Miriam Selene Campos-Martinez and Nicola Lercari, Evaluating settlement defensibility during the late classic (2022), author-uploaded version: internal pp. 17–24; methods/results pp. 7–16. Final pagination not mapped."
+  ]
+},
+{
+  "id": "ledger-f4d0a345e581a6f37381",
+  "name": "A possible temporary move at Consol",
+  "place_and_era": "Consol, in the Upper Ohio Valley. The study compares the earlier village with sites occupied in the 1300s. It does not give the date of a temporary move.",
+  "attested": "Two village layouts overlap. The authors infer that residents had to live elsewhere for a time between the two occupations. They think that the same community built both villages.",
+  "unknown": "The place where people stayed, the length of the gap and its cause remain unknown. The source does not establish force or loss of land rights. It leaves the cause of later village growth open.",
+  "next_step": "Check the dates and order of construction. Look for evidence of where people lived during the gap and why they moved.",
+  "sources": [
+    "https://doi.org/10.1371/journal.pone.0276014"
+  ],
+  "source_citations": [
+    "John P. Hart and Bernard K. Means, The Monongahela tradition in “real time”: Bayesian analysis of radiocarbon dates (2022), PLOS ONE 17(10): e0276014, DOI 10.1371/journal.pone.0276014. Discussion, paragraph beginning Consol’s two components represented discrete occupations; temporary relocation and same-community inference remain qualified."
+  ]
+},
+{
+  "id": "ledger-7e980bf8cf3af7d7edc6",
+  "name": "A southward village shift near the Spoon River",
+  "place_and_era": "Central Illinois River Valley, near the Spoon and Illinois river junction. Wilson links the shift to Oneota arrival around 1300.",
+  "attested": "Wilson reports that villages shifted south as Oneota people arrived in the area. He suggests conflict as a cause. He gives alliances and captivity as possible explanations for mixed pottery.",
+  "unknown": "The cause of the move is not established. The source does not name every community or identify the attackers at Orendorf. Mixed pottery alone does not prove captive movement.",
+  "next_step": "Check the link between the reported move and conflict. Keep alliance, captive and other accounts distinct.",
+  "sources": [
+    "https://www.wilson.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_wilson/files/sitefiles/publications/Wilson%202015.pdf",
+    "https://wilson.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_wilson/files/sitefiles/Reassessing_the_chronology_of_the_Missis.pdf"
+  ],
+  "source_citations": [
+    "Greg D. Wilson, Incinerated Villages in the North (2015), printed pp. 104. Original author-hosted chapter; full eight-page text layer and selected published images read. Underlying excavation reports not independently read.",
+    "Gregory D. Wilson, Mallory A. Melton, Amber M. VanDerwarker, Reassessing the chronology of the Mississippian Central Illinois River Valley using Bayesian analysis (2017), ahead-of-print physical pp. 4. Consulted author-archived ahead-of-print version; physical pages1–4 and13–15 read. No full model audit or crosswalk to2018issue22–38. Overlapping author, not independent attack confirmation."
+  ]
+},
+{
+  "id": "ledger-ed9207da4c8d720dd7fd",
+  "name": "Afghan refuge in Sylhet",
+  "place_and_era": "Southern Sylhet; late sixteenth-century context",
+  "attested": "Eaton says Afghan chiefs fled Mughal forces as they advanced. The chiefs found refuge in southern Sylhet.",
+  "unknown": "The passage does not name their home tracts. It does not show what changed for people already in Sylhet.",
+  "next_step": "Trace this flight and its effects. Keep it distinct from earlier Afghan arrivals.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, Religious Gentry of Sylhet opening narrative."
+  ]
+},
+{
+  "id": "ledger-bdaf6c3439d7a71598c3",
+  "name": "Ahom defeat of sultanate forces",
+  "place_and_era": "Kuch Bihar and Kamrup, in 1533.",
+  "attested": "A note by Eaton reports that Ahom forces defeated the sultanate army. The sultanate then withdrew from Kuch Bihar and Kamrup.",
+  "unknown": "This does not show that the wider population was deported. The account does not define the later control of every part of the region.",
+  "next_step": "Compare this reversal with the earlier sultanate conquest. Keep it distinct from the broad history of Ahom settlement.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.75"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.6, notes 75."
+  ]
+},
+{
+  "id": "ledger-9c5262f1c1c94439073e",
+  "name": "Altamaha and Ocute withdrawal",
+  "place_and_era": "Coastal South Carolina toward Guale and Florida, after the 1715 war.",
+  "attested": "Smith traces Altamaha and Ocute as Lower Yamassee towns. He reports their later withdrawal toward Guale and Florida.",
+  "unknown": "The order of events does not establish whether or how people were forced to move. It does not show that they took others’ land on arrival.",
+  "next_step": "Keep these groups and their destinations separate from the Lower Creek return.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 36."
+  ]
+},
+{
+  "id": "ledger-1cc58ed2fc5cd0e40dee",
+  "name": "An order to take back land grants",
+  "place_and_era": "Sylhet; order in 1672-1673",
+  "attested": "Eaton reports an order to take back Hindu rent-free grants. He also records further grants to Hindus in Sylhet after that order.",
+  "unknown": "The order does not prove that each grant was taken back. Later grants do not prove that no one lost rights.",
+  "next_step": "Find evidence of how the order was applied to particular grants.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, notes 93, 94."
+  ]
+},
+{
+  "id": "ledger-764b99d3d4850381b218",
+  "name": "An unexplained departure from Daimabad",
+  "place_and_era": "Daimabad, Maharashtra, India. This question concerns the end of the Late Harappan phase and the later Daimabad phase. The departure date is unresolved.",
+  "attested": "Sali reports a gap between occupations and weathered deposits. He says the reason that the Late Harappan residents left is unknown.",
+  "unknown": "The report does not establish why people left or where they went. Later occupation does not show that the new residents forced them out.",
+  "next_step": "Check the layers and dates of the gap. Look for evidence of the cause of departure and later use.",
+  "sources": [
+    "https://asi.nic.in/admin/publications/ePublicationReportsDetails/download/49"
+  ],
+  "source_citations": [
+    "S. A. Sali, Daimabad 1976–79, Memoirs of the Archaeological Survey of India 83 (1986), printed pp. 21, 24, 26."
+  ]
+},
+{
+  "id": "ledger-6f09f12258058f4bfec0",
+  "name": "Apalachee settlement near Savannah Town",
+  "place_and_era": "From the Tallahassee area to near former Savannah Town, 1704.",
+  "attested": "Smith reports Apalachee settlement near former Savannah Town. Barnwell’s map marks the Apalatachee town as deserted in 1715.",
+  "unknown": "The riverbank and local land relations are unclear. The account does not show that all arrivals were captives. Later copies of maps do not prove continued residence.",
+  "next_step": "Keep this place of arrival separate from the attacks in Florida. Check the local land relations.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, pp. 34, 35, 36."
+  ]
+},
+{
+  "id": "ledger-a6793ca2faa86d7dfe17",
+  "name": "Birbhum under Mughal rule",
+  "place_and_era": "Birbhum, in the early Mughal period described by Eaton.",
+  "attested": "Eaton reports that Birbhum submitted to Mughal rule without resistance. He places this in a western region where much local administration continued.",
+  "unknown": "The account does not establish eviction of the people who lived there. Continued local rule does not mean there was no change in power.",
+  "next_step": "Assess the change in rule and keep local continuity visible. Do not require expulsion for a land-control question.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.67"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.5, notes 67."
+  ]
+},
+{
+  "id": "ledger-0bc0c47cc7187b3e10c4",
+  "name": "Blue Mesa: death and a burned house",
+  "place_and_era": "Blue Mesa, Colorado, site 5LP379, in the early Pueblo I regional study. The event date is unresolved.",
+  "attested": "Potter reports an interpretation of a woman’s death as violence followed by destruction of the house.",
+  "unknown": "He also allows burial followed by ritual burning. The source does not settle which process occurred.",
+  "next_step": "Read Fritz and Honeycutt’s report to check the remains, fire and residential context.",
+  "sources": [
+    "https://archaeologycolorado.org/sites/default/files/Potter%2C%20James%20M.%20%282010%29%20The%20Community.%20In%20Animas-La%20Plata%20Project.pdf"
+  ],
+  "source_citations": [
+    "James M. Potter, The Community, Animas–La Plata Project, Volume XVI: Final Synthetic Report, chapter 13 (2010), pp. 253, 255."
+  ]
+},
+{
+  "id": "ledger-ea6e820e9a2150eee828",
+  "name": "Bodo Canyon: a house fire",
+  "place_and_era": "Bodo Canyon, Colorado, site 5LP481, in the early Pueblo I regional study. The event date is unresolved.",
+  "attested": "Potter reports two people interpreted as trapped when a pit house burned.",
+  "unknown": "The cause of the fire is unclear. Accidental fire remains possible; deliberate removal is not established.",
+  "next_step": "Read Fuller’s report to check the fire context and the end of residential use.",
+  "sources": [
+    "https://archaeologycolorado.org/sites/default/files/Potter%2C%20James%20M.%20%282010%29%20The%20Community.%20In%20Animas-La%20Plata%20Project.pdf"
+  ],
+  "source_citations": [
+    "James M. Potter, The Community, Animas–La Plata Project, Volume XVI: Final Synthetic Report, chapter 13 (2010), pp. 253, 256."
+  ]
+},
+{
+  "id": "ledger-29cb4a9764ab4650b61b",
+  "name": "Burned homes and departure at Orendorf",
+  "place_and_era": "Central Illinois River Valley. Wilson places the final village fire around 1250. This is an estimate.",
+  "attested": "Wilson says fire destroyed the final village. People left in haste and left valuable goods in their homes. He says warfare was the most likely cause.",
+  "unknown": "The attackers, exact year and places where survivors went are unknown. The account does not prove that a man found in a burned house died in that fire. Regional grave counts do not give a death count for this event.",
+  "next_step": "Assess this village destruction and departure under the atlas rules. Keep the likely cause and estimated date clear.",
+  "sources": [
+    "https://www.wilson.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_wilson/files/sitefiles/publications/Wilson%202015.pdf"
+  ],
+  "source_citations": [
+    "Greg D. Wilson, Incinerated Villages in the North (2015), printed pp. 102, 103. Original author-hosted chapter; full eight-page text layer and selected published images read. Underlying excavation reports not independently read."
+  ]
+},
+{
+  "id": "ledger-66150f8f560a62d45d67",
+  "name": "Burned homes at Buckeye Bend",
+  "place_and_era": "Central Illinois River Valley. Wilson places this village in his account of village fires in the late 1200s. No exact year is set.",
+  "attested": "Wilson names Buckeye Bend as a village with burned rows of homes around a plaza. His account treats warfare as the most likely cause of the village fires.",
+  "unknown": "The cause is likely, not certain. The account gives less detail on departure here than at Orendorf. The attackers, deaths and places where residents went are unknown. We do not copy details from Orendorf.",
+  "next_step": "Assess the probable wartime destruction of these homes. Keep any departure and its date separate from what the evidence shows.",
+  "sources": [
+    "https://www.wilson.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_wilson/files/sitefiles/publications/Wilson%202015.pdf"
+  ],
+  "source_citations": [
+    "Greg D. Wilson, Incinerated Villages in the North (2015), printed pp. 103. Original author-hosted chapter; full eight-page text layer and selected published images read. Underlying excavation reports not independently read."
+  ]
+},
+{
+  "id": "ledger-a6a0c3623be66a84eb55",
+  "name": "Burned homes at Star Bridges",
+  "place_and_era": "Central Illinois River Valley. Wilson places this village in his account of village fires in the late 1200s. No exact year is set.",
+  "attested": "Wilson names Star Bridges as a village with burned rows of homes around a plaza. His account treats warfare as the most likely cause of the village fires.",
+  "unknown": "The cause is likely, not certain. The account gives less detail on departure here than at Orendorf. The attackers, deaths and places where residents went are unknown. We do not copy details from Orendorf.",
+  "next_step": "Assess the probable wartime destruction of these homes. Keep any departure and its date separate from what the evidence shows.",
+  "sources": [
+    "https://www.wilson.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_wilson/files/sitefiles/publications/Wilson%202015.pdf"
+  ],
+  "source_citations": [
+    "Greg D. Wilson, Incinerated Villages in the North (2015), printed pp. 102, 103. Original author-hosted chapter; full eight-page text layer and selected published images read. Underlying excavation reports not independently read."
+  ]
+},
+{
+  "id": "ledger-cef2ea033b131b6740d5",
+  "name": "Captives settled as farmers in Arakan",
+  "place_and_era": "Arakan; dates unresolved",
+  "attested": "Eaton reports that captives taken by the Arakanese were settled on land as farmers.",
+  "unknown": "The particular raids, places where captives settled and overlap with other capture accounts remain unclear.",
+  "next_step": "Trace the places where captives settled and their links to the reported raids.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, notes 19."
+  ]
+},
+{
+  "id": "ledger-58cb331a4c8e9242216a",
+  "name": "Capture raids in Lower Bengal",
+  "place_and_era": "Lower Bengal waterways and islands; Bernier was there in 1665, but raid dates are unclear.",
+  "attested": "Eaton quotes Bernier on Portuguese raiders under Arakanese protection. The account reports capture, slavery, burning and deserted islands.",
+  "unknown": "The passage does not identify each raid, island or number of people. It does not show that Arakanese forces joined the raids.",
+  "next_step": "Assess the reported removal practice without merging it with other attacks or tax seizures.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.83"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 83."
+  ]
+},
+{
+  "id": "ledger-2cd06b9bf2d6eeb86080",
+  "name": "Chickasaw settlement and river crossing",
+  "place_and_era": "Near Fort Moore, around 1722–1723, with a move across the river in 1737.",
+  "attested": "Smith reports a Chickasaw settlement and a later move across the river.",
+  "unknown": "The account does not establish force or a taking of land. Residence until the Revolution is only a possibility.",
+  "next_step": "Trace the reasons for the moves and the land relations at each place.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 36."
+  ]
+},
+{
+  "id": "ledger-c4de7184be8598d18889",
+  "name": "Coastal guards bar entry under Sena II",
+  "place_and_era": "The coast of Sri Lanka during Sena II's ninth-century reign. Sites and exact dates are unknown.",
+  "attested": "Codrington reports guards placed on the coast to bar entry by members of suppressed religious groups.",
+  "unknown": "The account does not identify prior residents among those barred. Expulsion and blocked return are not established.",
+  "next_step": "Identify the groups and whether the restriction prevented entry, return, or both.",
+  "sources": [
+    "https://books.lakdiva.org.lk/codrington/chap03.html"
+  ],
+  "source_citations": [
+    "H. W. Codrington, A Short History of Ceylon, chapter III, Sena II: coastal guards (web transcription)."
+  ]
+},
+{
+  "id": "ledger-37a50762e6ab0d46206d",
+  "name": "Conquest of Bhallua",
+  "place_and_era": "Bhallua in eastern Bengal, around 1611.",
+  "attested": "Eaton reports that Mughal forces took a fort and raided the countryside. They killed or imprisoned peasants who refused to submit. Ananta Manik left his lands, which the Mughals took over. His minister accepted Mughal rank.",
+  "unknown": "The account does not show that all peasants fled. It does not give their destinations or the share killed or held captive.",
+  "next_step": "Keep the peasants, the ruler who left and the minister distinct. Assess the land takeover without a claim that later religious change had one cause.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.93"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.7, notes 93, 94, 95."
+  ]
+},
+{
+  "id": "ledger-69aadc68a50c54acda80",
+  "name": "Coosa and nearby chiefdoms",
+  "place_and_era": "Southeastern North America, in accounts from 1540 and 1560.",
+  "attested": "Hally reports that up to six chiefdoms acknowledged Coosa rule. He cites Spanish accounts from 1540 and 1560.",
+  "unknown": "The chapter does not show how this rule began or establish a change in local land use. The two dates do not prove continuous rule.",
+  "next_step": "Check the cited accounts for how control changed and what it meant for the land.",
+  "sources": [
+    "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf#page=176"
+  ],
+  "source_citations": [
+    "Hally (1993), The Territorial Size of Mississippian Chiefdoms, pp. 163–164."
+  ]
+},
+{
+  "id": "ledger-72255f6d28058421d27a",
+  "name": "Deaths of family members near Dhaka",
+  "place_and_era": "Near Dhaka, in 1617.",
+  "attested": "Eaton reports that Qasim Khan killed his chief wives when he faced defeat. Some comrades also killed members of their families.",
+  "unknown": "The account does not establish a change in land or residence from these deaths. It does not give a share of all families harmed.",
+  "next_step": "Trace the relation of the event to land or residence. Keep the reported deaths visible. Do not invent a removal.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.20"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.1, notes 20."
+  ]
+},
+{
+  "id": "ledger-adf3c71f59882423c694",
+  "name": "Defeat and service at Shahzadpur",
+  "place_and_era": "Shahzadpur, in 1609.",
+  "attested": "Eaton reports that Tuqmaq Khan defeated the local ruler. He then employed and converted the son of the ruler. The governor disapproved and moved Tuqmaq Khan from his assigned estate.",
+  "unknown": "The account does not show that the son was forced to migrate or was enslaved. It does not define the land outcome of the defeat.",
+  "next_step": "Trace what changed at the defeated estate. Keep service, conversion and movement distinct.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.60"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.3, notes 60."
+  ]
+},
+{
+  "id": "ledger-0aaea1e4a8f0e0d2754b",
+  "name": "Disputed rent at Panam Dulalpur",
+  "place_and_era": "Panam Dulalpur in Bengal; an account set in the early eighteenth century.",
+  "attested": "Eaton describes gifts to a holy man that became compulsory rent. Some villagers appealed and lost. Officials then recognized him as the landholder.",
+  "unknown": "The exact date and the former land rights are unclear. The account does not establish that villagers left.",
+  "next_step": "Define the change in land rights and the people it affected.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.95"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 8, notes 95."
+  ]
+},
+{
+  "id": "ledger-2bbc5479f6f33cd49d12",
+  "name": "Enslaved artisans in Pepiliyana grants",
+  "place_and_era": "Pepiliyana Vihara, Sri Lanka, in the fifteenth century. Specific grant dates remain unchecked.",
+  "attested": "Codrington describes documents that grant enslaved people with land. Many were artisans.",
+  "unknown": "The cited documents were unpublished in his account. A change of ownership does not establish that people moved.",
+  "next_step": "Read the grant terms and distinguish control of people from forced movement and changes in residence.",
+  "sources": [
+    "https://books.lakdiva.org.lk/codrington/chap03.html"
+  ],
+  "source_citations": [
+    "H. W. Codrington, A Short History of Ceylon, chapter III, Pepiliyana grants (web transcription)."
+  ]
+},
+{
+  "id": "ledger-4130478b1456a0f04815",
+  "name": "Families forced from homes near Jhalakati",
+  "place_and_era": "Jhalakati in Bengal; departure before a survey in 1906.",
+  "attested": "Eaton quotes a survey that reports pressure forced several Namasudra families to leave. Other villagers then held their land and homes.",
+  "unknown": "The departure date and village name are unclear. The survey date does not date the departure.",
+  "next_step": "Resolve the date range and village location. These gaps do not disprove the reported loss.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.99"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 8, notes 99."
+  ]
+},
+{
+  "id": "ledger-1ca419e0e7239559a7bc",
+  "name": "Farming leases at Swarupkati",
+  "place_and_era": "Bakarganj; a 1906 survey recalls leases from about 220 years earlier, around 1686.",
+  "attested": "The account says the Pals, Dasses and Chandras settled under farming leases from Nayerkaleri landlords.",
+  "unknown": "Earlier occupants and any pressure remain unclear. This is separate from the thirteenth-century refuge story.",
+  "next_step": "Trace the lease terms and earlier rights, linked to the broader Bakarganj question.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.82"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 82."
+  ]
+},
+{
+  "id": "ledger-2100e5ac04afd29d169c",
+  "name": "Flight and killing at Cakradhara",
+  "place_and_era": "Kashmir. The account follows a royal return dated to 1121. The date of the fire is not yet settled.",
+  "attested": "Kalhana's account says families from Vijayuksetra and nearby towns and villages fled to a shrine. Royal soldiers also went there. Bhiksu's forces besieged the refuge. A man set fire to it to kill an enemy inside. The text describes deaths within and the killing of people who escaped. It then says homes stood empty because householders and their families died.",
+  "unknown": "Errors remain possible in the online text. We did not check the printed pages or the Sanskrit. The account gives no reliable count of deaths or lost homes. It does not establish a single ethnic group or an order to start the fire. Later control of the empty homes is unknown.",
+  "next_step": "Assess this bounded case under the atlas rules. Keep the date, numbers and later ownership unknown where the evidence does not resolve them.",
+  "sources": [
+    "https://en.wikisource.org/wiki/Index:Kalhana%27s_Rajatarangini_Vol_2.djvu"
+  ],
+  "source_citations": [
+    "Kalhana, Kalhana’s Rajatarangini: A Chronicle of the Kings of Kasmir, translated by M. A. Stein, volume II (1900), Book VIII 971–995, printed pp. 76–78; context VIII 947–1008, printed pp. 75–79. Unproofread online translation OCR; page images and Sanskrit not verified."
+  ]
+},
+{
+  "id": "ledger-907a5c08af35bba0016d",
+  "name": "Four Chattahoochee towns burned",
+  "place_and_era": "Coweta, Kasihta, Tuskegee and Kolimi on the Chattahoochee, December 1685.",
+  "attested": "Smith reports that Matheos burned the four towns after failing to capture English traders.",
+  "unknown": "The burning does not show that all residents left for good. This Tuskegee is not the Overhill Cherokee town of the same name.",
+  "next_step": "Trace what the burning did to residence in each town. Keep the later 1690 move separate.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 29."
+  ]
+},
+{
+  "id": "ledger-eeb63e4e6ba34be5dcdc",
+  "name": "Gilimale changes from dedicated land to a royal village",
+  "place_and_era": "Gilimale, Sri Lanka. The earlier dedication is linked to Vijaya Bahu I; the later change is not dated.",
+  "attested": "Codrington lists Gilimale as land once dedicated to feed pilgrims and later held as a royal village.",
+  "unknown": "The account does not date the resumption or explain its effect on cultivators and former beneficiaries.",
+  "next_step": "Locate the act of resumption and establish whose rights changed. Do not infer eviction from the title change.",
+  "sources": [
+    "https://books.lakdiva.org.lk/codrington/chap03.html"
+  ],
+  "source_citations": [
+    "H. W. Codrington, A Short History of Ceylon, chapter III, Authorities: Gilimale (web transcription)."
+  ]
+},
+{
+  "id": "ledger-374a0c8dde9b58f7e64c",
+  "name": "Guale missions destroyed",
+  "place_and_era": "Guale coastal missions, late 1680s.",
+  "attested": "Smith links the destruction of coastal missions to conflict between English and Spanish powers.",
+  "unknown": "The passage does not tie all regional captives or moves to this episode. Links to the people and settlements attacked in 1702–1706 remain unclear.",
+  "next_step": "Keep this earlier episode distinct from the later Florida attacks. Trace the loss of the mission settlements.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 34."
+  ]
+},
+{
+  "id": "ledger-b4b64c05e9d9c0585b99",
+  "name": "Hidden Valley: burned houses",
+  "place_and_era": "Hidden Valley near Durango, Colorado. House construction dates cluster in 760–761 CE; the departure date is not established.",
+  "attested": "Potter reports that the excavated houses burned at abandonment and had not been salvaged.",
+  "unknown": "The account does not establish an attack, a single fire across the settlement, or a forced departure.",
+  "next_step": "Read Carlson’s excavation report to trace how and when use of the houses ended.",
+  "sources": [
+    "https://archaeologycolorado.org/sites/default/files/Potter%2C%20James%20M.%20%282010%29%20The%20Community.%20In%20Animas-La%20Plata%20Project.pdf"
+  ],
+  "source_citations": [
+    "James M. Potter, The Community, Animas–La Plata Project, Volume XVI: Final Synthetic Report, chapter 13 (2010), pp. 237."
+  ]
+},
+{
+  "id": "ledger-8437203b4c0f9ab47cd4",
+  "name": "Hijli under Mughal rule",
+  "place_and_era": "Hijli, in the early Mughal period described by Eaton.",
+  "attested": "Eaton reports that Hijli submitted to Mughal rule without resistance. Its ruler paid tribute and kept control of local administration.",
+  "unknown": "The account does not establish eviction of the people who lived there. Continued local rule does not mean there was no change in power.",
+  "next_step": "Assess the change in rule and keep local continuity visible. Do not require expulsion for a land-control question.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.67"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.5, notes 67."
+  ]
+},
+{
+  "id": "ledger-f6066607c17a64282d57",
+  "name": "Kazi families in Gaurnadi: record 717",
+  "place_and_era": "Gaurnadi, Bakarganj; recorded in surveys from 1902–1913. The settlement date is unknown.",
+  "attested": "A survey describes kazi families as the original settlers of this village.",
+  "unknown": "Earlier land rights remain unclear. The later population count does not count people harmed or first settlers.",
+  "next_step": "Check this village and its earlier land use as a separate question.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.92"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 92."
+  ]
+},
+{
+  "id": "ledger-1616b320a2e0e676faa2",
+  "name": "Kendangamuwa becomes a royal village",
+  "place_and_era": "Kendangamuwa, Sri Lanka. An earlier grant is linked to Parakrama Bahu VI; the later change is not dated.",
+  "attested": "Codrington lists land given to Aramanapola Vihara that later appeared as a royal village.",
+  "unknown": "The date, act and effect on residents remain unclear. Royal control does not by itself prove their removal.",
+  "next_step": "Locate the resumption and distinguish changes in revenue rights from loss of residence or use.",
+  "sources": [
+    "https://books.lakdiva.org.lk/codrington/chap03.html"
+  ],
+  "source_citations": [
+    "H. W. Codrington, A Short History of Ceylon, chapter III, Authorities: Kendangamuwa (web transcription)."
+  ]
+},
+{
+  "id": "ledger-f694e8ff9fa97330e2ad",
+  "name": "Khan Jahan at Bagerhat",
+  "place_and_era": "Bagerhat; Khan Jahan died in 1459, and traditions were collected in 1870.",
+  "attested": "Eaton describes a tomb title and public works, alongside a later account of a revenue grant and cultivation.",
+  "unknown": "These sources support different claims. They do not establish forced labor or empty land.",
+  "next_step": "Keep the claims separate and trace the grant and earlier land use.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.50"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, notes 50–56."
+  ]
+},
+{
+  "id": "ledger-c62d13cdee063d515f7f",
+  "name": "Land assigned to the Chittagong garrison",
+  "place_and_era": "Chittagong; from 1666, later change undated",
+  "attested": "Troops received rent-free plots. Eaton reports that the government later took the lands back. The troops or their descendants became landlords who collected revenue.",
+  "unknown": "The later date and the rights lost or retained are unclear. The account does not say the troops left.",
+  "next_step": "Identify what rights changed in the later repossession.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, notes 29."
+  ]
+},
+{
+  "id": "ledger-c12526daa9bb56b7c379",
+  "name": "Land grant to Firuzpuri near Malda",
+  "place_and_era": "Near Malda, in the Mughal period described by Eaton.",
+  "attested": "Eaton reports that Shah Nimat Allah Firuzpuri received a grant of land from the governor. His servants and descendants later gained wealth from it.",
+  "unknown": "The account does not identify prior holders or changes in their access to the land. The exact tract of the grant is not given.",
+  "next_step": "Trace what the grant changed for people on the land. Do not count the size of the grant as a number of displaced people.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.30"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.2, notes 30, 31."
+  ]
+},
+{
+  "id": "ledger-8a63b2a7914122df958b",
+  "name": "Land grants for Muhammad Rabi",
+  "place_and_era": "Sylhet; grants in 1753 and 1756",
+  "attested": "Grants supported Muhammad Rabi, his workers, family and religious institutions. The later grant set terms for cultivation and use of the harvest.",
+  "unknown": "The passage does not establish all prior land uses, actual clearance or the workers' conditions.",
+  "next_step": "Trace earlier use and what changed when the grants took effect.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, notes 95, 96."
+  ]
+},
+{
+  "id": "ledger-f58b103316221845e8a5",
+  "name": "Land grants to Ikundā",
+  "place_and_era": "The frontier between Nepal and Sikkim. The commentary describes events in the eighteenth and nineteenth centuries. The grant dates remain unknown.",
+  "attested": "The commentary on the letter cites grants to Ikundā of land and rights to rule or collect revenue. It also cites land for resettlement.",
+  "unknown": "The grant texts remain unread in this review. A grant does not prove that settlement occurred or that prior residents lost land.",
+  "next_step": "Read the cited grants. Distinguish the rights they granted from actions on the ground and effects on prior residents.",
+  "sources": [
+    "https://nepalica.hadw-bw.de/nepal/index.php/editions/show/1686",
+    "https://www.gutenberg.org/files/30364/30364-h/30364-h.htm"
+  ],
+  "source_citations": [
+    "Julia Shrestha with Martin Gaenszle (editors and translators), A letter from Subba Jayanta Khatri reporting on the killing of Limbus and Lepchas at the Nepal-Sikkim frontier (DNA_0001_0109; VS1883) (2023). DNA_0001_0109 commentary paragraphs on Ikundā; cited RRC_0040_0442 and RRC_0006_0858/RRC_0036_0251/RRC_0036_0252; Hamilton1819 printed123,126. Edition translation and commentary in accepted review. No facsimile or independent translation verification. Commentary is not a separate witness to the letter. English edition/translation/commentary CC BY-SA4.0. Document date1827 is distinct from edition metadata; no facsimile reproduced and no DOI verified.",
+    "Francis Buchanan Hamilton, An Account of the Kingdom of Nepal (1819). Hamilton1819 printed123,126: reported civil administration/revenue context; does not establish execution of the cited grants. HTML transcription with print anchors. Earlier administration account is not proof of grant execution or the1827violence."
+  ]
+},
+{
+  "id": "ledger-fda03d1d3dfe2d4296ca",
+  "name": "Limbu and Lepcha families in forest refuge",
+  "place_and_era": "The frontier between Nepal and Sikkim. A letter reports this flight in 1827. The exact flight dates are unknown.",
+  "attested": "Khatri relays a plea from five messengers. They report that descendants and nephews of Ikundā captured and killed Limbu and Lepcha residents. Some families fled to forest camps. Other families planned to leave.",
+  "unknown": "Five is the number of messengers, not the total who fled or died. The homes, camp sites and later fate of the families remain unclear.",
+  "next_step": "Trace the flight that already occurred. Keep plans for later moves separate. Examine whether officials granted the request for protection.",
+  "sources": [
+    "https://nepalica.hadw-bw.de/nepal/index.php/editions/show/1686"
+  ],
+  "source_citations": [
+    "Julia Shrestha with Martin Gaenszle (editors and translators), A letter from Subba Jayanta Khatri reporting on the killing of Limbus and Lepchas at the Nepal-Sikkim frontier (DNA_0001_0109; VS1883) (2023). DNA_0001_0109, translation [1r], paragraphs beginning Uprānta and Some family groups; diplomatic line references 6–10,16–23,34–35 supplied by edition; commentary and notes3–9,12–16. Edition translation and commentary in accepted review. No facsimile or independent translation verification. Commentary is not a separate witness to the letter. English edition/translation/commentary CC BY-SA4.0. Document date1827 is distinct from edition metadata; no facsimile reproduced and no DOI verified."
+  ]
+},
+{
+  "id": "ledger-781f0af3d12224b8e956",
+  "name": "Loss and retention of land in Bakla",
+  "place_and_era": "Bakla in eastern Bengal, about the time of the Bhallua campaign around 1611.",
+  "attested": "Eaton reports that Ram Chandra was defeated and detained in Dhaka. He kept enough land to support a naval fleet. Mughal tax collectors and other holders received the rest of his lands.",
+  "unknown": "This was not the loss of all his land. The account does not show that the peasants were expelled. The date is given by its link to the nearby campaign.",
+  "next_step": "Keep both the lost and retained lands visible. Do not turn the detention of the ruler into a mass removal.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.96"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.7, notes 96."
+  ]
+},
+{
+  "id": "ledger-2e53afb0e22d454aa3a8",
+  "name": "Lower Cherokee burnings and westward refuge",
+  "place_and_era": "Northeastern Georgia and the Coosa valley, from 1776 through the end of the Revolution.",
+  "attested": "Smith reports town burnings in 1776 and later movement west. He describes Willstown as a settlement of refugees from the Savannah area.",
+  "unknown": "Not all departures occurred in 1776. The account does not establish that arrivals displaced earlier Coosa residents.",
+  "next_step": "Trace the moves and receiving settlements. Keep the 1760 burnings and later nineteenth-century removal separate.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, pp. 37, 38."
+  ]
+},
+{
+  "id": "ledger-25a2132ff7dd5eada99d",
+  "name": "Lower Cherokee towns burned in 1760",
+  "place_and_era": "Lower Cherokee towns in northeastern Georgia and northwestern South Carolina, 1760.",
+  "attested": "Smith reports that Montgomery’s forces burned the towns. Towns remained in the region afterward.",
+  "unknown": "The burning does not establish a permanent departure in 1760.",
+  "next_step": "Trace the loss of homes even where people stayed or rebuilt. Keep this episode separate from the 1776 burnings.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 37."
+  ]
+},
+{
+  "id": "ledger-d38aa3af1d202a598f89",
+  "name": "Lower Creek movement east",
+  "place_and_era": "Chattahoochee towns and the Ocmulgee and Towaliga valleys, 1690.",
+  "attested": "Smith reports that many towns moved east after continued conflict with Spain. They moved toward English allies. Some towns stayed.",
+  "unknown": "Some town names in the account are only suggestions. The account does not establish that arrivals took land from earlier residents.",
+  "next_step": "Keep each town’s move and the places of arrival distinct. Separate this move from the 1685 burnings and later return.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, pp. 29, 33."
+  ]
+},
+{
+  "id": "ledger-afd1a5ead6467c4f6b04",
+  "name": "Lower Creek return after the Yamassee War",
+  "place_and_era": "Oconee, Ocmulgee and Chattahoochee valleys, after the 1715 war.",
+  "attested": "Smith reports that many groups returned to the Chattahoochee. Earlier Oconee and Ocmulgee sites were left. Lower Cherokee Tugalo was an exception to the wider Savannah valley abandonment pattern.",
+  "unknown": "The cause of each move and the exact returning groups remain unclear. Copied maps do not prove continued occupation.",
+  "next_step": "Trace the groups and causes of return. Do not infer forced removal from the order of events alone.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, pp. 35, 36, 39."
+  ]
+},
+{
+  "id": "ledger-b6d16a92779458f4dbc3",
+  "name": "Madura is taken and a ruler installed",
+  "place_and_era": "Madura in southern India, during Sena II's reign in the ninth century. The exact year is uncertain.",
+  "attested": "Codrington reports that Sena's general took and sacked Madura, then placed another ruler on its throne.",
+  "unknown": "The account does not establish civilian expulsion. A Pandyan accession date does not securely date this intervention.",
+  "next_step": "Assess the reported capture and change of rule. Keep the fate of residents open.",
+  "sources": [
+    "https://books.lakdiva.org.lk/codrington/chap03.html"
+  ],
+  "source_citations": [
+    "H. W. Codrington, A Short History of Ceylon, chapter III, Sena II: Madura (web transcription)."
+  ]
+},
+{
+  "id": "ledger-0652077a6ea2048c97ea",
+  "name": "Mehr Ali at Mehrpur",
+  "place_and_era": "Jessore; an early Mughal tradition recorded in 1982.",
+  "attested": "Eaton reports a tradition that Mehr Ali arrived and helped local people grow rice.",
+  "unknown": "The account does not establish earlier land rights, a taking or a forced move.",
+  "next_step": "Trace the settlement and earlier land use in this area.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.42"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 42."
+  ]
+},
+{
+  "id": "ledger-89b28c9203d65ceed193",
+  "name": "Migrants in Mughal Bengal",
+  "place_and_era": "Bengal, in the Mughal period described by Eaton.",
+  "attested": "Eaton describes soldiers, merchants, clerks and artisans who moved into Bengal from North India. These arrivals formed part of the imperial social order.",
+  "unknown": "This regional account does not identify one land takeover by all the migrants. Claimed ancestry does not establish a route or a forced move.",
+  "next_step": "Trace distinct communities and their links to land. Do not treat religion or elite insults as proof that people were displaced.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.24"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.2, notes 24, 25, 26, 27, 28, 29, 32, 33, 34, 35, 36."
+  ]
+},
+{
+  "id": "ledger-659c4d6acb1d79adf2c6",
+  "name": "Mughal annexation of Sylhet",
+  "place_and_era": "Sylhet; reported in 1612",
+  "attested": "Eaton reports that the Mughals annexed Sylhet in 1612.",
+  "unknown": "The passage does not describe effects on residents or private land rights. It does not say that the earlier refugees were expelled.",
+  "next_step": "Trace the change in rule and its local effects.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, Religious Gentry of Sylhet opening narrative."
+  ]
+},
+{
+  "id": "ledger-76cdd7b7341be0ecebbf",
+  "name": "Mughal conquest of Kuch Bihar and Kamrup",
+  "place_and_era": "Kuch Bihar and Kamrup, in 1613.",
+  "attested": "Eaton reports that Mughal forces took forts and drove the ruler into Kamrup. He later submitted and was sent to Dhaka. The Mughals took control of both regions and imposed a new land tax system.",
+  "unknown": "The account does not show that all farmers left. It does not give a full area of land lost or a permanent end date.",
+  "next_step": "Keep the moves of the ruler distinct from the changes imposed on farmers. Compare this conquest with the later revolts.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.82"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.6, notes 82, 83, 84, 85, 86."
+  ]
+},
+{
+  "id": "ledger-16fc2f1c5ddd4a6a55ba",
+  "name": "Nasir al-Din at Murarbond",
+  "place_and_era": "Sylhet; a Mughal-period tradition recorded in 1982.",
+  "attested": "The account says Nasir al-Din arrived and taught local people to grow rice.",
+  "unknown": "These changes do not by themselves show that land was taken.",
+  "next_step": "Check how land use and control changed at Murarbond.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.43"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 43."
+  ]
+},
+{
+  "id": "ledger-891d626be30a967a54cf",
+  "name": "New revenue collectors at Ambarabad",
+  "place_and_era": "Ambarabad in Bengal; a revenue district formed in 1734.",
+  "attested": "Eaton reports that small landholders said they requested revenue collectors. He argues that pressure from Mughal power better explains their agreement.",
+  "unknown": "The landholders described a request. Eaton instead infers pressure. The earlier land rights and any eviction remain unclear.",
+  "next_step": "Compare the reported request with the evidence for pressure and changes in land rights.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.57"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 8, notes 57, 58."
+  ]
+},
+{
+  "id": "ledger-7218b70d8cb1d77d3de5",
+  "name": "Oconee River village burned",
+  "place_and_era": "An Oconee River village, 1767.",
+  "attested": "Smith reports that an occupied village was burned.",
+  "unknown": "Its exact identity is unclear. A town shown on a 1774 map may be the same place, but that link is uncertain.",
+  "next_step": "Trace the destruction and possible later residence. A village name or casualty count is not needed to examine the loss.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 37."
+  ]
+},
+{
+  "id": "ledger-bd122b5144716537ccba",
+  "name": "Okfuskenena burned and Creek towns left",
+  "place_and_era": "Middle Chattahoochee and the modern West Point Lake area toward Alabama, 1793.",
+  "attested": "Smith reports that Georgians attacked and burned Okfuskenena. He links the attack to Creek towns in the area moving to Alabama.",
+  "unknown": "The number of towns attacked is uncertain. The broad destination does not establish an exact route or receiving site.",
+  "next_step": "Trace the attack and departures using the boundaries of the time. Georgia then ended farther east, at the Oconee.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, pp. 38, 39."
+  ]
+},
+{
+  "id": "ledger-a5de0af0fa62fa1c4720",
+  "name": "Overhill departures and loss of land",
+  "place_and_era": "The lower Little Tennessee valley, in the Revolutionary and Federal periods. The account includes the treaties of 1798 and 1819.",
+  "attested": "Davis says settler pressure forced Cherokee families south. Many moved to the Hiwassee valley and beyond. He says the treaties transferred land to the United States and opened it to settlers. Some families stayed or moved nearby. The 1819 treaty allowed some to stay on reserved land.",
+  "unknown": "The account does not link each move to one treaty or each treaty to one riverbank. The 31 people or family heads who received reserved land lived in a wider area. They are not a count of all who lost homes.",
+  "next_step": "Keep the two land transfers distinct. Check how these earlier moves relate to the wider removal case. Keep the families who stayed visible.",
+  "sources": [
+    "https://trace.tennessee.edu/bitstreams/97536e93-b6ee-44d0-a79f-9055dac4725f/download"
+  ],
+  "source_citations": [
+    "Davis (1986), Stability and Change in Aboriginal Settlement within the Lower Little Tennessee River Valley, printed pp. 419, 420, 427, 428, 429."
+  ]
+},
+{
+  "id": "ledger-5279b376ade809dcb40f",
+  "name": "Overhill towns as places of refuge",
+  "place_and_era": "Tomotley, Tuskegee and Mialoquo in the lower Little Tennessee valley. Eighteenth century.",
+  "attested": "Davis says these towns probably grew as places of refuge. People came from Lower, Middle and possibly Valley Towns. He also reports that later refugees joined the towns. They came from other Cherokee and southeastern groups.",
+  "unknown": "The cause and date of each move remain unclear. The account does not show that these arrivals took land from people who lived there.",
+  "next_step": "Trace why people left and what happened to land at each end. Refuge alone does not show that the new arrivals took land.",
+  "sources": [
+    "https://trace.tennessee.edu/bitstreams/97536e93-b6ee-44d0-a79f-9055dac4725f/download"
+  ],
+  "source_citations": [
+    "Davis (1986), Stability and Change in Aboriginal Settlement within the Lower Little Tennessee River Valley, printed pp. 424, 425, 428."
+  ]
+},
+{
+  "id": "ledger-cba74eb4aa456400f1db",
+  "name": "Pachet under Mughal rule",
+  "place_and_era": "Pachet, in the early Mughal period described by Eaton.",
+  "attested": "Eaton reports that Pachet submitted to Mughal rule without resistance. He places this in a western region where much local administration continued.",
+  "unknown": "The account does not establish eviction of the people who lived there. Continued local rule does not mean there was no change in power.",
+  "next_step": "Assess the change in rule and keep local continuity visible. Do not require expulsion for a land-control question.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.67"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.5, notes 67."
+  ]
+},
+{
+  "id": "ledger-bf6140667ae63d767b9e",
+  "name": "Pir Qutb at Kutubpur",
+  "place_and_era": "Narayanganj, Dhaka; the settlement date is unknown.",
+  "attested": "A survey links the village name to Pir Qutb and recalls no homesteads when he arrived.",
+  "unknown": "No homesteads does not mean no earlier land use or rights.",
+  "next_step": "Trace the settlement and earlier uses of the land.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.93"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 93."
+  ]
+},
+{
+  "id": "ledger-15908accf213e24674e6",
+  "name": "Possible captivity at Crable",
+  "place_and_era": "Central Illinois River Valley. Wilson places this account in the later Mississippian period. The burial has no exact date here.",
+  "attested": "Wilson reports a young woman buried in an abandoned storage pit at Crable. He infers low status from how her body was treated. He offers captivity as a possible explanation.",
+  "unknown": "Captivity is not established. Her prior home, origin and any forced move are unknown. The burial does not by itself show forced work or loss of her former home.",
+  "next_step": "Check what the burial evidence can establish about captivity and residence. Keep a possible captive identity separate from a proven forced move.",
+  "sources": [
+    "https://www.wilson.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_wilson/files/sitefiles/publications/Wilson%202015.pdf"
+  ],
+  "source_citations": [
+    "Greg D. Wilson, Incinerated Villages in the North (2015), printed pp. 104. Original author-hosted chapter; full eight-page text layer and selected published images read. Underlying excavation reports not independently read."
+  ]
+},
+{
+  "id": "ledger-a73a5ca13cdc7095f58f",
+  "name": "Possible Coosa movement downstream",
+  "place_and_era": "Ridge and Valley area and the later Weiss Reservoir area; after the mid-sixteenth-century Spanish expeditions.",
+  "attested": "Smith suggests that people left the Ridge and Valley area and moved downstream.",
+  "unknown": "Gaps in known occupation do not by themselves prove a departure or forced move.",
+  "next_step": "Check the proposed movement. Keep it separate from Coosa rule and the medieval Etowah site.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 32."
+  ]
+},
+{
+  "id": "ledger-4942e5221c83b089729e",
+  "name": "Possible new groups at Reckner",
+  "place_and_era": "Reckner, in the Allegheny Mountains. The study places the village in the 1300s. It does not date the proposed arrivals.",
+  "attested": "The authors interpret village growth as the possible addition of groups. One suggestion is that the groups asked to join. They state that the wall pattern does not reveal membership.",
+  "unknown": "The source does not establish the groups' origins or moves. It does not establish force, exclusion or loss of former homes. These are not shown by the lack of a new wall.",
+  "next_step": "Check the original site study and the proposed addition of groups. Trace prior residence if the evidence permits.",
+  "sources": [
+    "https://doi.org/10.1371/journal.pone.0276014"
+  ],
+  "source_citations": [
+    "John P. Hart and Bernard K. Means, The Monongahela tradition in “real time”: Bayesian analysis of radiocarbon dates (2022), PLOS ONE 17(10): e0276014, DOI 10.1371/journal.pone.0276014. Discussion, paragraph beginning A second example is the Reckner site; fourteenth-century context and paragraph discussion of group petitions/palisade visibility."
+  ]
+},
+{
+  "id": "ledger-c305064efe17232c7cb3",
+  "name": "Possible new households at Peck No. 1",
+  "place_and_era": "Peck No. 1, in the Allegheny Mountains. The study compares village date ranges that overlap around 1270 to 1310. It does not date the proposed arrivals.",
+  "attested": "The authors interpret two village expansions as possible additions of small groups. One proposed explanation is that the groups were families or lineages. The proposed checks on new members and role of a leader rely on comparisons with other societies.",
+  "unknown": "The source does not identify an origin village or prove a move. It does not show whether force caused anyone to leave a former home. A larger village plan is not a count of people.",
+  "next_step": "Check the original site study. Test the proposed arrival of groups. Keep their origin and former home questions open.",
+  "sources": [
+    "https://doi.org/10.1371/journal.pone.0276014"
+  ],
+  "source_citations": [
+    "John P. Hart and Bernard K. Means, The Monongahela tradition in “real time”: Bayesian analysis of radiocarbon dates (2022), PLOS ONE 17(10): e0276014, DOI 10.1371/journal.pone.0276014. Discussion, paragraph beginning Peck1 represented growth by the addition; inference and ethnographic analogies attributed to Means/reference46."
+  ]
+},
+{
+  "id": "ledger-c4124257fbba3a2e8e95",
+  "name": "Possible Oconee movement to coastal missions",
+  "place_and_era": "Oconee valley and coastal missions; the proposed move has no fixed date.",
+  "attested": "Smith suggests that people moved to coastal missions. He offers this as a possible cause of the valley’s population decline.",
+  "unknown": "The passage does not establish that this move occurred or that people were forced to leave.",
+  "next_step": "Check whether the move occurred and what happened to land in the valley.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 28."
+  ]
+},
+{
+  "id": "ledger-658e748a36aa709529f9",
+  "name": "Possible potter residence near the Wabash",
+  "place_and_era": "Slack Farm and other sites near the Ohio and Wabash rivers. The study covers a broad period from about 1400 to 1700. The date of any household move is unknown.",
+  "attested": "Pollack and Munson compare local pottery with vessels linked to Oneota traditions. They propose two explanations: traded vessels or resident potters. They suggest household moves, marriage or kinship as possible ways to support exchange.",
+  "unknown": "The source does not establish that households moved. It does not show force or a loss of local homes. The political reasons for the exchange remain unknown.",
+  "next_step": "Test trade and local production as explanations for the vessels. If evidence supports resident potters, trace how residence began and its effects on prior residents.",
+  "sources": [
+    "https://heritage.ky.gov/Documents/Current%20Archaeological%20Research%20in%20KY%20Vol%205.pdf"
+  ],
+  "source_citations": [
+    "David Pollack and Cheryl Ann Munson, Caborn-Welborn Ceramics: Intersite Comparisons and Extraregional Interaction, Current Archaeological Research in Kentucky, Volume Five (1998), printed pp. 192–194; conditional exchange context p. 195."
+  ]
+},
+{
+  "id": "ledger-488769d16276ce21016f",
+  "name": "Refuge and settlement in Bakarganj",
+  "place_and_era": "Bakarganj in Bengal; early thirteenth-century refuge and later accounts of settlement.",
+  "attested": "Eaton reports that Hindu chiefs fled to Bakarganj. He also describes local groups who caught fish and later became farmers.",
+  "unknown": "The departure sites and changes in local land rights are unclear. Refuge alone does not prove that arrivals took land from others.",
+  "next_step": "Keep flight, arrival and changes for local residents as separate questions.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.81"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 8, notes 81, 82."
+  ]
+},
+{
+  "id": "ledger-4cf65549f18cff205cb7",
+  "name": "Reported deaths at Saunaktuk",
+  "place_and_era": "Saunaktuk in Arctic Canada. The article dates use of the site to about 1370. This does not date the attack.",
+  "attested": "The authors link injuries on human bones from a house site to a local account of an attack. They suggest that the residents were Inuit. The reported deaths meant loss of homes for those residents.",
+  "unknown": "The link between the bones and the account remains uncertain. The attackers and the fate of other residents remain unknown.",
+  "next_step": "Examine how the house context supports the link to residents. Keep the local account and its later retellings distinct.",
+  "sources": [
+    "https://www.jstor.org/stable/40316364"
+  ],
+  "source_citations": [
+    "Jerry Melbye and Scott I. Fairgrieve, A Massacre and Possible Cannibalism in the Canadian Arctic: New Evidence from the Saunaktuk Site (NgTn-1) (1994). Printed page 58 (dwelling and occupation context); pages 73–75 (discussion, transmitted attack account and interpretation). One consulted article, in saved web-returned context and discussion windows only. Arnold 1990 and LeMeur 1984 are secondhand here, not independently consulted sources. Page images, complete methods and lesion catalogue remain unchecked."
+  ]
+},
+{
+  "id": "ledger-f9b7355a0b80dd3239d7",
+  "name": "Reported displacement before Malwa occupation at Daimabad",
+  "place_and_era": "Daimabad, Maharashtra, India. Sali places Malwa arrival around 1600 BCE. That is not a verified date for the claimed forced departure.",
+  "attested": "Sali suggests that Malwa arrivals first shared the site with earlier residents, then forced them out. He bases this account on an overlap of remains.",
+  "unknown": "The link between these remains and forced departure needs further study. The phase names do not by themselves identify separate peoples.",
+  "next_step": "Check the overlap and the claim of shared residence. Look for evidence of how the earlier residents lost their homes.",
+  "sources": [
+    "https://asi.nic.in/admin/publications/ePublicationReportsDetails/download/49"
+  ],
+  "source_citations": [
+    "S. A. Sali, Daimabad 1976–79, Memoirs of the Archaeological Survey of India 83 (1986), printed p. 28; structural limits pp. 92–93."
+  ]
+},
+{
+  "id": "ledger-42db6d226112a7382b66",
+  "name": "Reported loss of homes at Daimabad",
+  "place_and_era": "Daimabad, Maharashtra, India. The report places this change between the Savalda and Late Harappan phases. The date of the claimed departure is unresolved.",
+  "attested": "Sali says Late Harappan arrivals forced out earlier residents and replaced their village. The report describes later deposits above the earlier settlement.",
+  "unknown": "The evidence behind the forced departure needs further study. A change in pottery does not by itself show that another group took the site.",
+  "next_step": "Check the layers, homes and dates behind the claim. Look for evidence of what happened to the earlier residents.",
+  "sources": [
+    "https://asi.nic.in/admin/publications/ePublicationReportsDetails/download/49"
+  ],
+  "source_citations": [
+    "S. A. Sali, Daimabad 1976–79, Memoirs of the Archaeological Survey of India 83 (1986), printed pp. 23–25; structural limits pp. 88, 92–93."
+  ]
+},
+{
+  "id": "ledger-bed39dda5bb0aa6bccce",
+  "name": "Reviews of rent-free land grants",
+  "place_and_era": "Chittagong; hearings from 1819 to 1848",
+  "attested": "Company officials reviewed land grants and sought to reclaim those they judged invalid. Eaton describes these hearings as the reason many grant records survived.",
+  "unknown": "This passage does not identify which rejected holders lost rights or whether people had to leave.",
+  "next_step": "Trace specific rejected grants and what happened to their holders.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, notes 32."
+  ]
+},
+{
+  "id": "ledger-97d3300bcb26229762d2",
+  "name": "Revolt and reconquest in Kamrup",
+  "place_and_era": "Rangamati and Gilah, in 1614.",
+  "attested": "Eaton reports that rebels overpowered Rangamati and besieged Gilah. Mughal forces then recovered the sites. The revolt followed the new tax and service system.",
+  "unknown": "The account does not show that all local people fled. This recovery does not prove permanent control of the region.",
+  "next_step": "Keep this change of control distinct from the defeat of Sanatan in 1615.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.87"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.6, notes 87, 88."
+  ]
+},
+{
+  "id": "ledger-72b488f4e2b49ce3f70a",
+  "name": "Ridges Basin: a death in a burned house",
+  "place_and_era": "Ridges Basin, Colorado, site 5LP237, in the early Pueblo I regional study. The event date is unresolved.",
+  "attested": "Potter reports a possible killing and house burning associated with Burial 137.",
+  "unknown": "Burial followed by ritual burning remains possible. A separate pit deposit is not established as part of the same event.",
+  "next_step": "Read the site report to distinguish the deposits and establish what ended use of the house.",
+  "sources": [
+    "https://archaeologycolorado.org/sites/default/files/Potter%2C%20James%20M.%20%282010%29%20The%20Community.%20In%20Animas-La%20Plata%20Project.pdf"
+  ],
+  "source_citations": [
+    "James M. Potter, The Community, Animas–La Plata Project, Volume XVI: Final Synthetic Report, chapter 13 (2010), pp. 255."
+  ]
+},
+{
+  "id": "ledger-f00a2aac1e586de3f8ec",
+  "name": "Royal and military retreats in Sikkim",
+  "place_and_era": "Sikkim and nearby areas. Hamilton describes events from 1788 to 1809. He casts doubt on some dates and claims.",
+  "attested": "Hamilton describes retreats by rulers and troops, relief of a siege and a later royal return. He also reports changes in political control.",
+  "unknown": "These moves do not by themselves prove that local families lost their homes. The account does not show one continuous flight by civilians.",
+  "next_step": "Examine each retreat separately. Ask whether local families or the royal household lost their homes.",
+  "sources": [
+    "https://www.gutenberg.org/files/30364/30364-h/30364-h.htm"
+  ],
+  "source_citations": [
+    "Francis Buchanan Hamilton, An Account of the Kingdom of Nepal (1819). Hamilton1819 Country of Sikim printed120–124; settlement/geographic context118–119,124–128. HTML transcription with print anchors; no scanned-page verification. Informant account, not an eyewitness claim about flight."
+  ]
+},
+{
+  "id": "ledger-66d7e80d8223989f96c4",
+  "name": "Rule in the Oconee valley",
+  "place_and_era": "The Oconee River in Georgia, in the mid-sixteenth century.",
+  "attested": "Hally cites Spanish accounts of chiefdoms on the Oconee River under one chief. He treats rule by a senior chief as probable.",
+  "unknown": "The chapter does not show how this rule began or what changed for local land use. The extent of direct control remains unclear.",
+  "next_step": "Check the cited accounts for how control changed and what it meant for the land.",
+  "sources": [
+    "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf#page=176"
+  ],
+  "source_citations": [
+    "Hally (1993), The Territorial Size of Mississippian Chiefdoms, pp. 163–164."
+  ]
+},
+{
+  "id": "ledger-fa0fbf426a7e79c5fca1",
+  "name": "Tax pressure and departure from Cossimbazar",
+  "place_and_era": "Cossimbazar, in the context of the tax imposed in 1679 and its later enforcement in Bengal.",
+  "attested": "A note by Eaton reports forced tax demands on Hindu silk workers. It says the disruption drove the \"little people\" of the city into the interior.",
+  "unknown": "The people who left are not shown to be the same group as the silk workers. Early 1681 dates tax collection in Dhaka, not every departure from Cossimbazar. The number and routes are unknown.",
+  "next_step": "Keep the two towns distinct. Retain the reported forced departure without an invented exact date or a new land claim at the destination.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.58"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.3, notes 58."
+  ]
+},
+{
+  "id": "ledger-8e72c876f3129e38a922",
+  "name": "The Bhanja rulers lose land and move to Ganjam",
+  "place_and_era": "Upper Orissa and Ganjam, eastern India, probably in the late tenth century. The date is uncertain.",
+  "attested": "Sircar reads the land grants as evidence that the Bhanja rulers lost territory and were driven to Ganjam.",
+  "unknown": "The grants do not directly describe the move. Its date and full extent are unclear. The account does not show that other residents were expelled.",
+  "next_step": "Check how the cited grants support the loss of territory and the move. Keep the rulers distinct from other residents.",
+  "sources": [
+    "https://aryanculture.org/records/2642"
+  ],
+  "source_citations": [
+    "Dines Chandra Sircar, The Bhañjas of Khiñjali-Maṇḍala, Indian Historical Quarterly 28(3) (1952), pp. 225–231; placing discussion pp. 225–229, especially 227."
+  ]
+},
+{
+  "id": "ledger-0e4fec941d78dfe2eee5",
+  "name": "The capture of Chittagong",
+  "place_and_era": "Chittagong; reported in 1666",
+  "attested": "Eaton reports that Mughal forces took the citadel after a siege. They then made the city a district centre under Mughal rule.",
+  "unknown": "The account does not establish whether residents were removed or which private land rights changed.",
+  "next_step": "Trace the effects on residents and earlier landholders.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/view?docId=ft067n99v9"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 9, notes 27, 28."
+  ]
+},
+{
+  "id": "ledger-cf0706b24c578b4a8080",
+  "name": "The defeat of Sanatan and flight",
+  "place_and_era": "Dhamdhama in Kamrup, in 1615.",
+  "attested": "Eaton reports that Sanatan led armed resistance to Mughal rule. His demands included tax changes and the withdrawal of troops. Mughal forces destroyed the stockades and forced him to flee.",
+  "unknown": "Eaton presents Sanatan as a probable paik leader. His flight does not show that all his supporters left. The account does not give their share of the local population.",
+  "next_step": "Keep the forced flight and loss of the defended place visible. Do not infer a route for all the people who took part.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn07.87"
+  ],
+  "source_citations": [
+    "Eaton (1993 archive context), The Rise of Islam and the Bengal Frontier, chapter 7, section s1.7.6, notes 87, 89, 90, 91."
+  ]
+},
+{
+  "id": "ledger-c238893df8268a794cd1",
+  "name": "The rise of landlords at Fatulla",
+  "place_and_era": "Dhaka; a 1912 survey recalls arrival in the reign of Jahangir.",
+  "attested": "The account says descendants of Shah Fateh Allah became landlords and remained so into the twentieth century.",
+  "unknown": "The source does not say when or how they gained control.",
+  "next_step": "Trace the change in land rights and the people it affected.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.96"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 96."
+  ]
+},
+{
+  "id": "ledger-e60f27a5d9c0bdbeff3f",
+  "name": "The sack of Anuradhapura under Sena I",
+  "place_and_era": "Anuradhapura, Sri Lanka, during Sena I's reign in the ninth century. Exact dates remain uncertain.",
+  "attested": "Codrington reports a Pandyan attack and sack. He then records peace and the king's return.",
+  "unknown": "The effects on other residents are unclear. The later move to Polonnaruwa is not shown to be forced. The author doubts the story of stolen relics.",
+  "next_step": "Assess the attack and loss of control separately from the king's later change of residence.",
+  "sources": [
+    "https://books.lakdiva.org.lk/codrington/chap03.html"
+  ],
+  "source_citations": [
+    "H. W. Codrington, A Short History of Ceylon, chapter III, Sena I (web transcription)."
+  ]
+},
+{
+  "id": "ledger-d8511065d4248bb08500",
+  "name": "The settlement tradition at Kazi Abad",
+  "place_and_era": "Barahanuddin, Bakarganj; recorded in surveys from 1902–1913. The settlement date is unknown.",
+  "attested": "A survey says the settlement took its name from a kazi who settled there first.",
+  "unknown": "That claim does not show that earlier people had no use of, or rights to, the land.",
+  "next_step": "Check the settlement history and earlier land rights.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.90"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 90."
+  ]
+},
+{
+  "id": "ledger-5567684f3b4d5e8f2ffd",
+  "name": "The settlement tradition at Pail",
+  "place_and_era": "Sylhet; an undated tradition recorded in 1982.",
+  "attested": "A tradition recalls a teacher of rice farming and Islam. His sons later settled in Comilla and Sylhet and taught there too.",
+  "unknown": "The account does not say the sons founded new settlements or forced anyone to move.",
+  "next_step": "Trace earlier land use and the settlements named in the tradition.",
+  "sources": [
+    "https://publishing.cdlib.org/ucpressebooks/public/book/the-rise-of-islam-and-the-bengal-frontier-1204-1760.html#bn08.43"
+  ],
+  "source_citations": [
+    "Eaton (1993), The Rise of Islam and the Bengal Frontier, chapter 8, note 43."
+  ]
+},
+{
+  "id": "ledger-c9c96361fd812740a3cf",
+  "name": "The Upper Ohio dispersal question",
+  "place_and_era": "Southwestern Pennsylvania and nearby areas. The question concerns villages often dated from about 1050 to 1635. That range does not date a move.",
+  "attested": "Hart and Means call for tests of the view that local communities left by 1635. They say the date lacks independent support. They also call for tests of the proposed roles of Seneca attacks and drought.",
+  "unknown": "It is not clear which communities left, when they left, or where they went. The source does not establish an attack, forced movement or the loss of homes. The shared archaeological label does not establish one people.",
+  "next_step": "Read the earlier site and dispersal studies. Test each place and departure on its own. Keep drought, conflict and other causes open.",
+  "sources": [
+    "https://doi.org/10.1371/journal.pone.0276014"
+  ],
+  "source_citations": [
+    "John P. Hart and Bernard K. Means, The Monongahela tradition in “real time”: Bayesian analysis of radiocarbon dates (2022), PLOS ONE 17(10): e0276014, DOI 10.1371/journal.pone.0276014. Conclusions, paragraph beginning Contemporary practice calls for multiple radiocarbon measures; proposed1635 dispersal and causes expressly require testing."
+  ]
+},
+{
+  "id": "ledger-dc55b72138131b468b98",
+  "name": "Ustanali and Etowah towns attacked in 1793",
+  "place_and_era": "Ustanali and the historical town of Etowah, 1793.",
+  "attested": "Smith reports that Sevier burned Ustanali and destroyed Etowah town. Ustanali was later rebuilt.",
+  "unknown": "Etowah’s exact site is uncertain here. This is the historical town, not the medieval mound center. Permanent abandonment is not established.",
+  "next_step": "Trace the loss of residence at both towns. Keep rebuilding and the separate 1782 attack visible.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 38."
+  ]
+},
+{
+  "id": "ledger-0bce2b26e60583f5f740",
+  "name": "Ustanali destroyed in 1782",
+  "place_and_era": "Ustanali, 1782, with later residence.",
+  "attested": "Smith reports the town’s destruction. Later residence and its role as a capital show that the account does not end with the attack.",
+  "unknown": "Permanent exile is not established. The actor in the separate 1793 attack cannot be assigned to this event.",
+  "next_step": "Keep this destruction distinct from the 1793 attack. Trace the loss in place and later residence.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, p. 38."
+  ]
+},
+{
+  "id": "ledger-665742dd23368be8d6e5",
+  "name": "War pressure and defended villages in central Illinois",
+  "place_and_era": "Central Illinois River Valley, in the early 1200s and after. A later study revises the earlier phase dates.",
+  "attested": "Wilson links warfare to a shift from scattered homes to compact villages with walls. He also describes limits on access to fields and other food sources. The later study supports war-related settlement change.",
+  "unknown": "The accounts do not name all earlier homes or define one displaced people. The regional process is not one village attack. Revised phase dates do not give the date of each fire.",
+  "next_step": "Define the place, period and households for this settlement change. Keep it distinct from each village fire and from later regional departure.",
+  "sources": [
+    "https://www.wilson.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_wilson/files/sitefiles/publications/Wilson%202015.pdf",
+    "https://wilson.anth.ucsb.edu/sites/secure.lsit.ucsb.edu.anth.d7_wilson/files/sitefiles/Reassessing_the_chronology_of_the_Missis.pdf"
+  ],
+  "source_citations": [
+    "Greg D. Wilson, Incinerated Villages in the North (2015), printed pp. 102, 103. Original author-hosted chapter; full eight-page text layer and selected published images read. Underlying excavation reports not independently read.",
+    "Gregory D. Wilson, Mallory A. Melton, Amber M. VanDerwarker, Reassessing the chronology of the Mississippian Central Illinois River Valley using Bayesian analysis (2017), ahead-of-print physical pp. 4, 14. Consulted author-archived ahead-of-print version; physical pages1–4 and13–15 read. No full model audit or crosswalk to2018issue22–38. Overlapping author, not independent attack confirmation."
+  ]
+},
+{
+  "id": "ledger-9318d324a395f2ec50e1",
+  "name": "Westo defeat and refuge",
+  "place_and_era": "Savannah valley and Chattahoochee communities, 1680–1683.",
+  "attested": "Smith reports that Carolinian forces and Savannah allies defeated the Westo. Westo refugees moved to communities on the Chattahoochee.",
+  "unknown": "The Westo town site is uncertain. The loss of a separate group identity does not mean that all its people died.",
+  "next_step": "Trace the loss of residence and the places of refuge. Keep survival distinct from loss of a group name.",
+  "sources": [
+    "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_30.pdf"
+  ],
+  "source_citations": [
+    "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, pp. 28, 32, 33."
   ]
 }],
   "cases_awaiting_map_locations": [
@@ -6537,6 +7934,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-23",
-  "update_scope": "Research notes on Bengal and early North America"
+  "updated_on": "2026-10-24",
+  "update_scope": "New research notes on North America and South Asia"
 }
