@@ -1930,5 +1930,24 @@
       "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
     }
   ]
+},
+{
+  "id": "india-arctic-research-notes",
+  "title": "New research notes from India and Arctic Canada",
+  "kind": "research",
+  "occurred_at": "2026-10-24T07:34:46.197496Z",
+  "published_at": "2026-10-24T07:37:20.432731Z",
+  "backfilled": false,
+  "paragraphs": [
+    "The list now has eight new notes from India. They cover land grants, control of forts and forced removal. These notes record candidates and leads for research. They are not new cases in the atlas.",
+    "The Saunaktuk note sets out the authors' interpretation of resident deaths and loss of homes. Some bone marks can reflect acts after death. They do not prove how each person died. The attack date, attackers and fate of other residents remain unknown.",
+    "Read the notes in Known but not yet placeable."
+  ],
+  "links": [
+    {
+      "label": "Known but not yet placeable",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    }
+  ]
 }]
 }

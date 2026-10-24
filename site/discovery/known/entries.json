@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261023-r46-source-research-notes",
+  "version": "20261024-r47-india-arctic-research-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -6130,14 +6130,14 @@
   "id": "ledger-4cf65549f18cff205cb7",
   "name": "Reported deaths at Saunaktuk",
   "place_and_era": "Saunaktuk in Arctic Canada. The article dates use of the site to about 1370. This does not date the attack.",
-  "attested": "The authors link injuries on human bones from a house site to a local account of an attack. They suggest that the residents were Inuit. The reported deaths meant loss of homes for those residents.",
-  "unknown": "The link between the bones and the account remains uncertain. The attackers and the fate of other residents remain unknown.",
-  "next_step": "Examine how the house context supports the link to residents. Keep the local account and its later retellings distinct.",
+  "attested": "The authors report deliberate tool marks on human bones from a house site. They interpret the bones and a local attack account as evidence that attackers killed residents. The reported deaths meant loss of homes for those residents. The authors suggest that the residents were Inuit.",
+  "unknown": "Some marks on the bones can reflect acts after death. They do not prove how each person died. The link between the bones and the account remains uncertain. The attack date, attackers and fate of other residents remain unknown.",
+  "next_step": "Trace what happened to other residents and whether they left or returned.",
   "sources": [
     "https://www.jstor.org/stable/40316364"
   ],
   "source_citations": [
-    "Jerry Melbye and Scott I. Fairgrieve, A Massacre and Possible Cannibalism in the Canadian Arctic: New Evidence from the Saunaktuk Site (NgTn-1) (1994). Printed page 58 (dwelling and occupation context); pages 73–75 (discussion, transmitted attack account and interpretation). One consulted article, in saved web-returned context and discussion windows only. Arnold 1990 and LeMeur 1984 are secondhand here, not independently consulted sources. Page images, complete methods and lesion catalogue remain unchecked."
+    "Jerry Melbye and Scott I. Fairgrieve, A Massacre and Possible Cannibalism in the Canadian Arctic: New Evidence from the Saunaktuk Site (NgTn-1) (1994), pp.57–77. Read scope: context p.58; returned methods and results text within pp.59–73, with gaps; discussion pp.73–75. Text extraction only. Page images, figures and original excavation and oral records remain unchecked."
   ]
 },
 {
@@ -6420,6 +6420,120 @@
   ],
   "source_citations": [
     "Smith (1992), Historic Period Indian Archaeology of Northern Georgia, pp. 28, 32, 33."
+  ]
+},
+{
+  "id": "ledger-3f8ac0cc1bfac894d38c",
+  "name": "Anbil charter: loss of tenant rights",
+  "place_and_era": "A tract in the Chola realm. The charter gives the fourth year of the king. The modern grant site and calendar date remain unknown. Anbil was the findspot and the home of Aniruddha.",
+  "attested": "The edition gives one charter in two languages. It reports a grant of 10 velis from Nanmulankudi to Aniruddha. It reports local acts to mark the bounds and record the grant. Rao translates its terms as eviction of the old tenants. Those terms give their land rights to Aniruddha.",
+  "unknown": "We do not know how anyone enforced the terms or if the tenants left their homes. Their identities and later homes remain unknown.",
+  "next_step": "Examine sources about the prior tenants and any other loss of land rights they faced. Keep both population history questions open.",
+  "sources": [
+    "https://jainqq.org/booktext/Epigraphia_Indica_Vol_15/032569"
+  ],
+  "source_citations": [
+    "T. A. Gopinatha Rao, Anbil Plates of Sundara-Chola: The 4th Year, Epigraphia Indica XV (volume coverage 1919–20; imprint date unverified), pp. 44–72. Sanskrit translation verses 38–43, printed p.70; Tamil translation lines 123–136 and 136–173, printed pp.70–72, especially the old-tenants clause on p.72; lines 173–183, printed p.72. Editor discussion pp.55–57; opening p.44. One bilingual charter and its primary edition, consulted in the saved bounded opening/discussion/English-translation windows. Sanskrit and Tamil portions, editorial summary and signatories do not supply independent witness counts. Volume coverage 1919–20 is not a separately verified imprint date. Original scripts, plate/page images, lexical translation and exact modern legal bundle remain unchecked; OCR and editorial interpretations remain."
+  ]
+},
+{
+  "id": "ledger-5e4d48940ebec3637782",
+  "name": "The Neulpur grant and prior land rights",
+  "place_and_era": "Two villages in Northern Tosali, in the eighth year of Subhakara. The calendar date remains unknown.",
+  "attested": "The charter joins two named villages under one name. It grants both villages tax-free to Brahman donees. It asks officials to preserve the gift.",
+  "unknown": "The charter does not state whether earlier residents lost homes or land rights. The edition gives two different totals for the donees. Neither total counts displaced people.",
+  "next_step": "Examine earlier rights in both villages and what changed under the grant. Keep the origins of the residents unresolved.",
+  "sources": [
+    "https://jainqq.org/booktext/Epigraphia_Indica_Vol_15/032569"
+  ],
+  "source_citations": [
+    "R. D. Banerji, Neulpur Grant of Subhakara: The 8th Year, Epigraphia Indica XV (imprint date unverified). editor grant summary; English translation lines 1–30 and date clause. English charter translation and editor grant summary."
+  ]
+},
+{
+  "id": "ledger-ecb6f39b5389b4cc2b7a",
+  "name": "The Atukuru temple grant and earlier rights",
+  "place_and_era": "The village of Atukuru in Kam nadu. The gift was for the coronation of Virupaksha. Its exact date remains unknown.",
+  "attested": "The English abstract reports a gift of the village to the god Mallikarjuna. Sri Lingachakresvara received the gift for the god. The grant gave the village a new name. It set out its bounds and rights to income.",
+  "unknown": "The text does not state whether prior holders lost rights or residents lost homes. We do not know how the recipients used each grant right.",
+  "next_step": "Examine prior rights and any adverse change under the grant. Do not infer that the recipients moved into the village.",
+  "sources": [
+    "https://jainqq.org/booktext/Epigraphia_Indica_Vol_15/032569"
+  ],
+  "source_citations": [
+    "T. A. Gopinatha Rao, Srisailam Plates of Virupaksha: Saka-Samvat 1388, Epigraphia Indica XV (imprint date unverified). immediate grant summary, boundary section and engraver; verses 22–40 and lines 68–77. English abstract of the charter and editor grant summary."
+  ]
+},
+{
+  "id": "ledger-4aed5d12ba69c0ab3165",
+  "name": "Loss and recovery of Adoni fort",
+  "place_and_era": "Adoni fort, also called Adhavani. The account places the acts in the reign of Harihara II. Exact dates remain unknown.",
+  "attested": "Rao reports that forces called Musalmans or Turushkas seized the fort and held it. He reports that Channappa Odeya then recaptured it and restored it to Harihara II.",
+  "unknown": "The account does not establish civilian eviction or deaths. It quotes earlier inscriptions that this research did not consult directly. The effects on residents remain unknown.",
+  "next_step": "Examine control of the fort before and after each capture. Keep the loss and recovery distinct, with the roles at each stage.",
+  "sources": [
+    "https://jainqq.org/booktext/Epigraphia_Indica_Vol_15/032569"
+  ],
+  "source_citations": [
+    "T. A. Gopinatha Rao, Srisailam Plates of Virupaksha: Saka-Samvat 1388, Epigraphia Indica XV (imprint date unverified). paragraph beginning The second important event is the taking of the fort at Adhavani, with embedded inscription excerpts. Editor historical discussion with earlier citations; not the operative Srisailam grant."
+  ]
+},
+{
+  "id": "ledger-36c3b49a6e11828583b9",
+  "name": "People carried off as prisoners",
+  "place_and_era": "The places where the prisoners lived remain unknown. The earlier edition and the later account disagree on the date.",
+  "attested": "The English text says that Boleya Mummeya Nayaka killed people and took prisoners away. It says Tirika-gauda broke the hostile force, then died. Rao later quotes this record.",
+  "unknown": "The homes, identities and later fate of the prisoners remain unknown. The reported battle does not establish their release or the final result of the campaign.",
+  "next_step": "Examine the captive removal and retain the date conflict. Do not treat allied villages as captive homes.",
+  "sources": [
+    "https://jainqq.org/booktext/Epigraphia_Indica_Vol_15/032569",
+    "https://archive.org/details/epigraphiacarnat08myso"
+  ],
+  "source_citations": [
+    "T. A. Gopinatha Rao, Srisailam Plates of Virupaksha: Saka-Samvat 1388, Epigraphia Indica XV (imprint date unverified). paragraph beginning One hitherto unnoticed incident, explicitly quoting Epigraphia Carnatica No.29, Nagar Taluka, Shimoga District. Editor historical discussion with earlier citations; not the operative Srisailam grant.",
+    "B. Lewis Rice, Epigraphia Carnatica,  VIII, Shimoga District Part II (1904). Nagar No. 29, English translation, printed pp. 131–132; Roman text p. 246 for heading, date and names; first corrigenda page for p. 246 lines 14 and 18. Newly consulted full English No29 and relevant primary-edition page images; same inscription route as Rao’s quotation."
+  ]
+},
+{
+  "id": "ledger-d6f89995c8b99ee9fc90",
+  "name": "Kampana and reported loss at two places",
+  "place_and_era": "The reports name places near Srirangam and at Madura. Rao calls the first place Samayavaram or Kannanur. Exact dates remain unknown.",
+  "attested": "Rao reports that Kampana destroyed Musalman settlements at both places. This claim appears in his historical discussion, not in the terms of the Srisailam grant.",
+  "unknown": "The source trail for each claim remains unclear. A nearby quote concerns control of another tract. It does not prove loss at both places.",
+  "next_step": "Trace the evidence for each place on its own. Establish whether the two reports concern one act or separate acts.",
+  "sources": [
+    "https://jainqq.org/booktext/Epigraphia_Indica_Vol_15/032569"
+  ],
+  "source_citations": [
+    "T. A. Gopinatha Rao, Srisailam Plates of Virupaksha: Saka-Samvat 1388, Epigraphia Indica XV (imprint date unverified). Bukka I campaign paragraph beginning The reign of Bukka I is the most eventful. Editor historical discussion with earlier citations; not the operative Srisailam grant."
+  ]
+},
+{
+  "id": "ledger-16486dffbbfffbf72c02",
+  "name": "The fight for Rangini",
+  "place_and_era": "Rangini, during the reign of Harihara II. The exact battle date remains unresolved.",
+  "attested": "Rao cites a record of Chennaya Nayaka, who died from wounds in a fight to take Rangini from Turushkas. He also uses a title of praise for another chief.",
+  "unknown": "The death from wounds does not prove that the place fell. The result and exact battle date remain uncertain. The effects on residents' homes remain unknown.",
+  "next_step": "Examine whether control of the place changed and what happened to its residents. Keep the inferred result separate from the reported death.",
+  "sources": [
+    "https://jainqq.org/booktext/Epigraphia_Indica_Vol_15/032569"
+  ],
+  "source_citations": [
+    "T. A. Gopinatha Rao, Srisailam Plates of Virupaksha: Saka-Samvat 1388, Epigraphia Indica XV (imprint date unverified). fourth event of Harihara II’s reign. Editor historical discussion with earlier citations; not the operative Srisailam grant."
+  ]
+},
+{
+  "id": "ledger-9c5ed03c9c70b976e8ec",
+  "name": "A reported revolt and plunder",
+  "place_and_era": "The account names Konkanika and Kadambapura. It places the acts in the reign of Harihara II. Exact places and dates remain unclear.",
+  "attested": "Rao reads titles of praise as signs of revolt and plunder. He links these acts to Bachappa Odeya. He also proposes later protection and submission.",
+  "unknown": "These claims do not establish town destruction or eviction. We do not know who lost homes or land, or how long any loss of control lasted.",
+  "next_step": "Examine the cited titles and evidence for each claimed act. Keep the proposed plunder, protection and submission distinct.",
+  "sources": [
+    "https://jainqq.org/booktext/Epigraphia_Indica_Vol_15/032569"
+  ],
+  "source_citations": [
+    "T. A. Gopinatha Rao, Srisailam Plates of Virupaksha: Saka-Samvat 1388, Epigraphia Indica XV (imprint date unverified). first political event of Harihara II’s reign. Editor historical discussion with earlier citations; not the operative Srisailam grant."
   ]
 }],
   "cases_awaiting_map_locations": [
@@ -7935,5 +8049,5 @@
     }
   ],
   "updated_on": "2026-10-24",
-  "update_scope": "New research notes on North America and South Asia"
+  "update_scope": "New research notes from India and Arctic Canada"
 }
