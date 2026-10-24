@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261024-r47-india-arctic-research-notes",
+  "version": "20261024-r48-karle-tradewater-source-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -245,16 +245,21 @@
     ]
   },
   {
-    "id": "ledger-ef5c099171ce9e9ded38",
-    "name": "Awatovi violence and residence question",
-    "place_and_era": "Awatovi; source reports a 1700 account",
-    "attested": "An article recounts a reported oral history of men trapped in kivas and fires.",
-    "unknown": "The reviewed text does not show where captives went or a defined land outcome.",
-    "next_step": "Review the cited account for lost homes and distinguish deaths from outward movement.",
-    "sources": [
-      "https://www.researchgate.net/publication/228657414_Perimortem_Mutilation_of_Human_Remains_in_an_Early_Village_in_the_American_Southwest_A_Case_for_Ethnic_Violence"
-    ]
-  },
+  "id": "ledger-ef5c099171ce9e9ded38",
+  "name": "Attack on Awatovi and the loss of residents' homes",
+  "place_and_era": "Awatovi, in present-day Arizona; Fewkes places the attack around 1700. The exact date is unknown.",
+  "attested": "Fewkes records a later Hopi account of an attack on Awatovi. It reports deaths, forced travel and the division of some survivors among other villages. He also describes burned rooms that he examined.",
+  "unknown": "Fewkes does not establish a death toll or the fate of each resident. Fire damage alone does not identify the attackers or date the attack. Later control of the site remains unknown.",
+  "next_step": "Compare the recorded account with excavation evidence from Awatovi. Keep the reported attack separate from the date and causes that Fewkes proposed.",
+  "sources": [
+    "https://www.researchgate.net/publication/228657414_Perimortem_Mutilation_of_Human_Remains_in_an_Early_Village_in_the_American_Southwest_A_Case_for_Ethnic_Violence",
+    "https://tile.loc.gov/storage-services/public/gdcmassbookdig/archeologicalexp00fewk/archeologicalexp00fewk.pdf"
+  ],
+  "source_citations": [
+    "James M. Potter and Jason P. Chuipka, Perimortem mutilation of human remains in an early village in the American Southwest: A case for ethnic violence (2010), consulted in-press copy, Awatovi comparison. Turner and Turner (1999), pp. 72–77, cited there but not directly read.",
+    "Jesse Walter Fewkes, Archeological Expedition to Arizona in 1895 (Washington: Government Printing Office, 1899 offprint), printed pp. 600–606. Later transmitted accounts and separate excavation observations; original-language accounts and cited manuscripts not consulted."
+  ]
+},
   {
     "id": "ledger-efa5e3056075740dd195",
     "name": "Awdighust conquest and local Zanata killing",
@@ -6535,6 +6540,48 @@
   "source_citations": [
     "T. A. Gopinatha Rao, Srisailam Plates of Virupaksha: Saka-Samvat 1388, Epigraphia Indica XV (imprint date unverified). first political event of Harihara II’s reign. Editor historical discussion with earlier citations; not the operative Srisailam grant."
   ]
+},
+{
+  "id": "ledger-432c5fcf70d94d4f4f65",
+  "name": "A village grant by Somadeva",
+  "place_and_era": "A grant to monks at the Karle caves. The unnamed village site and exact date remain unknown.",
+  "attested": "Senart translates inscription 14 as a village grant by Somadeva. He reads its terms as rights to taxes and other income.",
+  "unknown": "The terms for these rights are disputed. The text does not show whose prior rights changed or whether the grant took effect. The residents and any moves remain unknown.",
+  "next_step": "Find whether the grant changed prior rights to the village. Keep the cave site separate from the village site.",
+  "sources": [
+    "https://whatisindia.com/inscriptions/epigraphica_indica/vol7_1902-03/esenart14.html"
+  ],
+  "source_citations": [
+    "E. Senart, The Inscriptions in the Caves at Karle, Epigraphia Indica VII, no. 7, inscription 14. English web text."
+  ]
+},
+{
+  "id": "ledger-5be72ea820e4976a1b0c",
+  "name": "Settlement gaps in the Tradewater drainage",
+  "place_and_era": "Northwestern Kentucky. Middle and Late Woodland periods. Exact dates remain unresolved.",
+  "attested": "The survey reports an apparent break in occupation, followed by later occupation. It draws this pattern from a sample of sites.",
+  "unknown": "The survey does not show why this pattern arose, who left, or whether anyone was forced from a home.",
+  "next_step": "This is a research lead. Establish a bounded process and loss of residence before this becomes an atlas case.",
+  "sources": [
+    "https://heritage.ky.gov/Documents/Woodland%20Period%20Research%20in%20KY.pdf"
+  ],
+  "source_citations": [
+    "Ann I. Ottesen, Woodland Settlement Patterns in Northwestern Kentucky (1985), pp.166–186, especially p.182. Kentucky Heritage Council."
+  ]
+},
+{
+  "id": "ledger-aba019c6320e978b182c",
+  "name": "Karajika and Karajaka: grants of land to monks",
+  "place_and_era": "Karajika and Karajaka are the village names in these grants. Exact sites and dates remain unknown.",
+  "attested": "Senart reads village grants to monks in inscriptions 13 and 19. He treats the later royal order as a renewal, with rights and exemptions.",
+  "unknown": "Senart thinks both names refer to one village. The web text has gaps, and some rights are unclear. Corrected verbs give orders, not proof of action. Prior rights and their loss remain unknown, as do the residents and any moves.",
+  "next_step": "Find whether anyone lost rights to the land. Establish whether the orders took effect.",
+  "sources": [
+    "https://whatisindia.com/inscriptions/epigraphica_indica/vol7_1902-03/esenart18.html"
+  ],
+  "source_citations": [
+    "E. Senart, The Inscriptions in the Caves at Karle, Epigraphia Indica VII, no. 7, inscriptions 13 and 19. English web text."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -8049,5 +8096,5 @@
     }
   ],
   "updated_on": "2026-10-24",
-  "update_scope": "New research notes from India and Arctic Canada"
+  "update_scope": "New research notes and an Awatovi update"
 }

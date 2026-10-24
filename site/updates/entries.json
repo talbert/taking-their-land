@@ -1949,5 +1949,25 @@
       "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
     }
   ]
+},
+{
+  "id": "karle-land-grants-tradewater-gap",
+  "title": "Karle land grants and a gap at Tradewater",
+  "paragraphs": [
+    "Three new source notes cover an apparent Woodland occupation gap in Kentucky and village grants recorded at Karle. The Tradewater survey draws the gap from a sample of sites. It does not show forced removal.",
+    "Senart reads inscriptions 13 and 19 as linked Karajika-Karajaka grants to monks, with a later royal order. Inscription 14 records a grant of an unnamed village by Somadeva. The texts document grants and orders. Prior rights, loss of those rights and whether the grants took effect remain unknown.",
+    "The Awatovi update separates the account recorded by Fewkes from his proposed date and causes. The account reports deaths and forced travel. Fewkes does not establish a death toll, and fire damage alone does not date the attack.",
+    "This source-note update adds no atlas event or statistical release."
+  ],
+  "links": [
+    {
+      "label": "Known but not yet placeable",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    }
+  ],
+  "occurred_at": "2026-10-24T20:36:48.768906Z",
+  "published_at": "2026-10-24T21:02:33.642161Z",
+  "kind": "Research",
+  "backfilled": false
 }]
 }
