@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261024-r48-karle-tradewater-source-notes",
+  "version": "20261024-r49-otomi-source-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -6582,6 +6582,34 @@
   "source_citations": [
     "E. Senart, The Inscriptions in the Caves at Karle, Epigraphia Indica VII, no. 7, inscriptions 13 and 19. English web text."
   ]
+},
+{
+  "id": "ledger-ab66d7ec2cbddf3b2cd9",
+  "name": "Otomi loss of land near Xilotepec",
+  "place_and_era": "Central Mexico, near Xilotepec, Tula and the Toluca valley. The source places this before Spanish rule but gives no date for the land loss.",
+  "attested": "Levin Rojo reports that Nahua groups moved into the region. She says they displaced Otomi people from its better lands.",
+  "unknown": "The source does not name the affected communities or their tracts. How people lost the land and where they went remain unclear.",
+  "next_step": "Define which communities and lands this report covers. Ask how those communities formed and what other loss of land they faced.",
+  "sources": [
+    "https://www.noticonquista.unam.mx/amoxtli/2370/2357"
+  ],
+  "source_citations": [
+    "Levin Rojo on land loss, paragraph 2."
+  ]
+},
+{
+  "id": "ledger-e0ccbb171a741c523281",
+  "name": "Otomi flight from Spanish rule",
+  "place_and_era": "From Xilotepec to La Canada, near Queretaro. The account puts the move after 1521. Its exact date is unknown.",
+  "attested": "Levin Rojo reports that Conin led thirty Otomi families from Xilotepec to La Canada to seek refuge. She links the departure to pressure from Spanish rule. The families gained host permission to settle in return for crop tribute. The account says the hosts kept their lands and some rights.",
+  "unknown": "The accounts about Conin differ. The cited text from 1582 and later traditions need comparison. The date, the fate of each family and any return remain unknown.",
+  "next_step": "Set this flight within the wider Spanish conquest. Keep the flight, the right to settle and later roles apart.",
+  "sources": [
+    "https://www.noticonquista.unam.mx/amoxtli/2370/2357"
+  ],
+  "source_citations": [
+    "Levin Rojo, paragraphs 5 and 6. Limits in paragraphs 7 and 9."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -8095,6 +8123,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-24",
-  "update_scope": "New research notes and an Awatovi update"
+  "updated_on": "2026-10-25",
+  "update_scope": "Two Otomi research notes"
 }

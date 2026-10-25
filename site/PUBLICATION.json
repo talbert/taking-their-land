@@ -42,30 +42,30 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "f693e26eac20c5153e28f77869b51b1a6e522dcdc968def0ab0af51166bf4f8c",
+  "tree_sha256": "6c94fc688c30d1b343e07e9bdaee939226cf9a4b4829a42bb36939c05f71caf5",
   "site_updates": {
     "schema": "taking-land-site-updates-v1",
-    "version": "20261024-r48-karle-tradewater-source-notes",
-    "entries": 83,
+    "version": "20261024-r49-otomi-source-notes",
+    "entries": 84,
     "source": "updates/entries.json",
-    "source_sha256": "0f3bc9a716ad59a47a07503dbedbdf72fc9316580d26ae53a6c54826d97c85cc",
+    "source_sha256": "9ccdd255dc24eb5fd3a73a8270783f676f3a4f870ab499d549a777b6188c9513",
     "feed": "updates/feed.xml",
-    "feed_sha256": "2cb7540e56c913b3c2a9ba16e0f38a771b004caf49ad16c3621391e9b18f1a72",
+    "feed_sha256": "6314bc3543934ee68b55982ebd4924f39eb57cfb0024025ea61c94084c2186d4",
     "discovery_list": {
       "schema": "discovery-list-binding-v1",
-      "version": "20261024-r48-karle-tradewater-source-notes",
+      "version": "20261024-r49-otomi-source-notes",
       "reviewed_on": "2026-10-17",
-      "ledger_sha256": "d316c26fa1a20dccf43610d0d3d6c87cec26e8df84208b925ca9c0b3d7f169f6",
-      "editorial_sha256": "f34261d73f7bd5bee425b742c3f9b4dee29cca4583fdba051b70972500e78935",
+      "ledger_sha256": "8bbec7f6d00b10525f089a761f33b8c758f32286a9c234c985dc23a14b0aa0f4",
+      "editorial_sha256": "cd03f4c2fa6170bc2454d411255b05b19530ebf6ae4d2b4460189ca2492c6df9",
       "page": "discovery/known/index.html",
-      "page_sha256": "9bafae9fb45a626f86076ab46ec48b9249dfba66c775b30e09f437ef9b2cbafe",
+      "page_sha256": "d171e03e3e0cb9abbfa6b8ba49ae6e0beb943cdc31e135f7c83577d8ba176ada",
       "data": "discovery/known/entries.json",
-      "data_sha256": "096f298e2732d4fe139772e737acd486c426f2fec8e7000b03c902127dff3867",
-      "updated_on": "2026-10-24",
-      "update_scope": "New research notes and an Awatovi update",
-      "entries": 541
+      "data_sha256": "e1ce8e8c3e844c376914f898de8d8f5802adcf72eb7a4275c85b1daecc6ccfce",
+      "updated_on": "2026-10-25",
+      "update_scope": "Two Otomi research notes",
+      "entries": 543
     },
-    "discovery_report": {"version": "r48-source547-exposure60", "index": "discovery/index.html", "index_sha256": "98ce5bcca46879adc4e9894a9b2f6d55089bf3afa21fac18c79f49da3e162def", "data": "discovery/report.json", "data_sha256": "e755e4b2695c6385199743c7dc09e4b9ae0eaacb6293ae46b943e2762860a5b0", "runtime_scope": "Dated research report. The live atlas has 540 cases and 552 stops. The frozen release has 676 events. The research archive has 114 inactive scientific records. The atlas and data files keep their prior release."},
+    "discovery_report": {"version": "r49-source549-exposure63", "index": "discovery/index.html", "index_sha256": "f6402c2edecaf121d44b45d7897d8a43da13e3239957871d456deec32b76c0ce", "data": "discovery/report.json", "data_sha256": "d16eb781660bcdd70a490605a570ae5af3631c05830893b905fc1b5eee0da3d5", "runtime_scope": "Dated research report. The live atlas has 540 cases and 552 stops. The frozen release has 676 events. The research archive has 115 inactive scientific records. The atlas and data files keep their prior release."},
     "citation_scope": {
       "concept_DOI": "10.5281/zenodo.23410511",
       "issued_version_DOI": "10.5281/zenodo.23410512",
@@ -79,7 +79,7 @@
       "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
     }
   },
-  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r48-source547-exposure60", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "98ce5bcca46879adc4e9894a9b2f6d55089bf3afa21fac18c79f49da3e162def", "report": "discovery/report.json", "report_sha256": "e755e4b2695c6385199743c7dc09e4b9ae0eaacb6293ae46b943e2762860a5b0"},
+  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r49-source549-exposure63", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "f6402c2edecaf121d44b45d7897d8a43da13e3239957871d456deec32b76c0ce", "report": "discovery/report.json", "report_sha256": "d16eb781660bcdd70a490605a570ae5af3631c05830893b905fc1b5eee0da3d5"},
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
@@ -117,7 +117,7 @@
     ]
   },
   "incoming_flight_notes": 22,
-  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 53, "holds": 64, "research_records": 547, "inactive_scientific_memberships": 114, "scientific_activations": 0, "discovery_report": "r48-source547-exposure60", "packaged_atlas_and_data_unchanged": true},
+  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 53, "holds": 64, "research_records": 549, "inactive_scientific_memberships": 115, "scientific_activations": 0, "discovery_report": "r49-source549-exposure63", "packaged_atlas_and_data_unchanged": true},
   "license_notice_source": "reuse/LICENSE.md",
   "preserved_download_notice": {
     "path": "data/LICENSE.md",

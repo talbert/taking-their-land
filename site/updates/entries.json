@@ -1969,5 +1969,28 @@
   "published_at": "2026-10-24T21:02:33.642161Z",
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "otomi-land-loss-and-refuge",
+  "title": "Two Otomi notes on land loss and refuge",
+  "paragraphs": [
+    "Two Otomi research notes draw on one modern Spanish account by Levin Rojo. It appears on a UNAM site. The first reports that Nahua groups displaced Otomi people from better lands near Xilotepec. It remains a regional lead: the affected communities and tracts need to be defined.",
+    "The second is a qualified case hypothesis about Conin and families who left Xilotepec to seek refuge from Spanish rule. The account says their hosts allowed them to settle for crop tribute and kept their own lands. That agreement is distinct from the pressure to leave and from later Otomi roles in conquest.",
+    "Accounts of Conin differ. The exact date, which families were involved and any return remain unresolved. The cited early texts remain unread. These notes add no atlas cases, stops or scores."
+  ],
+  "links": [
+    {
+      "label": "Otomi loss of land near Xilotepec",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-ab66d7ec2cbddf3b2cd9"
+    },
+    {
+      "label": "Otomi flight from Spanish rule",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-e0ccbb171a741c523281"
+    }
+  ],
+  "occurred_at": "2026-10-24T23:54:45.876809Z",
+  "published_at": "2026-10-25T00:32:53.126684Z",
+  "kind": "Research",
+  "backfilled": false
 }]
 }
