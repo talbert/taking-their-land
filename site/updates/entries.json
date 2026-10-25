@@ -1992,5 +1992,29 @@
   "published_at": "2026-10-25T00:32:53.126684Z",
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "maryland-quarry-access-and-new-settlements",
+  "title": "Two Maryland notes on land use and new settlers",
+  "paragraphs": [
+    "Two new research notes ask what changed for earlier land users in Maryland. A cited study places new villages around 900 to 1000 CE. Those years do not date a forced removal.",
+    "One note asks whether new settlers reduced access to stone quarries. Curry and Kavanagh suggest that link. Stewart finds signs of continued inland use. That use does not settle whether coastal groups kept access.",
+    "The other note asks whether new settlers reached western Maryland and what changed for earlier land users. Pottery alone does not identify a people or prove force. Both notes keep the land outcome unresolved. They add no atlas cases, stops or scores.",
+    "The source check used indexed text for one article. Its original figures remain unverified."
+  ],
+  "links": [
+    {
+      "label": "Earlier quarry users and new villages",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-e08cb53e6b5c9cf3512e"
+    },
+    {
+      "label": "New settlers in western Maryland?",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-8d3bfed86677f92c66fa"
+    }
+  ],
+  "occurred_at": "2026-10-25T04:55:24.258470Z",
+  "published_at": "2026-10-25T05:17:55.961737Z",
+  "kind": "Research",
+  "backfilled": false
 }]
 }

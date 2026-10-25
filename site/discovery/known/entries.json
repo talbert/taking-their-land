@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261024-r49-otomi-source-notes",
+  "version": "20261024-r50-maryland-research-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -6610,6 +6610,36 @@
   "source_citations": [
     "Levin Rojo, paragraphs 5 and 6. Limits in paragraphs 7 and 9."
   ]
+},
+{
+  "id": "ledger-8d3bfed86677f92c66fa",
+  "name": "New settlers in western Maryland?",
+  "place_and_era": "Western Maryland and the upper Potomac. The 1991 study places an expansion around 900 CE. This is not a dated removal.",
+  "attested": "Curry and Kavanagh describe changes in pottery and later use of these sites. They favor the arrival of new settlers over change within the older groups. They link this to the Monongahela tradition. Some site deposits and dates overlap.",
+  "unknown": "The source does not show how earlier land use ended. A new pottery type does not by itself prove a new people or forced movement. The affected group and land outcome remain unclear.",
+  "next_step": "Check each site sequence on its own. Ask what changed for earlier users of the land, as well as who later lived there.",
+  "sources": [
+    "https://www.academia.edu/4253116/The_Middle_to_Late_Woodland_Transition_in_Maryland"
+  ],
+  "source_citations": [
+    "Dennis C. Curry and Maureen Kavanagh, The Middle to Late Woodland Transition in Maryland, North American Archaeologist 12(1) (1991), pp. 5–9,22–23 (indexed text; original figures unverified)."
+  ]
+},
+{
+  "id": "ledger-e08cb53e6b5c9cf3512e",
+  "name": "Earlier quarry users and new villages in Maryland",
+  "place_and_era": "Blue Ridge and Monocacy Valley, Maryland. The 1991 study places new villages around 900 to 1000 CE. That range does not date a loss of land.",
+  "attested": "Earlier groups gathered stone and hunted in the area. Curry and Kavanagh suggest a possible loss of access as new settlers arrived. Stewart finds signs that some inland groups still gathered the stone. This does not show whether coastal users kept access.",
+  "unknown": "It is not clear whether earlier users lost access to the land. Changes in pottery and stone tools alone do not identify a people or prove force. The proposed link between new villages and lost access remains uncertain.",
+  "next_step": "Check the site records for a loss of access by earlier users. Compare this with continued use and changes in how people gathered stone.",
+  "sources": [
+    "https://www.academia.edu/4253116/The_Middle_to_Late_Woodland_Transition_in_Maryland",
+    "https://webspace.ship.edu/pgmarr/Geo320/Stewart%201987%20-%20Rhyolite%20Quarry%20and%20Quarry-Related%20Sites%20PA%20and%20MD.pdf"
+  ],
+  "source_citations": [
+    "Dennis C. Curry and Maureen Kavanagh, The Middle to Late Woodland Transition in Maryland, North American Archaeologist 12(1) (1991), pp. 15–16,21–24 (indexed text; original figures unverified).",
+    "R. Michael Stewart, Rhyolite Quarry and Quarry-Related Sites in Maryland and Pennsylvania, Archaeology of Eastern North America 15 (1987), pp. 51–55 (original article; full text and stated images read)."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -8124,5 +8154,5 @@
     }
   ],
   "updated_on": "2026-10-25",
-  "update_scope": "Two Otomi research notes"
+  "update_scope": "Two Maryland research notes"
 }
