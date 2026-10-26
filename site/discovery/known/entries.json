@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261024-r50-maryland-research-notes",
+  "version": "20261026-r51-six-research-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -406,16 +406,21 @@
     ]
   },
   {
-    "id": "ledger-a8714b97d542a08fbb4d",
-    "name": "Castle Rock Pueblo violence question",
-    "place_and_era": "Castle Rock Pueblo; late thirteenth-century source context",
-    "attested": "An article discusses victims and a theory that a household group was affected.",
-    "unknown": "The reviewed text does not show lost homes or where captives went at this site.",
-    "next_step": "Review the cited site evidence for a specific process and land outcome.",
-    "sources": [
-      "https://www.researchgate.net/publication/228657414_Perimortem_Mutilation_of_Human_Remains_in_an_Early_Village_in_the_American_Southwest_A_Case_for_Ethnic_Violence"
-    ]
-  },
+  "id": "ledger-a8714b97d542a08fbb4d",
+  "name": "Castle Rock Pueblo attack and lost homes",
+  "place_and_era": "Castle Rock Pueblo in southwestern Colorado. The report places the attack after 1274, probably in the early or mid 1280s. This is an estimate, not an exact year.",
+  "attested": "Kuckelman reports violent deaths of people in their village homes. She links the attack to the end of village life. The deaths show loss of home for the residents killed there.",
+  "unknown": "The attacker and the fate of survivors remain unknown. The report leaves open who set the fires. It does not show where survivors went, later land rights or permanent exclusion. Detailed bone analysis is outside this chapter.",
+  "next_step": "Trace any survivors and later use of the village. Keep the local attack separate from wider moves across the region.",
+  "sources": [
+    "https://www.researchgate.net/publication/228657414_Perimortem_Mutilation_of_Human_Remains_in_an_Early_Village_in_the_American_Southwest_A_Case_for_Ethnic_Violence",
+    "https://crowcanyon.org/ResearchReports/CastleRock/Text/crpw_finaldays"
+  ],
+  "source_citations": [
+    "James M. Potter and Jason P. Chuipka, Perimortem mutilation of human remains in an early village in the American Southwest: A case for ethnic violence (2010). Accepted Castle Rock comparative window, parsed L559–602; cited Kuckelman2000/2002 underlying items were not directly consulted in that earlier reading.",
+    "Kristin A. Kuckelman, The Final Days of Castle Rock Pueblo, paragraphs 1–10 and terminal analysis footnote. Crow Canyon Archaeological Center."
+  ]
+},
   {
     "id": "ledger-7495c9c635b310a31e41",
     "name": "Cave 7 burial and violence question",
@@ -1162,16 +1167,21 @@
     ]
   },
   {
-    "id": "ledger-36377910f01279b412f0",
-    "name": "Land gift from Ayasia Kamuia to the monk Budhila",
-    "place_and_era": "Mathura. The grant has no adopted event date.",
-    "attested": "Puri reports a land gift by Ayasia Kamuia to the monk Budhila. He also describes a stupa and a monastery.",
-    "unknown": "The source does not show a loss of prior rights or a forced move. A named origin for Budhila does not prove that he arrived.",
-    "next_step": "Assess what the land gift changed in use or control. Keep prior rights, force and actual residence open.",
-    "sources": [
-      "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf"
-    ]
-  },
+  "id": "ledger-36377910f01279b412f0",
+  "name": "Land grant at Mathura",
+  "place_and_era": "Mathura. Konow places the record around 5 to 10 CE. This estimate is not a fixed event date.",
+  "attested": "Konow reads Sudasa as the land donor. He says the monk Budhila received it in trust for a Buddhist order. He credits Ayasia Kamuia with the relic deposit.",
+  "unknown": "Prior rights and any loss of them remain unknown. Force and actual residence also remain unknown. A place of origin for Budhila does not prove travel. The grant does not prove vacant land or consent by all prior rights holders.",
+  "next_step": "Assess what the land gift changed in use or control. Keep prior rights, force and actual residence open.",
+  "sources": [
+    "https://apnaorg.com/books/english/history-of-civilizations-of-central-asia-vol-2/history-of-civilizations-of-central-asia-vol-2.pdf",
+    "https://upload.wikimedia.org/wikipedia/commons/6/64/Corpus_Inscriptionum_Indicarum_Vol_2_Part_1.pdf"
+  ],
+  "source_citations": [
+    "B. N. Puri, The Sakas and Indo-Parthians, chapter 8, printed page 200",
+    "Sten Konow, Corpus Inscriptionum Indicarum II.1, No. XV, Mathura Lion Capital, printed pages 30–49"
+  ]
+},
   {
     "id": "ledger-50ffc59d186a87df450d",
     "name": "Land pressure and departure from Tunka",
@@ -6640,6 +6650,90 @@
     "Dennis C. Curry and Maureen Kavanagh, The Middle to Late Woodland Transition in Maryland, North American Archaeologist 12(1) (1991), pp. 15–16,21–24 (indexed text; original figures unverified).",
     "R. Michael Stewart, Rhyolite Quarry and Quarry-Related Sites in Maryland and Pennsylvania, Archaeology of Eastern North America 15 (1987), pp. 51–55 (original article; full text and stated images read)."
   ]
+},
+{
+  "id": "ledger-10fc505e29d7dc675572",
+  "name": "People held on the Assaballa vessel",
+  "place_and_era": "A vessel at the White Nile camp. Baker gives June 25 for its arrival. The camp sequence supplies the 1870 context. This does not date the original capture.",
+  "attested": "Baker reports 35 captives aboard a vessel owned by Assaballa. He says the vessel came from Bahr Gazal. He reports their release. This was a separate transport from the Kutchuk Ali vessel.",
+  "unknown": "The reported origin of the vessel does not identify their homes. Their capture dates and later return remain unknown. The Pongo musicians do not identify this group. The two vessel counts do not give a regional total.",
+  "next_step": "Look for records of these captives' earlier homes and later lives. Keep them apart from the Kutchuk Ali group and the Pongo musicians.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/3607/pg3607-images.html"
+  ],
+  "source_citations": [
+    "Baker, expedition account. Chapter IV. On June 17 through the June 25 vessels and the immediately following Pongo-musicians paragraph. Chapter V first dated entry and start of chapter VI supply 1870 camp context only."
+  ]
+},
+{
+  "id": "ledger-183afcd2445829e045c9",
+  "name": "Flight and home return of Quat Kare",
+  "place_and_era": "Baker wrote about Quat Kare in the White Nile region. His expedition supplies the 1870 context. The flight and return dates are not given.",
+  "attested": "Baker relays a report of an attempted capture and calls Quat Kare a fugitive. He says the king and governor went to their own homes. He reports peace and the later return of Quat Kare to office. An undated note reports his later imprisonment and death.",
+  "unknown": "Loss of office does not by itself show loss of home. This unit concerns the reported flight. Return does not prove restored cattle, freed captives or future safety. Dates and the duration of flight remain unknown.",
+  "next_step": "Trace the flight, home return and later loss in the linked accounts. Keep residence apart from claims about office and followers.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/3607/pg3607-images.html"
+  ],
+  "source_citations": [
+    "Baker, expedition account. Chapter IV; start of VI. Opening audience with the wife account; governor/king dialogue; following home-return paragraph; footnote on later imprisonment/death. Start of chapter VI: peace and reinstatement. Camp sequence supports 1870 context only; no flight/return dates inferred."
+  ]
+},
+{
+  "id": "ledger-5579dc3ca79895bd2364",
+  "name": "Khyang evictions for forest reserves",
+  "place_and_era": "Chittagong Hill Tracts in Bangladesh. The 2000 report describes evictions over the previous three or four years. These are not exact event dates.",
+  "attested": "The CHT Commission says the government declared forest reserves. It reports the eviction of about 2,000 people from their land. Most were Khyang. It says they received no compensation.",
+  "unknown": "The exact households and land boundaries remain unclear. Their overlap with other cases is unknown. The passage gives no exact event dates. Future plans are separate.",
+  "next_step": "Check the affected places and how the reserve programme took effect. Trace earlier and later use of this land. Do not assume the same households appear in other cases.",
+  "sources": [
+    "https://www.iwgia.org/images/publications//Life_is_not_ours_UPDATE4.pdf"
+  ],
+  "source_citations": [
+    "CHT Commission, Life Is Not Ours, Update 4 (2000), Chapter 5, page 38. Map on page 40 supplies regional context."
+  ]
+},
+{
+  "id": "ledger-570ccb8b10616ad7707e",
+  "name": "A house fire at Durango South",
+  "place_and_era": "Durango, southwestern Colorado. The report gives a roof construction estimate in the 700s. This does not date the fire.",
+  "attested": "The report describes a house that was in use when it burned. Its authors link the fire to loss of the home. They also report later storage use in the remains.",
+  "unknown": "The cause of the fire and any human role remain unknown. These chapters do not establish an attack or forced removal. The residents, their fates and later land rights remain unclear.",
+  "next_step": "Check what caused the fire and how it ended use of this home. Keep later reuse and the other buildings separate.",
+  "sources": [
+    "https://open.uapress.arizona.edu/system/actioncallout/e/6/f/e6f21c95-2933-4cf4-833f-cf6e887ff9bc/attachment/4189dd20f2ace5606e4dac0f191e890d.pdf"
+  ],
+  "source_citations": [
+    "John D. Gooding (ed.), The Durango South Project (1980). Chapter II, pages 13-44; Chapter VI, pages 177-184. University of Arizona Press."
+  ]
+},
+{
+  "id": "ledger-cf92f9f2726d922d1532",
+  "name": "Captives held on the Kutchuk Ali vessel",
+  "place_and_era": "The account describes a vessel at the White Nile camp. Baker gives May 10 for the interception. The camp sequence supplies the 1870 context, not a date for the original capture.",
+  "attested": "Baker reports 150 captives on a vessel owned by Kutchuk Ali. Some were in irons. He describes their release, papers of freedom and new household placements.",
+  "unknown": "This is a count of people on one vessel. It is not a regional total. Their home villages, capture dates and actual return remain unknown. Release does not prove full freedom after placement.",
+  "next_step": "Find records of the homes these captives left. Compare their release and placements with signs of return or continued force.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/3607/pg3607-images.html"
+  ],
+  "source_citations": [
+    "Baker, expedition account. Chapter IV. Paragraph beginning On the 10th May through the liberated-captive and Mostoora discussion. Chapter V first dated entry and start of chapter VI supply 1870 camp context, not capture dates."
+  ]
+},
+{
+  "id": "ledger-fec5dfe2e80e07cbd975",
+  "name": "Former Dinka homes on the east bank near Tewfikeeyah",
+  "place_and_era": "East bank near Tewfikeeyah in the White Nile region. Baker describes the bank in his 1870 camp account. This does not date the raids.",
+  "attested": "Baker saw pot fragments and traces of old villages on the east bank. He said Dinka people once lived there. He blamed slave raids by Fashoda governors and their Baggara allies for the loss. People still lived and traded on the west bank.",
+  "unknown": "The ruins do not prove the cause that Baker gives. The dates, full extent and fate of the former residents remain unknown. These claims come from one account.",
+  "next_step": "Trace the former villages and their residents in the linked records. Compare evidence of raids with other causes of loss and signs of return.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/3607/pg3607-images.html"
+  ],
+  "source_citations": [
+    "Baker, expedition account. Chapter IV. Paragraphs beginning Although this country was exceedingly rich in soil and I frequently rode on horseback; later east-bank Dinka-country sentence. Chapter V first dated entry and start of chapter VI supply 1870 camp chronology, not raid dates."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -8153,6 +8247,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-25",
-  "update_scope": "Two Maryland research notes"
+  "updated_on": "2026-10-26",
+  "update_scope": "Six new research notes and two revised notes"
 }

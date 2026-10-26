@@ -2016,5 +2016,56 @@
   "published_at": "2026-10-25T05:17:55.961737Z",
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "six-research-notes-and-two-revisions",
+  "title": "Six new research notes and two revised notes",
+  "paragraphs": [
+    "We added six research notes and revised two notes.",
+    "Four new notes use the White Nile account by Baker. They concern former Dinka homes, the flight and return of Quat Kare, and two groups held on vessels. Their dates and later outcomes remain partly unknown.",
+    "At Durango South, a report links a house fire to loss of home use. It also records later storage use. The cause of the fire remains unknown.",
+    "The CHT Commission reports evictions for forest reserves that mostly affected Khyang people. This note separates completed evictions from future plans.",
+    "Kuckelman links an attack to the end of village life at Castle Rock. The fate of survivors remains unknown.",
+    "Konow reads Sudasa as the land donor at Mathura. He credits Ayasia Kamuia with the relic deposit. Prior rights and any force remain unknown.",
+    "The live atlas has the same cases, playback stops and model scores."
+  ],
+  "links": [
+    {
+      "label": "Former Dinka homes on the east bank near Tewfikeeyah",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-fec5dfe2e80e07cbd975"
+    },
+    {
+      "label": "Flight and home return of Quat Kare",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-183afcd2445829e045c9"
+    },
+    {
+      "label": "Captives held on the Kutchuk Ali vessel",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-cf92f9f2726d922d1532"
+    },
+    {
+      "label": "People held on the Assaballa vessel",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-10fc505e29d7dc675572"
+    },
+    {
+      "label": "A house fire at Durango South",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-570ccb8b10616ad7707e"
+    },
+    {
+      "label": "Khyang evictions for forest reserves",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-5579dc3ca79895bd2364"
+    },
+    {
+      "label": "Castle Rock Pueblo attack and lost homes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-a8714b97d542a08fbb4d"
+    },
+    {
+      "label": "Land grant at Mathura",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-36377910f01279b412f0"
+    }
+  ],
+  "occurred_at": "2026-10-26T05:15:07.579866Z",
+  "published_at": "2026-10-26T06:00:13.572363Z",
+  "kind": "Research",
+  "backfilled": false
 }]
 }
