@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261026-r51-six-research-notes",
+  "version": "20261026-r52-denbigh-registered120",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -548,18 +548,18 @@
     ]
   },
   {
-    "id": "ledger-2e2e05a226803d2d31f1",
-    "name": "Denbigh change: did people have to leave?",
-    "place_and_era": "Alaska, near the Bering Sea and Arctic coasts. The source gives broad age ranges, not a firm event date.",
-    "attested": "A 2018 state report says a migration with Denbigh culture displaced or replaced earlier people. It leaves that choice open. It also describes later continuity with Choris.\n\nThe Raghavan study supports continuity among some sampled groups in Canada and Greenland. Its results do not resolve this Denbigh claim.\n\nAnderson reports Ipiutak homes and camps at Cape Krusenstern. He says that people later left those houses. This does not settle the earlier Denbigh claim.",
-    "unknown": "The report does not link a human act to a loss of homes or land. Changes in tools or DNA do not prove that people had to leave.",
-    "next_step": "Selected Cape chapters now give context. They cover chronology, Birnirk and Ipiutak, with figures and plates. They do not settle the earlier Denbigh claim. The Oxford chapter remains unread because access is blocked. Seek evidence that links a human act to loss of homes, land use or control.",
-    "sources": [
-      "https://dnr.alaska.gov/parks/oha/publications/oha173overviewofalaskaprehistory.pdf",
-      "https://escholarship.org/content/qt3197t6wz/qt3197t6wz.pdf",
-      "https://npshistory.com/series/archeology/20/report.pdf"
-    ]
-  },
+  "id": "ledger-2e2e05a226803d2d31f1",
+  "name": "Denbigh change: did people have to leave?",
+  "place_and_era": "Alaska, near the Bering Sea and Arctic coasts. The source gives broad age ranges, not a firm event date.",
+  "attested": "A 2018 state report says a migration with Denbigh culture displaced or replaced earlier people. It leaves that choice open.\n\nThe 1986 field report describes hearths and stone tools. Its authors interpret coastal sites as seasonal hunting camps, infer some tents, and trace some tool traits toward Choris culture. These are their interpretations of use and cultural descent. The later Cape and Canada/Greenland findings do not settle the Denbigh claim.",
+  "unknown": "The complete Denbigh chapter does not establish that human action caused people to lose homes, land use, access or control. Erosion, lost collections, weak dates and uncertain tool uses limit the evidence. Two plate or beach references conflict. This source limit does not show that displacement never occurred.",
+  "next_step": "The Denbigh chapter, figures and plates are now read and checked. Keep the question open. Seek evidence that links a human act to loss of homes, land use, access or control. The separate Oxford chapter remains unread because access is blocked.",
+  "sources": [
+    "https://dnr.alaska.gov/parks/oha/publications/oha173overviewofalaskaprehistory.pdf",
+    "https://escholarship.org/content/qt3197t6wz/qt3197t6wz.pdf",
+    "https://npshistory.com/series/archeology/20/report.pdf"
+  ]
+},
   {
     "id": "ledger-2d82afe540ac502c078f",
     "name": "Did these groups merge or leave?",
@@ -8248,5 +8248,5 @@
     }
   ],
   "updated_on": "2026-10-26",
-  "update_scope": "Six new research notes and two revised notes"
+  "update_scope": "Denbigh note and a dated model comparison"
 }

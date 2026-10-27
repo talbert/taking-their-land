@@ -2067,5 +2067,31 @@
   "published_at": "2026-10-26T06:00:13.572363Z",
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "denbigh-camps-tools-and-open-displacement-question",
+  "title": "Denbigh camps, tools and an open question",
+  "paragraphs": [
+    "We revised the Denbigh research note after a complete chapter review.",
+    "The 1986 field report describes hearths and stone tools. Its authors interpret coastal sites as seasonal camps and infer some tents. They trace some tool traits toward Choris culture.",
+    "Erosion, lost finds, weak dates and uncertain tool uses limit the evidence. Two plate or beach references conflict.",
+    "The chapter does not establish that human action caused loss of homes, land use, access or control. This limit does not show that displacement never occurred. The displacement question stays open.",
+    "The chapter comes from the report already used for other Cape sites.",
+    "The discovery report also has results for the comparison at 120 records. It lists all eleven scenarios and two unmet integrity requirements."
+  ],
+  "links": [
+    {
+      "label": "Denbigh change: did people have to leave?",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-2e2e05a226803d2d31f1"
+    },
+    {
+      "label": "Dated model report and its limits",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-26T22:06:28.973687Z",
+  "published_at": "2026-10-26T23:46:06.679315Z",
+  "kind": "Research",
+  "backfilled": false
 }]
 }
