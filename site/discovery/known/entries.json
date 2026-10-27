@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261027-r53-thirty-two-source-notes",
+  "version": "20261027-r54-town-control-land-claims",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -4207,19 +4207,21 @@
     ]
   },
 {
-    "id": "ledger-64eaa38074956af8d391",
-    "name": "Tunica and Tonnika accounts of flight",
-    "place_and_era": "Near the lower Mississippi River. Hoffman argues that the Tunica left before 1699. The exact date and earlier home remain unknown.",
-    "attested": "Hoffman recounts a Tunica tradition of conflict and a move downstream. A Quapaw account claims an attack that drove Tonnika away.",
-    "unknown": "It is unclear if both accounts describe the same departure. The exact date and place remain unknown.",
-    "next_step": "Study the earlier home area and the new settlement. Keep each account and its source clear.",
-    "sources": [
-      "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
-    ],
-    "source_citations": [
-      "Michael P. Hoffman (1993), The Depopulation and Abandonment of Northeastern Arkansas in the Protohistoric Period. Chapter 15 in James B. Stoltman (ed.), Archaeology of Eastern North America: Papers in Honor of Stephen Williams. Archaeological Report 25, printed pages 261–275; cited printed pages 267–269, 272–273. One consulted chapter; underlying accounts and reports not independently consulted."
-    ]
-  },
+  "id": "ledger-64eaa38074956af8d391",
+  "name": "Tunica and Tonnika accounts of flight",
+  "place_and_era": "Near the lower Mississippi River. Hoffman argues that the Tunica left before 1699. The exact date and earlier home remain unknown.",
+  "attested": "Hoffman recounts a Tunica tradition of conflict and a move downstream. A Quapaw account claims an attack that drove Tonnika away.\n\nThe 1989 report proposes a cause of departure from southeast Arkansas. In this view, Quapaw pressure drove people out. Disease is another proposed cause. The report also links local phases to possible Tunican or Koroa groups.",
+  "unknown": "It is unclear if both accounts describe the same departure. The exact date and place remain unknown.\n\nThis view concerns southeast Arkansas. Its link to the Tunica and Tonnika accounts is unclear. They can describe the same departure, part of it, or related regional changes. Phase labels do not prove one people.",
+  "next_step": "Study the earlier home area and the new settlement. Keep each account and its source clear.\n\nCompare the two source accounts, their places and their proposed groups. Keep the relation open.",
+  "sources": [
+    "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf",
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Michael P. Hoffman (1993), The Depopulation and Abandonment of Northeastern Arkansas in the Protohistoric Period. Chapter 15 in James B. Stoltman (ed.), Archaeology of Eastern North America: Papers in Honor of Stephen Williams. Archaeological Report 25, printed pages 261–275; cited printed pages 267–269, 272–273. One consulted chapter; underlying accounts and reports not independently consulted.",
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7, “Late Prehistoric Cultures, A.D. 1000–1500”, in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, RS37, 1989), printed pp. 183, 184, 188 (physical PDF pp. 195, 196, 200). One accepted report component; cited originals and analyst readings do not add independent historical witnesses."
+  ]
+},
 {
       "id": "ledger-0c4cc9425a91a918e135",
       "name": "Nulliak stayed in use under pressure",
@@ -4635,33 +4637,37 @@
       ]
     },
 {
-      "id": "ledger-adbd0a83c04a749cd9f8",
-      "name": "A proposed move from the Tensas Basin to Jordan",
-      "place_and_era": "Kidder places this movement in northeast Louisiana, roughly 1550 to 1680. These are broad source dates.",
-      "attested": "Kidder proposes that people moved west from the Tensas Basin and gathered at Jordan. He suggests disease and political change as possible causes.",
-      "unknown": "Who moved, how pressure shaped the move, and what happened at the places they left are unresolved. The chapter does not establish an expulsion.",
-      "next_step": "Examine the proposed move and changes in residence as separate questions. Keep the possible causes and group identities open.",
-      "sources": [
-        "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
-      ],
-      "source_citations": [
-        "Kidder 1993, chapter 14, printed p. 256"
-      ]
-    },
+  "id": "ledger-adbd0a83c04a749cd9f8",
+  "name": "A proposed move from the Tensas Basin to Jordan",
+  "place_and_era": "Kidder places this movement in northeast Louisiana, roughly 1550 to 1680. These are broad source dates.",
+  "attested": "Kidder proposes that people moved west from the Tensas Basin and gathered at Jordan. He suggests disease and political change as possible causes.\n\nThe 1989 report adds a possible origin at Wilmot. It proposes that some people from there found refuge at Jordan. It also raises a possible Koroa link.",
+  "unknown": "Who moved, how pressure shaped the move, and what happened at the places they left are unresolved. The chapter does not establish an expulsion.\n\nThe proposed Wilmot and Transylvania origins do not prove one group or one move. A Koroa link remains uncertain.",
+  "next_step": "Examine the proposed move and changes in residence as separate questions. Keep the possible causes and group identities open.\n\nKeep each proposed origin distinct. Study the terms of refuge and any change in local residence.",
+  "sources": [
+    "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf",
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Kidder 1993, chapter 14, printed p. 256",
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7, “Late Prehistoric Cultures, A.D. 1000–1500”, in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, RS37, 1989), printed pp. 184, 185 (physical PDF pp. 196, 197). One accepted report component; cited originals and analyst readings do not add independent historical witnesses."
+  ]
+},
 {
-      "id": "ledger-49fa11628edb285512df",
-      "name": "People gather near the lower Ouachita river junctions",
-      "place_and_era": "Kidder places this change near the lower Ouachita river junctions between 1682 and about 1700. It follows the earlier Tensas-to-Jordan movement.",
-      "attested": "He proposes that villages joined near the Ouachita and Bayou Bartholomew. He links this change to the collapse at Jordan and new trade conditions. He suggests that people from several groups joined.",
-      "unknown": "The groups, household choices and changes in land use are not fully known. When villages join, this does not prove that earlier residents lost their homes.",
-      "next_step": "Keep the decline at Jordan and the new settlements distinct. Clarify whose residence changed. Do not treat pottery styles as peoples.",
-      "sources": [
-        "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf"
-      ],
-      "source_citations": [
-        "Kidder 1993, chapter 14, printed pp. 255–257"
-      ]
-    },
+  "id": "ledger-49fa11628edb285512df",
+  "name": "People gather near the lower Ouachita river junctions",
+  "place_and_era": "Kidder places this change near the lower Ouachita river junctions between 1682 and about 1700. It follows the earlier Tensas-to-Jordan movement.",
+  "attested": "He proposes that villages joined near the Ouachita and Bayou Bartholomew. He links this change to the collapse at Jordan and new trade conditions. He suggests that people from several groups joined.\n\nThe 1989 report proposes a later move from Jordan. It points toward Bayou Bartholomew and the Ouachita. The people and route remain uncertain.",
+  "unknown": "The groups, household choices and changes in land use are not fully known. When villages join, this does not prove that earlier residents lost their homes.\n\nThe source does not establish one route or the same people at each place. Later homes near the river junctions do not establish a second departure.",
+  "next_step": "Keep the decline at Jordan and the new settlements distinct. Clarify whose residence changed. Do not treat pottery styles as peoples.\n\nKeep the departure from Jordan and later homes near the river junctions distinct. Do not assume one group took every step.",
+  "sources": [
+    "https://mdah.ms.gov/sites/default/files/2020-04/AR-25.pdf",
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Kidder 1993, chapter 14, printed pp. 255–257",
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7, “Late Prehistoric Cultures, A.D. 1000–1500”, in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, RS37, 1989), printed pp. 184, 185 (physical PDF pp. 196, 197). One accepted report component; cited originals and analyst readings do not add independent historical witnesses."
+  ]
+},
 {
       "id": "ledger-6b0326d8481528ca17ee",
       "name": "Reported armed attacks on northeast Louisiana communities",
@@ -7186,6 +7192,220 @@
   "source_citations": [
     "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 6 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 142, 143 (physical PDF pp. 154, 155)."
   ]
+},
+{
+  "id": "ledger-0c9ff02e87b8540ee0f5",
+  "name": "Homes left in the Western Lowlands",
+  "place_and_era": "Northeast Arkansas and nearby Missouri. The report places the decline around 1350 to 1400. These are broad source dates.",
+  "attested": "Permanent homes fell out of use in the western area. Homes became more common farther east. The report describes a separate history from Cairo.",
+  "unknown": "Local land and river conditions differ from Cairo. The cause, people and terms of any move remain unclear.",
+  "next_step": "Study the western sites and the cited land use argument. Keep this question apart from Cairo and the much earlier Ozark shift.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 171, 180, 181, 185, 188 (physical PDF pp. 183, 192, 193, 197, 200)."
+  ]
+},
+{
+  "id": "ledger-128e244738a37c58f523",
+  "name": "Possible flight and refuge in the Yazoo Basin",
+  "place_and_era": "The Yazoo Basin. The report links these changes to Spanish contact. It places the Russell phase into the early 1700s.",
+  "attested": "The report proposes a move away from the Mississippi. It describes possible refuge for Tunica, Yazoo, Ofo and other people in the Russell phase.",
+  "unknown": "The origins and group links remain uncertain. A refuge does not prove that new people forced earlier residents out.",
+  "next_step": "Study the proposed flight and the new homes. Keep the origins of each proposed group distinct.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 183, 188 (physical PDF pp. 195, 200)."
+  ]
+},
+{
+  "id": "ledger-1386359f433a3c0a7db8",
+  "name": "Land gains by Gautamiputra in the book.",
+  "place_and_era": "The book places this claim in ancient South Asia. The list of nine regions shows the scope of royal rule. It does not date each land gain.",
+  "attested": "The book says Gautamiputra took lands from the Kshaharata house. The royal praise claims he uprooted that house and restored rule. The author infers that he seized lands of the former house.\n\nSenart prints the same praise in the Nasik edition. Both works draw on the same royal text.",
+  "unknown": "Royal praise does not prove that he killed or drove out all the people it names. Coins that bear new stamps do not prove he killed Nahapana. The list does not show nine gains at one time. The effects on residents and the exact dates remain unknown.",
+  "next_step": "Keep the field grant at Nasik distinct from the reported loss of a rival domain. Test any link. Do not assume that war emptied the field. Keep wider overlap open.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/senart.html"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, English translation by V. S. Swaminadha Dikshitar, 1920, Chapter II, printed pp. 23–25 (physical PDF pp. 27–29; core p. 23 / physical 27). One regional synthesis; nested royal claims and cited editions are not separate witnesses.",
+    "E. Senart, The Inscriptions in the Caves at Nasik, Epigraphia Indica VIII (volume label 1905–1906), inscription 2, electronic continuations 2–6, translation on 3–4. Previously accepted electronic edition reading; printed pagination and exact imprint not independently established. Same underlying Nasik royal praise, not another witness."
+  ]
+},
+{
+  "id": "ledger-19a86a37e7bdf2ba9812",
+  "name": "Possible moves from Cairo to Nodena",
+  "place_and_era": "The Cairo Lowland and northeast Arkansas. The report places these changes around 1350 to 1400. These are broad source dates.",
+  "attested": "The report describes a decline in homes near Cairo and more homes near Nodena. It cites a view that people moved between these areas.",
+  "unknown": "The people, cause and terms of the move remain unclear. Similar dates do not prove that the same group moved between these places.",
+  "next_step": "Study the proposed Cairo move and Nodena homes. Keep both the departure and the new homes in view.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 171, 181, 182, 188 (physical PDF pp. 183, 193, 194, 200)."
+  ]
+},
+{
+  "id": "ledger-34802ea85ddd6285943a",
+  "name": "Town control and captives at Quigaute",
+  "place_and_era": "The account names Quigaute town and nearby places. Earlier and later chapters give dates in 1541 and 1542. The exact year and modern locations remain unverified.",
+  "attested": "The expedition under Soto lodged in half of Quigaute town. Soto demanded men for service. When they did not come, he sent parties that took men and women.\n\nHe gave an order to burn the other half of the town. The passage does not say that anyone carried out the order. Soto later left the chief in his town.",
+  "unknown": "The passage does not confirm a fire or its extent. The effects on each home and resident remain unclear. The identity and overlap of the capture groups remain unclear. The fate of captives and later land control remain unknown.",
+  "next_step": "Trace each capture group and the terms of service. Keep actual town use separate from the order to burn. Do not assume that gifts meant free consent.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_discovery_and_conquest_of_Terra_Florida_by_Don_Ferdinando_de_Soto_and_six_hundred_Spaniards%2C_his_followers_%28IA_discoveryconques00ryewrich%29.pdf"
+  ],
+  "source_citations": [
+    "Elvas narrative, Richard Hakluyt English translation (reprinted from 1611), William B. Rye (ed.), Hakluyt Society, London, 1851; printed pp. 103–105 (physical PDF pp. 181–183). One translated narrative family; original Portuguese and separate cited works not independently consulted."
+  ]
+},
+{
+  "id": "ledger-3da69aa54b44d8aab55b",
+  "name": "Salt access at Avery Island",
+  "place_and_era": "Avery Island and proposed salt sources nearer the Mississippi Valley. The report gives no settled date for an access loss.",
+  "attested": "The report links salt pans at Avery Island to people from the valley. It cites a view that other groups controlled nearer salt sources. In this view, that control forced a longer trip.",
+  "unknown": "The report does not establish an actual ban or name the groups in control. The users, nearer sources and terms of access remain unclear.",
+  "next_step": "Study the salt sources and their users. Ask whether anyone lost access. Keep travel and trade as other possible explanations.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 191, 192 (physical PDF pp. 203, 204)."
+  ]
+},
+{
+  "id": "ledger-5490ac82e45f482a1904",
+  "name": "War and homes near Parkin",
+  "place_and_era": "Parkin and Nodena lie in northeast Arkansas. The report describes late prehistoric homes. It notes possible contact with De Soto in 1541. That date does not date one forced move.",
+  "attested": "The report describes fortified villages near Parkin. Surveys found no isolated farms there. The report cites accounts of war between Casqui and Pacaha. It proposes a link between the war and the pattern of homes.",
+  "unknown": "The links from Parkin to Casqui and Nodena to Pacaha remain uncertain. The source does not establish one attack or forced loss of homes.",
+  "next_step": "Compare the farm and village evidence with the war account. Keep the proposed group links clear.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 186, 187, 188 (physical PDF pp. 198, 199, 200)."
+  ]
+},
+{
+  "id": "ledger-612eb37a4df8d5731484",
+  "name": "Hanna and control of trade",
+  "place_and_era": "Hanna and nearby ceremonial centers in the Caddoan area. The report does not date one loss of access.",
+  "attested": "The report compares few imported goods at Hanna with rich finds at some centers. It cites a view that elites controlled trade and kept these goods. In this view, the goods did not reach the wider community.",
+  "unknown": "The difference in goods does not establish one act of exclusion. The users, routes and changes in access remain unclear.",
+  "next_step": "Study the Hanna trade argument and the finds behind it. Ask who used the routes and who obtained the goods.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 205 (physical PDF pp. 217)."
+  ]
+},
+{
+  "id": "ledger-aac3a0829480867c6228",
+  "name": "Flight and town occupation at Pacaha",
+  "place_and_era": "The account names the town of Pacaha and an island refuge. Earlier and later chapters give dates in 1541 and 1542. The exact year and modern locations remain unverified.",
+  "attested": "The Elvas account reports flight from Pacaha. Soto led the expedition that occupied the town and used its goods and fishery. People from Casqui joined the pursuit.\n\nThe account reports captures and drownings at an island refuge. The chief later came to meet Soto. Soto ordered the release of the brother of the Pacaha chief and other principal prisoners.",
+  "unknown": "The link between the town and refuge groups remains unclear. Death and displacement totals remain unknown. The account does not say that all captives went free. Later residence and land rights remain unclear.",
+  "next_step": "Keep the later raid against Casqui separate. Compare this account with the Parkin and Nodena lead. Keep the possible overlap open.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_discovery_and_conquest_of_Terra_Florida_by_Don_Ferdinando_de_Soto_and_six_hundred_Spaniards%2C_his_followers_%28IA_discoveryconques00ryewrich%29.pdf"
+  ],
+  "source_citations": [
+    "Elvas narrative, Richard Hakluyt English translation (reprinted from 1611), William B. Rye (ed.), Hakluyt Society, London, 1851; printed pp. 97–103 (physical PDF pp. 175–181). One translated narrative family; original Portuguese and separate cited works not independently consulted."
+  ]
+},
+{
+  "id": "ledger-acf25e2a5efe48a6516d",
+  "name": "Possible control of coastal water routes",
+  "place_and_era": "Coastal settlements in Louisiana. The date and place of any imposed loss remain unclear.",
+  "attested": "The report cites Saucier on coastal villages. He proposes that major villages controlled water travel. The report does not give field evidence to confirm this view.",
+  "unknown": "The users, rules and effect on access remain unclear. A major village does not by itself prove that people lost use of a water route.",
+  "next_step": "Compare the route control model with the field evidence. Keep local land and food use, seasonal moves and trade in view.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 192, 193 (physical PDF pp. 204, 205)."
+  ]
+},
+{
+  "id": "ledger-c2cfde3c14c805fcdd07",
+  "name": "Earlier moves from the river levees",
+  "place_and_era": "The Lower Ouachita. The report places the proposed shift between about 1200 and 1400. These are broad source dates.",
+  "attested": "The report cites a view that homes shifted away from river levees. In this view, people moved toward tributaries and backswamps. The report also describes growth in Catahoula.",
+  "unknown": "The cause and people remain unclear. The report does not name anyone who forced the move. River changes and gaps in surveys are other possible explanations.",
+  "next_step": "Study the levee and tributary sites. Keep this earlier shift apart from later homes near the river junctions.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 213, 214, 215 (physical PDF pp. 225, 226, 227)."
+  ]
+},
+{
+  "id": "ledger-c8cdbebeec3e35e9a2ba",
+  "name": "Change and continued homes in the Tensas Basin",
+  "place_and_era": "The northern and southern Tensas Basin. The report places change near Transylvania around 1500 or 1550. Those dates mark a proposed sequence.",
+  "attested": "The report says Mississippian culture spread into the northern basin. It calls this the Transylvania phase. Fitzhugh use continued farther south. Mixed phases came later.",
+  "unknown": "Cultural change does not prove that new people forced residents out. The report does not establish one loss across the whole basin.",
+  "next_step": "Compare northern change with continued homes in the south. Keep the later mixed phases distinct.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 184, 209, 211, 212 (physical PDF pp. 196, 221, 223, 224)."
+  ]
+},
+{
+  "id": "ledger-ddf19d5001881c0daa86",
+  "name": "An arrival theory and earlier homes",
+  "place_and_era": "Southeast Arkansas. The report discusses the Bartholomew phase. It does not give settled dates for a known move.",
+  "attested": "The report describes a view that people arrived from Tensas or the Ouachita. That view relied on an area thought empty. Later study found earlier Plum Bayou occupation.",
+  "unknown": "Earlier homes weaken the claim of empty land. They do not prove that no one arrived. Pottery groups do not settle who lived there.",
+  "next_step": "Compare the arrival theory with the earlier sites. Retain both the movement question and the evidence of earlier homes.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 209, 210 (physical PDF pp. 221, 222)."
+  ]
+},
+{
+  "id": "ledger-e4cbb1276b4bf259cf37",
+  "name": "A claim of retainer sacrifice",
+  "place_and_era": "Mounds Plantation and a separate inland Plaquemine discussion. The report does not date a land or home loss for these claims.",
+  "attested": "The report cites a view that some Mounds Plantation burials involved retainer sacrifice. It also describes this practice in inland Plaquemine elite burials. It gives no coastal evidence for that practice.",
+  "unknown": "The burial counts do not show how many people died by sacrifice. The report does not establish one land or home loss from these claims. These passages do not describe one shared group.",
+  "next_step": "Study the grave evidence and the sacrifice argument. Keep each place and practice distinct. Do not treat every burial as a sacrifice.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 7 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 204, 219, 220 (physical PDF pp. 216, 231, 232)."
+  ]
+},
+{
+  "id": "ledger-f3c7909420c93e7d7baf",
+  "name": "The inscription claims land gains by Rudradaman.",
+  "place_and_era": "The book lists four regions. The fuller inscription names more lands in ancient South Asia. Some names come from restored text.",
+  "attested": "Kielhorn translates the inscription as a claim that Rudradaman gained lordship over lands by his own valour. The text includes towns, markets, rural areas and subjects.\n\nIt says he destroyed the Yaudheyas by force. It also says he twice defeated Satakarni but spared him due to kinship. It says he put deposed kings back in power.",
+  "unknown": "The text does not establish one campaign or a date for each land gain. The storm date and an estimated date for the text do not date the battles. The identity of Satakarni, prior rulers, resident fates and the scale of harm remain unclear.\n\nFor the dam work, the text denies a burden of forced labour. The tentative sense of one term does not prove a forced levy for that work.",
+  "next_step": "Keep the land gains, the defeats and the return of kings to power distinct. Test their links. Do not assume one campaign. Keep wider overlap open.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://www.discoveringbuddha.org/wp-content/uploads/2025/12/1905-Junagadh-Rock-Inscription-of-Rudradaman-Kielhorn-EI-Vol-8.pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, English translation by V. S. Swaminadha Dikshitar, 1920, Chapter II, printed pp. 42–43 (physical PDF pp. 46–47), with reconstruction limits on pp. 43–44 (physical 47–48). One regional synthesis; nested royal claims and cited editions are not separate witnesses.",
+    "F. Kielhorn, edition of Rudradaman’s Junagadh inscription, Epigraphia Indica VIII (bibliographic volume label 1905–1906), printed pp. 36–49, with a plate (physical PDF pp. 1–15). Acquired lordship: pp. 41, 44 line 11 and note 1, 47 (PDF 6, 9, 13); military and spared-rival claims: pp. 44, 47–48 (PDF 9, 13–14). Same inscription as the book’s mediated claim; no new historical witness."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -8700,5 +8920,5 @@
     }
   ],
   "updated_on": "2026-10-27",
-  "update_scope": "This update adds 32 source notes from early North America, South Asia and the Arctic."
+  "update_scope": "This update adds 15 source notes and revises three."
 }

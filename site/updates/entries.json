@@ -2132,5 +2132,34 @@
   "published_at": "2026-10-27T13:20:35.457640Z",
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "homes-town-control-and-royal-land-claims-r54",
+  "title": "Homes, town control and royal land claims",
+  "paragraphs": [
+    "This update adds 15 source notes and revises three. Thirteen new notes concern the Mississippi valley in early North America. Two concern ancient South Asia. The source list now has 598 notes.",
+    "A 1989 report traces changes in homes near Cairo, Nodena and the Ouachita. It also raises questions about refuge, salt access and trade. The revisions add views on Tunica flight and possible moves near the Tensas and Ouachita rivers. The causes, people and links between these accounts remain unclear.",
+    "The Elvas account reports that Soto occupied Pacaha and used its goods and fishery. It describes flight, captures and drownings at an island refuge. Soto ordered the release of some principal Pacaha prisoners. It does not say that all captives went free. At Quigaute, his forces used half the town and took men and women after a demand for service. He ordered the other half burned, but the passage does not confirm a fire.",
+    "Gautamiputra took lands from the Kshaharata house, the book says. The book and the Nasik edition draw on the same royal praise. Kielhorn translates a claim that Rudradaman gained rule over lands by his own valour. The text says he destroyed the Yaudheyas by force and twice defeated Satakarni, but spared him due to kinship. Some place names come from restored text. The text does not show one campaign, dates for each gain, or the fate of residents.",
+    "These source notes set out research questions, not new atlas stops. The atlas stays at 540 cases and 552 stops, with 151 map notes. The search log lists 75 partial attempts across 36 blocks and eight eras. Five other source readings have no block assigned. No block has a complete pair of source searches. These counts do not measure how much history the search covers."
+  ],
+  "links": [
+    {
+      "label": "Town control at Pacaha",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-aac3a0829480867c6228"
+    },
+    {
+      "label": "Land gains claimed by Rudradaman",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/#ledger-f3c7909420c93e7d7baf"
+    },
+    {
+      "label": "Source notes and search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "occurred_at": "2026-10-27T20:28:36.002411Z",
+  "published_at": "2026-10-27T20:54:59.037127Z",
+  "kind": "Research",
+  "backfilled": false
 }]
 }
