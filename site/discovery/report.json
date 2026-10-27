@@ -1,20 +1,20 @@
 {
   "schema": "public-discovery-aggregate-and-dated-disclosures-v2",
-  "version": "r52-denbigh-note-science121",
-  "as_of_utc": "2026-10-26T23:33:50.117861+00:00",
+  "version": "r53-source589-science123",
+  "as_of_utc": "2026-10-27T13:04:38.155402+00:00",
   "status": "dated_partial_search_report",
   "research_records": {
-    "total": 557,
-    "candidates": 294,
-    "located_leads": 257,
+    "total": 589,
+    "candidates": 299,
+    "located_leads": 284,
     "controls": 2,
     "search_leads": 4
   },
-  "known_ordinary": 51,
+  "known_ordinary": 50,
   "holds": 64,
   "source_work": {
-    "partial_attempts": 70,
-    "dated_blocks": 35,
+    "partial_attempts": 73,
+    "dated_blocks": 36,
     "eras": 8,
     "completed_channels": 0,
     "completed_floors": 0,
@@ -10272,13 +10272,13 @@
   ],
   "scope": {
     "frozen_statistical_events": 676,
-    "inactive_scientific_memberships": 121,
+    "inactive_scientific_memberships": 123,
     "scientific_activations": 0,
     "live_atlas_cases": 540,
     "live_playback_stops": 552,
-    "public_source_notes": 551,
+    "public_source_notes": 583,
     "public_map_notes": 151,
-    "posts": 87
+    "posts": 88
   },
   "global_coverage_percentage": null,
   "search_prompts_are_discovery_aids": true,

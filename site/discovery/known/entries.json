@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261026-r52-denbigh-registered120",
+  "version": "20261027-r53-thirty-two-source-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -6734,6 +6734,458 @@
   "source_citations": [
     "Baker, expedition account. Chapter IV. Paragraphs beginning Although this country was exceedingly rich in soil and I frequently rode on horseback; later east-bank Dinka-country sentence. Chapter V first dated entry and start of chapter VI supply 1870 camp chronology, not raid dates."
   ]
+},
+{
+  "id": "ledger-05eb89ad5eba2ee8e564",
+  "name": "Homes and group ties at Chesterfield.",
+  "place_and_era": "Chesterfield Inlet. The report gives no date for these group ties.",
+  "attested": "Rasmussen calls these residents Igluligârjungmiut. He describes a mix of the groups named in his report. Some came from Baker Lake and the Kazan River. He does not call them a separate tribe. Worster made the English text from Danish.",
+  "unknown": "The phases and links between these groups are not clear. Shared homes do not prove land title. The report gives no forced move or cause.",
+  "next_step": "Trace each named place and group. Assess the home ties and land rights. Seek evidence for any forced change.",
+  "sources": [
+    "https://archive.org/download/intellectualcult00rasm/intellectualcult00rasm.pdf"
+  ],
+  "source_citations": [
+    "Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos, translated from the Danish by W. Worster, Report of the Fifth Thule Expedition 1921–24, vol. VII, no. 1 (Copenhagen, 1929), printed p. 10 (physical PDF p. 12)."
+  ]
+},
+{
+  "id": "ledger-0ede0c21408e784d4eff",
+  "name": "Land gifts of Bhanuvarma and Pandara",
+  "place_and_era": "Kardamapati at Palasika. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet reports a gift by Bhanuvarma and an act by Pandara. One clause assigns fifteen nivartanas of land. It frees that land from a stated tax and other burdens.",
+  "unknown": "The relation between the clauses is unclear. Earlier rights and the effects on prior land users remain open.",
+  "next_step": "Check how the two acts relate. Trace any change in land rights or use.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), No. XXIII, printed pp. 27, 28, 29 (physical PDF pp. 43, 44, 47)."
+  ]
+},
+{
+  "id": "ledger-13834ec4479f20e54fc8",
+  "name": "Two sites: Cedarland and Claiborne.",
+  "place_and_era": "These early sites are near the Pearl River estuary. The people and dates of any move remain unclear.",
+  "attested": "The report describes nearby sites used one after the other. Similar layouts and objects raise a question about whether the same people moved.",
+  "unknown": "The same population is not established. Similar activities and changes in the estuary can explain the pattern. No forced move is shown.",
+  "next_step": "Compare the two sites. Do not assume that the same people lived at both.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 5 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 101, 109 (physical PDF pp. 113, 121)."
+  ]
+},
+{
+  "id": "ledger-1b55086db849db2ce6ad",
+  "name": "Possible moves from lowlands to the Ozarks.",
+  "place_and_era": "The report compares early lowland and Ozark upland use. The dates of any move are not set.",
+  "attested": "One model shifts permanent homes from the lowlands to Ozark uplands. It retains some lowland use and later renewed settlement.",
+  "unknown": "Forced departure and a full break in use are not established. Climate, hidden sites and missed artifact types remain possible explanations.",
+  "next_step": "Ask if people left the lowlands. Look for continued use and sites that surveys can miss.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 5 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 85, 86, 89, 91, 93 (physical PDF pp. 97, 98, 101, 103, 105)."
+  ]
+},
+{
+  "id": "ledger-20c1b3ab697b04afbf3b",
+  "name": "Early use at Johnny Ford.",
+  "place_and_era": "The report describes an early level at Johnny Ford by the Red River. No forced move is established.",
+  "attested": "The report describes an early level within the Fourche Maline sequence. It finds links with Poverty Point material.",
+  "unknown": "A culture name does not prove a new people or forced replacement. The main occupation and cemetery belong to a later level.",
+  "next_step": "Keep the early level apart from later use and burials.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 5 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 107, 108 (physical PDF pp. 119, 120)."
+  ]
+},
+{
+  "id": "ledger-27d44a4a2c8f2345b5c3",
+  "name": "The decline of Poverty Point.",
+  "place_and_era": "The report describes a late stage at Poverty Point in Louisiana. It does not establish a removal.",
+  "attested": "The report describes an end to major construction, less occupied space and weaker trade. It also describes later cultural change.",
+  "unknown": "No forced loss or replacement of the people is established. The report rejects the old Hopewellian invasion claim because its dates do not fit.",
+  "next_step": "Separate changes in construction and trade from any proved change in access or residence.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 5 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 103, 105 (physical PDF pp. 115, 117)."
+  ]
+},
+{
+  "id": "ledger-2912a78abe3eb1ea17ea",
+  "name": "Saglermiut loss and new homes on Southampton.",
+  "place_and_era": "Southampton Island, also called Sagleq. The report puts the new homes early in the 20th century. This does not date the prior loss.",
+  "attested": "Rasmussen says most new residents came from the Aivilingmiut. Some came from the Iglulingmiut. He says the Saglermiut died out before this. He links the new homes to good hunts. Worster made the English text from Danish.",
+  "unknown": "The cause and scale of the claimed loss are not clear. The new homes do not explain the prior loss. Counts and land rights stay unknown.",
+  "next_step": "Study the prior loss and the new homes as separate steps. Keep their link open. Do not treat the new residents as the cause of the loss.",
+  "sources": [
+    "https://archive.org/download/intellectualcult00rasm/intellectualcult00rasm.pdf"
+  ],
+  "source_citations": [
+    "Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos, translated from the Danish by W. Worster, Report of the Fifth Thule Expedition 1921–24, vol. VII, no. 1 (Copenhagen, 1929), printed p. 10 (physical PDF p. 12)."
+  ]
+},
+{
+  "id": "ledger-31549eb9972c4f055643",
+  "name": "Netsilingmiut homes and names.",
+  "place_and_era": "The book names sites from Lyon Inlet to Chesterfield Inlet. It says people lived there for generations. It gives no set date.",
+  "attested": "Rasmussen says the name Netsilingmiut first meant people near a lake. The name then spread to more people in the eastern Northwest Passage. He reports homes at many sites over generations. Worster made the English text from Danish.",
+  "unknown": "The name does not prove one fixed group. The report gives no forced move or cause. It does not settle past land rights.",
+  "next_step": "Trace the people and the name as two linked histories. Assess any forced loss of homes or land on its own evidence.",
+  "sources": [
+    "https://archive.org/download/intellectualcult00rasm/intellectualcult00rasm.pdf"
+  ],
+  "source_citations": [
+    "Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos, translated from the Danish by W. Worster, Report of the Fifth Thule Expedition 1921–24, vol. VII, no. 1 (Copenhagen, 1929), printed pp. 9–10 (physical PDF pp. 11–12)."
+  ]
+},
+{
+  "id": "ledger-34a0ab915dfaf45082aa",
+  "name": "New groups and Tchefuncte residents",
+  "place_and_era": "The Lower Mississippi Valley. The report places this discussion in 100 B.C.-A.D. 400. It gives no settled dates for the proposed arrivals.",
+  "attested": "The report describes a view about new Hopewellian arrivals. In this view, they kept some activities apart from Tchefuncte residents. The report also describes local ways of life that continued.",
+  "unknown": "It is unclear what changed for residents' homes, land use, access or control. New people, shared ideas and local change remain possible readings.",
+  "next_step": "Read the cited argument about new arrivals. Trace what changed for residents. Compare movement, shared ideas and local change.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 6 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 138 (physical PDF pp. 150)."
+  ]
+},
+{
+  "id": "ledger-34be18f4ea62932ecba5",
+  "name": "The seizure of the island Revati.",
+  "place_and_era": "The book names Revati. The exact site and date are not set.",
+  "attested": "The book says Mangalesa seized Revati. The English verse says he aimed to take it. His army climbed the ramparts. The verse does not state a completed seizure.",
+  "unknown": "The earlier ruler and effects on land users are not clear. The book puts Swamiraja there as a guess.",
+  "next_step": "Keep these two source claims distinct. Do not treat seizure as proof that people had to leave.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://raw.githubusercontent.com/erc-dharma/tfb-badamicalukya-epigraphy/d6495b08e22bfb256de11ef4c9277cda37f168fe/xml-provisional/DHARMA_INSBadamiCalukya00005.xml"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 112, 113 (physical PDF pp. 116, 117).",
+    "Dániel Balogh (ed.), DHARMA, Aihole temple foundation of Ravikīrti of the time of Pulakeśin II, DHARMA_INSBadamiCalukya00005.xml; reproduced English translation credited to Kielhorn1900–1901 (bib:Kielhorn1900-1901_01), stanza13; pinned commit d6495b08e22bfb256de11ef4c9277cda37f168fe. Digital English/editorial scope accepted; original printed articles, independent Sanskrit and full French reading not claimed."
+  ]
+},
+{
+  "id": "ledger-3531887aec5668d2f9a9",
+  "name": "A field gift at Khetagrama",
+  "place_and_era": "Badovara-kshetra in Khetagrama. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet reports a field gift from Kakusthavarma to General Srutakirtti. The text links it to a rescue. It also calls the village Arhat property.",
+  "unknown": "The roles in the rescue are unclear. Earlier users, rights and the effects of the gift remain open.",
+  "next_step": "Trace the field rights and prior users. Check whether the gift caused a loss of rights or use.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), No. XX, printed pp. 23, 24 (physical PDF pp. 33, 34)."
+  ]
+},
+{
+  "id": "ledger-561d2820449793448f6f",
+  "name": "The seizure of the city Pishtapura.",
+  "place_and_era": "The book names Pishtapura. Its full bounds and the date are not set.",
+  "attested": "The book says Pulakesin II seized the city.",
+  "unknown": "The account does not prove a sack or mass flight. Effects on nearby land users remain unknown.",
+  "next_step": "Assess the city change in control. Keep sieges and the later kingdom claim apart.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118)."
+  ]
+},
+{
+  "id": "ledger-58746dd4c7ab538d932d",
+  "name": "Ravi and rule at Palasika",
+  "place_and_era": "Palasika. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet translates a claim that Ravi set up his rule at Palasika. The text also says he killed rival kings and overthrew Chandadanda.",
+  "unknown": "The earlier ruler at this site is not clear. The acts do not all have known sites or links. Their effects on other land users are unknown.",
+  "next_step": "Assess the reported change in control. Check how the acts relate. Keep the extent of loss open.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), Nos. XXIV and XXVI, printed pp. 30, 32 (physical PDF pp. 48, 52).",
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed p. 102 (physical PDF p. 106); derivative interpretation."
+  ]
+},
+{
+  "id": "ledger-6783b78a117bc95554b7",
+  "name": "Vasuntavataka: a village gift",
+  "place_and_era": "The source puts the village in Suddikundura. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet reports that Harivarma gave the village to a named sect, free from claims. The stated plan funds temple rites first. The rest is for food for the sect.",
+  "unknown": "Earlier rights and effects on users remain open. The source gives different names for the village, temple site and place of issue.",
+  "next_step": "Trace village rights and the effects of the grant. Keep the named people and sites apart unless a source links them.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), No. XXV, printed pp. 30, 31 (physical PDF pp. 48, 51)."
+  ]
+},
+{
+  "id": "ledger-72f71ff18499a122faea",
+  "name": "Possible moves from the Plains.",
+  "place_and_era": "The report discusses early sites in Arkansas and Louisiana. It does not date a known move.",
+  "attested": "The report proposes arrivals or wider ranges for hunters from the Plains. It links this idea to Scottsbluff and Eden points.",
+  "unknown": "A migrant group and forced loss are not established. The finds can also reflect trade or visits to western stone sources.",
+  "next_step": "Use site finds to compare moves, wider ranges for hunters, trade and local travel.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 5 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 75, 84, 87, 89 (physical PDF pp. 87, 96, 99, 101)."
+  ]
+},
+{
+  "id": "ledger-89d51aa5bdcf06c3cfb8",
+  "name": "The grant in the Birur plates.",
+  "place_and_era": "The book names Sindhuthaya. It calls this Bijapur district. The date is not set.",
+  "attested": "The book says Vishnuvarman gave land. It says Santivarman gave leave for the gift.",
+  "unknown": "The users and rights are not clear. A shared name does not prove this donor was the rival of Ravi.",
+  "next_step": "Check the rights that the gift gave. Assess any forced loss of use or control.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed p. 101 (physical PDF p. 105)."
+  ]
+},
+{
+  "id": "ledger-96a74d2f6e5b584f00c0",
+  "name": "The death of Swamiraja.",
+  "place_and_era": "The book names Swamiraja. The site and date of his death are not set.",
+  "attested": "The book says Mangalesa killed a king. It names the king as Swamiraja.",
+  "unknown": "The link to Revati in the book is not firm. The death does not by itself prove a loss of land.",
+  "next_step": "Assess the death and any land outcome. Keep it apart from flight and seizure.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 112, 113 (physical PDF pp. 116, 117)."
+  ]
+},
+{
+  "id": "ledger-9db5257a289e876ea378",
+  "name": "Mississippian spread near Zebree",
+  "place_and_era": "Zebree and northeast Arkansas. The report discusses A.D. 700-1000. These section dates do not date an attack or a loss of land.",
+  "attested": "The report describes new pottery and a planned village at Zebree. It reports a ditch and a possible stockade. Pottery skills, people, or both are possible sources of these changes.",
+  "unknown": "These finds do not show an attack or loss of land on their own. The cause and effects remain open.",
+  "next_step": "Read the cited Zebree work. Compare the spread of pottery skills with the movement of people. Ask what changed in homes, access or land use.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 6 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 156, 159, 160 (physical PDF pp. 168, 171, 172)."
+  ]
+},
+{
+  "id": "ledger-b93264e656f9805a7ead",
+  "name": "The Tunit tale of loss at Uglit.",
+  "place_and_era": "Uglit near Iglulik. The tale gives no date.",
+  "attested": "Ivaluardjuk tells of Tunit homes at Uglit. More numerous others drove the Tunit out. They left the village area. Rasmussen prints the tale. Worster made the English text from Danish.",
+  "unknown": "Its date and place in history are not clear. The name Tunit does not prove a Dorset link. We do not know who drove them out. The tale tells of great strength and a man who makes rock fly with a harpoon.",
+  "next_step": "Assess this tale as a claim about the past. Compare it with the broad Thule case. Keep group links and dates unresolved.",
+  "sources": [
+    "https://archive.org/download/intellectualcult00rasm/intellectualcult00rasm.pdf"
+  ],
+  "source_citations": [
+    "Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos, translated from the Danish by W. Worster, Report of the Fifth Thule Expedition 1921–24, vol. VII, no. 1 (Copenhagen, 1929), printed pp. 256–257 (physical PDF pp. 288, 291); genre/method context printed p. 251 and opening p. 252 (physical pp. 283–284), printed pp. 9–11 (physical pp. 11–13)."
+  ]
+},
+{
+  "id": "ledger-c46a360bab14b0e5cb4e",
+  "name": "Marade: a village grant",
+  "place_and_era": "The site of Marade is unclear. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet reports a village gift for the Aharishti sect and its temple. Harivarma made the gift. Bhanusakti asked for it. Dharmanandi oversaw the sect.",
+  "unknown": "Earlier rights and users are unclear. The source does not state an exemption from tax for this gift. Its effects on prior users remain open.",
+  "next_step": "Trace village rights and what changed for prior users. Assess whether the grant changed use or control of the land.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), No. XXVI, printed pp. 31, 32 (physical PDF pp. 51, 52)."
+  ]
+},
+{
+  "id": "ledger-c61a9b2b5aa4f7e2ea84",
+  "name": "Questions about who controlled land use",
+  "place_and_era": "Several Lower Mississippi Valley and coastal settings. The report discusses different models within A.D. 400-1000. This is not the date range of one event.",
+  "attested": "The report gives models for crop schedules, ranked centers and household resources. The models differ on who held power. One view allows coastal groups to retain their own ways of life.",
+  "unknown": "It is unclear whether anyone lost control of land use or access. These models cover different places and times. A loss of control need not involve departure.",
+  "next_step": "Check each model in its own place and time. Ask how control of land use changed and whether anyone lost use or access.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 6 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 154, 162, 169 (physical PDF pp. 166, 174, 181)."
+  ]
+},
+{
+  "id": "ledger-d038669534c9601a3b3f",
+  "name": "Proposed Hoecake expansion and conflict",
+  "place_and_era": "Northeast Arkansas and nearby southeast Missouri. The report places this discussion in A.D. 400-700. The proposed expansion has no settled dates.",
+  "attested": "The report cites a view that Hoecake people expanded at the expense of the Barnes tradition. That view includes conflict. The report also records doubts about the dates.",
+  "unknown": "It is unclear whether the proposed expansion changed homes, land use, access or control. The links between the groups remain disputed.",
+  "next_step": "Read the cited conflict argument when access is available. Ask whether the proposed expansion changed local homes, land use, access or control.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 6 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 143, 145 (physical PDF pp. 155, 157)."
+  ]
+},
+{
+  "id": "ledger-d0621a844554f4f8231e",
+  "name": "Madhava gives land near the Paruvi tank.",
+  "place_and_era": "The book names the Paruvi tank. It links the tract to Parigi. The date is not set.",
+  "attested": "The book says Madhava gave land near the tank. It links the gift to the Penukonda plates.",
+  "unknown": "His place in the king list is not clear. Prior rights and use of the land are unknown.",
+  "next_step": "Check the rights changed by the gift. Keep the place claim in the book open.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed p. 105 (physical PDF p. 109)."
+  ]
+},
+{
+  "id": "ledger-d21ec0367d1155c1a843",
+  "name": "A grant of Kumura village.",
+  "place_and_era": "The book names Kumura in Paruvishaya. Its date and exact site are not set.",
+  "attested": "The book reports a grant of Kumura. This is a gift apart from the land near the tank.",
+  "unknown": "The plate number differs in the book. Its dates and the earlier village rights are not clear.",
+  "next_step": "Check what rights the gift gave. Assess any forced loss of use or control.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed p. 105 (physical PDF p. 109)."
+  ]
+},
+{
+  "id": "ledger-e0658828f8b87f6f520f",
+  "name": "Russell Landing: movement or shared ideas",
+  "place_and_era": "Russell Landing and nearby inland Louisiana. The report discusses 600-100 B.C. These are section dates, not dates of a settled movement.",
+  "attested": "The report cites two views of Russell Landing. One proposes movement north from the coast. The other proposes the spread of ideas. The report also notes ties to pottery farther north.",
+  "unknown": "It is unclear which view fits the evidence. No imposed loss of homes, land use, access or control is established. The order of the changes is also unclear.",
+  "next_step": "Read the thesis and settlement argument by Gibson. Compare movement and shared ideas. Ask what changed for people and their use of land.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 6 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 118, 120, 122 (physical PDF pp. 130, 132, 134)."
+  ]
+},
+{
+  "id": "ledger-e1cfe61fd5755371cb5b",
+  "name": "Punnad comes under Ganga rule.",
+  "place_and_era": "The book names Punnad. The date and full bounds are not set.",
+  "attested": "The book says Durvinita added Punnad to the Ganga kingdom.",
+  "unknown": "Some records cited by the book are in dispute. The marriage does not prove how rule changed. Effects on residents are unknown.",
+  "next_step": "Assess the reported change in rule. Keep the marriage, battles and land transfer apart.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed p. 109 (physical PDF p. 113)."
+  ]
+},
+{
+  "id": "ledger-e8fa20a85436c74926c2",
+  "name": "Ravi and a gift of land",
+  "place_and_era": "The text does not name the tract. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet reports a gift of four nivartanas to Jinendra. The text links this gift to the favor of the mother of Damakirtti. A nivartana is a unit of land.",
+  "unknown": "Earlier users and rights are unclear. The gift does not have a known link to the deaths named in the same text. Its effects on prior users remain open.",
+  "next_step": "Trace the tract, its rights and its prior users. Check whether the gift caused a loss of use or control.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), No. XXIV, printed p. 30 (physical PDF p. 48)."
+  ]
+},
+{
+  "id": "ledger-ebb05038e4dd252392d1",
+  "name": "Kheta and Purukhetaka: rights and income",
+  "place_and_era": "The links between these place names are unclear. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet reports an earlier holder of Kheta, a renewed grant and a gift by Jayakirtti. He also says Ravi set rules for the use of village income. The rules support rites and holy people.",
+  "unknown": "The source leaves some grant roles unclear. The links between the sites and acts remain open. Effects on prior users are unknown.",
+  "next_step": "Trace each grant and its rights. Keep each act apart while its links remain unclear.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), No. XXII, printed pp. 25, 26, 27 (physical PDF pp. 37, 38, 43)."
+  ]
+},
+{
+  "id": "ledger-ec5faec7c30263975444",
+  "name": "The king Buddharaja flees.",
+  "place_and_era": "The book names Buddharaja. The land he left and his refuge are not clear. The date is not set.",
+  "attested": "The book says Mangalesa put a king to flight. It names him as Buddharaja.",
+  "unknown": "His route and later home are unknown. The effect of the flight on land control is not clear.",
+  "next_step": "Assess the forced flight and its land effects. Keep it apart from the death and island seizure.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 112, 113 (physical PDF pp. 116, 117)."
+  ]
+},
+{
+  "id": "ledger-f2c1469f0fa7a0cda43a",
+  "name": "Mrigesa and a temple land gift",
+  "place_and_era": "Palasika and land from Matrisarit to Inginisamgama. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet reports a Jina temple and a gift of thirty-three nivartanas of land. The gift supports Arhats and Kurchakas. The king was at Vaijayanti. This does not place all the granted land there.",
+  "unknown": "Earlier rights and land use are not clear. How the grant took effect and whether it caused loss remain open.",
+  "next_step": "Trace the rights and earlier users of the granted land. A loss of land use need not involve departure.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), No. XXI, printed pp. 24, 25 (physical PDF pp. 34, 37)."
+  ]
+},
+{
+  "id": "ledger-f8a21c5a567564bc3c23",
+  "name": "Mrigesa and claims of force",
+  "place_and_era": "The attack sites are unknown. Fleet puts these charters near the fifth century CE. Exact years stay unknown.",
+  "attested": "Fleet translates a claim that Mrigesa uprooted the Tungaganga family. The same text calls him a destructive force against the Pallavas.",
+  "unknown": "The text does not fix the sites, bounds or changes in control. It does not show the fate of all residents.",
+  "next_step": "Trace the acts and the people or land they affected. Check whether a loss of control or use took place.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/21/The_Indian_Antiquary_Vol_6.pdf"
+  ],
+  "source_citations": [
+    "J. F. Fleet, “Sanskrit and Old Canarese Inscriptions,” The Indian Antiquary VI (January 1877), No. XXI, printed p. 25 (physical PDF p. 37)."
+  ]
+},
+{
+  "id": "ledger-fb7886bcac5ed866cb6d",
+  "name": "Proposed Baytown intrusion",
+  "place_and_era": "The northeastern edge of the Issaquena area in the Lower Mississippi Valley. The report discusses A.D. 400-700. These are section dates.",
+  "attested": "The report cites a view that Baytown groups entered the northeastern edge of the Issaquena area. It also describes ties to earlier groups farther north.",
+  "unknown": "It is unclear whether residents lost homes, land use, access or control. Local change is another possible explanation. Check the Belmont page reference.",
+  "next_step": "Check the Belmont reference and the argument behind it. Trace what changed for residents. Keep local change and movement as possible explanations.",
+  "sources": [
+    "https://archeology.uark.edu/wp-content/uploads/2026/04/RS37_acc.pdf"
+  ],
+  "source_citations": [
+    "Marvin D. Jeter and G. Ishmael Williams, Jr., Chapter 6 in Archeology and Bioarcheology of the Lower Mississippi Valley and Trans-Mississippi South in Arkansas and Louisiana (Arkansas Archeological Survey, 1989), printed pp. 142, 143 (physical PDF pp. 154, 155)."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -8247,6 +8699,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-26",
-  "update_scope": "Denbigh note and a dated model comparison"
+  "updated_on": "2026-10-27",
+  "update_scope": "This update adds 32 source notes from early North America, South Asia and the Arctic."
 }
