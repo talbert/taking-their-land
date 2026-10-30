@@ -2161,5 +2161,30 @@
   "published_at": "2026-10-27T20:54:59.037127Z",
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "chaco-and-deccan-source-notes-r55",
+  "title": "New source notes on Chaco and the Deccan",
+  "occurred_at": "2026-10-30T11:21:49.087036Z",
+  "published_at": "2026-10-30T12:43:39.776453Z",
+  "paragraphs": [
+    "The research list has 25 new notes and two revised notes. One new note asks how enemy pressure affected homes at two Chaco Canyon villages. The note keeps the two village histories distinct. It does not establish one attack or a shared date.",
+    "The other new notes concern the Deccan and nearby lands in South Asia. They examine claims about conquests, sieges, changes of rule and a temple land passage. Some sources report land taken or a loss of rule. Other outcomes remain open.",
+    "The revised Pishtapura note keeps two accounts distinct. A book reports capture of the citadel. A verse translation describes pressure that made the fortress accessible. Both draw on the same inscription; they are not two independent witnesses.",
+    "The revised Birur note describes a land grant. The record does not name earlier users or state how the gift changed their rights.",
+    "These are research notes, not new playable cases. The list now has 623 source notes. The atlas still has 540 cases and 552 stops. Its maps and frozen statistical release are unchanged."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }

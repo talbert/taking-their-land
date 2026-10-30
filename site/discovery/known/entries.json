@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261027-r54-town-control-land-claims",
+  "version": "20261030-r55-chaco-deccan-source-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -6899,16 +6899,18 @@
 },
 {
   "id": "ledger-561d2820449793448f6f",
-  "name": "The seizure of the city Pishtapura.",
-  "place_and_era": "The book names Pishtapura. Its full bounds and the date are not set.",
-  "attested": "The book says Pulakesin II seized the city.",
-  "unknown": "The account does not prove a sack or mass flight. Effects on nearby land users remain unknown.",
-  "next_step": "Assess the city change in control. Keep sieges and the later kingdom claim apart.",
+  "name": "Pishtapura: a reported capture.",
+  "place_and_era": "The book names Pishtapura. The event date and the full bounds remain unknown.",
+  "attested": "The book says Pulakesin II seized the citadel. The verse translation describes pressure that made the fortress accessible. Both texts draw on the same inscription.",
+  "unknown": "The verse does not state occupation or lasting rule. An editor notes unclear letters. The residents' fate remains unknown.",
+  "next_step": "Keep both accounts distinct. Assess the city claim and the kingdom claim without a double count.",
   "sources": [
-    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
   ],
   "source_citations": [
-    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118)."
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "F. Kielhorn, Aihole inscription, English verse 27 as reproduced in DHARMA, edited by Daniel Balogh, with apparatus APP21 (pinned digital edition commit d6495b08e22bfb256de11ef4c9277cda37f168fe). Complete English/editorial scope accepted; no original printed article, independent Sanskrit or material authentication claimed."
   ]
 },
 {
@@ -6957,16 +6959,18 @@
 },
 {
   "id": "ledger-89d51aa5bdcf06c3cfb8",
-  "name": "The grant in the Birur plates.",
-  "place_and_era": "The book names Sindhuthaya. It calls this Bijapur district. The date is not set.",
-  "attested": "The book says Vishnuvarman gave land. It says Santivarman gave leave for the gift.",
-  "unknown": "The users and rights are not clear. A shared name does not prove this donor was the rival of Ravi.",
-  "next_step": "Check the rights that the gift gave. Assess any forced loss of use or control.",
+  "name": "The land grant recorded on the Birur plates.",
+  "place_and_era": "The record names Sindhuthaya. Rice suggests a date near 450 CE, but the date and place are not secure.",
+  "attested": "The plates record a village and other land given to Brahmans, with a king's leave. They set out shares and terms to protect the gift.",
+  "unknown": "The record does not name earlier users or state how the gift changed their rights. The donor's link to other kings is not clear.",
+  "next_step": "Assess the change in land control. Examine the date, place and links to kings in other records.",
   "sources": [
-    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://archive.org/details/epigraphiacarnat06myso"
   ],
   "source_citations": [
-    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed p. 101 (physical PDF p. 105)."
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed p. 101 (physical PDF p. 105).",
+    "B. Lewis Rice, Epigraphia Carnatica VI (1901), Kadur 162: English translation p.33/PDF359; transcription p.91/PDF153; introduction pp.3–5/PDF21–23."
   ]
 },
 {
@@ -7405,6 +7409,382 @@
   "source_citations": [
     "G. Jouveau-Dubreuil, Ancient History of the Deccan, English translation by V. S. Swaminadha Dikshitar, 1920, Chapter II, printed pp. 42–43 (physical PDF pp. 46–47), with reconstruction limits on pp. 43–44 (physical 47–48). One regional synthesis; nested royal claims and cited editions are not separate witnesses.",
     "F. Kielhorn, edition of Rudradaman’s Junagadh inscription, Epigraphia Indica VIII (bibliographic volume label 1905–1906), printed pp. 36–49, with a plate (physical PDF pp. 1–15). Acquired lordship: pp. 41, 44 line 11 and note 1, 47 (PDF 6, 9, 13); military and spared-rival claims: pp. 44, 47–48 (PDF 9, 13–14). Same inscription as the book’s mediated claim; no new historical witness."
+  ]
+},
+{
+  "id": "ledger-05143e1b2c53c884bfbc",
+  "name": "The Cola campaign and claimed benefits",
+  "place_and_era": "The verses name Colas, Keralas, Pandyas and the Kaveri. No event year or route is set.",
+  "attested": "One verse says the ruler strove to conquer the Colas. The next claims benefits for Colas, Keralas and Pandyas against the Pallava army.",
+  "unknown": "A completed land gain is not stated. The peoples said to benefit and the Pallava army are distinct. The event boundaries remain open.",
+  "next_step": "Keep the intent, operation and claimed benefits separate before you define a case.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 30, 31."
+  ]
+},
+{
+  "id": "ledger-090f4eb7880cab4efce7",
+  "name": "Ganga and Alupa lords at court",
+  "place_and_era": "The verse names Ganga and Alupa lords. No event year or tract boundary is set.",
+  "attested": "The verse praises their regular attendance on the ruler and their submission to his dignity.",
+  "unknown": "It does not state conquest by force, a grant or removal of residents. The number of distinct events is not set.",
+  "next_step": "Assess the control relation. Court attendance alone does not prove forced removal.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 19."
+  ]
+},
+{
+  "id": "ledger-0a8b6510865e3a523de4",
+  "name": "Lata, Malava and Gurjara submission claims",
+  "place_and_era": "The verse names these three groups. No event year or tract boundary is set.",
+  "attested": "The verse describes submission. Its note calls their submission voluntary and contrasts force used against others.",
+  "unknown": "A dispute about the text affects that contrast. Force or loss of rights cannot be assigned to all three from the comparison.",
+  "next_step": "Keep the disputed sense visible. Assess each bounded outcome before you define a case.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 22."
+  ]
+},
+{
+  "id": "ledger-10d904a12fed81c03201",
+  "name": "Pulakesin I at Vatapi",
+  "place_and_era": "The sources name Vatapi. No event year or boundary is set.",
+  "attested": "The book says Pulakesin I set himself up at Vatapi. The verse calls the city his bride.",
+  "unknown": "How he gained control and what happened to earlier users are not clear. The bride is a figure of speech.",
+  "next_step": "Assess how control changed. Keep the separate proposal about northern Kadamba lands.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 98, 102, 111 (physical PDF pp. 102, 106, 115).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 7."
+  ]
+},
+{
+  "id": "ledger-127fa0cfcd1791a76ddc",
+  "name": "Enemy pressure at two Chaco villages.",
+  "place_and_era": "The sites are Pueblo Bonito and Pueblo del Arroyo. They are in Chaco Canyon, New Mexico. The report does not give firm dates for the attacks or departures.",
+  "attested": "The report says enemy pressure and poor crops helped cause people to leave both villages. At Bonito, it describes missiles from a cliff and changes to walls and doors for defense.",
+  "unknown": "The report does not tie the two departures to one event or date. Who attacked, how people left, and where they went remain unknown.",
+  "next_step": "Ask how hostile pressure affected each village and how it related to the loss of homes. Keep reuse of stone and the unfinished site apart from forced loss.",
+  "sources": [
+    "https://archive.org/download/explorationsfiel192426smit/explorationsfiel192426smit.pdf"
+  ],
+  "source_citations": [
+    "Archeological Investigations in Chaco Canyon, New Mexico, attributed to Neil M. Judd, Smithsonian Miscellaneous Collections 78(7), 1927, pp. 158–168 (PDF pp. 468–478), especially p. 161 fig. 161 and pp. 162–163."
+  ]
+},
+{
+  "id": "ledger-168f4d24e70775ebcc92",
+  "name": "Military pressure at Kancipura",
+  "place_and_era": "The verse refers to the walls of Kancipura. No event year or route is set.",
+  "attested": "The verse describes military pressure on Pallava power in relation to the city walls.",
+  "unknown": "Notes dispute the text and retreat image. No supplied version explicitly states capture of the city.",
+  "next_step": "Assess the pressure and control outcome. A disputed text does not prove that a city was taken.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 29."
+  ]
+},
+{
+  "id": "ledger-34dd60fedae0fc6e25ed",
+  "name": "The naval siege of Puri",
+  "place_and_era": "The verse names Puri. No modern town, event year or boundary is set.",
+  "attested": "The verse reports a siege of Puri from the sea.",
+  "unknown": "Capture and residents' fate are not stated. The town is not linked to another Puri by its name alone.",
+  "next_step": "Assess what happened at the besieged place. Keep modern location and completed capture unresolved.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 21."
+  ]
+},
+{
+  "id": "ledger-3e37e5cba88cd9569fbe",
+  "name": "The appended Aihole temple possession passage",
+  "place_and_era": "The appended lines name places and a field. Their phase, event year and full boundaries are not set.",
+  "attested": "One translation lists land as the possession of the god. Another account suggests village revenue for the temple.",
+  "unknown": "The phase, ruler and parts of the boundaries are uncertain. No eviction or loss of earlier rights is stated.",
+  "next_step": "Assess this separate land or revenue act. Use appended lines 18-19, not poem stanzas 18 and 19.",
+  "sources": [
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn summary and Fleet (1879) excerpt, appended physical/inscriptional lines 18–19, not poem stanzas; phase and attribution uncertain."
+  ]
+},
+{
+  "id": "ledger-3f412998c3ae10a80d24",
+  "name": "The conquest linked to the Eastern Chalukya kingdom",
+  "place_and_era": "The book names Telugu country and three districts. Its event year and exact boundary are not set.",
+  "attested": "The book links conquest of this land to the new kingdom. Its family tree names Kubja-Vishnuvardhana as founder.",
+  "unknown": "The passage does not state how the kingdom was set up or what happened to residents. Whether it includes the seizure at Pishtapura is not clear.",
+  "next_step": "Assess the land change and the link to Pishtapura. Do not count one conquest twice.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 111, 113 (physical PDF pp. 115, 117)."
+  ]
+},
+{
+  "id": "ledger-7a4def3f11127cc3a8db",
+  "name": "The victory lists of Kirtivarman",
+  "place_and_era": "The sources name several opponents and lands. No common event year or boundary is set.",
+  "attested": "The book and translated verse praise victories over named rulers. They name Nalas, Mauryas and Kadambas.",
+  "unknown": "A list does not show a separate case for each name. Specific outcomes remain open.",
+  "next_step": "Resolve each act and its outcome before a case split. Keep each named lead visible.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 112 (physical PDF pp. 116).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 9, 10."
+  ]
+},
+{
+  "id": "ledger-7bcd9c73b047898e1e56",
+  "name": "The proposed loss of northern Kadamba lands",
+  "place_and_era": "The book discusses Vatapi, Palasika and northern Kadamba lands. No event year is set.",
+  "attested": "The book infers loss of northern Kadamba lands from the position of Vatapi.",
+  "unknown": "This is an inference by the author. It does not show a specific defeat or a forced departure.",
+  "next_step": "Test the proposed loss of control. A gap in later records does not prove that people left.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 98, 102, 111 (physical PDF pp. 102, 106, 115)."
+  ]
+},
+{
+  "id": "ledger-840bc5f323d81cff2e92",
+  "name": "The reported installation of Madhava",
+  "place_and_era": "The book discusses Ganga and Pallava rule. No event year or tract boundary is set.",
+  "attested": "The book reports that a Pallava ruler placed Madhava, the son of Ayyavarman, on his throne.",
+  "unknown": "Its effect on earlier rights is not clear. This is a different act from the Paruvi land grant.",
+  "next_step": "Assess the installation and control outcome. Keep the grant and disputed family history separate.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 105, 108 (physical PDF pp. 109, 112)."
+  ]
+},
+{
+  "id": "ledger-8e850ecc0b372805117e",
+  "name": "The siege of Banavasi",
+  "place_and_era": "The verse names Banavasi beside the Varada. No event year or modern boundary is set.",
+  "attested": "The verse reports a siege of Banavasi and an army around its fort.",
+  "unknown": "Capture and departure of residents are not stated. The sea-of-army image is not an actual flood.",
+  "next_step": "Assess the effect on control, access or residence. Do not infer capture or evacuation from siege alone.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 103, 113, 114 (physical PDF pp. 107, 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 18."
+  ]
+},
+{
+  "id": "ledger-9068c0049d40ea527081",
+  "name": "The reported Pallava devastation",
+  "place_and_era": "The book cites the Anaji inscription. The tract and event year are not set.",
+  "attested": "The book reports that Pallavas left the country in ruin.",
+  "unknown": "What the ruin meant for homes, land and people is not clear. There is no known measure of its extent.",
+  "next_step": "Assess the reported damage and its land outcome. Unknown extent does not mean no harm.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 103 (physical PDF pp. 107)."
+  ]
+},
+{
+  "id": "ledger-999bb2b3224d71149b30",
+  "name": "Mangalesa loses his kingdom and life",
+  "place_and_era": "The sources describe a dispute over rule. No event year or measured tract is set.",
+  "attested": "The translated verse reports that Mangalesa lost his kingdom and life in the struggle over succession.",
+  "unknown": "The method, the fate of residents and the full tract are unknown. A separate resolve to go into exile is not proof of a completed move.",
+  "next_step": "Assess the bounded loss of rule. Keep the text on proposed exile and the other acts of Mangalesa separate.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113 (physical PDF pp. 117).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 14, 15, 16."
+  ]
+},
+{
+  "id": "ledger-9d275de596d86b1e9301",
+  "name": "The proposed later Ganga occupation",
+  "place_and_era": "The book discusses later Ganga rule. No event year or tract boundary is set.",
+  "attested": "The book proposes a later Ganga occupation from the Polavira Tagare plates.",
+  "unknown": "The place, sequence and kind of control need assessment. This is not a proved continuation of an earlier war.",
+  "next_step": "Assess this separate proposed change of control. Keep the inference by the author visible.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 103 (physical PDF pp. 107)."
+  ]
+},
+{
+  "id": "ledger-aa9b06e77fd1eef4f08f",
+  "name": "Reported victory of Prithivishena in Kuntala",
+  "place_and_era": "The book names Kuntala. No event year is set.",
+  "attested": "The book reports a victory over the king of Kuntala.",
+  "unknown": "The book proposes Kangavarman as the defeated king. The effect on land and residents is not clear.",
+  "next_step": "Assess the outcome for control or residence. Keep the proposed name of the king distinct from the victory claim.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 99, 100 (physical PDF pp. 103, 104)."
+  ]
+},
+{
+  "id": "ledger-ba7442e83c5516faca06",
+  "name": "The claim to rule three Maharashtrakas",
+  "place_and_era": "The verse names three Maharashtrakas. No measured boundary or event year is set.",
+  "attested": "The translated verse claims that the ruler gained rule over these lands.",
+  "unknown": "The way control changed and the effect on residents are unknown. The village figure in the source is not a measured count of harm.",
+  "next_step": "Assess the claimed gain of control. Do not make one case per village or require civilian eviction.",
+  "sources": [
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 25."
+  ]
+},
+{
+  "id": "ledger-c0eced2e3d662e4e0500",
+  "name": "Bhogivarman: a reported gain of a kingdom",
+  "place_and_era": "The book discusses the kingdom of Bhogivarman. Its full extent and event year are not set.",
+  "attested": "The book reports that Bhogivarman gained a large kingdom by force.",
+  "unknown": "The earlier holders, full tract and fate of residents remain unknown. This does not prove the end of a whole people.",
+  "next_step": "Assess the reported change of control. No death count or proof of civilian eviction is required.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 103 (physical PDF pp. 107)."
+  ]
+},
+{
+  "id": "ledger-cdaa12296c732e17ba3d",
+  "name": "The reported installation of Ayyavarman",
+  "place_and_era": "The book discusses Ganga and Pallava rule. No event year or tract boundary is set.",
+  "attested": "The book reports that a Pallava ruler placed Ayyavarman on his throne.",
+  "unknown": "The ceremony alone does not show forced loss of land rights or residence.",
+  "next_step": "Assess the control relation and any imposed change in rights. Do not treat the ceremony alone as displacement.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 105, 108 (physical PDF pp. 109, 112)."
+  ]
+},
+{
+  "id": "ledger-ded93a9774311b96aeb0",
+  "name": "Defeat of the Konkan Mauryas",
+  "place_and_era": "The verse names Mauryas in the Konkanas. No event year or boundary is set.",
+  "attested": "The verse praises a military defeat of the Mauryas by forces of the ruler.",
+  "unknown": "It does not establish the fate of all Maurya subjects. A shared name does not link all Maurya groups.",
+  "next_step": "Assess the bounded control or residence outcome. Keep the praise and population limits clear.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 20."
+  ]
+},
+{
+  "id": "ledger-e9fe554fa59957755a25",
+  "name": "Appayika and Govinda: different outcomes",
+  "place_and_era": "The verse names land north of Bhaimarathi. No event year or boundary is set.",
+  "attested": "The verse describes two leaders who came to conquer. It gives fear in battle to one and reward for service to the other.",
+  "unknown": "The English text does not fix which name has which outcome. The book makes a stronger choice. No completed conquest is stated.",
+  "next_step": "Keep the outcomes and texts distinct. Assess any loss of land or residence before you divide events.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 17."
+  ]
+},
+{
+  "id": "ledger-ea7cfee67bac06ea7feb",
+  "name": "The Harsha battle and its land outcome",
+  "place_and_era": "The translated verse names Harsha. No event year or tract boundary is set.",
+  "attested": "The verse names Harsha in a battle account with fear and fallen elephants.",
+  "unknown": "It does not state a civilian death count or territorial annexation. The earlier name correction is already settled.",
+  "next_step": "Assess any bounded land or residence loss from the battle. Do not repeat the closed name check.",
+  "sources": [
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 23.",
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113 (physical PDF pp. 117). Its Harsha-absence claim is corrected by the separately cited verse 23; it is not positive battle wording."
+  ]
+},
+{
+  "id": "ledger-f82fa1dcc91b79a9aa9e",
+  "name": "The lethal battle at Kunala",
+  "place_and_era": "The verse names Kunala. Its modern identity, boundary and event year are not set.",
+  "attested": "The verse describes men killed with weapons at Kunala and blood in the water.",
+  "unknown": "There is no known death count or civilian status. The land outcome and proposed modern place remain open.",
+  "next_step": "Assess the land or residence outcome of the battle. Keep the lethal claim and unknown extent visible.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
+    "https://dharmalekha.info/texts/INSBadamiCalukya00005"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 28."
+  ]
+},
+{
+  "id": "ledger-fea2877d9f1db666c327",
+  "name": "The proposed defeat of Krishnavarman II",
+  "place_and_era": "The book discusses Kadamba rule. No event year or tract boundary is set.",
+  "attested": "The book proposes Krishnavarman II as the ruler defeated by Kirtivarman.",
+  "unknown": "The identity of the defeated ruler and the effect on control remain open. Other wars and later gains are separate questions.",
+  "next_step": "Assess this proposed defeat and its outcome. Do not merge the separate changes of rule.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 103 (physical PDF pp. 107)."
   ]
 }],
   "cases_awaiting_map_locations": [
@@ -8919,6 +9299,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-27",
-  "update_scope": "This update adds 15 source notes and revises three."
+  "updated_on": "2026-10-30",
+  "update_scope": "This update adds 25 source notes and revises two."
 }

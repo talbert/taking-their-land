@@ -42,30 +42,30 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "ea34d194e54a364c20376dfe679dd83ba9c9ed9af8311ac57850bbe5fa45a3c7",
+  "tree_sha256": "1b1a13656a055de7acaaf1257d890990e601b66cc82c1d0f68725ec4ee598aeb",
   "site_updates": {
     "schema": "taking-land-site-updates-v1",
-    "version": "20261027-r54-town-control-land-claims",
-    "entries": 89,
+    "version": "20261030-r55-chaco-deccan-source-notes",
+    "entries": 90,
     "source": "updates/entries.json",
-    "source_sha256": "9ba0d4aa9f16c9f6b351c0342912c7639a7e668d1bb2dda5ece7606e6cfc314d",
+    "source_sha256": "b1e4d11b96892003a03faa874e3332bbe325cde4f58a3fc5789089436225f8c1",
     "feed": "updates/feed.xml",
-    "feed_sha256": "de604696bf6510891e736f4dda1dd091b6b020178cdc4ede134742d52c351c27",
+    "feed_sha256": "92c82e831be3e8923f6b11aceea52e278341b4003d8ee5bd76cacf33eada8af4",
     "discovery_list": {
       "schema": "discovery-list-binding-v1",
-      "version": "20261027-r54-town-control-land-claims",
+      "version": "20261030-r55-chaco-deccan-source-notes",
       "reviewed_on": "2026-10-17",
-      "ledger_sha256": "346c0b3ee3af906d22bf4f9fa904af9df06fdb274f287896880e0dbf0c0b592f",
-      "editorial_sha256": "84e9928a0bc39f361d99cc6813780f7a6ec7e5049ee8a0d3afe980645d624685",
+      "ledger_sha256": "1d361875d91c20e3fb0d66b6aa07fe0ec9cb94034a59c91cedb37e5d0cf96b25",
+      "editorial_sha256": "b2303c5a8b8441e877347622a03464810ea60df3d4cbff1281e77224375ebffa",
       "page": "discovery/known/index.html",
-      "page_sha256": "ace2bf354b554087522962ac32e826c0741216753eaf4297368e105c67a0b626",
+      "page_sha256": "16d61272e7876176f79678c2488ac4742bf718bf7c031adb953ef3ec18a16642",
       "data": "discovery/known/entries.json",
-      "data_sha256": "665e84955664ab1537f36399352f6d2efe4cd037c28821b7465d05a381b9009a",
-      "updated_on": "2026-10-27",
-      "update_scope": "This update adds 15 source notes and revises three.",
-      "entries": 598
+      "data_sha256": "57b08d9356930d4a5c682273b996577ccc3b5207310efe627701fd744210f7bb",
+      "updated_on": "2026-10-30",
+      "update_scope": "This update adds 25 source notes and revises two.",
+      "entries": 623
     },
-    "discovery_report": {"version": "r54-source604-science123", "index": "discovery/index.html", "index_sha256": "a00f83919102a7ec5809bf3f79ab4dd7da6b3c95632ed39f9d53d9f3b6cedf24", "data": "discovery/report.json", "data_sha256": "9969766a7f887a892257f508148c060c1212dfa26b416ac056c992d87c903f53", "runtime_scope": "Dated research report. The live atlas has 540 cases and 552 stops. The frozen release has 676 events. The research archive has 123 inactive scientific records. The atlas and data files keep their prior release."},
+    "discovery_report": {"version": "r55-source629-science127", "index": "discovery/index.html", "index_sha256": "bc394c0f6f7c3ed39b0e626fd5d18620fd021f6e99e1e51034a5c03683b339ab", "data": "discovery/report.json", "data_sha256": "0b839b0bf4d1e565bbd11d0436e04ad6ce2453e82c407955fcc2212bf73f15c1", "runtime_scope": "Current research summary. The live atlas has 540 cases and 552 stops. The frozen release has 676 events. The research archive has 127 inactive scientific records. The atlas and data files keep their prior release."},
     "citation_scope": {
       "concept_DOI": "10.5281/zenodo.23410511",
       "issued_version_DOI": "10.5281/zenodo.23410512",
@@ -79,7 +79,7 @@
       "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
     }
   },
-  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r54-source604-science123", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "a00f83919102a7ec5809bf3f79ab4dd7da6b3c95632ed39f9d53d9f3b6cedf24", "report": "discovery/report.json", "report_sha256": "9969766a7f887a892257f508148c060c1212dfa26b416ac056c992d87c903f53"},
+  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r55-source629-science127", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "bc394c0f6f7c3ed39b0e626fd5d18620fd021f6e99e1e51034a5c03683b339ab", "report": "discovery/report.json", "report_sha256": "0b839b0bf4d1e565bbd11d0436e04ad6ce2453e82c407955fcc2212bf73f15c1"},
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
@@ -117,7 +117,7 @@
     ]
   },
   "incoming_flight_notes": 22,
-  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 53, "holds": 64, "research_records": 604, "inactive_scientific_memberships": 123, "scientific_activations": 0, "discovery_report": "r54-source604-science123", "packaged_atlas_and_data_unchanged": true},
+  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 50, "holds": 64, "research_records": 629, "inactive_scientific_memberships": 127, "scientific_activations": 0, "discovery_report": "r55-source629-science127", "packaged_atlas_and_data_unchanged": true},
   "license_notice_source": "reuse/LICENSE.md",
   "preserved_download_notice": {
     "path": "data/LICENSE.md",
