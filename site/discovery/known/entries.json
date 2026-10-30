@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261030-r55-chaco-deccan-source-notes",
+  "version": "20261030-r56-naga-diary-source-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -7786,6 +7786,62 @@
   "source_citations": [
     "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 103 (physical PDF pp. 107)."
   ]
+},
+{
+  "id": "ledger-1a1a528e4c9366d1aec9",
+  "name": "Reported expulsion from the Lanier valley",
+  "place_and_era": "The diary names the Lanier valley. Its entry is from November 1917. It gives no date for the expulsion.",
+  "attested": "Hutton recalls an earlier expulsion of people he calls Kukis. He also reports orders that barred their return.",
+  "unknown": "The entry gives no date, destination or number of people expelled. It does not identify which later returners were among them.",
+  "next_step": "Assess the expulsion and return ban as one reported process. Keep later settlement and the threat of another eviction separate.",
+  "sources": [
+    "https://wwwe.lib.cam.ac.uk/nagas/record/r72034.html"
+  ],
+  "source_citations": [
+    "J. H. Hutton, tour-diary entry of 16 November 1917, Cambridge record R72034, Lapvomi paragraph: retrospective expulsion and prohibited-return assertion; final paragraph: orders dated 1910. Hosted transcript; original manuscript not checked."
+  ]
+},
+{
+  "id": "ledger-64ba492726b35938c70e",
+  "name": "A report of looting at Tsukemi",
+  "place_and_era": "The diary names Tsukemi. It places the looting in the year before its November 1917 entry.",
+  "attested": "Hutton says a party from the Somra tract looted Tsukemi.",
+  "unknown": "The entry does not state whether residents left, lost their homes or lost control of land.",
+  "next_step": "Look for an account of what happened to residents and their homes. Looting alone does not establish a forced move.",
+  "sources": [
+    "https://wwwe.lib.cam.ac.uk/nagas/record/r72034.html"
+  ],
+  "source_citations": [
+    "J. H. Hutton, tour-diary entry of 16 November 1917, Cambridge record R72034, First prose paragraph: prior looting of Tsukemi, placed in the year before the diary entry. Hosted transcript; original manuscript not checked."
+  ]
+},
+{
+  "id": "ledger-c2fa2c9dac994d51949a",
+  "name": "Amjapao's reported search for a village site",
+  "place_and_era": "The diary names Phozami and the Lanier valley. Its entry is from November 1917. It puts the visit about a week earlier.",
+  "attested": "The diary reports a visit to choose a village site. It attributes to Amjapao a plan to return and a wish to avoid wartime service.",
+  "unknown": "The entry does not show a later move, a completed settlement or an actual forced journey. It does not link this party to the returners near Aishan.",
+  "next_step": "Examine the later outcome of the visit and reported plan. Keep a reported motive distinct from an act of forced removal.",
+  "sources": [
+    "https://wwwe.lib.cam.ac.uk/nagas/record/r72034.html"
+  ],
+  "source_citations": [
+    "J. H. Hutton, tour-diary entry of 16 November 1917, Cambridge record R72034, Amjapao paragraph: reported Phozami site visit, attributed plan and objection to wartime service. Hosted transcript; original manuscript not checked."
+  ]
+},
+{
+  "id": "ledger-ec5f5d72f9fbf503c22a",
+  "name": "Reported armed return near Aishan",
+  "place_and_era": "People from Lapvomi claim a site near Aishan. The complaint is from November 1917. It gives no date for the move.",
+  "attested": "People from Lapvomi report armed returners from Manipur on land they claimed. They say they lack the power to remove the group.",
+  "unknown": "The diary does not settle who owned the land or who lived at the site before the return. It does not say whether Lapvomi residents left.",
+  "next_step": "Assess the reported use and control of the site. Keep this return separate from the earlier expulsion and any later eviction.",
+  "sources": [
+    "https://wwwe.lib.cam.ac.uk/nagas/record/r72034.html"
+  ],
+  "source_citations": [
+    "J. H. Hutton, tour-diary entry of 16 November 1917, Cambridge record R72034, Lapvomi paragraph: reported return from Manipur to a site near Aishan and inability to eject the armed group. Hosted transcript; original manuscript not checked."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -9300,5 +9356,5 @@
     }
   ],
   "updated_on": "2026-10-30",
-  "update_scope": "This update adds 25 source notes and revises two."
+  "update_scope": "Four diary research notes and a dated search report."
 }

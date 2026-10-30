@@ -2186,5 +2186,31 @@
   ],
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "naga-diary-source-notes-r56",
+  "title": "Four questions from a Naga Hills diary",
+  "occurred_at": "2026-10-30T17:46:17.040701Z",
+  "published_at": "2026-10-30T18:11:59.600064Z",
+  "paragraphs": [
+    "Four new research notes examine a diary entry dated 16 November 1917. One note concerns an earlier expulsion and a ban on return.",
+    "Another note records a complaint about an armed return to a disputed site. The complaint does not establish land title or show that the complainants left.",
+    "Two notes keep the land and home outcomes open. One concerns reported looting. The other concerns a site visit and a plan to return.",
+    "All four notes draw on one hosted transcript. We did not check the original manuscript. The entry date does not date every earlier act that it recalls.",
+    "The search log records one partial reading. No search channel or coverage cell is complete. The research list now has 627 source notes.",
+    "These notes add no playable cases. The atlas still has 540 cases and 552 stops. Its maps and frozen statistical release are unchanged."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }
