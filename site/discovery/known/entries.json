@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261030-r56-naga-diary-source-notes",
+  "version": "20261030-r57-russian-north-source-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -7842,6 +7842,188 @@
   "source_citations": [
     "J. H. Hutton, tour-diary entry of 16 November 1917, Cambridge record R72034, Lapvomi paragraph: reported return from Manipur to a site near Aishan and inability to eject the armed group. Hosted transcript; original manuscript not checked."
   ]
+},
+{
+  "id": "ledger-1aea5371703e5c1dfa92",
+  "name": "Forced moves from Chukotka villages",
+  "place_and_era": "Southeastern Chukotka. The scan gives an unclear start year in the 1950s. The reported range ends in 1959. The destination was Novo-Chaplino.",
+  "attested": "Vakhtin reports enforced moves from Unazik, Kivak, Avan, Siklyuk and other villages. Former villages ceased to exist.",
+  "unknown": "The report gives no full count or dates for each village. A later account of unemployment refers to 1989.",
+  "next_step": "Assess the move and the loss of access to sea mammals. Keep the later unemployment account separate.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed19 / physical20, right paragraphs2–3; note66. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-1ed99c2939c92c91fd00",
+  "name": "Saami village moves",
+  "place_and_era": "Lovozero district, European northern Russia. The report quotes an account from 1988. The move dates remain unclear.",
+  "attested": "Vakhtin reports the merger of six villages. An onlooker describes arrivals from Varzino without prepared homes and years in crowded homes.",
+  "unknown": "The account does not name all six villages or the destination. The quoted household experience is not a total for everyone moved.",
+  "next_step": "Assess the local moves and the Varzino account together. Route this question to Europe.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed19 / physical20, right paragraph4 and quotation; note67. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-3e049d34b928cb9fde6c",
+  "name": "Khant village closures and moves",
+  "place_and_era": "The report places these Khant villages in the Russian North. It links the moves to the 1950s and 1960s campaign.",
+  "attested": "Vakhtin reports that officials closed farms and village services. Residents moved to larger settlements without support for their former way of life.",
+  "unknown": "The report gives no full list of villages, destinations or people moved. Dates for each village remain unclear.",
+  "next_step": "Assess the closures and compelled moves. Keep the affected villages distinct from all Khant communities.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed19 / physical20, left paragraphs2–4; note64. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-46c80c272ee417249dfd",
+  "name": "Compulsory stays at schools in the Russian North",
+  "place_and_era": "The Russian Far North. The chapter covers 1941 to 1985, but gives no full date range for the school programme.",
+  "attested": "Vakhtin reports compulsory stays at schools for children from settled communities. These included children whose parents lived in the same village.",
+  "unknown": "The report gives no full list of schools, children or dates. It also reports a recent change towards ordinary day schools.",
+  "next_step": "Assess the compelled separation from family homes. Keep school access, later returns and the change to day schools distinct.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed22–23 / physical22–23, Boarding-School System through page23 opening; no chapter footnote. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-49ae5b2ac89457d3daeb",
+  "name": "A ban on subsistence hunts in Tyumen",
+  "place_and_era": "Tyumen Oblast. The report places the ban in 1986 to 1987.",
+  "attested": "Vakhtin reports that the local executive committee banned hunts except state commercial hunts. He links this rule to harm to Khant subsistence.",
+  "unknown": "The report does not establish where and how officials enforced each restriction. It does not assert a residence move.",
+  "next_step": "Assess the ban and its effect on access. Keep a prohibited use distinct from a transfer of land.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed22 / physical22, left paragraphs2–3; note70. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-52323ae4ef982c0e3c06",
+  "name": "Northern funds and land outcomes",
+  "place_and_era": "The Russian North. The report dates the decree on funds to 1980.",
+  "attested": "Vakhtin reports that funds for Native development went through regional bodies. Native people had no control over those funds, he states.",
+  "unknown": "The passage gives no project or tract with an identified loss of land or residence.",
+  "next_step": "Locate a specific project and its land outcome. Do not treat the allocation of funds as a completed removal.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed23 / physical23, right final paragraph. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-7413ecd5f781a34e905f",
+  "name": "The later move from Nunyamo and Pinakul",
+  "place_and_era": "Chukotka. The report places this move 19 years after the Naukan departure. It gives no separate year.",
+  "attested": "Vakhtin reports that officials merged these villages. They moved people again, to Lorino, Lavrentiya and Uelen.",
+  "unknown": "The report does not establish that all these residents came from Naukan. It gives no count for this later move.",
+  "next_step": "Assess this later move as a linked question. Do not add both groups as if their members were distinct.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed19 / physical20, continuation of Naukan passage; note65. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-7da6e90675936bee6072",
+  "name": "Shor village loss after farm closures",
+  "place_and_era": "Gornaya Shoria is in Siberia. Vakhtin reports a decree from 1960 that closed farms.",
+  "attested": "Vakhtin reports farm closures with no new jobs. Residents left for towns and larger settlements. More than 40 villages became empty.",
+  "unknown": "The reported share concerns the active population. It does not mean all Shors. The report gives no full list of moves.",
+  "next_step": "Assess the closures and loss of homes. Do not apply the reported share to all Shors.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed19 / physical20, right penultimate paragraph; note68. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-9260666215d34d37457e",
+  "name": "Refused access for Chukotka sea hunters",
+  "place_and_era": "Chukotka. The report describes permit controls for 15 years before 1987. The author observed refusals in the 1970s.",
+  "attested": "Vakhtin reports that hunters needed permission to go to sea. He witnessed refusals that blocked subsistence trips.",
+  "unknown": "The report does not name every trip, person or period of exclusion. It does not assert a general ban or a residence move.",
+  "next_step": "Assess the reported loss of access. Do not infer a move from home or the loss of all sea rights.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed22 / physical22, left paragraphs2–3; hunting locator. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-99bf044abdfa7d0fb1f4",
+  "name": "The 1980 law and local land outcomes",
+  "place_and_era": "Autonomous okrugs in the Russian North. The report dates the law to 1980.",
+  "attested": "Vakhtin describes the law and argues that it weakened Native control. He questions how its stated rights applied in practice.",
+  "unknown": "The passage names no specific loss of land or home under the law.",
+  "next_step": "Locate an actual land or residence outcome under the law. Do not infer one from its text alone.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed23 / physical23, Autonomous Okrug Law; notes77–78. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-d6c936a39b06046d6400",
+  "name": "The move from Naukan",
+  "place_and_era": "Naukan is in Chukotka. The scan gives an unclear year. It reads either 1955 or 1958. Residents went to Nunyamo and Pinakul.",
+  "attested": "Vakhtin reports that persuasion failed. Officials then closed the school, shop and farm, so residents had to leave.",
+  "unknown": "The report gives no number of people moved. Their full link to the later move remains unclear.",
+  "next_step": "Assess the departure from Naukan. Link the later move without an assumed total for both groups.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed19 / physical20, left bottom through right top; note65. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-d98205a4409096a3eb74",
+  "name": "Nivkh moves on Sakhalin",
+  "place_and_era": "Sakhalin, in the 1960s and 1970s. The report names Nogliki and Nekrasovka as destinations.",
+  "attested": "Vakhtin reports forced moves to two larger settlements. He states that the new sites prevented traditional activities.",
+  "unknown": "The report gives no origin list or count for each move. The cited field visit was in 1982, after those moves.",
+  "next_step": "Assess the moves as one reported process. Keep the field visit date distinct from the move dates.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed19,22 / physical20,22, right bottom then left top after map; note69. One report; the cited original works remain unread."
+  ]
+},
+{
+  "id": "ledger-e6949d26e3cdccbd04e2",
+  "name": "A Yukagir student forced to leave",
+  "place_and_era": "Yakutsk. The report dates the account to 1987.",
+  "attested": "Vakhtin reports that insults drove a Yukagir student from university. He attributes the account to what the student told him.",
+  "unknown": "The passage does not state that the student also left a home or lost land.",
+  "next_step": "Find out whether the student also lost a home. Do not infer land loss from the account of insults.",
+  "sources": [
+    "https://files.eric.ed.gov/fulltext/ED354117.pdf"
+  ],
+  "source_citations": [
+    "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed17 / physical18, Chauvinism. One report; the cited original works remain unread."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -9356,5 +9538,5 @@
     }
   ],
   "updated_on": "2026-10-30",
-  "update_scope": "Four diary research notes and a dated search report."
+  "update_scope": "Thirteen new source notes and two search-cell updates; no new playable cases."
 }

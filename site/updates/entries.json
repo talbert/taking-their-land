@@ -2212,5 +2212,33 @@
   ],
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "russian-north-research-notes-r57",
+  "title": "New notes on the Russian North",
+  "occurred_at": "2026-10-30T21:37:18.307410Z",
+  "published_at": "2026-10-30T21:42:29.547396Z",
+  "paragraphs": [
+    "The research list adds 13 notes from a report published in 1992. These notes concern village moves, limits on hunts and compulsory school residence.",
+    "One account describes two moves linked through Naukan. The report does not establish that both moves involved exactly the same people.",
+    "Other notes retain reported moves among Khant, Saami, Shor and Nivkh communities. The Saami account concerns European northern Russia.",
+    "Three leads retain unknown outcomes for land or homes. They concern a law, an allocation of funds and a student who left university.",
+    "All 13 notes draw on one consulted report. Its cited original works remain unread. Unclear dates and unknown outcomes stay explicit.",
+    "The log adds two partial readings since the last update. One covers Cuyahoga prehistory, and the other covers the Russian North. Neither completes a search channel.",
+    "The report marks two search cells as found. These cells contain source-backed questions. They are not complete.",
+    "These notes add no playable cases. The atlas stays at 540 cases and 552 stops. Its maps and frozen statistical release are unchanged."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }
