@@ -2266,5 +2266,30 @@
   ],
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "lhota-fay-tolton-research-notes-r59",
+  "title": "Lhota history and Fay Tolton",
+  "occurred_at": "2026-10-31T06:49:48.794870Z",
+  "published_at": "2026-10-31T08:00:15.410508Z",
+  "paragraphs": [
+    "The research list adds six notes on Lhota history in northeast India and one on Fay Tolton in South Dakota.",
+    "Mills records land grants, flight from raids, the fire at Pangti and two later changes in rule. He also records a tradition that some Lhota villages forced Aos out.",
+    "The notes keep grants, new rule and forced flight as separate questions. They state what the accounts support and what remains unknown.",
+    "The Fay Tolton chapter reports dead people in burned houses and a projectile injury. The author reads these finds as signs of an attack. The date and the fate of other residents remain unknown.",
+    "These research notes add no playable cases. The atlas stays at 540 cases and 552 stops. Its maps and frozen statistical release are unchanged."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }

@@ -42,30 +42,30 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "e3a0ea2c835637db2df415717187e8e6d4b83fcc63ebb07a8383f3f2b8e8ab43",
+  "tree_sha256": "07506f199af2f5705b51e7dc23c4893c5515b440537fe4026cff494b907f3f97",
   "site_updates": {
     "schema": "taking-land-site-updates-v1",
-    "version": "20261030-r58-north-america-south-asia-notes",
-    "entries": 93,
+    "version": "20261031-r59-lhota-fay-tolton-notes",
+    "entries": 94,
     "source": "updates/entries.json",
-    "source_sha256": "689b87035333782f885ae23e498380b065b080f698ccb1de603f19e02506389b",
+    "source_sha256": "b0a74545460359cbb2807deaafd68522be3ab12b99bc371b040313fd0bfe7268",
     "feed": "updates/feed.xml",
-    "feed_sha256": "43fb24337e21d9743ea378b82496b73c0bbf76abf407d3217b339d2e604bbacb",
+    "feed_sha256": "b52bb1252b25138c51f9810f20c12bc5cf7ec323bccd7b98718b070425eea8dd",
     "discovery_list": {
       "schema": "discovery-list-binding-v1",
-      "version": "20261030-r58-north-america-south-asia-notes",
+      "version": "20261031-r59-lhota-fay-tolton-notes",
       "reviewed_on": "2026-10-17",
-      "ledger_sha256": "43805db40af9c85ece016fe0504041a9f3696a1238efea2245723add5b22efc5",
-      "editorial_sha256": "5bf7b3466fb5769f6b1120fec6ba0ef1f45ab3b8d603388f37cbc8c46ee3f3c9",
+      "ledger_sha256": "9fe8febf3d7b31473396108d894eca484cd17123509dbdd7876d1e7ae0eae4d2",
+      "editorial_sha256": "e53905ac92e8646e7f5c7f8db2c0d65d545fd032c4d427ef3b042cf1c8abb883",
       "page": "discovery/known/index.html",
-      "page_sha256": "f9d6e54e3fdd1ce96f95eaa0feaaca5be070bbb81c7502f81b7f41d2e7b11569",
+      "page_sha256": "dc98619895544a6b15a876213888fb6fd83fca0b51b9f1d088e4486c5d80c939",
       "data": "discovery/known/entries.json",
-      "data_sha256": "f9667febeaaac19c884cf279e415a3744e6f06251b48d1a5fa3cc865119e1cf4",
+      "data_sha256": "dcdd162275db4f1611045f2d801d7ff826c47faa38a4cd7ff5e7e36bb1984aa4",
       "updated_on": "2026-10-31",
-      "update_scope": "12 source notes; partial search report; atlas and maps unchanged.",
-      "entries": 652
+      "update_scope": "Seven research notes: six on Lhota history and one on Fay Tolton.",
+      "entries": 659
     },
-    "discovery_report": {"version": "r58-source658-science130", "index": "discovery/index.html", "index_sha256": "28778e83758c29574de740a8f6441e822d7f5c0b33501c3fda5ab6701920174d", "data": "discovery/report.json", "data_sha256": "bb54df8d7c3b10326a0f3d27385d90a8b27dd7598e06be2ab982c7d0ac5e1994", "runtime_scope": "Source notes and current research counts are updated. The atlas retains its 540 cases and 552 stops. Maps and data files keep their prior release. Dates in the older report tables keep their own scope."},
+    "discovery_report": {"version": "r59-source665-science130", "index": "discovery/index.html", "index_sha256": "ecbd7296ed84d840f3111621bdba75f1bfc2645fcaa5ff8bd485b78b909f6240", "data": "discovery/report.json", "data_sha256": "6a17095cc33b8e39aec139feeb31db372c7cfa623d4904712d75b1eb85ff1f6b", "runtime_scope": "Source notes and current research counts are updated. The atlas retains its 540 cases and 552 stops. Maps and data files keep their prior release. Dates in the older report tables keep their own scope."},
     "citation_scope": {
       "concept_DOI": "10.5281/zenodo.23410511",
       "issued_version_DOI": "10.5281/zenodo.23410512",
@@ -79,7 +79,7 @@
       "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
     }
   },
-  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r58-source658-science130", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "28778e83758c29574de740a8f6441e822d7f5c0b33501c3fda5ab6701920174d", "report": "discovery/report.json", "report_sha256": "bb54df8d7c3b10326a0f3d27385d90a8b27dd7598e06be2ab982c7d0ac5e1994"},
+  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r59-source665-science130", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "ecbd7296ed84d840f3111621bdba75f1bfc2645fcaa5ff8bd485b78b909f6240", "report": "discovery/report.json", "report_sha256": "6a17095cc33b8e39aec139feeb31db372c7cfa623d4904712d75b1eb85ff1f6b"},
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
@@ -117,7 +117,7 @@
     ]
   },
   "incoming_flight_notes": 22,
-  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 50, "holds": 64, "research_records": 658, "inactive_scientific_memberships": 130, "scientific_activations": 0, "discovery_report": "r58-source658-science130", "packaged_atlas_and_data_unchanged": true},
+  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 50, "holds": 64, "research_records": 665, "inactive_scientific_memberships": 130, "scientific_activations": 0, "discovery_report": "r59-source665-science130", "packaged_atlas_and_data_unchanged": true},
   "license_notice_source": "reuse/LICENSE.md",
   "preserved_download_notice": {
     "path": "data/LICENSE.md",

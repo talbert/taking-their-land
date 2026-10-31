@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261030-r58-north-america-south-asia-notes",
+  "version": "20261031-r59-lhota-fay-tolton-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -8194,6 +8194,104 @@
   "source_citations": [
     "Pallab Chakma and Bablu Chakma, “Bangladesh”, The Indigenous World 2026, ed. Dwayne Mamo, IWGIA, printed/physical pp. 153–162. Country text p. 156; note 20, p. 161."
   ]
+},
+{
+  "id": "ledger-56b1e990d61ff60c3ef5",
+  "name": "Flight from Burmese raids on Lhota villages",
+  "place_and_era": "The outer Naga Hills, northeast India. The local dates and village names are not given.",
+  "attested": "Hutton records villagers' reports that Lhota people fled into the jungle when Burmese raiders came. His note says the raiders took property and food.",
+  "unknown": "The note does not name each village or say how long people stayed away. It does not show whether they returned or who used their homes after the raids.",
+  "next_step": "Identify the local attacks and the people who fled. Keep this flight separate from the victory claimed by Akuk and Lakhuti.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/67795/pg67795-images.html#n2.2"
+  ],
+  "source_citations": [
+    "J. P. Mills, The Lhota Nagas (1922), Part I, p. 2, note 2 by J. H. Hutton. Gutenberg transcription; print-image comparison unverified."
+  ]
+},
+{
+  "id": "ledger-704bd93343c5b1b44979",
+  "name": "A tradition of settlement that forced Aos out",
+  "place_and_era": "The area later described as Lhota country in northeast India. The tradition has no calendar dates.",
+  "attested": "In his account of local traditions, Mills says some new Lhota villages forced Aos out. He also records claims that other villages were built on vacant sites.",
+  "unknown": "The account does not name the Ao villages, give dates or say where the displaced people went. It does not prove that sites called vacant had no users or rights.",
+  "next_step": "Trace the reported displacement of Aos and the later settlement. Keep this apart from other origin stories and the earlier pressure on Lhota migrants.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/67795/pg67795-images.html#pb5"
+  ],
+  "source_citations": [
+    "J. P. Mills, The Lhota Nagas (1922), Part I, pp. 3–5, especially p. 5. Gutenberg transcription; print-image comparison unverified."
+  ]
+},
+{
+  "id": "ledger-7f11a599ea8231e1328b",
+  "name": "New rule over other Lhota villages",
+  "place_and_era": "The Naga Hills, northeast India. Mills dates the later annexation to 1889.",
+  "attested": "Mills says the rest of the Lhota people came under annexation in 1889. He gives this as a later step than the annexation of the left-bank villages.",
+  "unknown": "The passage does not name every village in this later step. It does not say that residents were expelled, new settlers arrived or land was seized from individual owners.",
+  "next_step": "Identify the places and the change in rule in 1889. Keep this step separate from the one in 1878.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/67795/pg67795-images.html#pb3"
+  ],
+  "source_citations": [
+    "J. P. Mills, The Lhota Nagas (1922), Part I, p. 3 and note 5. Gutenberg transcription; print-image comparison unverified."
+  ]
+},
+{
+  "id": "ledger-9019f6d5f01129895896",
+  "name": "Land grants to Lhota villages",
+  "place_and_era": "Plains near the Doyang, northeast India. The grant dates are not given.",
+  "attested": "Mills says several Lhota villages held land grants from Ahom rulers. He thinks the grants came with an agreement to stop raids on Assamese people.",
+  "unknown": "This passage does not give the grant texts, dates or plots. It does not show what rights changed or what happened to people who used the land before.",
+  "next_step": "Find a grant and examine which rights it changed. Keep a grant separate from proof that prior users were forced out.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/67795/pg67795-images.html#pt1"
+  ],
+  "source_citations": [
+    "J. P. Mills, The Lhota Nagas (1922), Part I, pp. 1–2, introduction. Gutenberg transcription; print-image comparison unverified."
+  ]
+},
+{
+  "id": "ledger-fabbc5ba257af1bd2206",
+  "name": "Mills reports that Pangti was burned",
+  "place_and_era": "Pangti in the Naga Hills, northeast India. Mills links the fire to the 1875 attack on Butler.",
+  "attested": "Mills says Pangti was burned after an attack that fatally wounded Captain Butler. He says Lakhuti escaped punishment.",
+  "unknown": "This passage does not name the people who burned the village or say which homes were lost. It does not give the later fate of the residents or a separate date for the fire.",
+  "next_step": "Examine what loss of homes or use the account supports. A later owner or a distant place of refuge is not required.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/67795/pg67795-images.html#pb2"
+  ],
+  "source_citations": [
+    "J. P. Mills, The Lhota Nagas (1922), Part I, p. 2, the Butler ambush account. Gutenberg transcription; print-image comparison unverified."
+  ]
+},
+{
+  "id": "ledger-fc07203557d2f9741c83",
+  "name": "New rule over Ndrung villages",
+  "place_and_era": "The left bank of the Doyang, northeast India. Mills dates the annexation to 1878.",
+  "attested": "Mills says a stockade was set up at Wokha in 1878 and the Ndrung villages were annexed. He places those villages on the left bank of the Doyang.",
+  "unknown": "The passage does not list all the villages or explain which land rights changed. It does not establish that residents were expelled or made to work.",
+  "next_step": "Examine which places came under new rule and how control changed. Keep rule over a territory separate from ownership of each plot.",
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/67795/pg67795-images.html#pb3"
+  ],
+  "source_citations": [
+    "J. P. Mills, The Lhota Nagas (1922), Part I, pp. 2–3 and note 5. Gutenberg transcription; print-image comparison unverified."
+  ]
+},
+{
+  "id": "ledger-fda15ac5c44b399b6de7",
+  "name": "Reported attack and burned homes at Fay Tolton",
+  "place_and_era": "Fay Tolton village (39ST11), South Dakota. The chapter does not give the date of the attack.",
+  "attested": "LeBeau reports unburied dead people in burned houses. One person had a projectile embedded in her lower leg. He reads these finds as signs of a successful attack.",
+  "unknown": "The chapter does not name the attackers or give an exact date. It does not describe what happened to other residents. Some absent bones have more than one possible explanation.",
+  "next_step": "Examine what loss of home use the evidence supports. Keep older injuries and disputed bone changes separate.",
+  "sources": [
+    "https://read.upcolorado.com/system/actioncallout/2/f/b/2fbcc7fa-8af3-487e-b3d1-2d68e747262c/attachment/6246a2be8210bc5173c50b51b51ba74a.pdf"
+  ],
+  "source_citations": [
+    "Albert M. LeBeau III, “Ditches or Earthworks: A Reexamination of Fortified Villages on the Upper Missouri River”, in Andrew J. Clark and Douglas B. Bamforth (eds.), Archaeological Perspectives on Warfare on the Great Plains (2018), chapter 6, pp. 177–189; Fay Tolton positive locus pp. 186–187 (PDF physical pp. 195–196). DOI: 10.5876/9781607326700.c006."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -9708,5 +9806,5 @@
     }
   ],
   "updated_on": "2026-10-31",
-  "update_scope": "12 source notes; partial search report; atlas and maps unchanged."
+  "update_scope": "Seven research notes: six on Lhota history and one on Fay Tolton."
 }
