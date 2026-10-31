@@ -2291,5 +2291,32 @@
   ],
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "keyser-buckeye-research-notes-r60",
+  "title": "Eight research notes on capture and land use",
+  "occurred_at": "2026-10-31T19:08:46.917683Z",
+  "published_at": "2026-10-31T21:46:32.489675Z",
+  "paragraphs": [
+    "The research list adds six notes from a chapter by Keyser and two on Buckeye Knoll.",
+    "Keyser reads rock art at Bear Gulch and No Water as signs of human capture. The notes retain unknown homes and later fates. The overlap between some images remains unresolved.",
+    "Other notes concern reported attacks on camps and a butte refuge under assault. The retreat note separates flight under pursuit from an ordered withdrawal. Movement alone does not establish loss of home use.",
+    "At Buckeye Knoll, one note asks how early burial and home use fit together. The other concerns a later projectile injury. It does not establish an attack on homes.",
+    "Three notes are candidates. Five are located leads. All keep open questions. They add no playable cases.",
+    "The atlas stays at 540 cases and 552 stops. The maps and frozen statistical release stay the same.",
+    "AI drafted this update from the project records. Craig set the direction."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }

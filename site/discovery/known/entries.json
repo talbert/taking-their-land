@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261031-r59-lhota-fay-tolton-notes",
+  "version": "20261031-r60-keyser-buckeye-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -8292,6 +8292,118 @@
   "source_citations": [
     "Albert M. LeBeau III, “Ditches or Earthworks: A Reexamination of Fortified Villages on the Upper Missouri River”, in Andrew J. Clark and Douglas B. Bamforth (eds.), Archaeological Perspectives on Warfare on the Great Plains (2018), chapter 6, pp. 177–189; Fay Tolton positive locus pp. 186–187 (PDF physical pp. 195–196). DOI: 10.5876/9781607326700.c006."
   ]
+},
+{
+  "id": "ledger-1f49ebbe6fc6f09895db",
+  "name": "Rout and organized withdrawal: residence-use link open",
+  "place_and_era": "The chapter transmits comparative movement accounts. The historical encounter, home and destination geography and event dates are unknown.",
+  "attested": "The chapter reports a defeated force fleeing under pursuit and a force withdrawing in order while carrying casualties. These remain distinct positive descriptions, not two counted events or proof of home clearance.",
+  "unknown": "Whether the descriptions are alternatives or related parts of one process is unresolved. The account does not establish a loss of continuing camp, refuge, home or territorial use from movement alone.",
+  "next_step": "Keep rout/pursuit and ordered casualty-carrying withdrawal together. Examine their source-attested relation to continuing residence or use without inventing a camp-clearance link.",
+  "sources": [
+    "https://doi.org/10.5876/9781607326700.c003"
+  ],
+  "source_citations": [
+    "Keyser, James D. 2018. Warriors and Weapons: Late Prehistoric/Protohistoric–Period Warfare in Bear Gulch Rock Art. In Archaeological Perspectives on Warfare on the Great Plains, edited by Andrew J. Clark and Douglas B. Bamforth, pp.66–119. University Press of Colorado, Louisville. DOI:10.5876/9781607326700.c003. Research locus: KBG-L06."
+  ]
+},
+{
+  "id": "ledger-41c4b1cbe2c64509e4f5",
+  "name": "Butte refuge under assault: constrained use",
+  "place_and_era": "Keyser transmits a butte-refuge account placed around 1740 by the source. The historical refuge and encounter geography are not assigned; the date is context only.",
+  "attested": "In the Bear’s Arm account transmitted by Keyser, warriors assault enemies using a butte as refuge. the atlas assessment infers pressure on that refuge use during the assault.",
+  "unknown": "The assault’s success, later access and fate of the occupants are unknown. The account does not establish their prior home or why they first sought refuge.",
+  "next_step": "Keep the source-attributed refuge-use question narrow. Distinguish pressure during assault from eviction, seizure, later exclusion and the cause of earlier refuge-taking.",
+  "sources": [
+    "https://doi.org/10.5876/9781607326700.c003"
+  ],
+  "source_citations": [
+    "Keyser, James D. 2018. Warriors and Weapons: Late Prehistoric/Protohistoric–Period Warfare in Bear Gulch Rock Art. In Archaeological Perspectives on Warfare on the Great Plains, edited by Andrew J. Clark and Douglas B. Bamforth, pp.66–119. University Press of Colorado, Louisville. DOI:10.5876/9781607326700.c003. Research locus: KBG-L06."
+  ]
+},
+{
+  "id": "ledger-425b2cc0fb8bc0d91d24",
+  "name": "Cemetery and home use at Buckeye Knoll",
+  "place_and_era": "Buckeye Knoll, near Victoria, Texas. The early cemetery is dated to about 7,500–6,200 calibrated years before present.",
+  "attested": "Ricklis reports an early cemetery and very little overlap between its burial dates and dates from household remains. He reads this as a place set aside for burial. The early skeletal sample had little injury.",
+  "unknown": "This does not show that residents were forced out or denied use of land. Ricklis’s link between cemeteries and group control of land is conditional. The start of exclusive use and any short overlap remain uncertain.",
+  "next_step": "Ask how burial and home use were arranged, and whether anyone lost access or control. Keep that question separate from the later injured person.",
+  "sources": [
+    "https://texashistory.unt.edu/ark:/67531/metapth1013922/m2/1/high_res_d/Vol._82_2011.pdf"
+  ],
+  "source_citations": [
+    "Robert A. Ricklis, “New Perspectives on the Archaic of the Texas Coastal Plain: The Buckeye Knoll Site (41VT98) on the Lower Guadalupe River near Victoria, Texas”, Bulletin of the Texas Archeological Society 82 (2011), pp. 31–76. Early cemetery and use discussion pp.39–46; conditional territoriality pp.66–70."
+  ]
+},
+{
+  "id": "ledger-b75da3a1a87a6e9e9386",
+  "name": "Bear Gulch V-neck captives: unresolved overlap",
+  "place_and_era": "Bear Gulch locates the art, not a home or encounter. V-neck/style chronology is source context; no particular event date or single research era is assigned.",
+  "attested": "Keyser interprets V-neck compositions as women and children held captive. The reported six captives are depicted figures, not a census. Hand signs can also mark coup touching or trophy taking.",
+  "unknown": "Which figures or compositions repeat the specific tally is unresolved. Historical identities, homes, encounter places, destinations and later outcomes are unknown.",
+  "next_step": "Keep both original questions open. Distinguish full human-capture readings from other hand meanings, and resolve composition overlap before treating any branch as additive.",
+  "sources": [
+    "https://doi.org/10.5876/9781607326700.c003"
+  ],
+  "source_citations": [
+    "Keyser, James D. 2018. Warriors and Weapons: Late Prehistoric/Protohistoric–Period Warfare in Bear Gulch Rock Art. In Archaeological Perspectives on Warfare on the Great Plains, edited by Andrew J. Clark and Douglas B. Bamforth, pp.66–119. University Press of Colorado, Louisville. DOI:10.5876/9781607326700.c003. Research locus: KBG-L03; figure/panel 3.12a–d."
+  ]
+},
+{
+  "id": "ledger-c2d91066a0cfe8cb337c",
+  "name": "Burial 25 and its unknown effect on home use",
+  "place_and_era": "Buckeye Knoll, near Victoria, Texas. Ricklis places Burial 25 in the Late Archaic, later than the main early cemetery. No exact death date is set.",
+  "attested": "Ricklis reports a dart point in the right shoulder blade of the person in Burial 25. He treats it as a projectile-caused death. This burial is later than the main early cemetery.",
+  "unknown": "The article does not identify an attacker or describe an attack on homes. It does not say whether this injury led anyone to leave or lose access to land.",
+  "next_step": "Ask what happened around this injury and whether it changed anyone’s use of a home or land. Do not extend it to the early cemetery.",
+  "sources": [
+    "https://texashistory.unt.edu/ark:/67531/metapth1013922/m2/1/high_res_d/Vol._82_2011.pdf"
+  ],
+  "source_citations": [
+    "Robert A. Ricklis, “New Perspectives on the Archaic of the Texas Coastal Plain: The Buckeye Knoll Site (41VT98) on the Lower Guadalupe River near Victoria, Texas”, Bulletin of the Texas Archeological Society 82 (2011), pp. 31–76. Burial 25 stratigraphy p.35 and projectile injury contrast p.46."
+  ]
+},
+{
+  "id": "ledger-d081c15f6fbe57788b53",
+  "name": "Bear Gulch tally: interpreted captive control",
+  "place_and_era": "Bear Gulch is the art location. Keyser describes the tally as pre-horse/pre-gun Protohistoric; the historical encounter place and date are unknown.",
+  "attested": "Keyser reads two female figures beneath a bow-spear in one Bear Gulch tally as captive women under control. The figure count is not a census, and repeated weapons do not count separate captures.",
+  "unknown": "Their home community, encounter place, route, destination and later fate are unknown. The tally may record several actions, and its captive imagery may overlap the broader V-neck set.",
+  "next_step": "Retain the narrow captive-control question and the minimum constraint on remaining or leaving inferred by the atlas assessment. Keep the V-neck overlap unresolved; do not infer home eviction or add the depicted figures.",
+  "sources": [
+    "https://doi.org/10.5876/9781607326700.c003"
+  ],
+  "source_citations": [
+    "Keyser, James D. 2018. Warriors and Weapons: Late Prehistoric/Protohistoric–Period Warfare in Bear Gulch Rock Art. In Archaeological Perspectives on Warfare on the Great Plains, edited by Andrew J. Clark and Douglas B. Bamforth, pp.66–119. University Press of Colorado, Louisville. DOI:10.5876/9781607326700.c003. Research locus: KBG-L02; figure/panel 3.10a."
+  ]
+},
+{
+  "id": "ledger-d34011460162f44d0f7b",
+  "name": "Isolated camp attacks: process boundary unresolved",
+  "place_and_era": "Keyser transmits comparative camp-attack accounts. Historical camp and encounter geography and dates are not assigned.",
+  "attested": "Keyser transmits reports of attacks on isolated camps. the atlas assessment infers physical pressure on occupied camp use; which attacks belong to a bounded process remains unresolved.",
+  "unknown": "The process boundary, association among attacks and tactical accounts, and extent of camp-use interruption are unresolved. Evacuation, later control and permanent loss are not established.",
+  "next_step": "Identify an already attested boundary or a precise source-clause attribution for the reported camp attacks. Do not invent camp episodes or join them to rout and withdrawal accounts.",
+  "sources": [
+    "https://doi.org/10.5876/9781607326700.c003"
+  ],
+  "source_citations": [
+    "Keyser, James D. 2018. Warriors and Weapons: Late Prehistoric/Protohistoric–Period Warfare in Bear Gulch Rock Art. In Archaeological Perspectives on Warfare on the Great Plains, edited by Andrew J. Clark and Douglas B. Bamforth, pp.66–119. University Press of Colorado, Louisville. DOI:10.5876/9781607326700.c003. Research locus: KBG-L06."
+  ]
+},
+{
+  "id": "ledger-e887d08217c42c8d73ab",
+  "name": "No Water panel: interpreted human capture",
+  "place_and_era": "No Water is the art location. Keyser captions panel 3.19e as Prehistoric; the represented encounter place and exact date are unknown.",
+  "attested": "Keyser identifies panel 3.19e at No Water as capture of a woman. Neighboring panels show weapon taking and supply no extra human-capture event.",
+  "unknown": "The captive and captor communities, encounter location, prior home, destination and later fate are unknown. A distinct art panel or site does not establish historical independence.",
+  "next_step": "Retain the source-qualified human-capture question and the minimum location constraint inferred by the atlas assessment. Keep weapon taking, historical overlap and unknown residential history distinct.",
+  "sources": [
+    "https://doi.org/10.5876/9781607326700.c003"
+  ],
+  "source_citations": [
+    "Keyser, James D. 2018. Warriors and Weapons: Late Prehistoric/Protohistoric–Period Warfare in Bear Gulch Rock Art. In Archaeological Perspectives on Warfare on the Great Plains, edited by Andrew J. Clark and Douglas B. Bamforth, pp.66–119. University Press of Colorado, Louisville. DOI:10.5876/9781607326700.c003. Research locus: KBG-L04; figure/panel 3.19a–e."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -9806,5 +9918,5 @@
     }
   ],
   "updated_on": "2026-10-31",
-  "update_scope": "Seven research notes: six on Lhota history and one on Fay Tolton."
+  "update_scope": "Eight research notes: six from Keyser and two on Buckeye Knoll."
 }
