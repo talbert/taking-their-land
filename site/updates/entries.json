@@ -2240,5 +2240,31 @@
   ],
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "north-america-south-asia-research-notes-r58",
+  "title": "New notes from North America and South Asia",
+  "occurred_at": "2026-10-31T02:36:18.595610Z",
+  "published_at": "2026-10-31T03:01:33.206196Z",
+  "paragraphs": [
+    "The research list adds 12 notes from western Canada, the Arctic, Assam and Bangladesh.",
+    "Six notes concern Barkley Sound. They separate land seizure, an attack and a later peaceful merger. The group that received survivors was not the group that attacked them.",
+    "One note traces old settlements near Sri Surya Pahar in Assam. Another covers early camps on Bathurst Island. Settlement traces and gaps in use do not establish why people left.",
+    "Four notes concern Bangladesh. They distinguish home demolition, an eviction that officials stopped, an attack with unclear land effects and damage to betel trees.",
+    "The search log adds four partial efforts. None completes a search channel. Each note states what is supported and what remains unknown. Some cited works and local records remain unread.",
+    "These notes add no playable cases. The atlas stays at 540 cases and 552 stops. Its maps and frozen statistical release are unchanged."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }

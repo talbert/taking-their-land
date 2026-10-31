@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261030-r57-russian-north-source-notes",
+  "version": "20261030-r58-north-america-south-asia-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -8024,6 +8024,176 @@
   "source_citations": [
     "Nikolai Vakhtin, Native Peoples of the Russian Far North (Minority Rights Group, August 1992), printed17 / physical18, Chauvinism. One report; the cited original works remain unread."
   ]
+},
+{
+  "id": "ledger-17f707bb178d3634f3b5",
+  "name": "Land loss at Huumuuwaa",
+  "place_and_era": "The Broken Group Islands in Barkley Sound. The article places the loss in the late eighteenth century.",
+  "attested": "The article reports that Hach'aa7ath took land by force. This land was part of Maktl7ii7ath territory. It included Huumuuwaa.",
+  "unknown": "The fate of the residents is unclear. The article gives no exact year or full extent of the lost land.",
+  "next_step": "Trace who lost control of this land and what happened to its residents. Keep the links to the attack and merger clear.",
+  "sources": [
+    "https://ojs.library.ubc.ca/index.php/bcstudies/article/download/186162/185705/199217"
+  ],
+  "source_citations": [
+    "Iain McKechnie, “Indigenous Oral History and Settlement Archaeology in Barkley Sound, Western Vancouver Island,” BC Studies 187 (Autumn 2015), 193–228, printed 208 / physical 16, paragraph on the northern boundary and violent seizure; Figure 1, printed 198 / physical 6, is dependent territorial context. One article family; cited originals remain unread."
+  ]
+},
+{
+  "id": "ledger-2277f02e8f259ae8295c",
+  "name": "Houses on Dicebox Island",
+  "place_and_era": "Dicebox Island in Barkley Sound. The article places four houses in AD 1430 to 1450. These are estimates from dated remains. The supplement gives AD 1440 to 1460.",
+  "attested": "The article dates a group of houses built at about the same time. It describes the high site as a place for defence. It also describes the lower village and later use.",
+  "unknown": "These traces do not establish a known attack, eviction or forced move. The two date ranges differ. The cause of the house construction is unclear.",
+  "next_step": "Trace the site and its residents. Keep house construction distinct from any loss of homes. Retain both date ranges.",
+  "sources": [
+    "https://ojs.library.ubc.ca/index.php/bcstudies/article/download/186162/185705/199217",
+    "https://ojs.library.ubc.ca/index.php/bcstudies/article/download/186162/187554"
+  ],
+  "source_citations": [
+    "Iain McKechnie, “Indigenous Oral History and Settlement Archaeology in Barkley Sound, Western Vancouver Island,” BC Studies 187 (Autumn 2015), 193–228, printed 212–216 / physical 20–24, upper and lower Huts’atswilh; Figures 9–11, especially final text at printed 214 / physical 22. One article family; cited originals remain unread.",
+    "Publisher additional file “Figures” associated with BC Studies 187 article 186162 (DOCX), Associated DOCX “Figures,” Figure 11 caption and embedded upper Huts’atswilh chart; no stable printed/physical PDF page locator. One article family; cited originals remain unread."
+  ]
+},
+{
+  "id": "ledger-394fe83a7321fca7d87f",
+  "name": "Early camps on northern Bathurst Island",
+  "place_and_era": "Arctic Canada. The report suggests early camps from about 2500 to 1500 BCE. The dates rest on camp form and height above the coast.",
+  "attested": "The survey found small camps, hearths and caches. Their style and height link them to several periods of past land use.",
+  "unknown": "The finds do not show an attack or forced exit. Gaps between periods of use do not tell us why people left.",
+  "next_step": "Check the dates and causes of local gaps in land use. The wider Thule expansion has its own atlas case.",
+  "sources": [
+    "https://parks.canada.ca/pn-np/cnpn-cnnp/qausuittuq/~/media/3a5c1dd844cd455a93bcc49782cac63f.ashx"
+  ],
+  "source_citations": [
+    "Robert McGhee, North Bathurst Island Archaeological Project: Final Report, Canadian Museum of Civilization, prepared for Parks Canada (31 January 1997), title and pp. 1-23."
+  ]
+},
+{
+  "id": "ledger-42a7a7745e299cabb7a9",
+  "name": "Settlement traces near Sri Surya Pahar",
+  "place_and_era": "Near Sri Surya Pahar in Assam, India. The author gives rough dates from the sixth to twelfth centuries for some remains. Many dates are uncertain.",
+  "attested": "A field survey found old walls, wells and signs of settlement. Residents also reported finds. People moved or reused some objects.",
+  "unknown": "The survey does not show forced departure or land loss. The dates and links between many remains are unclear.",
+  "next_step": "Check the history of each place and its former residents. Keep river damage and recent construction separate from evidence of forced land loss.",
+  "sources": [
+    "https://www.ancient-asia-journal.com/article/10.5334/aa.116"
+  ],
+  "source_citations": [
+    "Bratatee Barman, Ancient Asia8:4 (2017), pp.1–11. Settlement survey, provisional dates and source limits."
+  ]
+},
+{
+  "id": "ledger-454ff1d42292a5469b1a",
+  "name": "Defeat and later homes",
+  "place_and_era": "Barkley Sound. The defeat follows the earlier land loss and merger in the account. A later account describes homes in the nineteenth century.",
+  "attested": "The article reports that an alliance defeated Hach'aa7ath. The group lost its own rule. A later account names Hachaa people at Huumuuwaa. It calls the place their land.",
+  "unknown": "How the defeat changed land control or homes is unclear. Loss of self-rule does not prove that the people died out.",
+  "next_step": "Trace the defeat and later residents together. Find out how land control and homes changed.",
+  "sources": [
+    "https://ojs.library.ubc.ca/index.php/bcstudies/article/download/186162/185705/199217"
+  ],
+  "source_citations": [
+    "Iain McKechnie, “Indigenous Oral History and Settlement Archaeology in Barkley Sound, Western Vancouver Island,” BC Studies 187 (Autumn 2015), 193–228, printed 208 and 217–218 / physical 16 and 25–26, coalition defeat and later Hachaa residence at Huumuuwaa. One article family; cited originals remain unread."
+  ]
+},
+{
+  "id": "ledger-5ce840927facde393434",
+  "name": "An attack destroyed betel trees used by Khasi growers",
+  "place_and_era": "This took place at Lama Punji in Bangladesh. The report gives the date as 28 July 2025.",
+  "attested": "The report says attackers destroyed betel trees used by Khasi growers. Residents said the aim was to make them leave.",
+  "unknown": "Who did it is unknown. The extent and duration of lost use remain unclear. A forced exit is not established.",
+  "next_step": "Check the loss of use of this plot. Keep that apart from the claim that the attackers meant to force people out.",
+  "sources": [
+    "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"
+  ],
+  "source_citations": [
+    "Pallab Chakma and Bablu Chakma, “Bangladesh”, The Indigenous World 2026, ed. Dwayne Mamo, IWGIA, printed/physical pp. 153–162. Country text pp. 156–157; note 21, p. 161."
+  ]
+},
+{
+  "id": "ledger-7ae0f66561bed24288d9",
+  "name": "Officials stopped an eviction while they checked a land claim",
+  "place_and_era": "This took place at Mollapara in Bangladesh. The report dates the threat to September 2025.",
+  "attested": "The report says Paharia families faced an eviction threat. Officials stopped the eviction while they checked the land claim.",
+  "unknown": "The report does not say what the review found. Any later loss of homes or use of the land is unknown.",
+  "next_step": "Check the land dispute and whether the halt still protects these homes.",
+  "sources": [
+    "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"
+  ],
+  "source_citations": [
+    "Pallab Chakma and Bablu Chakma, “Bangladesh”, The Indigenous World 2026, ed. Dwayne Mamo, IWGIA, printed/physical pp. 153–162. Country text p. 156; note 19, p. 161."
+  ]
+},
+{
+  "id": "ledger-7dbcdf82d5fb568cd49a",
+  "name": "Kol families lost their homes after a court order",
+  "place_and_era": "This took place at Babudaing in Bangladesh. The report gives the date as 28 October 2025.",
+  "attested": "The report says a court order led to home demolition. Five Kol families then took shelter in a bamboo grove.",
+  "unknown": "The land title and notice are not verified. The court order and local report remain unread. Where these families lived later is unknown.",
+  "next_step": "Check the order, the land claims and what happened to these families.",
+  "sources": [
+    "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"
+  ],
+  "source_citations": [
+    "Pallab Chakma and Bablu Chakma, “Bangladesh”, The Indigenous World 2026, ed. Dwayne Mamo, IWGIA, printed/physical pp. 153–162. Country text p. 156; notes 17–18, p. 161."
+  ]
+},
+{
+  "id": "ledger-8256ec7ff6786066d911",
+  "name": "An attack and a peaceful merger",
+  "place_and_era": "The Broken Group Islands in Barkley Sound. The article places this sequence around the late eighteenth century.",
+  "attested": "Hach'aa7ath attacked Maktl7ii7ath, the article reports. Survivors chose a peaceful merger with Ts'ishaa7ath. Their chiefs ceded ownership of their territory. They kept some stated rights.",
+  "unknown": "The account does not settle the effects on homes. The exact sequence and its link to the reported land loss remain unclear.",
+  "next_step": "Trace the attack, merger and change in land rights together. Keep the attacker distinct from the group that accepted the merger.",
+  "sources": [
+    "https://ojs.library.ubc.ca/index.php/bcstudies/article/download/186162/185705/199217"
+  ],
+  "source_citations": [
+    "Iain McKechnie, “Indigenous Oral History and Settlement Archaeology in Barkley Sound, Western Vancouver Island,” BC Studies 187 (Autumn 2015), 193–228, printed 207 and 217 / physical 15 and 25, Maktl7ii7ath defeat, chosen peaceful merger, territorial cession and retained rights. One article family; cited originals remain unread."
+  ]
+},
+{
+  "id": "ledger-cc44baf97b8622450a7a",
+  "name": "Moves after war, and return",
+  "place_and_era": "Hiikwis, Huumuuwaa and other villages in Barkley Sound. The account concerns the nineteenth century, after a long war.",
+  "attested": "The article describes seasonal moves after war. People stayed together for safety. A later part of the same account describes returns to former villages.",
+  "unknown": "The account does not establish an eviction, blocked return or permanent loss of homes. The effect on each household is unclear.",
+  "next_step": "Trace the moves and later returns together. Keep their seasonal nature and the reasons for safety clear.",
+  "sources": [
+    "https://ojs.library.ubc.ca/index.php/bcstudies/article/download/186162/185705/199217"
+  ],
+  "source_citations": [
+    "Iain McKechnie, “Indigenous Oral History and Settlement Archaeology in Barkley Sound, Western Vancouver Island,” BC Studies 187 (Autumn 2015), 193–228, printed 217–218 / physical 25–26, Long War context and two linked life-stage recollections of collective movement and later seasonal dispersal. One article family; cited originals remain unread."
+  ]
+},
+{
+  "id": "ledger-d3faf91120428155d1c7",
+  "name": "Early villages and later changes",
+  "place_and_era": "Maktl7ii and Huumuuwaa in the Broken Group Islands. The article traces ancient villages. It also describes later changes in medieval and early modern times.",
+  "attested": "The article places Maktl7ii before Huumuuwaa in the village sequence. This fits the order in local accounts. It also describes growth, smaller occupied areas and continued use.",
+  "unknown": "The origins of the residents and later moves remain open questions. Dates and changes in deposits do not prove force or loss of homes.",
+  "next_step": "Trace the residents of each place separately. Keep the older village changes distinct from the later land loss.",
+  "sources": [
+    "https://ojs.library.ubc.ca/index.php/bcstudies/article/download/186162/185705/199217"
+  ],
+  "source_citations": [
+    "Iain McKechnie, “Indigenous Oral History and Settlement Archaeology in Barkley Sound, Western Vancouver Island,” BC Studies 187 (Autumn 2015), 193–228, printed 205–212 and 216–217 / physical 13–20 and 24–25, local descent narratives and separate Maktl7ii/Huumuuwaa settlement sequences; Figures 7–8 at printed 210–211 / physical 18–19. One article family; cited originals remain unread."
+  ]
+},
+{
+  "id": "ledger-ece50a7d1a96a1ff12e8",
+  "name": "An attack on Santals at Gobindaganj",
+  "place_and_era": "This took place at Gobindaganj in Bangladesh. The report gives the date as 15 August 2025.",
+  "attested": "The report says a group it calls land grabbers attacked Santals. At least three people were injured.",
+  "unknown": "The exact plot and land use after the attack are unclear. The report does not say whether people lost their homes.",
+  "next_step": "Find the local account and check what changed for the people who used the land.",
+  "sources": [
+    "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"
+  ],
+  "source_citations": [
+    "Pallab Chakma and Bablu Chakma, “Bangladesh”, The Indigenous World 2026, ed. Dwayne Mamo, IWGIA, printed/physical pp. 153–162. Country text p. 156; note 20, p. 161."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -9537,6 +9707,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-30",
-  "update_scope": "Thirteen new source notes and two search-cell updates; no new playable cases."
+  "updated_on": "2026-10-31",
+  "update_scope": "12 source notes; partial search report; atlas and maps unchanged."
 }

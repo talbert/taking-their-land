@@ -42,30 +42,30 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "01235204485ed6db0003c18995865fdea01bfde4f544e22fabdda24a75f715b6",
+  "tree_sha256": "e3a0ea2c835637db2df415717187e8e6d4b83fcc63ebb07a8383f3f2b8e8ab43",
   "site_updates": {
     "schema": "taking-land-site-updates-v1",
-    "version": "20261030-r57-russian-north-source-notes",
-    "entries": 92,
+    "version": "20261030-r58-north-america-south-asia-notes",
+    "entries": 93,
     "source": "updates/entries.json",
-    "source_sha256": "4e04fe6623d557f24460bf1e77007631f6145fac2e2b834c645dc557c35d242b",
+    "source_sha256": "689b87035333782f885ae23e498380b065b080f698ccb1de603f19e02506389b",
     "feed": "updates/feed.xml",
-    "feed_sha256": "c0d8b50ee233a6e46903de3434f68ca4c5f269b75fa6e59d2ab3d0b3a632bfa8",
+    "feed_sha256": "43fb24337e21d9743ea378b82496b73c0bbf76abf407d3217b339d2e604bbacb",
     "discovery_list": {
       "schema": "discovery-list-binding-v1",
-      "version": "20261030-r57-russian-north-source-notes",
+      "version": "20261030-r58-north-america-south-asia-notes",
       "reviewed_on": "2026-10-17",
-      "ledger_sha256": "e6f3af989a64da47f908d6b2da228e779c7892af14d4a5e3c41847e65c3fbb1f",
-      "editorial_sha256": "bbe80425729c87d83ac7584ba68f6328bc9441f6815ad9755cecca4b0d8e2e04",
+      "ledger_sha256": "43805db40af9c85ece016fe0504041a9f3696a1238efea2245723add5b22efc5",
+      "editorial_sha256": "5bf7b3466fb5769f6b1120fec6ba0ef1f45ab3b8d603388f37cbc8c46ee3f3c9",
       "page": "discovery/known/index.html",
-      "page_sha256": "ee2e1de3cab4940a20b3210eccd74833dc2fdb49f922999d3e6cde931f2fafc3",
+      "page_sha256": "f9d6e54e3fdd1ce96f95eaa0feaaca5be070bbb81c7502f81b7f41d2e7b11569",
       "data": "discovery/known/entries.json",
-      "data_sha256": "02bdc69f56fde48de6b24c12b5254648c4cda554609745039d5fab4a6cbfac24",
-      "updated_on": "2026-10-30",
-      "update_scope": "Thirteen new source notes and two search-cell updates; no new playable cases.",
-      "entries": 640
+      "data_sha256": "f9667febeaaac19c884cf279e415a3744e6f06251b48d1a5fa3cc865119e1cf4",
+      "updated_on": "2026-10-31",
+      "update_scope": "12 source notes; partial search report; atlas and maps unchanged.",
+      "entries": 652
     },
-    "discovery_report": {"version": "r57-source646-science129", "index": "discovery/index.html", "index_sha256": "8b09d1c838882b7edbbbb5a1601ee709b942f6e820468532c22ed92836d42afd", "data": "discovery/report.json", "data_sha256": "15e590549edadca5dbd02d13f31491550d7f855e8e3e91592288a56784ea0f5d", "runtime_scope": "Source notes and current research counts are updated. The atlas retains its 540 cases and 552 stops. Maps and data files keep their prior release. Dates in the older report tables keep their own scope."},
+    "discovery_report": {"version": "r58-source658-science130", "index": "discovery/index.html", "index_sha256": "28778e83758c29574de740a8f6441e822d7f5c0b33501c3fda5ab6701920174d", "data": "discovery/report.json", "data_sha256": "bb54df8d7c3b10326a0f3d27385d90a8b27dd7598e06be2ab982c7d0ac5e1994", "runtime_scope": "Source notes and current research counts are updated. The atlas retains its 540 cases and 552 stops. Maps and data files keep their prior release. Dates in the older report tables keep their own scope."},
     "citation_scope": {
       "concept_DOI": "10.5281/zenodo.23410511",
       "issued_version_DOI": "10.5281/zenodo.23410512",
@@ -79,7 +79,7 @@
       "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
     }
   },
-  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r57-source646-science129", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "8b09d1c838882b7edbbbb5a1601ee709b942f6e820468532c22ed92836d42afd", "report": "discovery/report.json", "report_sha256": "15e590549edadca5dbd02d13f31491550d7f855e8e3e91592288a56784ea0f5d"},
+  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r58-source658-science130", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "28778e83758c29574de740a8f6441e822d7f5c0b33501c3fda5ab6701920174d", "report": "discovery/report.json", "report_sha256": "bb54df8d7c3b10326a0f3d27385d90a8b27dd7598e06be2ab982c7d0ac5e1994"},
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
@@ -117,7 +117,7 @@
     ]
   },
   "incoming_flight_notes": 22,
-  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 50, "holds": 64, "research_records": 646, "inactive_scientific_memberships": 129, "scientific_activations": 0, "discovery_report": "r57-source646-science129", "packaged_atlas_and_data_unchanged": true},
+  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 50, "holds": 64, "research_records": 658, "inactive_scientific_memberships": 130, "scientific_activations": 0, "discovery_report": "r58-source658-science130", "packaged_atlas_and_data_unchanged": true},
   "license_notice_source": "reuse/LICENSE.md",
   "preserved_download_notice": {
     "path": "data/LICENSE.md",
