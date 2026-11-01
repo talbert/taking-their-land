@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261031-r61-pallava-notes",
+  "version": "20261101-r62-deccan-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -8460,6 +8460,118 @@
   "source_citations": [
     "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan; English translation by V. S. Swaminadha Dikshitar. Chapter III, The Pallavas. Printed 47–57 / physical 51–61."
   ]
+},
+{
+  "id": "ledger-05f50500c4c50d8b8768",
+  "name": "A battle ally and his reported death",
+  "place_and_era": "Eran names the inscription account used here. It does not fix the battle or death site.",
+  "attested": "The book reports Goparaja's alliance in a battle and his death. The account is tied to an Eran inscription.",
+  "unknown": "The genealogy does not prove he ruled Sarabha. His death does not by itself show a conquest, a civilian toll or a forced departure.",
+  "next_step": "Assess any bounded change in land control or residence.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 76 and 78; PDF pp. 80 and 82."
+  ]
+},
+{
+  "id": "ledger-07b68b17108be32f4c96",
+  "name": "Possession of the Western Satrap kingdom",
+  "place_and_era": "The Western Satrap kingdom, as named in the book. Its exact bounds remain open.",
+  "attested": "The book reports Chandragupta II's possession of this kingdom. It uses that claim to date a marriage.",
+  "unknown": "The book does not show how control was gained. A change of ruler does not show a change of population. This is distinct from the earlier Gautamiputra question.",
+  "next_step": "Assess how control was gained and what land it covered.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 73; PDF pp. 77."
+  ]
+},
+{
+  "id": "ledger-164893e2ea90e3ad2a11",
+  "name": "A proposed installation of a ruler at Vengi",
+  "place_and_era": "Vengi is the proposed seat of rule. The date of the proposed change remains uncertain.",
+  "attested": "The author proposes that Madhavavarman I was set up to rule Vengi. He uses a legend and marriages. He also makes a case about territory.",
+  "unknown": "The printed names of the princess do not agree. The imposed change in control is still a question. A mass move of people is not shown.",
+  "next_step": "Assess the proposed change in rule and land control.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 74; PDF pp. 78."
+  ]
+},
+{
+  "id": "ledger-2dcb23d504c6c6eca77b",
+  "name": "Claims of expansion across seven regions",
+  "place_and_era": "The book names Kuntala, Avanti and Kalinga. It also names Kosala, Trikuta, Lata and Andhra. Their bounds and event dates remain uncertain.",
+  "attested": "The book links claims for Harishena to an Ajanta record. It lists seven regions. The author also proposes probable campaigns.",
+  "unknown": "Seven regions do not mean seven separate events. The printed names Harivarman and Harishena differ. A gap in later records does not prove the Traikutas were destroyed.",
+  "next_step": "Assess which claims support a bounded change in land control.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 76; PDF pp. 80."
+  ]
+},
+{
+  "id": "ledger-4c159790496f6a293a10",
+  "name": "Later possession and a proposed change of ruling house",
+  "place_and_era": "The book describes land between Nasik and Ujjain. The date of the proposed change remains uncertain.",
+  "attested": "The book states that the Kalachuris later held this land. It proposes that they replaced the Vakatakas around the middle of the sixth century.",
+  "unknown": "Possession and the proposed replacement are distinct claims. A change of ruling house does not show a mass arrival or expulsion. Bounds and effects remain open.",
+  "next_step": "Assess the reported rule and any change in it.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 76; PDF pp. 80."
+  ]
+},
+{
+  "id": "ledger-b7718e3352eeff5c4fe8",
+  "name": "Reports of honored royal commands",
+  "place_and_era": "Kosala, Mekala and Malava are named in the book. No fixed land bounds or event date is set here.",
+  "attested": "The book says the lords of those regions honored Narendrasena's commands. This is a positive claim of royal power.",
+  "unknown": "The words do not list conquests or forced moves. They do not prove one shared event. The author's view of a lost throne is context here. It does not by itself show an expulsion.",
+  "next_step": "Assess what the words show about bounded control of land.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 75; PDF pp. 79."
+  ]
+},
+{
+  "id": "ledger-eff381364f9edc65a17d",
+  "name": "A temple grant with the asset unknown",
+  "place_and_era": "The book cites the Undivatika plates. It does not fix the place affected by the grant.",
+  "attested": "The book reports a grant to a temple. This paragraph does not say that the gift was land.",
+  "unknown": "The asset and its effect on prior users remain unknown. No other grant can fill that gap. The author's rough capital coordinates do not fix this grant's site.",
+  "next_step": "Identify the gift and any change in land use or control.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 77; PDF pp. 81."
+  ]
+},
+{
+  "id": "ledger-f8ca8c63dac05022092a",
+  "name": "A queen's land grant",
+  "place_and_era": "The book covers the Central Deccan. It places the grant when Divakarasena was a minor. The tract and event year are not set here.",
+  "attested": "The book reports that Queen Prabhavati gave land. It cites Pathak's plates.",
+  "unknown": "The tract, recipient, prior use and effects of the grant remain open. This is still a positive report of a land grant.",
+  "next_step": "Assess the grant and any change in land control or use.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 73; PDF pp. 77."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -9974,5 +10086,5 @@
     }
   ],
   "updated_on": "2026-11-01",
-  "update_scope": "Four research notes from a chapter on early Pallava history."
+  "update_scope": "Eight research notes from Deccan history"
 }

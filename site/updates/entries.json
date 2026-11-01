@@ -2345,5 +2345,34 @@
   ],
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "deccan-eight-research-notes-r62",
+  "title": "Eight research notes from Deccan history",
+  "occurred_at": "2026-11-01T05:39:20.116188Z",
+  "published_at": "2026-11-01T06:38:15.820373Z",
+  "paragraphs": [
+    "The research list adds eight notes from a chapter on the Deccan.",
+    "One note concerns a queen's land grant. Another concerns a temple gift whose asset is unknown.",
+    "Other notes concern rule over land and claims of expansion. One concerns a proposed change of rule at Vengi. Another concerns a battle ally's reported death.",
+    "The book places an inscription at Eran. The place of the battle remains unknown.",
+    "These notes use one consulted book. Its citations alone do not add independent witnesses.",
+    "The list now has 679 source notes. The atlas remains at 540 cases and 552 stops.",
+    "The report now lists 133 inactive scientific records. The frozen 676-event release is unchanged.",
+    "These leads add no playable cases or completed search cells.",
+    "AI drafted this update from the project records. Craig set the direction."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }
