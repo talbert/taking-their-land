@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261101-r62-deccan-notes",
+  "version": "20261101-r63-two-new-four-revised",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -7145,14 +7145,14 @@
   "id": "ledger-ec5faec7c30263975444",
   "name": "The king Buddharaja flees.",
   "place_and_era": "The book names Buddharaja. The land he left and his refuge are not clear. The date is not set.",
-  "attested": "The book says Mangalesa put a king to flight. It names him as Buddharaja.",
-  "unknown": "His route and later home are unknown. The effect of the flight on land control is not clear.",
-  "next_step": "Assess the forced flight and its land effects. Keep it apart from the death and island seizure.",
+  "attested": "The book says Mangalesa put a king to flight. It names him as Buddharaja. Chapter V reports that Mangalesa defeated Buddharaja before 601 AD. It also reports Buddharaja ruling at Vidisa in 609 AD and Anandapura in 610 AD.",
+  "unknown": "His route and later home are unknown. The effect of the flight on land control is not clear. Those later authority reports do not prove permanent removal or return. The defeat and forced flight are not established as one episode. The dates remain the book's reports, not an assigned event year.",
+  "next_step": "Assess the forced flight and its land effects. Keep it apart from the death and island seizure. Assess how the defeat, flight and later authority relate without merging them.",
   "sources": [
     "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
   ],
   "source_citations": [
-    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 112, 113 (physical PDF pp. 116, 117)."
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 112, 113 (physical PDF pp. 116, 117). | G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter V, The dynasties of Western Deccan. Printed p. 82; PDF p. 86."
   ]
 },
 {
@@ -7447,15 +7447,15 @@
   "id": "ledger-0a8b6510865e3a523de4",
   "name": "Lata, Malava and Gurjara submission claims",
   "place_and_era": "The verse names these three groups. No event year or tract boundary is set.",
-  "attested": "The verse describes submission. Its note calls their submission voluntary and contrasts force used against others.",
-  "unknown": "A dispute about the text affects that contrast. Force or loss of rights cannot be assigned to all three from the comparison.",
-  "next_step": "Keep the disputed sense visible. Assess each bounded outcome before you define a case.",
+  "attested": "The verse describes submission. Its note calls their submission voluntary and contrasts force used against others. Chapter V says Pulakesin II vanquished Lata, Gujarat and Malwa.",
+  "unknown": "A dispute about the text affects that contrast. Force or loss of rights cannot be assigned to all three from the comparison. That stronger book summary does not resolve the dispute about voluntary and forced submission. The summaries use different names: Gujarat and Gurjara.",
+  "next_step": "Keep the disputed sense visible. Assess each bounded outcome before you define a case. Keep both attributions and the number of episodes open.",
   "sources": [
     "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf",
     "https://dharmalekha.info/texts/INSBadamiCalukya00005"
   ],
   "source_citations": [
-    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118).",
+    "G. Jouveau-Dubreuil, Ancient History of the Deccan, translated by V. S. Swaminadha Dikshitar (1920), Chapter VII, printed pp. 113, 114 (physical PDF pp. 117, 118). | G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter V, The dynasties of Western Deccan. Printed p. 82; PDF p. 86.",
     "Dániel Balogh (digital editor), DHARMA, Aihole temple foundation of Ravikirti of the time of Pulakesin II; reproduced Kielhorn (1900–1901) English translation and notes, verse(s) 22."
   ]
 },
@@ -8507,28 +8507,28 @@
   "id": "ledger-2dcb23d504c6c6eca77b",
   "name": "Claims of expansion across seven regions",
   "place_and_era": "The book names Kuntala, Avanti and Kalinga. It also names Kosala, Trikuta, Lata and Andhra. Their bounds and event dates remain uncertain.",
-  "attested": "The book links claims for Harishena to an Ajanta record. It lists seven regions. The author also proposes probable campaigns.",
-  "unknown": "Seven regions do not mean seven separate events. The printed names Harivarman and Harishena differ. A gap in later records does not prove the Traikutas were destroyed.",
-  "next_step": "Assess which claims support a bounded change in land control.",
+  "attested": "The book links claims for Harishena to an Ajanta record. It lists seven regions. The author also proposes probable campaigns. Chapter V says Harishena conquered Traikuta.",
+  "unknown": "Seven regions do not mean seven separate events. The printed names Harivarman and Harishena differ. A gap in later records does not prove the Traikutas were destroyed. Taking or subordinating political control is the atlas assessment's minimum inference from that claim. This finding concerns Traikuta alone; its date, bounds and civilian effects remain open.",
+  "next_step": "Prepare the Traikuta assessment. Keep the other six claims as open research questions.",
   "sources": [
     "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
   ],
   "source_citations": [
-    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 76; PDF pp. 80."
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 76; PDF pp. 80. | G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter V, The dynasties of Western Deccan. Printed p. 81; PDF p. 85."
   ]
 },
 {
   "id": "ledger-4c159790496f6a293a10",
   "name": "Later possession and a proposed change of ruling house",
   "place_and_era": "The book describes land between Nasik and Ujjain. The date of the proposed change remains uncertain.",
-  "attested": "The book states that the Kalachuris later held this land. It proposes that they replaced the Vakatakas around the middle of the sixth century.",
-  "unknown": "Possession and the proposed replacement are distinct claims. A change of ruling house does not show a mass arrival or expulsion. Bounds and effects remain open.",
-  "next_step": "Assess the reported rule and any change in it.",
+  "attested": "The book states that the Kalachuris later held this land. It proposes that they replaced the Vakatakas around the middle of the sixth century. Chapter V names Ujjain as Samkaragana's capital and reports his rule over the Nasik region. It describes Nirihullaka as his subordinate chief in the lower Narbada valley.",
+  "unknown": "Possession and the proposed replacement are distinct claims. A change of ruling house does not show a mass arrival or expulsion. Bounds and effects remain open. These authority reports do not establish how that rule began or prove the proposed replacement.",
+  "next_step": "Assess the reported rule and any change in it. Keep the origin of that rule and the subordinate relation open.",
   "sources": [
     "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
   ],
   "source_citations": [
-    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 76; PDF pp. 80."
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 76; PDF pp. 80. | G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter V, The dynasties of Western Deccan. Printed p. 82; PDF p. 86."
   ]
 },
 {
@@ -8571,6 +8571,34 @@
   ],
   "source_citations": [
     "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter IV, The dynasties of Central Deccan. Printed pp. 73; PDF pp. 77."
+  ]
+},
+{
+  "id": "ledger-19e53113374b70482a14",
+  "name": "Rudrabhuti's reported donation",
+  "place_and_era": "The book cites a Western Kshatrapa inscription dated 181 AD / S. 103. No affected tract is named.",
+  "attested": "The book says General Rudrabhuti, an Abhira and son of General Bahaka, made a donation.",
+  "unknown": "The asset, recipient and effects are not stated here. A donation does not by itself establish a land grant or imposed loss.",
+  "next_step": "Assess what was given and any change in land control, use or residence.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter V, The dynasties of Western Deccan. Printed p. 80; PDF p. 84."
+  ]
+},
+{
+  "id": "ledger-fc9443369609f4c553be",
+  "name": "An Abhira ruler and a proposed kingdom",
+  "place_and_era": "The author proposes a kingdom in Kathiawar and the Nasik region in the mid-third century. Coin findspots are not population routes.",
+  "attested": "The book asks whether Isvarasena was the coin king Isvaradatta. It suggests that Isvarasena founded the dynasty.",
+  "unknown": "The ruler identity and a particular taking of control remain unresolved. No royal title for his father does not prove that the father was not king.",
+  "next_step": "Assess the ruler identification and whether the proposed formation involved a bounded taking of control.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan. English translation by V. S. Swaminadha Dikshitar. Chapter V, The dynasties of Western Deccan. Printed p. 80; PDF p. 84."
   ]
 }],
   "cases_awaiting_map_locations": [
@@ -10086,5 +10114,5 @@
     }
   ],
   "updated_on": "2026-11-01",
-  "update_scope": "Eight research notes from Deccan history"
+  "update_scope": "Two new notes and four revisions"
 }
