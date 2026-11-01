@@ -2318,5 +2318,32 @@
   ],
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "pallava-four-research-notes-r61",
+  "title": "Four research notes on early South Asia",
+  "occurred_at": "2026-10-31T23:32:33.490016Z",
+  "published_at": "2026-11-01T00:06:27.225147Z",
+  "paragraphs": [
+    "The research list adds four notes from a chapter on early Pallava history.",
+    "Two candidates concern conquests under Samudragupta and Simhavishnu. Two located leads concern a royal marriage and early records of orders and gifts.",
+    "The conquest notes report control over named land. The notes retain unknown effects on residents. A royal marriage does not establish mass arrival or forced marriage.",
+    "The notes share one book source. The references in that book do not count as separate witnesses.",
+    "The research list has 671 source notes. The atlas stays at 540 cases and 552 stops.",
+    "Some discovery fields remain incomplete. These notes add no playable cases or completed search cells.",
+    "AI drafted this update from the project records. Craig set the direction."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }

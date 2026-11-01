@@ -1,6 +1,6 @@
 {
   "schema": "public-discovery-list-v1",
-  "version": "20261031-r60-keyser-buckeye-notes",
+  "version": "20261031-r61-pallava-notes",
   "reviewed_on": "2026-10-14",
   "entries": [
   {
@@ -8404,6 +8404,62 @@
   "source_citations": [
     "Keyser, James D. 2018. Warriors and Weapons: Late Prehistoric/Protohistoric–Period Warfare in Bear Gulch Rock Art. In Archaeological Perspectives on Warfare on the Great Plains, edited by Andrew J. Clark and Douglas B. Bamforth, pp.66–119. University Press of Colorado, Louisville. DOI:10.5876/9781607326700.c003. Research locus: KBG-L04; figure/panel 3.19a–e."
   ]
+},
+{
+  "id": "ledger-57e48ae89d792e42ef93",
+  "name": "Simhavishnu and the Chola conquest",
+  "place_and_era": "The Chola kingdom and Kaveri banks, as the book describes them. Proposed dates remain estimates.",
+  "attested": "The book says Simhavishnu conquered the Chola kingdom and took possession of the Kaveri banks.",
+  "unknown": "The extent and duration of control remain unclear. Prior rights and resident fates remain unknown.",
+  "next_step": "Assess the reported transfer of control over the named land.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan; English translation by V. S. Swaminadha Dikshitar. Chapter III, The Pallavas. Printed 66–69 / physical 70–73."
+  ]
+},
+{
+  "id": "ledger-746f7dcbefb4969d925a",
+  "name": "Southern conquests under Samudragupta",
+  "place_and_era": "The author places the campaign in Southern Kosala and on the east coast. Its dates and route remain disputed.",
+  "attested": "The book reports conquest, the capture and release of kings, and later withdrawal. The author reconstructs the retreat and its cause.",
+  "unknown": "The extent and duration of control remain unknown. The chapter does not establish what happened to the residents.",
+  "next_step": "Assess the temporary control of named places and the relation between parts of the campaign.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan; English translation by V. S. Swaminadha Dikshitar. Chapter III, The Pallavas. Printed 58–61 / physical 62–65."
+  ]
+},
+{
+  "id": "ledger-a8aa92d813e1b01d8d15",
+  "name": "Early Pallava records of an order and gifts",
+  "place_and_era": "Dhannakada and the places named in three early Pallava records. Exact event dates remain unknown.",
+  "attested": "The book describes an order, a gift confirmation, and another grant. The author uses these records to study a royal family.",
+  "unknown": "The terms and land effects of each act remain unclear here. These notices do not establish one shared event.",
+  "next_step": "Examine what each order or gift changed for land and its users.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan; English translation by V. S. Swaminadha Dikshitar. Chapter III, The Pallavas. Printed 52–53 / physical 56–57."
+  ]
+},
+{
+  "id": "ledger-f5995bc874dfd542c6b6",
+  "name": "A royal marriage and rule at Kanchi",
+  "place_and_era": "Kanchi, in the account of early Pallava rule. Proposed dates remain uncertain.",
+  "attested": "Jouveau-Dubreuil interprets a royal marriage tradition as a path to rule at Kanchi. His argument concerns a royal family.",
+  "unknown": "This does not establish a mass arrival or a forced marriage. What changed for prior rulers and land users is unknown.",
+  "next_step": "Assess the reported accession and the prior control of land.",
+  "sources": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ancient_history_of_the_Deccan_(IA_ancienthistoryof00jouvrich).pdf"
+  ],
+  "source_citations": [
+    "G. Jouveau-Dubreuil (1920), Ancient History of the Deccan; English translation by V. S. Swaminadha Dikshitar. Chapter III, The Pallavas. Printed 47–57 / physical 51–61."
+  ]
 }],
   "cases_awaiting_map_locations": [
     {
@@ -9917,6 +9973,6 @@
       "case_url": "../../#case=am-mexico-yaqui-war-deportation"
     }
   ],
-  "updated_on": "2026-10-31",
-  "update_scope": "Eight research notes: six from Keyser and two on Buckeye Knoll."
+  "updated_on": "2026-11-01",
+  "update_scope": "Four research notes from a chapter on early Pallava history."
 }

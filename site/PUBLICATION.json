@@ -42,30 +42,30 @@
   "publishable_authoring": true,
   "publication_status": "data/PUBLICATION_STATUS.json",
   "deployment_status": "not_recorded_by_publication_builder",
-  "tree_sha256": "a9160e1467552d56f7dbddfc80134ab73a6e0ca1504a2b821d941f50004b400b",
+  "tree_sha256": "10227fab138c15063becb3193678d5874ed78b8daca88a0d558d3c7e6de38c22",
   "site_updates": {
     "schema": "taking-land-site-updates-v1",
-    "version": "20261031-r60-keyser-buckeye-notes",
-    "entries": 95,
+    "version": "20261031-r61-pallava-notes",
+    "entries": 96,
     "source": "updates/entries.json",
-    "source_sha256": "db621442f07529aeb0397c3d35f2f7038ea2ca6187774f8ed9ce1566a1fb7bec",
+    "source_sha256": "a4f3f92fdc25a45959c116604b9440fdaabba4e5377f7326d4a069890e6faa62",
     "feed": "updates/feed.xml",
-    "feed_sha256": "847043661b9a0b838fe7ea0250eefb3454b1de1768b0775b4746ba6f1c0505ec",
+    "feed_sha256": "96588db967539c4c03845f9c853738f762a91103208477bc2062c2cd05be8bb4",
     "discovery_list": {
       "schema": "discovery-list-binding-v1",
-      "version": "20261031-r60-keyser-buckeye-notes",
+      "version": "20261031-r61-pallava-notes",
       "reviewed_on": "2026-10-17",
-      "ledger_sha256": "e80d120f64cb34f282febee90e6badad3f30bf92fe5477fb2d0a5016929d615e",
-      "editorial_sha256": "04398c24555ff64f11ca78f9bdf0f0c333c23a72ffa2a8ae06006be2f488fb09",
+      "ledger_sha256": "e290923431051edb49e393fcd433131026370df07a6d3ea210d8e50688c64c2e",
+      "editorial_sha256": "1ea29cd316dcfa4b9cac7ce30e49007d9a5429fa5fdf0b8474ccabd3c24d3968",
       "page": "discovery/known/index.html",
-      "page_sha256": "c57c45469bfff94638aec7b76ef06b684a79185103a038cd49ce2aaed9be01c8",
+      "page_sha256": "150fd4df4c8fa3a946bd829764d99767ac2a973b7947de8eefbb5d0fedf9cd34",
       "data": "discovery/known/entries.json",
-      "data_sha256": "6aec43921c8217ea7e1cbf4aee799255b03472de8106dc158b534655b3edaf13",
-      "updated_on": "2026-10-31",
-      "update_scope": "Eight research notes: six from Keyser and two on Buckeye Knoll.",
-      "entries": 667
+      "data_sha256": "37dc22ddd330fb37ae9d004dfb764981020d766aa3dcbd84cb144e7075dcacee",
+      "updated_on": "2026-11-01",
+      "update_scope": "Four research notes from a chapter on early Pallava history.",
+      "entries": 671
     },
-    "discovery_report": {"version": "r60-source673-science132", "index": "discovery/index.html", "index_sha256": "6e454ad59da36a95a31b09e145b0cd40236a81c7af9540a8e73096e138a5ec7a", "data": "discovery/report.json", "data_sha256": "eefbe884351e2a9644f881e78f7b1941c60ba212f30a939da59fdb6bc57f43cb", "runtime_scope": "Source notes and current research counts are updated. The atlas retains its 540 cases and 552 stops. Maps and data files keep their prior release. Dates in the older report tables keep their own scope."},
+    "discovery_report": {"version": "r61-source677-science132", "index": "discovery/index.html", "index_sha256": "da229e05f089a570057b3e66f163720802617c8eb3b8cb91a52152cf58d6555e", "data": "discovery/report.json", "data_sha256": "4e896e85fe6dca982138b60bbcef8359be3a72d7a2fd1cb51067fb0314d4a8d0", "runtime_scope": "Source notes and current research counts are updated. The atlas retains its 540 cases and 552 stops. Maps and data files keep their prior release. Dates in the older report tables keep their own scope."},
     "citation_scope": {
       "concept_DOI": "10.5281/zenodo.23410511",
       "issued_version_DOI": "10.5281/zenodo.23410512",
@@ -79,7 +79,7 @@
       "sha256": "c3c138cf342357515fbe77337dd587fb5bf7f438033aa961e776f403f65be5d5"
     }
   },
-  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r60-source673-science132", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "6e454ad59da36a95a31b09e145b0cd40236a81c7af9540a8e73096e138a5ec7a", "report": "discovery/report.json", "report_sha256": "eefbe884351e2a9644f881e78f7b1941c60ba212f30a939da59fdb6bc57f43cb"},
+  "discovery_status": {"schema": "taking-land-public-discovery-status-delivery-v1", "version": "r61-source677-science132", "status": "dated_bounded_search_report", "index": "discovery/index.html", "index_sha256": "da229e05f089a570057b3e66f163720802617c8eb3b8cb91a52152cf58d6555e", "report": "discovery/report.json", "report_sha256": "4e896e85fe6dca982138b60bbcef8359be3a72d7a2fd1cb51067fb0314d4a8d0"},
   "bibliography_metadata_status": {
     "schema": "bibliography_exact_metadata_status_counts_v1",
     "source": "bibliography/current/typed_metadata.json",
@@ -117,7 +117,7 @@
     ]
   },
   "incoming_flight_notes": 22,
-  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 50, "holds": 64, "research_records": 673, "inactive_scientific_memberships": 132, "scientific_activations": 0, "discovery_report": "r60-source673-science132", "packaged_atlas_and_data_unchanged": true},
+  "publication_scope": {"active_statistical_release": "second_pass_v7_676", "frozen_statistical_events": 676, "current_atlas_cases": 540, "playback_stops": 552, "known_ordinary_remaining": 50, "holds": 64, "research_records": 677, "inactive_scientific_memberships": 132, "scientific_activations": 0, "discovery_report": "r61-source677-science132", "packaged_atlas_and_data_unchanged": true},
   "license_notice_source": "reuse/LICENSE.md",
   "preserved_download_notice": {
     "path": "data/LICENSE.md",
