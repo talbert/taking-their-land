@@ -2398,5 +2398,30 @@
   ],
   "kind": "Research",
   "backfilled": false
+},
+{
+  "id": "nine-new-notes-three-revisions-r64",
+  "title": "Nine new notes and three changes",
+  "occurred_at": "2026-11-01T23:28:54.040350Z",
+  "published_at": "2026-11-02T00:36:41.870834Z",
+  "paragraphs": [
+    "We added nine research notes and changed three notes.",
+    "One new note is about departure from SunWatch village in Ohio. Seven new notes are about land and rule in the Deccan. One new note is about reported land loss in Yakutia.",
+    "The changed notes add source claims about rule and conquest in the Deccan. Each note has the source evidence and the open questions.",
+    "The research list now has 690 source notes. The atlas still has 540 cases and 552 playback stops. This update does not change the statistical release.",
+    "AI wrote this update from project records. Craig gave instructions."
+  ],
+  "links": [
+    {
+      "label": "Read the research notes",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/known/"
+    },
+    {
+      "label": "Read the search report",
+      "url": "https://latrian.dyndns.org/takingtheirland/discovery/"
+    }
+  ],
+  "kind": "Research",
+  "backfilled": false
 }]
 }
